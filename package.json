@@ -1,7 +1,7 @@
 {
   "name": "td-resources",
   "version": "1.0.0",
-  "homepage": "http://www.kavispires.com/td-resouces/",
+  "homepage": "http://www.kavispires.com/td-resources/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^6.4.8",
@@ -10,9 +10,11 @@
     "@types/node": "^20.14.12",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
+    "postcss-normalize": "^10.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "sass": "^1.77.8",
     "typescript": "^5.5.4",
     "web-vitals": "^3.5.2"
   },
@@ -22,14 +24,19 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "clean": "rm -rf node_modules"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
+  },
+  "prettier": {
+    "printWidth": 110,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "bracketSpacing": true
   },
   "browserslist": {
     "production": [
@@ -43,7 +50,20 @@
       "last 1 safari version"
     ]
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write"
+    ]
+  },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.0",
+    "prettier": "^3.3.3"
   }
 }
