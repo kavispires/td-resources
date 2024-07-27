@@ -1,12 +1,12 @@
-import './styles.scss';
-import React from 'react';
+import "./styles.css";
+import React from "react";
 
-import { createRoot } from 'react-dom/client';
-import reportWebVitals from './reportWebVitals';
+import { createRoot } from "react-dom/client";
+import reportWebVitals from "./reportWebVitals";
 
-const logo = require('./logo.svg').default;
+const logo = require("./logo.svg").default;
 
-const container = document.getElementById('root');
+const container = document.getElementById("root");
 const root = createRoot(container!);
 root.render(
   <div className="App">
