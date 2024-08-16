@@ -29322,14 +29322,13 @@
     "groups": []
   },
   "2444": {
-    "id": "2444",
     "name": {
-      "en": "wok",
-      "pt": "frigideira wok"
+      "en": "prison cell",
+      "pt": "solitária"
     },
-    "decks": [
-      "alien",
-      "weapon"
+    "id": "2444",
+    "aliasesPt": [
+      "cela"
     ],
     "groups": []
   },
@@ -29421,6 +29420,32 @@
       "alien",
       "dream",
       "thing"
+    ],
+    "groups": []
+  },
+  "2452": {
+    "name": {
+      "en": "handkerchief",
+      "pt": "lenço"
+    },
+    "id": "2452",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2453": {
+    "name": {
+      "en": "time bomb",
+      "pt": "bomba-relógio"
+    },
+    "id": "2453",
+    "decks": [
+      "alien",
+      "dream",
+      "weapon"
     ],
     "groups": []
   }
