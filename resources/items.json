@@ -147,11 +147,11 @@
     ]
   },
   "11": {
-    "id": "11",
     "name": {
       "en": "book",
       "pt": "livro"
     },
+    "id": "11",
     "aliasesEn": [
       "pages"
     ],
@@ -511,11 +511,11 @@
     ]
   },
   "39": {
-    "id": "39",
     "name": {
       "en": "fire",
       "pt": "fogo"
     },
+    "id": "39",
     "aliasesEn": [
       "flame"
     ],
@@ -18523,11 +18523,17 @@
     ]
   },
   "1528": {
-    "id": "1528",
     "name": {
       "en": "pollution",
       "pt": "poluição"
     },
+    "id": "1528",
+    "aliasesEn": [
+      "plant"
+    ],
+    "aliasesPt": [
+      "usina"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -18540,6 +18546,12 @@
       "en": "pictures",
       "pt": "fotos"
     },
+    "aliasesEn": [
+      "photograph"
+    ],
+    "aliasesPt": [
+      "fotografias"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -18781,6 +18793,12 @@
       "en": "weed chocolate",
       "pt": "chocolate da verdade"
     },
+    "aliasesEn": [
+      "edible"
+    ],
+    "aliasesPt": [
+      "chocolate batizado"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -18840,6 +18858,9 @@
       "en": "waxing",
       "pt": "depilação"
     },
+    "aliasesPt": [
+      "cera"
+    ],
     "decks": [
       "dream"
     ]
@@ -18900,11 +18921,14 @@
     ]
   },
   "1560": {
-    "id": "1560",
     "name": {
       "en": "bass drum",
       "pt": "bumbo"
     },
+    "id": "1560",
+    "aliasesPt": [
+      "tambor"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -19145,6 +19169,9 @@
       "en": "saliva",
       "pt": "saliva"
     },
+    "aliasesPt": [
+      "baba"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -19162,11 +19189,14 @@
     ]
   },
   "1583": {
-    "id": "1583",
     "name": {
       "en": "barbells",
       "pt": "halteres"
     },
+    "id": "1583",
+    "aliasesPt": [
+      "barras"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -19236,6 +19266,9 @@
       "en": "audience",
       "pt": "plateia"
     },
+    "aliasesPt": [
+      "audiência"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -19253,11 +19286,15 @@
     ]
   },
   "1591": {
-    "id": "1591",
     "name": {
       "en": "scrotum",
       "pt": "saco"
     },
+    "id": "1591",
+    "aliasesPt": [
+      "bolas",
+      "escroto"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -19265,11 +19302,16 @@
     "nsfw": true
   },
   "1592": {
-    "id": "1592",
     "name": {
       "en": "social media",
       "pt": "redes sociais"
     },
+    "id": "1592",
+    "aliasesEn": [
+      "facebook",
+      "instagram",
+      "twitter"
+    ],
     "decks": [
       "dream",
       "evidence"
@@ -19281,6 +19323,12 @@
       "pt": "trigo"
     },
     "id": "1593",
+    "aliasesEn": [
+      "grains"
+    ],
+    "aliasesPt": [
+      "grãos"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -19594,6 +19642,13 @@
       "en": "belly",
       "pt": "barriga"
     },
+    "aliasesEn": [
+      "fat",
+      "stomach"
+    ],
+    "aliasesPt": [
+      "gordo"
+    ],
     "decks": [
       "dream"
     ]
@@ -20061,6 +20116,9 @@
       "en": "shofar",
       "pt": "shofar"
     },
+    "aliasesPt": [
+      "chifre"
+    ],
     "decks": [
       "alien",
       "evidence"
@@ -20837,6 +20895,9 @@
       "en": "snare drum",
       "pt": "tarol"
     },
+    "aliasesPt": [
+      "tamborete"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -20893,11 +20954,14 @@
     ]
   },
   "1732": {
-    "id": "1732",
     "name": {
       "en": "cooler",
       "pt": "bolsa térmica"
     },
+    "id": "1732",
+    "aliasesPt": [
+      "caixa"
+    ],
     "decks": [
       "alien",
       "evidence"
@@ -20972,11 +21036,11 @@
     ]
   },
   "1739": {
-    "id": "1739",
     "name": {
       "en": "garlic",
       "pt": "alho"
     },
+    "id": "1739",
     "decks": [
       "alien",
       "dream",
@@ -21443,11 +21507,14 @@
     ]
   },
   "1781": {
-    "id": "1781",
     "name": {
       "en": "cocktail",
       "pt": "coquetel"
     },
+    "id": "1781",
+    "aliasesPt": [
+      "drink"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -21494,6 +21561,9 @@
       "en": "blister",
       "pt": "afta"
     },
+    "aliasesEn": [
+      "ulcer"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -21520,11 +21590,17 @@
     ]
   },
   "1788": {
-    "id": "1788",
     "name": {
       "en": "vegan",
       "pt": "vegano"
     },
+    "id": "1788",
+    "aliasesEn": [
+      "vegetarian"
+    ],
+    "aliasesPt": [
+      "vegetariano"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -25483,6 +25559,9 @@
       "en": "race track",
       "pt": "pista"
     },
+    "aliasesEn": [
+      "circuit"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -27978,11 +28057,11 @@
     "groups": []
   },
   "2339": {
-    "id": "2339",
     "name": {
-      "en": "cemetary",
+      "en": "cemetery",
       "pt": "cemitério"
     },
+    "id": "2339",
     "decks": [
       "alien",
       "dream"
@@ -28447,11 +28526,11 @@
     "groups": []
   },
   "2378": {
+    "id": "2378",
     "name": {
       "en": "dreidel",
       "pt": "dreidel"
     },
-    "id": "2378",
     "decks": [
       "alien"
     ],
@@ -29101,6 +29180,247 @@
       "alien",
       "dream",
       "manufactured"
+    ],
+    "groups": []
+  },
+  "2433": {
+    "id": "2433",
+    "name": {
+      "en": "caliper",
+      "pt": "paquímetro"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2434": {
+    "id": "2434",
+    "name": {
+      "en": "chip",
+      "pt": "chip"
+    },
+    "decks": [
+      "alien",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2435": {
+    "id": "2435",
+    "name": {
+      "en": "photo frame",
+      "pt": "porta-retrato"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2436": {
+    "id": "2436",
+    "name": {
+      "en": "popsicle",
+      "pt": "picolé"
+    },
+    "aliasesEn": [
+      "icepop"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2437": {
+    "name": {
+      "en": "frame",
+      "pt": "moldura"
+    },
+    "id": "2437",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2438": {
+    "id": "2438",
+    "name": {
+      "en": "hazelnut",
+      "pt": "avelãs"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2439": {
+    "id": "2439",
+    "name": {
+      "en": "walnut",
+      "pt": "nozes"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2440": {
+    "id": "2440",
+    "name": {
+      "en": "roof",
+      "pt": "telhado"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2441": {
+    "id": "2441",
+    "name": {
+      "en": "news van",
+      "pt": "van de reportagem"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2442": {
+    "name": {
+      "en": "oven",
+      "pt": "forno à lenha"
+    },
+    "id": "2442",
+    "aliasesPt": [
+      "fogão à lenha"
+    ],
+    "groups": []
+  },
+  "2443": {
+    "name": {
+      "en": "coaster",
+      "pt": "porta-copo"
+    },
+    "id": "2443",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2444": {
+    "id": "2444",
+    "name": {
+      "en": "wok",
+      "pt": "frigideira wok"
+    },
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2445": {
+    "id": "2445",
+    "name": {
+      "en": "pub",
+      "pt": "pub"
+    },
+    "aliasesPt": [
+      "bar"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2446": {
+    "name": {
+      "en": "speedo",
+      "pt": "sunga"
+    },
+    "id": "2446",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2447": {
+    "id": "2447",
+    "name": {
+      "en": "tunnel",
+      "pt": "túnel"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2448": {
+    "id": "2448",
+    "name": {
+      "en": "pedestrian crossing",
+      "pt": "faixa de pedestres"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2449": {
+    "id": "2449",
+    "name": {
+      "en": "limousine",
+      "pt": "limusine"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2450": {
+    "name": {
+      "en": "pom-pom",
+      "pt": "pompom"
+    },
+    "id": "2450",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2451": {
+    "name": {
+      "en": "bbq skewer",
+      "pt": "espetinho"
+    },
+    "id": "2451",
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
     ],
     "groups": []
   }

@@ -26,13 +26,14 @@
   "dqs-0003-br": {
     "id": "dqs-0003-br",
     "title": "Coisas que se abrem",
+    "type": "attribute",
     "itemsIds": [
       "56",
       "84",
       "262",
       "416"
     ],
-    "level": 0
+    "level": 3
   },
   "dqs-0004-br": {
     "id": "dqs-0004-br",
@@ -149,6 +150,7 @@
   "dqs-0013-br": {
     "title": "Coisas que precisam de ar",
     "id": "dqs-0013-br",
+    "type": "attribute",
     "itemsIds": [
       "194",
       "416",
@@ -1677,6 +1679,7 @@
   "dqs-0140-br": {
     "id": "dqs-0140-br",
     "title": "Ciclo da vida",
+    "type": "thematic",
     "itemsIds": [
       "148",
       "162",
@@ -1739,8 +1742,9 @@
     "level": 1
   },
   "dqs-0146-br": {
-    "id": "dqs-0146-br",
     "title": "Coisas que podem voar",
+    "type": "attribute",
+    "id": "dqs-0146-br",
     "itemsIds": [
       "131",
       "276",
@@ -2280,10 +2284,10 @@
   "dqs-0192-br": {
     "id": "dqs-0192-br",
     "title": "Churrascão",
+    "type": "thematic",
     "itemsIds": [
       "113",
       "566",
-      "597",
       "687",
       "709"
     ],
@@ -2760,18 +2764,18 @@
     "level": 0
   },
   "dqs-0231-br": {
-    "type": "general",
-    "title": "Bolas",
+    "title": "Bolas para esporte",
+    "type": "thematic",
     "id": "dqs-0231-br",
     "itemsIds": [
       "189",
-      "419",
       "524",
       "1450",
       "1475",
-      "1478"
+      "1478",
+      "2359"
     ],
-    "level": 0
+    "level": 1
   },
   "dqs-0232-br": {
     "id": "dqs-0232-br",
@@ -3184,7 +3188,7 @@
       "399",
       "530"
     ],
-    "level": 0
+    "level": 1
   },
   "dqs-0267-br": {
     "id": "dqs-0267-br",
@@ -3214,7 +3218,9 @@
       "854",
       "859",
       "916",
-      "938"
+      "938",
+      "1640",
+      "1663"
     ],
     "level": 3
   },
@@ -3225,13 +3231,18 @@
       "539",
       "583",
       "841",
-      "1402"
+      "1402",
+      "1037",
+      "1155",
+      "1267",
+      "1737"
     ],
     "level": 3
   },
   "dqs-0270-br": {
-    "id": "dqs-0270-br",
+    "type": "visual",
     "title": "Sol",
+    "id": "dqs-0270-br",
     "itemsIds": [
       "588",
       "596",
@@ -3246,7 +3257,8 @@
     "itemsIds": [
       "446",
       "710",
-      "787"
+      "787",
+      "1468"
     ],
     "level": 0
   },
@@ -3588,11 +3600,12 @@
     "level": 0
   },
   "dqs-0302-br": {
-    "id": "dqs-0302-br",
     "title": "Com florzinhas",
+    "id": "dqs-0302-br",
     "itemsIds": [
       "1890",
-      "1906"
+      "1906",
+      "1717"
     ],
     "level": 3
   },
@@ -3659,15 +3672,26 @@
     "level": 1
   },
   "dqs-0308-br": {
+    "title": "Solzinho na paisagem",
     "id": "dqs-0308-br",
-    "title": "",
-    "itemsIds": [],
+    "itemsIds": [
+      "1515",
+      "1518",
+      "1516",
+      "1519",
+      "1520",
+      "1521",
+      "1612",
+      "1684"
+    ],
     "level": 0
   },
   "dqs-0309-br": {
     "id": "dqs-0309-br",
-    "title": "",
-    "itemsIds": [],
+    "title": "Lua",
+    "itemsIds": [
+      "916"
+    ],
     "level": 0
   },
   "dqs-0310-br": {
