@@ -1,402 +1,842 @@
 {
   "tdc-1-en": {
     "id": "tdc-1-en",
-    "text": "Light enough for a person to carry",
-    "type": "attribute"
+    "text": "alive",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-2-en": {
     "id": "tdc-2-en",
-    "text": "Is cold",
-    "type": "attribute"
+    "text": "contains wood",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-3-en": {
     "id": "tdc-3-en",
-    "text": "Would fit in a microwave",
-    "type": "attribute"
+    "text": "often has spots or stripes",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-4-en": {
     "id": "tdc-4-en",
-    "text": "Comes in different shapes",
-    "type": "attribute"
+    "text": "weighs more than a chair",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-5-en": {
     "id": "tdc-5-en",
-    "text": "Has wings",
-    "type": "attribute"
+    "text": "would hurt if dropped on you",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-6-en": {
     "id": "tdc-6-en",
-    "text": "Moves",
-    "type": "attribute"
+    "text": "flammable",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-7-en": {
     "id": "tdc-7-en",
-    "text": "Made of metal",
-    "type": "attribute"
+    "text": "has one or more holes",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-8-en": {
     "id": "tdc-8-en",
-    "text": "Edible",
-    "type": "attribute"
+    "text": "bigger than a person",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-9-en": {
     "id": "tdc-9-en",
-    "text": "Can be folded",
-    "type": "attribute"
+    "text": "contains plastic",
+    "type": "attribute",
+    "level": 1,
+    "og": true
   },
   "tdc-10-en": {
     "id": "tdc-10-en",
-    "text": "Known for its color",
-    "type": "attribute"
+    "text": "usually round or curved",
+    "type": "attribute",
+    "level": 2,
+    "og": true
   },
   "tdc-11-en": {
     "id": "tdc-11-en",
-    "text": "Moves on its own",
-    "type": "attribute"
+    "text": "shiny or reflective",
+    "type": "attribute",
+    "level": 2,
+    "og": true
   },
   "tdc-12-en": {
     "id": "tdc-12-en",
-    "text": "Rough texture",
-    "type": "attribute"
+    "text": "has a point or spike",
+    "type": "attribute",
+    "level": 2,
+    "og": true
   },
   "tdc-13-en": {
     "id": "tdc-13-en",
-    "text": "Reflective",
-    "type": "attribute"
+    "text": "easy to destroy",
+    "type": "attribute",
+    "level": 2,
+    "og": true
   },
   "tdc-14-en": {
     "id": "tdc-14-en",
-    "text": "Flammable",
-    "type": "attribute"
+    "text": "floats in water",
+    "type": "attribute",
+    "level": 2,
+    "og": true
   },
   "tdc-15-en": {
     "id": "tdc-15-en",
-    "text": "Has a hole(s) in it",
-    "type": "attribute"
+    "text": "you can look through it",
+    "type": "attribute",
+    "level": 2,
+    "og": true
   },
   "tdc-16-en": {
     "id": "tdc-16-en",
-    "text": "Flexible",
-    "type": "attribute"
+    "text": "often makes a sound",
+    "type": "attribute",
+    "level": 2,
+    "og": true
   },
   "tdc-17-en": {
     "id": "tdc-17-en",
-    "text": "Produces sound",
-    "type": "attribute"
+    "text": "usually a single color",
+    "type": "attribute",
+    "level": 3,
+    "og": true
   },
   "tdc-18-en": {
     "id": "tdc-18-en",
-    "text": "Has wheels",
-    "type": "attribute"
+    "text": "has a strong taste",
+    "type": "attribute",
+    "level": 3,
+    "og": true
   },
   "tdc-19-en": {
     "id": "tdc-19-en",
-    "text": "Changes shape",
-    "type": "attribute"
+    "text": "often has writing on it",
+    "type": "attribute",
+    "level": 3,
+    "og": true
   },
   "tdc-20-en": {
     "id": "tdc-20-en",
-    "text": "Is a tool",
-    "type": "attribute"
+    "text": "could be held with one hand",
+    "type": "attribute",
+    "level": 3,
+    "og": true
   },
   "tdc-21-en": {
     "id": "tdc-21-en",
-    "text": "Can be a weapon",
-    "type": "attribute"
+    "text": "shouldn't get wet",
+    "type": "attribute",
+    "level": 3,
+    "og": true
   },
   "tdc-22-en": {
     "id": "tdc-22-en",
-    "text": "Is alive",
-    "type": "attribute"
+    "text": "has a standard size",
+    "type": "attribute",
+    "level": 3,
+    "og": true
   },
   "tdc-23-en": {
     "id": "tdc-23-en",
-    "text": "Is dangerous",
-    "type": "attribute"
+    "text": "typically the same size",
+    "type": "attribute",
+    "level": 3,
+    "og": true
   },
   "tdc-24-en": {
     "id": "tdc-24-en",
-    "text": "Is valuable",
-    "type": "attribute"
+    "text": "easy to clean",
+    "type": "attribute",
+    "level": 3,
+    "og": true
   },
   "tdc-25-en": {
     "id": "tdc-25-en",
-    "text": "May hurt to touch",
-    "type": "attribute"
+    "text": "fits in a microwave",
+    "type": "attribute",
+    "level": 1,
+    "og": false
   },
   "tdc-26-en": {
     "id": "tdc-26-en",
-    "text": "Can be thrown",
-    "type": "attribute"
+    "text": "is edible",
+    "type": "attribute",
+    "level": 1,
+    "og": false
   },
   "tdc-27-en": {
     "id": "tdc-27-en",
-    "text": "Is enterable",
-    "type": "attribute"
+    "text": "can be folded or bent",
+    "type": "attribute",
+    "level": 3,
+    "og": false
   },
   "tdc-28-en": {
     "id": "tdc-28-en",
-    "text": "Has liquid parts",
-    "type": "attribute"
+    "text": "moves on its own",
+    "type": "attribute",
+    "level": 1,
+    "og": false
   },
   "tdc-29-en": {
     "id": "tdc-29-en",
-    "text": "You can put your mouth on it",
-    "type": "attribute"
+    "text": "has wings or handles",
+    "type": "attribute",
+    "level": 2,
+    "og": false
   },
   "tdc-30-en": {
     "id": "tdc-30-en",
-    "text": "Is delicate",
-    "type": "attribute"
+    "text": "changes shape",
+    "type": "attribute",
+    "level": 3,
+    "og": false
   },
   "tdc-31-en": {
     "id": "tdc-31-en",
-    "text": "Tells information",
-    "type": "attribute"
+    "text": "enterable",
+    "type": "attribute",
+    "level": 1,
+    "og": false
   },
   "tdc-32-en": {
     "id": "tdc-32-en",
-    "text": "Exactly 5 letters long",
-    "type": "word"
+    "text": "has liquid parts",
+    "type": "attribute",
+    "level": 2,
+    "og": false
   },
   "tdc-33-en": {
     "id": "tdc-33-en",
-    "text": "7 or more letters long",
-    "type": "word"
+    "text": "may hurt to touch",
+    "type": "attribute",
+    "level": 3,
+    "og": false
   },
   "tdc-34-en": {
     "id": "tdc-34-en",
-    "text": "Has no repeated vowels",
-    "type": "word"
+    "text": "has wheels",
+    "type": "attribute",
+    "level": 1,
+    "og": false
   },
   "tdc-35-en": {
     "id": "tdc-35-en",
-    "text": "More vowels than consonants",
-    "type": "word"
+    "text": "is cold",
+    "type": "attribute",
+    "level": 2,
+    "og": false
   },
   "tdc-36-en": {
     "id": "tdc-36-en",
-    "text": "same letter twice",
-    "type": "word"
+    "text": "comes in different shapes",
+    "type": "attribute",
+    "level": 3,
+    "og": false
   },
   "tdc-37-en": {
     "id": "tdc-37-en",
-    "text": "Starts with a vowel",
-    "type": "word"
+    "text": "has a strong smell",
+    "type": "attribute",
+    "level": 2,
+    "og": false
   },
   "tdc-38-en": {
     "id": "tdc-38-en",
-    "text": "Ends with a consonant",
-    "type": "word"
+    "text": "produces heat",
+    "type": "attribute",
+    "level": 2,
+    "og": false
   },
   "tdc-39-en": {
     "id": "tdc-39-en",
-    "text": "Has exactly two syllables",
-    "type": "word"
+    "text": "biodegradable",
+    "type": "attribute",
+    "level": 1,
+    "og": false
   },
   "tdc-40-en": {
     "id": "tdc-40-en",
-    "text": "Has three consecutive consonants",
-    "type": "word"
+    "text": "fragile",
+    "type": "attribute",
+    "level": 3,
+    "og": false
   },
   "tdc-41-en": {
     "id": "tdc-41-en",
-    "text": "Contains the letter \"h\"",
-    "type": "word"
+    "text": "can be assembled",
+    "type": "attribute",
+    "level": 3,
+    "og": false
   },
   "tdc-42-en": {
     "id": "tdc-42-en",
-    "text": "Is a homophone for another word",
-    "type": "word"
+    "text": "uses power or can be tuned on",
+    "type": "attribute",
+    "level": 2,
+    "og": false
   },
   "tdc-43-en": {
     "id": "tdc-43-en",
-    "text": "Contains an apostrophe",
-    "type": "word"
+    "text": "has 1 syllable",
+    "type": "word",
+    "level": 1,
+    "og": true
   },
   "tdc-44-en": {
     "id": "tdc-44-en",
-    "text": "Is a compound word",
-    "type": "word"
+    "text": "has 2 syllables",
+    "type": "word",
+    "level": 1,
+    "og": true
   },
   "tdc-45-en": {
     "id": "tdc-45-en",
-    "text": "Has repeating vowels",
-    "type": "word"
+    "text": "5 or fewer letters long",
+    "type": "word",
+    "level": 1,
+    "og": true
   },
   "tdc-46-en": {
     "id": "tdc-46-en",
-    "text": "Has exactly three syllables",
-    "type": "word"
+    "text": "has a consecutive double letter (e.g. \"TT\", \"LL\", \"EE\")",
+    "type": "word",
+    "level": 1,
+    "og": true
   },
   "tdc-47-en": {
     "id": "tdc-47-en",
-    "text": "Has more than one word",
-    "type": "word"
+    "text": "has an \"O\"",
+    "type": "word",
+    "level": 1,
+    "og": true
   },
   "tdc-48-en": {
     "id": "tdc-48-en",
-    "text": "Does not end with \"a\" or \"o\"",
-    "type": "word"
+    "text": "has an \"R\"",
+    "type": "word",
+    "level": 1,
+    "og": true
   },
   "tdc-49-en": {
     "id": "tdc-49-en",
-    "text": "Is also a verb",
-    "type": "word"
+    "text": "Exactly 5 letters long",
+    "type": "word",
+    "level": 1,
+    "og": true
   },
   "tdc-50-en": {
     "id": "tdc-50-en",
-    "text": "Is a proper noun",
-    "type": "word"
+    "text": "Starts with a vowel or \"Y\"",
+    "type": "word",
+    "level": 1,
+    "og": true
   },
   "tdc-51-en": {
     "id": "tdc-51-en",
-    "text": "has more consonants than vowels",
-    "type": "word"
+    "text": "Starts with a letter from \"A\"-\"M\"",
+    "type": "word",
+    "level": 2,
+    "og": true
   },
   "tdc-52-en": {
     "id": "tdc-52-en",
-    "text": "Ends with an \"s\"",
-    "type": "word"
+    "text": "Has 2 or more different vowels",
+    "type": "word",
+    "level": 2,
+    "og": true
   },
   "tdc-53-en": {
     "id": "tdc-53-en",
-    "text": "Has repeating consonants",
-    "type": "word"
+    "text": "has 4 or fewer unique letters",
+    "type": "word",
+    "level": 2,
+    "og": true
   },
   "tdc-54-en": {
     "id": "tdc-54-en",
-    "text": "You could normally find it at a wedding",
-    "type": "context"
+    "text": "is a compound word (e.g.\" skyline\", \"underground)",
+    "type": "word",
+    "level": 2,
+    "og": true
   },
   "tdc-55-en": {
     "id": "tdc-55-en",
-    "text": "Invented or discovered in the last 50 years",
-    "type": "context"
+    "text": "first letter is repeated within the word (e.g. rural, eerie)",
+    "type": "word",
+    "level": 2,
+    "og": true
   },
   "tdc-56-en": {
     "id": "tdc-56-en",
-    "text": "Related to sports",
-    "type": "context"
+    "text": "Has 3 or more consecutive consonants",
+    "type": "word",
+    "level": 2,
+    "og": true
   },
   "tdc-57-en": {
     "id": "tdc-57-en",
-    "text": "Easily found in a house",
-    "type": "context"
+    "text": "Has 1 or more repeated letters",
+    "type": "word",
+    "level": 2,
+    "og": true
   },
   "tdc-58-en": {
     "id": "tdc-58-en",
-    "text": "Used in the kitchen",
-    "type": "context"
+    "text": "Ends with a consonant or \"y\"",
+    "type": "word",
+    "level": 2,
+    "og": true
   },
   "tdc-59-en": {
     "id": "tdc-59-en",
-    "text": "Would be a good birthday gift",
-    "type": "context"
+    "text": "6-8 letters long",
+    "type": "word",
+    "level": 3,
+    "og": true
   },
   "tdc-60-en": {
     "id": "tdc-60-en",
-    "text": "Used in a hospital",
-    "type": "context"
+    "text": "Has 2 or more consecutive vowels (not including \"y\")",
+    "type": "word",
+    "level": 3,
+    "og": true
   },
   "tdc-61-en": {
     "id": "tdc-61-en",
-    "text": "Related to the human body",
-    "type": "context"
+    "text": "Has 1 or more repeated vowels",
+    "type": "word",
+    "level": 3,
+    "og": true
   },
   "tdc-62-en": {
     "id": "tdc-62-en",
-    "text": "Seen at the zoo",
-    "type": "context"
+    "text": "Ends with 2 consonants",
+    "type": "word",
+    "level": 3,
+    "og": true
   },
   "tdc-63-en": {
     "id": "tdc-63-en",
-    "text": "Found in nature",
-    "type": "context"
+    "text": "Ends with a letter from \"N\"-\"Z\"",
+    "type": "word",
+    "level": 3,
+    "og": true
   },
   "tdc-64-en": {
     "id": "tdc-64-en",
-    "text": "Associated with a holiday",
-    "type": "context"
+    "text": "4-6 letters long",
+    "type": "word",
+    "level": 3,
+    "og": true
   },
   "tdc-65-en": {
     "id": "tdc-65-en",
-    "text": "Associated with science",
-    "type": "context"
+    "text": "Has exactly 1 vowel (not including \"y\")",
+    "type": "word",
+    "level": 3,
+    "og": true
   },
   "tdc-66-en": {
     "id": "tdc-66-en",
-    "text": "Common thing people buy",
-    "type": "context"
+    "text": "First 2 letters are in alphabetical order",
+    "type": "word",
+    "level": 3,
+    "og": true
   },
   "tdc-67-en": {
     "id": "tdc-67-en",
-    "text": "Seen in horror movies",
-    "type": "context"
+    "text": "has an \"H\"",
+    "type": "word",
+    "level": 1,
+    "og": false
   },
   "tdc-68-en": {
     "id": "tdc-68-en",
-    "text": "Associated with a specific time period",
-    "type": "context"
+    "text": "has more consonants than vowels",
+    "type": "word",
+    "level": 2,
+    "og": false
   },
   "tdc-69-en": {
     "id": "tdc-69-en",
-    "text": "Purchased at most malls",
-    "type": "context"
+    "text": "has more vowels than consonants",
+    "type": "word",
+    "level": 2,
+    "og": false
   },
   "tdc-70-en": {
     "id": "tdc-70-en",
-    "text": "People need it",
-    "type": "context"
+    "text": "ends with an \"S\"",
+    "type": "word",
+    "level": 2,
+    "og": false
   },
   "tdc-71-en": {
     "id": "tdc-71-en",
-    "text": "Causes happiness for the common person",
-    "type": "context"
+    "text": "has more than one word",
+    "type": "word",
+    "level": 1,
+    "og": false
   },
   "tdc-72-en": {
     "id": "tdc-72-en",
-    "text": "Used for protection",
-    "type": "context"
+    "text": "has repeating consonants",
+    "type": "word",
+    "level": 1,
+    "og": false
   },
   "tdc-73-en": {
     "id": "tdc-73-en",
-    "text": "Related to death",
-    "type": "context"
+    "text": "has no repeated vowels",
+    "type": "word",
+    "level": 3,
+    "og": false
   },
   "tdc-74-en": {
     "id": "tdc-74-en",
-    "text": "Evil",
-    "type": "context"
+    "text": "has 3 or more syllables",
+    "type": "word",
+    "level": 2,
+    "og": false
   },
   "tdc-75-en": {
     "id": "tdc-75-en",
-    "text": "Brings knowledge",
-    "type": "context"
+    "text": "the first letter repeats in the word",
+    "type": "word",
+    "level": 3,
+    "og": false
   },
   "tdc-76-en": {
     "id": "tdc-76-en",
-    "text": "Related to old people",
-    "type": "context"
+    "text": "has a silent letter",
+    "type": "word",
+    "level": 3,
+    "og": false
   },
   "tdc-77-en": {
     "id": "tdc-77-en",
-    "text": "Related to music",
-    "type": "context"
+    "text": "has a hyphen or apostrophe",
+    "type": "word",
+    "level": 1,
+    "og": false
   },
   "tdc-78-en": {
     "id": "tdc-78-en",
-    "text": "Related to men",
-    "type": "context"
+    "text": "has an \"X\" or \"Z\"",
+    "type": "word",
+    "level": 2,
+    "og": false
   },
   "tdc-79-en": {
     "id": "tdc-79-en",
-    "text": "Related to women",
-    "type": "context"
+    "text": "has a \"Q\" or \"J\"",
+    "type": "word",
+    "level": 2,
+    "og": false
   },
   "tdc-80-en": {
     "id": "tdc-80-en",
-    "text": "Hard to access",
-    "type": "context"
+    "text": "is a homophone",
+    "type": "word",
+    "level": 3,
+    "og": false
+  },
+  "tdc-81-en": {
+    "id": "tdc-81-en",
+    "text": "is plural form ends with \"es\"",
+    "type": "word",
+    "level": 2,
+    "og": false
+  },
+  "tdc-82-en": {
+    "id": "tdc-82-en",
+    "text": "has a loanword from another language (e.g. croissant, taco)",
+    "type": "word",
+    "level": 3,
+    "og": false
+  },
+  "tdc-83-en": {
+    "id": "tdc-83-en",
+    "text": "Most people have it at home",
+    "type": "context",
+    "level": 1,
+    "og": true
+  },
+  "tdc-84-en": {
+    "id": "tdc-84-en",
+    "text": "Most people have touched it",
+    "type": "context",
+    "level": 1,
+    "og": true
+  },
+  "tdc-85-en": {
+    "id": "tdc-85-en",
+    "text": "You expect to find it in an office",
+    "type": "context",
+    "level": 1,
+    "og": true
+  },
+  "tdc-86-en": {
+    "id": "tdc-86-en",
+    "text": "You expect to find it in a school",
+    "type": "context",
+    "level": 1,
+    "og": true
+  },
+  "tdc-87-en": {
+    "id": "tdc-87-en",
+    "text": "Can be dangerous",
+    "type": "context",
+    "level": 1,
+    "og": true
+  },
+  "tdc-88-en": {
+    "id": "tdc-88-en",
+    "text": "Mostly found outside",
+    "type": "context",
+    "level": 1,
+    "og": true
+  },
+  "tdc-89-en": {
+    "id": "tdc-89-en",
+    "text": "Man-made",
+    "type": "context",
+    "level": 1,
+    "og": true
+  },
+  "tdc-90-en": {
+    "id": "tdc-90-en",
+    "text": "Useful",
+    "type": "context",
+    "level": 1,
+    "og": true
+  },
+  "tdc-91-en": {
+    "id": "tdc-91-en",
+    "text": "Can be bought in a store",
+    "type": "context",
+    "level": 2,
+    "og": true
+  },
+  "tdc-92-en": {
+    "id": "tdc-92-en",
+    "text": "Usually worth more than $100",
+    "type": "context",
+    "level": 2,
+    "og": true
+  },
+  "tdc-93-en": {
+    "id": "tdc-93-en",
+    "text": "Makes people happy",
+    "type": "context",
+    "level": 2,
+    "og": true
+  },
+  "tdc-94-en": {
+    "id": "tdc-94-en",
+    "text": "Easily found if lost",
+    "type": "context",
+    "level": 2,
+    "og": true
+  },
+  "tdc-95-en": {
+    "id": "tdc-95-en",
+    "text": "Usually found with others nearby",
+    "type": "context",
+    "level": 2,
+    "og": true
+  },
+  "tdc-96-en": {
+    "id": "tdc-96-en",
+    "text": "Single-use",
+    "type": "context",
+    "level": 2,
+    "og": true
+  },
+  "tdc-97-en": {
+    "id": "tdc-97-en",
+    "text": "Usually only owned by rich people",
+    "type": "context",
+    "level": 2,
+    "og": true
+  },
+  "tdc-98-en": {
+    "id": "tdc-98-en",
+    "text": "Most people see it regularly",
+    "type": "context",
+    "level": 3,
+    "og": true
+  },
+  "tdc-99-en": {
+    "id": "tdc-99-en",
+    "text": "Usually found in rural areas",
+    "type": "context",
+    "level": 3,
+    "og": true
+  },
+  "tdc-100-en": {
+    "id": "tdc-100-en",
+    "text": "Expected to last 100+ years",
+    "type": "context",
+    "level": 3,
+    "og": true
+  },
+  "tdc-101-en": {
+    "id": "tdc-101-en",
+    "text": "Pre-dates the USA (1776)",
+    "type": "context",
+    "level": 3,
+    "og": true
+  },
+  "tdc-102-en": {
+    "id": "tdc-102-en",
+    "text": "Could help you survive in the wilderness",
+    "type": "context",
+    "level": 3,
+    "og": true
+  },
+  "tdc-103-en": {
+    "id": "tdc-103-en",
+    "text": "Subject of myth or legend",
+    "type": "context",
+    "level": 3,
+    "og": true
+  },
+  "tdc-104-en": {
+    "id": "tdc-104-en",
+    "text": "You expect to find it in a kitchen",
+    "type": "context",
+    "level": 1,
+    "og": false
+  },
+  "tdc-105-en": {
+    "id": "tdc-105-en",
+    "text": "You expect to see it in a wedding",
+    "type": "context",
+    "level": 3,
+    "og": false
+  },
+  "tdc-106-en": {
+    "id": "tdc-106-en",
+    "text": "Used primarily by children",
+    "type": "context",
+    "level": 1,
+    "og": false
+  },
+  "tdc-107-en": {
+    "id": "tdc-107-en",
+    "text": "Can be used as transportation",
+    "type": "context",
+    "level": 3,
+    "og": false
+  },
+  "tdc-108-en": {
+    "id": "tdc-108-en",
+    "text": "Related to sports",
+    "type": "context",
+    "level": 2,
+    "og": false
+  },
+  "tdc-109-en": {
+    "id": "tdc-109-en",
+    "text": "Found in nature",
+    "type": "context",
+    "level": 2,
+    "og": false
+  },
+  "tdc-110-en": {
+    "id": "tdc-110-en",
+    "text": "Related to the human body",
+    "type": "context",
+    "level": 1,
+    "og": false
+  },
+  "tdc-111-en": {
+    "id": "tdc-111-en",
+    "text": "Invented or discovered in the last 50 years",
+    "type": "context",
+    "level": 3,
+    "og": false
+  },
+  "tdc-112-en": {
+    "id": "tdc-112-en",
+    "text": "Usually seen in a zoo",
+    "type": "context",
+    "level": 1,
+    "og": false
+  },
+  "tdc-113-en": {
+    "id": "tdc-113-en",
+    "text": "Used or seen in a hospital",
+    "type": "context",
+    "level": 1,
+    "og": false
+  },
+  "tdc-114-en": {
+    "id": "tdc-114-en",
+    "text": "Related to a holiday",
+    "type": "context",
+    "level": 2,
+    "og": false
+  },
+  "tdc-115-en": {
+    "id": "tdc-115-en",
+    "text": "Related to science",
+    "type": "context",
+    "level": 2,
+    "og": false
+  },
+  "tdc-116-en": {
+    "id": "tdc-116-en",
+    "text": "Expected to be able to purchase at a mall",
+    "type": "context",
+    "level": 3,
+    "og": false
+  },
+  "tdc-117-en": {
+    "id": "tdc-117-en",
+    "text": "Could be used for protection",
+    "type": "context",
+    "level": 3,
+    "og": false
+  },
+  "tdc-118-en": {
+    "id": "tdc-118-en",
+    "text": "Can be used as decoration",
+    "type": "context",
+    "level": 2,
+    "og": false
+  },
+  "tdc-119-en": {
+    "id": "tdc-119-en",
+    "text": "Passengers can carry on an airplane",
+    "type": "context",
+    "level": 3,
+    "og": false
+  },
+  "tdc-120-en": {
+    "id": "tdc-120-en",
+    "text": "Can be a birthday gift",
+    "type": "context",
+    "level": 3,
+    "og": false
   }
 }
