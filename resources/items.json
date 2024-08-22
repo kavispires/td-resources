@@ -4436,7 +4436,7 @@
   "351": {
     "id": "351",
     "name": {
-      "en": "grave",
+      "en": "gravestone",
       "pt": "lápide"
     },
     "decks": [
@@ -9589,9 +9589,12 @@
   "772": {
     "id": "772",
     "name": {
-      "en": "bauble",
+      "en": "ornament",
       "pt": "bola de natal"
     },
+    "aliasesEn": [
+      "bauble"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -10974,13 +10977,14 @@
   "889": {
     "id": "889",
     "name": {
-      "en": "chalk board",
+      "en": "chalkboard",
       "pt": "quadro negro"
     },
     "decks": [
       "alien",
       "dream",
-      "manufactured"
+      "manufactured",
+      "thing"
     ]
   },
   "890": {
@@ -11912,13 +11916,14 @@
   "967": {
     "id": "967",
     "name": {
-      "en": "snorkeling gear",
+      "en": "snorkel",
       "pt": "equipamento de mergulho"
     },
     "decks": [
       "alien",
       "evidence",
-      "manufactured"
+      "manufactured",
+      "thing"
     ]
   },
   "968": {
@@ -21274,11 +21279,17 @@
     ]
   },
   "1760": {
-    "name": {
-      "en": "pet carrier",
-      "pt": "caixa de transporte para animais"
-    },
     "id": "1760",
+    "name": {
+      "en": "kennel",
+      "pt": "jaula"
+    },
+    "aliasesEn": [
+      "pet carrier"
+    ],
+    "aliasesPt": [
+      "caixa de transporte para animais"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -25772,11 +25783,11 @@
     "groups": []
   },
   "2149": {
-    "id": "2149",
     "name": {
-      "en": "Pamela",
+      "en": "Pamela hat",
       "pt": "chapéu Pâmela"
     },
+    "id": "2149",
     "decks": [
       "alien",
       "evidence"
@@ -27491,7 +27502,8 @@
     "decks": [
       "alien",
       "dream",
-      "manufactured"
+      "manufactured",
+      "thing"
     ],
     "groups": []
   },
@@ -29322,11 +29334,11 @@
     "groups": []
   },
   "2444": {
+    "id": "2444",
     "name": {
       "en": "prison cell",
       "pt": "solitária"
     },
-    "id": "2444",
     "aliasesPt": [
       "cela"
     ],
@@ -29424,11 +29436,11 @@
     "groups": []
   },
   "2452": {
+    "id": "2452",
     "name": {
       "en": "handkerchief",
       "pt": "lenço"
     },
-    "id": "2452",
     "decks": [
       "alien",
       "dream",
@@ -29437,15 +29449,238 @@
     "groups": []
   },
   "2453": {
+    "id": "2453",
     "name": {
       "en": "time bomb",
       "pt": "bomba-relógio"
     },
-    "id": "2453",
     "decks": [
       "alien",
       "dream",
       "weapon"
+    ],
+    "groups": []
+  },
+  "2454": {
+    "name": {
+      "en": "oatmeal",
+      "pt": "aveia"
+    },
+    "id": "2454",
+    "aliasesPt": [
+      "mingau de aveia"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2455": {
+    "id": "2455",
+    "name": {
+      "en": "gargoyle",
+      "pt": "gárgula"
+    },
+    "aliasesPt": [
+      "carranca"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2456": {
+    "name": {
+      "en": "armchair",
+      "pt": "poltrona"
+    },
+    "id": "2456",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2457": {
+    "name": {
+      "en": "ointment",
+      "pt": "pomada"
+    },
+    "id": "2457",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2458": {
+    "id": "2458",
+    "name": {
+      "en": "goblin",
+      "pt": "duende"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2459": {
+    "name": {
+      "en": "gorgon",
+      "pt": "górgona"
+    },
+    "id": "2459",
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2460": {
+    "name": {
+      "en": "slug",
+      "pt": "lesma"
+    },
+    "id": "2460",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2461": {
+    "id": "2461",
+    "name": {
+      "en": "elbow",
+      "pt": "cotovelo"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2462": {
+    "id": "2462",
+    "name": {
+      "en": "gecko",
+      "pt": "lagartixa"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2463": {
+    "name": {
+      "en": "iguana",
+      "pt": "iguana"
+    },
+    "id": "2463",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2464": {
+    "id": "2464",
+    "name": {
+      "en": "dryer",
+      "pt": "secadora"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2465": {
+    "name": {
+      "en": "hedge trimmer",
+      "pt": "aparador"
+    },
+    "id": "2465",
+    "aliasesPt": [
+      "aparador de cerca-viva"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2466": {
+    "name": {
+      "en": "bulldozer",
+      "pt": "escavadeira"
+    },
+    "id": "2466",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2467": {
+    "id": "2467",
+    "name": {
+      "en": "desk",
+      "pt": "escrivaninha"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2468": {
+    "id": "2468",
+    "name": {
+      "en": "golem",
+      "pt": "golem"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2469": {
+    "id": "2469",
+    "name": {
+      "en": "skyscrapper",
+      "pt": "arranha-céu"
+    },
+    "aliasesPt": [
+      "edifício"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2470": {
+    "id": "2470",
+    "name": {
+      "en": "casino",
+      "pt": "cassino"
+    },
+    "decks": [
+      "alien",
+      "dream"
     ],
     "groups": []
   }
