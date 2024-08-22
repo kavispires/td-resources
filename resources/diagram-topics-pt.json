@@ -171,679 +171,615 @@
     "id": "tdc-25-pt",
     "text": "cabe no micro-ondas",
     "type": "attribute",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-26-pt": {
     "id": "tdc-26-pt",
     "text": "é comestível",
     "type": "attribute",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-27-pt": {
     "id": "tdc-27-pt",
     "text": "pode ser dobrado ou torcido",
     "type": "attribute",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-28-pt": {
     "id": "tdc-28-pt",
     "text": "move-se sozinho",
     "type": "attribute",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-29-pt": {
     "id": "tdc-29-pt",
     "text": "tem asas ou alças",
     "type": "attribute",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-30-pt": {
     "id": "tdc-30-pt",
     "text": "muda de forma",
     "type": "attribute",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-31-pt": {
     "id": "tdc-31-pt",
     "text": "pode-se entrar",
     "type": "attribute",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-32-pt": {
     "id": "tdc-32-pt",
     "text": "tem partes líquidas",
     "type": "attribute",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-33-pt": {
     "id": "tdc-33-pt",
     "text": "pode machucar ao toque",
     "type": "attribute",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-34-pt": {
     "id": "tdc-34-pt",
     "text": "tem rodas",
     "type": "attribute",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-35-pt": {
     "id": "tdc-35-pt",
     "text": "é frio",
     "type": "attribute",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-36-pt": {
     "id": "tdc-36-pt",
     "text": "vem em diferentes formatos",
     "type": "attribute",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-37-pt": {
     "id": "tdc-37-pt",
     "text": "tem um cheiro forte",
     "type": "attribute",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-38-pt": {
     "id": "tdc-38-pt",
     "text": "produz calor",
     "type": "attribute",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-39-pt": {
     "id": "tdc-39-pt",
     "text": "biodegradável",
     "type": "attribute",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-40-pt": {
     "id": "tdc-40-pt",
     "text": "frágil",
     "type": "attribute",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-41-pt": {
     "id": "tdc-41-pt",
     "text": "pode ser montado",
     "type": "attribute",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-42-pt": {
     "id": "tdc-42-pt",
     "text": "usa energia ou pode ser ligado",
     "type": "attribute",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-43-pt": {
     "id": "tdc-43-pt",
-    "text": "tem 1 sílaba",
+    "text": "tem 2 sílabas",
     "type": "word",
     "level": 1,
     "og": true
   },
   "tdc-44-pt": {
     "id": "tdc-44-pt",
-    "text": "tem 2 sílabas",
+    "text": "5 ou menos letras",
     "type": "word",
     "level": 1,
     "og": true
   },
   "tdc-45-pt": {
     "id": "tdc-45-pt",
-    "text": "5 ou menos letras",
+    "text": "tem uma letra dupla consecutiva (por exemplo, \"RR\", \"SS\")",
     "type": "word",
-    "level": 1,
-    "og": true
+    "level": 1
   },
   "tdc-46-pt": {
     "id": "tdc-46-pt",
-    "text": "tem uma letra dupla consecutiva (por exemplo, \"RR\", \"SS\")",
-    "type": "word",
-    "level": 1,
-    "og": false
-  },
-  "tdc-47-pt": {
-    "id": "tdc-47-pt",
     "text": "tem um \"A\"",
     "type": "word",
     "level": 1,
     "og": true
   },
-  "tdc-48-pt": {
-    "id": "tdc-48-pt",
+  "tdc-47-pt": {
+    "id": "tdc-47-pt",
     "text": "tem um \"R\"",
     "type": "word",
+    "level": 1
+  },
+  "tdc-48-pt": {
+    "id": "tdc-48-pt",
+    "text": "Exatamente 5 letras",
+    "type": "word",
     "level": 1,
-    "og": false
+    "og": true
   },
   "tdc-49-pt": {
     "id": "tdc-49-pt",
-    "text": "Exatamente 5 letras",
+    "text": "começa com uma vogal",
     "type": "word",
     "level": 1,
     "og": true
   },
   "tdc-50-pt": {
     "id": "tdc-50-pt",
-    "text": "começa com uma vogal",
+    "text": "começa com uma letra de \"A\"-\"M\"",
     "type": "word",
-    "level": 1,
+    "level": 2,
     "og": true
   },
   "tdc-51-pt": {
     "id": "tdc-51-pt",
-    "text": "começa com uma letra de \"A\"-\"M\"",
+    "text": "tem 2 ou mais vogais diferentes",
     "type": "word",
     "level": 2,
     "og": true
   },
   "tdc-52-pt": {
     "id": "tdc-52-pt",
-    "text": "tem 2 ou mais vogais diferentes",
+    "text": "tem 4 ou menos letras únicas",
     "type": "word",
     "level": 2,
     "og": true
   },
   "tdc-53-pt": {
     "id": "tdc-53-pt",
-    "text": "tem 4 ou menos letras únicas",
+    "text": "é uma palavra composta (por exemplo, \"microondas\")",
     "type": "word",
     "level": 2,
     "og": true
   },
   "tdc-54-pt": {
     "id": "tdc-54-pt",
-    "text": "é uma palavra composta (por exemplo, \"microondas\")",
+    "text": "a primeira letra é repetida dentro da palavra (por exemplo, rural, ele)",
     "type": "word",
     "level": 2,
     "og": true
   },
   "tdc-55-pt": {
     "id": "tdc-55-pt",
-    "text": "a primeira letra é repetida dentro da palavra (por exemplo, rural, ele)",
+    "text": "Tem \"P\" ou \"B\"",
+    "type": "word",
+    "level": 2
+  },
+  "tdc-56-pt": {
+    "id": "tdc-56-pt",
+    "text": "Tem 1 ou mais letras repetidas",
     "type": "word",
     "level": 2,
     "og": true
   },
-  "tdc-56-pt": {
-    "id": "tdc-56-pt",
-    "text": "Tem \"P\" ou \"B\"",
-    "type": "word",
-    "level": 2,
-    "og": false
-  },
   "tdc-57-pt": {
     "id": "tdc-57-pt",
-    "text": "Tem 1 ou mais letras repetidas",
+    "text": "Termina com uma consoante",
     "type": "word",
     "level": 2,
     "og": true
   },
   "tdc-58-pt": {
     "id": "tdc-58-pt",
-    "text": "Termina com uma consoante",
+    "text": "De 6-8 letras",
     "type": "word",
-    "level": 2,
+    "level": 3,
     "og": true
   },
   "tdc-59-pt": {
     "id": "tdc-59-pt",
-    "text": "De 6-8 letras",
+    "text": "Tem 2 ou mais vogais consecutivas",
     "type": "word",
     "level": 3,
     "og": true
   },
   "tdc-60-pt": {
     "id": "tdc-60-pt",
-    "text": "Tem 2 ou mais vogais consecutivas",
+    "text": "Tem 1 ou mais vogais repetidas",
     "type": "word",
     "level": 3,
     "og": true
   },
   "tdc-61-pt": {
     "id": "tdc-61-pt",
-    "text": "Tem 1 ou mais vogais repetidas",
+    "text": "contém a letra \"M\"",
+    "type": "word",
+    "level": 3
+  },
+  "tdc-62-pt": {
+    "id": "tdc-62-pt",
+    "text": "Termina com uma letra de \"N\"-\"Z\"",
     "type": "word",
     "level": 3,
     "og": true
   },
-  "tdc-62-pt": {
-    "id": "tdc-62-pt",
-    "text": "contém a letra \"M\"",
-    "type": "word",
-    "level": 3,
-    "og": false
-  },
   "tdc-63-pt": {
     "id": "tdc-63-pt",
-    "text": "Termina com uma letra de \"N\"-\"Z\"",
+    "text": "De 4-6 letras",
     "type": "word",
     "level": 3,
     "og": true
   },
   "tdc-64-pt": {
     "id": "tdc-64-pt",
-    "text": "De 4-6 letras",
+    "text": "Contém acento",
     "type": "word",
-    "level": 3,
-    "og": true
+    "level": 1
   },
   "tdc-65-pt": {
     "id": "tdc-65-pt",
-    "text": "Contém acento",
-    "type": "word",
-    "level": 1,
-    "og": false
-  },
-  "tdc-66-pt": {
-    "id": "tdc-66-pt",
     "text": "As primeiras 2 letras estão em ordem alfabética",
     "type": "word",
     "level": 3,
     "og": true
   },
-  "tdc-67-pt": {
-    "id": "tdc-67-pt",
+  "tdc-66-pt": {
+    "id": "tdc-66-pt",
     "text": "tem um \"H\"",
     "type": "word",
-    "level": 1,
-    "og": false
+    "level": 1
+  },
+  "tdc-67-pt": {
+    "id": "tdc-67-pt",
+    "text": "tem mais consoantes do que vogais",
+    "type": "word",
+    "level": 2
   },
   "tdc-68-pt": {
     "id": "tdc-68-pt",
-    "text": "tem mais consoantes do que vogais",
+    "text": "tem mais vogais do que consoantes",
     "type": "word",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-69-pt": {
     "id": "tdc-69-pt",
-    "text": "tem mais vogais do que consoantes",
+    "text": "termina com um \"S\"",
     "type": "word",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-70-pt": {
     "id": "tdc-70-pt",
-    "text": "termina com um \"S\"",
+    "text": "tem mais de uma palavra",
     "type": "word",
-    "level": 2,
-    "og": false
+    "level": 1
   },
   "tdc-71-pt": {
     "id": "tdc-71-pt",
-    "text": "tem mais de uma palavra",
+    "text": "tem consoantes repetidas",
     "type": "word",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-72-pt": {
     "id": "tdc-72-pt",
-    "text": "tem consoantes repetidas",
+    "text": "não tem vogais repetidas",
     "type": "word",
-    "level": 1,
-    "og": false
+    "level": 3
   },
   "tdc-73-pt": {
     "id": "tdc-73-pt",
-    "text": "não tem vogais repetidas",
+    "text": "tem 3 ou mais sílabas",
     "type": "word",
-    "level": 3,
-    "og": false
+    "level": 2
   },
   "tdc-74-pt": {
     "id": "tdc-74-pt",
-    "text": "tem 3 ou mais sílabas",
+    "text": "a primeira letra se repete na palavra",
     "type": "word",
-    "level": 2,
-    "og": false
+    "level": 3
   },
   "tdc-75-pt": {
     "id": "tdc-75-pt",
-    "text": "a primeira letra se repete na palavra",
+    "text": "contém a letra \"U\"",
     "type": "word",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-76-pt": {
     "id": "tdc-76-pt",
-    "text": "contém a letra \"U\"",
+    "text": "tem um \"C\" ou \"Ç\"",
     "type": "word",
-    "level": 3,
-    "og": false
+    "level": 1
   },
   "tdc-77-pt": {
     "id": "tdc-77-pt",
-    "text": "tem um \"C\" ou \"Ç\"",
+    "text": "contém letras estrangeiras \"K\", \"W\", ou \"Y\"",
     "type": "word",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-78-pt": {
     "id": "tdc-78-pt",
-    "text": "contém letras estrangeiras \"K\", \"W\", ou \"Y\"",
+    "text": "tem um \"Q\" ou \"J\"",
     "type": "word",
-    "level": 1,
-    "og": false
+    "level": 2
   },
   "tdc-79-pt": {
     "id": "tdc-79-pt",
-    "text": "tem um \"Q\" ou \"J\"",
+    "text": "é um substantivo feminino",
     "type": "word",
-    "level": 2,
-    "og": false
+    "level": 1
   },
   "tdc-80-pt": {
     "id": "tdc-80-pt",
-    "text": "é um substantivo feminino",
+    "text": "é um substantivo masculino",
     "type": "word",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-81-pt": {
     "id": "tdc-81-pt",
-    "text": "é um substantivo masculino",
+    "text": "é uma palavra de origem estrangeira",
     "type": "word",
-    "level": 1,
-    "og": false
+    "level": 3
   },
   "tdc-82-pt": {
     "id": "tdc-82-pt",
-    "text": "é uma palavra de origem estrangeira",
+    "text": "não termina com \"A\" ou \"O\"",
     "type": "word",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-83-pt": {
     "id": "tdc-83-pt",
-    "text": "não termina com \"A\" ou \"O\"",
-    "type": "word",
-    "level": 3,
-    "og": false
+    "text": "A maioria das pessoas tem em casa",
+    "type": "context",
+    "level": 1,
+    "og": true
   },
   "tdc-84-pt": {
     "id": "tdc-84-pt",
-    "text": "A maioria das pessoas tem em casa",
+    "text": "A maioria das pessoas já tocou",
     "type": "context",
     "level": 1,
     "og": true
   },
   "tdc-85-pt": {
     "id": "tdc-85-pt",
-    "text": "A maioria das pessoas já tocou",
+    "text": "Espera-se encontrar em um escritório",
     "type": "context",
     "level": 1,
     "og": true
   },
   "tdc-86-pt": {
     "id": "tdc-86-pt",
-    "text": "Espera-se encontrar em um escritório",
+    "text": "Espera-se encontrar em uma escola",
     "type": "context",
     "level": 1,
     "og": true
   },
   "tdc-87-pt": {
     "id": "tdc-87-pt",
-    "text": "Espera-se encontrar em uma escola",
+    "text": "Pode ser perigoso",
     "type": "context",
     "level": 1,
     "og": true
   },
   "tdc-88-pt": {
     "id": "tdc-88-pt",
-    "text": "Pode ser perigoso",
+    "text": "Principalmente encontrado ao ar livre",
     "type": "context",
     "level": 1,
     "og": true
   },
   "tdc-89-pt": {
     "id": "tdc-89-pt",
-    "text": "Principalmente encontrado ao ar livre",
+    "text": "Feito pelo homem",
     "type": "context",
     "level": 1,
     "og": true
   },
   "tdc-90-pt": {
     "id": "tdc-90-pt",
-    "text": "Feito pelo homem",
+    "text": "Útil",
     "type": "context",
     "level": 1,
     "og": true
   },
   "tdc-91-pt": {
     "id": "tdc-91-pt",
-    "text": "Útil",
+    "text": "Pode ser comprado em uma loja",
     "type": "context",
-    "level": 1,
+    "level": 2,
     "og": true
   },
   "tdc-92-pt": {
     "id": "tdc-92-pt",
-    "text": "Pode ser comprado em uma loja",
+    "text": "Geralmente vale mais de 100 reais",
     "type": "context",
     "level": 2,
     "og": true
   },
   "tdc-93-pt": {
     "id": "tdc-93-pt",
-    "text": "Geralmente vale mais de 100 reais",
+    "text": "Faz as pessoas felizes",
     "type": "context",
     "level": 2,
     "og": true
   },
   "tdc-94-pt": {
     "id": "tdc-94-pt",
-    "text": "Faz as pessoas felizes",
+    "text": "Facilmente encontrado se perdido",
     "type": "context",
     "level": 2,
     "og": true
   },
   "tdc-95-pt": {
     "id": "tdc-95-pt",
-    "text": "Facilmente encontrado se perdido",
+    "text": "Geralmente encontrado com outros por perto",
     "type": "context",
     "level": 2,
     "og": true
   },
   "tdc-96-pt": {
     "id": "tdc-96-pt",
-    "text": "Geralmente encontrado com outros por perto",
+    "text": "De uso único",
     "type": "context",
     "level": 2,
     "og": true
   },
   "tdc-97-pt": {
     "id": "tdc-97-pt",
-    "text": "De uso único",
+    "text": "Geralmente possuído apenas por pessoas ricas",
     "type": "context",
     "level": 2,
     "og": true
   },
   "tdc-98-pt": {
     "id": "tdc-98-pt",
-    "text": "Geralmente possuído apenas por pessoas ricas",
+    "text": "A maioria das pessoas vê regularmente",
     "type": "context",
-    "level": 2,
+    "level": 3,
     "og": true
   },
   "tdc-99-pt": {
     "id": "tdc-99-pt",
-    "text": "A maioria das pessoas vê regularmente",
+    "text": "Geralmente encontrado em áreas rurais",
     "type": "context",
     "level": 3,
     "og": true
   },
   "tdc-100-pt": {
     "id": "tdc-100-pt",
-    "text": "Geralmente encontrado em áreas rurais",
+    "text": "Espera-se que dure mais de 100 anos",
     "type": "context",
     "level": 3,
     "og": true
   },
   "tdc-101-pt": {
     "id": "tdc-101-pt",
-    "text": "Espera-se que dure mais de 100 anos",
+    "text": "Antecede o Brasil (1822)",
     "type": "context",
     "level": 3,
     "og": true
   },
   "tdc-102-pt": {
     "id": "tdc-102-pt",
-    "text": "Antecede o Brasil (1822)",
+    "text": "Pode ajudar a sobreviver na selva",
     "type": "context",
     "level": 3,
     "og": true
   },
   "tdc-103-pt": {
     "id": "tdc-103-pt",
-    "text": "Pode ajudar a sobreviver na selva",
+    "text": "Tema de mito ou lenda",
     "type": "context",
     "level": 3,
     "og": true
   },
   "tdc-104-pt": {
     "id": "tdc-104-pt",
-    "text": "Tema de mito ou lenda",
+    "text": "Espera-se encontrar em uma cozinha",
     "type": "context",
-    "level": 3,
-    "og": true
+    "level": 1
   },
   "tdc-105-pt": {
     "id": "tdc-105-pt",
-    "text": "Espera-se encontrar em uma cozinha",
+    "text": "Espera-se ver em um casamento",
     "type": "context",
-    "level": 1,
-    "og": false
+    "level": 3
   },
   "tdc-106-pt": {
     "id": "tdc-106-pt",
-    "text": "Espera-se ver em um casamento",
+    "text": "Usado principalmente por crianças",
     "type": "context",
-    "level": 3,
-    "og": false
+    "level": 1
   },
   "tdc-107-pt": {
     "id": "tdc-107-pt",
-    "text": "Usado principalmente por crianças",
+    "text": "Pode ser usado como transporte",
     "type": "context",
-    "level": 1,
-    "og": false
+    "level": 3
   },
   "tdc-108-pt": {
     "id": "tdc-108-pt",
-    "text": "Pode ser usado como transporte",
+    "text": "Relacionado a esportes",
     "type": "context",
-    "level": 3,
-    "og": false
+    "level": 2
   },
   "tdc-109-pt": {
     "id": "tdc-109-pt",
-    "text": "Relacionado a esportes",
+    "text": "Encontrado na natureza",
     "type": "context",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-110-pt": {
     "id": "tdc-110-pt",
-    "text": "Encontrado na natureza",
+    "text": "Relacionado ao corpo humano",
     "type": "context",
-    "level": 2,
-    "og": false
+    "level": 1
   },
   "tdc-111-pt": {
     "id": "tdc-111-pt",
-    "text": "Relacionado ao corpo humano",
+    "text": "Inventado ou descoberto nos últimos 50 anos",
     "type": "context",
-    "level": 1,
-    "og": false
+    "level": 3
   },
   "tdc-112-pt": {
     "id": "tdc-112-pt",
-    "text": "Inventado ou descoberto nos últimos 50 anos",
+    "text": "Geralmente visto em um zoológico",
     "type": "context",
-    "level": 3,
-    "og": false
+    "level": 1
   },
   "tdc-113-pt": {
     "id": "tdc-113-pt",
-    "text": "Geralmente visto em um zoológico",
+    "text": "Usado ou visto em um hospital",
     "type": "context",
-    "level": 1,
-    "og": false
+    "level": 1
   },
   "tdc-114-pt": {
     "id": "tdc-114-pt",
-    "text": "Usado ou visto em um hospital",
+    "text": "Relacionado a um feriado",
     "type": "context",
-    "level": 1,
-    "og": false
+    "level": 2
   },
   "tdc-115-pt": {
     "id": "tdc-115-pt",
-    "text": "Relacionado a um feriado",
+    "text": "Relacionado à ciência",
     "type": "context",
-    "level": 2,
-    "og": false
+    "level": 2
   },
   "tdc-116-pt": {
     "id": "tdc-116-pt",
-    "text": "Relacionado à ciência",
+    "text": "Espera-se poder comprar em um shopping",
     "type": "context",
-    "level": 2,
-    "og": false
+    "level": 3
   },
   "tdc-117-pt": {
     "id": "tdc-117-pt",
-    "text": "Espera-se poder comprar em um shopping",
+    "text": "Pode ser usado para proteção",
     "type": "context",
-    "level": 3,
-    "og": false
+    "level": 3
   },
   "tdc-118-pt": {
     "id": "tdc-118-pt",
-    "text": "Pode ser usado para proteção",
+    "text": "Pode ser usado como decoração",
     "type": "context",
-    "level": 3,
-    "og": false
+    "level": 2
   },
   "tdc-119-pt": {
     "id": "tdc-119-pt",
-    "text": "Pode ser usado como decoração",
+    "text": "Passageiros podem levar em um avião",
     "type": "context",
-    "level": 2,
-    "og": false
+    "level": 3
   },
   "tdc-120-pt": {
     "id": "tdc-120-pt",
-    "text": "Passageiros podem levar em um avião",
-    "type": "context",
-    "level": 3,
-    "og": false
-  },
-  "tdc-121-pt": {
-    "id": "tdc-121-pt",
     "text": "Pode ser um presente de aniversário",
     "type": "context",
-    "level": 3,
-    "og": false
+    "level": 3
   }
 }
