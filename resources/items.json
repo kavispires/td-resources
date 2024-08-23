@@ -12505,11 +12505,14 @@
     ]
   },
   "1014": {
-    "id": "1014",
     "name": {
       "en": "protesters",
       "pt": "manifestantes"
     },
+    "id": "1014",
+    "aliasesPt": [
+      "protesto"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -13802,11 +13805,11 @@
     ]
   },
   "1127": {
-    "id": "1127",
     "name": {
       "en": "clothes peg",
-      "pt": "pegador"
+      "pt": "pregador"
     },
+    "id": "1127",
     "decks": [
       "alien",
       "dream",
@@ -16498,7 +16501,7 @@
     "id": "1353",
     "name": {
       "en": "zipper",
-      "pt": "zipper"
+      "pt": "zíper"
     },
     "decks": [
       "alien",
