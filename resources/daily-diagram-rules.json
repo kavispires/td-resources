@@ -4,7 +4,7 @@
     "title": "é um substantivo feminino",
     "level": 1,
     "type": "grammar",
-    "auto": false,
+    "method": "manual",
     "updatedAt": 1724369455795
   },
   "ddr-2-pt": {
@@ -12,7 +12,7 @@
     "title": "é um substantivo masculino",
     "level": 1,
     "type": "grammar",
-    "auto": false,
+    "method": "manual",
     "updatedAt": 1724369455795
   },
   "ddr-3-pt": {
@@ -20,23 +20,23 @@
     "title": "tem apenas 2 sílabas",
     "level": 1,
     "type": "grammar",
-    "auto": false,
+    "method": "dependency",
     "updatedAt": 1724369455795
   },
   "ddr-4-pt": {
     "id": "ddr-4-pt",
     "title": "tem 3 ou mais sílabas",
     "level": 2,
-    "type": "grammar",
-    "auto": false,
+    "type": "dependency",
+    "method": "manual",
     "updatedAt": 1724369455795
   },
   "ddr-5-pt": {
     "id": "ddr-5-pt",
-    "title": "é uma palavra composta ou hifenizada (por exemplo, \"microondas\")",
+    "title": "é uma palavra composta ou hifenizada (por exemplo, \"passatempo\")",
     "level": 2,
     "type": "grammar",
-    "auto": false,
+    "method": "manual",
     "updatedAt": 1724369455795
   },
   "ddr-6-pt": {
@@ -44,7 +44,7 @@
     "title": "é uma palavra de origem estrangeira",
     "level": 3,
     "type": "grammar",
-    "auto": false,
+    "method": "manual",
     "updatedAt": 1724369455795
   },
   "ddr-7-pt": {
@@ -52,7 +52,7 @@
     "title": "as primeiras 2 letras estão em ordem alfabética",
     "level": 3,
     "type": "grammar",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-8-pt": {
@@ -60,7 +60,7 @@
     "title": "tem 5 ou menos letras",
     "level": 1,
     "type": "count",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-9-pt": {
@@ -68,7 +68,7 @@
     "title": "tem exatamente 5 letras",
     "level": 1,
     "type": "count",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-10-pt": {
@@ -76,7 +76,7 @@
     "title": "tem 4-6 letras",
     "level": 3,
     "type": "count",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-11-pt": {
@@ -84,7 +84,7 @@
     "title": "tem 6-8 letras",
     "level": 3,
     "type": "count",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-12-pt": {
@@ -92,7 +92,7 @@
     "title": "tem mais de 7 letras",
     "level": 2,
     "type": "count",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-13-pt": {
@@ -100,7 +100,7 @@
     "title": "tem mais de uma palavra",
     "level": 1,
     "type": "count",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-14-pt": {
@@ -108,7 +108,7 @@
     "title": "tem 2 ou mais vogais diferentes",
     "level": 2,
     "type": "comparison",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-15-pt": {
@@ -116,7 +116,7 @@
     "title": "tem 4 ou menos letras únicas",
     "level": 2,
     "type": "comparison",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-16-pt": {
@@ -124,7 +124,7 @@
     "title": "tem mais consoantes do que vogais",
     "level": 2,
     "type": "comparison",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-17-pt": {
@@ -132,7 +132,7 @@
     "title": "tem mais vogais do que consoantes",
     "level": 2,
     "type": "comparison",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-18-pt": {
@@ -140,7 +140,7 @@
     "title": "a primeira letra se repete na palavra (por exemplo, rural, ele)",
     "level": 2,
     "type": "repetition",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-19-pt": {
@@ -148,7 +148,7 @@
     "title": "tem letras repetidas",
     "level": 2,
     "type": "repetition",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-20-pt": {
@@ -156,7 +156,7 @@
     "title": "tem vogais repetidas",
     "level": 3,
     "type": "repetition",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-21-pt": {
@@ -164,7 +164,7 @@
     "title": "tem consoantes repetidas",
     "level": 1,
     "type": "repetition",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-22-pt": {
@@ -172,7 +172,7 @@
     "title": "tem vogais consecutivas",
     "level": 3,
     "type": "repetition",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-23-pt": {
@@ -180,7 +180,7 @@
     "title": "começa com uma letra de \"A\"-\"M\"",
     "level": 2,
     "type": "starts",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-24-pt": {
@@ -188,7 +188,7 @@
     "title": "começa com uma letra de \"N\"-\"Z\"",
     "level": 3,
     "type": "starts",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-25-pt": {
@@ -196,7 +196,7 @@
     "title": "começa com uma vogal",
     "level": 1,
     "type": "starts",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-26-pt": {
@@ -204,7 +204,7 @@
     "title": "começa com uma consoante",
     "level": 1,
     "type": "starts",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-27-pt": {
@@ -212,7 +212,7 @@
     "title": "tem uma letra dupla consecutiva (por exemplo, \"RR\", \"SS\")",
     "level": 1,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-28-pt": {
@@ -220,7 +220,7 @@
     "title": "tem \"A\"",
     "level": 1,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-29-pt": {
@@ -228,7 +228,7 @@
     "title": "tem \"R\"",
     "level": 1,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-30-pt": {
@@ -236,7 +236,7 @@
     "title": "tem \"U\"",
     "level": 3,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-31-pt": {
@@ -244,7 +244,7 @@
     "title": "tem \"Q\" ou \"J\"",
     "level": 2,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-32-pt": {
@@ -252,7 +252,7 @@
     "title": "tem \"C\" ou \"Ç\"",
     "level": 1,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-33-pt": {
@@ -260,7 +260,7 @@
     "title": "tem \"M\"",
     "level": 3,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-34-pt": {
@@ -268,7 +268,7 @@
     "title": "tem \"H\"",
     "level": 1,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-35-pt": {
@@ -276,7 +276,7 @@
     "title": "tem \"P\" ou \"B\"",
     "level": 2,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-36-pt": {
@@ -284,7 +284,7 @@
     "title": "tem letras estrangeiras (\"K\", \"W\", ou \"Y\")",
     "level": 1,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-37-pt": {
@@ -292,7 +292,7 @@
     "title": "tem acento",
     "level": 1,
     "type": "contain",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-38-pt": {
@@ -300,7 +300,7 @@
     "title": "não termina com \"A\" ou \"O\"",
     "level": 3,
     "type": "ends",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-39-pt": {
@@ -308,7 +308,7 @@
     "title": "termina com uma consoante",
     "level": 2,
     "type": "ends",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-40-pt": {
@@ -316,7 +316,7 @@
     "title": "termina com \"S\"",
     "level": 2,
     "type": "ends",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-41-pt": {
@@ -324,7 +324,7 @@
     "title": "não tem vogais repetidas",
     "level": 3,
     "type": "negate",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-42-pt": {
@@ -332,7 +332,31 @@
     "title": "não tem consoantes repetidas",
     "level": 3,
     "type": "negate",
-    "auto": true,
+    "method": "auto",
     "updatedAt": 1724369455795
+  },
+  "ddr-43-pt": {
+    "id": "ddr-43-pt",
+    "title": "é oxítona",
+    "level": 3,
+    "type": "negate",
+    "method": "dependency",
+    "updatedAt": 1724458508967
+  },
+  "ddr-44-pt": {
+    "id": "ddr-44-pt",
+    "title": "é paroxítona",
+    "level": 3,
+    "type": "negate",
+    "method": "dependency",
+    "updatedAt": 1724458508967
+  },
+  "ddr-45-pt": {
+    "id": "ddr-45-pt",
+    "title": "é proparoxítona",
+    "level": 3,
+    "type": "negate",
+    "method": "dependency",
+    "updatedAt": 1724458508967
   }
 }
