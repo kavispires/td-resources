@@ -1059,13 +1059,15 @@
   "dqs-0088-br": {
     "id": "dqs-0088-br",
     "title": "Venenoso",
+    "type": "attribute",
     "itemsIds": [
       "43",
       "151",
       "153",
-      "412"
+      "412",
+      "2408"
     ],
-    "level": 0
+    "level": 1
   },
   "dqs-0089-br": {
     "id": "dqs-0089-br",
@@ -2559,14 +2561,16 @@
     "level": 3
   },
   "dqs-0214-br": {
-    "id": "dqs-0214-br",
     "title": "Cheiro forte",
+    "id": "dqs-0214-br",
+    "type": "attribute",
     "itemsIds": [
       "5",
       "249",
-      "302"
+      "302",
+      "657"
     ],
-    "level": 0
+    "level": 2
   },
   "dqs-0215-br": {
     "id": "dqs-0215-br",
@@ -2845,8 +2849,9 @@
     "level": 0
   },
   "dqs-0237-br": {
-    "id": "dqs-0237-br",
+    "type": "thematic",
     "title": "Chaves",
+    "id": "dqs-0237-br",
     "itemsIds": [
       "74",
       "646",
@@ -3625,8 +3630,7 @@
     "title": "Sonequinha",
     "itemsIds": [
       "912",
-      "915",
-      ""
+      "915"
     ],
     "level": 0
   },
@@ -3696,9 +3700,15 @@
   },
   "dqs-0310-br": {
     "id": "dqs-0310-br",
-    "title": "",
-    "itemsIds": [],
-    "level": 0
+    "title": "Nozes e Castanhas",
+    "type": "thematic",
+    "itemsIds": [
+      "2438",
+      "2439",
+      "1380",
+      "1588"
+    ],
+    "level": 1
   },
   "dqs-0311-br": {
     "id": "dqs-0311-br",

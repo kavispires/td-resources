@@ -22094,8 +22094,11 @@
     "id": "1832",
     "name": {
       "en": "mantle",
-      "pt": "manto"
+      "pt": "túnica"
     },
+    "aliasesPt": [
+      "manto"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -23714,6 +23717,9 @@
       "en": "toddler",
       "pt": "criança"
     },
+    "aliasesPt": [
+      "filho"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -24124,11 +24130,11 @@
     "groups": []
   },
   "2010": {
-    "name": {
-      "en": "surgeon",
-      "pt": "cirurgião"
-    },
     "id": "2010",
+    "name": {
+      "en": "student",
+      "pt": "estudante"
+    },
     "decks": [
       "alien",
       "dream",
