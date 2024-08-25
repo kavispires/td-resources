@@ -1,0 +1,982 @@
+{
+  "cl-1": {
+    "id": "cl-1",
+    "name": {
+      "en": "Motel",
+      "pt": "Motel"
+    },
+    "nsfw": true,
+    "category": "Accommodation"
+  },
+  "cl-2": {
+    "id": "cl-2",
+    "name": {
+      "en": "Hostel",
+      "pt": "Kitinete"
+    },
+    "category": "Accommodation"
+  },
+  "cl-3": {
+    "id": "cl-3",
+    "name": {
+      "en": "Hotel",
+      "pt": "Hotel"
+    },
+    "category": "Accommodation"
+  },
+  "cl-4": {
+    "id": "cl-4",
+    "name": {
+      "en": "5-star hotel",
+      "pt": "Hotel 5 estrelas"
+    },
+    "category": "Accommodation"
+  },
+  "cl-5": {
+    "id": "cl-5",
+    "name": {
+      "en": "Bank",
+      "pt": "Banco"
+    },
+    "category": "Commercial"
+  },
+  "cl-6": {
+    "id": "cl-6",
+    "name": {
+      "en": "Boutique",
+      "pt": "Boutique"
+    },
+    "category": "Commercial"
+  },
+  "cl-7": {
+    "id": "cl-7",
+    "name": {
+      "en": "Business Supply Store",
+      "pt": "Loja de suprimentos para escritório"
+    },
+    "category": "Commercial"
+  },
+  "cl-8": {
+    "id": "cl-8",
+    "name": {
+      "en": "Car Dealership",
+      "pt": "Concessionária de carros"
+    },
+    "category": "Commercial"
+  },
+  "cl-9": {
+    "id": "cl-9",
+    "name": {
+      "en": "Convenience Store",
+      "pt": "Loja de Conveniência"
+    },
+    "category": "Commercial"
+  },
+  "cl-10": {
+    "id": "cl-10",
+    "name": {
+      "en": "Fancy Restaurant",
+      "pt": "Restaurante chique"
+    },
+    "category": "Commercial"
+  },
+  "cl-11": {
+    "id": "cl-11",
+    "name": {
+      "en": "Fast Food Restaurant",
+      "pt": "Fast Food"
+    },
+    "category": "Commercial"
+  },
+  "cl-12": {
+    "id": "cl-12",
+    "name": {
+      "en": "Gas Station",
+      "pt": "Posto de gasolina"
+    },
+    "category": "Commercial"
+  },
+  "cl-13": {
+    "id": "cl-13",
+    "name": {
+      "en": "Hair Salon",
+      "pt": "Salão de Beleza"
+    },
+    "category": "Commercial"
+  },
+  "cl-14": {
+    "id": "cl-14",
+    "name": {
+      "en": "Hot Dog Stand",
+      "pt": "Barraca de cachorro-quente"
+    },
+    "category": "Commercial"
+  },
+  "cl-15": {
+    "id": "cl-15",
+    "name": {
+      "en": "Ice Cream Truck",
+      "pt": "Caminhão de sorvete"
+    },
+    "category": "Commercial"
+  },
+  "cl-16": {
+    "id": "cl-16",
+    "name": {
+      "en": "Massage Parlor",
+      "pt": "Casa de Massagem"
+    },
+    "nsfw": true,
+    "category": "Commercial"
+  },
+  "cl-17": {
+    "id": "cl-17",
+    "name": {
+      "en": "Office Building",
+      "pt": "Escritórios"
+    },
+    "category": "Commercial"
+  },
+  "cl-18": {
+    "id": "cl-18",
+    "name": {
+      "en": "Organic Supermarket",
+      "pt": "Supermercado orgânico"
+    },
+    "category": "Commercial"
+  },
+  "cl-19": {
+    "id": "cl-19",
+    "name": {
+      "en": "Pharmacy",
+      "pt": "Farmácia"
+    },
+    "category": "Commercial"
+  },
+  "cl-20": {
+    "id": "cl-20",
+    "name": {
+      "en": "Pizza Place",
+      "pt": "Pizzaria"
+    },
+    "category": "Commercial"
+  },
+  "cl-21": {
+    "id": "cl-21",
+    "name": {
+      "en": "PR Firm",
+      "pt": "Agência de relações públicas"
+    },
+    "category": "Commercial"
+  },
+  "cl-22": {
+    "id": "cl-22",
+    "name": {
+      "en": "Printing Shop",
+      "pt": "Gráfica"
+    },
+    "category": "Commercial"
+  },
+  "cl-23": {
+    "id": "cl-23",
+    "name": {
+      "en": "Shopping Mall",
+      "pt": "Shopping center"
+    },
+    "category": "Commercial"
+  },
+  "cl-24": {
+    "id": "cl-24",
+    "name": {
+      "en": "Skyscraper",
+      "pt": "Arranha-céu"
+    },
+    "category": "Commercial"
+  },
+  "cl-25": {
+    "id": "cl-25",
+    "name": {
+      "en": "Warehouse",
+      "pt": "Galpão"
+    },
+    "category": "Commercial"
+  },
+  "cl-26": {
+    "id": "cl-26",
+    "name": {
+      "en": "Yoga Retreat",
+      "pt": "Retiro de ioga"
+    },
+    "category": "Commercial"
+  },
+  "cl-27": {
+    "id": "cl-27",
+    "name": {
+      "en": "Tax Services Center",
+      "pt": 0
+    },
+    "category": "Commercial"
+  },
+  "cl-28": {
+    "id": "cl-28",
+    "name": {
+      "en": "Flea Market",
+      "pt": "Mercado de Pulgas"
+    },
+    "category": "Commercial"
+  },
+  "cl-29": {
+    "id": "cl-29",
+    "name": {
+      "en": "Toy Store",
+      "pt": "Loja de Brinquedos"
+    },
+    "category": "Commercial"
+  },
+  "cl-30": {
+    "id": "cl-30",
+    "name": {
+      "en": "Antique Shop",
+      "pt": "Loja de Antiguidades"
+    },
+    "category": "Commercial"
+  },
+  "cl-31": {
+    "id": "cl-31",
+    "name": {
+      "en": "Coffee Shop",
+      "pt": "Cafeteria"
+    },
+    "category": "Commercial"
+  },
+  "cl-32": {
+    "id": "cl-32",
+    "name": {
+      "en": "Catacombs",
+      "pt": "Catacumbas"
+    },
+    "category": "Cultural"
+  },
+  "cl-33": {
+    "id": "cl-33",
+    "name": {
+      "en": "Church",
+      "pt": "Igreja"
+    },
+    "category": "Cultural"
+  },
+  "cl-34": {
+    "id": "cl-34",
+    "name": {
+      "en": "Synagoge",
+      "pt": "Sinagoga"
+    },
+    "category": "Cultural"
+  },
+  "cl-35": {
+    "id": "cl-35",
+    "name": {
+      "en": "Monestary",
+      "pt": "Mosteiro"
+    },
+    "category": "Cultural"
+  },
+  "cl-36": {
+    "id": "cl-36",
+    "name": {
+      "en": "Shrine",
+      "pt": "Santuário"
+    },
+    "category": "Cultural"
+  },
+  "cl-37": {
+    "id": "cl-37",
+    "name": {
+      "en": "Business School",
+      "pt": "Escola de negócios"
+    },
+    "category": "Education"
+  },
+  "cl-38": {
+    "id": "cl-38",
+    "name": {
+      "en": "College",
+      "pt": "Faculdade"
+    },
+    "category": "Education"
+  },
+  "cl-39": {
+    "id": "cl-39",
+    "name": {
+      "en": "Elementary School",
+      "pt": "Escola primária"
+    },
+    "category": "Education"
+  },
+  "cl-40": {
+    "id": "cl-40",
+    "name": {
+      "en": "School",
+      "pt": "Escola"
+    },
+    "category": "Education"
+  },
+  "cl-41": {
+    "id": "cl-41",
+    "name": {
+      "en": "University",
+      "pt": "Universidade"
+    },
+    "category": "Education"
+  },
+  "cl-42": {
+    "id": "cl-42",
+    "name": {
+      "en": "Library",
+      "pt": "Biblioteca"
+    },
+    "category": "Education"
+  },
+  "cl-43": {
+    "id": "cl-43",
+    "name": {
+      "en": "Research Lab",
+      "pt": "Laboratório de Pesquisa"
+    },
+    "category": "Education"
+  },
+  "cl-44": {
+    "id": "cl-44",
+    "name": {
+      "en": "Observatory",
+      "pt": "Observatório"
+    },
+    "category": "Education"
+  },
+  "cl-45": {
+    "id": "cl-45",
+    "name": {
+      "en": "Amusement Park",
+      "pt": "Parque de diversões"
+    },
+    "category": "Entertainment"
+  },
+  "cl-46": {
+    "id": "cl-46",
+    "name": {
+      "en": "Beach",
+      "pt": "Praia"
+    },
+    "category": "Entertainment"
+  },
+  "cl-47": {
+    "id": "cl-47",
+    "name": {
+      "en": "Botanical Garden",
+      "pt": "Jardim botânico"
+    },
+    "category": "Entertainment"
+  },
+  "cl-48": {
+    "id": "cl-48",
+    "name": {
+      "en": "Brothel",
+      "pt": "Bordel"
+    },
+    "nsfw": true,
+    "category": "Entertainment"
+  },
+  "cl-49": {
+    "id": "cl-49",
+    "name": {
+      "en": "Casino",
+      "pt": "Cassino"
+    },
+    "category": "Entertainment"
+  },
+  "cl-50": {
+    "id": "cl-50",
+    "name": {
+      "en": "Circus",
+      "pt": "Circo"
+    },
+    "category": "Entertainment"
+  },
+  "cl-51": {
+    "id": "cl-51",
+    "name": {
+      "en": "Exhibition Center",
+      "pt": "Centro de exposições"
+    },
+    "category": "Entertainment"
+  },
+  "cl-52": {
+    "id": "cl-52",
+    "name": {
+      "en": "Main Square",
+      "pt": "Praça principal"
+    },
+    "category": "Entertainment"
+  },
+  "cl-53": {
+    "id": "cl-53",
+    "name": {
+      "en": "Movie Theater",
+      "pt": "Cinema"
+    },
+    "category": "Entertainment"
+  },
+  "cl-54": {
+    "id": "cl-54",
+    "name": {
+      "en": "Museum",
+      "pt": "Museu"
+    },
+    "category": "Entertainment"
+  },
+  "cl-55": {
+    "id": "cl-55",
+    "name": {
+      "en": "Night Club",
+      "pt": "Boate"
+    },
+    "category": "Entertainment"
+  },
+  "cl-56": {
+    "id": "cl-56",
+    "name": {
+      "en": "Resort",
+      "pt": "Resort"
+    },
+    "category": "Entertainment"
+  },
+  "cl-57": {
+    "id": "cl-57",
+    "name": {
+      "en": "Sports Complex",
+      "pt": "Complexo esportivo"
+    },
+    "category": "Entertainment"
+  },
+  "cl-58": {
+    "id": "cl-58",
+    "name": {
+      "en": "Stadium",
+      "pt": "Estádio"
+    },
+    "category": "Entertainment"
+  },
+  "cl-59": {
+    "id": "cl-59",
+    "name": {
+      "en": "Swimming pool",
+      "pt": "Piscina"
+    },
+    "category": "Entertainment"
+  },
+  "cl-60": {
+    "id": "cl-60",
+    "name": {
+      "en": "Zoo",
+      "pt": "Zoológico"
+    },
+    "category": "Entertainment"
+  },
+  "cl-61": {
+    "id": "cl-61",
+    "name": {
+      "en": "Boxing Arena",
+      "pt": "Arena de boxe"
+    },
+    "category": "Entertainment"
+  },
+  "cl-62": {
+    "id": "cl-62",
+    "name": {
+      "en": "Concert Hall",
+      "pt": "Sala de Concertos"
+    },
+    "category": "Entertainment"
+  },
+  "cl-63": {
+    "id": "cl-63",
+    "name": {
+      "en": "Aquarium",
+      "pt": "Aquário"
+    },
+    "category": "Entertainment"
+  },
+  "cl-64": {
+    "id": "cl-64",
+    "name": {
+      "en": "Escape Room",
+      "pt": "Sala de Fuga"
+    },
+    "category": "Entertainment"
+  },
+  "cl-65": {
+    "id": "cl-65",
+    "name": {
+      "en": "Art Gallery",
+      "pt": "Galeria de Arte"
+    },
+    "category": "Entertainment"
+  },
+  "cl-66": {
+    "id": "cl-66",
+    "name": {
+      "en": "City Hall",
+      "pt": "Prefeitura"
+    },
+    "category": "Government"
+  },
+  "cl-67": {
+    "id": "cl-67",
+    "name": {
+      "en": "Consulate",
+      "pt": "Consulado"
+    },
+    "category": "Government"
+  },
+  "cl-68": {
+    "id": "cl-68",
+    "name": {
+      "en": "Intelligence Agency",
+      "pt": "Agência de inteligência"
+    },
+    "category": "Government"
+  },
+  "cl-69": {
+    "id": "cl-69",
+    "name": {
+      "en": "Military Base",
+      "pt": "Base militar"
+    },
+    "category": "Government"
+  },
+  "cl-70": {
+    "id": "cl-70",
+    "name": {
+      "en": "Mint",
+      "pt": "Casa da moeda"
+    },
+    "category": "Government"
+  },
+  "cl-71": {
+    "id": "cl-71",
+    "name": {
+      "en": "Office of Bureaucracy",
+      "pt": "Cartório"
+    },
+    "category": "Government"
+  },
+  "cl-72": {
+    "id": "cl-72",
+    "name": {
+      "en": "Prison",
+      "pt": "Prisão"
+    },
+    "category": "Government"
+  },
+  "cl-73": {
+    "id": "cl-73",
+    "name": {
+      "en": "Embassy",
+      "pt": "Embaixada"
+    },
+    "category": "Government"
+  },
+  "cl-74": {
+    "id": "cl-74",
+    "name": {
+      "en": "Courthouse",
+      "pt": "Tribunal"
+    },
+    "category": "Government"
+  },
+  "cl-75": {
+    "id": "cl-75",
+    "name": {
+      "en": "DMV",
+      "pt": "DMV"
+    },
+    "category": "Government"
+  },
+  "cl-76": {
+    "id": "cl-76",
+    "name": {
+      "en": "Factory",
+      "pt": "Fábrica"
+    },
+    "category": "Industrial"
+  },
+  "cl-77": {
+    "id": "cl-77",
+    "name": {
+      "en": "Farm",
+      "pt": "Fazenda"
+    },
+    "category": "Industrial"
+  },
+  "cl-78": {
+    "id": "cl-78",
+    "name": {
+      "en": "Nuclear Plant",
+      "pt": "Usina nuclear"
+    },
+    "category": "Industrial"
+  },
+  "cl-79": {
+    "id": "cl-79",
+    "name": {
+      "en": "Robot Factory",
+      "pt": "Fábrica de robôs"
+    },
+    "category": "Industrial"
+  },
+  "cl-80": {
+    "id": "cl-80",
+    "name": {
+      "en": "Quary",
+      "pt": "Pedreia"
+    },
+    "category": "Industrial"
+  },
+  "cl-81": {
+    "id": "cl-81",
+    "name": {
+      "en": "Orchard",
+      "pt": "Pomar"
+    },
+    "category": "Industrial"
+  },
+  "cl-82": {
+    "id": "cl-82",
+    "name": {
+      "en": "Slaughterhouse",
+      "pt": "Abatedouro"
+    },
+    "category": "Industrial"
+  },
+  "cl-83": {
+    "id": "cl-83",
+    "name": {
+      "en": "Vineyard",
+      "pt": "Vinhedo"
+    },
+    "category": "Industrial"
+  },
+  "cl-84": {
+    "id": "cl-84",
+    "name": {
+      "en": "5G Cell Tower",
+      "pt": "Torre de celular 5G"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-85": {
+    "id": "cl-85",
+    "name": {
+      "en": "Cemetery",
+      "pt": "Cemitério"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-86": {
+    "id": "cl-86",
+    "name": {
+      "en": "Fire Station",
+      "pt": "Estação de bombeiros"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-87": {
+    "id": "cl-87",
+    "name": {
+      "en": "Hospital",
+      "pt": "Hospital"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-88": {
+    "id": "cl-88",
+    "name": {
+      "en": "Landfill",
+      "pt": "Aterro sanitário"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-89": {
+    "id": "cl-89",
+    "name": {
+      "en": "Parking Lot",
+      "pt": "Estacionamento"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-90": {
+    "id": "cl-90",
+    "name": {
+      "en": "Police Station",
+      "pt": "Delegacia"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-91": {
+    "id": "cl-91",
+    "name": {
+      "en": "Postal Service",
+      "pt": "Correios"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-92": {
+    "id": "cl-92",
+    "name": {
+      "en": "Power Station",
+      "pt": "Estação de energia"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-93": {
+    "id": "cl-93",
+    "name": {
+      "en": "Recycling Plant",
+      "pt": "Usina de reciclagem"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-94": {
+    "id": "cl-94",
+    "name": {
+      "en": "Shipping Center",
+      "pt": "Centro de distribuição"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-95": {
+    "id": "cl-95",
+    "name": {
+      "en": "Animal Shelter",
+      "pt": "Abrigo de animais"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-96": {
+    "id": "cl-96",
+    "name": {
+      "en": "Water Treatment Plant",
+      "pt": "Estação de Tratamento de Água"
+    },
+    "category": "Infrastructure"
+  },
+  "cl-97": {
+    "id": "cl-97",
+    "name": {
+      "en": "Desert",
+      "pt": "Deserto"
+    },
+    "category": "Natural"
+  },
+  "cl-98": {
+    "id": "cl-98",
+    "name": {
+      "en": "Forest",
+      "pt": "Floresta"
+    },
+    "category": "Natural"
+  },
+  "cl-99": {
+    "id": "cl-99",
+    "name": {
+      "en": "Lake",
+      "pt": "Lago"
+    },
+    "category": "Natural"
+  },
+  "cl-100": {
+    "id": "cl-100",
+    "name": {
+      "en": "Mountains",
+      "pt": "Montanhas"
+    },
+    "category": "Natural"
+  },
+  "cl-101": {
+    "id": "cl-101",
+    "name": {
+      "en": "National Park",
+      "pt": "Parque nacional"
+    },
+    "category": "Natural"
+  },
+  "cl-102": {
+    "id": "cl-102",
+    "name": {
+      "en": "Fields",
+      "pt": "Campos"
+    },
+    "category": "Natural"
+  },
+  "cl-103": {
+    "id": "cl-103",
+    "name": {
+      "en": "Canyon",
+      "pt": "Canyon"
+    },
+    "category": "Natural"
+  },
+  "cl-104": {
+    "id": "cl-104",
+    "name": {
+      "en": "Swamp",
+      "pt": "Pântano"
+    },
+    "category": "Natural"
+  },
+  "cl-105": {
+    "id": "cl-105",
+    "name": {
+      "en": "Apartments",
+      "pt": "Apartamentos"
+    },
+    "category": "Residential"
+  },
+  "cl-106": {
+    "id": "cl-106",
+    "name": {
+      "en": "Castle",
+      "pt": "Castelo"
+    },
+    "category": "Residential"
+  },
+  "cl-107": {
+    "id": "cl-107",
+    "name": {
+      "en": "Condominiums",
+      "pt": "Condomínio Fechado"
+    },
+    "category": "Residential"
+  },
+  "cl-108": {
+    "id": "cl-108",
+    "name": {
+      "en": "Gated community",
+      "pt": "Comunidade fechada"
+    },
+    "category": "Residential"
+  },
+  "cl-109": {
+    "id": "cl-109",
+    "name": {
+      "en": "Homeowner's association",
+      "pt": "Associação de moradores"
+    },
+    "category": "Residential"
+  },
+  "cl-110": {
+    "id": "cl-110",
+    "name": {
+      "en": "Mobile Home Community",
+      "pt": "Casas Populares"
+    },
+    "category": "Residential"
+  },
+  "cl-111": {
+    "id": "cl-111",
+    "name": {
+      "en": "Retirement Village",
+      "pt": "Asilo"
+    },
+    "category": "Residential"
+  },
+  "cl-112": {
+    "id": "cl-112",
+    "name": {
+      "en": "Suburbs",
+      "pt": "Subúrbios"
+    },
+    "category": "Residential"
+  },
+  "cl-113": {
+    "id": "cl-113",
+    "name": {
+      "en": "Slum",
+      "pt": "Favela"
+    },
+    "category": "Residential"
+  },
+  "cl-114": {
+    "id": "cl-114",
+    "name": {
+      "en": "Alien Abduction Site",
+      "pt": "Local de abdução alienígena"
+    },
+    "category": "Special"
+  },
+  "cl-115": {
+    "id": "cl-115",
+    "name": {
+      "en": "Haunted Mansion",
+      "pt": "Mansão Mal-Assombrada"
+    },
+    "category": "Special"
+  },
+  "cl-116": {
+    "id": "cl-116",
+    "name": {
+      "en": "Airport",
+      "pt": "Aeroporto"
+    },
+    "category": "Transportation"
+  },
+  "cl-117": {
+    "id": "cl-117",
+    "name": {
+      "en": "Bus Terminal",
+      "pt": "Terminal de ônibus"
+    },
+    "category": "Transportation"
+  },
+  "cl-118": {
+    "id": "cl-118",
+    "name": {
+      "en": "Train Station",
+      "pt": "Estação de trem"
+    },
+    "category": "Transportation"
+  },
+  "cl-119": {
+    "id": "cl-119",
+    "name": {
+      "en": "Port",
+      "pt": "Porto"
+    },
+    "category": "Transportation"
+  },
+  "cl-120": {
+    "id": "cl-120",
+    "name": {
+      "en": "Subway Station",
+      "pt": "Estação de Metrô"
+    },
+    "category": "Transportation"
+  },
+  "cl-121": {
+    "id": "cl-121",
+    "name": {
+      "en": "Bridge",
+      "pt": "Ponte"
+    },
+    "category": "Transportation"
+  },
+  "cl-122": {
+    "id": "cl-122",
+    "name": {
+      "en": "Strip Club",
+      "pt": "Boate de Strip Tease"
+    },
+    "nsfw": true,
+    "category": "Entertainment"
+  }
+}
