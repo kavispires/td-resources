@@ -17,7 +17,7 @@
   },
   "ddr-3-pt": {
     "id": "ddr-3-pt",
-    "title": "tem apenas 2 sílabas",
+    "title": "tem 2 sílabas",
     "level": 1,
     "type": "grammar",
     "method": "dependency",
@@ -25,11 +25,11 @@
   },
   "ddr-4-pt": {
     "id": "ddr-4-pt",
-    "title": "tem 3 ou mais sílabas",
-    "level": 2,
+    "title": "tem 3 sílabas",
+    "level": 1,
     "type": "dependency",
     "method": "dependency",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-5-pt": {
     "id": "ddr-5-pt",
@@ -42,7 +42,7 @@
   "ddr-6-pt": {
     "id": "ddr-6-pt",
     "title": "é uma palavra de origem estrangeira",
-    "level": 3,
+    "level": 1,
     "type": "grammar",
     "method": "manual",
     "updatedAt": 1724369455795
@@ -51,49 +51,49 @@
     "id": "ddr-7-pt",
     "title": "as primeiras 2 letras estão em ordem alfabética",
     "level": 3,
-    "type": "grammar",
+    "type": "order",
     "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-8-pt": {
     "id": "ddr-8-pt",
-    "title": "tem 5 ou menos letras",
+    "title": "tem 4 ou menos letras",
     "level": 1,
     "type": "count",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-9-pt": {
     "id": "ddr-9-pt",
-    "title": "tem exatamente 5 letras",
+    "title": "tem 5 letras",
     "level": 1,
     "type": "count",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-10-pt": {
     "id": "ddr-10-pt",
-    "title": "tem 4-6 letras",
-    "level": 3,
+    "title": "tem 6 letras",
+    "level": 1,
     "type": "count",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-11-pt": {
     "id": "ddr-11-pt",
-    "title": "tem 6-8 letras",
-    "level": 3,
+    "title": "tem 7 letras",
+    "level": 1,
     "type": "count",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-12-pt": {
     "id": "ddr-12-pt",
-    "title": "tem mais de 7 letras",
+    "title": "tem 8 ou mais letras",
     "level": 2,
     "type": "count",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-13-pt": {
     "id": "ddr-13-pt",
@@ -114,7 +114,7 @@
   "ddr-15-pt": {
     "id": "ddr-15-pt",
     "title": "tem 4 ou menos letras únicas",
-    "level": 2,
+    "level": 3,
     "type": "comparison",
     "method": "auto",
     "updatedAt": 1724369455795
@@ -137,7 +137,7 @@
   },
   "ddr-18-pt": {
     "id": "ddr-18-pt",
-    "title": "a primeira letra se repete na palavra (por exemplo, rural, ele)",
+    "title": "a primeira letra se repete na palavra (ex: rural, ele)",
     "level": 2,
     "type": "repetition",
     "method": "auto",
@@ -169,11 +169,11 @@
   },
   "ddr-22-pt": {
     "id": "ddr-22-pt",
-    "title": "tem vogais consecutivas",
-    "level": 1,
-    "type": "repetition",
-    "method": "auto",
-    "updatedAt": 1724369455795
+    "title": "tem 4 sílabas",
+    "level": 2,
+    "type": "count",
+    "method": "dependency",
+    "updatedAt": 1724690007256
   },
   "ddr-23-pt": {
     "id": "ddr-23-pt",
@@ -209,32 +209,32 @@
   },
   "ddr-27-pt": {
     "id": "ddr-27-pt",
-    "title": "tem uma letra dupla consecutiva (por exemplo, \"RR\", \"SS\")",
+    "title": "tem consoantes duplas consecutivas (ex \"RR\", \"SS\")",
     "level": 1,
-    "type": "contain",
+    "type": "order",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-28-pt": {
     "id": "ddr-28-pt",
     "title": "tem \"A\"",
-    "level": 1,
+    "level": 2,
     "type": "contain",
     "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-29-pt": {
     "id": "ddr-29-pt",
-    "title": "tem \"R\"",
-    "level": 1,
+    "title": "tem \"E\"",
+    "level": 2,
     "type": "contain",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-30-pt": {
     "id": "ddr-30-pt",
     "title": "tem \"U\"",
-    "level": 3,
+    "level": 2,
     "type": "contain",
     "method": "auto",
     "updatedAt": 1724369455795
@@ -242,7 +242,7 @@
   "ddr-31-pt": {
     "id": "ddr-31-pt",
     "title": "tem \"Q\" ou \"J\"",
-    "level": 2,
+    "level": 3,
     "type": "contain",
     "method": "auto",
     "updatedAt": 1724369455795
@@ -257,27 +257,27 @@
   },
   "ddr-33-pt": {
     "id": "ddr-33-pt",
-    "title": "tem \"M\"",
-    "level": 3,
-    "type": "contain",
+    "title": "tem \"M\" ou \"N\" seguida de consoante",
+    "level": 2,
+    "type": "order",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-34-pt": {
     "id": "ddr-34-pt",
     "title": "tem \"H\"",
-    "level": 1,
+    "level": 2,
     "type": "contain",
     "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-35-pt": {
     "id": "ddr-35-pt",
-    "title": "tem \"P\" ou \"B\"",
+    "title": "tem \"H\" precedida de consoante (ex: ch, lh, nh)",
     "level": 2,
     "type": "contain",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-36-pt": {
     "id": "ddr-36-pt",
@@ -291,17 +291,17 @@
     "id": "ddr-37-pt",
     "title": "tem acento",
     "level": 1,
-    "type": "contain",
+    "type": "grammar",
     "method": "auto",
     "updatedAt": 1724369455795
   },
   "ddr-38-pt": {
     "id": "ddr-38-pt",
-    "title": "não termina com \"A\" ou \"O\"",
-    "level": 3,
+    "title": "termina com vogal",
+    "level": 2,
     "type": "ends",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1724690007256
   },
   "ddr-39-pt": {
     "id": "ddr-39-pt",
@@ -321,25 +321,25 @@
   },
   "ddr-41-pt": {
     "id": "ddr-41-pt",
-    "title": "não tem vogais repetidas",
+    "title": "contém ditongo (ai, ei, ia)",
     "level": 3,
-    "type": "negate",
-    "method": "auto",
-    "updatedAt": 1724369455795
+    "type": "order",
+    "method": "dependency",
+    "updatedAt": 1724690007256
   },
   "ddr-42-pt": {
     "id": "ddr-42-pt",
-    "title": "não tem consoantes repetidas",
+    "title": "contém hiato (i-a, e-i)",
     "level": 3,
-    "type": "negate",
-    "method": "auto",
-    "updatedAt": 1724369455795
+    "type": "order",
+    "method": "dependency",
+    "updatedAt": 1724690007256
   },
   "ddr-43-pt": {
     "id": "ddr-43-pt",
     "title": "é oxítona",
     "level": 3,
-    "type": "negate",
+    "type": "grammar",
     "method": "dependency",
     "updatedAt": 1724458508967
   },
@@ -347,7 +347,7 @@
     "id": "ddr-44-pt",
     "title": "é paroxítona",
     "level": 3,
-    "type": "negate",
+    "type": "grammar",
     "method": "dependency",
     "updatedAt": 1724458508967
   },
@@ -355,8 +355,32 @@
     "id": "ddr-45-pt",
     "title": "é proparoxítona",
     "level": 3,
-    "type": "negate",
+    "type": "grammar",
     "method": "dependency",
     "updatedAt": 1724458508967
+  },
+  "ddr-46-pt": {
+    "id": "ddr-46-pt",
+    "title": "é monossílaba",
+    "level": 1,
+    "type": "grammar",
+    "method": "dependency",
+    "updatedAt": 1724690007256
+  },
+  "ddr-47-pt": {
+    "id": "ddr-47-pt",
+    "title": "tem \"I\"",
+    "level": 2,
+    "type": "contain",
+    "method": "auto",
+    "updatedAt": 1724690007256
+  },
+  "ddr-48-pt": {
+    "id": "ddr-48-pt",
+    "title": "tem \"O\"",
+    "level": 2,
+    "type": "grammar",
+    "method": "contain",
+    "updatedAt": 1724690007256
   }
 }
