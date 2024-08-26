@@ -27,7 +27,7 @@
     "id": "ddr-4-pt",
     "title": "tem 3 sílabas",
     "level": 1,
-    "type": "dependency",
+    "type": "grammar",
     "method": "dependency",
     "updatedAt": 1724690007256
   },
@@ -380,7 +380,7 @@
     "title": "tem \"O\"",
     "level": 2,
     "type": "grammar",
-    "method": "contain",
+    "method": "auto",
     "updatedAt": 1724690007256
   }
 }
