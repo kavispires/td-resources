@@ -69,6 +69,28 @@
     "syllables": "ri|fle",
     "updatedAt": 1724698237940
   },
+  "5": {
+    "name": "porco",
+    "itemId": "5",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-3-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-32-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "por|co",
+    "updatedAt": 1724887263507
+  },
   "8": {
     "name": "chapeuzinho",
     "itemId": "8",
@@ -99,6 +121,73 @@
     "stressedSyllable": 1,
     "syllables": "cha|peu|zi|nho",
     "updatedAt": 1724698243222
+  },
+  "10": {
+    "name": "carro",
+    "itemId": "10",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "car|ro",
+    "updatedAt": 1724787790794
+  },
+  "11": {
+    "name": "livro",
+    "itemId": "11",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "li|vro",
+    "updatedAt": 1724787765316
+  },
+  "12": {
+    "name": "robô",
+    "itemId": "12",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ro|bô",
+    "updatedAt": 1724787796408
   },
   "13": {
     "name": "joia",
@@ -190,6 +279,29 @@
     "syllables": "pá",
     "updatedAt": 1724734054735
   },
+  "22": {
+    "name": "camisola",
+    "itemId": "22",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|mi|so|la",
+    "updatedAt": 1724890073643
+  },
   "23": {
     "name": "piano",
     "itemId": "23",
@@ -236,6 +348,31 @@
     "stressedSyllable": 1,
     "syllables": "muf|fin",
     "updatedAt": 1724698254554
+  },
+  "25": {
+    "name": "pendrive",
+    "itemId": "25",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-5-pt",
+      "ddr-6-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pen|dri|ve",
+    "updatedAt": 1724791335842
   },
   "26": {
     "name": "skate",
@@ -308,6 +445,26 @@
     "stressedSyllable": 1,
     "syllables": "co|e|lho",
     "updatedAt": 1724698271479
+  },
+  "37": {
+    "name": "spray",
+    "itemId": "37",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-46-pt",
+      "ddr-43-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-36-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "spray",
+    "updatedAt": 1724803117320
   },
   "38": {
     "name": "rolo",
@@ -444,6 +601,51 @@
     "syllables": "fo|ca",
     "updatedAt": 1724732076954
   },
+  "46": {
+    "name": "vaca",
+    "itemId": "46",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "va|ca",
+    "updatedAt": 1724787652724
+  },
+  "47": {
+    "name": "chips",
+    "itemId": "47",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-46-pt",
+      "ddr-43-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "chips",
+    "updatedAt": 1724737052691
+  },
   "48": {
     "name": "rosquinha",
     "itemId": "48",
@@ -493,6 +695,32 @@
     "syllables": "ca|ne|ta",
     "updatedAt": 1724698447263
   },
+  "51": {
+    "name": "roda gigante",
+    "itemId": "51",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-13-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ro|da|gi|gan|te",
+    "updatedAt": 1724802698345
+  },
   "52": {
     "name": "chafariz",
     "itemId": "52",
@@ -518,6 +746,54 @@
     "stressedSyllable": 0,
     "syllables": "cha|fa|riz",
     "updatedAt": 1724731473517
+  },
+  "53": {
+    "name": "canivete",
+    "itemId": "53",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|ni|ve|te",
+    "updatedAt": 1724737488526
+  },
+  "55": {
+    "name": "óculos",
+    "itemId": "55",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-45-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "ó|cu|los",
+    "updatedAt": 1724803165901
   },
   "58": {
     "name": "chupeta",
@@ -614,6 +890,53 @@
     "stressedSyllable": 1,
     "syllables": "fral|da",
     "updatedAt": 1724718489937
+  },
+  "62": {
+    "name": "sutiã",
+    "itemId": "62",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-4-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "su|ti|ã",
+    "updatedAt": 1724887173094
+  },
+  "64": {
+    "name": "taco de golfe",
+    "itemId": "64",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-13-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ta|co|de|gol|fe",
+    "updatedAt": 1724802995007
   },
   "65": {
     "name": "grampeador",
@@ -720,6 +1043,27 @@
     "syllables": "lâm|pa|da",
     "updatedAt": 1724718476758
   },
+  "71": {
+    "name": "bolo",
+    "itemId": "71",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bo|lo",
+    "updatedAt": 1724791440530
+  },
   "73": {
     "name": "farol",
     "itemId": "73",
@@ -739,6 +1083,53 @@
     "stressedSyllable": 0,
     "syllables": "fa|rol",
     "updatedAt": 1724698458783
+  },
+  "74": {
+    "name": "barril",
+    "itemId": "74",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-42-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "bar|ril",
+    "updatedAt": 1724787542451
+  },
+  "81": {
+    "name": "leão",
+    "itemId": "81",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "le|ão",
+    "updatedAt": 1724803278210
   },
   "82": {
     "name": "padre",
@@ -880,6 +1271,49 @@
     "syllables": "ma|cha|do",
     "updatedAt": 1724698475092
   },
+  "90": {
+    "name": "banana",
+    "itemId": "90",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-15-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ba|na|na",
+    "updatedAt": 1724738006756
+  },
+  "92": {
+    "name": "bigorna",
+    "itemId": "92",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bi|gor|na",
+    "updatedAt": 1724866973172
+  },
   "96": {
     "name": "osso",
     "itemId": "96",
@@ -947,6 +1381,55 @@
     "syllables": "me|sa",
     "updatedAt": 1724700319180
   },
+  "101": {
+    "name": "estátua",
+    "itemId": "101",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "es|tá|tu|a",
+    "updatedAt": 1724866927652
+  },
+  "102": {
+    "name": "ovelha",
+    "itemId": "102",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "o|ve|lha",
+    "updatedAt": 1724886558601
+  },
   "103": {
     "name": "canhão",
     "itemId": "103",
@@ -972,6 +1455,31 @@
     "stressedSyllable": 0,
     "syllables": "ca|nhão",
     "updatedAt": 1724700320888
+  },
+  "104": {
+    "name": "cadeira",
+    "itemId": "104",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|dei|ra",
+    "updatedAt": 1724887218667
   },
   "105": {
     "name": "caixão",
@@ -1020,6 +1528,29 @@
     "syllables": "ca|sa",
     "updatedAt": 1724700324713
   },
+  "109": {
+    "name": "cinto",
+    "itemId": "109",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-9-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "cin|to",
+    "updatedAt": 1724803136689
+  },
   "110": {
     "name": "tartaruga",
     "itemId": "110",
@@ -1065,6 +1596,33 @@
     "stressedSyllable": 0,
     "syllables": "pão",
     "updatedAt": 1724700328328
+  },
+  "112": {
+    "name": "dinheiro",
+    "itemId": "112",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "di|nhei|ro",
+    "updatedAt": 1724736574982
   },
   "113": {
     "name": "bife",
@@ -1128,6 +1686,28 @@
     "syllables": "ti|ge|la",
     "updatedAt": 1724700347459
   },
+  "121": {
+    "name": "camisa",
+    "itemId": "121",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|mi|sa",
+    "updatedAt": 1724887294192
+  },
   "122": {
     "name": "barraca",
     "itemId": "122",
@@ -1177,6 +1757,31 @@
     "stressedSyllable": 1,
     "syllables": "per|ga|mi|nho",
     "updatedAt": 1724700349786
+  },
+  "125": {
+    "name": "abacaxi",
+    "itemId": "125",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "a|ba|ca|xi",
+    "updatedAt": 1724737516526
   },
   "126": {
     "name": "cueca",
@@ -1249,6 +1854,32 @@
     "stressedSyllable": 1,
     "syllables": "li|mo|na|da",
     "updatedAt": 1724700355699
+  },
+  "130": {
+    "name": "computador",
+    "itemId": "130",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "com|pu|ta|dor",
+    "updatedAt": 1724737982256
   },
   "131": {
     "name": "despertador",
@@ -1396,6 +2027,53 @@
     "syllables": "sa|té|li|te",
     "updatedAt": 1724700406560
   },
+  "141": {
+    "name": "coroa",
+    "itemId": "141",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "co|ro|a",
+    "updatedAt": 1724736563346
+  },
+  "142": {
+    "name": "mendigo",
+    "itemId": "142",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-11-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "men|di|go",
+    "updatedAt": 1724788922963
+  },
   "143": {
     "name": "microfone",
     "itemId": "143",
@@ -1501,6 +2179,55 @@
     "syllables": "mi|cro|-on|das",
     "updatedAt": 1724700413342
   },
+  "153": {
+    "name": "aranha",
+    "itemId": "153",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|ra|nha",
+    "updatedAt": 1724737331803
+  },
+  "154": {
+    "name": "geladeira",
+    "itemId": "154",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ge|la|dei|ra",
+    "updatedAt": 1724792004786
+  },
   "163": {
     "name": "vudu",
     "itemId": "163",
@@ -1573,6 +2300,29 @@
     "stressedSyllable": 2,
     "syllables": "am|bu|lân|ci|a",
     "updatedAt": 1724700421185
+  },
+  "167": {
+    "name": "patinete",
+    "itemId": "167",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pa|ti|ne|te",
+    "updatedAt": 1724787585342
   },
   "169": {
     "name": "lã",
@@ -1813,6 +2563,28 @@
     "syllables": "a|be|lha",
     "updatedAt": 1724700448857
   },
+  "185": {
+    "name": "presente",
+    "itemId": "185",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pre|sen|te",
+    "updatedAt": 1724737350132
+  },
   "187": {
     "name": "refeição",
     "itemId": "187",
@@ -1883,6 +2655,30 @@
     "syllables": "pan|dei|ro",
     "updatedAt": 1724700454453
   },
+  "192": {
+    "name": "violão",
+    "itemId": "192",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "vi|o|lão",
+    "updatedAt": 1724803082308
+  },
   "193": {
     "name": "monociclo",
     "itemId": "193",
@@ -1908,6 +2704,32 @@
     "stressedSyllable": 1,
     "syllables": "mo|no|ci|clo",
     "updatedAt": 1724700457146
+  },
+  "195": {
+    "name": "escavadeira",
+    "itemId": "195",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "es|ca|va|dei|ra",
+    "updatedAt": 1724867012832
   },
   "196": {
     "name": "câmera",
@@ -2021,6 +2843,30 @@
     "stressedSyllable": 1,
     "syllables": "ma|ra|cas",
     "updatedAt": 1724700468816
+  },
+  "208": {
+    "name": "remédio",
+    "itemId": "208",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-11-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "re|mé|di|o",
+    "updatedAt": 1724736584957
   },
   "210": {
     "name": "camarão",
@@ -2207,6 +3053,28 @@
     "syllables": "po|po|zu|da",
     "updatedAt": 1724700504886
   },
+  "224": {
+    "name": "médico",
+    "itemId": "224",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-45-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "mé|di|co",
+    "updatedAt": 1724737456240
+  },
   "226": {
     "name": "gelo",
     "itemId": "226",
@@ -2271,6 +3139,28 @@
     "stressedSyllable": 1,
     "syllables": "cal|cu|la|do|ra",
     "updatedAt": 1724700507906
+  },
+  "234": {
+    "name": "ladrão",
+    "itemId": "234",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "la|drão",
+    "updatedAt": 1724736437870
   },
   "236": {
     "name": "salada",
@@ -2437,6 +3327,28 @@
     "stressedSyllable": 2,
     "syllables": "ân|co|ra",
     "updatedAt": 1724700526142
+  },
+  "244": {
+    "name": "vírus",
+    "itemId": "244",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ví|rus",
+    "updatedAt": 1724803219266
   },
   "248": {
     "name": "água",
@@ -2702,6 +3614,28 @@
     "syllables": "ven|to",
     "updatedAt": 1724732208636
   },
+  "273": {
+    "name": "lança",
+    "itemId": "273",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "lan|ça",
+    "updatedAt": 1724787671220
+  },
   "274": {
     "name": "cortina",
     "itemId": "274",
@@ -2899,6 +3833,26 @@
     "syllables": "lan|ter|na",
     "updatedAt": 1724700565550
   },
+  "296": {
+    "name": "vaso",
+    "itemId": "296",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "va|so",
+    "updatedAt": 1724802675763
+  },
   "298": {
     "name": "trena",
     "itemId": "298",
@@ -3012,6 +3966,32 @@
     "stressedSyllable": 1,
     "syllables": "brin|cos",
     "updatedAt": 1724700580001
+  },
+  "307": {
+    "name": "liquidificador",
+    "itemId": "307",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "li|qui|di|fi|ca|dor",
+    "updatedAt": 1724738059889
   },
   "311": {
     "name": "cartas",
@@ -3218,6 +4198,27 @@
     "syllables": "mo|tos|ser|ra",
     "updatedAt": 1724700595501
   },
+  "330": {
+    "name": "muleta",
+    "itemId": "330",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mu|le|ta",
+    "updatedAt": 1724737605354
+  },
   "332": {
     "name": "cano",
     "itemId": "332",
@@ -3291,6 +4292,31 @@
     "syllables": "cor|ren|te",
     "updatedAt": 1724700599620
   },
+  "336": {
+    "name": "película",
+    "itemId": "336",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "pe|lí|cu|la",
+    "updatedAt": 1724887203936
+  },
   "338": {
     "name": "cachorro-quente",
     "itemId": "338",
@@ -3325,6 +4351,33 @@
     "syllables": "ca|chor|ro-|quen|te",
     "updatedAt": 1724700602030
   },
+  "339": {
+    "name": "cachecol",
+    "itemId": "339",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-48-pt",
+      "ddr-39-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ca|che|col",
+    "updatedAt": 1724886549657
+  },
   "340": {
     "name": "nuvem",
     "itemId": "340",
@@ -3345,6 +4398,28 @@
     "stressedSyllable": 1,
     "syllables": "nu|vem",
     "updatedAt": 1724700605021
+  },
+  "344": {
+    "name": "teclado",
+    "itemId": "344",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "te|cla|do",
+    "updatedAt": 1724887149477
   },
   "352": {
     "name": "caveira",
@@ -3471,6 +4546,29 @@
     "syllables": "tu|ba|rão",
     "updatedAt": 1724700615995
   },
+  "368": {
+    "name": "tanque",
+    "itemId": "368",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-33-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "tan|que",
+    "updatedAt": 1724737851513
+  },
   "372": {
     "name": "igreja",
     "itemId": "372",
@@ -3517,6 +4615,30 @@
     "stressedSyllable": 1,
     "syllables": "es|pe|lho",
     "updatedAt": 1724700619761
+  },
+  "374": {
+    "name": "estilete",
+    "itemId": "374",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "es|ti|le|te",
+    "updatedAt": 1724736722466
   },
   "376": {
     "name": "cassetete",
@@ -3615,6 +4737,26 @@
     "syllables": "pre|go",
     "updatedAt": 1724700626868
   },
+  "382": {
+    "name": "mapa",
+    "itemId": "382",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-3-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ma|pa",
+    "updatedAt": 1724890085359
+  },
   "385": {
     "name": "poeira",
     "itemId": "385",
@@ -3664,6 +4806,76 @@
     "stressedSyllable": 0,
     "syllables": "quiu|í",
     "updatedAt": 1724700639575
+  },
+  "387": {
+    "name": "gelatina",
+    "itemId": "387",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ge|la|ti|na",
+    "updatedAt": 1724791506024
+  },
+  "388": {
+    "name": "balanço",
+    "itemId": "388",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ba|lan|ço",
+    "updatedAt": 1724791397740
+  },
+  "389": {
+    "name": "foguete",
+    "itemId": "389",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "fo|gue|te",
+    "updatedAt": 1724788864898
   },
   "390": {
     "name": "pipa",
@@ -3762,6 +4974,58 @@
     "stressedSyllable": 0,
     "syllables": "ra|la|dor",
     "updatedAt": 1724700658002
+  },
+  "399": {
+    "name": "conta-gotas",
+    "itemId": "399",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-5-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-48-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "con|ta-|go|tas",
+    "updatedAt": 1724887132580
+  },
+  "401": {
+    "name": "gaiola",
+    "itemId": "401",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "gai|o|la",
+    "updatedAt": 1724787536012
   },
   "406": {
     "name": "absorvente",
@@ -3910,6 +5174,30 @@
     "syllables": "ba|las",
     "updatedAt": 1724700665611
   },
+  "425": {
+    "name": "triângulo",
+    "itemId": "425",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "tri|ân|gu|lo",
+    "updatedAt": 1724737390805
+  },
   "426": {
     "name": "berimbau",
     "itemId": "426",
@@ -3963,6 +5251,50 @@
     "syllables": "ma|car|rão",
     "updatedAt": 1724700671821
   },
+  "429": {
+    "name": "drone",
+    "itemId": "429",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "dro|ne",
+    "updatedAt": 1724802657388
+  },
+  "432": {
+    "name": "oca",
+    "itemId": "432",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "o|ca",
+    "updatedAt": 1724737060813
+  },
   "435": {
     "name": "banco",
     "itemId": "435",
@@ -3984,6 +5316,30 @@
     "stressedSyllable": 1,
     "syllables": "ban|co",
     "updatedAt": 1724700673419
+  },
+  "436": {
+    "name": "cogumelo",
+    "itemId": "436",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "co|gu|me|lo",
+    "updatedAt": 1724802947221
   },
   "440": {
     "name": "carruagem",
@@ -4031,6 +5387,52 @@
     "stressedSyllable": 1,
     "syllables": "pos|te",
     "updatedAt": 1724732261039
+  },
+  "442": {
+    "name": "cama",
+    "itemId": "442",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|ma",
+    "updatedAt": 1724736512864
+  },
+  "443": {
+    "name": "cobertor",
+    "itemId": "443",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "co|ber|tor",
+    "updatedAt": 1724803297641
   },
   "446": {
     "name": "eletricidade",
@@ -4106,6 +5508,28 @@
     "syllables": "ha|shi",
     "updatedAt": 1724700681866
   },
+  "449": {
+    "name": "tornado",
+    "itemId": "449",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "tor|na|do",
+    "updatedAt": 1724802796250
+  },
   "451": {
     "name": "chifre",
     "itemId": "451",
@@ -4149,6 +5573,28 @@
     "stressedSyllable": 0,
     "syllables": "i|glu",
     "updatedAt": 1724734063681
+  },
+  "453": {
+    "name": "pilha",
+    "itemId": "453",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pi|lha",
+    "updatedAt": 1724803257880
   },
   "454": {
     "name": "marionete",
@@ -4242,6 +5688,52 @@
     "syllables": "po|ço",
     "updatedAt": 1724700689613
   },
+  "459": {
+    "name": "pagoda",
+    "itemId": "459",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pa|go|da",
+    "updatedAt": 1724867090838
+  },
+  "461": {
+    "name": "azeite",
+    "itemId": "461",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|zei|te",
+    "updatedAt": 1724803227197
+  },
   "462": {
     "name": "dados",
     "itemId": "462",
@@ -4266,6 +5758,52 @@
     "stressedSyllable": 1,
     "syllables": "da|dos",
     "updatedAt": 1724700691576
+  },
+  "463": {
+    "name": "sofá",
+    "itemId": "463",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-3-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "so|fá",
+    "updatedAt": 1724890026260
+  },
+  "465": {
+    "name": "avental",
+    "itemId": "465",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-39-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "a|ven|tal",
+    "updatedAt": 1724787785008
   },
   "467": {
     "name": "supositório",
@@ -4347,6 +5885,58 @@
     "syllables": "a|qua|re|la",
     "updatedAt": 1724700699500
   },
+  "471": {
+    "name": "dirigível",
+    "itemId": "471",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "di|ri|gí|vel",
+    "updatedAt": 1724737772105
+  },
+  "472": {
+    "name": "águia",
+    "itemId": "472",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-45-pt",
+      "ddr-41-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "á|gui|a",
+    "updatedAt": 1724803148233
+  },
   "474": {
     "name": "asas",
     "itemId": "474",
@@ -4398,6 +5988,33 @@
     "stressedSyllable": 1,
     "syllables": "chi|co|te",
     "updatedAt": 1724700704559
+  },
+  "477": {
+    "name": "passaporte",
+    "itemId": "477",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pas|sa|por|te",
+    "updatedAt": 1724736665847
   },
   "478": {
     "name": "tesoura",
@@ -4521,6 +6138,29 @@
     "syllables": "nun|chuck",
     "updatedAt": 1724700713426
   },
+  "489": {
+    "name": "prédio",
+    "itemId": "489",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-3-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pré|dio",
+    "updatedAt": 1724887229758
+  },
   "490": {
     "name": "furadeira",
     "itemId": "490",
@@ -4576,6 +6216,72 @@
     "syllables": "su|shi",
     "updatedAt": 1724734046623
   },
+  "501": {
+    "name": "gesso",
+    "itemId": "501",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-9-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ges|so",
+    "updatedAt": 1724802684998
+  },
+  "510": {
+    "name": "porta",
+    "itemId": "510",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "por|ta",
+    "updatedAt": 1724736450639
+  },
+  "511": {
+    "name": "muda",
+    "itemId": "511",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mu|da",
+    "updatedAt": 1724736550623
+  },
   "513": {
     "name": "ilha",
     "itemId": "513",
@@ -4625,6 +6331,57 @@
     "stressedSyllable": 1,
     "syllables": "pran|che|ta",
     "updatedAt": 1724734157666
+  },
+  "516": {
+    "name": "termômetro",
+    "itemId": "516",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "ter|mô|me|tro",
+    "updatedAt": 1724738040061
+  },
+  "519": {
+    "name": "pizza",
+    "itemId": "519",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "piz|za",
+    "updatedAt": 1724803130038
   },
   "520": {
     "name": "gravata",
@@ -4715,6 +6472,27 @@
     "stressedSyllable": 1,
     "syllables": "pe|ru|ca",
     "updatedAt": 1724700726402
+  },
+  "531": {
+    "name": "granada",
+    "itemId": "531",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "gra|na|da",
+    "updatedAt": 1724737402456
   },
   "532": {
     "name": "folha",
@@ -4829,6 +6607,31 @@
     "syllables": "bis|tu|ri",
     "updatedAt": 1724700739535
   },
+  "545": {
+    "name": "munição",
+    "itemId": "545",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "mu|ni|ção",
+    "updatedAt": 1724787412280
+  },
   "546": {
     "name": "ampulheta",
     "itemId": "546",
@@ -4856,6 +6659,27 @@
     "stressedSyllable": 1,
     "syllables": "am|pu|lhe|ta",
     "updatedAt": 1724700741942
+  },
+  "547": {
+    "name": "cruz",
+    "itemId": "547",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-46-pt",
+      "ddr-43-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "cruz",
+    "updatedAt": 1724737069132
   },
   "549": {
     "name": "farinha",
@@ -4900,6 +6724,52 @@
     "stressedSyllable": 0,
     "syllables": "trem",
     "updatedAt": 1724700746188
+  },
+  "552": {
+    "name": "macaco",
+    "itemId": "552",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ma|ca|co",
+    "updatedAt": 1724866966823
+  },
+  "553": {
+    "name": "pimenta",
+    "itemId": "553",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pi|men|ta",
+    "updatedAt": 1724736431362
   },
   "554": {
     "name": "biquini",
@@ -5125,6 +6995,26 @@
     "syllables": "sub|ma|ri|no",
     "updatedAt": 1724700768735
   },
+  "578": {
+    "name": "peru",
+    "itemId": "578",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "pe|ru",
+    "updatedAt": 1724736594691
+  },
   "582": {
     "name": "bombeiro",
     "itemId": "582",
@@ -5195,6 +7085,33 @@
     "stressedSyllable": 1,
     "syllables": "co|to|ne|te",
     "updatedAt": 1724700772806
+  },
+  "587": {
+    "name": "carranca",
+    "itemId": "587",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-4-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-27-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "car|ran|ca",
+    "updatedAt": 1724886568121
   },
   "592": {
     "name": "esgrima",
@@ -5337,6 +7254,27 @@
     "syllables": "chi|ne|lo",
     "updatedAt": 1724700784335
   },
+  "601": {
+    "name": "espuma",
+    "itemId": "601",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "es|pu|ma",
+    "updatedAt": 1724791512688
+  },
   "605": {
     "name": "rádio",
     "itemId": "605",
@@ -5408,6 +7346,30 @@
     "syllables": "san|gue",
     "updatedAt": 1724700849954
   },
+  "613": {
+    "name": "bengala",
+    "itemId": "613",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ben|ga|la",
+    "updatedAt": 1724737623432
+  },
   "618": {
     "name": "papel",
     "itemId": "618",
@@ -5431,6 +7393,34 @@
     "stressedSyllable": 0,
     "syllables": "pa|pel",
     "updatedAt": 1724700851817
+  },
+  "620": {
+    "name": "dente-de-leão",
+    "itemId": "620",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-5-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "den|te-|de-|le|ão",
+    "updatedAt": 1724791457484
   },
   "625": {
     "name": "bíceps",
@@ -5578,6 +7568,32 @@
     "syllables": "fai|xa",
     "updatedAt": 1724700863707
   },
+  "636": {
+    "name": "barreira",
+    "itemId": "636",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-42-pt",
+      "ddr-14-pt",
+      "ddr-27-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bar|rei|ra",
+    "updatedAt": 1724803033005
+  },
   "639": {
     "name": "monumento",
     "itemId": "639",
@@ -5604,6 +7620,48 @@
     "stressedSyllable": 1,
     "syllables": "mo|nu|men|to",
     "updatedAt": 1724700866554
+  },
+  "640": {
+    "name": "pirulito",
+    "itemId": "640",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pi|ru|li|to",
+    "updatedAt": 1724787477267
+  },
+  "642": {
+    "name": "garfo",
+    "itemId": "642",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "gar|fo",
+    "updatedAt": 1724787465044
   },
   "644": {
     "name": "chefe",
@@ -5656,6 +7714,78 @@
     "stressedSyllable": 1,
     "syllables": "wal|kie-|tal|kie",
     "updatedAt": 1724700870621
+  },
+  "652": {
+    "name": "água-viva",
+    "itemId": "652",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-5-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "á|gua-|vi|va",
+    "updatedAt": 1724887251373
+  },
+  "653": {
+    "name": "batata",
+    "itemId": "653",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-15-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ba|ta|ta",
+    "updatedAt": 1724788745125
+  },
+  "657": {
+    "name": "canela",
+    "itemId": "657",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|ne|la",
+    "updatedAt": 1724788655191
   },
   "658": {
     "name": "pânico",
@@ -6217,6 +8347,74 @@
     "syllables": "cô|mo|da",
     "updatedAt": 1724700928362
   },
+  "720": {
+    "name": "dna",
+    "itemId": "720",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-46-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "dna",
+    "updatedAt": 1724887193125
+  },
+  "723": {
+    "name": "malabares",
+    "itemId": "723",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ma|la|ba|res",
+    "updatedAt": 1724737084457
+  },
+  "725": {
+    "name": "coleira",
+    "itemId": "725",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "co|lei|ra",
+    "updatedAt": 1724791432254
+  },
   "727": {
     "name": "bandana",
     "itemId": "727",
@@ -6239,6 +8437,57 @@
     "stressedSyllable": 1,
     "syllables": "ban|da|na",
     "updatedAt": 1724700932685
+  },
+  "728": {
+    "name": "joaninha",
+    "itemId": "728",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "jo|a|ni|nha",
+    "updatedAt": 1724803100208
+  },
+  "731": {
+    "name": "tocha",
+    "itemId": "731",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "to|cha",
+    "updatedAt": 1724802602933
   },
   "732": {
     "name": "retrato",
@@ -6335,6 +8584,120 @@
     "syllables": "es|pá|tu|la",
     "updatedAt": 1724700941210
   },
+  "739": {
+    "name": "tarô",
+    "itemId": "739",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ta|rô",
+    "updatedAt": 1724791994528
+  },
+  "740": {
+    "name": "toboágua",
+    "itemId": "740",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "to|bo|á|gua",
+    "updatedAt": 1724788913046
+  },
+  "741": {
+    "name": "elevador",
+    "itemId": "741",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-48-pt",
+      "ddr-39-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "e|le|va|dor",
+    "updatedAt": 1724866688601
+  },
+  "744": {
+    "name": "puff",
+    "itemId": "744",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-46-pt",
+      "ddr-43-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-27-pt",
+      "ddr-8-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "puff",
+    "updatedAt": 1724787661234
+  },
+  "745": {
+    "name": "soro",
+    "itemId": "745",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "so|ro",
+    "updatedAt": 1724737724461
+  },
   "748": {
     "name": "champagne",
     "itemId": "748",
@@ -6390,6 +8753,31 @@
     "syllables": "cer|ti|fi|ca|do",
     "updatedAt": 1724700946642
   },
+  "754": {
+    "name": "feijão",
+    "itemId": "754",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "fei|jão",
+    "updatedAt": 1724737377270
+  },
   "760": {
     "name": "boneca",
     "itemId": "760",
@@ -6411,6 +8799,29 @@
     "stressedSyllable": 1,
     "syllables": "bo|ne|ca",
     "updatedAt": 1724700948841
+  },
+  "763": {
+    "name": "martini",
+    "itemId": "763",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mar|ti|ni",
+    "updatedAt": 1724788843143
   },
   "766": {
     "name": "controlador",
@@ -6486,6 +8897,27 @@
     "stressedSyllable": 0,
     "syllables": "bas|tão",
     "updatedAt": 1724700952753
+  },
+  "788": {
+    "name": "polvo",
+    "itemId": "788",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pol|vo",
+    "updatedAt": 1724737911170
   },
   "793": {
     "name": "coruja",
@@ -6587,6 +9019,27 @@
     "stressedSyllable": 1,
     "syllables": "ba|con",
     "updatedAt": 1724700964042
+  },
+  "799": {
+    "name": "sirene",
+    "itemId": "799",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "si|re|ne",
+    "updatedAt": 1724737139330
   },
   "800": {
     "name": "turbante",
@@ -7023,6 +9476,28 @@
     "syllables": "fá|bri|ca",
     "updatedAt": 1724734075534
   },
+  "840": {
+    "name": "blazer",
+    "itemId": "840",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bla|zer",
+    "updatedAt": 1724787422711
+  },
   "843": {
     "name": "estádio",
     "itemId": "843",
@@ -7259,6 +9734,52 @@
     "syllables": "or|ni|tor|rin|co",
     "updatedAt": 1724733944578
   },
+  "868": {
+    "name": "capivara",
+    "itemId": "868",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|pi|va|ra",
+    "updatedAt": 1724736505355
+  },
+  "871": {
+    "name": "prótese",
+    "itemId": "871",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-45-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "pró|te|se",
+    "updatedAt": 1724787744728
+  },
   "874": {
     "name": "lareira",
     "itemId": "874",
@@ -7283,6 +9804,32 @@
     "stressedSyllable": 1,
     "syllables": "la|rei|ra",
     "updatedAt": 1724701015922
+  },
+  "875": {
+    "name": "biombo",
+    "itemId": "875",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-10-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bi|om|bo",
+    "updatedAt": 1724802746505
   },
   "880": {
     "name": "dominó",
@@ -7481,6 +10028,30 @@
     "syllables": "qui|mo|no",
     "updatedAt": 1724701044236
   },
+  "903": {
+    "name": "canguru",
+    "itemId": "903",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "can|gu|ru",
+    "updatedAt": 1724737801823
+  },
   "904": {
     "name": "aspargo",
     "itemId": "904",
@@ -7504,6 +10075,60 @@
     "stressedSyllable": 1,
     "syllables": "as|par|go",
     "updatedAt": 1724701046216
+  },
+  "908": {
+    "name": "cachoeira",
+    "itemId": "908",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|cho|ei|ra",
+    "updatedAt": 1724787552694
+  },
+  "909": {
+    "name": "marmita",
+    "itemId": "909",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mar|mi|ta",
+    "updatedAt": 1724866995792
   },
   "911": {
     "name": "banquinho",
@@ -7631,6 +10256,56 @@
     "syllables": "cre|me",
     "updatedAt": 1724731884157
   },
+  "924": {
+    "name": "telescópio",
+    "itemId": "924",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "te|les|có|pio",
+    "updatedAt": 1724802777310
+  },
+  "925": {
+    "name": "observatório",
+    "itemId": "925",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-45-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "ob|ser|va|tó|ri|o",
+    "updatedAt": 1724802864519
+  },
   "927": {
     "name": "tripé",
     "itemId": "927",
@@ -7676,6 +10351,77 @@
     "syllables": "vu|vu|ze|la",
     "updatedAt": 1724701060920
   },
+  "933": {
+    "name": "nachos",
+    "itemId": "933",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "na|chos",
+    "updatedAt": 1724802842333
+  },
+  "935": {
+    "name": "grilo",
+    "itemId": "935",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "gri|lo",
+    "updatedAt": 1724788707050
+  },
+  "937": {
+    "name": "esquilo",
+    "itemId": "937",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "es|qui|lo",
+    "updatedAt": 1724737813104
+  },
   "941": {
     "name": "noz",
     "itemId": "941",
@@ -7695,6 +10441,60 @@
     "stressedSyllable": 0,
     "syllables": "noz",
     "updatedAt": 1724701062686
+  },
+  "942": {
+    "name": "guaxinim",
+    "itemId": "942",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "gua|xi|nim",
+    "updatedAt": 1724737342820
+  },
+  "943": {
+    "name": "bonequinho",
+    "itemId": "943",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bo|ne|qui|nho",
+    "updatedAt": 1724737168252
   },
   "946": {
     "name": "jacuzzi",
@@ -7723,6 +10523,27 @@
     "stressedSyllable": 1,
     "syllables": "ja|cuz|zi",
     "updatedAt": 1724701096176
+  },
+  "949": {
+    "name": "mola",
+    "itemId": "949",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mo|la",
+    "updatedAt": 1724736977763
   },
   "950": {
     "name": "caracol",
@@ -7966,6 +10787,31 @@
     "syllables": "pal|co",
     "updatedAt": 1724732886076
   },
+  "989": {
+    "name": "cafeteira",
+    "itemId": "989",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|fe|tei|ra",
+    "updatedAt": 1724736540241
+  },
   "994": {
     "name": "barba",
     "itemId": "994",
@@ -7988,6 +10834,27 @@
     "stressedSyllable": 1,
     "syllables": "bar|ba",
     "updatedAt": 1724701168674
+  },
+  "996": {
+    "name": "grade",
+    "itemId": "996",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "gra|de",
+    "updatedAt": 1724737306679
   },
   "998": {
     "name": "sanfona",
@@ -8012,6 +10879,31 @@
     "stressedSyllable": 1,
     "syllables": "san|fo|na",
     "updatedAt": 1724701170691
+  },
+  "1002": {
+    "name": "poncho",
+    "itemId": "1002",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-10-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pon|cho",
+    "updatedAt": 1724787701188
   },
   "1004": {
     "name": "katana",
@@ -8299,6 +11191,33 @@
     "syllables": "tri|den|te",
     "updatedAt": 1724701191702
   },
+  "1032": {
+    "name": "comprimidos",
+    "itemId": "1032",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "com|pri|mi|dos",
+    "updatedAt": 1724791347753
+  },
   "1033": {
     "name": "isqueiro",
     "itemId": "1033",
@@ -8373,6 +11292,29 @@
     "stressedSyllable": 1,
     "syllables": "mo|fo",
     "updatedAt": 1724701199025
+  },
+  "1047": {
+    "name": "fumaça",
+    "itemId": "1047",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "fu|ma|ça",
+    "updatedAt": 1724802690442
   },
   "1062": {
     "name": "boyband",
@@ -8471,6 +11413,81 @@
     "syllables": "lom|bri|ga",
     "updatedAt": 1724701205943
   },
+  "1082": {
+    "name": "bolacha",
+    "itemId": "1082",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bo|la|cha",
+    "updatedAt": 1724787448171
+  },
+  "1085": {
+    "name": "camaleão",
+    "itemId": "1085",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ca|ma|le|ão",
+    "updatedAt": 1724788772117
+  },
+  "1086": {
+    "name": "cítara",
+    "itemId": "1086",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-45-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "cí|ta|ra",
+    "updatedAt": 1724788852904
+  },
   "1087": {
     "name": "colete",
     "itemId": "1087",
@@ -8493,6 +11510,27 @@
     "stressedSyllable": 1,
     "syllables": "co|le|te",
     "updatedAt": 1724701208074
+  },
+  "1091": {
+    "name": "bode",
+    "itemId": "1091",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bo|de",
+    "updatedAt": 1724791520482
   },
   "1092": {
     "name": "miojo",
@@ -8540,6 +11578,33 @@
     "syllables": "zum|bi",
     "updatedAt": 1724701212393
   },
+  "1101": {
+    "name": "empilhadeira",
+    "itemId": "1101",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "em|pi|lha|dei|ra",
+    "updatedAt": 1724788796060
+  },
   "1102": {
     "name": "diapasão",
     "itemId": "1102",
@@ -8564,6 +11629,56 @@
     "stressedSyllable": 0,
     "syllables": "di|a|pa|são",
     "updatedAt": 1724712525742
+  },
+  "1104": {
+    "name": "carroça",
+    "itemId": "1104",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "car|ro|ça",
+    "updatedAt": 1724803201300
+  },
+  "1110": {
+    "name": "anzol",
+    "itemId": "1110",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "an|zol",
+    "updatedAt": 1724737841252
   },
   "1112": {
     "name": "caminhão",
@@ -8681,6 +11796,27 @@
     "syllables": "pre|ga|dor",
     "updatedAt": 1724701236770
   },
+  "1128": {
+    "name": "tecido",
+    "itemId": "1128",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "te|ci|do",
+    "updatedAt": 1724867002539
+  },
   "1129": {
     "name": "flanela",
     "itemId": "1129",
@@ -8704,6 +11840,27 @@
     "stressedSyllable": 1,
     "syllables": "fla|ne|la",
     "updatedAt": 1724701238959
+  },
+  "1136": {
+    "name": "tomada",
+    "itemId": "1136",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "to|ma|da",
+    "updatedAt": 1724802826313
   },
   "1138": {
     "name": "biscoito",
@@ -8729,6 +11886,27 @@
     "stressedSyllable": 1,
     "syllables": "bis|coi|to",
     "updatedAt": 1724732605304
+  },
+  "1141": {
+    "name": "rímel",
+    "itemId": "1141",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "rí|mel",
+    "updatedAt": 1724802706603
   },
   "1142": {
     "name": "chiclete",
@@ -9272,6 +12450,29 @@
     "syllables": "ta|man|du|á",
     "updatedAt": 1724701358038
   },
+  "1210": {
+    "name": "tiara",
+    "itemId": "1210",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ti|a|ra",
+    "updatedAt": 1724791465761
+  },
   "1211": {
     "name": "grampo",
     "itemId": "1211",
@@ -9341,6 +12542,26 @@
     "stressedSyllable": 0,
     "syllables": "ser|vi|dor",
     "updatedAt": 1724701372971
+  },
+  "1218": {
+    "name": "rosa",
+    "itemId": "1218",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ro|sa",
+    "updatedAt": 1724791561171
   },
   "1222": {
     "name": "franco-atirador",
@@ -9509,6 +12730,30 @@
     "syllables": "pan|fle|to",
     "updatedAt": 1724732123657
   },
+  "1244": {
+    "name": "sapatilha",
+    "itemId": "1244",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "sa|pa|ti|lha",
+    "updatedAt": 1724887281797
+  },
   "1248": {
     "name": "veado",
     "itemId": "1248",
@@ -9576,6 +12821,53 @@
     "syllables": "har|pa",
     "updatedAt": 1724701390895
   },
+  "1256": {
+    "name": "cronômetro",
+    "itemId": "1256",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "cro|nô|me|tro",
+    "updatedAt": 1724787805632
+  },
+  "1258": {
+    "name": "prova",
+    "itemId": "1258",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-3-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pro|va",
+    "updatedAt": 1724887288338
+  },
   "1262": {
     "name": "arpão",
     "itemId": "1262",
@@ -9624,6 +12916,33 @@
     "syllables": "más|ca|ra",
     "updatedAt": 1724701394488
   },
+  "1273": {
+    "name": "parquinho",
+    "itemId": "1273",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "par|qui|nho",
+    "updatedAt": 1724787567474
+  },
   "1275": {
     "name": "trailer",
     "itemId": "1275",
@@ -9649,6 +12968,35 @@
     "syllables": "trai|ler",
     "updatedAt": 1724701404405
   },
+  "1276": {
+    "name": "porco-espinho",
+    "itemId": "1276",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-5-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "por|co-|es|pi|nho",
+    "updatedAt": 1724787688260
+  },
   "1277": {
     "name": "raposa",
     "itemId": "1277",
@@ -9669,6 +13017,32 @@
     "stressedSyllable": 1,
     "syllables": "ra|po|sa",
     "updatedAt": 1724701407005
+  },
+  "1283": {
+    "name": "tortilha",
+    "itemId": "1283",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "tor|ti|lha",
+    "updatedAt": 1724791541712
   },
   "1285": {
     "name": "coala",
@@ -9694,6 +13068,30 @@
     "stressedSyllable": 1,
     "syllables": "co|a|la",
     "updatedAt": 1724701415820
+  },
+  "1288": {
+    "name": "flutuador",
+    "itemId": "1288",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "flu|tu|a|dor",
+    "updatedAt": 1724791941283
   },
   "1290": {
     "name": "contêiner",
@@ -9767,6 +13165,31 @@
     "stressedSyllable": 1,
     "syllables": "ca|ver|na",
     "updatedAt": 1724701429723
+  },
+  "1301": {
+    "name": "tinta",
+    "itemId": "1301",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "tin|ta",
+    "updatedAt": 1724737874787
   },
   "1304": {
     "name": "maca",
@@ -9886,6 +13309,32 @@
     "syllables": "a|ma|ci|a|dor",
     "updatedAt": 1724701444214
   },
+  "1314": {
+    "name": "couro",
+    "itemId": "1314",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "cou|ro",
+    "updatedAt": 1724791596800
+  },
   "1315": {
     "name": "célula",
     "itemId": "1315",
@@ -9935,6 +13384,33 @@
     "stressedSyllable": 1,
     "syllables": "es|per|ma|to|zoi|de",
     "updatedAt": 1724701450223
+  },
+  "1324": {
+    "name": "pelourinho",
+    "itemId": "1324",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pe|lou|ri|nho",
+    "updatedAt": 1724802789634
   },
   "1326": {
     "name": "hiena",
@@ -10007,6 +13483,29 @@
     "syllables": "pé|gran|de",
     "updatedAt": 1724701458751
   },
+  "1335": {
+    "name": "suéter",
+    "itemId": "1335",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "su|é|ter",
+    "updatedAt": 1724803269641
+  },
   "1337": {
     "name": "grávida",
     "itemId": "1337",
@@ -10030,6 +13529,79 @@
     "stressedSyllable": 2,
     "syllables": "grá|vi|da",
     "updatedAt": 1724701460866
+  },
+  "1344": {
+    "name": "ervilha",
+    "itemId": "1344",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "er|vi|lha",
+    "updatedAt": 1724736698257
+  },
+  "1345": {
+    "name": "jaqueta",
+    "itemId": "1345",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ja|que|ta",
+    "updatedAt": 1724736705736
+  },
+  "1346": {
+    "name": "cadáver",
+    "itemId": "1346",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|dá|ver",
+    "updatedAt": 1724866675333
   },
   "1349": {
     "name": "gominha",
@@ -10148,6 +13720,31 @@
     "syllables": "ro|da",
     "updatedAt": 1724731511930
   },
+  "1360": {
+    "name": "esporão",
+    "itemId": "1360",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "es|po|rão",
+    "updatedAt": 1724802641175
+  },
   "1364": {
     "name": "chalé",
     "itemId": "1364",
@@ -10254,6 +13851,79 @@
     "syllables": "ter|ro|ris|ta",
     "updatedAt": 1724701478678
   },
+  "1377": {
+    "name": "açúcar",
+    "itemId": "1377",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|çú|car",
+    "updatedAt": 1724788716917
+  },
+  "1380": {
+    "name": "amêndoa",
+    "itemId": "1380",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "a|mên|do|a",
+    "updatedAt": 1724803192465
+  },
+  "1381": {
+    "name": "pó",
+    "itemId": "1381",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-46-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "pó",
+    "updatedAt": 1724737883542
+  },
   "1382": {
     "name": "iogurte",
     "itemId": "1382",
@@ -10305,6 +13975,52 @@
     "syllables": "ma|qui|a|gem",
     "updatedAt": 1724701484290
   },
+  "1387": {
+    "name": "botox",
+    "itemId": "1387",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "bo|tox",
+    "updatedAt": 1724788735483
+  },
+  "1389": {
+    "name": "silicone",
+    "itemId": "1389",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "si|li|co|ne",
+    "updatedAt": 1724867078460
+  },
   "1394": {
     "name": "faculdade",
     "itemId": "1394",
@@ -10329,6 +14045,53 @@
     "stressedSyllable": 1,
     "syllables": "fa|cul|da|de",
     "updatedAt": 1724701531840
+  },
+  "1398": {
+    "name": "dedo",
+    "itemId": "1398",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "de|do",
+    "updatedAt": 1724736654883
+  },
+  "1421": {
+    "name": "lambreta",
+    "itemId": "1421",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "lam|bre|ta",
+    "updatedAt": 1724737963054
   },
   "1428": {
     "name": "espátula",
@@ -10421,6 +14184,33 @@
     "syllables": "la|ser",
     "updatedAt": 1724701538188
   },
+  "1444": {
+    "name": "ratoeira",
+    "itemId": "1444",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ra|to|ei|ra",
+    "updatedAt": 1724737635622
+  },
   "1447": {
     "name": "jukebox",
     "itemId": "1447",
@@ -10466,6 +14256,27 @@
     "stressedSyllable": 0,
     "syllables": "C|D",
     "updatedAt": 1724701542279
+  },
+  "1456": {
+    "name": "varal",
+    "itemId": "1456",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "va|ral",
+    "updatedAt": 1724802715344
   },
   "1461": {
     "name": "aperitivo",
@@ -10615,6 +14426,28 @@
     "stressedSyllable": 1,
     "syllables": "ce|bo|li|nha",
     "updatedAt": 1724718511350
+  },
+  "1482": {
+    "name": "mirtilo",
+    "itemId": "1482",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mir|ti|lo",
+    "updatedAt": 1724737712241
   },
   "1483": {
     "name": "código binário",
@@ -10916,6 +14749,26 @@
     "syllables": "car|guei|ro",
     "updatedAt": 1724702375263
   },
+  "1507": {
+    "name": "tofu",
+    "itemId": "1507",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "to|fu",
+    "updatedAt": 1724787591571
+  },
   "1511": {
     "name": "família",
     "itemId": "1511",
@@ -11160,6 +15013,27 @@
     "syllables": "pa|pel|a|lu|mí|ni|o",
     "updatedAt": 1724708740087
   },
+  "1538": {
+    "name": "cana",
+    "itemId": "1538",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|na",
+    "updatedAt": 1724787490590
+  },
   "1539": {
     "name": "burrito",
     "itemId": "1539",
@@ -11186,6 +15060,31 @@
     "stressedSyllable": 1,
     "syllables": "bur|ri|to",
     "updatedAt": 1724708743817
+  },
+  "1541": {
+    "name": "barragem",
+    "itemId": "1541",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bar|ra|gem",
+    "updatedAt": 1724791955368
   },
   "1544": {
     "name": "mexido",
@@ -11284,6 +15183,59 @@
     "syllables": "con|ces|si|o|ná|ri|a",
     "updatedAt": 1724708755451
   },
+  "1556": {
+    "name": "professora",
+    "itemId": "1556",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-27-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pro|fes|so|ra",
+    "updatedAt": 1724791913989
+  },
+  "1558": {
+    "name": "roteiro",
+    "itemId": "1558",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-11-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ro|tei|ro",
+    "updatedAt": 1724802756209
+  },
   "1560": {
     "name": "bumbo",
     "itemId": "1560",
@@ -11332,6 +15284,60 @@
     "syllables": "la|van|de|ri|a",
     "updatedAt": 1724728436792
   },
+  "1563": {
+    "name": "correios",
+    "itemId": "1563",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-42-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-27-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "cor|rei|os",
+    "updatedAt": 1724737692148
+  },
+  "1564": {
+    "name": "frigobar",
+    "itemId": "1564",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "fri|go|bar",
+    "updatedAt": 1724737595146
+  },
   "1566": {
     "name": "salsão",
     "itemId": "1566",
@@ -11357,6 +15363,95 @@
     "syllables": "sal|são",
     "updatedAt": 1724708780188
   },
+  "1569": {
+    "name": "alavanca",
+    "itemId": "1569",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|la|van|ca",
+    "updatedAt": 1724887238091
+  },
+  "1570": {
+    "name": "polia",
+    "itemId": "1570",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "po|li|a",
+    "updatedAt": 1724738033380
+  },
+  "1572": {
+    "name": "flash",
+    "itemId": "1572",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-46-pt",
+      "ddr-43-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "flash",
+    "updatedAt": 1724788695719
+  },
+  "1576": {
+    "name": "sandália",
+    "itemId": "1576",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "san|dá|li|a",
+    "updatedAt": 1724791368305
+  },
   "1578": {
     "name": "orelha",
     "itemId": "1578",
@@ -11380,6 +15475,27 @@
     "syllables": "o|re|lha",
     "updatedAt": 1724708789943
   },
+  "1581": {
+    "name": "saliva",
+    "itemId": "1581",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "sa|li|va",
+    "updatedAt": 1724737994967
+  },
   "1582": {
     "name": "tempero",
     "itemId": "1582",
@@ -11402,6 +15518,29 @@
     "stressedSyllable": 1,
     "syllables": "tem|pe|ro",
     "updatedAt": 1724734028597
+  },
+  "1584": {
+    "name": "condor",
+    "itemId": "1584",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-10-pt",
+      "ddr-32-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "con|dor",
+    "updatedAt": 1724787513555
   },
   "1586": {
     "name": "óvulo",
@@ -11841,6 +15980,32 @@
     "syllables": "cur|rí|cu|lo",
     "updatedAt": 1724710307688
   },
+  "1636": {
+    "name": "achocolatado",
+    "itemId": "1636",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|cho|co|la|ta|do",
+    "updatedAt": 1724737761928
+  },
   "1639": {
     "name": "interfone",
     "itemId": "1639",
@@ -11867,6 +16032,55 @@
     "syllables": "in|ter|fo|ne",
     "updatedAt": 1724710310104
   },
+  "1640": {
+    "name": "roleta",
+    "itemId": "1640",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ro|le|ta",
+    "updatedAt": 1724788664629
+  },
+  "1641": {
+    "name": "abobrinha",
+    "itemId": "1641",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|bo|bri|nha",
+    "updatedAt": 1724737973609
+  },
   "1642": {
     "name": "batata doce",
     "itemId": "1642",
@@ -11890,6 +16104,32 @@
     "stressedSyllable": 1,
     "syllables": "ba|ta|ta|do|ce",
     "updatedAt": 1724710313475
+  },
+  "1644": {
+    "name": "airbag",
+    "itemId": "1644",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-5-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "air|bag",
+    "updatedAt": 1724736469234
   },
   "1646": {
     "name": "macarons",
@@ -11938,6 +16178,29 @@
     "stressedSyllable": 1,
     "syllables": "bo|a|te",
     "updatedAt": 1724710318784
+  },
+  "1660": {
+    "name": "Jenga",
+    "itemId": "1660",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-31-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "Jen|ga",
+    "updatedAt": 1724802924102
   },
   "1664": {
     "name": "kebab",
@@ -11988,6 +16251,33 @@
     "stressedSyllable": 0,
     "syllables": "bai|a|cu",
     "updatedAt": 1724710324565
+  },
+  "1666": {
+    "name": "parquímetro",
+    "itemId": "1666",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "par|quí|me|tro",
+    "updatedAt": 1724737204858
   },
   "1670": {
     "name": "forragem",
@@ -12158,6 +16448,35 @@
     "syllables": "free|zer",
     "updatedAt": 1724710335614
   },
+  "1688": {
+    "name": "hoverboard",
+    "itemId": "1688",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-5-pt",
+      "ddr-6-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ho|ver|board",
+    "updatedAt": 1724791975973
+  },
   "1689": {
     "name": "furão",
     "itemId": "1689",
@@ -12229,6 +16548,27 @@
     "syllables": "a|zu|le|jo",
     "updatedAt": 1724710340316
   },
+  "1694": {
+    "name": "muro",
+    "itemId": "1694",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mu|ro",
+    "updatedAt": 1724802835127
+  },
   "1697": {
     "name": "mandioca",
     "itemId": "1697",
@@ -12274,6 +16614,34 @@
     "stressedSyllable": 2,
     "syllables": "pe|tró|le|o",
     "updatedAt": 1724710344671
+  },
+  "1701": {
+    "name": "chroma key",
+    "itemId": "1701",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-13-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-36-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "chro|ma|key",
+    "updatedAt": 1724737791669
   },
   "1703": {
     "name": "radar",
@@ -12424,6 +16792,59 @@
     "stressedSyllable": 1,
     "syllables": "ca|tar|ro",
     "updatedAt": 1724731968216
+  },
+  "1721": {
+    "name": "meia-calça",
+    "itemId": "1721",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-5-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mei|a-|cal|ça",
+    "updatedAt": 1724788902079
+  },
+  "1723": {
+    "name": "jujuba",
+    "itemId": "1723",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ju|ju|ba",
+    "updatedAt": 1724791902256
   },
   "1724": {
     "name": "guilhotina",
@@ -12599,6 +17020,30 @@
     "syllables": "vi|na|gre",
     "updatedAt": 1724710379137
   },
+  "1742": {
+    "name": "maiô",
+    "itemId": "1742",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "mai|ô",
+    "updatedAt": 1724737188711
+  },
   "1743": {
     "name": "calça",
     "itemId": "1743",
@@ -12761,6 +17206,31 @@
     "syllables": "cho|pei|ra",
     "updatedAt": 1724731373105
   },
+  "1769": {
+    "name": "earpods",
+    "itemId": "1769",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-5-pt",
+      "ddr-6-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-3-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-48-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-23-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ear|pods",
+    "updatedAt": 1724867049080
+  },
   "1770": {
     "name": "lágrima",
     "itemId": "1770",
@@ -12850,6 +17320,33 @@
     "syllables": "cas|tor",
     "updatedAt": 1724710396828
   },
+  "1774": {
+    "name": "galinheiro",
+    "itemId": "1774",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ga|li|nhei|ro",
+    "updatedAt": 1724866951689
+  },
   "1775": {
     "name": "catedral",
     "itemId": "1775",
@@ -12894,6 +17391,32 @@
     "stressedSyllable": 1,
     "syllables": "pe|li|ca|no",
     "updatedAt": 1724710404908
+  },
+  "1781": {
+    "name": "coquetel",
+    "itemId": "1781",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "co|que|tel",
+    "updatedAt": 1724737867005
   },
   "1784": {
     "name": "colírio",
@@ -13045,6 +17568,29 @@
     "syllables": "fa|quei|ro",
     "updatedAt": 1724710422152
   },
+  "1800": {
+    "name": "batuta",
+    "itemId": "1800",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ba|tu|ta",
+    "updatedAt": 1724802934492
+  },
   "1806": {
     "name": "amianto",
     "itemId": "1806",
@@ -13167,6 +17713,94 @@
     "syllables": "es|pi|nha",
     "updatedAt": 1724710448743
   },
+  "1813": {
+    "name": "alpiste",
+    "itemId": "1813",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "al|pis|te",
+    "updatedAt": 1724887244549
+  },
+  "1815": {
+    "name": "morsa",
+    "itemId": "1815",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mor|sa",
+    "updatedAt": 1724737029415
+  },
+  "1818": {
+    "name": "emo",
+    "itemId": "1818",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "e|mo",
+    "updatedAt": 1724802819605
+  },
+  "1820": {
+    "name": "nude",
+    "itemId": "1820",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "nu|de",
+    "updatedAt": 1724737042601
+  },
   "1823": {
     "name": "café",
     "itemId": "1823",
@@ -13214,6 +17848,30 @@
     "stressedSyllable": 1,
     "syllables": "pan|da-|ver|me|lho",
     "updatedAt": 1724731840261
+  },
+  "1826": {
+    "name": "toupeira",
+    "itemId": "1826",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "tou|pei|ra",
+    "updatedAt": 1724737528072
   },
   "1828": {
     "name": "lêmure",
@@ -13263,6 +17921,28 @@
     "syllables": "bur|ro",
     "updatedAt": 1724710454723
   },
+  "1830": {
+    "name": "javali",
+    "itemId": "1830",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ja|va|li",
+    "updatedAt": 1724736687427
+  },
   "1832": {
     "name": "túnica",
     "itemId": "1832",
@@ -13285,6 +17965,30 @@
     "stressedSyllable": 2,
     "syllables": "tú|ni|ca",
     "updatedAt": 1724710457235
+  },
+  "1834": {
+    "name": "penteadeira",
+    "itemId": "1834",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pen|te|a|dei|ra",
+    "updatedAt": 1724737827018
   },
   "1835": {
     "name": "camarim",
@@ -13337,6 +18041,26 @@
     "syllables": "ma|cra|mê",
     "updatedAt": 1724710463463
   },
+  "1837": {
+    "name": "nerd",
+    "itemId": "1837",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-46-pt",
+      "ddr-43-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-8-pt",
+      "ddr-29-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "nerd",
+    "updatedAt": 1724737178579
+  },
   "1839": {
     "name": "vômito",
     "itemId": "1839",
@@ -13358,6 +18082,26 @@
     "stressedSyllable": 2,
     "syllables": "vô|mi|to",
     "updatedAt": 1724710466539
+  },
+  "1840": {
+    "name": "variz",
+    "itemId": "1840",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "va|riz",
+    "updatedAt": 1724736643656
   },
   "1842": {
     "name": "nervo",
@@ -13453,6 +18197,29 @@
     "syllables": "cas|qui|nha",
     "updatedAt": 1724710476859
   },
+  "1848": {
+    "name": "marfim",
+    "itemId": "1848",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "mar|fim",
+    "updatedAt": 1724738050842
+  },
   "1854": {
     "name": "esteira",
     "itemId": "1854",
@@ -13478,6 +18245,28 @@
     "stressedSyllable": 1,
     "syllables": "es|tei|ra",
     "updatedAt": 1724710479840
+  },
+  "1857": {
+    "name": "escova",
+    "itemId": "1857",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "es|co|va",
+    "updatedAt": 1724802646923
   },
   "1858": {
     "name": "maçã",
@@ -13523,6 +18312,27 @@
     "stressedSyllable": 1,
     "syllables": "da|mas|co",
     "updatedAt": 1724710485097
+  },
+  "1860": {
+    "name": "figo",
+    "itemId": "1860",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "fi|go",
+    "updatedAt": 1724737425289
   },
   "1861": {
     "name": "cereja",
@@ -13682,6 +18492,31 @@
     "syllables": "ten|tá|cu|lo",
     "updatedAt": 1724710499622
   },
+  "1876": {
+    "name": "brownie",
+    "itemId": "1876",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-36-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "brow|nie",
+    "updatedAt": 1724787758131
+  },
   "1878": {
     "name": "tubarão-martelo",
     "itemId": "1878",
@@ -13737,6 +18572,29 @@
     "syllables": "pei|xe-|pes|ca|dor",
     "updatedAt": 1724710506384
   },
+  "1884": {
+    "name": "prêmio",
+    "itemId": "1884",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "prê|mio",
+    "updatedAt": 1724802804718
+  },
   "1885": {
     "name": "pódio",
     "itemId": "1885",
@@ -13761,6 +18619,31 @@
     "syllables": "pó|di|o",
     "updatedAt": 1724710511594
   },
+  "1891": {
+    "name": "metralhadora",
+    "itemId": "1891",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "me|tra|lha|do|ra",
+    "updatedAt": 1724791554448
+  },
   "1892": {
     "name": "arbaleta",
     "itemId": "1892",
@@ -13783,6 +18666,31 @@
     "stressedSyllable": 1,
     "syllables": "ar|ba|le|ta",
     "updatedAt": 1724732198086
+  },
+  "1895": {
+    "name": "amora",
+    "itemId": "1895",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|mo|ra",
+    "updatedAt": 1724737018824
   },
   "1896": {
     "name": "framboesa",
@@ -13884,6 +18792,100 @@
     "syllables": "cen|to|pei|a",
     "updatedAt": 1724710522289
   },
+  "1903": {
+    "name": "nabo",
+    "itemId": "1903",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "na|bo",
+    "updatedAt": 1724791984069
+  },
+  "1904": {
+    "name": "rabanete",
+    "itemId": "1904",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ra|ba|ne|te",
+    "updatedAt": 1724737860683
+  },
+  "1905": {
+    "name": "joelheira",
+    "itemId": "1905",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "jo|e|lhei|ra",
+    "updatedAt": 1724791387463
+  },
+  "1912": {
+    "name": "jabuticaba",
+    "itemId": "1912",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ja|bu|ti|ca|ba",
+    "updatedAt": 1724737611962
+  },
   "1913": {
     "name": "tábua",
     "itemId": "1913",
@@ -13952,6 +18954,33 @@
     "stressedSyllable": 1,
     "syllables": "pin|ça",
     "updatedAt": 1724710528669
+  },
+  "1918": {
+    "name": "açaí",
+    "itemId": "1918",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "a|ça|í",
+    "updatedAt": 1724788808168
   },
   "1919": {
     "name": "ouriço-do-mar",
@@ -14129,6 +19158,32 @@
     "syllables": "ca|ra",
     "updatedAt": 1724710544077
   },
+  "1934": {
+    "name": "biblioteca",
+    "itemId": "1934",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bi|bli|o|te|ca",
+    "updatedAt": 1724738021155
+  },
   "1937": {
     "name": "melão",
     "itemId": "1937",
@@ -14172,6 +19227,27 @@
     "stressedSyllable": 1,
     "syllables": "a|mi|gos",
     "updatedAt": 1724710548777
+  },
+  "1939": {
+    "name": "maestro",
+    "itemId": "1939",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ma|es|tro",
+    "updatedAt": 1724802665768
   },
   "1940": {
     "name": "criança",
@@ -14273,6 +19349,53 @@
     "stressedSyllable": 1,
     "syllables": "bar|ca|-|pi|ra|ta",
     "updatedAt": 1724710573083
+  },
+  "1947": {
+    "name": "tetris",
+    "itemId": "1947",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-10-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "te|tris",
+    "updatedAt": 1724788674208
+  },
+  "1950": {
+    "name": "urubu",
+    "itemId": "1950",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-9-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "u|ru|bu",
+    "updatedAt": 1724788874201
   },
   "1952": {
     "name": "rotatória",
@@ -14496,6 +19619,26 @@
     "syllables": "es|pi|ão",
     "updatedAt": 1724710597842
   },
+  "1972": {
+    "name": "selva",
+    "itemId": "1972",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "sel|va",
+    "updatedAt": 1724737748108
+  },
   "1974": {
     "name": "filho",
     "itemId": "1974",
@@ -14518,6 +19661,31 @@
     "stressedSyllable": 1,
     "syllables": "fi|lho",
     "updatedAt": 1724710601032
+  },
+  "1975": {
+    "name": "cabeleireira",
+    "itemId": "1975",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|be|lei|rei|ra",
+    "updatedAt": 1724788760872
   },
   "1976": {
     "name": "lavrador",
@@ -14587,6 +19755,52 @@
     "stressedSyllable": 0,
     "syllables": "ju|iz",
     "updatedAt": 1724710608939
+  },
+  "1979": {
+    "name": "burca",
+    "itemId": "1979",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bur|ca",
+    "updatedAt": 1724787602944
+  },
+  "1980": {
+    "name": "pedreiro",
+    "itemId": "1980",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pe|drei|ro",
+    "updatedAt": 1724737478264
   },
   "1984": {
     "name": "glíter",
@@ -14729,6 +19943,79 @@
     "syllables": "ma|ri|nhei|ro",
     "updatedAt": 1724710620934
   },
+  "2005": {
+    "name": "repórter",
+    "itemId": "2005",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-29-pt",
+      "ddr-39-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "re|pór|ter",
+    "updatedAt": 1724787736552
+  },
+  "2007": {
+    "name": "garçom",
+    "itemId": "2007",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "gar|çom",
+    "updatedAt": 1724737151691
+  },
+  "2009": {
+    "name": "cientista",
+    "itemId": "2009",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ci|en|tis|ta",
+    "updatedAt": 1724787645297
+  },
   "2012": {
     "name": "corredor",
     "itemId": "2012",
@@ -14779,6 +20066,34 @@
     "syllables": "mu|lher",
     "updatedAt": 1724710626885
   },
+  "2019": {
+    "name": "chocalho",
+    "itemId": "2019",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "cho|ca|lho",
+    "updatedAt": 1724802612456
+  },
   "2020": {
     "name": "pica-pau",
     "itemId": "2020",
@@ -14806,6 +20121,28 @@
     "stressedSyllable": 0,
     "syllables": "pi|ca-|pau",
     "updatedAt": 1724712460565
+  },
+  "2021": {
+    "name": "lontra",
+    "itemId": "2021",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "lon|tra",
+    "updatedAt": 1724791495141
   },
   "2024": {
     "name": "caranguejo-eremita",
@@ -14884,6 +20221,27 @@
     "stressedSyllable": 1,
     "syllables": "ca|mi|sa|de|for|ça",
     "updatedAt": 1724710634559
+  },
+  "2033": {
+    "name": "casulo",
+    "itemId": "2033",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ca|su|lo",
+    "updatedAt": 1724787506536
   },
   "2034": {
     "name": "seda",
@@ -14976,6 +20334,31 @@
     "syllables": "es|pre|me|dor",
     "updatedAt": 1724710646059
   },
+  "2039": {
+    "name": "tinta",
+    "itemId": "2039",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "tin|ta",
+    "updatedAt": 1724788881027
+  },
   "2044": {
     "name": "bordado",
     "itemId": "2044",
@@ -15000,6 +20383,57 @@
     "syllables": "bor|da|do",
     "updatedAt": 1724710649316
   },
+  "2046": {
+    "name": "massa",
+    "itemId": "2046",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "mas|sa",
+    "updatedAt": 1724787497580
+  },
+  "2061": {
+    "name": "nuggets",
+    "itemId": "2061",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-27-pt",
+      "ddr-11-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "nug|gets",
+    "updatedAt": 1724791587126
+  },
   "2068": {
     "name": "girasol",
     "itemId": "2068",
@@ -15022,6 +20456,27 @@
     "stressedSyllable": 0,
     "syllables": "gi|ra|sol",
     "updatedAt": 1724710656106
+  },
+  "2070": {
+    "name": "tulipa",
+    "itemId": "2070",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "tu|li|pa",
+    "updatedAt": 1724787617862
   },
   "2071": {
     "name": "margarida",
@@ -15046,6 +20501,51 @@
     "syllables": "mar|ga|ri|da",
     "updatedAt": 1724732993369
   },
+  "2089": {
+    "name": "hotel",
+    "itemId": "2089",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ho|tel",
+    "updatedAt": 1724736963558
+  },
+  "2093": {
+    "name": "boneco",
+    "itemId": "2093",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bo|ne|co",
+    "updatedAt": 1724736481959
+  },
   "2094": {
     "name": "lava-jato",
     "itemId": "2094",
@@ -15068,6 +20568,30 @@
     "stressedSyllable": 1,
     "syllables": "la|va-|ja|to",
     "updatedAt": 1724718562457
+  },
+  "2103": {
+    "name": "identidade",
+    "itemId": "2103",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "i|den|ti|da|de",
+    "updatedAt": 1724737700257
   },
   "2111": {
     "name": "papinha",
@@ -15215,6 +20739,26 @@
     "syllables": "kart",
     "updatedAt": 1724710665508
   },
+  "2131": {
+    "name": "pista",
+    "itemId": "2131",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pis|ta",
+    "updatedAt": 1724787455637
+  },
   "2134": {
     "name": "fofoca",
     "itemId": "2134",
@@ -15240,6 +20784,32 @@
     "stressedSyllable": 1,
     "syllables": "fo|fo|ca",
     "updatedAt": 1724710669867
+  },
+  "2138": {
+    "name": "riquixá",
+    "itemId": "2138",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-31-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "ri|qui|xá",
+    "updatedAt": 1724803070435
   },
   "2140": {
     "name": "raspadinha",
@@ -15384,6 +20954,54 @@
     "syllables": "hé|li|ce",
     "updatedAt": 1724711554778
   },
+  "2166": {
+    "name": "empregada",
+    "itemId": "2166",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "em|pre|ga|da",
+    "updatedAt": 1724867021301
+  },
+  "2177": {
+    "name": "Oscar",
+    "itemId": "2177",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-25-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "Os|car",
+    "updatedAt": 1724737433924
+  },
   "2178": {
     "name": "gladiador",
     "itemId": "2178",
@@ -15433,6 +21051,35 @@
     "stressedSyllable": 2,
     "syllables": "ca|ná|ri|o",
     "updatedAt": 1724711560163
+  },
+  "2180": {
+    "name": "passarinho",
+    "itemId": "2180",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-22-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-27-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pas|sa|ri|nho",
+    "updatedAt": 1724802738464
   },
   "2183": {
     "name": "buggy",
@@ -15556,6 +21203,30 @@
     "syllables": "a|não",
     "updatedAt": 1724711574941
   },
+  "2197": {
+    "name": "bucha",
+    "itemId": "2197",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bu|cha",
+    "updatedAt": 1724737891410
+  },
   "2198": {
     "name": "pintinho",
     "itemId": "2198",
@@ -15582,6 +21253,29 @@
     "syllables": "pin|ti|nho",
     "updatedAt": 1724711578152
   },
+  "2203": {
+    "name": "sandália",
+    "itemId": "2203",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "san|dá|li|a",
+    "updatedAt": 1724787524059
+  },
   "2204": {
     "name": "Crocs",
     "itemId": "2204",
@@ -15607,6 +21301,79 @@
     "stressedSyllable": 0,
     "syllables": "Crocs",
     "updatedAt": 1724711581891
+  },
+  "2207": {
+    "name": "mangual",
+    "itemId": "2207",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-33-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "man|gual",
+    "updatedAt": 1724791326442
+  },
+  "2210": {
+    "name": "cadeia elétrica",
+    "itemId": "2210",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-45-pt",
+      "ddr-41-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-12-pt",
+      "ddr-13-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "ca|deia|elé|tri|ca",
+    "updatedAt": 1724802767677
+  },
+  "2213": {
+    "name": "luneta",
+    "itemId": "2213",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "lu|ne|ta",
+    "updatedAt": 1724737297898
   },
   "2214": {
     "name": "flecha",
@@ -15706,6 +21473,33 @@
     "stressedSyllable": 1,
     "syllables": "Á|sia",
     "updatedAt": 1724732067979
+  },
+  "2248": {
+    "name": "açougue",
+    "itemId": "2248",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-48-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|çou|gue",
+    "updatedAt": 1724867029964
   },
   "2251": {
     "name": "lichia",
@@ -16068,6 +21862,31 @@
     "syllables": "mi|to|se",
     "updatedAt": 1724711692420
   },
+  "2303": {
+    "name": "esterco",
+    "itemId": "2303",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-11-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "es|ter|co",
+    "updatedAt": 1724737371193
+  },
   "2333": {
     "name": "galochas",
     "itemId": "2333",
@@ -16187,6 +22006,82 @@
     "stressedSyllable": 2,
     "syllables": "ce|mi|té|ri|o",
     "updatedAt": 1724711710906
+  },
+  "2352": {
+    "name": "gôndola",
+    "itemId": "2352",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-45-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "gôn|do|la",
+    "updatedAt": 1724787775418
+  },
+  "2362": {
+    "name": "gravadora",
+    "itemId": "2362",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "gra|va|do|ra",
+    "updatedAt": 1724890067853
+  },
+  "2365": {
+    "name": "beterraba",
+    "itemId": "2365",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-22-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-27-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "be|ter|ra|ba",
+    "updatedAt": 1724737093535
   },
   "2368": {
     "name": "salame",
@@ -16360,6 +22255,54 @@
     "syllables": "cre|che",
     "updatedAt": 1724711724653
   },
+  "2397": {
+    "name": "kombi",
+    "itemId": "2397",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-6-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-9-pt",
+      "ddr-47-pt",
+      "ddr-36-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "kom|bi",
+    "updatedAt": 1724791422035
+  },
+  "2398": {
+    "name": "hormônio",
+    "itemId": "2398",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-45-pt",
+      "ddr-22-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-34-pt",
+      "ddr-47-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 2,
+    "syllables": "hor|mô|ni|o",
+    "updatedAt": 1724890018940
+  },
   "2399": {
     "name": "cacatua",
     "itemId": "2399",
@@ -16486,6 +22429,26 @@
     "syllables": "cân|cer",
     "updatedAt": 1724711735624
   },
+  "2408": {
+    "name": "sapo",
+    "itemId": "2408",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "sa|po",
+    "updatedAt": 1724791526116
+  },
   "2409": {
     "name": "zoológico",
     "itemId": "2409",
@@ -16509,6 +22472,52 @@
     "stressedSyllable": 2,
     "syllables": "zo|o|ló|gi|co",
     "updatedAt": 1724711737906
+  },
+  "2411": {
+    "name": "pinhão",
+    "itemId": "2411",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-3-pt",
+      "ddr-43-pt",
+      "ddr-48-pt",
+      "ddr-37-pt",
+      "ddr-14-pt",
+      "ddr-33-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "pi|nhão",
+    "updatedAt": 1724737556697
+  },
+  "2412": {
+    "name": "braço",
+    "itemId": "2412",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-44-pt",
+      "ddr-3-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-48-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bra|ço",
+    "updatedAt": 1724887256824
   },
   "2413": {
     "name": "umbigo",
@@ -16601,6 +22610,30 @@
     "syllables": "fí|si|ca|quân|ti|ca",
     "updatedAt": 1724711745976
   },
+  "2434": {
+    "name": "chip",
+    "itemId": "2434",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-6-pt",
+      "ddr-46-pt",
+      "ddr-43-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-39-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "chip",
+    "updatedAt": 1724736608777
+  },
   "2437": {
     "name": "moldura",
     "itemId": "2437",
@@ -16668,6 +22701,71 @@
     "stressedSyllable": 0,
     "syllables": "noz",
     "updatedAt": 1724711752663
+  },
+  "2440": {
+    "name": "telhado",
+    "itemId": "2440",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-11-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "te|lha|do",
+    "updatedAt": 1724802728516
+  },
+  "2445": {
+    "name": "pub",
+    "itemId": "2445",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-46-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-8-pt",
+      "ddr-30-pt",
+      "ddr-39-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "pub",
+    "updatedAt": 1724887155930
+  },
+  "2446": {
+    "name": "sunga",
+    "itemId": "2446",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-3-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "sun|ga",
+    "updatedAt": 1724736528414
   },
   "2447": {
     "name": "túnel",
@@ -16771,6 +22869,33 @@
     "syllables": "bom|ba-|re|ló|gi|o",
     "updatedAt": 1724732817461
   },
+  "2454": {
+    "name": "aveia",
+    "itemId": "2454",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-41-pt",
+      "ddr-14-pt",
+      "ddr-15-pt",
+      "ddr-17-pt",
+      "ddr-7-pt",
+      "ddr-9-pt",
+      "ddr-28-pt",
+      "ddr-29-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-18-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "a|vei|a",
+    "updatedAt": 1724736495223
+  },
   "2455": {
     "name": "gárgula",
     "itemId": "2455",
@@ -16795,6 +22920,28 @@
     "stressedSyllable": 2,
     "syllables": "gár|gu|la",
     "updatedAt": 1724711762009
+  },
+  "2456": {
+    "name": "poltrona",
+    "itemId": "2456",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-4-pt",
+      "ddr-44-pt",
+      "ddr-48-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "pol|tro|na",
+    "updatedAt": 1724788684792
   },
   "2457": {
     "name": "pomada",
@@ -16908,6 +23055,34 @@
     "stressedSyllable": 1,
     "syllables": "es|ca|va|dei|ra",
     "updatedAt": 1724728366285
+  },
+  "2467": {
+    "name": "escrivaninha",
+    "itemId": "2467",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-33-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-29-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-25-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "es|cri|va|ni|nha",
+    "updatedAt": 1724737007577
   },
   "2469": {
     "name": "arranha-céu",
