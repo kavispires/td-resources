@@ -22766,15 +22766,16 @@
     ]
   },
   "1891": {
-    "id": "1891",
     "name": {
       "en": "machine gun",
       "pt": "metralhadora"
     },
+    "id": "1891",
     "decks": [
       "alien",
       "dream",
       "manufactured",
+      "thing",
       "weapon"
     ]
   },
@@ -24068,7 +24069,7 @@
     "id": "2005",
     "name": {
       "en": "reporter",
-      "pt": "reporter"
+      "pt": "repórter"
     },
     "decks": [
       "alien",
