@@ -1,6 +1,6 @@
 {
-  "?": {
-    "id": "?",
+  "tools": {
+    "id": "tools",
     "title": {
       "en": "Tools",
       "pt": "Ferramentas"
@@ -802,8 +802,8 @@
       "2233"
     ]
   },
-  "clothes-a": {
-    "id": "clothes-a",
+  "clothes-top": {
+    "id": "clothes-top",
     "title": {
       "en": "Clothes A",
       "pt": "Roupas A"
@@ -848,8 +848,8 @@
       "2371"
     ]
   },
-  "clothes-b": {
-    "id": "clothes-b",
+  "clothes-bottom": {
+    "id": "clothes-bottom",
     "title": {
       "en": "Clothes B",
       "pt": "Roupas B"
@@ -1517,8 +1517,8 @@
       "1690"
     ]
   },
-  "miscellaneousI": {
-    "id": "miscellaneousI",
+  "paper": {
+    "id": "paper",
     "title": {
       "en": "Paper",
       "pt": "Papel"
