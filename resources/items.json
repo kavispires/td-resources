@@ -5834,11 +5834,14 @@
     ]
   },
   "464": {
-    "id": "464",
     "name": {
       "en": "utensils",
-      "pt": "utensílios"
+      "pt": "talheres"
     },
+    "id": "464",
+    "aliasesPt": [
+      "utensílios"
+    ],
     "decks": [
       "alien",
       "evidence",
