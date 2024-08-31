@@ -442,7 +442,7 @@
     "id": "33",
     "name": {
       "en": "magnet",
-      "pt": "imã"
+      "pt": "ímã"
     },
     "decks": [
       "alien",
@@ -15903,7 +15903,7 @@
     "id": "1303",
     "name": {
       "en": "mouthwash",
-      "pt": "desinfetante bucal"
+      "pt": "enxaguante bucal"
     },
     "decks": [
       "alien",
@@ -16295,11 +16295,14 @@
     ]
   },
   "1336": {
+    "id": "1336",
     "name": {
       "en": "karen",
-      "pt": "aborrecida"
+      "pt": "barraqueira"
     },
-    "id": "1336",
+    "aliasesPt": [
+      "aborrecida"
+    ],
     "decks": [
       "alien",
       "suspect"
@@ -22964,7 +22967,7 @@
     "id": "1908",
     "name": {
       "en": "oboe",
-      "pt": "oboe"
+      "pt": "oboé"
     },
     "decks": [
       "alien",
@@ -26569,11 +26572,11 @@
     "groups": []
   },
   "2212": {
+    "id": "2212",
     "name": {
       "en": "magazine",
-      "pt": "carregador"
+      "pt": "cartucho"
     },
-    "id": "2212",
     "decks": [
       "alien",
       "evidence"
