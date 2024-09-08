@@ -14465,6 +14465,12 @@
       "en": "do not cross tape",
       "pt": "fita de não ultrapassar"
     },
+    "aliasesEn": [
+      "crime scene"
+    ],
+    "aliasesPt": [
+      "fita policial"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -29699,5 +29705,658 @@
       "dream"
     ],
     "groups": []
+  },
+  "2471": {
+    "name": {
+      "en": "crook and flail",
+      "pt": "cajado e açoite"
+    },
+    "id": "2471",
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2472": {
+    "id": "2472",
+    "name": {
+      "en": "cross wrench",
+      "pt": "chave cruz"
+    },
+    "decks": [
+      "alien",
+      "thing",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2473": {
+    "id": "2473",
+    "name": {
+      "en": "stabilizer",
+      "pt": "estabilizador"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2474": {
+    "name": {
+      "en": "movie set",
+      "pt": "cenário"
+    },
+    "id": "2474",
+    "aliasesPt": [
+      "set de filmagem"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2475": {
+    "name": {
+      "en": "dolly",
+      "pt": "grua"
+    },
+    "id": "2475",
+    "aliasesPt": [
+      "câmera dolly"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2476": {
+    "id": "2476",
+    "name": {
+      "en": "mannequin dummy",
+      "pt": "boneco de treino"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2477": {
+    "name": {
+      "en": "wing chun dummy",
+      "pt": "boneco de madeira"
+    },
+    "id": "2477",
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2478": {
+    "id": "2478",
+    "name": {
+      "en": "tutu",
+      "pt": "tutu"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2479": {
+    "id": "2479",
+    "name": {
+      "en": "mitt",
+      "pt": "luva de beisebol"
+    },
+    "aliasesEn": [
+      "baseball mitt"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2480": {
+    "id": "2480",
+    "name": {
+      "en": "toy train",
+      "pt": "trenzinho"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2481": {
+    "id": "2481",
+    "name": {
+      "en": "tea set",
+      "pt": "conjunto de chá"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2482": {
+    "id": "2482",
+    "name": {
+      "en": "coconut",
+      "pt": "coco"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2483": {
+    "id": "2483",
+    "name": {
+      "en": "refreshments",
+      "pt": "refrescos"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2484": {
+    "name": {
+      "en": "programmer",
+      "pt": "programador"
+    },
+    "id": "2484",
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2485": {
+    "name": {
+      "en": "fake knife",
+      "pt": "faca de mentira"
+    },
+    "id": "2485",
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2486": {
+    "id": "2486",
+    "name": {
+      "en": "graphics tablet",
+      "pt": "tablet gráfico"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2487": {
+    "name": {
+      "en": "protractor",
+      "pt": "transferidor"
+    },
+    "id": "2487",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2488": {
+    "id": "2488",
+    "name": {
+      "en": "pouch",
+      "pt": "bolsinha"
+    },
+    "aliasesPt": [
+      "saco"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2489": {
+    "name": {
+      "en": "police uniform",
+      "pt": "uniforme de polícia"
+    },
+    "id": "2489",
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2490": {
+    "name": {
+      "en": "police cap",
+      "pt": "chapéu de polícia"
+    },
+    "id": "2490",
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2491": {
+    "name": {
+      "en": "crime scene",
+      "pt": "cena do crime"
+    },
+    "id": "2491",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2492": {
+    "name": {
+      "en": "recorder",
+      "pt": "gravador"
+    },
+    "id": "2492",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2493": {
+    "name": {
+      "en": "bribe",
+      "pt": "propina"
+    },
+    "id": "2493",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2494": {
+    "name": {
+      "en": "mugshot",
+      "pt": "foto de identificação"
+    },
+    "id": "2494",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2495": {
+    "id": "2495",
+    "name": {
+      "en": "wire",
+      "pt": "escuta"
+    },
+    "aliasesEn": [
+      "mic"
+    ],
+    "groups": []
+  },
+  "2496": {
+    "name": {
+      "en": "heartbreak",
+      "pt": "término"
+    },
+    "id": "2496",
+    "aliasesEn": [
+      "heartbroken"
+    ],
+    "aliasesPt": [
+      "coração partido"
+    ],
+    "decks": [
+      "symbol"
+    ],
+    "groups": []
+  },
+  "2497": {
+    "name": {
+      "en": "knight",
+      "pt": "cavaleiro"
+    },
+    "id": "2497",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2498": {
+    "id": "2498",
+    "name": {
+      "en": "center",
+      "pt": "centro"
+    },
+    "aliasesPt": [
+      "central",
+      "meio"
+    ],
+    "groups": []
+  },
+  "2499": {
+    "name": {
+      "en": "thumbs up",
+      "pt": "joinha"
+    },
+    "id": "2499",
+    "aliasesEn": [
+      "approve",
+      "like"
+    ],
+    "aliasesPt": [
+      "curtida",
+      "like"
+    ],
+    "decks": [
+      "symbol"
+    ],
+    "groups": []
+  },
+  "2500": {
+    "name": {
+      "en": "thumbs down",
+      "pt": "não gostei"
+    },
+    "id": "2500",
+    "aliasesEn": [
+      "disapprove",
+      "dislike"
+    ],
+    "aliasesPt": [
+      "descurtir",
+      "joinha para baixo"
+    ],
+    "groups": []
+  },
+  "2501": {
+    "id": "2501",
+    "name": {
+      "en": "sarcophagus",
+      "pt": "sarcófago"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2502": {
+    "id": "2502",
+    "name": {
+      "en": "buffet",
+      "pt": "self-service"
+    },
+    "aliasesPt": [
+      "buffet"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2503": {
+    "name": {
+      "en": "file cabinet",
+      "pt": "arquivo"
+    },
+    "id": "2503",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2504": {
+    "name": {
+      "en": "parmesan",
+      "pt": "parmesão"
+    },
+    "id": "2504",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2505": {
+    "name": {
+      "en": "bean stew",
+      "pt": "feijoada"
+    },
+    "id": "2505",
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2506": {
+    "id": "2506",
+    "name": {
+      "en": "atlas",
+      "pt": "atlas"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2507": {
+    "id": "2507",
+    "name": {
+      "en": "infographics",
+      "pt": "infográfico"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2508": {
+    "id": "2508",
+    "name": {
+      "en": "disguise",
+      "pt": "disfarce"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2509": {
+    "id": "2509",
+    "name": {
+      "en": "swiss cheese",
+      "pt": "queijo suíço"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2510": {
+    "id": "2510",
+    "name": {
+      "en": "charcuterie board",
+      "pt": "tábua de frios"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2511": {
+    "id": "2511",
+    "name": {
+      "en": "grap",
+      "pt": "pegar"
+    },
+    "aliasesEn": [
+      "touch"
+    ],
+    "aliasesPt": [
+      "tocar"
+    ],
+    "groups": []
+  },
+  "2512": {
+    "name": {
+      "en": "spit",
+      "pt": "cuspe"
+    },
+    "id": "2512",
+    "groups": []
+  },
+  "2513": {
+    "name": {
+      "en": "sorry",
+      "pt": "desculpa"
+    },
+    "id": "2513",
+    "aliasesEn": [
+      "forgiveness"
+    ],
+    "aliasesPt": [
+      "arrependimento",
+      "perdão"
+    ],
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2514": {
+    "id": "2514",
+    "name": {
+      "en": "area",
+      "pt": "área"
+    },
+    "decks": [
+      "symbol",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2515": {
+    "id": "2515",
+    "name": {
+      "en": "wi-fi",
+      "pt": "wi-fi"
+    },
+    "decks": [
+      "symbol",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2516": {
+    "id": "2516",
+    "name": {
+      "en": "everywhere",
+      "pt": "todo lugar"
+    },
+    "decks": [
+      "symbol"
+    ],
+    "groups": []
+  },
+  "2517": {
+    "id": "2517",
+    "name": {
+      "en": "gays",
+      "pt": "gays"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2518": {
+    "id": "2518",
+    "name": {
+      "en": "lesbians",
+      "pt": "lésbicas"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2519": {
+    "id": "2519",
+    "name": {
+      "en": "frankenstein",
+      "pt": "frankenstein"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2520": {
+    "name": {
+      "en": "jockstrap",
+      "pt": "suspensor"
+    },
+    "id": "2520",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": [],
+    "nsfw": true
   }
 }
