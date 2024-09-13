@@ -24977,22 +24977,40 @@
     "groups": []
   },
   "2080": {
-    "name": {
-      "en": "approval seal",
-      "pt": "selo de aprovação"
-    },
     "id": "2080",
+    "name": {
+      "en": "thumbs up",
+      "pt": "joinha"
+    },
+    "aliasesEn": [
+      "approval",
+      "like"
+    ],
+    "aliasesPt": [
+      "curtida",
+      "like"
+    ],
     "decks": [
       "symbol"
     ],
     "groups": []
   },
   "2081": {
-    "name": {
-      "en": "rejection seal",
-      "pt": "selo de rejeição"
-    },
     "id": "2081",
+    "name": {
+      "en": "thumbs down",
+      "pt": "não gostei"
+    },
+    "aliasesEn": [
+      "disapprove",
+      "dislike",
+      "rejection"
+    ],
+    "aliasesPt": [
+      "descurtir",
+      "joinha pra baixo",
+      "rejeição"
+    ],
     "decks": [
       "symbol"
     ],
@@ -27723,11 +27741,11 @@
     "groups": []
   },
   "2307": {
+    "id": "2307",
     "name": {
       "en": "aries sign",
-      "pt": "símbolo de Áries"
+      "pt": "signo de Áries"
     },
-    "id": "2307",
     "decks": [
       "symbol"
     ],
@@ -27745,11 +27763,11 @@
     "groups": []
   },
   "2309": {
+    "id": "2309",
     "name": {
       "en": "Taurus sign",
-      "pt": "símbolo de Touro"
+      "pt": "signo de Touro"
     },
-    "id": "2309",
     "decks": [
       "symbol"
     ],
@@ -27767,11 +27785,11 @@
     "groups": []
   },
   "2311": {
+    "id": "2311",
     "name": {
       "en": "Gemini sign",
-      "pt": "Símbolo de Gêmeos"
+      "pt": "signo de Gêmeos"
     },
-    "id": "2311",
     "decks": [
       "symbol"
     ],
@@ -27792,7 +27810,7 @@
     "id": "2313",
     "name": {
       "en": "Cancer sign",
-      "pt": "Símbolo de Câncer"
+      "pt": "signo de Câncer"
     },
     "decks": [
       "symbol"
@@ -27813,7 +27831,7 @@
   "2315": {
     "name": {
       "en": "Leo sign",
-      "pt": "Símbolo de Leão"
+      "pt": "signo de Leão"
     },
     "id": "2315",
     "decks": [
@@ -27901,7 +27919,7 @@
   "2323": {
     "name": {
       "en": "Sagittarius sign",
-      "pt": "Símbolo de Sagitário"
+      "pt": "signo de Sagitário"
     },
     "id": "2323",
     "decks": [
@@ -27924,7 +27942,7 @@
     "id": "2325",
     "name": {
       "en": "Capricorn sign",
-      "pt": "Símbolo de Capricórnio"
+      "pt": "signo de Capricórnio"
     },
     "decks": [
       "symbol"
@@ -27945,7 +27963,7 @@
   "2327": {
     "name": {
       "en": "Aquarius sign",
-      "pt": "Símbolo de Aquário"
+      "pt": "signo de Aquário"
     },
     "id": "2327",
     "decks": [
@@ -27967,7 +27985,7 @@
   "2329": {
     "name": {
       "en": "Pisces sign",
-      "pt": "Símbolo de peixes"
+      "pt": "signo de peixes"
     },
     "id": "2329",
     "decks": [
@@ -28303,6 +28321,9 @@
       "pt": "Antártica"
     },
     "id": "2357",
+    "aliasesPt": [
+      "polo sul"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -30075,37 +30096,35 @@
     "groups": []
   },
   "2499": {
-    "id": "2499",
     "name": {
-      "en": "thumbs up",
-      "pt": "joinha"
+      "en": "ceremonial pipe",
+      "pt": "cachimbo da paz"
     },
+    "id": "2499",
     "aliasesEn": [
-      "approve",
-      "like"
+      "pipe"
     ],
-    "aliasesPt": [
-      "curtida",
-      "like"
-    ],
+    "aliasesPt": [],
     "decks": [
-      "symbol"
+      "alien",
+      "dream"
     ],
     "groups": []
   },
   "2500": {
     "id": "2500",
     "name": {
-      "en": "thumbs down",
-      "pt": "não gostei"
+      "en": "raw material",
+      "pt": "matéria-prima"
     },
-    "aliasesEn": [
-      "disapprove",
-      "dislike"
-    ],
+    "aliasesEn": [],
     "aliasesPt": [
-      "descurtir",
-      "joinha para baixo"
+      "materiais"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
     ],
     "groups": []
   },

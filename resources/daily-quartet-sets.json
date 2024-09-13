@@ -1481,13 +1481,16 @@
   },
   "dqs-0124-br": {
     "id": "dqs-0124-br",
+    "type": "thematic",
     "title": "Veículos aquáticos",
     "itemsIds": [
       "91",
       "168",
-      "460",
       "572",
-      "762"
+      "762",
+      "1506",
+      "1612",
+      "1866"
     ],
     "level": 0
   },
@@ -3711,10 +3714,17 @@
     "level": 1
   },
   "dqs-0311-br": {
+    "title": "cheese",
     "id": "dqs-0311-br",
-    "title": "",
-    "itemsIds": [],
-    "level": 0
+    "type": "thematic",
+    "itemsIds": [
+      "487",
+      "1458",
+      "1463",
+      "2504",
+      "2509"
+    ],
+    "level": 1
   },
   "dqs-0312-br": {
     "id": "dqs-0312-br",
