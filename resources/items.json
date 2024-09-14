@@ -30469,5 +30469,83 @@
       "evidence"
     ],
     "groups": []
+  },
+  "2526": {
+    "name": {
+      "en": "detonator",
+      "pt": "detonador"
+    },
+    "id": "2526",
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2527": {
+    "id": "2527",
+    "name": {
+      "en": "hostage",
+      "pt": "refêm"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2528": {
+    "name": {
+      "en": "bat",
+      "pt": "bastão"
+    },
+    "id": "2528",
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2529": {
+    "id": "2529",
+    "name": {
+      "en": "uzi",
+      "pt": "submetralhadora"
+    },
+    "aliasesEn": [
+      "submachine gun."
+    ],
+    "decks": [
+      "alien",
+      "manufactured",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2530": {
+    "name": {
+      "en": "smoke grenade",
+      "pt": "granada de fumaça"
+    },
+    "id": "2530",
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2531": {
+    "name": {
+      "en": "special effects",
+      "pt": "efeitos especiais"
+    },
+    "id": "2531",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "thing"
+    ],
+    "groups": []
   }
 }
