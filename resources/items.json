@@ -2221,11 +2221,15 @@
     ]
   },
   "175": {
-    "id": "175",
     "name": {
       "en": "chemistry",
       "pt": "solução química"
     },
+    "id": "175",
+    "aliasesEn": [
+      "chemicals",
+      "solution"
+    ],
     "decks": [
       "alien"
     ]
@@ -19203,6 +19207,9 @@
       "en": "spices",
       "pt": "temperos"
     },
+    "aliasesEn": [
+      "seasoning"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -30545,6 +30552,124 @@
       "dream",
       "manufactured",
       "thing"
+    ],
+    "groups": []
+  },
+  "2532": {
+    "id": "2532",
+    "name": {
+      "en": "holster",
+      "pt": "coldre"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2533": {
+    "id": "2533",
+    "name": {
+      "en": "sledgehammer",
+      "pt": "marreta"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2534": {
+    "id": "2534",
+    "name": {
+      "en": "flamenco dress",
+      "pt": "vestido de flamenco"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2535": {
+    "name": {
+      "en": "flared dress",
+      "pt": "saia rodada"
+    },
+    "id": "2535",
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2536": {
+    "name": {
+      "en": "adapter",
+      "pt": "adaptador"
+    },
+    "id": "2536",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2537": {
+    "id": "2537",
+    "name": {
+      "en": "our lady",
+      "pt": "nossa senhora"
+    },
+    "aliasesEn": [
+      "our lady"
+    ],
+    "aliasesPt": [
+      "maria",
+      "santa"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2538": {
+    "name": {
+      "en": "birth control",
+      "pt": "anticoncepcional"
+    },
+    "id": "2538",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2539": {
+    "id": "2539",
+    "name": {
+      "en": "macumba",
+      "pt": "macumba"
+    },
+    "aliasesEn": [
+      "voodoo"
+    ],
+    "aliasesPt": [
+      "despacho"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "weapon"
     ],
     "groups": []
   }
