@@ -47,7 +47,7 @@
       "pt": "osso de galinha"
     },
     "tags": ["food", "holdable", "organic"],
-    "itemId": "1002"
+    "itemId": "1022"
   },
   "dmhk-wp-006": {
     "id": "dmhk-wp-006",
@@ -347,7 +347,7 @@
       "pt": "sapato de cimento"
     },
     "tags": ["drowning", "heavy"],
-    "itemId": "494"
+    "itemId": "1802"
   },
   "dmhk-wp-036": {
     "id": "dmhk-wp-036",
@@ -533,8 +533,8 @@
     "id": "dmhk-wp-054",
     "type": "weapon",
     "name": {
-      "pt": "garfo e faca",
-      "en": "knife and fork"
+      "pt": "talheres",
+      "en": "utensils"
     },
     "tags": ["sharp", "utensils", "punctureable"],
     "itemId": "464"
@@ -624,7 +624,7 @@
     "type": "weapon",
     "name": {
       "pt": "micro-ondas",
-      "en": "microwave oven"
+      "en": "microwave"
     },
     "tags": ["electronic", "heavy", "powered", "food"],
     "itemId": "152"
@@ -1007,7 +1007,7 @@
       "en": "chemicals"
     },
     "tags": ["melting", "glass", "poisonous", "chemical"],
-    "itemId": "37"
+    "itemId": "175"
   },
   "dmhk-wp-102": {
     "id": "dmhk-wp-102",
@@ -1047,7 +1047,7 @@
       "en": "liquid drug"
     },
     "tags": ["liquid", "drug", "ingestible"],
-    "itemId": "1117"
+    "itemId": "1119"
   },
   "dmhk-wp-106": {
     "id": "dmhk-wp-106",
@@ -1137,7 +1137,7 @@
       "en": "controlled demolition"
     },
     "tags": ["action"],
-    "itemId": "1067"
+    "itemId": "2526"
   },
   "dmhk-wp-115": {
     "id": "dmhk-wp-115",
@@ -1441,5 +1441,110 @@
     "tags": [""],
     "itemId": "151",
     "itemExclusive": true
+  },
+  "dmhk-wp-144": {
+    "id": "dmhk-wp-144",
+    "type": "weapon",
+    "name": {
+      "en": "sledgehammer",
+      "pt": "marreta"
+    },
+    "tags": [""],
+    "itemId": "1174",
+    "itemExclusive": true
+  },
+  "dmhk-wp-145": {
+    "id": "dmhk-wp-145",
+    "type": "weapon",
+    "name": {
+      "en": "special effects",
+      "pt": "efeitos especiais"
+    },
+    "tags": [""],
+    "itemId": "2531",
+    "itemExclusive": true
+  },
+  "dmhk-wp-146": {
+    "id": "dmhk-wp-146",
+    "type": "weapon",
+    "name": {
+      "en": "garden gnome",
+      "pt": "gnomo de jardim"
+    },
+    "tags": [""],
+    "itemId": "960",
+    "itemExclusive": true
+  },
+  "dmhk-wp-147": {
+    "id": "dmhk-wp-147",
+    "type": "weapon",
+    "name": {
+      "en": "voodoo",
+      "pt": "macumba"
+    },
+    "tags": [""],
+    "itemId": "",
+    "itemExclusive": true
+  },
+  "dmhk-wp-148": {
+    "id": "dmhk-wp-148",
+    "type": "weapon",
+    "name": {
+      "en": "remo",
+      "pt": "oar"
+    },
+    "tags": [""],
+    "itemId": "1025",
+    "itemExclusive": true
+  },
+  "dmhk-wp-149": {
+    "id": "dmhk-wp-149",
+    "type": "weapon",
+    "name": {
+      "en": "award",
+      "pt": "prêmio"
+    },
+    "tags": [],
+    "itemId": "1884"
+  },
+  "dmhk-wp-150": {
+    "id": "dmhk-wp-150",
+    "type": "weapon",
+    "name": {
+      "en": "time bomb",
+      "pt": "bomba-relógio"
+    },
+    "tags": [],
+    "itemId": "2453"
+  },
+  "dmhk-wp-151": {
+    "id": "dmhk-wp-151",
+    "type": "weapon",
+    "name": {
+      "en": "umbrella",
+      "pt": "guarda-chuva"
+    },
+    "tags": [],
+    "itemId": "197"
+  },
+  "dmhk-wp-152": {
+    "id": "dmhk-wp-152",
+    "type": "weapon",
+    "name": {
+      "en": "walking stick",
+      "pt": "bengala"
+    },
+    "tags": [],
+    "itemId": "613"
+  },
+  "dmhk-wp-153": {
+    "id": "dmhk-wp-153",
+    "type": "weapon",
+    "name": {
+      "en": "jump rope",
+      "pt": "corda de pular"
+    },
+    "tags": [],
+    "itemId": "1094"
   }
 }
