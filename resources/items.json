@@ -2221,11 +2221,11 @@
     ]
   },
   "175": {
+    "id": "175",
     "name": {
       "en": "chemistry",
       "pt": "solução química"
     },
-    "id": "175",
     "aliasesEn": [
       "chemicals",
       "solution"
@@ -19202,11 +19202,11 @@
     ]
   },
   "1582": {
-    "id": "1582",
     "name": {
       "en": "spices",
       "pt": "temperos"
     },
+    "id": "1582",
     "aliasesEn": [
       "seasoning"
     ],
@@ -30556,11 +30556,11 @@
     "groups": []
   },
   "2532": {
-    "id": "2532",
     "name": {
       "en": "holster",
       "pt": "coldre"
     },
+    "id": "2532",
     "decks": [
       "alien",
       "dream",
@@ -30569,11 +30569,11 @@
     "groups": []
   },
   "2533": {
-    "id": "2533",
     "name": {
       "en": "sledgehammer",
       "pt": "marreta"
     },
+    "id": "2533",
     "decks": [
       "alien",
       "dream",
@@ -30594,11 +30594,11 @@
     "groups": []
   },
   "2535": {
+    "id": "2535",
     "name": {
       "en": "flared dress",
       "pt": "saia rodada"
     },
-    "id": "2535",
     "decks": [
       "alien",
       "evidence"
@@ -30606,24 +30606,25 @@
     "groups": []
   },
   "2536": {
+    "id": "2536",
     "name": {
       "en": "adapter",
       "pt": "adaptador"
     },
-    "id": "2536",
     "decks": [
       "alien",
       "dream",
+      "evidence",
       "manufactured"
     ],
     "groups": []
   },
   "2537": {
-    "id": "2537",
     "name": {
       "en": "our lady",
       "pt": "nossa senhora"
     },
+    "id": "2537",
     "aliasesEn": [
       "our lady"
     ],
@@ -30637,7 +30638,8 @@
       "evidence",
       "thing"
     ],
-    "groups": []
+    "groups": [],
+    "nsfw": true
   },
   "2538": {
     "name": {
@@ -30651,14 +30653,15 @@
       "evidence",
       "thing"
     ],
-    "groups": []
+    "groups": [],
+    "nsfw": true
   },
   "2539": {
-    "id": "2539",
     "name": {
       "en": "macumba",
       "pt": "macumba"
     },
+    "id": "2539",
     "aliasesEn": [
       "voodoo"
     ],
@@ -30670,6 +30673,130 @@
       "dream",
       "evidence",
       "weapon"
+    ],
+    "groups": []
+  },
+  "2540": {
+    "id": "2540",
+    "name": {
+      "en": "dog fur",
+      "pt": "pelos"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2541": {
+    "id": "2541",
+    "name": {
+      "en": "scratch",
+      "pt": "arranhado"
+    },
+    "aliasesEn": [
+      "mark"
+    ],
+    "decks": [
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2542": {
+    "name": {
+      "en": "scratch",
+      "pt": "raspadinha"
+    },
+    "id": "2542",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2543": {
+    "name": {
+      "en": "bookmaker",
+      "pt": "casa de apostas"
+    },
+    "id": "2543",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2544": {
+    "id": "2544",
+    "name": {
+      "en": "form",
+      "pt": "formulário"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2545": {
+    "id": "2545",
+    "name": {
+      "en": "rapid test",
+      "pt": "teste de covid"
+    },
+    "aliasesEn": [
+      "covid test"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2546": {
+    "id": "2546",
+    "name": {
+      "en": "vaccine",
+      "pt": "vacina"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2547": {
+    "id": "2547",
+    "name": {
+      "en": "thirst",
+      "pt": "sede"
+    },
+    "aliasesEn": [
+      "dehydration"
+    ],
+    "aliasesPt": [
+      "desidratação"
+    ],
+    "decks": [
+      "dream",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2548": {
+    "id": "2548",
+    "name": {
+      "en": "sweat",
+      "pt": "suor"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
     ],
     "groups": []
   }
