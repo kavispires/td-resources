@@ -6,8 +6,19 @@
       "en": "bees",
       "pt": "abelhas"
     },
-    "tags": ["insect", "allergy", "sting"],
-    "itemId": "181"
+    "itemId": "181",
+    "tags": [
+      "allergy",
+      "animal",
+      "bruise",
+      "flying",
+      "insect",
+      "many",
+      "organic",
+      "outdoors",
+      "sting",
+      "venomous"
+    ]
   },
   "dmhk-wp-002": {
     "id": "dmhk-wp-002",
@@ -16,8 +27,20 @@
       "en": "tequila",
       "pt": "tequila"
     },
-    "tags": ["drink", "glass", "holdable"],
-    "itemId": "680"
+    "itemId": "680",
+    "tags": [
+      "alcohol",
+      "bottle",
+      "drink",
+      "feelings",
+      "glass",
+      "holdable",
+      "ingestible",
+      "leisure",
+      "liquid",
+      "organic",
+      "powder"
+    ]
   },
   "dmhk-wp-003": {
     "id": "dmhk-wp-003",
@@ -26,8 +49,8 @@
       "en": "peanut",
       "pt": "amendoim"
     },
-    "tags": ["food", "allergy", "holdable"],
-    "itemId": "495"
+    "itemId": "495",
+    "tags": ["allergy", "food", "holdable", "ingestible", "many", "organic", "plant", "small", "snack"]
   },
   "dmhk-wp-004": {
     "id": "dmhk-wp-004",
@@ -36,8 +59,22 @@
       "en": "assault rifle",
       "pt": "rifle"
     },
-    "tags": ["firearm", "holdable", "large", "sound"],
-    "itemId": "4"
+    "itemId": "4",
+    "tags": [
+      "dangerous",
+      "firearm",
+      "hard",
+      "holdable",
+      "large",
+      "many",
+      "metal",
+      "military",
+      "powered",
+      "projectile",
+      "sharp",
+      "sound",
+      "weapon"
+    ]
   },
   "dmhk-wp-005": {
     "id": "dmhk-wp-005",
@@ -46,8 +83,8 @@
       "en": "chicken bone",
       "pt": "osso de galinha"
     },
-    "tags": ["food", "holdable", "organic"],
-    "itemId": "1022"
+    "itemId": "1022",
+    "tags": ["food", "holdable", "ingestible", "organic", "sharp"]
   },
   "dmhk-wp-006": {
     "id": "dmhk-wp-006",
@@ -56,8 +93,8 @@
       "en": "throwing star",
       "pt": "estrela ninja"
     },
-    "tags": ["sharp", "holdable", "projectile"],
-    "itemId": "146"
+    "itemId": "146",
+    "tags": ["blade", "holdable", "metal", "projectile", "punctureable", "sharp", "small", "weapon"]
   },
   "dmhk-wp-007": {
     "id": "dmhk-wp-007",
@@ -66,8 +103,8 @@
       "en": "sewer rat",
       "pt": "ratazana de esgoto"
     },
-    "tags": ["animal", "dirty", "bite"],
-    "itemId": "506"
+    "itemId": "506",
+    "tags": ["animal", "bite", "dirty", "disease", "flexible", "fur", "outdoors", "small", "urban"]
   },
   "dmhk-wp-008": {
     "id": "dmhk-wp-008",
@@ -76,8 +113,8 @@
       "en": "black widow",
       "pt": "viúva negra"
     },
-    "tags": ["insect", "venomous", "bite"],
-    "itemId": "153"
+    "itemId": "153",
+    "tags": ["animal", "bite", "dangerous", "fragile", "insect", "venomous"]
   },
   "dmhk-wp-009": {
     "id": "dmhk-wp-009",
@@ -86,8 +123,8 @@
       "en": "saw",
       "pt": "serrote"
     },
-    "tags": ["blade", "sharp", "holdable", "tool"],
-    "itemId": "1005"
+    "itemId": "1005",
+    "tags": ["blade", "cutting", "dangerous", "hard", "holdable", "metal", "power", "sharp", "tool"]
   },
   "dmhk-wp-010": {
     "id": "dmhk-wp-010",
@@ -96,8 +133,8 @@
       "en": "boiling water",
       "pt": "água fervente"
     },
-    "tags": ["liquid"],
-    "itemId": "1050"
+    "itemId": "1050",
+    "tags": ["heat", "liquid", "warm", "wet"]
   },
   "dmhk-wp-011": {
     "id": "dmhk-wp-011",
@@ -106,8 +143,20 @@
       "en": "powder drug",
       "pt": "droga em pó"
     },
-    "tags": ["drug", "ingestible", "inhaleable", "powder"],
-    "itemId": "331"
+    "itemId": "331",
+    "tags": [
+      "addictive",
+      "dangerous",
+      "drug",
+      "illegal",
+      "ingestible",
+      "inhaleable",
+      "medical",
+      "metal",
+      "powder",
+      "powered",
+      "stimulant"
+    ]
   },
   "dmhk-wp-012": {
     "id": "dmhk-wp-012",
@@ -116,8 +165,8 @@
       "en": "saxophone",
       "pt": "saxofone"
     },
-    "tags": ["holdable", "mouth-on", "large"],
-    "itemId": "314"
+    "itemId": "314",
+    "tags": ["holdable", "instrument", "large", "mouth-on", "sound"]
   },
   "dmhk-wp-013": {
     "id": "dmhk-wp-013",
@@ -126,8 +175,8 @@
       "en": "dehydration",
       "pt": "desidratação"
     },
-    "tags": ["condition", "prolonged", "passive"],
-    "itemId": "341"
+    "itemId": "2548",
+    "tags": ["condition", "dangerous", "disease", "passive", "prolonged"]
   },
   "dmhk-wp-014": {
     "id": "dmhk-wp-014",
@@ -136,8 +185,8 @@
       "en": "explosives",
       "pt": "explosivos"
     },
-    "tags": ["inflammable"],
-    "itemId": "304"
+    "itemId": "304",
+    "tags": ["dangerous", "inflammable", "military", "projectile", "weapon"]
   },
   "dmhk-wp-015": {
     "id": "dmhk-wp-015",
@@ -146,8 +195,8 @@
       "en": "shotgun",
       "pt": "espingarda"
     },
-    "tags": ["firearm", "holdable"],
-    "itemId": "1034"
+    "itemId": "1034",
+    "tags": ["dangerous", "firearm", "holdable", "metal", "military", "projectile", "weapon"]
   },
   "dmhk-wp-016": {
     "id": "dmhk-wp-016",
@@ -156,8 +205,8 @@
       "en": "lighter",
       "pt": "isqueiro"
     },
-    "tags": ["inflammable", "holdable", "small"],
-    "itemId": "1033"
+    "itemId": "1033",
+    "tags": ["heat", "holdable", "inflammable", "small", "tool"]
   },
   "dmhk-wp-017": {
     "id": "dmhk-wp-017",
@@ -166,8 +215,8 @@
       "en": "headphones",
       "pt": "fone de ouvido"
     },
-    "tags": ["electronic", "cord", "holdable", "wearable"],
-    "itemId": "164"
+    "itemId": "164",
+    "tags": ["accessory", "cord", "electronic", "holdable", "leisure", "wearable"]
   },
   "dmhk-wp-018": {
     "id": "dmhk-wp-018",
@@ -176,8 +225,8 @@
       "en": "hammer",
       "pt": "martelo"
     },
-    "tags": ["tool", "holdable", "punctureable"],
-    "itemId": "156"
+    "itemId": "156",
+    "tags": ["construction", "holdable", "punctureable", "tool"]
   },
   "dmhk-wp-019": {
     "id": "dmhk-wp-019",
@@ -186,8 +235,8 @@
       "en": "for sale sign",
       "pt": "placa de à venda"
     },
-    "tags": ["punctureable", "holdable", "large"],
-    "itemId": "1020"
+    "itemId": "1020",
+    "tags": ["communication", "holdable", "large", "outdoor", "paper", "punctureable", "urban"]
   },
   "dmhk-wp-020": {
     "id": "dmhk-wp-020",
@@ -196,8 +245,8 @@
       "en": "spear",
       "pt": "lança"
     },
-    "tags": ["sharp", "holdable", "punctureable", "weapon"],
-    "itemId": "273"
+    "itemId": "273",
+    "tags": ["holdable", "meele", "old", "punctureable", "sharp", "weapon"]
   },
   "dmhk-wp-021": {
     "id": "dmhk-wp-021",
@@ -206,8 +255,8 @@
       "en": "rope",
       "pt": "corda"
     },
-    "tags": ["cord", "holdable"],
-    "itemId": "100"
+    "itemId": "100",
+    "tags": ["cord", "flexible", "holdable", "long"]
   },
   "dmhk-wp-022": {
     "id": "dmhk-wp-022",
@@ -216,8 +265,8 @@
       "en": "push",
       "pt": "empurro"
     },
-    "tags": ["action", "touch"],
-    "itemId": "1063"
+    "itemId": "1063",
+    "tags": ["action", "force", "touch"]
   },
   "dmhk-wp-023": {
     "id": "dmhk-wp-023",
@@ -226,8 +275,17 @@
       "en": "virus",
       "pt": "vírus"
     },
-    "tags": ["organic", "ingestible"],
-    "itemId": "244"
+    "itemId": "244",
+    "tags": [
+      "biological",
+      "dangerous",
+      "disease",
+      "infectious",
+      "ingestible",
+      "medical",
+      "microorganism",
+      "organic"
+    ]
   },
   "dmhk-wp-024": {
     "id": "dmhk-wp-024",
@@ -236,8 +294,8 @@
       "en": "axe",
       "pt": "machado"
     },
-    "tags": ["sharp", "holdable"],
-    "itemId": "89"
+    "itemId": "89",
+    "tags": ["cutting", "dangerous", "holdable", "metal", "sharp", "tool", "weapon"]
   },
   "dmhk-wp-025": {
     "id": "dmhk-wp-025",
@@ -246,8 +304,8 @@
       "en": "electric current",
       "pt": "corrente elétrica"
     },
-    "tags": ["electronic", "force"],
-    "itemId": "446"
+    "itemId": "446",
+    "tags": ["dangerous", "electricity", "electronic", "force", "powered"]
   },
   "dmhk-wp-026": {
     "id": "dmhk-wp-026",
@@ -256,8 +314,8 @@
       "en": "ice skates",
       "pt": "patins de gelo"
     },
-    "tags": ["sharp", "holdable", "wearable"],
-    "itemId": "692"
+    "itemId": "692",
+    "tags": ["holdable", "leisure", "sharp", "sport", "wearable"]
   },
   "dmhk-wp-027": {
     "id": "dmhk-wp-027",
@@ -266,18 +324,18 @@
       "en": "wine",
       "pt": "vinho"
     },
-    "tags": ["drink", "glass", "holdable"],
-    "itemId": "178"
+    "itemId": "355",
+    "tags": ["alcohol", "bottle", "drink", "glass", "holdable", "ingestible", "liquid", "social"]
   },
   "dmhk-wp-028": {
     "id": "dmhk-wp-028",
     "type": "weapon",
     "name": {
-      "en": "poisonous needle",
-      "pt": "agulha envenenada"
+      "en": "forca",
+      "pt": "gallows"
     },
-    "tags": ["poisonous", "injectable", "punctureable"],
-    "itemId": "1024"
+    "itemId": "1024",
+    "tags": ["suffocation", "intentional", "binding"]
   },
   "dmhk-wp-029": {
     "id": "dmhk-wp-029",
@@ -286,8 +344,18 @@
       "en": "injection",
       "pt": "injeção"
     },
-    "tags": ["injectable", "holdable", "liquid", "ingestible"],
-    "itemId": "209"
+    "itemId": "209",
+    "tags": [
+      "dangerous",
+      "drug",
+      "holdable",
+      "ingestible",
+      "injectable",
+      "invasive",
+      "liquid",
+      "medical",
+      "needle"
+    ]
   },
   "dmhk-wp-030": {
     "id": "dmhk-wp-030",
@@ -296,8 +364,8 @@
       "en": "arson",
       "pt": "incêndio culposo"
     },
-    "tags": ["inflammable", "action", "melting"],
-    "itemId": "39"
+    "itemId": "39",
+    "tags": ["action", "destruction", "heat", "inflammable", "intentional", "melting"]
   },
   "dmhk-wp-031": {
     "id": "dmhk-wp-031",
@@ -306,8 +374,8 @@
       "en": "brick",
       "pt": "tijolo"
     },
-    "tags": ["heavy", "holdable", "solid"],
-    "itemId": "269"
+    "itemId": "269",
+    "tags": ["building", "construction", "hard", "heavy", "holdable", "solid", "throw"]
   },
   "dmhk-wp-032": {
     "id": "dmhk-wp-032",
@@ -316,8 +384,18 @@
       "en": "radiation",
       "pt": "radiação"
     },
-    "tags": ["condition", "force", "melting", "prolonged"],
-    "itemId": "512"
+    "itemId": "512",
+    "tags": [
+      "condition",
+      "dangerous",
+      "energy",
+      "force",
+      "invisible",
+      "medical",
+      "melting",
+      "power",
+      "prolonged"
+    ]
   },
   "dmhk-wp-033": {
     "id": "dmhk-wp-033",
@@ -326,8 +404,8 @@
       "en": "starvation",
       "pt": "fome"
     },
-    "tags": ["condition", "prolonged"],
-    "itemId": "1038"
+    "itemId": "1038",
+    "tags": ["condition", "dangerous", "deprivation", "health", "prolonged"]
   },
   "dmhk-wp-034": {
     "id": "dmhk-wp-034",
@@ -336,8 +414,8 @@
       "en": "overdose",
       "pt": "overdose"
     },
-    "tags": ["condition", "action", "ingestible"],
-    "itemId": "1075"
+    "itemId": "1075",
+    "tags": ["accident", "action", "condition", "dangerous", "drug", "excessive", "ingestible", "medical"]
   },
   "dmhk-wp-035": {
     "id": "dmhk-wp-035",
@@ -346,8 +424,8 @@
       "en": "cement shoes",
       "pt": "sapato de cimento"
     },
-    "tags": ["drowning", "heavy"],
-    "itemId": "1802"
+    "itemId": "1802",
+    "tags": ["drowning", "hard", "heavy", "intentional"]
   },
   "dmhk-wp-036": {
     "id": "dmhk-wp-036",
@@ -356,8 +434,8 @@
       "en": "candlestick",
       "pt": "castiçal"
     },
-    "tags": ["heavy", "holdable", "inflammable"],
-    "itemId": "1007"
+    "itemId": "1007",
+    "tags": ["decor", "fragile", "heavy", "holdable", "inflammable", "light", "object"]
   },
   "dmhk-wp-037": {
     "id": "dmhk-wp-037",
@@ -366,8 +444,8 @@
       "en": "pill",
       "pt": "comprimido"
     },
-    "tags": ["ingestible", "drug", "medical"],
-    "itemId": "208"
+    "itemId": "1032",
+    "tags": ["drug", "ingestible", "medical", "small"]
   },
   "dmhk-wp-038": {
     "id": "dmhk-wp-038",
@@ -376,8 +454,8 @@
       "en": "whip",
       "pt": "chicote"
     },
-    "tags": ["cord", "bruise", "holdable"],
-    "itemId": "476"
+    "itemId": "476",
+    "tags": ["bruise", "cord", "flexible", "holdable", "weapon"]
   },
   "dmhk-wp-039": {
     "id": "dmhk-wp-039",
@@ -386,8 +464,8 @@
       "en": "pesticide",
       "pt": "pesticida"
     },
-    "tags": ["poisonous", "ingestible"],
-    "itemId": "1008"
+    "itemId": "1008",
+    "tags": ["chemical", "dangerous", "ingestible", "liquid", "outdoor", "poisonous", "spray"]
   },
   "dmhk-wp-040": {
     "id": "dmhk-wp-040",
@@ -396,1029 +474,1111 @@
       "en": "match",
       "pt": "caixa de fósforos"
     },
-    "tags": ["inflammable", "holdable", "small"],
-    "itemId": "534"
+    "itemId": "534",
+    "tags": ["fire", "heat", "holdable", "inflammable", "small", "tool"]
   },
   "dmhk-wp-041": {
     "id": "dmhk-wp-041",
     "type": "weapon",
     "name": {
-      "pt": "carrapato",
-      "en": "tick"
+      "en": "tick",
+      "pt": "carrapato"
     },
-    "tags": ["insect", "dirty"],
-    "itemId": "936"
+    "itemId": "936",
+    "tags": ["animal", "biological", "bite", "dirty", "disease", "infectious", "insect", "parasite", "small"]
   },
   "dmhk-wp-042": {
     "id": "dmhk-wp-042",
     "type": "weapon",
     "name": {
-      "pt": "carro",
-      "en": "car"
+      "en": "car",
+      "pt": "carro"
     },
-    "tags": ["transport", "heavy"],
-    "itemId": "10"
+    "itemId": "10",
+    "tags": ["heavy", "machine", "powered", "transport", "urban"]
   },
   "dmhk-wp-043": {
     "id": "dmhk-wp-043",
     "type": "weapon",
     "name": {
-      "pt": "soco",
-      "en": "punch"
+      "en": "punch",
+      "pt": "soco"
     },
-    "tags": ["action", "touch"],
-    "itemId": "1039"
+    "itemId": "1039",
+    "tags": [
+      "action",
+      "combat",
+      "force",
+      "harmful",
+      "impact",
+      "intentional",
+      "meele",
+      "personal",
+      "physical",
+      "touch"
+    ]
   },
   "dmhk-wp-044": {
     "id": "dmhk-wp-044",
     "type": "weapon",
     "name": {
-      "pt": "microfone",
-      "en": "microphone"
+      "en": "microphone",
+      "pt": "microfone"
     },
-    "tags": ["tool", "holdable", "sound"],
-    "itemId": "143"
+    "itemId": "143",
+    "tags": ["communication", "electronic", "holdable", "instrument", "solid", "sound", "tool", "voice"]
   },
   "dmhk-wp-045": {
     "id": "dmhk-wp-045",
     "type": "weapon",
     "name": {
-      "pt": "lata de sopa",
-      "en": "soup can"
+      "en": "soup can",
+      "pt": "lata de sopa"
     },
-    "tags": ["food", "sharp", "holdable"],
-    "itemId": "1093"
+    "itemId": "1093",
+    "tags": ["container", "food", "holdable", "metal", "sharp", "solid"]
   },
   "dmhk-wp-046": {
     "id": "dmhk-wp-046",
     "type": "weapon",
     "name": {
-      "pt": "liquidificador",
-      "en": "blender"
+      "en": "blender",
+      "pt": "liquidificador"
     },
-    "tags": ["sharp", "holdable", "powered", "sound"],
-    "itemId": "307"
+    "itemId": "307",
+    "tags": ["cooking", "cutting", "holdable", "kitchen", "powered", "sharp", "sound", "tool"]
   },
   "dmhk-wp-047": {
     "id": "dmhk-wp-047",
     "type": "weapon",
     "name": {
-      "pt": "pé de cabra",
-      "en": "crowbar"
+      "en": "crowbar",
+      "pt": "pé de cabra"
     },
-    "tags": ["weapon", "holdable", "metal"],
-    "itemId": "688"
+    "itemId": "688",
+    "tags": ["construction", "force", "holdable", "metal", "tool", "weapon"]
   },
   "dmhk-wp-048": {
     "id": "dmhk-wp-048",
     "type": "weapon",
     "name": {
-      "pt": "antraz",
-      "en": "anthrax"
+      "en": "anthrax",
+      "pt": "antraz"
     },
-    "tags": ["ingestible", "powder", "inhaleable", "poisonous"],
-    "itemId": "1265"
+    "itemId": "1265",
+    "tags": [
+      "biological",
+      "dangerous",
+      "disease",
+      "infectious",
+      "ingestible",
+      "inhalable",
+      "inhaleable",
+      "microorganism",
+      "poisonous",
+      "powder"
+    ]
   },
   "dmhk-wp-049": {
     "id": "dmhk-wp-049",
     "type": "weapon",
     "name": {
-      "pt": "pisoteado",
-      "en": "trample"
+      "en": "trample",
+      "pt": "pisoteado"
     },
-    "tags": ["action", "touch"],
-    "itemId": "1116"
+    "itemId": "1116",
+    "tags": [
+      "accident",
+      "action",
+      "crowd",
+      "dangerous",
+      "destruction",
+      "force",
+      "heavy",
+      "meele",
+      "physical",
+      "touch"
+    ]
   },
   "dmhk-wp-050": {
     "id": "dmhk-wp-050",
     "type": "weapon",
     "name": {
-      "pt": "cacto",
-      "en": "cactus"
+      "en": "cactus",
+      "pt": "cacto"
     },
-    "tags": ["sharp", "plant"],
-    "itemId": "173"
+    "itemId": "173",
+    "tags": ["invasive", "organic", "outdoor", "plant", "sharp", "thorn"]
   },
   "dmhk-wp-051": {
     "id": "dmhk-wp-051",
     "type": "weapon",
     "name": {
-      "pt": "troféu",
-      "en": "trophy"
+      "en": "trophy",
+      "pt": "troféu"
     },
-    "tags": ["holdable", "personal"],
-    "itemId": "183"
+    "itemId": "183",
+    "tags": ["decor", "holdable", "object", "personal", "wealth"]
   },
   "dmhk-wp-052": {
     "id": "dmhk-wp-052",
     "type": "weapon",
     "name": {
-      "pt": "ônibus",
-      "en": "bus"
+      "en": "bus",
+      "pt": "ônibus"
     },
-    "tags": ["transport", "large", "heavy"],
-    "itemId": "851"
+    "itemId": "851",
+    "tags": ["heavy", "large", "powered", "transport", "urban", "vehicle"]
   },
   "dmhk-wp-053": {
     "id": "dmhk-wp-053",
     "type": "weapon",
     "name": {
-      "pt": "cirurgia",
-      "en": "surgery"
+      "en": "surgery",
+      "pt": "cirurgia"
     },
-    "tags": ["action", "accident", "medical"],
-    "itemId": "1037"
+    "itemId": "1037",
+    "tags": ["accident", "action", "cutting", "dangerous", "health", "invasive", "medical", "tool"]
   },
   "dmhk-wp-054": {
     "id": "dmhk-wp-054",
     "type": "weapon",
     "name": {
-      "pt": "talheres",
-      "en": "utensils"
+      "en": "utensils",
+      "pt": "talheres"
     },
-    "tags": ["sharp", "utensils", "punctureable"],
-    "itemId": "464"
+    "itemId": "464",
+    "tags": ["cooking", "eating", "food", "metal", "punctureable", "sharp", "tool", "utensils"]
   },
   "dmhk-wp-055": {
     "id": "dmhk-wp-055",
     "type": "weapon",
     "name": {
-      "pt": "cão raivoso",
-      "en": "mad dog"
+      "en": "mad dog",
+      "pt": "cão raivoso"
     },
-    "tags": ["animal", "bite", "dirty"],
-    "itemId": "1253"
+    "itemId": "1253",
+    "tags": ["animal", "bite", "dangerous", "dirty", "disease", "infectious", "uncontrolled"]
   },
   "dmhk-wp-056": {
     "id": "dmhk-wp-056",
     "type": "weapon",
     "name": {
-      "pt": "prego enferrujado",
-      "en": "rusty nail"
+      "en": "rusty nail",
+      "pt": "prego enferrujado"
     },
-    "tags": ["dirty", "tool", "punctureable"],
-    "itemId": "381"
+    "itemId": "381",
+    "tags": [
+      "construction",
+      "cutting",
+      "dangerous",
+      "dirty",
+      "disease",
+      "metal",
+      "punctureable",
+      "sharp",
+      "tool"
+    ]
   },
   "dmhk-wp-057": {
     "id": "dmhk-wp-057",
     "type": "weapon",
     "name": {
-      "pt": "serra elétrica",
-      "en": "chainsaw"
+      "en": "chainsaw",
+      "pt": "serra elétrica"
     },
-    "tags": ["sharp", "powered", "holdable", "heavy"],
-    "itemId": "329"
+    "itemId": "329",
+    "tags": [
+      "cutting",
+      "dangerous",
+      "destructive",
+      "heavy",
+      "holdable",
+      "machine",
+      "powered",
+      "sharp",
+      "tool"
+    ]
   },
   "dmhk-wp-058": {
     "id": "dmhk-wp-058",
     "type": "weapon",
     "name": {
-      "pt": "sacola plástica",
-      "en": "plastic bag"
+      "en": "plastic bag",
+      "pt": "sacola plástica"
     },
-    "tags": ["light", "holdable", "cord"],
-    "itemId": "285"
+    "itemId": "285",
+    "tags": ["container", "cord", "holdable", "light", "plastic", "suffocation"]
   },
   "dmhk-wp-059": {
     "id": "dmhk-wp-059",
     "type": "weapon",
     "name": {
-      "pt": "espada",
-      "en": "sword"
+      "en": "sword",
+      "pt": "espada"
     },
-    "tags": ["sharp", "weapon", "holdable"],
-    "itemId": "3"
+    "itemId": "3",
+    "tags": ["blade", "combat", "cutting", "holdable", "meele", "metal", "sharp", "weapon"]
   },
   "dmhk-wp-060": {
     "id": "dmhk-wp-060",
     "type": "weapon",
     "name": {
-      "pt": "adaga",
-      "en": "dagger"
+      "en": "dagger",
+      "pt": "adaga"
     },
-    "tags": ["sharp", "weapon", "holdable"],
-    "itemId": "894"
+    "itemId": "894",
+    "tags": ["blade", "cutting", "holdable", "metal", "sharp", "small", "stealth", "weapon"]
   },
   "dmhk-wp-061": {
     "id": "dmhk-wp-061",
     "type": "weapon",
     "name": {
-      "pt": "armadilha para urso",
-      "en": "bear trap"
+      "en": "bear trap",
+      "pt": "armadilha para urso"
     },
-    "tags": ["sharp", "heavy", "steppable"],
-    "itemId": "444"
+    "itemId": "444",
+    "tags": ["cutting", "dangerous", "heavy", "hunting", "metal", "sharp", "steppable", "trap"]
   },
   "dmhk-wp-062": {
     "id": "dmhk-wp-062",
     "type": "weapon",
     "name": {
-      "pt": "mão suja",
-      "en": "dirty hands"
+      "en": "dirty hands",
+      "pt": "mão suja"
     },
-    "tags": ["condition", "dirty", "touch"],
-    "itemId": "1114"
+    "itemId": "1114",
+    "tags": [
+      "biological",
+      "condition",
+      "contamination",
+      "dirty",
+      "health",
+      "hygiene",
+      "personal",
+      "touch",
+      "unsanitary"
+    ]
   },
   "dmhk-wp-063": {
     "id": "dmhk-wp-063",
     "type": "weapon",
     "name": {
-      "pt": "micro-ondas",
-      "en": "microwave"
+      "en": "microwave",
+      "pt": "micro-ondas"
     },
-    "tags": ["electronic", "heavy", "powered", "food"],
-    "itemId": "152"
+    "itemId": "152",
+    "tags": ["cooking", "electronic", "food", "heat", "heavy", "machine", "powered"]
   },
   "dmhk-wp-064": {
     "id": "dmhk-wp-064",
     "type": "weapon",
     "name": {
-      "pt": "nanobots",
-      "en": "nanobots"
+      "en": "nanobots",
+      "pt": "nanobots"
     },
-    "tags": ["electronic", "small", "ingestible"],
-    "itemId": "1035"
+    "itemId": "1035",
+    "tags": [
+      "electronic",
+      "ingestible",
+      "invasive",
+      "machine",
+      "medical",
+      "microscopic",
+      "programmable",
+      "small",
+      "technology"
+    ]
   },
   "dmhk-wp-065": {
     "id": "dmhk-wp-065",
     "type": "weapon",
     "name": {
-      "pt": "mofo",
-      "en": "mold"
+      "en": "mold",
+      "pt": "mofo"
     },
-    "tags": ["dirty", "poisonous", "ingestible"],
-    "itemId": "1046"
+    "itemId": "1046",
+    "tags": [
+      "biological",
+      "dirty",
+      "disease",
+      "infectious",
+      "ingestible",
+      "invasive",
+      "microorganism",
+      "poisonous"
+    ]
   },
   "dmhk-wp-066": {
     "id": "dmhk-wp-066",
     "type": "weapon",
     "name": {
-      "pt": "lâmina de barbear",
-      "en": "razor blade"
+      "en": "razor blade",
+      "pt": "lâmina de barbear"
     },
-    "tags": ["sharp", "small"],
-    "itemId": "1006"
+    "itemId": "1006",
+    "tags": ["cutting", "dangerous", "metal", "sharp", "small"]
   },
   "dmhk-wp-067": {
     "id": "dmhk-wp-067",
     "type": "weapon",
     "name": {
-      "pt": "trilhos do trem",
-      "en": "train tracks"
+      "en": "train tracks",
+      "pt": "trilhos do trem"
     },
-    "tags": ["transport"],
-    "itemId": "455"
+    "itemId": "455",
+    "tags": ["dangerous", "heavy", "infrastructure", "metal", "transport"]
   },
   "dmhk-wp-068": {
     "id": "dmhk-wp-068",
     "type": "weapon",
     "name": {
-      "pt": "chave inglesa",
-      "en": "wrench"
+      "en": "wrench",
+      "pt": "chave inglesa"
     },
-    "tags": ["tool", "holdable"],
-    "itemId": "66"
+    "itemId": "66",
+    "tags": ["construction", "holdable", "mechanical", "metal", "tool"]
   },
   "dmhk-wp-069": {
     "id": "dmhk-wp-069",
     "type": "weapon",
     "name": {
-      "pt": "flecha",
-      "en": "arrow"
+      "en": "arrow",
+      "pt": "flecha"
     },
-    "tags": ["punctureable", "projectile"],
-    "itemId": "186"
+    "itemId": "186",
+    "tags": ["hunting", "point", "projectile", "punctureable", "sharp", "small", "weapon"]
   },
   "dmhk-wp-070": {
     "id": "dmhk-wp-070",
     "type": "weapon",
     "name": {
-      "pt": "corrente de metal",
-      "en": "metal chain"
+      "en": "metal chain",
+      "pt": "corrente"
     },
-    "tags": ["metal", "cord", "heavy"],
-    "itemId": "334"
+    "itemId": "334",
+    "tags": ["binding", "cord", "flexible", "hard", "heavy", "metal", "tool"]
   },
   "dmhk-wp-071": {
     "id": "dmhk-wp-071",
     "type": "weapon",
     "name": {
-      "pt": "enterrado",
-      "en": "bury"
+      "en": "bury",
+      "pt": "enterrado"
     },
-    "tags": ["action", "prolonged"],
-    "itemId": "1077"
+    "itemId": "1077",
+    "tags": ["action", "prolonged"]
   },
   "dmhk-wp-072": {
     "id": "dmhk-wp-072",
     "type": "weapon",
     "name": {
-      "pt": "arsênico",
-      "en": "arsenic"
+      "en": "arsenic",
+      "pt": "arsênico"
     },
-    "tags": ["ingestible", "injectable", "poisonous", "powder", "drug"],
-    "itemId": "1064"
+    "itemId": "1064",
+    "tags": ["ingestible", "injectable", "poisonous", "powder", "drug"]
   },
   "dmhk-wp-073": {
     "id": "dmhk-wp-073",
     "type": "weapon",
     "name": {
-      "pt": "gás venenoso",
-      "en": "poisonous gas"
+      "en": "poisonous gas",
+      "pt": "gás venenoso"
     },
-    "tags": ["poisonous", "ingestible", "inhaleable"],
-    "itemId": "1049"
+    "itemId": "1049",
+    "tags": ["poisonous", "ingestible", "inhaleable"]
   },
   "dmhk-wp-074": {
     "id": "dmhk-wp-074",
     "type": "weapon",
     "name": {
-      "pt": "toalha",
-      "en": "towel"
+      "en": "towel",
+      "pt": "toalha"
     },
-    "tags": ["cord", "wearable", "holdable"],
-    "itemId": "602"
+    "itemId": "602",
+    "tags": ["cord", "wearable", "holdable"]
   },
   "dmhk-wp-075": {
     "id": "dmhk-wp-075",
     "type": "weapon",
     "name": {
-      "pt": "tesoura",
-      "en": "scissors"
+      "en": "scissors",
+      "pt": "tesoura"
     },
-    "tags": ["punctureable", "tool", "holdable"],
-    "itemId": "478"
+    "itemId": "478",
+    "tags": ["punctureable", "tool", "holdable"]
   },
   "dmhk-wp-076": {
     "id": "dmhk-wp-076",
     "type": "weapon",
     "name": {
-      "pt": "chute",
-      "en": "kick"
+      "en": "kick",
+      "pt": "chute"
     },
-    "tags": ["action", "force", "touch"],
-    "itemId": "1066"
+    "itemId": "1066",
+    "tags": ["action", "force", "touch"]
   },
   "dmhk-wp-077": {
     "id": "dmhk-wp-077",
     "type": "weapon",
     "name": {
-      "pt": "balão",
-      "en": "balloon"
+      "en": "balloon",
+      "pt": "balão"
     },
-    "tags": ["child", "gas"],
-    "itemId": "812"
+    "itemId": "812",
+    "tags": ["child", "gas"]
   },
   "dmhk-wp-078": {
     "id": "dmhk-wp-078",
     "type": "weapon",
     "name": {
-      "pt": "ameba",
-      "en": "amoeba"
+      "en": "amoeba",
+      "pt": "ameba"
     },
-    "tags": ["dirty", "ingestible"],
-    "itemId": "1073"
+    "itemId": "1073",
+    "tags": ["dirty", "ingestible"]
   },
   "dmhk-wp-079": {
     "id": "dmhk-wp-079",
     "type": "weapon",
     "name": {
-      "pt": "arame",
-      "en": "metal wire"
+      "en": "metal wire",
+      "pt": "arame"
     },
-    "tags": ["cord", "metal", "holdable"],
-    "itemId": "356"
+    "itemId": "356",
+    "tags": ["cord", "metal", "holdable"]
   },
   "dmhk-wp-080": {
     "id": "dmhk-wp-080",
     "type": "weapon",
     "name": {
-      "pt": "vaso de planta",
-      "en": "potted plant"
+      "en": "potted plant",
+      "pt": "vaso de planta"
     },
-    "tags": ["plant", "heavy", "carry"],
-    "itemId": "797"
+    "itemId": "797",
+    "tags": ["plant", "heavy", "carry"]
   },
   "dmhk-wp-081": {
     "id": "dmhk-wp-081",
     "type": "weapon",
     "name": {
-      "pt": "afogamento",
-      "en": "drown"
+      "en": "drown",
+      "pt": "afogamento"
     },
-    "tags": ["liquid", "inhaleable"],
-    "itemId": "1048"
+    "itemId": "1048",
+    "tags": ["liquid", "inhaleable"]
   },
   "dmhk-wp-082": {
     "id": "dmhk-wp-082",
     "type": "weapon",
     "name": {
-      "pt": "escultura",
-      "en": "sculpture"
+      "en": "sculpture",
+      "pt": "escultura"
     },
-    "tags": ["heavy", "carry", "mineral"],
-    "itemId": "101"
+    "itemId": "101",
+    "tags": ["heavy", "carry", "mineral"]
   },
   "dmhk-wp-083": {
     "id": "dmhk-wp-083",
     "type": "weapon",
     "name": {
-      "pt": "mercúrio",
-      "en": "mercury"
+      "en": "mercury",
+      "pt": "mercúrio"
     },
-    "tags": ["poisonous", "liquid", "ingestible"],
-    "itemId": "1065"
+    "itemId": "1065",
+    "tags": ["poisonous", "liquid", "ingestible"]
   },
   "dmhk-wp-084": {
     "id": "dmhk-wp-084",
     "type": "weapon",
     "name": {
-      "pt": "travesseiro",
-      "en": "pillow"
+      "en": "pillow",
+      "pt": "travesseiro"
     },
-    "tags": ["personal", "light", "holdable", "cord"],
-    "itemId": "360"
+    "itemId": "360",
+    "tags": ["personal", "light", "holdable", "cord"]
   },
   "dmhk-wp-085": {
     "id": "dmhk-wp-085",
     "type": "weapon",
     "name": {
-      "pt": "plástico",
-      "en": "plastic wrap"
+      "en": "plastic wrap",
+      "pt": "plástico"
     },
-    "tags": ["light", "cord"],
-    "itemId": "677"
+    "itemId": "677",
+    "tags": ["light", "cord"]
   },
   "dmhk-wp-086": {
     "id": "dmhk-wp-086",
     "type": "weapon",
     "name": {
-      "pt": "água suja",
-      "en": "dirty water"
+      "en": "dirty water",
+      "pt": "água suja"
     },
-    "tags": ["liquid", "ingestible", "dirty"],
-    "itemId": "1072"
+    "itemId": "1072",
+    "tags": ["liquid", "ingestible", "dirty"]
   },
   "dmhk-wp-087": {
     "id": "dmhk-wp-087",
     "type": "weapon",
     "name": {
-      "pt": "fumaça",
-      "en": "smoke"
+      "en": "smoke",
+      "pt": "fumaça"
     },
-    "tags": ["inhaleable", "poisonous"],
-    "itemId": "1047"
+    "itemId": "1047",
+    "tags": ["inhaleable", "poisonous"]
   },
   "dmhk-wp-088": {
     "id": "dmhk-wp-088",
     "type": "weapon",
     "name": {
-      "pt": "muleta",
-      "en": "crutch"
+      "en": "crutch",
+      "pt": "muleta"
     },
-    "tags": ["holdable"],
-    "itemId": "330"
+    "itemId": "330",
+    "tags": ["holdable"]
   },
   "dmhk-wp-089": {
     "id": "dmhk-wp-089",
     "type": "weapon",
     "name": {
-      "pt": "gancho",
-      "en": "hook"
+      "en": "hook",
+      "pt": "gancho"
     },
-    "tags": ["sharp", "punctureable"],
-    "itemId": "1110"
+    "itemId": "1110",
+    "tags": ["sharp", "punctureable"]
   },
   "dmhk-wp-090": {
     "id": "dmhk-wp-090",
     "type": "weapon",
     "name": {
-      "pt": "raquete de tênis",
-      "en": "tennis racket"
+      "en": "tennis racket",
+      "pt": "raquete"
     },
-    "tags": ["sport", "holdable", "personal"],
-    "itemId": "259"
+    "itemId": "259",
+    "tags": ["sport", "holdable", "personal"]
   },
   "dmhk-wp-091": {
     "id": "dmhk-wp-091",
     "type": "weapon",
     "name": {
-      "pt": "extintor de incêndio",
-      "en": "fire extinguisher"
+      "en": "fire extinguisher",
+      "pt": "extintor de incêndio"
     },
-    "tags": ["heavy", "holdable"],
-    "itemId": "40"
+    "itemId": "40",
+    "tags": ["heavy", "holdable"]
   },
   "dmhk-wp-092": {
     "id": "dmhk-wp-092",
     "type": "weapon",
     "name": {
-      "pt": "comida estragada",
-      "en": "spoiled food"
+      "en": "spoiled food",
+      "pt": "comida estragada"
     },
-    "tags": ["food", "poisonous", "ingestible"],
-    "itemId": "810"
+    "itemId": "810",
+    "tags": ["food", "poisonous", "ingestible"]
   },
   "dmhk-wp-093": {
     "id": "dmhk-wp-093",
     "type": "weapon",
     "name": {
-      "pt": "vazamento de gás",
-      "en": "gas leak"
+      "en": "gas leak",
+      "pt": "vazamento de gás"
     },
-    "tags": ["inhaleable", "inflammable"],
-    "itemId": "1117"
+    "itemId": "1117",
+    "tags": ["inhaleable", "inflammable"]
   },
   "dmhk-wp-094": {
     "id": "dmhk-wp-094",
     "type": "weapon",
     "name": {
-      "pt": "escada",
-      "en": "ladder"
+      "en": "ladder",
+      "pt": "escada"
     },
-    "tags": ["large", "steppable"],
-    "itemId": "479"
+    "itemId": "479",
+    "tags": ["large", "steppable"]
   },
   "dmhk-wp-095": {
     "id": "dmhk-wp-095",
     "type": "weapon",
     "name": {
-      "pt": "baguete",
-      "en": "baguette"
+      "en": "baguette",
+      "pt": "baguete"
     },
-    "tags": ["food", "holdable"],
-    "itemId": "111"
+    "itemId": "111",
+    "tags": ["food", "holdable"]
   },
   "dmhk-wp-096": {
     "id": "dmhk-wp-096",
     "type": "weapon",
     "name": {
-      "pt": "haltere",
-      "en": "dumbbell"
+      "en": "dumbbell",
+      "pt": "haltere"
     },
-    "tags": ["heavy", "holdable", "sport"],
-    "itemId": "28"
+    "itemId": "28",
+    "tags": ["heavy", "holdable", "sport"]
   },
   "dmhk-wp-097": {
     "id": "dmhk-wp-097",
     "type": "weapon",
     "name": {
-      "pt": "cinto",
-      "en": "belt"
+      "en": "belt",
+      "pt": "cinto"
     },
-    "tags": ["personal", "holdable", "flexible"],
-    "itemId": "109"
+    "itemId": "109",
+    "tags": ["personal", "holdable", "flexible"]
   },
   "dmhk-wp-098": {
     "id": "dmhk-wp-098",
     "type": "weapon",
     "name": {
-      "pt": "bastão",
-      "en": "bat"
+      "en": "bat",
+      "pt": "bastão"
     },
-    "tags": ["holdable", "sport"],
-    "itemId": "217"
+    "itemId": "217",
+    "tags": ["holdable", "sport"]
   },
   "dmhk-wp-099": {
     "id": "dmhk-wp-099",
     "type": "weapon",
     "name": {
-      "pt": "estilete",
-      "en": "box cutter"
+      "en": "box cutter",
+      "pt": "estilete"
     },
-    "tags": ["holdable", "sharp", "tool"],
-    "itemId": "374"
+    "itemId": "374",
+    "tags": ["holdable", "sharp", "tool"]
   },
   "dmhk-wp-100": {
     "id": "dmhk-wp-100",
     "type": "weapon",
     "name": {
-      "pt": "bola de futebol",
-      "en": "soccer ball"
+      "en": "soccer ball",
+      "pt": "bola de futebol"
     },
-    "tags": ["sport", "object"],
-    "itemId": "189"
+    "itemId": "189",
+    "tags": ["sport", "object"]
   },
   "dmhk-wp-101": {
     "id": "dmhk-wp-101",
     "type": "weapon",
     "name": {
-      "pt": "produtos químicos",
-      "en": "chemicals"
+      "en": "chemicals",
+      "pt": "produtos químicos"
     },
-    "tags": ["melting", "glass", "poisonous", "chemical"],
-    "itemId": "175"
+    "itemId": "175",
+    "tags": ["melting", "glass", "poisonous", "chemical"]
   },
   "dmhk-wp-102": {
     "id": "dmhk-wp-102",
     "type": "weapon",
     "name": {
-      "pt": "cachecol",
-      "en": "scarf"
+      "en": "scarf",
+      "pt": "cachecol"
     },
-    "tags": ["cord", "personal", "wearable", "holdable"],
-    "itemId": "339"
+    "itemId": "339",
+    "tags": ["cord", "personal", "wearable", "holdable"]
   },
   "dmhk-wp-103": {
     "id": "dmhk-wp-103",
     "type": "weapon",
     "name": {
-      "pt": "querosene",
-      "en": "kerosene"
+      "en": "kerosene",
+      "pt": "querosene"
     },
-    "tags": ["inflammable", "holdable", "liquid"],
-    "itemId": "253"
+    "itemId": "253",
+    "tags": ["inflammable", "holdable", "liquid"]
   },
   "dmhk-wp-104": {
     "id": "dmhk-wp-104",
     "type": "weapon",
     "name": {
-      "pt": "video game",
-      "en": "video game console"
+      "en": "video game console",
+      "pt": "video game"
     },
-    "tags": ["electronic", "holdable"],
-    "itemId": "347"
+    "itemId": "347",
+    "tags": ["electronic", "holdable"]
   },
   "dmhk-wp-105": {
     "id": "dmhk-wp-105",
     "type": "weapon",
     "name": {
-      "pt": "droga líquida",
-      "en": "liquid drug"
+      "en": "liquid drug",
+      "pt": "droga líquida"
     },
-    "tags": ["liquid", "drug", "ingestible"],
-    "itemId": "1119"
+    "itemId": "1119",
+    "tags": ["liquid", "drug", "ingestible"]
   },
   "dmhk-wp-106": {
     "id": "dmhk-wp-106",
     "type": "weapon",
     "name": {
-      "pt": "ácido sulfúrico",
-      "en": "sulfuric acid"
+      "en": "sulfuric acid",
+      "pt": "ácido sulfúrico"
     },
-    "tags": ["corrosive", "chemical"],
-    "itemId": "1115"
+    "itemId": "1115",
+    "tags": ["corrosive", "chemical"]
   },
   "dmhk-wp-107": {
     "id": "dmhk-wp-107",
     "type": "weapon",
     "name": {
-      "pt": "escorpião venenoso",
-      "en": "venomous scorpion"
+      "en": "venomous scorpion",
+      "pt": "escorpião venenoso"
     },
-    "tags": ["animal", "venomous"],
-    "itemId": "412"
+    "itemId": "412",
+    "tags": ["animal", "venomous"]
   },
   "dmhk-wp-108": {
     "id": "dmhk-wp-108",
     "type": "weapon",
     "name": {
-      "pt": "pedra",
-      "en": "stone"
+      "en": "stone",
+      "pt": "pedra"
     },
-    "tags": ["heavy", "holdable", "mineral"],
-    "itemId": "115"
+    "itemId": "115",
+    "tags": ["heavy", "holdable", "mineral"]
   },
   "dmhk-wp-109": {
     "id": "dmhk-wp-109",
     "type": "weapon",
     "name": {
-      "pt": "furadeira",
-      "en": "drill"
+      "en": "drill",
+      "pt": "furadeira"
     },
-    "tags": ["tool", "punctureable", "sound"],
-    "itemId": "490"
+    "itemId": "490",
+    "tags": ["tool", "punctureable", "sound"]
   },
   "dmhk-wp-110": {
     "id": "dmhk-wp-110",
     "type": "weapon",
     "name": {
-      "pt": "pistola de pregos",
-      "en": "nail gun"
+      "en": "nail gun",
+      "pt": "pistola de pregos"
     },
-    "tags": ["tool", "punctureable", "sound", "projectile"],
-    "itemId": "1036"
+    "itemId": "1036",
+    "tags": ["tool", "punctureable", "sound", "projectile"]
   },
   "dmhk-wp-111": {
     "id": "dmhk-wp-111",
     "type": "weapon",
     "name": {
-      "pt": "sanfona",
-      "en": "accordion"
+      "en": "accordion",
+      "pt": "sanfona"
     },
-    "tags": ["holdable", "sound"],
-    "itemId": "998"
+    "itemId": "998",
+    "tags": ["holdable", "sound"]
   },
   "dmhk-wp-112": {
     "id": "dmhk-wp-112",
     "type": "weapon",
     "name": {
-      "pt": "robô assassino",
-      "en": "killer robot"
+      "en": "killer robot",
+      "pt": "robô assassino"
     },
-    "tags": ["electronic", "sound", "action"],
-    "itemId": "12"
+    "itemId": "12",
+    "tags": ["electronic", "sound", "action"]
   },
   "dmhk-wp-113": {
     "id": "dmhk-wp-113",
     "type": "weapon",
     "name": {
-      "pt": "peça de mármore",
-      "en": "marble brick"
+      "en": "marble brick",
+      "pt": "peça de mármore"
     },
-    "tags": ["heavy", "mineral", "carry"],
-    "itemId": "1261"
+    "itemId": "1261",
+    "tags": ["heavy", "mineral", "carry"]
   },
   "dmhk-wp-114": {
     "id": "dmhk-wp-114",
     "type": "weapon",
     "name": {
-      "pt": "demolição",
-      "en": "controlled demolition"
+      "en": "controlled demolition",
+      "pt": "demolição"
     },
-    "tags": ["action"],
-    "itemId": "2526"
+    "itemId": "2526",
+    "tags": ["action"]
   },
   "dmhk-wp-115": {
     "id": "dmhk-wp-115",
     "type": "weapon",
     "name": {
-      "pt": "infeção",
-      "en": "infection"
+      "en": "infection",
+      "pt": "infeção"
     },
-    "tags": ["condition", "poisonous", "prolonged"],
-    "itemId": "1109"
+    "itemId": "1109",
+    "tags": ["condition", "poisonous", "prolonged"]
   },
   "dmhk-wp-116": {
     "id": "dmhk-wp-116",
     "type": "weapon",
     "name": {
-      "pt": "pára-quedas furado",
-      "en": "faulty parachute"
+      "en": "faulty parachute",
+      "pt": "pára-quedas furado"
     },
-    "tags": ["accident", "sport", "passive"],
-    "itemId": "416"
+    "itemId": "416",
+    "tags": ["accident", "sport", "passive"]
   },
   "dmhk-wp-117": {
     "id": "dmhk-wp-117",
     "type": "weapon",
     "name": {
-      "pt": "na mão",
-      "en": "unarmed"
+      "en": "unarmed",
+      "pt": "na mão"
     },
-    "tags": ["action", "touch"],
-    "itemId": "530"
+    "itemId": "530",
+    "tags": ["action", "touch"]
   },
   "dmhk-wp-118": {
     "id": "dmhk-wp-118",
     "type": "weapon",
     "name": {
-      "pt": "dardo envenenado",
-      "en": "poison dart"
+      "en": "poison dart",
+      "pt": "dardo envenenado"
     },
-    "tags": ["poisonous", "projectile", "holdable"],
-    "itemId": "818"
+    "itemId": "818",
+    "tags": ["poisonous", "projectile", "holdable"]
   },
   "dmhk-wp-119": {
     "id": "dmhk-wp-119",
     "type": "weapon",
     "name": {
-      "pt": "lawnmower",
-      "en": "cortador de grama"
+      "en": "cortador de grama",
+      "pt": "lawnmower"
     },
-    "tags": ["sharp", "heavy"],
-    "itemId": "473"
+    "itemId": "473",
+    "tags": ["sharp", "heavy"]
   },
   "dmhk-wp-120": {
     "id": "dmhk-wp-120",
     "type": "weapon",
     "name": {
-      "pt": "poço do elevador",
-      "en": "elevator shaft"
+      "en": "elevator shaft",
+      "pt": "poço do elevador"
     },
-    "tags": ["action", "accident"],
-    "itemId": "741"
+    "itemId": "741",
+    "tags": ["action", "accident"]
   },
   "dmhk-wp-121": {
     "id": "dmhk-wp-121",
     "type": "weapon",
     "name": {
-      "pt": "tamborete",
-      "en": "folding chair"
+      "en": "folding chair",
+      "pt": "tamborete"
     },
-    "tags": ["steppable", "object"],
-    "itemId": "910"
+    "itemId": "910",
+    "tags": ["steppable", "object"]
   },
   "dmhk-wp-122": {
     "id": "dmhk-wp-122",
     "type": "weapon",
     "name": {
-      "pt": "álcool",
-      "en": "alcohol"
+      "en": "alcohol",
+      "pt": "álcool"
     },
-    "tags": ["liquid", "inflammable", "holdable"],
-    "itemId": "1120"
+    "itemId": "1120",
+    "tags": ["liquid", "inflammable", "holdable"]
   },
   "dmhk-wp-123": {
     "id": "dmhk-wp-123",
     "type": "weapon",
     "name": {
-      "pt": "tubo de aço",
-      "en": "steel tube"
+      "en": "steel tube",
+      "pt": "tubo de aço"
     },
-    "tags": ["holdable", "metal", "heavy"],
-    "itemId": "332"
+    "itemId": "332",
+    "tags": ["holdable", "metal", "heavy"]
   },
   "dmhk-wp-124": {
     "id": "dmhk-wp-124",
     "type": "weapon",
     "name": {
-      "pt": "rede",
-      "en": "net"
+      "en": "net",
+      "pt": "rede"
     },
-    "tags": ["cord"],
-    "itemId": "1021"
+    "itemId": "1021",
+    "tags": ["cord"]
   },
   "dmhk-wp-125": {
     "id": "dmhk-wp-125",
     "type": "weapon",
     "name": {
-      "pt": "praga",
-      "en": "plague"
+      "en": "plague",
+      "pt": "praga"
     },
-    "tags": ["condition", "chemical", "prolonged", "poisonous"],
-    "itemId": "1071"
+    "itemId": "1071",
+    "tags": ["condition", "chemical", "prolonged", "poisonous"]
   },
   "dmhk-wp-126": {
     "id": "dmhk-wp-126",
     "type": "weapon",
     "name": {
-      "pt": "trabalho",
-      "en": "work"
+      "en": "work",
+      "pt": "trabalho"
     },
-    "tags": ["condition", "action", "passive", "prolonged"],
-    "itemId": "1121"
+    "itemId": "1121",
+    "tags": ["condition", "action", "passive", "prolonged"]
   },
   "dmhk-wp-127": {
     "id": "dmhk-wp-127",
     "type": "weapon",
     "name": {
-      "pt": "durex",
-      "en": "packing tape"
+      "en": "packing tape",
+      "pt": "durex"
     },
-    "tags": ["cord", "flexible"],
-    "itemId": "309"
+    "itemId": "309",
+    "tags": ["cord", "flexible"]
   },
   "dmhk-wp-128": {
     "id": "dmhk-wp-128",
     "type": "weapon",
     "name": {
-      "pt": "pistola",
-      "en": "pistol"
+      "en": "pistol",
+      "pt": "pistola"
     },
-    "tags": ["firearm", "small"],
-    "itemId": "147"
+    "itemId": "147",
+    "tags": ["firearm", "small"]
   },
   "dmhk-wp-129": {
     "id": "dmhk-wp-129",
     "type": "weapon",
     "name": {
-      "pt": "x-burger",
-      "en": "cheeseburger"
+      "en": "cheeseburger",
+      "pt": "x-burger"
     },
-    "tags": ["food"],
-    "itemId": "518"
+    "itemId": "518",
+    "tags": ["food"]
   },
   "dmhk-wp-130": {
     "id": "dmhk-wp-130",
     "type": "weapon",
     "name": {
-      "pt": "drogas ilegais",
-      "en": "illegal drug"
+      "en": "illegal drug",
+      "pt": "drogas ilegais"
     },
-    "tags": ["ingestible", "drug"],
-    "itemId": "1122"
+    "itemId": "1122",
+    "tags": ["ingestible", "drug"]
   },
   "dmhk-wp-131": {
     "id": "dmhk-wp-131",
     "type": "weapon",
     "name": {
-      "pt": "degola",
-      "en": "throat slit"
+      "en": "throat slit",
+      "pt": "degola"
     },
-    "tags": [],
+    "itemExclusive": true,
     "itemId": "1229",
-    "itemExclusive": true
+    "tags": ["action", "blade", "stain"]
   },
   "dmhk-wp-132": {
     "id": "dmhk-wp-132",
     "type": "weapon",
     "name": {
-      "pt": "machete",
-      "en": "facão"
+      "en": "facão",
+      "pt": "machete"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1219",
-    "itemExclusive": true
+    "tags": ["blade", "holdable"]
   },
   "dmhk-wp-133": {
     "id": "dmhk-wp-133",
     "type": "weapon",
     "name": {
-      "pt": "triturador de madeira",
-      "en": "wood chipper"
+      "en": "wood chipper",
+      "pt": "triturador de madeira"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1233",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-134": {
     "id": "dmhk-wp-134",
     "type": "weapon",
     "name": {
-      "pt": "serra de arco",
-      "en": "hacksaw"
+      "en": "hacksaw",
+      "pt": "serra de arco"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1257",
-    "itemExclusive": true
+    "tags": ["blade", "holdable", "tool"]
   },
   "dmhk-wp-135": {
     "id": "dmhk-wp-135",
     "type": "weapon",
     "name": {
-      "pt": "besta",
-      "en": "crossbow"
+      "en": "crossbow",
+      "pt": "besta"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1192",
-    "itemExclusive": true
+    "tags": ["projectile", "punctureable", "weapon"]
   },
   "dmhk-wp-136": {
     "id": "dmhk-wp-136",
     "type": "weapon",
     "name": {
-      "pt": "mordida e dilaceramento",
-      "en": "bite and tear"
+      "en": "bite and tear",
+      "pt": "mordida e dilaceramento"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1224",
-    "itemExclusive": true
+    "tags": ["action", "animal", "bite", "bruise"]
   },
   "dmhk-wp-137": {
     "id": "dmhk-wp-137",
     "type": "weapon",
     "name": {
-      "pt": "aprisionado",
-      "en": "locked"
+      "en": "locked",
+      "pt": "aprisionado"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1242",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-138": {
     "id": "dmhk-wp-138",
     "type": "weapon",
     "name": {
-      "pt": "franco-atirador",
-      "en": "sniper rifle"
+      "en": "sniper rifle",
+      "pt": "franco-atirador"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1222",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-139": {
     "id": "dmhk-wp-139",
     "type": "weapon",
     "name": {
-      "pt": "máquina",
-      "en": "machine"
+      "en": "machine",
+      "pt": "máquina"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1228",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-140": {
     "id": "dmhk-wp-140",
     "type": "weapon",
     "name": {
-      "pt": "livro de feitiçaria",
-      "en": "spell book"
+      "en": "spell book",
+      "pt": "livro de feitiçaria"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1198",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-141": {
     "id": "dmhk-wp-141",
     "type": "weapon",
     "name": {
-      "pt": "avalanche",
-      "en": "landslide"
+      "en": "landslide",
+      "pt": "avalanche"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1103",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-142": {
     "id": "dmhk-wp-142",
@@ -1427,9 +1587,9 @@
       "en": "pipe wrench",
       "pt": "chave inglesa de cano"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1173",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-143": {
     "id": "dmhk-wp-143",
@@ -1438,9 +1598,9 @@
       "en": "snake",
       "pt": "cobra venenosa"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "151",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-144": {
     "id": "dmhk-wp-144",
@@ -1449,9 +1609,9 @@
       "en": "sledgehammer",
       "pt": "marreta"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1174",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-145": {
     "id": "dmhk-wp-145",
@@ -1460,9 +1620,9 @@
       "en": "special effects",
       "pt": "efeitos especiais"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "2531",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-146": {
     "id": "dmhk-wp-146",
@@ -1471,9 +1631,9 @@
       "en": "garden gnome",
       "pt": "gnomo de jardim"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "960",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-147": {
     "id": "dmhk-wp-147",
@@ -1482,9 +1642,9 @@
       "en": "voodoo",
       "pt": "macumba"
     },
-    "tags": [""],
-    "itemId": "",
-    "itemExclusive": true
+    "itemExclusive": true,
+    "itemId": "2539",
+    "tags": []
   },
   "dmhk-wp-148": {
     "id": "dmhk-wp-148",
@@ -1493,9 +1653,9 @@
       "en": "remo",
       "pt": "oar"
     },
-    "tags": [""],
+    "itemExclusive": true,
     "itemId": "1025",
-    "itemExclusive": true
+    "tags": []
   },
   "dmhk-wp-149": {
     "id": "dmhk-wp-149",
@@ -1504,8 +1664,8 @@
       "en": "award",
       "pt": "prêmio"
     },
-    "tags": [],
-    "itemId": "1884"
+    "itemId": "1884",
+    "tags": []
   },
   "dmhk-wp-150": {
     "id": "dmhk-wp-150",
@@ -1514,8 +1674,8 @@
       "en": "time bomb",
       "pt": "bomba-relógio"
     },
-    "tags": [],
-    "itemId": "2453"
+    "itemId": "2453",
+    "tags": []
   },
   "dmhk-wp-151": {
     "id": "dmhk-wp-151",
@@ -1524,8 +1684,8 @@
       "en": "umbrella",
       "pt": "guarda-chuva"
     },
-    "tags": [],
-    "itemId": "197"
+    "itemId": "197",
+    "tags": []
   },
   "dmhk-wp-152": {
     "id": "dmhk-wp-152",
@@ -1534,8 +1694,8 @@
       "en": "walking stick",
       "pt": "bengala"
     },
-    "tags": [],
-    "itemId": "613"
+    "itemId": "613",
+    "tags": []
   },
   "dmhk-wp-153": {
     "id": "dmhk-wp-153",
@@ -1544,7 +1704,7 @@
       "en": "jump rope",
       "pt": "corda de pular"
     },
-    "tags": [],
-    "itemId": "1094"
+    "itemId": "1094",
+    "tags": []
   }
 }
