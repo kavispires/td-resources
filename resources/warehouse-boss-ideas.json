@@ -1,0 +1,200 @@
+{
+  "FIRST_DAY": {
+    "id": "FIRST_DAY",
+    "type": "normal",
+    "title": {
+      "en": "First Day",
+      "pt": "Primeiro Dia"
+    },
+    "subtitle": {
+      "en": "Welcome to the warehouse! It's time to get to work.",
+      "pt": "Bem-vindo ao galpão! É hora de começar a trabalhar."
+    },
+    "description": {
+      "en": "Place the goods in the warehouse, one at a time, in an organized manner, always adjacent to the previous good. Discuss with the team, then confirm the placement",
+      "pt": "Coloque as mercadorias no galpão, uma de cada vez, de forma organizada, sempre adjacente à mercadoria anterior. Discuta com a equipe, então confirme o posicionamento"
+    },
+    "og": "None",
+    "difficulty": 0
+  },
+  "BULK_1": {
+    "id": "BULK_1",
+    "type": "communication",
+    "title": {
+      "en": "Bulk 1",
+      "pt": "Atacado 1"
+    },
+    "subtitle": {
+      "en": "Fun day at the warehouse! Let's all call the inventory...",
+      "pt": "Dia divertido no galpão! Vamos todos chamar o estoque..."
+    },
+    "description": {
+      "en": "When the first good is revealed, decide the theme of the batch: Food stuff, Noisy stuff, or Futuristic stuff. All discussion for the round must be about the theme.",
+      "pt": "Quando a primeira mercadoria é revelada, decida o tema do lote: Comidas, Coisas Barulhentas, ou Coisas Futurísticas. Toda discussão para a rodada deve ser sobre o tema."
+    },
+    "og": "Bulk Delivery 1",
+    "difficulty": 1
+  },
+  "BULK_2": {
+    "id": "BULK_2",
+    "type": "communication",
+    "title": {
+      "en": "Bulk 2",
+      "pt": "Atacado 2"
+    },
+    "subtitle": {
+      "en": "Another fun day at the warehouse! Let's all call the inventory...",
+      "pt": "Um outro dia divertido no galpão! Vamos todos chamar o estoque..."
+    },
+    "description": {
+      "en": "When the first good is revealed, decide the theme of the batch: Fantasy stuff, Wet stuff, or Scary stuff. All discussion for the round must be about the theme.",
+      "pt": "Quando a primeira mercadoria é revelada, decida o tema do lote: Fantasia, Coisas Molhadas, ou Terror. Toda discussão para a rodada deve ser sobre o tema."
+    },
+    "og": "Bulk Delivery 2",
+    "difficulty": 1
+  },
+  "BULK_3": {
+    "id": "BULK_3",
+    "type": "communication",
+    "title": {
+      "en": "Bulk 3",
+      "pt": "Atacado 3"
+    },
+    "subtitle": {
+      "en": "A new fun day at the warehouse! Let's all call the inventory...",
+      "pt": "Um novo dia divertido no galpão! Vamos todos chamar o estoque..."
+    },
+    "description": {
+      "en": "When the first good is revealed, decide the theme of the batch: Animal stuff, Smelly stuff, Western stuff. All discussion for the round must be about the theme.",
+      "pt": "Quando a primeira mercadoria é revelada, decida o tema do lote: Animais, Coisas Fedorentas, ou Nordeste. Toda discussão para a rodada deve ser sobre o tema."
+    },
+    "og": "Bulk Delivery 3",
+    "difficulty": 1
+  },
+  "WALLS": {
+    "id": "WALLS",
+    "type": "placement",
+    "title": {
+      "en": "Walls",
+      "pt": "Paredes"
+    },
+    "subtitle": {
+      "en": "What if we put everything on the walls to save space?",
+      "pt": "E se colocarmos tudo nas paredes para economizar espaço?"
+    },
+    "description": {
+      "en": "All goods this round must be placed on the outer edge of the warehouse, but they do not need to be adjacent to each other.",
+      "pt": "Todas as mercadorias desta rodada devem ser colocadas na borda externa do armazém, mas não precisam ser adjacentes umas às outras."
+    },
+    "og": "Outside Contractor",
+    "difficulty": 1
+  },
+  "AISLE": {
+    "id": "AISLE",
+    "type": "placement",
+    "title": {
+      "en": "The aisle",
+      "pt": "O corredor"
+    },
+    "subtitle": {
+      "en": "What if we put everything in a single column to save space?",
+      "pt": "E se colocarmos tudo em uma única coluna para economizar espaço?"
+    },
+    "description": {
+      "en": "All goods this round must be placed in a single column, but they do not need to be adjacent to each other.",
+      "pt": "Todas as mercadorias desta rodada devem ser colocadas em uma única coluna, mas não precisam ser adjacentes umas às outras."
+    },
+    "og": "None",
+    "difficulty": 2
+  },
+  "TINTED_GLASS": {
+    "id": "TINTED_GLASS",
+    "type": "image",
+    "title": {
+      "en": "The tinted glass box",
+      "pt": "A caixa de vidro fumê"
+    },
+    "subtitle": {
+      "en": "We're getting extremely important goods that comes in a special box.",
+      "pt": "Estamos recebendo mercadorias extremamente importantes que vêm em uma caixa especial."
+    },
+    "description": {
+      "en": "The goods are inside a tinted glass box, making it difficult to see what's inside.",
+      "pt": "As mercadorias estão dentro de uma caixa de vidro fumê, tornando difícil ver o que está dentro."
+    },
+    "og": "Our Precious Secrets",
+    "difficulty": 3
+  },
+  "AMENITIES": {
+    "id": "AMENITIES",
+    "type": "special",
+    "title": {
+      "en": "Amenities",
+      "pt": "Comodidades"
+    },
+    "subtitle": {
+      "en": "You asked for it and we're going to improve the work environment! But only use it during your breaks!",
+      "pt": "Vocês pediram e vamos melhorar o ambiente de trabalho! Mas só usem durante os intervalos!"
+    },
+    "description": {
+      "en": "Four space blockers representing amenities are placed in the warehouse. That should actually help!",
+      "pt": "Quatro bloqueadores de espaço representando comodidades são colocados no armazém. Isso deve ajudar!"
+    },
+    "og": "Unidentified spills",
+    "difficulty": 1
+  },
+  "CONFIDENTIAL": {
+    "id": "CONFIDENTIAL",
+    "type": "visualization",
+    "title": {
+      "en": "Confidential Goods",
+      "pt": "Mercadorias Confidenciais"
+    },
+    "subtitle": {
+      "en": "These products are very important and must be kept secret!",
+      "pt": "Esses produtos são muito importantes e devem ser mantidos em segredo!"
+    },
+    "description": {
+      "en": "Only the Supervisor can the the goods this round. They may describe the goods to the team before placing.",
+      "pt": "Apenas o Supervisor pode ver as mercadorias desta rodada. Ele pode descrever as mercadorias para a equipe antes de colocá-las."
+    },
+    "og": "Confidential Material",
+    "difficulty": 2
+  },
+  "ONE_WORD": {
+    "id": "ONE_WORD",
+    "type": "communication",
+    "title": {
+      "en": "Provisional measure: Silence",
+      "pt": "Medida provisória: Silêncio"
+    },
+    "subtitle": {
+      "pt": "Conversa fiada faz mal ao trabalho!",
+      "en": "Chit-chat is bad for work!"
+    },
+    "description": {
+      "en": "Each worker can only say one word for each good. You may repeat that word",
+      "pt": "Cada trabalhador só pode dizer uma palavra para cada mercadoria. Você pode repetir essa palavra"
+    },
+    "og": "Could have been an email",
+    "difficulty": 3
+  },
+  "EYE_EXAM": {
+    "id": "EYE_EXAM",
+    "type": "visualization",
+    "title": {
+      "en": "The Eye Exame",
+      "pt": "O exame de vista"
+    },
+    "subtitle": {
+      "en": "The Supervisor had an eye exam this morning and can see the goods. I trust you can handle this.",
+      "pt": "O Supervisor fez um exame de vista esta manhã e pode ver as mercadorias. Eu confio que vocês podem lidar com isso."
+    },
+    "description": {
+      "en": "The Supervisor cannot see the good, but the team can. The team must describe the goods to the Supervisor so they can place it.",
+      "pt": "O Supervisor não pode ver a mercadoria, mas a equipe pode. A equipe deve descrever as mercadorias para o Supervisor para que ele possa colocá-las."
+    },
+    "og": "Management Guru-ish",
+    "difficulty": 2
+  }
+}
