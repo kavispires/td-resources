@@ -1,5 +1,5 @@
-[
-  {
+{
+  "starting-tile-cause": {
     "title": {
       "en": "Cause of Death",
       "pt": "Causa da Morte"
@@ -121,7 +121,7 @@
       ]
     }
   },
-  {
+  "starting-tile-evidence": {
     "title": {
       "en": "Evidence/Object",
       "pt": "Evidência/Objeto"
@@ -192,7 +192,7 @@
       ]
     }
   },
-  {
+  "location-tile": {
     "title": {
       "en": "Location of Crime",
       "pt": "Local do Crime"
@@ -227,7 +227,7 @@
         "pt": "Desconhecido"
       }
     ],
-    "id": "location-tile-1",
+    "id": "location-tile",
     "type": "location",
     "tags": {
       "0": [""],
@@ -238,7 +238,7 @@
       "5": [""]
     }
   },
-  {
+  "scene-1": {
     "title": {
       "en": "Ambient Noise",
       "pt": "Som Ambiente"
@@ -277,7 +277,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-2": {
     "title": {
       "en": "Corpse Condition",
       "pt": "Condição do Corpo"
@@ -316,7 +316,7 @@
     "type": "scene",
     "specific": "weapon"
   },
-  {
+  "scene-3": {
     "title": {
       "en": "Day of Crime",
       "pt": "Dia do Crime"
@@ -355,7 +355,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-4": {
     "title": {
       "en": "Duration of Crime",
       "pt": "Duração do Crime"
@@ -394,7 +394,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-5": {
     "title": {
       "en": "Chosen Evidence",
       "pt": "Evidência Escolhida"
@@ -433,7 +433,7 @@
     "type": "scene",
     "specific": "evidence"
   },
-  {
+  "scene-6": {
     "title": {
       "en": "General Impression",
       "pt": "Impressão Geral"
@@ -472,7 +472,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-7": {
     "title": {
       "en": "Hint on Corpse",
       "pt": "Detalhe no Corpo"
@@ -511,7 +511,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-8": {
     "title": {
       "en": "In Progress",
       "pt": "Em Andamento"
@@ -550,7 +550,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-9": {
     "title": {
       "en": "Noticed by Bystander",
       "pt": "Percebido por Transeunte"
@@ -589,7 +589,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-10": {
     "title": {
       "en": "Motive of Crime",
       "pt": "Motivo do Crime"
@@ -628,7 +628,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-11": {
     "title": {
       "en": "Murder Inspired By",
       "pt": "Inspiração para o Crime"
@@ -667,7 +667,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-12": {
     "title": {
       "en": "Murderer's Personality",
       "pt": "Personalidade do Assassino"
@@ -706,7 +706,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-13": {
     "title": {
       "en": "Murder Weapon",
       "pt": "Arma do Crime"
@@ -745,7 +745,7 @@
     "type": "scene",
     "specific": "weapon"
   },
-  {
+  "scene-14": {
     "title": {
       "en": "Perceived by Sixth Sense",
       "pt": "Perceptível pelo Sexto Sentido"
@@ -784,7 +784,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-15": {
     "title": {
       "en": "Smell in the Air",
       "pt": "Cheiro no Ar"
@@ -823,7 +823,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-16": {
     "title": {
       "en": "Social Relationship",
       "pt": "Relacionamento Social"
@@ -862,7 +862,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-17": {
     "title": {
       "en": "State of the Scene",
       "pt": "Estado da Cena do Crime"
@@ -901,7 +901,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-18": {
     "title": {
       "en": "Sudden Incident",
       "pt": "Incidente repentino"
@@ -940,7 +940,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-19": {
     "title": {
       "en": "Time of Death",
       "pt": "Hora da Morte"
@@ -979,7 +979,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-20": {
     "title": {
       "en": "Trace at the Scene",
       "pt": "Vestígios na Cena do Crime"
@@ -1018,7 +1018,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-21": {
     "title": {
       "en": "Victim's Build",
       "pt": "Porte da Vítima"
@@ -1057,7 +1057,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-22": {
     "title": {
       "en": "Victim's Clothes",
       "pt": "Roupas da Vítima"
@@ -1096,7 +1096,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-23": {
     "title": {
       "en": "Victim's Expression",
       "pt": "Expressão da Vítima"
@@ -1135,7 +1135,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-24": {
     "title": {
       "en": "Victim's Hobbies",
       "pt": "Hobbies da Vítima"
@@ -1174,7 +1174,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-25": {
     "title": {
       "en": "Victim's Identity",
       "pt": "Identidade da Vítima"
@@ -1213,7 +1213,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-26": {
     "title": {
       "en": "Victim's Occupation",
       "pt": "Profissão da Vítima"
@@ -1252,7 +1252,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-27": {
     "title": {
       "en": "Victim's Personality",
       "pt": "Personalidade da Vítima"
@@ -1291,7 +1291,7 @@
     "type": "scene",
     "specific": null
   },
-  {
+  "scene-28": {
     "title": {
       "en": "Weather",
       "pt": "Clima"
@@ -1330,4 +1330,4 @@
     "type": "scene",
     "specific": null
   }
-]
+}
