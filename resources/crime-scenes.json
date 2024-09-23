@@ -1,5 +1,5 @@
 {
-  "starting-tile-cause": {
+  "scene-0-cause": {
     "title": {
       "en": "Cause of Death",
       "pt": "Causa da Morte"
@@ -34,7 +34,7 @@
         "pt": "Acidente"
       }
     ],
-    "id": "starting-tile-cause",
+    "id": "scene-0-cause",
     "type": "cause",
     "tags": {
       "0": ["allergy", "cord", "drowning", "flexible", "inhaleable"],
@@ -121,7 +121,7 @@
       ]
     }
   },
-  "starting-tile-evidence": {
+  "scene-0-evidence": {
     "title": {
       "en": "Evidence/Object",
       "pt": "Evidência/Objeto"
@@ -156,7 +156,7 @@
         "pt": "Foi o que ajudou a se aproximar da vítima"
       }
     ],
-    "id": "starting-tile-evidence",
+    "id": "scene-0-evidence",
     "type": "evidence",
     "tags": {
       "0": ["ash", "child", "utensils", "tool", "food", "reading", "writing"],
@@ -192,7 +192,7 @@
       ]
     }
   },
-  "location-tile": {
+  "scene-0-location": {
     "title": {
       "en": "Location of Crime",
       "pt": "Local do Crime"
@@ -227,7 +227,7 @@
         "pt": "Desconhecido"
       }
     ],
-    "id": "location-tile",
+    "id": "scene-0-location",
     "type": "location",
     "tags": {
       "0": [""],
