@@ -2785,7 +2785,7 @@
   "219": {
     "id": "219",
     "name": {
-      "en": "plane",
+      "en": "airplane",
       "pt": "avião"
     },
     "decks": [
@@ -7397,15 +7397,15 @@
     ]
   },
   "592": {
-    "id": "592",
     "name": {
       "en": "fencing",
       "pt": "esgrima"
     },
+    "id": "592",
     "decks": [
       "alien",
       "dream",
-      "suspect"
+      "weapon"
     ]
   },
   "593": {
@@ -26128,11 +26128,17 @@
     "groups": []
   },
   "2174": {
-    "id": "2174",
     "name": {
       "en": "magic",
       "pt": "mágica"
     },
+    "id": "2174",
+    "aliasesEn": [
+      "sparks"
+    ],
+    "aliasesPt": [
+      "brilhos"
+    ],
     "decks": [
       "dream"
     ],
@@ -27704,7 +27710,7 @@
   "2303": {
     "name": {
       "en": "fertilizer",
-      "pt": "esterco"
+      "pt": "festilizante"
     },
     "id": "2303",
     "decks": [
@@ -29343,6 +29349,9 @@
       "en": "roof",
       "pt": "telhado"
     },
+    "aliasesPt": [
+      "telhas"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -30800,6 +30809,970 @@
       "alien",
       "dream",
       "evidence"
+    ],
+    "groups": []
+  },
+  "2549": {
+    "name": {
+      "en": "moka pot",
+      "pt": "cafeteira italiana"
+    },
+    "id": "2549",
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2550": {
+    "name": {
+      "en": "baby tears plant",
+      "pt": "samambaia"
+    },
+    "id": "2550",
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2551": {
+    "id": "2551",
+    "name": {
+      "en": "tea bag",
+      "pt": "sachê de chá"
+    },
+    "decks": [
+      "alien",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2552": {
+    "id": "2552",
+    "name": {
+      "en": "omelet",
+      "pt": "omelete"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2553": {
+    "name": {
+      "en": "terrace",
+      "pt": "terraços agrícolas"
+    },
+    "id": "2553",
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2554": {
+    "name": {
+      "en": "pellet drum",
+      "pt": "tambor de pellets"
+    },
+    "id": "2554",
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2555": {
+    "name": {
+      "en": "slalom",
+      "pt": "slalom"
+    },
+    "id": "2555",
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2556": {
+    "id": "2556",
+    "name": {
+      "en": "fencing mask",
+      "pt": "máscara de esgrima"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2557": {
+    "name": {
+      "en": "stun gun",
+      "pt": "eletrochoque"
+    },
+    "id": "2557",
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2558": {
+    "name": {
+      "en": "baby monitor",
+      "pt": "babá eletrônica"
+    },
+    "id": "2558",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2559": {
+    "name": {
+      "en": "teether",
+      "pt": "mordedor"
+    },
+    "id": "2559",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2560": {
+    "id": "2560",
+    "name": {
+      "en": "prism",
+      "pt": "prisma"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2561": {
+    "id": "2561",
+    "name": {
+      "en": "bracket",
+      "pt": "suporte de TV"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2562": {
+    "id": "2562",
+    "name": {
+      "en": "rooster",
+      "pt": "galo"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2563": {
+    "name": {
+      "en": "bacteria",
+      "pt": "bactéria"
+    },
+    "id": "2563",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2564": {
+    "name": {
+      "en": "artichoke",
+      "pt": "alcachofra"
+    },
+    "id": "2564",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2565": {
+    "name": {
+      "en": "step",
+      "pt": "step"
+    },
+    "id": "2565",
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2566": {
+    "name": {
+      "en": "comet",
+      "pt": "cometa"
+    },
+    "id": "2566",
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2567": {
+    "id": "2567",
+    "name": {
+      "en": "mechanical pencil",
+      "pt": "lapiseira"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2568": {
+    "id": "2568",
+    "name": {
+      "en": "scars",
+      "pt": "cicatriz"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2569": {
+    "name": {
+      "en": "rescue buoy",
+      "pt": "boia de resgate"
+    },
+    "id": "2569",
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2570": {
+    "id": "2570",
+    "name": {
+      "en": "quote",
+      "pt": "citação"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2571": {
+    "name": {
+      "en": "taiko",
+      "pt": "taiko"
+    },
+    "id": "2571",
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2572": {
+    "id": "2572",
+    "name": {
+      "en": "plane seat",
+      "pt": "assento de avião "
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2573": {
+    "id": "2573",
+    "name": {
+      "en": "sign walker",
+      "pt": "propaganda humana"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2574": {
+    "name": {
+      "en": "droid",
+      "pt": "dróide"
+    },
+    "id": "2574",
+    "aliasesEn": [
+      "robot"
+    ],
+    "aliasesPt": [
+      "robô"
+    ],
+    "groups": []
+  },
+  "2575": {
+    "id": "2575",
+    "name": {
+      "en": "lesbian",
+      "pt": "lésbica"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2576": {
+    "id": "2576",
+    "name": {
+      "en": "pelvis",
+      "pt": "bacia"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2577": {
+    "id": "2577",
+    "name": {
+      "en": "laurel",
+      "pt": "louro"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2578": {
+    "name": {
+      "en": "hard-boiled egg",
+      "pt": "ovo cozido"
+    },
+    "id": "2578",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2579": {
+    "name": {
+      "en": "flight attendant",
+      "pt": "aeromoça"
+    },
+    "id": "2579",
+    "decks": [
+      "alien",
+      "dream",
+      "suspect",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2580": {
+    "id": "2580",
+    "name": {
+      "en": "executioner",
+      "pt": "carrasco"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2581": {
+    "id": "2581",
+    "name": {
+      "en": "love hotel",
+      "pt": "motel"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2582": {
+    "id": "2582",
+    "name": {
+      "en": "genitals",
+      "pt": "genitais"
+    },
+    "aliasesEn": [
+      "naked"
+    ],
+    "aliasesPt": [
+      "pelado"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2583": {
+    "name": {
+      "en": "nutmeg",
+      "pt": "noz-moscada"
+    },
+    "id": "2583",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2584": {
+    "id": "2584",
+    "name": {
+      "en": "manga",
+      "pt": "mangá"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2585": {
+    "name": {
+      "en": "wagasa",
+      "pt": "wagasa"
+    },
+    "id": "2585",
+    "aliasesEn": [
+      "japanese umbrella"
+    ],
+    "aliasesPt": [
+      "sombrinha japonesa"
+    ],
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2586": {
+    "id": "2586",
+    "name": {
+      "en": "mortuary",
+      "pt": "mortuário"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2587": {
+    "name": {
+      "en": "dental mirror",
+      "pt": "espelho dental"
+    },
+    "id": "2587",
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2588": {
+    "id": "2588",
+    "name": {
+      "en": "dental excavator",
+      "pt": "escavador odontológico"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2589": {
+    "name": {
+      "en": "feng shui",
+      "pt": "feng shui"
+    },
+    "id": "2589",
+    "decks": [
+      "dream",
+      "symbol",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2590": {
+    "id": "2590",
+    "name": {
+      "en": "tracks",
+      "pt": "pegadas"
+    },
+    "aliasesEn": [
+      "animal tracks",
+      "paw prints"
+    ],
+    "aliasesPt": [
+      "patas",
+      "rastros"
+    ],
+    "decks": [
+      "symbol",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2591": {
+    "id": "2591",
+    "name": {
+      "en": "guitar case",
+      "pt": "capa de guitarr"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2592": {
+    "name": {
+      "en": "dental trainer",
+      "pt": "aparelho ortodôntico funcional."
+    },
+    "id": "2592",
+    "aliasesEn": [
+      "retainer"
+    ],
+    "groups": []
+  },
+  "2593": {
+    "id": "2593",
+    "name": {
+      "en": "chassis",
+      "pt": "chassi"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2594": {
+    "id": "2594",
+    "name": {
+      "en": "weather",
+      "pt": "clima"
+    },
+    "aliasesPt": [
+      "tempo"
+    ],
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2595": {
+    "name": {
+      "en": "scanner",
+      "pt": "scanner"
+    },
+    "id": "2595",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2596": {
+    "id": "2596",
+    "name": {
+      "en": "aurora borealis",
+      "pt": "aurora boreal"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2597": {
+    "id": "2597",
+    "name": {
+      "en": "atmosphere",
+      "pt": "atmosfera"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2598": {
+    "name": {
+      "en": "scribble",
+      "pt": "rabisco"
+    },
+    "id": "2598",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2599": {
+    "id": "2599",
+    "name": {
+      "en": "ventilator",
+      "pt": "ventilador"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2600": {
+    "name": {
+      "en": "sandstorm",
+      "pt": "tempestade de areia"
+    },
+    "id": "2600",
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2601": {
+    "id": "2601",
+    "name": {
+      "en": "mammoth",
+      "pt": "mamute"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2602": {
+    "name": {
+      "en": "color bar",
+      "pt": "barras de cor"
+    },
+    "id": "2602",
+    "decks": [
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2603": {
+    "id": "2603",
+    "name": {
+      "en": "tuxedo",
+      "pt": "terno"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2604": {
+    "name": {
+      "en": "grid",
+      "pt": "grid de largada"
+    },
+    "id": "2604",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2605": {
+    "id": "2605",
+    "name": {
+      "en": "monomotor",
+      "pt": "monomotor"
+    },
+    "aliasesPt": [
+      "aeroplano"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2606": {
+    "name": {
+      "en": "sofa bed",
+      "pt": "sofá-cama"
+    },
+    "id": "2606",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2607": {
+    "id": "2607",
+    "name": {
+      "en": "tank",
+      "pt": "tanque"
+    },
+    "aliasesPt": [
+      "reservatório"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2608": {
+    "id": "2608",
+    "name": {
+      "en": "car radio",
+      "pt": "rádio do carro"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2609": {
+    "name": {
+      "en": "dvd player",
+      "pt": "aparelho de dvd"
+    },
+    "id": "2609",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2610": {
+    "id": "2610",
+    "name": {
+      "en": "maple leaves",
+      "pt": "folhas de bordo"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2611": {
+    "id": "2611",
+    "name": {
+      "en": "chime",
+      "pt": "carrilhão"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2612": {
+    "name": {
+      "en": "beetle",
+      "pt": "fusca"
+    },
+    "id": "2612",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2613": {
+    "id": "2613",
+    "name": {
+      "en": "manure",
+      "pt": "esterco"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2614": {
+    "id": "2614",
+    "name": {
+      "en": "stool sample",
+      "pt": "exame de fezes"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2615": {
+    "id": "2615",
+    "name": {
+      "en": "brazil nuts",
+      "pt": "castanhas-do-pará"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2616": {
+    "id": "2616",
+    "name": {
+      "en": "trans",
+      "pt": "trans"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2617": {
+    "name": {
+      "en": "fetus",
+      "pt": "feto"
+    },
+    "id": "2617",
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2618": {
+    "id": "2618",
+    "name": {
+      "en": "gym",
+      "pt": "academia"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2619": {
+    "id": "2619",
+    "name": {
+      "en": "playmat",
+      "pt": "tapete de espuma"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2620": {
+    "id": "2620",
+    "name": {
+      "en": "karma",
+      "pt": "carma"
+    },
+    "decks": [
+      "dream",
+      "symbol"
+    ],
+    "groups": []
+  },
+  "2621": {
+    "id": "2621",
+    "name": {
+      "en": "onion rings",
+      "pt": "anéis de cebola"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2622": {
+    "name": {
+      "en": "kayak",
+      "pt": "caiaque"
+    },
+    "id": "2622",
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2623": {
+    "name": {
+      "en": "rolls",
+      "pt": "pãezinhos"
+    },
+    "id": "2623",
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2624": {
+    "name": {
+      "en": "haunted house",
+      "pt": "casa assombrada"
+    },
+    "id": "2624",
+    "decks": [
+      "alien",
+      "dream"
     ],
     "groups": []
   }
