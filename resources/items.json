@@ -49,11 +49,11 @@
     ]
   },
   "4": {
-    "id": "4",
     "name": {
       "en": "assault rifle",
       "pt": "rifle"
     },
+    "id": "4",
     "decks": [
       "alien",
       "dream",
@@ -644,11 +644,11 @@
     ]
   },
   "49": {
+    "id": "49",
     "name": {
       "en": "watch",
       "pt": "relógio de pulso"
     },
-    "id": "49",
     "aliasesEn": [
       "wristwatch"
     ],
@@ -2097,11 +2097,11 @@
     ]
   },
   "165": {
-    "id": "165",
     "name": {
       "en": "puzzle",
       "pt": "quebra-cabeça"
     },
+    "id": "165",
     "aliasesEn": [
       "jigsaw puzzle"
     ],
@@ -2244,11 +2244,11 @@
     ]
   },
   "176": {
-    "id": "176",
     "name": {
       "en": "handcuffs",
       "pt": "algemas"
     },
+    "id": "176",
     "decks": [
       "alien",
       "dream",
@@ -2766,11 +2766,11 @@
     ]
   },
   "217": {
-    "id": "217",
     "name": {
       "en": "baseball bat",
       "pt": "bastão de baseball"
     },
+    "id": "217",
     "aliasesEn": [
       "bat"
     ],
@@ -3209,11 +3209,11 @@
     ]
   },
   "252": {
-    "id": "252",
     "name": {
       "en": "car air freshener",
       "pt": "cheirinho de carro"
     },
+    "id": "252",
     "aliasesPt": [
       "ambientador de carro"
     ],
@@ -3346,11 +3346,11 @@
     ]
   },
   "262": {
-    "id": "262",
     "name": {
       "en": "mummy",
       "pt": "múmia"
     },
+    "id": "262",
     "aliasesEn": [
       "Egyptian mummy"
     ],
@@ -3657,11 +3657,11 @@
     ]
   },
   "286": {
-    "id": "286",
     "name": {
       "en": "carousel",
       "pt": "carrossel"
     },
+    "id": "286",
     "decks": [
       "alien",
       "dream",
@@ -3719,11 +3719,11 @@
     ]
   },
   "291": {
-    "id": "291",
     "name": {
       "en": "rolling pin",
       "pt": "rolo de macarrão"
     },
+    "id": "291",
     "aliasesEn": [
       "pasta roller"
     ],
@@ -25837,6 +25837,11 @@
       "pt": "boina"
     },
     "id": "2145",
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
     "groups": []
   },
   "2146": {
@@ -29416,13 +29421,17 @@
     "groups": []
   },
   "2442": {
+    "id": "2442",
     "name": {
-      "en": "oven",
+      "en": "brick oven",
       "pt": "forno à lenha"
     },
-    "id": "2442",
     "aliasesPt": [
       "fogão à lenha"
+    ],
+    "decks": [
+      "alien",
+      "dream"
     ],
     "groups": []
   },
@@ -29446,6 +29455,11 @@
     },
     "aliasesPt": [
       "cela"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
     ],
     "groups": []
   },
@@ -31157,16 +31171,21 @@
     "groups": []
   },
   "2574": {
+    "id": "2574",
     "name": {
       "en": "droid",
       "pt": "dróide"
     },
-    "id": "2574",
     "aliasesEn": [
       "robot"
     ],
     "aliasesPt": [
       "robô"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
     ],
     "groups": []
   },
@@ -31406,11 +31425,18 @@
   "2592": {
     "name": {
       "en": "dental trainer",
-      "pt": "aparelho ortodôntico funcional."
+      "pt": "contenção"
     },
     "id": "2592",
     "aliasesEn": [
       "retainer"
+    ],
+    "aliasesPt": [
+      "aparelho funcional dentário"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
     ],
     "groups": []
   },
@@ -31844,11 +31870,11 @@
     "groups": []
   },
   "2627": {
+    "id": "2627",
     "name": {
       "en": "d-pad",
       "pt": "direcional"
     },
-    "id": "2627",
     "groups": []
   },
   "2628": {
@@ -31917,11 +31943,11 @@
     "groups": []
   },
   "2633": {
-    "id": "2633",
     "name": {
       "en": "Triceratops",
       "pt": "Tricerátopo"
     },
+    "id": "2633",
     "decks": [
       "dream",
       "thing"
@@ -31941,23 +31967,28 @@
     "groups": []
   },
   "2635": {
+    "id": "2635",
     "name": {
       "en": "bobes",
       "pt": "curlers"
     },
-    "id": "2635",
     "aliasesPt": [
       "rolinhos",
       "rolos"
     ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
     "groups": []
   },
   "2636": {
-    "id": "2636",
     "name": {
       "en": "gel",
       "pt": "gel"
     },
+    "id": "2636",
     "decks": [
       "alien",
       "dream",
@@ -31967,11 +31998,11 @@
     "groups": []
   },
   "2637": {
-    "id": "2637",
     "name": {
       "en": "braids",
       "pt": "tranças"
     },
+    "id": "2637",
     "decks": [
       "alien",
       "dream",
@@ -31980,11 +32011,11 @@
     "groups": []
   },
   "2638": {
-    "id": "2638",
     "name": {
       "en": "flip phone",
       "pt": "celular dobrável"
     },
+    "id": "2638",
     "aliasesEn": [
       "burner"
     ],
@@ -32037,11 +32068,11 @@
     "groups": []
   },
   "2642": {
-    "id": "2642",
     "name": {
       "en": "mattress cover",
       "pt": "capa de colchão"
     },
+    "id": "2642",
     "decks": [
       "alien",
       "dream",
@@ -32050,11 +32081,11 @@
     "groups": []
   },
   "2643": {
-    "id": "2643",
     "name": {
       "en": "quail",
       "pt": "codorna"
     },
+    "id": "2643",
     "decks": [
       "alien",
       "dream",
@@ -32090,11 +32121,11 @@
     "groups": []
   },
   "2646": {
-    "id": "2646",
     "name": {
       "en": "lid",
       "pt": "tampa"
     },
+    "id": "2646",
     "decks": [
       "alien",
       "dream",
@@ -32132,11 +32163,11 @@
     "groups": []
   },
   "2649": {
+    "id": "2649",
     "name": {
       "en": "jewel box",
       "pt": "porta-joias"
     },
-    "id": "2649",
     "decks": [
       "alien",
       "dream",
@@ -32146,11 +32177,11 @@
     "groups": []
   },
   "2650": {
+    "id": "2650",
     "name": {
       "en": "spices",
       "pt": "especiarias"
     },
-    "id": "2650",
     "decks": [
       "alien",
       "dream",
@@ -32187,11 +32218,11 @@
     "groups": []
   },
   "2653": {
-    "id": "2653",
     "name": {
       "en": "carabiner",
       "pt": "mosquetão"
     },
+    "id": "2653",
     "decks": [
       "alien",
       "manufactured",
@@ -32225,11 +32256,11 @@
     "groups": []
   },
   "2656": {
-    "id": "2656",
     "name": {
       "en": "wood-burning stove",
       "pt": "fogão a lenha"
     },
+    "id": "2656",
     "decks": [
       "alien",
       "dream"
@@ -32237,11 +32268,11 @@
     "groups": []
   },
   "2657": {
+    "id": "2657",
     "name": {
       "en": "balalaika",
       "pt": "balalaica"
     },
-    "id": "2657",
     "decks": [
       "alien",
       "dream",
@@ -32258,14 +32289,19 @@
     "aliasesPt": [
       "chuveiro"
     ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
     "groups": []
   },
   "2659": {
+    "id": "2659",
     "name": {
       "en": "event hall",
       "pt": "casa de eventos"
     },
-    "id": "2659",
     "decks": [
       "alien",
       "dream"
@@ -32273,11 +32309,11 @@
     "groups": []
   },
   "2660": {
-    "id": "2660",
     "name": {
       "en": "shelter",
       "pt": "abrigo"
     },
+    "id": "2660",
     "decks": [
       "alien",
       "dream",
@@ -32286,11 +32322,11 @@
     "groups": []
   },
   "2661": {
+    "id": "2661",
     "name": {
       "en": "hearse",
       "pt": "carro fúnebre"
     },
-    "id": "2661",
     "decks": [
       "alien",
       "manufactured"
