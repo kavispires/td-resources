@@ -30,8 +30,8 @@
     "itemsIds": [
       "56",
       "84",
-      "262",
-      "416"
+      "416",
+      "2503"
     ],
     "level": 3
   },
@@ -1104,13 +1104,17 @@
     "level": 1
   },
   "dqs-0092-pt": {
-    "title": "Com buraco no meio",
+    "title": "Redondo com buraco no meio",
     "id": "dqs-0092-pt",
     "itemsIds": [
       "48",
       "118",
+      "180",
       "309",
-      "804"
+      "354",
+      "804",
+      "1147",
+      "1170"
     ],
     "level": 0
   },
@@ -1332,7 +1336,8 @@
       "91",
       "243",
       "354",
-      "460"
+      "460",
+      "1288"
     ],
     "level": 0
   },
@@ -1603,8 +1608,9 @@
     "level": 0
   },
   "dqs-0134-pt": {
-    "title": "Alergias",
     "id": "dqs-0134-pt",
+    "type": "thematic",
+    "title": "Alergias",
     "itemsIds": [
       "210",
       "385",
@@ -1771,6 +1777,7 @@
   "dqs-0148-pt": {
     "title": "Acesso restrito",
     "id": "dqs-0148-pt",
+    "type": "thematic",
     "itemsIds": [
       "482",
       "571",
@@ -3531,7 +3538,10 @@
   "dqs-0293-pt": {
     "title": "Parte Interna do Corpo",
     "id": "dqs-0293-pt",
-    "itemsIds": [],
+    "itemsIds": [
+      "632",
+      "402"
+    ],
     "level": 0
   },
   "dqs-0294-pt": {
@@ -3732,8 +3742,9 @@
     "title": "Com cordas",
     "id": "dqs-0312-pt",
     "itemsIds": [
+      "454",
       "457",
-      "454"
+      "2291"
     ],
     "level": 0
   },
@@ -3817,5 +3828,65 @@
       "1205"
     ],
     "level": 0
+  },
+  "dqs-0320-pt": {
+    "id": "dqs-0320-pt",
+    "title": "Usado em um sequestro",
+    "itemsIds": [
+      "1469",
+      "100",
+      "893"
+    ],
+    "level": 0
+  },
+  "dqs-0321-pt": {
+    "id": "dqs-0321-pt",
+    "type": "thematic",
+    "title": "Primatas",
+    "itemsIds": [
+      "1828",
+      "1247",
+      "552",
+      "1958"
+    ],
+    "level": 0
+  },
+  "dqs-0322-pt": {
+    "title": "Identificação",
+    "type": "general",
+    "id": "dqs-0322-pt",
+    "itemsIds": [
+      "2103",
+      "699",
+      "1376",
+      "811"
+    ],
+    "level": 1
+  },
+  "dqs-0323-pt": {
+    "id": "dqs-0323-pt",
+    "title": "Para Cima",
+    "itemsIds": [
+      "1992",
+      "1986",
+      "1489",
+      "1931",
+      "145",
+      "2585",
+      "747"
+    ],
+    "level": 0
+  },
+  "dqs-0324-pt": {
+    "id": "dqs-0324-pt",
+    "type": "general",
+    "title": "anfíbios",
+    "itemsIds": [
+      "856",
+      "2408",
+      "1627",
+      "1598"
+    ],
+    "level": 1
   }
 }
