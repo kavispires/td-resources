@@ -1215,7 +1215,8 @@
     "id": "tpc-203-pt",
     "label": "Insultos e palavrões",
     "category": "adult",
-    "level": 2
+    "level": 2,
+    "nsfw": true
   },
   "tpc-204-pt": {
     "id": "tpc-204-pt",
@@ -1257,19 +1258,22 @@
     "id": "tpc-210-pt",
     "label": "Veneno e Drogas",
     "category": "adult",
-    "level": 4
+    "level": 4,
+    "nsfw": true
   },
   "tpc-211-pt": {
     "id": "tpc-211-pt",
     "label": "Métodos de Tortura",
     "category": "adult",
-    "level": 5
+    "level": 5,
+    "nsfw": true
   },
   "tpc-212-pt": {
     "id": "tpc-212-pt",
     "label": "Lugares bom para fazer amor",
     "category": "adult",
-    "level": 2
+    "level": 2,
+    "nsfw": true
   },
   "tpc-213-pt": {
     "id": "tpc-213-pt",
