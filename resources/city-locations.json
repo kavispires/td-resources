@@ -2,11 +2,10 @@
   "cl-1": {
     "id": "cl-1",
     "name": {
-      "en": "Motel",
-      "pt": "Motel"
+      "en": "City Hall",
+      "pt": "Prefeitura"
     },
-    "nsfw": true,
-    "category": "Accommodation"
+    "category": "Government"
   },
   "cl-2": {
     "id": "cl-2",
@@ -525,10 +524,10 @@
   "cl-66": {
     "id": "cl-66",
     "name": {
-      "en": "City Hall",
-      "pt": "Prefeitura"
+      "en": "Motel",
+      "pt": "Hotel de beira de estrada"
     },
-    "category": "Government"
+    "category": "Accommodation"
   },
   "cl-67": {
     "id": "cl-67",
@@ -978,5 +977,29 @@
     },
     "nsfw": true,
     "category": "Entertainment"
+  },
+  "cl-123": {
+    "id": "cl-123",
+    "name": {
+      "en": "Sex Shop",
+      "pt": "Sex Shop"
+    },
+    "category": "Commercial"
+  },
+  "cl-124": {
+    "id": "cl-124",
+    "name": {
+      "en": "Abandoned Building",
+      "pt": "Construção abandonado"
+    },
+    "category": "Special"
+  },
+  "cl-125": {
+    "id": "cl-125",
+    "name": {
+      "en": "Cave",
+      "pt": "Caverna"
+    },
+    "category": "Natural"
   }
 }
