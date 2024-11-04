@@ -1243,7 +1243,8 @@
       "146",
       "216",
       "488",
-      "505"
+      "1013",
+      "1004"
     ],
     "level": 0
   },
@@ -1563,7 +1564,6 @@
     "id": "dqs-0130-pt",
     "itemsIds": [
       "72",
-      "255",
       "308",
       "511",
       "532",
@@ -2507,7 +2507,8 @@
     "itemsIds": [
       "217",
       "259",
-      "656"
+      "656",
+      "1471"
     ],
     "level": 0
   },
@@ -3749,14 +3750,15 @@
     "level": 0
   },
   "dqs-0313-pt": {
-    "title": "Quadrado com quatro coisas",
     "type": "visual",
+    "title": "Quadrado com quatro coisas",
     "id": "dqs-0313-pt",
     "itemsIds": [
       "2590",
       "2619",
       "2176",
-      "2594"
+      "2594",
+      "1850"
     ],
     "level": 1
   },
@@ -3830,12 +3832,13 @@
     "level": 0
   },
   "dqs-0320-pt": {
-    "id": "dqs-0320-pt",
     "title": "Usado em um sequestro",
+    "id": "dqs-0320-pt",
     "itemsIds": [
-      "1469",
       "100",
-      "893"
+      "893",
+      "1469",
+      "2664"
     ],
     "level": 0
   },
@@ -3888,5 +3891,17 @@
       "1598"
     ],
     "level": 1
+  },
+  "dqs-0325-pt": {
+    "type": "thematic",
+    "id": "dqs-0325-pt",
+    "title": "Coisas que tem boca",
+    "itemsIds": [
+      "606",
+      "2665",
+      "2670",
+      "2666"
+    ],
+    "level": 0
   }
 }

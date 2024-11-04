@@ -19182,11 +19182,15 @@
     ]
   },
   "1576": {
-    "id": "1576",
     "name": {
       "en": "sandals",
-      "pt": "sandálias"
+      "pt": "papete"
     },
+    "id": "1576",
+    "aliasesPt": [
+      "chinelo",
+      "sandália"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -26345,11 +26349,11 @@
     ]
   },
   "2203": {
-    "id": "2203",
     "name": {
-      "en": "sandals",
-      "pt": "sandália"
+      "en": "flats",
+      "pt": "rasteirinha"
     },
+    "id": "2203",
     "decks": [
       "alien",
       "dream",
@@ -31726,11 +31730,11 @@
     "groups": []
   },
   "2666": {
+    "id": "2666",
     "name": {
       "en": "beer bottle",
       "pt": "garrafa"
     },
-    "id": "2666",
     "aliasesPt": [
       "cerveja"
     ],
@@ -31742,11 +31746,11 @@
     "groups": []
   },
   "2667": {
-    "id": "2667",
     "name": {
       "en": "shadow",
       "pt": "sombra"
     },
+    "id": "2667",
     "decks": [
       "dream",
       "thing"
@@ -31781,11 +31785,11 @@
     "groups": []
   },
   "2670": {
-    "id": "2670",
     "name": {
       "en": "manhole",
       "pt": "boca de lobo"
     },
+    "id": "2670",
     "aliasesPt": [
       "bueiro"
     ],
@@ -31797,11 +31801,11 @@
     "groups": []
   },
   "2671": {
+    "id": "2671",
     "name": {
       "en": "feather tickler",
       "pt": "pluma"
     },
-    "id": "2671",
     "decks": [
       "alien",
       "dream",
@@ -31826,11 +31830,11 @@
     "groups": []
   },
   "2673": {
-    "id": "2673",
     "name": {
       "en": "hula skirt",
       "pt": "saia havaiana"
     },
+    "id": "2673",
     "decks": [
       "alien",
       "dream"
