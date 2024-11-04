@@ -177,7 +177,7 @@
   },
   "ddr-23-pt": {
     "id": "ddr-23-pt",
-    "title": "começa com uma letra de \"A\"-\"M\"",
+    "title": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
     "level": 3,
     "type": "starts",
     "method": "auto",
@@ -185,7 +185,7 @@
   },
   "ddr-24-pt": {
     "id": "ddr-24-pt",
-    "title": "começa com uma letra de \"N\"-\"Z\"",
+    "title": "começa com uma letra da segunda metade do alfabeto (\"N\"-\"Z\")",
     "level": 3,
     "type": "starts",
     "method": "auto",
@@ -241,11 +241,11 @@
   },
   "ddr-31-pt": {
     "id": "ddr-31-pt",
-    "title": "tem \"Q\" ou \"J\"",
+    "title": "tem \"Q\"",
     "level": 3,
     "type": "contains",
     "method": "auto",
-    "updatedAt": 1724369455795
+    "updatedAt": 1725067495105
   },
   "ddr-32-pt": {
     "id": "ddr-32-pt",
@@ -406,5 +406,13 @@
     "type": "grammar",
     "method": "manual",
     "updatedAt": 1730683730210
+  },
+  "ddr-52-pt": {
+    "id": "ddr-52-pt",
+    "title": "tem \"J\"",
+    "level": 3,
+    "type": "contains",
+    "method": "auto",
+    "updatedAt": 1725067495105
   }
 }
