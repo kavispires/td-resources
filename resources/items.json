@@ -6816,8 +6816,11 @@
     "id": "540",
     "name": {
       "en": "boot",
-      "pt": "bota"
+      "pt": "botina"
     },
+    "aliasesPt": [
+      "bota"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -7655,15 +7658,19 @@
     ]
   },
   "609": {
-    "id": "609",
     "name": {
       "en": "drainage",
       "pt": "bueiro"
     },
+    "id": "609",
+    "aliasesPt": [
+      "ralo"
+    ],
     "decks": [
       "alien",
       "dream",
-      "manufactured"
+      "manufactured",
+      "thing"
     ]
   },
   "610": {
@@ -9621,13 +9628,14 @@
     "nsfw": true
   },
   "770": {
-    "id": "770",
     "name": {
       "en": "urine sample",
       "pt": "exame de urina"
     },
+    "id": "770",
     "decks": [
-      "alien"
+      "alien",
+      "thing"
     ]
   },
   "771": {
@@ -11655,7 +11663,7 @@
     "id": "941",
     "name": {
       "en": "acorn",
-      "pt": "noz"
+      "pt": "bolota"
     },
     "decks": [
       "alien",
@@ -19573,10 +19581,16 @@
   },
   "1608": {
     "name": {
-      "en": "organized crime",
-      "pt": "crime organizado"
+      "en": "mafia",
+      "pt": "máfia"
     },
     "id": "1608",
+    "aliasesEn": [
+      "organized crime"
+    ],
+    "aliasesPt": [
+      "crime organizado"
+    ],
     "decks": [
       "dream",
       "suspect",
@@ -19923,16 +19937,15 @@
     "nsfw": true
   },
   "1638": {
-    "id": "1638",
     "name": {
       "en": "eye test",
       "pt": "exame de vista"
     },
+    "id": "1638",
     "decks": [
       "alien",
       "dream",
-      "evidence",
-      "thing"
+      "evidence"
     ]
   },
   "1639": {
@@ -20131,16 +20144,15 @@
     ]
   },
   "1656": {
-    "id": "1656",
     "name": {
       "en": "craft beer",
       "pt": "cerveja artesanal"
     },
+    "id": "1656",
     "decks": [
       "alien",
       "dream",
       "manufactured",
-      "thing",
       "weapon"
     ]
   },
@@ -20274,8 +20286,7 @@
     "decks": [
       "alien",
       "evidence",
-      "manufactured",
-      "thing"
+      "manufactured"
     ]
   },
   "1668": {
@@ -20495,8 +20506,7 @@
     "decks": [
       "alien",
       "evidence",
-      "manufactured",
-      "thing"
+      "manufactured"
     ]
   },
   "1687": {
@@ -20606,11 +20616,14 @@
     ]
   },
   "1696": {
-    "id": "1696",
     "name": {
       "en": "dna test",
       "pt": "teste de dna"
     },
+    "id": "1696",
+    "aliasesPt": [
+      "genética"
+    ],
     "decks": [
       "alien",
       "manufactured",
@@ -20899,8 +20912,11 @@
     "id": "1721",
     "name": {
       "en": "stockings",
-      "pt": "meia-calça"
+      "pt": "meião"
     },
+    "aliasesPt": [
+      "meias"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -21109,8 +21125,11 @@
     "id": "1738",
     "name": {
       "en": "overalls",
-      "pt": "macacão"
+      "pt": "jardineria"
     },
+    "aliasesPt": [
+      "macacão"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -22423,11 +22442,14 @@
     ]
   },
   "1854": {
+    "id": "1854",
     "name": {
       "en": "conveyor belt",
-      "pt": "esteira"
+      "pt": "correia"
     },
-    "id": "1854",
+    "aliasesPt": [
+      "esteira"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -23251,11 +23273,11 @@
     ]
   },
   "1927": {
-    "id": "1927",
     "name": {
       "en": "fly",
-      "pt": "mosquito"
+      "pt": "mosca"
     },
+    "id": "1927",
     "decks": [
       "alien",
       "dream",
@@ -24517,8 +24539,11 @@
     "id": "2039",
     "name": {
       "en": "ink",
-      "pt": "tinta"
+      "pt": "tinteiro"
     },
+    "aliasesPt": [
+      "tinta"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -24761,11 +24786,14 @@
     ]
   },
   "2062": {
-    "id": "2062",
     "name": {
       "en": "poster",
-      "pt": "poster"
+      "pt": "cartaz"
     },
+    "id": "2062",
+    "aliasesPt": [
+      "poster"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -26166,9 +26194,12 @@
       "en": "decorative skull",
       "pt": "caveira decorada"
     },
+    "aliasesEn": [
+      "dia de los muertos",
+      "llorona"
+    ],
     "decks": [
-      "alien",
-      "thing"
+      "alien"
     ]
   },
   "2188": {
@@ -26549,11 +26580,11 @@
     ]
   },
   "2220": {
+    "id": "2220",
     "name": {
       "en": "cyborg",
-      "pt": "cyborg"
+      "pt": "ciborgue"
     },
-    "id": "2220",
     "decks": [
       "alien",
       "dream",
@@ -29280,11 +29311,11 @@
     ]
   },
   "2466": {
+    "id": "2466",
     "name": {
       "en": "bulldozer",
-      "pt": "escavadeira"
+      "pt": "trator"
     },
-    "id": "2466",
     "decks": [
       "alien",
       "dream",
@@ -30958,14 +30989,13 @@
     ]
   },
   "2602": {
+    "id": "2602",
     "name": {
       "en": "color bar",
       "pt": "barras de cor"
     },
-    "id": "2602",
     "decks": [
-      "dream",
-      "thing"
+      "dream"
     ]
   },
   "2603": {
@@ -31020,13 +31050,13 @@
     ]
   },
   "2607": {
-    "id": "2607",
     "name": {
       "en": "tank",
-      "pt": "tanque"
+      "pt": "reservatório"
     },
+    "id": "2607",
     "aliasesPt": [
-      "reservatório"
+      "tanque"
     ],
     "decks": [
       "alien",
@@ -31340,11 +31370,11 @@
     ]
   },
   "2635": {
-    "name": {
-      "en": "bobes",
-      "pt": "curlers"
-    },
     "id": "2635",
+    "name": {
+      "en": "curlers",
+      "pt": "bobes"
+    },
     "aliasesPt": [
       "rolinhos",
       "rolos"
