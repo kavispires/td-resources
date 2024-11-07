@@ -67,7 +67,7 @@
     },
     "description": {
       "en": "Wearables, fashion, clothing",
-      "pt": "Vestíveis, moda, roupas"
+      "pt": "moda, roupas, acessórios"
     },
     "default": true,
     "level": 1,
@@ -82,7 +82,7 @@
     },
     "description": {
       "en": "hazard, risk, threat",
-      "pt": "perigo, risco, ameaça"
+      "pt": "risco, ameaça"
     },
     "default": true,
     "level": 1,
@@ -97,7 +97,7 @@
     },
     "description": {
       "en": "shield, protection, covering",
-      "pt": "escudo, proteção, cobertura"
+      "pt": "proteção, cobertura, escudo"
     },
     "default": true,
     "level": 2,
@@ -142,7 +142,7 @@
     },
     "description": {
       "en": "flying, glides, has wings",
-      "pt": "voador, plana, tem asas"
+      "pt": "voador, alado"
     },
     "default": true,
     "level": 1,
@@ -171,8 +171,8 @@
       "pt": "Pesado"
     },
     "description": {
-      "en": "weight, mass, can be carried by someone or something",
-      "pt": "peso, massa, pode ser carregado por alguém ou algo"
+      "en": "weight, mass",
+      "pt": "peso, massa"
     },
     "default": true,
     "level": 3,
@@ -186,8 +186,8 @@
       "pt": "Humano"
     },
     "description": {
-      "en": "person, used by people, has human characteristics",
-      "pt": "pessoa, usado por pessoas, tem características humanas"
+      "en": "person, human body, used by people, has human features",
+      "pt": "pessoa, corpo, usado por pessoas, tem características humanas"
     },
     "default": true,
     "level": 1,
@@ -217,7 +217,7 @@
     },
     "description": {
       "en": "fluid, aquatic, water",
-      "pt": "fluido, aquático, água"
+      "pt": "fluido, aquático"
     },
     "default": true,
     "level": 1,
@@ -277,7 +277,7 @@
     },
     "description": {
       "en": "smell, odor, aroma",
-      "pt": "cheiro, odor, aroma"
+      "pt": "perfume, odor, aroma, fedor"
     },
     "default": false,
     "level": 2,
@@ -292,7 +292,7 @@
     },
     "description": {
       "en": "elderly, aged, dated, ancient",
-      "pt": "idoso, envelhecido, fora de moda, antigo"
+      "pt": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
     },
     "default": false,
     "level": 2,
@@ -322,7 +322,7 @@
     },
     "description": {
       "en": "strength, energy, force, electricity",
-      "pt": "força, energia, força, eletricidade"
+      "pt": "poder, energia, eletricidade"
     },
     "default": true,
     "level": 2,
@@ -472,7 +472,7 @@
     },
     "description": {
       "en": "you normally hold or has a handle or mainly holds something",
-      "pt": "você normalmente segura ou tem uma alça ou seu trabalho é segurar algo"
+      "pt": "com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
     },
     "default": false,
     "level": 2,
@@ -487,8 +487,8 @@
       "pt": "Pessoal"
     },
     "description": {
-      "en": "Belonging to a person, used by a single person",
-      "pt": "Pertencente a uma pessoa, usado por uma única pessoa"
+      "en": "Belonging to a person, private, used by a single person",
+      "pt": "Pertencente a uma pessoa, privado, usado por uma única pessoa"
     },
     "default": false,
     "level": 4,
@@ -504,7 +504,7 @@
     },
     "description": {
       "en": "usually found in pairs, groups, or sets, or people own more than one",
-      "pt": "normalmente encontrado em pares, grupos ou conjuntos, ou as pessoas possuem mais de um"
+      "pt": "pares, grupos, conjuntos, ou as pessoas possuem mais de um"
     },
     "default": false,
     "level": 4,
@@ -536,7 +536,7 @@
     },
     "description": {
       "en": "plaything, amusement, for children",
-      "pt": "brinquedo, diversão, para crianças"
+      "pt": "laser, prazer, diversão, para crianças"
     },
     "default": false,
     "level": 2,
@@ -551,7 +551,7 @@
     },
     "description": {
       "en": "building, structure, architecture, housing",
-      "pt": "construção, estrutura, arquitetura, housing"
+      "pt": "prédios, estrutura, arquitetura, habitação"
     },
     "default": false,
     "level": 2,
