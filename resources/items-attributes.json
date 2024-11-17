@@ -252,7 +252,8 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-19",
-    "priority": 15
+    "priority": 15,
+    "oppositeId": "nat"
   },
   "met": {
     "id": "met",
@@ -372,22 +373,24 @@
     "default": false,
     "level": 3,
     "spriteId": "sign-29",
-    "priority": 32
+    "priority": 32,
+    "oppositeId": "har"
   },
-  "sol": {
-    "id": "sol",
+  "har": {
+    "id": "har",
     "name": {
-      "en": "Solid",
-      "pt": "Sólido"
+      "en": "Hard",
+      "pt": "Duro"
     },
     "description": {
-      "en": "hard, firm, rigid, unyielding",
-      "pt": "duro, firme, rígido, inflexível"
+      "en": "solid, firm, rigid, unyielding",
+      "pt": "sólido, firme, rígido, inflexível"
     },
     "default": true,
     "level": 4,
     "spriteId": "sign-30",
-    "priority": 37
+    "priority": 100,
+    "oppositeId": "sof"
   },
   "sou": {
     "id": "sou",
@@ -447,7 +450,8 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-36",
-    "priority": 13
+    "priority": 13,
+    "oppositeId": "col"
   },
   "wea": {
     "id": "wea",
@@ -464,14 +468,14 @@
     "spriteId": "sign-32",
     "priority": 2
   },
-  "hol": {
-    "id": "hol",
+  "gra": {
+    "id": "gra",
     "name": {
-      "en": "Holdable",
+      "en": "Grabbable",
       "pt": "Segurável"
     },
     "description": {
-      "en": "you normally hold or has a handle or mainly holds something",
+      "en": "holdable, you normally hold or has a handle or mainly holds something",
       "pt": "com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
     },
     "default": false,
@@ -572,5 +576,113 @@
     "level": 2,
     "spriteId": "sign-37",
     "priority": 12
+  },
+  "con": {
+    "id": "con",
+    "name": {
+      "en": "Container",
+      "pt": "Recipiente"
+    },
+    "description": {
+      "en": "holds, stores, or encloses items or substances",
+      "pt": "contém, armazena ou envolve itens ou substâncias"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-100",
+    "priority": 100
+  },
+  "hol": {
+    "id": "hol",
+    "name": {
+      "en": "Holes",
+      "pt": "Buracos"
+    },
+    "description": {
+      "en": "has gaps, perforations, or openings",
+      "pt": "possui lacunas, perfurações ou aberturas"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-100100",
+    "priority": 100
+  },
+  "wri": {
+    "id": "wri",
+    "name": {
+      "en": "Writing",
+      "pt": "Escrita"
+    },
+    "description": {
+      "en": "text, letters, or symbols used for communication",
+      "pt": "texto, letras ou símbolos usados para comunicação"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-100",
+    "priority": 100
+  },
+  "but": {
+    "id": "but",
+    "name": {
+      "en": "Buttons",
+      "pt": "Botões"
+    },
+    "description": {
+      "en": "has buttons, pressable, or clickable",
+      "pt": "pequenos objetos usados para fixar, pressionar ou controlar"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-100",
+    "limited": true,
+    "priority": 100
+  },
+  "col": {
+    "id": "col",
+    "name": {
+      "en": "Cold",
+      "pt": "Frio"
+    },
+    "description": {
+      "en": "low temperature, chilly, icy, refreshing",
+      "pt": "baixa temperatura, gelado, refrescante"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-100",
+    "priority": 100,
+    "oppositeId": "war"
+  },
+  "nat": {
+    "id": "nat",
+    "name": {
+      "en": "Natural",
+      "pt": "Natural"
+    },
+    "description": {
+      "en": "found in nature, not artificial, organic",
+      "pt": "encontrado na natureza, não artificial, orgânico"
+    },
+    "default": false,
+    "level": 3,
+    "spriteId": "sign-100",
+    "priority": 100,
+    "oppositeId": "mac"
+  },
+  "pls": {
+    "id": "pls",
+    "name": {
+      "en": "Plastic",
+      "pt": "Plástico"
+    },
+    "description": {
+      "en": "made of synthetic material, pliable, often lightweight",
+      "pt": "feito de material sintético, maleável, geralmente leve"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-100",
+    "priority": 100
   }
 }
