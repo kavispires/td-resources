@@ -543,14 +543,14 @@
     "spriteId": "sign-34",
     "priority": 23
   },
-  "con": {
-    "id": "con",
+  "bui": {
+    "id": "bui",
     "name": {
-      "en": "Construction",
+      "en": "Building",
       "pt": "Construção"
     },
     "description": {
-      "en": "building, structure, architecture, housing",
+      "en": "construction, structure, architecture, housing",
       "pt": "prédios, estrutura, arquitetura, habitação"
     },
     "default": false,
