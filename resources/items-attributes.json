@@ -629,8 +629,8 @@
       "pt": "Botões"
     },
     "description": {
-      "en": "has buttons, pressable, or clickable",
-      "pt": "pequenos objetos usados para fixar, pressionar ou controlar"
+      "en": "keys, switches, pressable, or clickable",
+      "pt": "teclas, interruptores, pressionáveis ou clicáveis"
     },
     "default": false,
     "level": 2,
@@ -677,8 +677,8 @@
       "pt": "Plástico"
     },
     "description": {
-      "en": "made of synthetic material, pliable, often lightweight",
-      "pt": "feito de material sintético, maleável, geralmente leve"
+      "en": "rubber, synthetic material,",
+      "pt": "borracha, material sintético"
     },
     "default": false,
     "level": 2,
@@ -692,12 +692,27 @@
       "pt": "Acessório"
     },
     "description": {
-      "en": "additional item for style, function, or decoration",
-      "pt": "item adicional para estilo, função ou decoração"
+      "en": "ornament, attachment, additional piece",
+      "pt": "ornamento, anexo, peça adicional"
     },
     "default": false,
     "level": 2,
     "spriteId": "sign-45",
+    "priority": 100
+  },
+  "ins": {
+    "id": "ins",
+    "name": {
+      "en": "Instrument",
+      "pt": "Instrumento"
+    },
+    "description": {
+      "en": "utensil",
+      "pt": "utensílio"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-46",
     "priority": 100
   }
 }
