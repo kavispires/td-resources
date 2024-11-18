@@ -221,7 +221,7 @@
     },
     "default": true,
     "level": 1,
-    "spriteId": "sign-17",
+    "spriteId": "sign-41",
     "priority": 5
   },
   "lon": {
@@ -559,7 +559,7 @@
     },
     "default": false,
     "level": 2,
-    "spriteId": "sign-5",
+    "spriteId": "sign-42",
     "priority": 20
   },
   "tec": {
@@ -589,7 +589,7 @@
     },
     "default": false,
     "level": 2,
-    "spriteId": "sign-100",
+    "spriteId": "sign-17",
     "priority": 100
   },
   "hol": {
@@ -604,7 +604,7 @@
     },
     "default": false,
     "level": 2,
-    "spriteId": "sign-100100",
+    "spriteId": "sign-5",
     "priority": 100
   },
   "wri": {
@@ -619,7 +619,7 @@
     },
     "default": false,
     "level": 2,
-    "spriteId": "sign-100",
+    "spriteId": "sign-41",
     "priority": 100
   },
   "but": {
@@ -634,7 +634,7 @@
     },
     "default": false,
     "level": 2,
-    "spriteId": "sign-100",
+    "spriteId": "sign-39",
     "limited": true,
     "priority": 100
   },
@@ -650,7 +650,7 @@
     },
     "default": false,
     "level": 2,
-    "spriteId": "sign-100",
+    "spriteId": "sign-40",
     "priority": 100,
     "oppositeId": "war"
   },
@@ -666,7 +666,7 @@
     },
     "default": false,
     "level": 3,
-    "spriteId": "sign-100",
+    "spriteId": "sign-43",
     "priority": 100,
     "oppositeId": "mac"
   },
@@ -682,7 +682,7 @@
     },
     "default": false,
     "level": 2,
-    "spriteId": "sign-100",
+    "spriteId": "sign-44",
     "priority": 100
   }
 }
