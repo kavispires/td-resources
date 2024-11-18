@@ -619,7 +619,7 @@
     },
     "default": false,
     "level": 2,
-    "spriteId": "sign-41",
+    "spriteId": "sign-38",
     "priority": 100
   },
   "but": {
@@ -683,6 +683,21 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-44",
+    "priority": 100
+  },
+  "acc": {
+    "id": "acc",
+    "name": {
+      "en": "Accessory",
+      "pt": "Acessório"
+    },
+    "description": {
+      "en": "additional item for style, function, or decoration",
+      "pt": "item adicional para estilo, função ou decoração"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-45",
     "priority": 100
   }
 }
