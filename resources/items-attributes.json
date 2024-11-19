@@ -57,7 +57,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-3",
-    "priority": 17
+    "priority": 19
   },
   "clo": {
     "id": "clo",
@@ -87,7 +87,7 @@
     "default": true,
     "level": 1,
     "spriteId": "sign-6",
-    "priority": 19
+    "priority": 22
   },
   "def": {
     "id": "def",
@@ -102,7 +102,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-7",
-    "priority": 21
+    "priority": 23
   },
   "fas": {
     "id": "fas",
@@ -117,7 +117,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-8",
-    "priority": 22
+    "priority": 25
   },
   "fla": {
     "id": "fla",
@@ -207,7 +207,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-16",
-    "priority": 16
+    "priority": 15
   },
   "liq": {
     "id": "liq",
@@ -237,7 +237,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-18",
-    "priority": 25
+    "priority": 31
   },
   "mac": {
     "id": "mac",
@@ -252,7 +252,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-19",
-    "priority": 15,
+    "priority": 18,
     "oppositeId": "nat"
   },
   "met": {
@@ -268,7 +268,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-20",
-    "priority": 26
+    "priority": 32
   },
   "odo": {
     "id": "odo",
@@ -283,7 +283,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-22",
-    "priority": 27
+    "priority": 33
   },
   "old": {
     "id": "old",
@@ -298,7 +298,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-23",
-    "priority": 28
+    "priority": 34
   },
   "pla": {
     "id": "pla",
@@ -328,7 +328,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-26",
-    "priority": 12
+    "priority": 16
   },
   "rou": {
     "id": "rou",
@@ -343,7 +343,7 @@
     "default": true,
     "level": 1,
     "spriteId": "sign-27",
-    "priority": 18
+    "priority": 20
   },
   "sha": {
     "id": "sha",
@@ -405,7 +405,7 @@
     "default": false,
     "level": 1,
     "spriteId": "sign-31",
-    "priority": 14
+    "priority": 17
   },
   "too": {
     "id": "too",
@@ -420,7 +420,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-33",
-    "priority": 24
+    "priority": 27
   },
   "val": {
     "id": "val",
@@ -481,7 +481,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-14",
-    "priority": 33,
+    "priority": 41,
     "limited": true
   },
   "per": {
@@ -497,7 +497,7 @@
     "default": false,
     "level": 4,
     "spriteId": "sign-24",
-    "priority": 34,
+    "priority": 44,
     "limited": true
   },
   "mul": {
@@ -513,7 +513,7 @@
     "default": false,
     "level": 4,
     "spriteId": "sign-21",
-    "priority": 30,
+    "priority": 37,
     "limited": true
   },
   "fra": {
@@ -529,7 +529,7 @@
     "default": false,
     "level": 4,
     "spriteId": "sign-12",
-    "priority": 29,
+    "priority": 43,
     "limited": true
   },
   "toy": {
@@ -545,7 +545,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-34",
-    "priority": 23
+    "priority": 26
   },
   "bui": {
     "id": "bui",
@@ -560,7 +560,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-42",
-    "priority": 20
+    "priority": 22
   },
   "tec": {
     "id": "tec",
@@ -590,7 +590,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-17",
-    "priority": 100
+    "priority": 20
   },
   "hol": {
     "id": "hol",
@@ -605,7 +605,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-5",
-    "priority": 100
+    "priority": 42
   },
   "wri": {
     "id": "wri",
@@ -620,7 +620,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-38",
-    "priority": 100
+    "priority": 36
   },
   "but": {
     "id": "but",
@@ -636,7 +636,7 @@
     "level": 2,
     "spriteId": "sign-39",
     "limited": true,
-    "priority": 100
+    "priority": 30
   },
   "col": {
     "id": "col",
@@ -651,7 +651,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-40",
-    "priority": 100,
+    "priority": 13,
     "oppositeId": "war"
   },
   "nat": {
@@ -667,7 +667,7 @@
     "default": false,
     "level": 3,
     "spriteId": "sign-43",
-    "priority": 100,
+    "priority": 25,
     "oppositeId": "mac"
   },
   "pls": {
@@ -683,7 +683,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-44",
-    "priority": 100
+    "priority": 35
   },
   "acc": {
     "id": "acc",
@@ -698,7 +698,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-45",
-    "priority": 100
+    "priority": 29
   },
   "ins": {
     "id": "ins",
@@ -713,6 +713,38 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-46",
-    "priority": 100
+    "priority": 28
+  },
+  "sma": {
+    "id": "sma",
+    "name": {
+      "en": "Small",
+      "pt": "Pequeno"
+    },
+    "description": {
+      "en": "tiny, miniature, compact",
+      "pt": "pequeno, compacto"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-47",
+    "priority": 36,
+    "oppositeId": "big"
+  },
+  "new": {
+    "id": "new",
+    "name": {
+      "en": "New",
+      "pt": "Novo"
+    },
+    "description": {
+      "en": "young, recent, fresh, modern",
+      "pt": "jovem, recente, moderno"
+    },
+    "default": false,
+    "level": 2,
+    "spriteId": "sign-48",
+    "priority": 34,
+    "oppositeId": "old"
   }
 }
