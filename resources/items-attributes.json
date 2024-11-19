@@ -57,7 +57,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-3",
-    "priority": 19
+    "priority": 18
   },
   "clo": {
     "id": "clo",
@@ -87,7 +87,7 @@
     "default": true,
     "level": 1,
     "spriteId": "sign-6",
-    "priority": 22
+    "priority": 21
   },
   "def": {
     "id": "def",
@@ -117,7 +117,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-8",
-    "priority": 25
+    "priority": 24
   },
   "fla": {
     "id": "fla",
@@ -132,7 +132,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-9",
-    "priority": 31
+    "priority": 37
   },
   "fli": {
     "id": "fli",
@@ -177,7 +177,7 @@
     "default": true,
     "level": 3,
     "spriteId": "sign-13",
-    "priority": 35
+    "priority": 42
   },
   "hum": {
     "id": "hum",
@@ -207,7 +207,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-16",
-    "priority": 15
+    "priority": 14
   },
   "liq": {
     "id": "liq",
@@ -252,8 +252,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-19",
-    "priority": 18,
-    "oppositeId": "nat"
+    "priority": 17
   },
   "met": {
     "id": "met",
@@ -328,7 +327,7 @@
     "default": true,
     "level": 2,
     "spriteId": "sign-26",
-    "priority": 16
+    "priority": 15
   },
   "rou": {
     "id": "rou",
@@ -343,7 +342,7 @@
     "default": true,
     "level": 1,
     "spriteId": "sign-27",
-    "priority": 20
+    "priority": 19
   },
   "sha": {
     "id": "sha",
@@ -373,7 +372,7 @@
     "default": false,
     "level": 3,
     "spriteId": "sign-29",
-    "priority": 32,
+    "priority": 39,
     "oppositeId": "har"
   },
   "har": {
@@ -389,7 +388,7 @@
     "default": true,
     "level": 4,
     "spriteId": "sign-30",
-    "priority": 100,
+    "priority": 39,
     "oppositeId": "sof"
   },
   "sou": {
@@ -481,7 +480,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-14",
-    "priority": 41,
+    "priority": 40,
     "limited": true
   },
   "per": {
@@ -513,7 +512,7 @@
     "default": false,
     "level": 4,
     "spriteId": "sign-21",
-    "priority": 37,
+    "priority": 36,
     "limited": true
   },
   "fra": {
@@ -550,11 +549,11 @@
   "bui": {
     "id": "bui",
     "name": {
-      "en": "Building",
+      "en": "Construction",
       "pt": "Construção"
     },
     "description": {
-      "en": "construction, structure, architecture, housing",
+      "en": "building, structure, architecture, housing",
       "pt": "prédios, estrutura, arquitetura, habitação"
     },
     "default": false,
@@ -605,7 +604,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-5",
-    "priority": 42
+    "priority": 41
   },
   "wri": {
     "id": "wri",
@@ -620,7 +619,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-38",
-    "priority": 36
+    "priority": 35
   },
   "but": {
     "id": "but",
@@ -668,7 +667,7 @@
     "level": 3,
     "spriteId": "sign-43",
     "priority": 25,
-    "oppositeId": "mac"
+    "oppositeId": "pls"
   },
   "pls": {
     "id": "pls",
@@ -683,7 +682,8 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-44",
-    "priority": 35
+    "priority": 25,
+    "oppositeId": "nat"
   },
   "acc": {
     "id": "acc",
@@ -728,7 +728,7 @@
     "default": false,
     "level": 2,
     "spriteId": "sign-47",
-    "priority": 36,
+    "priority": 38,
     "oppositeId": "big"
   },
   "new": {
