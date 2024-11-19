@@ -31966,16 +31966,15 @@
   },
   "2680": {
     "name": {
-      "en": "resistance band",
-      "pt": "elástico de resistência"
+      "en": "pitcher",
+      "pt": "jarra"
     },
     "id": "2680",
-    "aliasesPt": [
-      "faixa de resistência"
-    ],
+    "aliasesPt": [],
     "decks": [
       "alien",
-      "manufactured"
+      "manufactured",
+      "thing"
     ],
     "groups": []
   },
@@ -31987,6 +31986,107 @@
     "id": "2681",
     "decks": [
       "alien",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2682": {
+    "id": "2682",
+    "name": {
+      "en": "fish food",
+      "pt": "ração para peixes"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2683": {
+    "id": "2683",
+    "name": {
+      "en": "dog treats",
+      "pt": "petiscos para cachorro"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2684": {
+    "id": "2684",
+    "name": {
+      "en": "chocolate egg",
+      "pt": "ovo de Páscoa"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2685": {
+    "id": "2685",
+    "name": {
+      "en": "nightstand",
+      "pt": "criado-mudo"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2686": {
+    "id": "2686",
+    "name": {
+      "en": "cleaver",
+      "pt": "cutelo"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2687": {
+    "id": "2687",
+    "name": {
+      "en": "cone of shame",
+      "pt": "cone da vergonha"
+    },
+    "aliasesEn": [
+      "Elizabethan collar"
+    ],
+    "aliasesPt": [
+      "Colar elizabetano"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2688": {
+    "id": "2688",
+    "name": {
+      "en": "veterinary",
+      "pt": "veterinária"
+    },
+    "aliasesEn": [
+      "vet"
+    ],
+    "decks": [
+      "alien",
+      "dream",
       "thing"
     ],
     "groups": []
