@@ -5,108 +5,11 @@
       "en": "Abominable Snowman",
       "pt": "Abominável Homem das Neves"
     },
+    "decks": ["base"],
     "description": {
       "en": "A large, hairy, ape-like creature said to inhabit the Himalayas.",
       "pt": "Uma criatura grande, peluda e semelhante a um macaco que se diz habitar o Himalaia."
-    },
-    "deck": "base"
-  },
-  "cnt-2": {
-    "id": "cnt-2",
-    "name": {
-      "en": "Abraham Lincoln",
-      "pt": "Abraham Lincoln"
-    },
-    "description": {
-      "en": "The 16th President of the United States, who led the country through the Civil War and abolished",
-      "pt": "O 16º presidente dos Estados Unidos, que liderou o país durante a Guerra Civil e aboliu a escravidão."
-    },
-    "exclusivity": "en",
-    "deck": "base"
-  },
-  "cnt-3": {
-    "id": "cnt-3",
-    "name": {
-      "en": "Al Capone",
-      "pt": "Al Capone"
-    },
-    "description": {
-      "en": "An American gangster who attained fame during the Prohibition era as the co-founder and boss of the Chicago Outfit.",
-      "pt": "Um gângster americano que alcançou fama durante a era da Proibição como co-fundador e chefe do Chicago Outfit."
-    },
-    "deck": "base"
-  },
-  "cnt-4": {
-    "id": "cnt-4",
-    "name": {
-      "en": "Albert Einstein",
-      "pt": "Albert Einstein"
-    },
-    "description": {
-      "en": "A German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.",
-      "pt": "Um físico teórico nascido na Alemanha que desenvolveu a teoria da relatividade, um dos dois pilares da física moderna."
-    },
-    "deck": "base"
-  },
-  "cnt-5": {
-    "id": "cnt-5",
-    "name": {
-      "en": "Alfred Nobel",
-      "pt": "Alfred Nobel"
-    },
-    "description": {
-      "en": "A Swedish chemist, engineer, and industrialist who invented dynamite and founded the Nobel Prizes.",
-      "pt": "Um químico, engenheiro e industrial sueco que inventou a dinamite e fundou os Prêmios Nobel."
-    },
-    "deck": "base"
-  },
-  "cnt-6": {
-    "id": "cnt-6",
-    "name": {
-      "en": "Aphrodite",
-      "pt": "Afrodite"
-    },
-    "description": {
-      "en": "The Greek goddess of love, beauty, pleasure, and procreation.",
-      "pt": "A deusa grega do amor, beleza, prazer e procriação."
-    },
-    "deck": "base"
-  },
-  "cnt-7": {
-    "id": "cnt-7",
-    "name": {
-      "en": "Aquaman",
-      "pt": "Aquaman"
-    },
-    "description": {
-      "en": "A superhero appearing in American comic books published by DC Comics.",
-      "pt": "Um super-herói que aparece em quadrinhos americanos publicados pela DC Comics."
-    },
-    "deck": "base"
-  },
-  "cnt-8": {
-    "id": "cnt-8",
-    "name": {
-      "en": "Arnold Schwarzenegger",
-      "pt": "Arnold Schwarzenegger"
-    },
-    "description": {
-      "en": "An Austrian-American actor, producer, businessman, retired bodybuilder, and former politician who served as the 38th Governor of California.",
-      "pt": "Um ator, produtor, empresário, fisiculturista aposentado e ex-político austríaco-americano que serviu como o 38º Governador da Califórnia."
-    },
-    "deck": "base"
-  },
-  "cnt-9": {
-    "id": "cnt-9",
-    "name": {
-      "en": "Austin Powers",
-      "pt": "Austin Powers"
-    },
-    "description": {
-      "en": "A British secret agent and the main protagonist of the Austin Powers film series.",
-      "pt": "Um agente secreto britânico e o protagonista principal da série de filmes Austin Powers."
-    },
-    "deck": "movies"
+    }
   },
   "cnt-10": {
     "id": "cnt-10",
@@ -114,1022 +17,11 @@
       "en": "Babe",
       "pt": "Babe, o porquinho"
     },
+    "decks": ["movies"],
     "description": {
       "en": "The protagonist of the 1995 Australian-American comedy-drama film directed by Chris Noonan.",
       "pt": "O protagonista do filme de comédia dramática australiano-americano de 1995 dirigido por Chris Noonan."
-    },
-    "deck": "movies"
-  },
-  "cnt-11": {
-    "id": "cnt-11",
-    "name": {
-      "en": "Bart Simpson",
-      "pt": "Bart Simpson"
-    },
-    "description": {
-      "en": "A fictional character in the American animated television series The Simpsons and part of the Simpson family.",
-      "pt": "Um personagem fictício da série de televisão animada americana The Simpsons e parte da família Simpson."
-    },
-    "deck": "base"
-  },
-  "cnt-12": {
-    "id": "cnt-12",
-    "name": {
-      "en": "Batman",
-      "pt": "Batman"
-    },
-    "description": {
-      "en": "A fictional superhero appearing in American comic books published by DC Comics.",
-      "pt": "Um super-herói fictício que aparece em quadrinhos americanos publicados pela DC Comics."
     }
-  },
-  "cnt-13": {
-    "id": "cnt-13",
-    "name": {
-      "en": "Beethoven",
-      "pt": "Beethoven"
-    },
-    "description": {
-      "en": "A German composer and pianist whose music ranks amongst the most performed of the classical music repertoire.",
-      "pt": "Um compositor e pianista alemão cuja música está entre as mais executadas do repertório da música clássica."
-    }
-  },
-  "cnt-14": {
-    "id": "cnt-14",
-    "name": {
-      "en": "Ben Franklin",
-      "pt": "Ben Franklin"
-    },
-    "description": {
-      "en": "One of the Founding Fathers of the United States, a renowned polymath, author, printer, political theorist, politician, freemason, postmaster, scientist, inventor, civic activist, statesman, and diplomat.",
-      "pt": "Um dos Pais Fundadores dos Estados Unidos, um polímata renomado, autor, impressor, teórico político, político, maçom, carteiro, cientista, inventor, ativista cívico, estadista e diplomata."
-    }
-  },
-  "cnt-15": {
-    "id": "cnt-15",
-    "name": {
-      "en": "Betty Crocker",
-      "pt": "Betty Crocker"
-    },
-    "description": {
-      "en": "A brand name and trademark of American Fortune 500 corporation General Mills.",
-      "pt": "Uma marca e marca registrada da corporação americana Fortune 500 General Mills."
-    },
-    "exclusivity": "en"
-  },
-  "cnt-16": {
-    "id": "cnt-16",
-    "name": {
-      "en": "Big Bad Wolf",
-      "pt": "Lobo Mau"
-    },
-    "description": {
-      "en": "A fictional wolf appearing in several cautionary tales that include some of Aesop's Fables and Grimms' Fairy Tales.",
-      "pt": "Um lobo fictício que aparece em várias fábulas que incluem algumas das Fábulas de Esopo e Contos de Fadas dos Irmãos Grimm."
-    }
-  },
-  "cnt-17": {
-    "id": "cnt-17",
-    "name": {
-      "en": "Bigfoot",
-      "pt": "Pé Grande"
-    },
-    "description": {
-      "en": "A large, hairy, ape-like creature said to inhabit the forests of North America.",
-      "pt": "Uma criatura grande, peluda e semelhante a um macaco que se diz habitar as florestas da América do Norte."
-    }
-  },
-  "cnt-18": {
-    "id": "cnt-18",
-    "name": {
-      "en": "Bill Gates",
-      "pt": "Bill Gates"
-    },
-    "description": {
-      "en": "An American business magnate, software developer, and philanthropist who co-founded Microsoft Corporation.",
-      "pt": "Um magnata dos negócios americano, desenvolvedor de software e filantropo que co-fundou a Microsoft Corporation."
-    }
-  },
-  "cnt-19": {
-    "id": "cnt-19",
-    "name": {
-      "en": "Buddha",
-      "pt": "Buda"
-    },
-    "description": {
-      "en": "A philosopher, mendicant, meditator, spiritual teacher, and religious leader who lived in ancient India.",
-      "pt": "Um filósofo, mendicante, meditador, mestre espiritual e líder religioso que viveu na Índia antiga."
-    }
-  },
-  "cnt-20": {
-    "id": "cnt-20",
-    "name": {
-      "en": "Buffy the Vampire Slayer",
-      "pt": "Buffy a caça vampiros"
-    },
-    "description": {
-      "en": "A fictional character and the protagonist of the Buffy the Vampire Slayer franchise.",
-      "pt": "Um personagem fictício e o protagonista da franquia Buffy, a caça-vampiros."
-    }
-  },
-  "cnt-21": {
-    "id": "cnt-21",
-    "name": {
-      "en": "Bugs Bunny",
-      "pt": "Perna Longa"
-    },
-    "description": {
-      "en": "A fictional animated character and the mascot of Warner Bros.",
-      "pt": "Um personagem animado fictício e o mascote da Warner Bros."
-    }
-  },
-  "cnt-22": {
-    "id": "cnt-22",
-    "name": {
-      "en": "Buzz Lightyear",
-      "pt": "Buzz Lightyear"
-    },
-    "description": {
-      "en": "A fictional character in the Toy Story franchise.",
-      "pt": "Um personagem fictício na franquia Toy Story."
-    }
-  },
-  "cnt-23": {
-    "id": "cnt-23",
-    "name": {
-      "en": "Cancer",
-      "pt": "Cancer"
-    },
-    "description": {
-      "en": "A group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.",
-      "pt": "Um grupo de doenças que envolvem crescimento anormal de células com o potencial de invadir ou se espalhar para outras partes do corpo."
-    }
-  },
-  "cnt-24": {
-    "id": "cnt-24",
-    "name": {
-      "en": "Captain Crunch",
-      "pt": "Captain Crunch"
-    },
-    "description": {
-      "en": "A product line of corn and oat breakfast cereals introduced in 1963 and manufactured by Quaker Oats Company.",
-      "pt": "Uma linha de produtos de cereais matinais de milho e aveia introduzida em 1963 e fabricada pela Quaker Oats Company."
-    },
-    "exclusivity": "en"
-  },
-  "cnt-25": {
-    "id": "cnt-25",
-    "name": {
-      "en": "Captain Jack Sparrow",
-      "pt": "Capitão Jack Sparrow"
-    },
-    "description": {
-      "en": "A fictional character and the main protagonist of the Pirates of the Caribbean film series.",
-      "pt": "Um personagem fictício e o protagonista principal da série de filmes Piratas do Caribe."
-    }
-  },
-  "cnt-26": {
-    "id": "cnt-26",
-    "name": {
-      "en": "Captain Kirk",
-      "pt": "Capitão Kirk"
-    },
-    "description": {
-      "en": "A fictional character in the Star Trek media franchise.",
-      "pt": "Um personagem fictício na franquia de mídia Star Trek."
-    }
-  },
-  "cnt-27": {
-    "id": "cnt-27",
-    "name": {
-      "en": "Catwoman",
-      "pt": "Mulher Gato"
-    },
-    "description": {
-      "en": "A fictional character and one of Batman's most enduring enemies.",
-      "pt": "Um personagem fictício e um dos inimigos mais duradouros do Batman."
-    }
-  },
-  "cnt-28": {
-    "id": "cnt-28",
-    "name": {
-      "en": "Chuck Norris",
-      "pt": "Chuck Norris"
-    },
-    "description": {
-      "en": "An American martial artist, actor, film producer, and screenwriter.",
-      "pt": "Um artista marcial, ator, produtor de cinema e roteirista americano."
-    }
-  },
-  "cnt-29": {
-    "id": "cnt-29",
-    "name": {
-      "en": "Clifford the Big Red Dog",
-      "pt": "Clifford the Big Red Dog"
-    },
-    "description": {
-      "en": "A children's book series about a giant red dog named Clifford.",
-      "pt": "Uma série de livros infantis sobre um cachorro vermelho gigante chamado Clifford."
-    },
-    "exclusivity": "en"
-  },
-  "cnt-30": {
-    "id": "cnt-30",
-    "name": {
-      "en": "Cockroach",
-      "pt": "Uma barata"
-    },
-    "description": {
-      "en": "An insect of the order Blattodea, which also includes termites.",
-      "pt": "Um inseto da ordem Blattodea, que também inclui térmitas."
-    }
-  },
-  "cnt-31": {
-    "id": "cnt-31",
-    "name": {
-      "en": "Colonel Sanders",
-      "pt": "Coronel Sanders"
-    },
-    "description": {
-      "en": "An American businessman, best known for founding fast food chicken restaurant chain Kentucky Fried Chicken.",
-      "pt": "Um empresário americano, mais conhecido por fundar a cadeia de restaurantes de frango fast food Kentucky Fried Chicken."
-    }
-  },
-  "cnt-32": {
-    "id": "cnt-32",
-    "name": {
-      "en": "Confucius",
-      "pt": "Confúcio"
-    },
-    "description": {
-      "en": "A Chinese philosopher and politician of the Spring and Autumn period.",
-      "pt": "Um filósofo e político chinês do período da Primavera e Outono."
-    }
-  },
-  "cnt-33": {
-    "id": "cnt-33",
-    "name": {
-      "en": "Cookie Monster",
-      "pt": "Cookie Monster"
-    },
-    "description": {
-      "en": "A Muppet character on the children's television show Sesame Street.",
-      "pt": "Um personagem Muppet no programa de televisão infantil Sesame Street."
-    },
-    "exclusivity": "en"
-  },
-  "cnt-34": {
-    "id": "cnt-34",
-    "name": {
-      "en": "Cruella De Vil",
-      "pt": "Cruella De Vil"
-    },
-    "description": {
-      "en": "A fictional character and the main antagonist of Dodie Smith's 1956 novel The Hundred and One Dalmatians.",
-      "pt": "Um personagem fictício e o principal antagonista do romance de 1956 de Dodie Smith, The Hundred and One Dalmatians."
-    }
-  },
-  "cnt-35": {
-    "id": "cnt-35",
-    "name": {
-      "en": "Cupid",
-      "pt": "Cupido"
-    },
-    "description": {
-      "en": "The god of desire, erotic love, attraction, and affection in classical mythology.",
-      "pt": "O deus do desejo, amor erótico, atração e afeto na mitologia clássica."
-    }
-  },
-  "cnt-36": {
-    "id": "cnt-36",
-    "name": {
-      "en": "Curious George",
-      "pt": "George o Curioso"
-    },
-    "description": {
-      "en": "A monkey character in a series of children's books by Margret and H.A. Rey.",
-      "pt": "Um personagem de macaco em uma série de livros infantis de Margret e H.A. Rey."
-    }
-  },
-  "cnt-37": {
-    "id": "cnt-37",
-    "name": {
-      "en": "Darth Vader",
-      "pt": "Darth Vader"
-    },
-    "description": {
-      "en": "A fictional character in the Star Wars franchise.",
-      "pt": "Um personagem fictício na franquia Star Wars."
-    }
-  },
-  "cnt-38": {
-    "id": "cnt-38",
-    "name": {
-      "en": "Darwin",
-      "pt": "Darwin"
-    },
-    "description": {
-      "en": "An English naturalist, geologist, and biologist, best known for his contributions to the science of evolution.",
-      "pt": "Um naturalista, geólogo e biólogo inglês, mais conhecido por suas contribuições para a ciência da evolução."
-    }
-  },
-  "cnt-39": {
-    "id": "cnt-39",
-    "name": {
-      "en": "Donald Trump",
-      "pt": "Donald Trump"
-    },
-    "description": {
-      "en": "The 45th President of the United States, a businessman, television personality, and politician.",
-      "pt": "O 45º presidente dos Estados Unidos, um empresário, personalidade da televisão e político."
-    }
-  },
-  "cnt-40": {
-    "id": "cnt-40",
-    "name": {
-      "en": "Dopey",
-      "pt": "Dunga"
-    },
-    "description": {
-      "en": "One of the seven dwarfs in Disney's 1937 animated film Snow White and the Seven Dwarfs.",
-      "pt": "Um dos sete anões no filme de animação de 1937 da Disney, Branca de Neve e os Sete Anões."
-    }
-  },
-  "cnt-41": {
-    "id": "cnt-41",
-    "name": {
-      "en": "Dora the Explorer",
-      "pt": "Dora a exploradora"
-    },
-    "description": {
-      "en": "A fictional character and the main protagonist of the animated television series Dora the Explorer.",
-      "pt": "Um personagem fictício e o protagonista principal da série de televisão animada Dora a Exploradora."
-    }
-  },
-  "cnt-42": {
-    "id": "cnt-42",
-    "name": {
-      "en": "Dorothy",
-      "pt": "Dorothy"
-    },
-    "description": {
-      "en": "The protagonist of L. Frank Baum's children's book The Wonderful Wizard of Oz.",
-      "pt": "A protagonista do livro infantil de L. Frank Baum, O Mágico de Oz."
-    }
-  },
-  "cnt-43": {
-    "id": "cnt-43",
-    "name": {
-      "en": "Dr. Evil",
-      "pt": "Dr. Evil"
-    },
-    "description": {
-      "en": "A fictional character, the main antagonist of the Austin Powers film series.",
-      "pt": "Um personagem fictício, o principal antagonista da série de filmes Austin Powers."
-    }
-  },
-  "cnt-44": {
-    "id": "cnt-44",
-    "name": {
-      "en": "Dracula",
-      "pt": "Drácula"
-    },
-    "description": {
-      "en": "A fictional character and the main antagonist of Bram Stoker's 1897 Gothic horror novel Dracula.",
-      "pt": "Um personagem fictício e o principal antagonista do romance de horror gótico de 1897 de Bram Stoker, Drácula."
-    }
-  },
-  "cnt-45": {
-    "id": "cnt-45",
-    "name": {
-      "en": "E. Coli",
-      "pt": "E. Coli"
-    },
-    "description": {
-      "en": "A type of bacteria that lives in your intestines and in the intestines of animals.",
-      "pt": "Um tipo de bactéria que vive em seus intestinos e nos intestinos dos animais."
-    }
-  },
-  "cnt-46": {
-    "id": "cnt-46",
-    "name": {
-      "en": "Easter Bunny",
-      "pt": "Coelhinho da Páscoa"
-    },
-    "description": {
-      "en": "A folkloric figure and symbol of Easter, depicted as a rabbit bringing Easter eggs.",
-      "pt": "Uma figura folclórica e símbolo da Páscoa, representada como um coelho trazendo ovos de Páscoa."
-    }
-  },
-  "cnt-47": {
-    "id": "cnt-47",
-    "name": {
-      "en": "Elvis",
-      "pt": "Elvis"
-    },
-    "description": {
-      "en": "An American singer and actor, often referred to as the 'King of Rock and Roll'.",
-      "pt": "Um cantor e ator americano, frequentemente referido como o 'Rei do Rock and Roll'."
-    }
-  },
-  "cnt-48": {
-    "id": "cnt-48",
-    "name": {
-      "en": "Eve",
-      "pt": "Eva"
-    },
-    "description": {
-      "en": "The first woman according to the creation story of the Abrahamic religions.",
-      "pt": "A primeira mulher de acordo com a história da criação das religiões abraâmicas."
-    }
-  },
-  "cnt-49": {
-    "id": "cnt-49",
-    "name": {
-      "en": "Ferris Bueller",
-      "pt": "Ferris Bueller"
-    },
-    "description": {
-      "en": "A fictional character and the protagonist of the 1986 film Ferris Bueller's Day Off.",
-      "pt": "Um personagem fictício e o protagonista do filme de 1986 Curtindo a Vida Adoidado."
-    },
-    "exclusivity": "en"
-  },
-  "cnt-50": {
-    "id": "cnt-50",
-    "name": {
-      "en": "Frank Sinatra",
-      "pt": "Frank Sinatra"
-    },
-    "description": {
-      "en": "An American singer, actor, and producer who was one of the most popular and influential musical artists of the 20th century.",
-      "pt": "Um cantor, ator e produtor americano que foi um dos artistas musicais mais populares e influentes do século XX."
-    }
-  },
-  "cnt-51": {
-    "id": "cnt-51",
-    "name": {
-      "en": "Freddy Krueger",
-      "pt": "Freddy Krueger"
-    },
-    "description": {
-      "en": "A fictional character and the main antagonist of the A Nightmare on Elm Street film series.",
-      "pt": "Um personagem fictício e o principal antagonista da série de filmes A Nightmare on Elm Street."
-    }
-  },
-  "cnt-52": {
-    "id": "cnt-52",
-    "name": {
-      "en": "Gandalf",
-      "pt": "Gandalf"
-    },
-    "description": {
-      "en": "A fictional character and one of the main protagonists in J.R.R. Tolkien's novels The Hobbit and The Lord of the Rings.",
-      "pt": "Um personagem fictício e um dos principais protagonistas nos romances de J.R.R. Tolkien, O Hobbit e O Senhor dos Anéis."
-    }
-  },
-  "cnt-53": {
-    "id": "cnt-53",
-    "name": {
-      "en": "Gandhi",
-      "pt": "Gandhi"
-    },
-    "description": {
-      "en": "An Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule.",
-      "pt": "Um advogado indiano, nacionalista anti-colonial e ético político que empregou resistência não violenta para liderar a campanha bem-sucedida pela independência da Índia do domínio britânico."
-    }
-  },
-  "cnt-54": {
-    "id": "cnt-54",
-    "name": {
-      "en": "Genghis Khan",
-      "pt": "Genghis Khan"
-    },
-    "description": {
-      "en": "The founder and first Great Khan of the Mongol Empire.",
-      "pt": "O fundador e primeiro Grande Khan do Império Mongol."
-    }
-  },
-  "cnt-55": {
-    "id": "cnt-55",
-    "name": {
-      "en": "George Lucas",
-      "pt": "George Lucas"
-    },
-    "description": {
-      "en": "An American filmmaker and entrepreneur known for creating the Star Wars and Indiana Jones franchises.",
-      "pt": "Um cineasta e empresário americano conhecido por criar as franquias Star Wars e Indiana Jones."
-    }
-  },
-  "cnt-56": {
-    "id": "cnt-56",
-    "name": {
-      "en": "George Washington",
-      "pt": "George Washington"
-    },
-    "description": {
-      "en": "The first President of the United States, a Founding Father, and the Commander-in-Chief of the Continental Army during the American Revolutionary War.",
-      "pt": "O primeiro presidente dos Estados Unidos, um dos Pais Fundadores e o Comandante-em-Chefe do Exército Continental durante a Guerra Revolucionária Americana."
-    }
-  },
-  "cnt-57": {
-    "id": "cnt-57",
-    "name": {
-      "en": "Glinda the Good Witch",
-      "pt": "Glinda, a Bruxa Boa"
-    },
-    "description": {
-      "en": "A fictional character in the Land of Oz created by American author L. Frank Baum.",
-      "pt": "Um personagem fictício na Terra de Oz criado pelo autor americano L. Frank Baum."
-    }
-  },
-  "cnt-58": {
-    "id": "cnt-58",
-    "name": {
-      "en": "Godzilla",
-      "pt": "Godzilla"
-    },
-    "description": {
-      "en": "A fictional monster, or kaiju, originating from a series of Japanese films.",
-      "pt": "Um monstro fictício, ou kaiju, originário de uma série de filmes japoneses."
-    }
-  },
-  "cnt-59": {
-    "id": "cnt-59",
-    "name": {
-      "en": "Good Luck Care Bear",
-      "pt": "Ursinho Carinhoso"
-    },
-    "description": {
-      "en": "A fictional character in the Care Bears franchise.",
-      "pt": "Um personagem fictício na franquia Ursinhos Carinhosos."
-    }
-  },
-  "cnt-60": {
-    "id": "cnt-60",
-    "name": {
-      "en": "Grim Reaper",
-      "pt": "Ceifador"
-    },
-    "description": {
-      "en": "A personification of death in the form of a cloaked skeleton wielding a large scythe.",
-      "pt": "Uma personificação da morte na forma de um esqueleto encapuzado empunhando uma grande foice."
-    }
-  },
-  "cnt-61": {
-    "id": "cnt-61",
-    "name": {
-      "en": "Han Solo",
-      "pt": "Han Solo"
-    },
-    "description": {
-      "en": "A fictional character in the Star Wars franchise.",
-      "pt": "Um personagem fictício na franquia Star Wars."
-    }
-  },
-  "cnt-62": {
-    "id": "cnt-62",
-    "name": {
-      "en": "Hannibal Lecter",
-      "pt": "Hannibal Lecter"
-    },
-    "description": {
-      "en": "A fictional character and the main antagonist of Thomas Harris' novels Red Dragon, The Silence of the Lambs, and Hannibal.",
-      "pt": "Um personagem fictício e o principal antagonista dos romances de Thomas Harris, Dragão Vermelho, O Silêncio dos Inocentes e Hannibal."
-    }
-  },
-  "cnt-63": {
-    "id": "cnt-63",
-    "name": {
-      "en": "Hello Kitty",
-      "pt": "Hello Kitty"
-    },
-    "description": {
-      "en": "A fictional character produced by the Japanese company Sanrio.",
-      "pt": "Um personagem fictício produzido pela empresa japonesa Sanrio."
-    }
-  },
-  "cnt-64": {
-    "id": "cnt-64",
-    "name": {
-      "en": "Hercules",
-      "pt": "Hércules"
-    },
-    "description": {
-      "en": "A Roman hero and god, the son of Jupiter and Alcmene, and the greatest of the Greek heroes.",
-      "pt": "Um herói e deus romano, filho de Júpiter e Alcmena, e o maior dos heróis gregos."
-    }
-  },
-  "cnt-65": {
-    "id": "cnt-65",
-    "name": {
-      "en": "Hitler",
-      "pt": "Hitler"
-    },
-    "description": {
-      "en": "A German politician and leader of the Nazi Party who rose to power as Chancellor of Germany in 1933 and later Führer in 1934.",
-      "pt": "Um político alemão e líder do Partido Nazista que chegou ao poder como Chanceler da Alemanha em 1933 e mais tarde Führer em 1934."
-    }
-  },
-  "cnt-66": {
-    "id": "cnt-66",
-    "name": {
-      "en": "Honey Badger",
-      "pt": "Texugo"
-    },
-    "description": {
-      "en": "A mammal native to Africa, Southwest Asia, and the Indian subcontinent.",
-      "pt": "Um mamífero nativo da África, Sudoeste Asiático e subcontinente indiano."
-    },
-    "exclusivity": "en"
-  },
-  "cnt-67": {
-    "id": "cnt-67",
-    "name": {
-      "en": "Houdini",
-      "pt": "Houdini"
-    },
-    "description": {
-      "en": "A Hungarian-born American illusionist and stunt performer, noted for his sensational escape acts.",
-      "pt": "Um ilusionista e artista de acrobacias americano nascido na Hungria, conhecido por seus atos de fuga sensacionais."
-    }
-  },
-  "cnt-68": {
-    "id": "cnt-68",
-    "name": {
-      "en": "Indiana Jones",
-      "pt": "Indiana Jones"
-    },
-    "description": {
-      "en": "A fictional character and the protagonist of the Indiana Jones franchise.",
-      "pt": "Um personagem fictício e o protagonista da franquia Indiana Jones."
-    }
-  },
-  "cnt-69": {
-    "id": "cnt-69",
-    "name": {
-      "en": "Jack the Ripper",
-      "pt": "Jack, o estripador"
-    },
-    "description": {
-      "en": "The unidentified serial killer who terrorized London in 1888.",
-      "pt": "O assassino em série não identificado que aterrorizou Londres em 1888."
-    }
-  },
-  "cnt-70": {
-    "id": "cnt-70",
-    "name": {
-      "en": "Jackie Chan",
-      "pt": "Jackie Chan"
-    },
-    "description": {
-      "en": "A Hong Kong martial artist, actor, film director, producer, stuntman, and singer.",
-      "pt": "Um artista marcial, ator, diretor de cinema, produtor, dublê e cantor de Hong Kong."
-    },
-    "deck": "entertainment"
-  },
-  "cnt-71": {
-    "id": "cnt-71",
-    "name": {
-      "en": "James Bond",
-      "pt": "James Bond"
-    },
-    "description": {
-      "en": "A fictional character created by British journalist and novelist Ian Fleming.",
-      "pt": "Um personagem fictício criado pelo jornalista e romancista britânico Ian Fleming."
-    },
-    "deck": "movies"
-  },
-  "cnt-72": {
-    "id": "cnt-72",
-    "name": {
-      "en": "Jaws",
-      "pt": "Tubarão"
-    },
-    "description": {
-      "en": "A 1975 American thriller film directed by Steven Spielberg.",
-      "pt": "Um filme de suspense americano de 1975 dirigido por Steven Spielberg."
-    },
-    "deck": "movies"
-  },
-  "cnt-73": {
-    "id": "cnt-73",
-    "name": {
-      "en": "Joan of Arc",
-      "pt": "Joana D'Arc"
-    },
-    "description": {
-      "en": "A French heroine and Roman Catholic saint who led the French army to several victories during the Hundred Years' War.",
-      "pt": "Uma heroína francesa e santa católica romana que liderou o exército francês para várias vitórias durante a Guerra dos Cem Anos."
-    },
-    "deck": "history"
-  },
-  "cnt-74": {
-    "id": "cnt-74",
-    "name": {
-      "en": "Judas",
-      "pt": "Judas"
-    },
-    "description": {
-      "en": "A disciple of Jesus who betrayed him according to the New Testament.",
-      "pt": "Um discípulo de Jesus que o traiu de acordo com o Novo Testamento."
-    },
-    "deck": "religion"
-  },
-  "cnt-75": {
-    "id": "cnt-75",
-    "name": {
-      "en": "Julius Caesar",
-      "pt": "Julius Caesar"
-    },
-    "description": {
-      "en": "A Roman general, statesman, and historian who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.",
-      "pt": "Um general romano, estadista e historiador que desempenhou um papel crítico nos eventos que levaram à queda da República Romana e ao surgimento do Império Romano."
-    },
-    "deck": "history"
-  },
-  "cnt-76": {
-    "id": "cnt-76",
-    "name": {
-      "en": "Kenny",
-      "pt": "Kenny"
-    },
-    "description": {
-      "en": "A fictional character in the animated television series South Park.",
-      "pt": "Um personagem fictício na série de televisão animada South Park."
-    },
-    "deck": "animation"
-  },
-  "cnt-77": {
-    "id": "cnt-77",
-    "name": {
-      "en": "Kermit the Frog",
-      "pt": "Caco, o sapo"
-    },
-    "description": {
-      "en": "A Muppet character and Jim Henson's most well-known creation.",
-      "pt": "Um personagem Muppet e a criação mais conhecida de Jim Henson."
-    },
-    "deck": "television"
-  },
-  "cnt-78": {
-    "id": "cnt-78",
-    "name": {
-      "en": "King Arthur",
-      "pt": "Rei Arthur"
-    },
-    "description": {
-      "en": "A legendary British leader who, according to medieval histories and romances, led the defense of Britain against Saxon invaders in the late 5th and early 6th centuries.",
-      "pt": "Um líder britânico lendário que, de acordo com histórias e romances medievais, liderou a defesa da Grã-Bretanha contra invasores saxões nos finais do século V e início do século VI."
-    },
-    "deck": "history"
-  },
-  "cnt-79": {
-    "id": "cnt-79",
-    "name": {
-      "en": "King Kong",
-      "pt": "King Kong"
-    },
-    "description": {
-      "en": "A fictional giant movie monster resembling a colossal gorilla.",
-      "pt": "Um monstro de filme gigante fictício que se assemelha a um gorila colossal."
-    },
-    "deck": "movies"
-  },
-  "cnt-80": {
-    "id": "cnt-80",
-    "name": {
-      "en": "Lara Croft",
-      "pt": "Lara Croft"
-    },
-    "description": {
-      "en": "A fictional character and the protagonist of the Tomb Raider video game series.",
-      "pt": "Um personagem fictício e o protagonista da série de jogos de vídeo Tomb Raider."
-    },
-    "deck": "games"
-  },
-  "cnt-81": {
-    "id": "cnt-81",
-    "name": {
-      "en": "Lassie",
-      "pt": "Lassie"
-    },
-    "description": {
-      "en": "A fictional character and the protagonist of a novel, a radio show, and several television shows.",
-      "pt": "Um personagem fictício e o protagonista de um romance, um programa de rádio e vários programas de televisão."
-    },
-    "deck": "television"
-  },
-  "cnt-82": {
-    "id": "cnt-82",
-    "name": {
-      "en": "Leonardo Da Vinci",
-      "pt": "Leonardo Da Vinci"
-    },
-    "description": {
-      "en": "An Italian polymath of the Renaissance whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography.",
-      "pt": "Um polímata italiano do Renascimento cujas áreas de interesse incluíam invenção, pintura, escultura, arquitetura, ciência, música, matemática, engenharia, literatura, anatomia, geologia, astronomia, botânica, escrita, história e cartografia."
-    },
-    "deck": "history"
-  },
-  "cnt-83": {
-    "id": "cnt-83",
-    "name": {
-      "en": "Lex Luthor",
-      "pt": "Lex Luthor"
-    },
-    "description": {
-      "en": "A fictional character and the main antagonist of Superman in DC Comics.",
-      "pt": "Um personagem fictício e o principal antagonista do Superman nos quadrinhos da DC."
-    },
-    "deck": "characters"
-  },
-  "cnt-84": {
-    "id": "cnt-84",
-    "name": {
-      "en": "Little Red Riding Hood",
-      "pt": "Chapeuzinho Vermelho"
-    },
-    "description": {
-      "en": "A European fairy tale about a young girl and a Big Bad Wolf.",
-      "pt": "Um conto de fadas europeu sobre uma menina e um Lobo Mau."
-    }
-  },
-  "cnt-85": {
-    "id": "cnt-85",
-    "name": {
-      "en": "Loch Ness Monster",
-      "pt": "Monstro do Lago Ness"
-    },
-    "description": {
-      "en": "A creature said to inhabit Loch Ness in the Scottish Highlands.",
-      "pt": "Uma criatura que se diz habitar o Lago Ness nas Terras Altas Escocesas."
-    }
-  },
-  "cnt-86": {
-    "id": "cnt-86",
-    "name": {
-      "en": "Lois Lane",
-      "pt": "Lois Lane"
-    },
-    "description": {
-      "en": "A fictional character and the love interest of Superman in DC Comics.",
-      "pt": "Um personagem fictício e o interesse amoroso do Superman nos quadrinhos da DC."
-    }
-  },
-  "cnt-87": {
-    "id": "cnt-87",
-    "name": {
-      "en": "Loki",
-      "pt": "Loki"
-    },
-    "description": {
-      "en": "A fictional character appearing in American comic books published by Marvel Comics.",
-      "pt": "Um personagem fictício que aparece em quadrinhos americanos publicados pela Marvel Comics."
-    }
-  },
-  "cnt-88": {
-    "id": "cnt-88",
-    "name": {
-      "en": "Lorax",
-      "pt": "Lorax"
-    },
-    "description": {
-      "en": "A character created by Dr. Seuss who speaks for the trees.",
-      "pt": "Um personagem criado por Dr. Seuss que fala pelos árvores."
-    },
-    "exclusivity": "en"
-  },
-  "cnt-89": {
-    "id": "cnt-89",
-    "name": {
-      "en": "Luke Skywalker",
-      "pt": "Luke Skywalker"
-    },
-    "description": {
-      "en": "A fictional character and the main protagonist of the original film trilogy of the Star Wars franchise.",
-      "pt": "Um personagem fictício e o protagonista principal da trilogia original de filmes da franquia Star Wars."
-    }
-  },
-  "cnt-90": {
-    "id": "cnt-90",
-    "name": {
-      "en": "Madonna",
-      "pt": "Madonna"
-    },
-    "description": {
-      "en": "An American singer, songwriter, and actress.",
-      "pt": "Uma cantora, compositora e atriz americana."
-    },
-    "deck": "music"
-  },
-  "cnt-91": {
-    "id": "cnt-91",
-    "name": {
-      "en": "Marie Antoinette",
-      "pt": "Maria Antonieta"
-    },
-    "description": {
-      "en": "The last Queen of France before the French Revolution.",
-      "pt": "A última rainha da França antes da Revolução Francesa."
-    },
-    "deck": "history"
-  },
-  "cnt-92": {
-    "id": "cnt-92",
-    "name": {
-      "en": "Marilyn Monroe",
-      "pt": "Marilyn Monroe"
-    },
-    "description": {
-      "en": "An American actress, model, and singer.",
-      "pt": "Uma atriz, modelo e cantora americana."
-    },
-    "deck": "movies"
-  },
-  "cnt-93": {
-    "id": "cnt-93",
-    "name": {
-      "en": "Martin Luther King Jr.",
-      "pt": "Martin Luther King Jr."
-    },
-    "description": {
-      "en": "An American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968.",
-      "pt": "Um ministro batista americano e ativista que se tornou o porta-voz e líder mais visível no movimento pelos direitos civis de 1955 até seu assassinato em 1968."
-    },
-    "deck": "history"
-  },
-  "cnt-94": {
-    "id": "cnt-94",
-    "name": {
-      "en": "Medusa",
-      "pt": "Medusa"
-    },
-    "description": {
-      "en": "A monster, a Gorgon, generally described as a wing snake-haired",
-      "pt": "Um monstro, uma Górgona, geralmente descrita como uma serpente alada"
-    }
-  },
-  "cnt-95": {
-    "id": "cnt-95",
-    "name": {
-      "en": "Michael Jackson",
-      "pt": "Michael Jackson"
-    },
-    "description": {
-      "en": "An American singer, songwriter, and dancer.",
-      "pt": "Um cantor, compositor e dançarino americano."
-    },
-    "deck": "music"
-  },
-  "cnt-96": {
-    "id": "cnt-96",
-    "name": {
-      "en": "Moses",
-      "pt": "Moises"
-    },
-    "description": {
-      "en": "A prophet in the Abrahamic religions who led the Israelites out of Egypt.",
-      "pt": "Um profeta nas religiões abraâmicas que liderou os israelitas para fora do Egito."
-    },
-    "deck": "religion"
-  },
-  "cnt-97": {
-    "id": "cnt-97",
-    "name": {
-      "en": "Mother Teresa",
-      "pt": "Madre Teresa"
-    },
-    "description": {
-      "en": "A Roman Catholic nun and missionary who devoted her life to helping the poor and sick in India.",
-      "pt": "Uma freira e missionária católica romana que dedicou sua vida a ajudar os pobres e doentes na Índia."
-    },
-    "deck": "history"
-  },
-  "cnt-98": {
-    "id": "cnt-98",
-    "name": {
-      "en": "Mr. Kool-aid",
-      "pt": "Mr. Kool-aid"
-    },
-    "description": {
-      "en": "A mascot character for the Kool-Aid brand.",
-      "pt": "Um personagem mascote para a marca Kool-Aid."
-    },
-    "exclusivity": "en"
-  },
-  "cnt-99": {
-    "id": "cnt-99",
-    "name": {
-      "en": "Mr. Rogers",
-      "pt": "Mr. Rogers"
-    },
-    "description": {
-      "en": "An American television personality, musician, puppeteer, writer, and producer.",
-      "pt": "Uma personalidade da televisão americana, músico, marionetista, escritor e produtor."
-    },
-    "deck": "television",
-    "exclusivity": "en"
   },
   "cnt-100": {
     "id": "cnt-100",
@@ -1137,11 +29,11 @@
       "en": "Mr. Spock",
       "pt": "Sr. Spock"
     },
+    "decks": ["television"],
     "description": {
       "en": "A fictional character in the Star Trek media franchise.",
       "pt": "Um personagem fictício na franquia de mídia Star Trek."
-    },
-    "deck": "television"
+    }
   },
   "cnt-101": {
     "id": "cnt-101",
@@ -1149,11 +41,11 @@
       "en": "Neil Armstrong",
       "pt": "Neil Armstrong"
     },
+    "decks": ["history"],
     "description": {
       "en": "An American astronaut and the first person to walk on the Moon.",
       "pt": "Um astronauta americano e a primeira pessoa a caminhar na Lua."
-    },
-    "deck": "history"
+    }
   },
   "cnt-102": {
     "id": "cnt-102",
@@ -1161,11 +53,11 @@
       "en": "Norman Bates",
       "pt": "Norman Bates"
     },
+    "decks": ["movies"],
     "description": {
       "en": "A fictional character and the main antagonist of Alfred Hitchcock's 1960 film Psycho.",
       "pt": "Um personagem fictício e o principal antagonista do filme de 1960 de Alfred Hitchcock, Psicose."
-    },
-    "deck": "movies"
+    }
   },
   "cnt-103": {
     "id": "cnt-103",
@@ -1173,11 +65,11 @@
       "en": "OJ Simpson",
       "pt": "OJ Simpson"
     },
+    "decks": ["sports"],
     "description": {
       "en": "A former American football running back, broadcaster, actor, advertising spokesman, and convicted felon.",
       "pt": "Um ex-corredor de futebol americano, locutor, ator, porta-voz publicitário e criminoso condenado."
-    },
-    "deck": "sports"
+    }
   },
   "cnt-104": {
     "id": "cnt-104",
@@ -1185,11 +77,11 @@
       "en": "Ozzy Osbourne",
       "pt": "Ozzy Osbourne"
     },
+    "decks": ["music"],
     "description": {
       "en": "An English singer, songwriter, and television personality.",
       "pt": "Um cantor, compositor e personalidade da televisão inglês."
-    },
-    "deck": "music"
+    }
   },
   "cnt-105": {
     "id": "cnt-105",
@@ -1197,11 +89,11 @@
       "en": "Patrick Star",
       "pt": "Patrick Estrela"
     },
+    "decks": ["animation"],
     "description": {
       "en": "A fictional character in the animated television series SpongeBob SquarePants.",
       "pt": "Um personagem fictício na série de televisão animada Bob Esponja Calça Quadrada."
-    },
-    "deck": "animation"
+    }
   },
   "cnt-106": {
     "id": "cnt-106",
@@ -1209,11 +101,11 @@
       "en": "Peter Pan",
       "pt": "Peter Pan"
     },
+    "decks": ["literature"],
     "description": {
       "en": "A fictional character and the protagonist of J.M. Barrie's play Peter Pan.",
       "pt": "Um personagem fictício e o protagonista da peça de J.M. Barrie, Peter Pan."
-    },
-    "deck": "literature"
+    }
   },
   "cnt-107": {
     "id": "cnt-107",
@@ -1221,11 +113,11 @@
       "en": "Pinkie Pie",
       "pt": "Pinkie Pie"
     },
+    "decks": ["animation"],
     "description": {
       "en": "A fictional character in the My Little Pony franchise.",
       "pt": "Um personagem fictício na franquia My Little Pony."
-    },
-    "deck": "animation"
+    }
   },
   "cnt-108": {
     "id": "cnt-108",
@@ -1233,11 +125,11 @@
       "en": "Pinocchio",
       "pt": "Pinóquio"
     },
+    "decks": ["literature"],
     "description": {
       "en": "A fictional character and the protagonist of the children's novel The Adventures of Pinocchio.",
       "pt": "Um personagem fictício e o protagonista do romance infantil As Aventuras de Pinóquio."
-    },
-    "deck": "literature"
+    }
   },
   "cnt-109": {
     "id": "cnt-109",
@@ -1245,11 +137,23 @@
       "en": "Ronald McDonald",
       "pt": "Ronald McDonald"
     },
+    "decks": ["food"],
     "description": {
       "en": "A clown character used as the primary mascot of the McDonald's fast-food restaurant chain.",
       "pt": "Um personagem palhaço usado como mascote principal da rede de restaurantes de fast-food McDonald's."
+    }
+  },
+  "cnt-11": {
+    "id": "cnt-11",
+    "name": {
+      "en": "Bart Simpson",
+      "pt": "Bart Simpson"
     },
-    "deck": "food"
+    "decks": ["base"],
+    "description": {
+      "en": "A fictional character in the American animated television series The Simpsons and part of the Simpson family.",
+      "pt": "Um personagem fictício da série de televisão animada americana The Simpsons e parte da família Simpson."
+    }
   },
   "cnt-110": {
     "id": "cnt-110",
@@ -1257,11 +161,11 @@
       "en": "Salvador Dali",
       "pt": "Salvador Dali"
     },
+    "decks": ["art"],
     "description": {
       "en": "A Spanish surrealist artist known for his technical skill and bizarre imagery.",
       "pt": "Um artista surrealista espanhol conhecido por sua habilidade técnica e imagens bizarras."
-    },
-    "deck": "art"
+    }
   },
   "cnt-111": {
     "id": "cnt-111",
@@ -1269,6 +173,7 @@
       "en": "Santa Claus",
       "pt": "Papai Noel"
     },
+    "decks": [],
     "description": {
       "en": "A legendary figure originating in Western Christian culture who is said to bring gifts to the homes of well-behaved children on Christmas Eve.",
       "pt": "Uma figura lendária originária da cultura cristã ocidental que se diz trazer presentes para as casas de crianças bem-comportadas na véspera de Natal."
@@ -1280,6 +185,7 @@
       "en": "Satan",
       "pt": "Satanás"
     },
+    "decks": [],
     "description": {
       "en": "A figure in the Abrahamic religions who is often considered the embodiment of evil.",
       "pt": "Uma figura nas religiões abraâmicas que é frequentemente considerada a personificação do mal."
@@ -1291,6 +197,7 @@
       "en": "Scarecrow",
       "pt": "Espantalho"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Land of Oz created by American author L. Frank Baum.",
       "pt": "Um personagem fictício na Terra de Oz criado pelo autor americano L. Frank Baum."
@@ -1302,6 +209,7 @@
       "en": "Scooby Doo",
       "pt": "Scooby Doo"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character and the eponymous protagonist of the animated television series Scooby-Doo.",
       "pt": "Um personagem fictício e o protagonista homônimo da série de televisão animada Scooby-Doo."
@@ -1313,6 +221,7 @@
       "en": "Sherlock Holmes",
       "pt": "Sherlock Holmes"
     },
+    "decks": [],
     "description": {
       "en": "A fictional private detective created by British author Sir Arthur Conan Doyle.",
       "pt": "Um detetive particular fictício criado pelo autor britânico Sir Arthur Conan Doyle."
@@ -1324,6 +233,7 @@
       "en": "Sigmund Freud",
       "pt": "Sigmund Freud"
     },
+    "decks": [],
     "description": {
       "en": "An Austrian neurologist and the founder of psychoanalysis.",
       "pt": "Um neurologista austríaco e o fundador da psicanálise."
@@ -1335,6 +245,7 @@
       "en": "Snoopy",
       "pt": "Snoopy"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the comic strip Peanuts by Charles M. Schulz.",
       "pt": "Um personagem fictício na tira de quadrinhos Peanuts de Charles M. Schulz."
@@ -1346,6 +257,7 @@
       "en": "Snow White",
       "pt": "Branca de Neve"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character and the protagonist of the German fairy tale Snow White.",
       "pt": "Um personagem fictício e a protagonista do conto de fadas alemão Branca de Neve."
@@ -1357,9 +269,22 @@
       "en": "Socrates",
       "pt": "Socrates"
     },
+    "decks": [],
     "description": {
       "en": "A classical Greek philosopher credited as one of the founders of Western philosophy.",
       "pt": "Um filósofo grego clássico creditado como um dos fundadores da filosofia ocidental."
+    }
+  },
+  "cnt-12": {
+    "id": "cnt-12",
+    "name": {
+      "en": "Batman",
+      "pt": "Batman"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional superhero appearing in American comic books published by DC Comics.",
+      "pt": "Um super-herói fictício que aparece em quadrinhos americanos publicados pela DC Comics."
     }
   },
   "cnt-120": {
@@ -1368,6 +293,7 @@
       "en": "Steve Jobs",
       "pt": "Steve Jobs"
     },
+    "decks": [],
     "description": {
       "en": "An American business magnate, industrial designer, and inventor.",
       "pt": "Um magnata dos negócios americano, designer industrial e inventor."
@@ -1379,6 +305,7 @@
       "en": "Superman",
       "pt": "Super-homem"
     },
+    "decks": [],
     "description": {
       "en": "A fictional superhero appearing in American comic books published by DC Comics.",
       "pt": "Um super-herói fictício que aparece em quadrinhos americanos publicados pela DC Comics."
@@ -1390,6 +317,7 @@
       "en": "The Hulk",
       "pt": "O Incrível Hulk"
     },
+    "decks": [],
     "description": {
       "en": "A fictional superhero appearing in American comic books published by Marvel Comics.",
       "pt": "Um super-herói fictício que aparece em quadrinhos americanos publicados pela Marvel Comics."
@@ -1401,6 +329,7 @@
       "en": "The Pope",
       "pt": "O Papa"
     },
+    "decks": [],
     "description": {
       "en": "The Bishop of Rome and the leader of the worldwide Catholic Church.",
       "pt": "O Bispo de Roma e o líder da Igreja Católica em todo o mundo."
@@ -1412,6 +341,7 @@
       "en": "The Terminator",
       "pt": "O Exterminador do Futuro"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character and the main antagonist of the Terminator franchise.",
       "pt": "Um personagem fictício e o principal antagonista da franquia Exterminador do Futuro."
@@ -1423,6 +353,7 @@
       "en": "Tooth Fairy",
       "pt": "Fada dos dentes"
     },
+    "decks": [],
     "description": {
       "en": "A mythical creature who, when a child loses a tooth, takes it from under the pillow and leaves money in its place.",
       "pt": "Uma criatura mítica que, quando uma criança perde um dente, o pega de baixo do travesseiro e deixa dinheiro em seu lugar."
@@ -1434,6 +365,7 @@
       "en": "Vincent Van Gogh",
       "pt": "Vincent Van Gogh"
     },
+    "decks": [],
     "description": {
       "en": "A Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art.",
       "pt": "Um pintor pós-impressionista holandês que está entre as figuras mais famosas e influentes da história da arte ocidental."
@@ -1445,6 +377,7 @@
       "en": "Voldemort",
       "pt": "Voldemort"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character and the main antagonist in J.K. Rowling's Harry Potter series.",
       "pt": "Um personagem fictício e o principal antagonista da série Harry Potter de J.K. Rowling."
@@ -1456,6 +389,7 @@
       "en": "Winnie-the-pooh",
       "pt": "Ursinho Pooh"
     },
+    "decks": [],
     "description": {
       "en": "A fictional teddy bear created by English author A. A. Milne.",
       "pt": "Um urso de pelúcia fictício criado pelo autor inglês A. A. Milne."
@@ -1467,9 +401,22 @@
       "en": "Wonder Woman",
       "pt": "Mulher Maravilha"
     },
+    "decks": [],
     "description": {
       "en": "A fictional superhero appearing in American comic books published by DC Comics.",
       "pt": "Uma super-heroína fictícia que aparece em quadrinhos americanos publicados pela DC Comics."
+    }
+  },
+  "cnt-13": {
+    "id": "cnt-13",
+    "name": {
+      "en": "Beethoven",
+      "pt": "Beethoven"
+    },
+    "decks": [],
+    "description": {
+      "en": "A German composer and pianist whose music ranks amongst the most performed of the classical music repertoire.",
+      "pt": "Um compositor e pianista alemão cuja música está entre as mais executadas do repertório da música clássica."
     }
   },
   "cnt-130": {
@@ -1478,6 +425,7 @@
       "en": "Yoda",
       "pt": "Yoda"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Star Wars universe.",
       "pt": "Um personagem fictício no universo de Star Wars."
@@ -1489,6 +437,7 @@
       "en": "Monica",
       "pt": "Monica"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Brazilian comic book series Monica's Gang.",
       "pt": "Um personagem fictício na série de quadrinhos brasileira Turma da Mônica."
@@ -1501,6 +450,7 @@
       "en": "Louro José",
       "pt": "Louro José"
     },
+    "decks": [],
     "description": {
       "en": "A puppet character in the Brazilian television program Mais Você.",
       "pt": "Um personagem de marionete no programa de televisão brasileiro Mais Você."
@@ -1513,6 +463,7 @@
       "en": "Neymar",
       "pt": "Neymar"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian professional footballer who plays as a forward for Paris Saint-Germain and the Brazil national team.",
       "pt": "Um jogador de futebol profissional brasileiro que atua como atacante no Paris Saint-Germain e na seleção brasileira."
@@ -1525,6 +476,7 @@
       "en": "Don Ramon",
       "pt": "Seu Madruga"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Mexican television series El Chavo del Ocho.",
       "pt": "Um personagem fictício na série de televisão mexicana Chaves."
@@ -1537,6 +489,7 @@
       "en": "Lady Gaga",
       "pt": "Lady Gaga"
     },
+    "decks": [],
     "description": {
       "en": "An American singer, songwriter, and actress.",
       "pt": "Uma cantora, compositora e atriz americana."
@@ -1548,6 +501,7 @@
       "en": "An Influencer",
       "pt": "Uma influenciadora digital"
     },
+    "decks": [],
     "description": {
       "en": "A person who has the power to affect the purchasing decisions of others because of his or her authority, knowledge, position, or relationship with his or her audience.",
       "pt": "Uma pessoa que tem o poder de afetar as decisões de compra de outras pessoas por causa de sua autoridade, conhecimento, posição ou relacionamento com seu público."
@@ -1559,6 +513,7 @@
       "en": "Carminha",
       "pt": "Carminha"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Brazilian television series Avenida Brasil.",
       "pt": "Um personagem fictício na série de televisão brasileira Avenida Brasil."
@@ -1571,12 +526,12 @@
       "en": "A Flávia",
       "pt": "A Flávia"
     },
+    "decks": ["td-special-br"],
     "description": {
       "en": "A Brazilian girl known for being sexy and 'the girl on the mug'.",
       "pt": "Uma garota brasileira conhecida por ser sexy e 'a garota da caneca'."
     },
-    "exclusivity": "pt",
-    "deck": "td-special-br"
+    "exclusivity": "pt"
   },
   "cnt-139": {
     "id": "cnt-139",
@@ -1584,9 +539,22 @@
       "en": "Eleven",
       "pt": "Eleven"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Netflix series Stranger Things.",
       "pt": "Um personagem fictício na série da Netflix Stranger Things."
+    }
+  },
+  "cnt-14": {
+    "id": "cnt-14",
+    "name": {
+      "en": "Ben Franklin",
+      "pt": "Ben Franklin"
+    },
+    "decks": [],
+    "description": {
+      "en": "One of the Founding Fathers of the United States, a renowned polymath, author, printer, political theorist, politician, freemason, postmaster, scientist, inventor, civic activist, statesman, and diplomat.",
+      "pt": "Um dos Pais Fundadores dos Estados Unidos, um polímata renomado, autor, impressor, teórico político, político, maçom, carteiro, cientista, inventor, ativista cívico, estadista e diplomata."
     }
   },
   "cnt-140": {
@@ -1595,6 +563,7 @@
       "en": "Mario",
       "pt": "Mário"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the video game series Super Mario.",
       "pt": "Um personagem fictício na série de jogos de vídeo Super Mario. Alguns o encontram atrás do armário."
@@ -1606,6 +575,7 @@
       "en": "Sharknado",
       "pt": "Sharknado"
     },
+    "decks": [],
     "description": {
       "en": "A series of American disaster horror comedy science-fiction films.",
       "pt": "Uma série de filmes americanos de comédia de terror de desastres de ficção científica."
@@ -1617,6 +587,7 @@
       "en": "Mr Meeseeks",
       "pt": "Mr Meeseeks"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the animated television series Rick and Morty.",
       "pt": "Um personagem fictício na série de televisão animada Rick e Morty."
@@ -1628,6 +599,7 @@
       "en": "Jon Snow",
       "pt": "Jon Snow"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the HBO television series Game of Thrones.",
       "pt": "Um personagem fictício na série de televisão da HBO Game of Thrones."
@@ -1639,6 +611,7 @@
       "en": "Pikachu",
       "pt": "Pikachu"
     },
+    "decks": [],
     "description": {
       "en": "A fictional species of creatures in the Pokémon media franchise.",
       "pt": "Uma espécie fictícia de criaturas na franquia de mídia Pokémon."
@@ -1650,6 +623,7 @@
       "en": "Ken",
       "pt": "Ken"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Barbie doll line by the American toy company Mattel.",
       "pt": "Um personagem fictício na linha de bonecas Barbie da empresa de brinquedos americana Mattel."
@@ -1661,6 +635,7 @@
       "en": "Nino",
       "pt": "Nino"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Brazilian television series Castelo Rá-Tim-Bum.",
       "pt": "Um personagem fictício na série de televisão brasileira Castelo Rá-Tim-Bum."
@@ -1673,6 +648,7 @@
       "en": "Mickey Mouse",
       "pt": "Mickey Mouse"
     },
+    "decks": [],
     "description": {
       "en": "A cartoon character created in 1928 by Walt Disney and Ub Iwerks.",
       "pt": "Um personagem de desenho animado criado em 1928 por Walt Disney e Ub Iwerks."
@@ -1684,6 +660,7 @@
       "en": "Cousin It",
       "pt": "Primo It"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Addams Family.",
       "pt": "Um personagem fictício na Família Addams."
@@ -1695,10 +672,24 @@
       "en": "Bettlejuice",
       "pt": "Beetlejuice"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1988 film Beetlejuice.",
       "pt": "Um personagem fictício no filme de 1988 Beetlejuice."
     }
+  },
+  "cnt-15": {
+    "id": "cnt-15",
+    "name": {
+      "en": "Betty Crocker",
+      "pt": "Betty Crocker"
+    },
+    "decks": [],
+    "description": {
+      "en": "A brand name and trademark of American Fortune 500 corporation General Mills.",
+      "pt": "Uma marca e marca registrada da corporação americana Fortune 500 General Mills."
+    },
+    "exclusivity": "en"
   },
   "cnt-150": {
     "id": "cnt-150",
@@ -1706,6 +697,7 @@
       "en": "Olaf",
       "pt": "Olaf"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Disney animated film Frozen.",
       "pt": "Um personagem fictício no filme de animação da Disney Frozen."
@@ -1717,6 +709,7 @@
       "en": "Sheldon",
       "pt": "Sheldon"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the television series The Big Bang Theory.",
       "pt": "Um personagem fictício na série de televisão The Big Bang Theory."
@@ -1728,6 +721,7 @@
       "en": "ET",
       "pt": "ET, o extraterrestre"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character and the titular protagonist of the 1982 film E.T. the Extra-Terrestrial.",
       "pt": "Um personagem fictício e o protagonista titular do filme de 1982 E.T., o Extraterrestre."
@@ -1739,6 +733,7 @@
       "en": "Genie",
       "pt": "O Gênio da Lâmpada"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1992 film Aladdin.",
       "pt": "Um personagem fictício no filme de 1992 Aladdin."
@@ -1750,6 +745,7 @@
       "en": "Harley Quinn",
       "pt": "Arlequina"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the DC Comics universe.",
       "pt": "Um personagem fictício no universo da DC Comics."
@@ -1761,6 +757,7 @@
       "en": "Baby Shark",
       "pt": "Baby Shark"
     },
+    "decks": [],
     "description": {
       "en": "A character in the children's song Baby Shark.",
       "pt": "Um personagem na música infantil Baby Shark."
@@ -1772,6 +769,7 @@
       "en": "Cosmo and Wanda",
       "pt": "Cosmo e Wanda"
     },
+    "decks": [],
     "description": {
       "en": "Fictional characters in the animated television series The Fairly OddParents.",
       "pt": "Personagens fictícios na série de televisão animada Os Padrinhos Mágicos."
@@ -1783,6 +781,7 @@
       "en": "Thanos",
       "pt": "Thanos"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Marvel Comics universe.",
       "pt": "Um personagem fictício no universo da Marvel Comics."
@@ -1794,6 +793,7 @@
       "en": "Hide the Pain Harold",
       "pt": "Veio rindo de nervoso"
     },
+    "decks": [],
     "description": {
       "en": "A stock photography model who has gained popularity as a meme.",
       "pt": "Um modelo de fotografia de banco de imagens que ganhou popularidade como um meme."
@@ -1805,12 +805,24 @@
       "en": "Sabrine Ferretti",
       "pt": "Sabrine Ferretti"
     },
+    "decks": ["td-special-br"],
     "description": {
       "en": "A Brazilian actress and model.",
       "pt": "Uma brasileira atriz e modelo."
     },
-    "exclusivity": "pt",
-    "deck": "td-special-br"
+    "exclusivity": "pt"
+  },
+  "cnt-16": {
+    "id": "cnt-16",
+    "name": {
+      "en": "Big Bad Wolf",
+      "pt": "Lobo Mau"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional wolf appearing in several cautionary tales that include some of Aesop's Fables and Grimms' Fairy Tales.",
+      "pt": "Um lobo fictício que aparece em várias fábulas que incluem algumas das Fábulas de Esopo e Contos de Fadas dos Irmãos Grimm."
+    }
   },
   "cnt-160": {
     "id": "cnt-160",
@@ -1818,6 +830,7 @@
       "en": "Valesca Popozuda",
       "pt": "Valesca Popozuda"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian singer and dancer.",
       "pt": "Uma cantora e dançarina brasileira."
@@ -1830,6 +843,7 @@
       "en": "Zé Gotão",
       "pt": "Zé Gotão"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian character to help with vaccination awareness.",
       "pt": "Um personagem brasileiro para ajudar na conscientização da vacinação."
@@ -1842,6 +856,7 @@
       "en": "Possessed Regan MacNeil",
       "pt": "Menina do exorcista possuída"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1973 film The Exorcist.",
       "pt": "Um personagem fictício no filme de 1973 O Exorcista."
@@ -1853,6 +868,7 @@
       "en": "As Paquitas",
       "pt": "As Paquitas"
     },
+    "decks": [],
     "description": {
       "en": "A group of Brazilian dancers and singers who were part of the program Xou da Xuxa.",
       "pt": "Um grupo de dançarinas e cantoras brasileiras que fizeram parte do programa Xou da Xuxa."
@@ -1865,6 +881,7 @@
       "en": "Kevin",
       "pt": "Kevin"
     },
+    "decks": [],
     "description": {
       "en": "A character in the Despicable Me franchise.",
       "pt": "Um personagem na franquia Meu Malvado Favorito."
@@ -1876,6 +893,7 @@
       "en": "Karen",
       "pt": "Karen"
     },
+    "decks": [],
     "description": {
       "en": "A pejorative term for an entitled, obnoxious and often racist middle-aged white woman.",
       "pt": "Um termo pejorativo para uma mulher branca de meia-idade, arrogante e muitas vezes racista."
@@ -1888,6 +906,7 @@
       "en": "He-man",
       "pt": "He-man"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Masters of the Universe franchise.",
       "pt": "Um personagem fictício na franquia Masters of the Universe."
@@ -1899,6 +918,7 @@
       "en": "Buttercup",
       "pt": "Docinho"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the animated television series The Powerpuff Girls",
       "pt": "Um personagem fictício na série de televisão animada As Meninas Superpoderosas."
@@ -1910,6 +930,7 @@
       "en": "Inês Brasil",
       "pt": "Inês Brasil"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian singer and internet celebrity.",
       "pt": "Uma cantora e celebridade da internet brasileira."
@@ -1922,9 +943,22 @@
       "en": "Chip 'n' Dale",
       "pt": "Tico e Teco"
     },
+    "decks": [],
     "description": {
       "en": "Fictional characters in the Disney animated series Chip 'n' Dale.",
       "pt": "Personagens fictícios na série de animação da Disney Tico e Teco."
+    }
+  },
+  "cnt-17": {
+    "id": "cnt-17",
+    "name": {
+      "en": "Bigfoot",
+      "pt": "Pé Grande"
+    },
+    "decks": [],
+    "description": {
+      "en": "A large, hairy, ape-like creature said to inhabit the forests of North America.",
+      "pt": "Uma criatura grande, peluda e semelhante a um macaco que se diz habitar as florestas da América do Norte."
     }
   },
   "cnt-170": {
@@ -1933,6 +967,7 @@
       "en": "Xuxa Meneghel",
       "pt": "Xuxa Meneghel"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian television host, film actress, singer, and businesswoman.",
       "pt": "Uma apresentadora de televisão, atriz de cinema, cantora e empresária brasileira."
@@ -1945,6 +980,7 @@
       "en": "Annabelle",
       "pt": "Annabelle"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Conjuring Universe.",
       "pt": "Um personagem fictício no Universo Conjuring."
@@ -1956,6 +992,7 @@
       "en": "Maria do Bairro",
       "pt": "Maria do Bairro"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Mexican television series Maria la del Barrio.",
       "pt": "Um personagem fictício na série de televisão mexicana Maria la del Barrio."
@@ -1968,6 +1005,7 @@
       "en": "T-Rex",
       "pt": "T-Rex"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Jurassic Park franchise.",
       "pt": "Um personagem fictício na franquia Jurassic Park."
@@ -1979,6 +1017,7 @@
       "en": "Shrek",
       "pt": "Shrek"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Shrek film series.",
       "pt": "Um personagem fictício na série de filmes Shrek."
@@ -1990,6 +1029,7 @@
       "en": "Paola Bracho",
       "pt": "Paola Bracho"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Mexican television series La Usurpadora.",
       "pt": "Um personagem fictício na série de televisão mexicana A Usurpadora."
@@ -2002,6 +1042,7 @@
       "en": "Sílvio Santos",
       "pt": "Sílvio Santos"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian television host, entrepreneur, and media magnate.",
       "pt": "Um apresentador de televisão, empresário e magnata da mídia brasileiro."
@@ -2014,6 +1055,7 @@
       "en": "Tiririca",
       "pt": "Tiririca"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian comedian, singer, and politician.",
       "pt": "Um comediante, cantor e político brasileiro."
@@ -2026,6 +1068,7 @@
       "en": "Barack Obama",
       "pt": "Barack Obama"
     },
+    "decks": [],
     "description": {
       "en": "An American politician and attorney who served as the 44th president of the United States.",
       "pt": "Um político e advogado americano que serviu como o 44º presidente dos Estados Unidos."
@@ -2037,11 +1080,24 @@
       "en": "Bozena",
       "pt": "Bozena"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Brazilian television series Toma Lá, Dá Cá.",
       "pt": "Um personagem fictício na série de televisão brasileira Toma Lá, Dá Cá."
     },
     "exclusivity": "pt"
+  },
+  "cnt-18": {
+    "id": "cnt-18",
+    "name": {
+      "en": "Bill Gates",
+      "pt": "Bill Gates"
+    },
+    "decks": [],
+    "description": {
+      "en": "An American business magnate, software developer, and philanthropist who co-founded Microsoft Corporation.",
+      "pt": "Um magnata dos negócios americano, desenvolvedor de software e filantropo que co-fundou a Microsoft Corporation."
+    }
   },
   "cnt-180": {
     "id": "cnt-180",
@@ -2049,6 +1105,7 @@
       "en": "A mosquito",
       "pt": "Mosquito da dengue"
     },
+    "decks": [],
     "description": {
       "en": "A small flying insect known for biting humans and spreading diseases.",
       "pt": "Um pequeno inseto voador conhecido por picar humanos e espalhar doenças."
@@ -2060,6 +1117,7 @@
       "en": "Coronavirus",
       "pt": "Coronavírus"
     },
+    "decks": [],
     "description": {
       "en": "A type of virus that causes respiratory illness in humans.",
       "pt": "Um tipo de vírus que causa doenças respiratórias em humanos."
@@ -2071,6 +1129,7 @@
       "en": "Handsome Squidward",
       "pt": "Lula Molusco Bonitão"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the animated television series SpongeBob SquarePants.",
       "pt": "Um personagem fictício na série de televisão animada Bob Esponja."
@@ -2082,6 +1141,7 @@
       "en": "Psy",
       "pt": "Psy"
     },
+    "decks": [],
     "description": {
       "en": "A South Korean singer, songwriter, and record producer.",
       "pt": "Um cantor, compositor e produtor musical sul-coreano."
@@ -2093,6 +1153,7 @@
       "en": "Pit Bitoca",
       "pt": "Pit Bitoca"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian character from Pit Bicha sketch in Zorra Total.",
       "pt": "Um personagem brasileiro do esquete Pit Bicha no Zorra Total."
@@ -2105,6 +1166,7 @@
       "en": "Ghost face",
       "pt": "Pânico"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Scream film series.",
       "pt": "Um personagem fictício na série de filmes Pânico."
@@ -2116,6 +1178,7 @@
       "en": "Dwayne The Rock Johnson",
       "pt": "Dwayne The Rock Johnson"
     },
+    "decks": [],
     "description": {
       "en": "An American-Canadian actor, producer, and former professional wrestler.",
       "pt": "Um ator, produtor e ex-lutador profissional americano-canadense."
@@ -2127,6 +1190,7 @@
       "en": "A rock",
       "pt": "Uma pedra"
     },
+    "decks": [],
     "description": {
       "en": "A solid mineral material that forms the Earth's crust.",
       "pt": "Um material mineral sólido que forma a crosta terrestre."
@@ -2138,6 +1202,7 @@
       "en": "Pennywise",
       "pt": "Pennywise"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1986 novel It by Stephen King.",
       "pt": "Um personagem fictício no romance de 1986 It de Stephen King."
@@ -2149,9 +1214,22 @@
       "en": "Green M&M",
       "pt": "M&M verde"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the M&M's candy brand.",
       "pt": "Um personagem fictício na marca de doces M&M's."
+    }
+  },
+  "cnt-19": {
+    "id": "cnt-19",
+    "name": {
+      "en": "Buddha",
+      "pt": "Buda"
+    },
+    "decks": [],
+    "description": {
+      "en": "A philosopher, mendicant, meditator, spiritual teacher, and religious leader who lived in ancient India.",
+      "pt": "Um filósofo, mendicante, meditador, mestre espiritual e líder religioso que viveu na Índia antiga."
     }
   },
   "cnt-190": {
@@ -2160,6 +1238,7 @@
       "en": "Pablo Vittar",
       "pt": "Pablo Vittar"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian drag queen, singer, and songwriter.",
       "pt": "Uma drag queen, cantora e compositora brasileira."
@@ -2172,6 +1251,7 @@
       "en": "Rupaul",
       "pt": "Rupaul"
     },
+    "decks": [],
     "description": {
       "en": "An American drag queen, actor, model, singer, songwriter, and television personality.",
       "pt": "Uma drag queen, ator, modelo, cantor, compositor e personalidade da televisão americana."
@@ -2183,6 +1263,7 @@
       "en": "Kid Bengala",
       "pt": "Kid Bengala"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian pornographic actor.",
       "pt": "Um ator pornô brasileiro"
@@ -2196,6 +1277,7 @@
       "en": "Leeloo Dallas Multipass",
       "pt": "Leeloo Dallas Multipass"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1997 film The Fifth Element.",
       "pt": "Um personagem fictício no filme de 1997 O Quinto Elemento."
@@ -2207,6 +1289,7 @@
       "en": "Globeleza",
       "pt": "Globeleza"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian character who appears in the Carnival TV commercials.",
       "pt": "Um personagem brasileiro que aparece nos comerciais de TV do Carnaval."
@@ -2219,6 +1302,7 @@
       "en": "Harry Potter",
       "pt": "Harry Potter"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Harry Potter book series by J.K. Rowling.",
       "pt": "Um personagem fictício na série de livros Harry Potter de J.K. Rowling."
@@ -2230,6 +1314,7 @@
       "en": "Luva de Pedreiro",
       "pt": "Luva de Pedreiro"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian character who appears in the construction TV commercials.",
       "pt": "Um personagem brasileiro que aparece nos comerciais de TV de construção."
@@ -2242,6 +1327,7 @@
       "en": "Anitta",
       "pt": "Anitta"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian singer, songwriter, actress, dancer, and businesswoman.",
       "pt": "Uma cantora, compositora, atriz, dançarina e empresária brasileira."
@@ -2254,6 +1340,7 @@
       "en": "Confused Math Lady",
       "pt": "Nazaré Tedesco"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Brazilian television series Senhora do Destino.",
       "pt": "Um personagem fictício na série de televisão brasileira Senhora do Destino."
@@ -2265,11 +1352,37 @@
       "en": "Joelma",
       "pt": "Joelma"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian singer and songwriter from the band Calipso.",
       "pt": "Uma cantora e compositora brasileira da banda Calipso."
     },
     "exclusivity": "pt"
+  },
+  "cnt-2": {
+    "id": "cnt-2",
+    "name": {
+      "en": "Abraham Lincoln",
+      "pt": "Abraham Lincoln"
+    },
+    "decks": ["base"],
+    "description": {
+      "en": "The 16th President of the United States, who led the country through the Civil War and abolished",
+      "pt": "O 16º presidente dos Estados Unidos, que liderou o país durante a Guerra Civil e aboliu a escravidão."
+    },
+    "exclusivity": "en"
+  },
+  "cnt-20": {
+    "id": "cnt-20",
+    "name": {
+      "en": "Buffy the Vampire Slayer",
+      "pt": "Buffy a caça vampiros"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the protagonist of the Buffy the Vampire Slayer franchise.",
+      "pt": "Um personagem fictício e o protagonista da franquia Buffy, a caça-vampiros."
+    }
   },
   "cnt-200": {
     "id": "cnt-200",
@@ -2277,6 +1390,7 @@
       "en": "Jaspion",
       "pt": "Jaspion"
     },
+    "decks": [],
     "description": {
       "en": "A Japanese television series produced by Toei Company.",
       "pt": "Uma série de televisão japonesa produzida pela Toei Company."
@@ -2288,6 +1402,7 @@
       "en": "Padre do balão",
       "pt": "Padre do balão"
     },
+    "decks": [],
     "description": {
       "en": "A priest who tried to fly with balloons like in the movie Up.",
       "pt": "Um padre que tentou voar com balões como no filme Up."
@@ -2300,6 +1415,7 @@
       "en": "Narcisa",
       "pt": "Narcisa"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian socialite and television personality.",
       "pt": "Uma socialite e personalidade da televisão brasileira."
@@ -2312,6 +1428,7 @@
       "en": "Leonidas",
       "pt": "Leônidas"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 2006 film 300.",
       "pt": "Um personagem fictício no filme de 2006 300."
@@ -2323,6 +1440,7 @@
       "en": "Jojo Todinho",
       "pt": "Jojo Todinho"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian singer and winner of the reality show A Fazenda.",
       "pt": "Uma cantora brasileira e vencedora do reality show A Fazenda."
@@ -2335,6 +1453,7 @@
       "en": "Tiazinha",
       "pt": "Tiazinha"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian character from the television show H.",
       "pt": "Um personagem brasileiro do programa de televisão H."
@@ -2347,6 +1466,7 @@
       "en": "Saci Pererê",
       "pt": "Saci Pererê"
     },
+    "decks": [],
     "description": {
       "en": "A character in Brazilian folklore.",
       "pt": "Um personagem do folclore brasileiro."
@@ -2359,6 +1479,7 @@
       "en": "Wolverine",
       "pt": "Wolverine"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Marvel Comics universe.",
       "pt": "Um personagem fictício no universo da Marvel Comics."
@@ -2370,6 +1491,7 @@
       "en": "Glória Maria",
       "pt": "Glória Maria"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian journalist and television presenter.",
       "pt": "Uma jornalista e apresentadora de televisão brasileira."
@@ -2382,11 +1504,24 @@
       "en": "Mussum",
       "pt": "Mussum"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian comedian, actor, part of Os Trapalhões.",
       "pt": "Um comediante, ator brasileiro, parte de Os Trapalhões."
     },
     "exclusivity": "pt"
+  },
+  "cnt-21": {
+    "id": "cnt-21",
+    "name": {
+      "en": "Bugs Bunny",
+      "pt": "Perna Longa"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional animated character and the mascot of Warner Bros.",
+      "pt": "Um personagem animado fictício e o mascote da Warner Bros."
+    }
   },
   "cnt-210": {
     "id": "cnt-210",
@@ -2394,6 +1529,7 @@
       "en": "Gretchen",
       "pt": "Gretchen"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian singer, dancer, and actress.",
       "pt": "Uma cantora, dançarina, atriz e 'atriz' brasileira."
@@ -2406,6 +1542,7 @@
       "en": "Hebe Camargo",
       "pt": "Hebe Camargo"
     },
+    "decks": [],
     "description": {
       "en": "Brazilian TV host",
       "pt": "Apresentadora Brasileira"
@@ -2418,6 +1555,7 @@
       "en": "Jô Soares",
       "pt": "Jô Soares"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-213": {
@@ -2426,6 +1564,7 @@
       "en": "Galvão Bueno",
       "pt": "Galvão Bueno"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-214": {
@@ -2434,6 +1573,7 @@
       "en": "Chacrinha",
       "pt": "Chacrinha"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-215": {
@@ -2442,6 +1582,7 @@
       "en": "Fofão",
       "pt": "Fofão"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-216": {
@@ -2450,6 +1591,7 @@
       "en": "Priscila TV Colosso",
       "pt": "Priscila TV Colosso"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-217": {
@@ -2457,7 +1599,8 @@
     "name": {
       "en": "Cuca",
       "pt": "Cuca"
-    }
+    },
+    "decks": []
   },
   "cnt-218": {
     "id": "cnt-218",
@@ -2465,6 +1608,7 @@
       "en": "Tieta",
       "pt": "Tieta"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-219": {
@@ -2473,7 +1617,20 @@
       "en": "Eliana",
       "pt": "Eliana"
     },
+    "decks": [],
     "exclusivity": "pt"
+  },
+  "cnt-22": {
+    "id": "cnt-22",
+    "name": {
+      "en": "Buzz Lightyear",
+      "pt": "Buzz Lightyear"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character in the Toy Story franchise.",
+      "pt": "Um personagem fictício na franquia Toy Story."
+    }
   },
   "cnt-220": {
     "id": "cnt-220",
@@ -2481,6 +1638,7 @@
       "en": "Chicó",
       "pt": "Chicó"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-221": {
@@ -2489,6 +1647,7 @@
       "en": "Julio (cocoricó)",
       "pt": "Júlio (cocoricó)"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-222": {
@@ -2497,6 +1656,7 @@
       "en": "Raquel",
       "pt": "Raquel"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-223": {
@@ -2505,6 +1665,7 @@
       "en": "Tonho da Lua",
       "pt": "Tonho da Lua"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-224": {
@@ -2513,6 +1674,7 @@
       "en": "Mulher da abertura do fantástico",
       "pt": "Mulher da abertura do fantástico"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-225": {
@@ -2521,6 +1683,7 @@
       "en": "Palmirinha",
       "pt": "Palmirinha"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-226": {
@@ -2529,6 +1692,7 @@
       "en": "Wednesday",
       "pt": "Wandinha"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Addams Family.",
       "pt": "Um personagem fictício na Família Addams."
@@ -2540,6 +1704,7 @@
       "en": "Carlos Alberto de Nobrega",
       "pt": "Carlos Alberto de Nobrega"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian comedian and television presenter.",
       "pt": "Um comediante e apresentador de televisão brasileiro."
@@ -2552,6 +1717,7 @@
       "en": "Suzana Vieira",
       "pt": "Suzana Vieira"
     },
+    "decks": [],
     "description": {
       "en": "The best Brazilian actress.",
       "pt": "A melhor atriz brasileira que não tem paciência pra quem está começando."
@@ -2564,12 +1730,24 @@
       "en": "Irmão do Jorel",
       "pt": "Irmão do Jorel"
     },
+    "decks": ["cartoon"],
     "description": {
       "en": "A Brazilian animated television series.",
       "pt": "Uma série de televisão animada brasileira."
     },
-    "deck": "cartoon",
     "exclusivity": "pt"
+  },
+  "cnt-23": {
+    "id": "cnt-23",
+    "name": {
+      "en": "Cancer",
+      "pt": "Cancer"
+    },
+    "decks": [],
+    "description": {
+      "en": "A group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.",
+      "pt": "Um grupo de doenças que envolvem crescimento anormal de células com o potencial de invadir ou se espalhar para outras partes do corpo."
+    }
   },
   "cnt-230": {
     "id": "cnt-230",
@@ -2577,11 +1755,11 @@
       "en": "Gumball",
       "pt": "Gumball"
     },
+    "decks": ["cartoon"],
     "description": {
       "en": "A character in the animated television series The Amazing World of Gumball.",
       "pt": "Um personagem na série de televisão animada O Incrível Mundo de Gumball."
-    },
-    "dech": "cartoon"
+    }
   },
   "cnt-231": {
     "id": "cnt-231",
@@ -2589,6 +1767,7 @@
       "en": "Angry Bird",
       "pt": "Passarinho do Angry Birds"
     },
+    "decks": [],
     "description": {
       "en": "A character in the Angry Birds video game series.",
       "pt": "Um personagem na série de jogos de vídeo Angry Birds."
@@ -2600,6 +1779,7 @@
       "en": "Vampeta",
       "pt": "Vampeta"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian former footballer.",
       "pt": "Um ex-jogador de futebol brasileiro."
@@ -2612,6 +1792,7 @@
       "en": "Cumpadri Washington",
       "pt": "Cumpadri Washington"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian singer.",
       "pt": "Um cantor brasileiro."
@@ -2624,12 +1805,12 @@
       "en": "Caco Antibes",
       "pt": "Caco Antibes"
     },
+    "decks": ["television"],
     "description": {
       "en": "A fictional character in the Brazilian television series Sai de Baixo.",
       "pt": "Um personagem fictício na série de televisão brasileira Sai de Baixo."
     },
-    "exclusivity": "pt",
-    "deck": "television"
+    "exclusivity": "pt"
   },
   "cnt-235": {
     "id": "cnt-235",
@@ -2637,6 +1818,7 @@
       "en": "Capitão Nascimento",
       "pt": "Capitão Nascimento"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Brazilian film Tropa de Elite.",
       "pt": "Um personagem fictício no filme brasileiro Tropa de Elite."
@@ -2649,6 +1831,7 @@
       "en": "Vani",
       "pt": "Vani"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Brazilian television series Os Normais.",
       "pt": "Um personagem fictício na série de televisão brasileira Os Normais."
@@ -2661,6 +1844,7 @@
       "en": "Sérgio Malandro",
       "pt": "Sérgio Malandro"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian comedian and television presenter.",
       "pt": "Um comediante e apresentador de televisão brasileiro."
@@ -2673,6 +1857,7 @@
       "en": "Wesley Safadão",
       "pt": "Wesley Safadão"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian singer.",
       "pt": "Um cantor brasileiro."
@@ -2685,11 +1870,25 @@
       "en": "Winderson Nunes",
       "pt": "Winderson Nunes"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian comedian and YouTuber.",
       "pt": "Um comediante e YouTuber brasileiro."
     },
     "exclusivity": "pt"
+  },
+  "cnt-24": {
+    "id": "cnt-24",
+    "name": {
+      "en": "Captain Crunch",
+      "pt": "Captain Crunch"
+    },
+    "decks": [],
+    "description": {
+      "en": "A product line of corn and oat breakfast cereals introduced in 1963 and manufactured by Quaker Oats Company.",
+      "pt": "Uma linha de produtos de cereais matinais de milho e aveia introduzida em 1963 e fabricada pela Quaker Oats Company."
+    },
+    "exclusivity": "en"
   },
   "cnt-240": {
     "id": "cnt-240",
@@ -2697,6 +1896,7 @@
       "en": "Regina George",
       "pt": "Regina George"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 2004 film Mean Girls",
       "pt": "Um personagem fictício no filme de 2004 Meninas Malvadas."
@@ -2707,7 +1907,8 @@
     "name": {
       "en": "Lindsay Lohan",
       "pt": "Lindsay Lohan"
-    }
+    },
+    "decks": []
   },
   "cnt-242": {
     "id": "cnt-242",
@@ -2715,6 +1916,7 @@
       "en": "The Joker",
       "pt": "Coringa"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Batman comic book series.",
       "pt": "Um personagem fictício na série de quadrinhos do Batman."
@@ -2726,6 +1928,7 @@
       "en": "Marcelo Adnet",
       "pt": "Marcelo Adnet"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-244": {
@@ -2734,6 +1937,7 @@
       "en": "William Bonner",
       "pt": "William Bonner"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-245": {
@@ -2742,6 +1946,7 @@
       "en": "MacGyver",
       "pt": "MacGyver"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the American television series MacGyver.",
       "pt": "Um personagem fictício na série de televisão americana MacGyver."
@@ -2753,6 +1958,7 @@
       "en": "Tom Jobim",
       "pt": "Tom Jobim"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-247": {
@@ -2761,6 +1967,7 @@
       "en": "Daniel (San) LaRusso",
       "pt": "Daniel (San) LaRusso"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Karate Kid film series.",
       "pt": "Um personagem fictício na série de filmes Karate Kid."
@@ -2772,6 +1979,7 @@
       "en": "Edward Scissorhands",
       "pt": "Edward Mãos de Tesoura"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1990 film Edward Scissorhands.",
       "pt": "Um personagem fictício no filme de 1990 Edward Mãos de Tesoura."
@@ -2783,9 +1991,22 @@
       "en": "Chucky",
       "pt": "Chucky"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Child's Play film series.",
       "pt": "Um personagem fictício na série de filmes Brinquedo Assassino."
+    }
+  },
+  "cnt-25": {
+    "id": "cnt-25",
+    "name": {
+      "en": "Captain Jack Sparrow",
+      "pt": "Capitão Jack Sparrow"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the main protagonist of the Pirates of the Caribbean film series.",
+      "pt": "Um personagem fictício e o protagonista principal da série de filmes Piratas do Caribe."
     }
   },
   "cnt-250": {
@@ -2794,6 +2015,7 @@
       "en": "Neo",
       "pt": "Neo"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Matrix film series.",
       "pt": "Um personagem fictício na série de filmes Matrix."
@@ -2805,6 +2027,7 @@
       "en": "Gollum",
       "pt": "Gollum"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Lord of the Rings book series by J.R.R. Tolkien.",
       "pt": "Um personagem fictício na série de livros O Senhor dos Anéis de J.R.R. Tolkien."
@@ -2816,6 +2039,7 @@
       "en": "Amelie Poulain",
       "pt": "Amelie Poulain"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 2001 film Amélie.",
       "pt": "Um personagem fictício no filme de 2001 Amélie."
@@ -2827,6 +2051,7 @@
       "en": "Phoeby Buffay",
       "pt": "Phoeby Buffay"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the American television series Friends.",
       "pt": "Um personagem fictício na série de televisão americana Friends."
@@ -2838,6 +2063,7 @@
       "en": "Lady Di",
       "pt": "Lady Di"
     },
+    "decks": [],
     "description": {
       "en": "A member of the British royal family.",
       "pt": "Um membro da família real britânica."
@@ -2849,6 +2075,7 @@
       "en": "Lúcifer",
       "pt": "Lúcifer"
     },
+    "decks": [],
     "description": {
       "en": "A fallen angel in Christian mythology.",
       "pt": "Um anjo caído na mitologia cristã."
@@ -2860,6 +2087,7 @@
       "en": "Candyman",
       "pt": "Candyman"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1992 film Candyman.",
       "pt": "Um personagem fictício no filme de 1992 Candyman."
@@ -2872,6 +2100,7 @@
       "en": "Loira do Banheiro",
       "pt": "Loira do Banheiro"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-258": {
@@ -2879,13 +2108,27 @@
     "name": {
       "en": "Wilson",
       "pt": "Wilson"
-    }
+    },
+    "decks": []
   },
   "cnt-259": {
     "id": "cnt-259",
     "name": {
       "en": "Dory",
       "pt": "Dory"
+    },
+    "decks": []
+  },
+  "cnt-26": {
+    "id": "cnt-26",
+    "name": {
+      "en": "Captain Kirk",
+      "pt": "Capitão Kirk"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character in the Star Trek media franchise.",
+      "pt": "Um personagem fictício na franquia de mídia Star Trek."
     }
   },
   "cnt-260": {
@@ -2894,6 +2137,7 @@
       "en": "Michael Scott",
       "pt": "Michael Scott"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the American television series The Office.",
       "pt": "Um personagem fictício na série de televisão americana The Office."
@@ -2905,6 +2149,7 @@
       "en": "Mary Poppins",
       "pt": "Mary Poppins"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Mary Poppins book series by P.L. Travers.",
       "pt": "Um personagem fictício na série de livros Mary Poppins de P.L. Travers."
@@ -2916,6 +2161,7 @@
       "en": "Optimus Prime",
       "pt": "Optimus Prime"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Transformers franchise.",
       "pt": "Um personagem fictício na franquia Transformers."
@@ -2927,6 +2173,7 @@
       "en": "Inspector Gadget",
       "pt": "Inspetor Bugiganga"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Inspector Gadget animated television series.",
       "pt": "Um personagem fictício na série de televisão animada Inspetor Bugiganga."
@@ -2938,6 +2185,7 @@
       "en": "Groot",
       "pt": "Groot"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Marvel Comics universe.",
       "pt": "Um personagem fictício no universo da Marvel Comics."
@@ -2949,6 +2197,7 @@
       "en": "Morgan Freeman",
       "pt": "Morgan Freeman"
     },
+    "decks": [],
     "description": {
       "en": "An American actor, director, and narrator.",
       "pt": "Um ator, diretor e narrador americano."
@@ -2960,6 +2209,7 @@
       "en": "Private Ryan",
       "pt": "Soldado Ryan"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1998 film Saving Private Ryan.",
       "pt": "Um personagem fictício no filme de 1998 O Resgate do Soldado Ryan."
@@ -2971,6 +2221,7 @@
       "en": "Forrest Gump",
       "pt": "Forrest Gump"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1994 film Forrest Gump.",
       "pt": "Um personagem fictício no filme de 1994 Forrest Gump."
@@ -2982,6 +2233,7 @@
       "en": "Marty McFly",
       "pt": "Marty McFly"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Back to the Future film series.",
       "pt": "Um personagem fictício na série de filmes De Volta para o Futuro."
@@ -2993,9 +2245,22 @@
       "en": "Elon Musk",
       "pt": "Elon Musk"
     },
+    "decks": [],
     "description": {
       "en": "A business magnate, industrial designer, and engineer.",
       "pt": "Um magnata dos negócios, designer industrial e engenheiro."
+    }
+  },
+  "cnt-27": {
+    "id": "cnt-27",
+    "name": {
+      "en": "Catwoman",
+      "pt": "Mulher Gato"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and one of Batman's most enduring enemies.",
+      "pt": "Um personagem fictício e um dos inimigos mais duradouros do Batman."
     }
   },
   "cnt-270": {
@@ -3004,6 +2269,7 @@
       "en": "Jeff Bezos",
       "pt": "Jeff Bezos"
     },
+    "decks": [],
     "description": {
       "en": "An American entrepreneur, media proprietor, and investor.",
       "pt": "Um empreendedor, proprietário de mídia e investidor americano."
@@ -3016,6 +2282,7 @@
       "en": "Edward Cullen",
       "pt": "Edward Cullen"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Twilight book series by Stephenie Meyer.",
       "pt": "Um personagem fictício na série de livros Twilight de Stephenie Meyer."
@@ -3027,6 +2294,7 @@
       "en": "Taylor Swift",
       "pt": "Taylor Swift"
     },
+    "decks": [],
     "description": {
       "en": "An American singer-songwriter.",
       "pt": "Uma cantora e compositora americana."
@@ -3038,6 +2306,7 @@
       "en": "Beyoncé",
       "pt": "Beyoncé"
     },
+    "decks": [],
     "description": {
       "en": "An American singer, songwriter, and actress.",
       "pt": "Uma cantora, compositora e atriz americana."
@@ -3049,6 +2318,7 @@
       "en": "Freddie Mercury",
       "pt": "Freddie Mercury"
     },
+    "decks": [],
     "description": {
       "en": "A British singer, songwriter, and record producer.",
       "pt": "Um cantor, compositor e produtor musical britânico."
@@ -3060,6 +2330,7 @@
       "en": "Dr Fauci",
       "pt": "Dr Fauci"
     },
+    "decks": [],
     "description": {
       "en": "An American physician and immunologist.",
       "pt": "Um médico e imunologista americano."
@@ -3072,6 +2343,7 @@
       "en": "Gkay",
       "pt": "Gkay"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian comedian and influencer.",
       "pt": "Uma comediante e influenciadora brasileira."
@@ -3084,6 +2356,7 @@
       "en": "Chapulin Colorado",
       "pt": "Chapolin Colorado"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Mexican television series El Chapulín Colorado.",
       "pt": "Um personagem fictício na série de televisão mexicana El Chapulín Colorado."
@@ -3096,6 +2369,7 @@
       "en": "Jennifer Coolidge",
       "pt": "Jennifer Coolidge"
     },
+    "decks": [],
     "description": {
       "en": "An American actress, comedian, and activist.",
       "pt": "Uma atriz, comediante e ativista americana."
@@ -3107,9 +2381,22 @@
       "en": "Tiffany Wilson",
       "pt": "Tiffany Wilson"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 2004 film White Chicks.",
       "pt": "Um personagem fictício no filme de 2004 As Branquelas."
+    }
+  },
+  "cnt-28": {
+    "id": "cnt-28",
+    "name": {
+      "en": "Chuck Norris",
+      "pt": "Chuck Norris"
+    },
+    "decks": [],
+    "description": {
+      "en": "An American martial artist, actor, film producer, and screenwriter.",
+      "pt": "Um artista marcial, ator, produtor de cinema e roteirista americano."
     }
   },
   "cnt-280": {
@@ -3118,6 +2405,7 @@
       "en": "Grumpy Cat",
       "pt": "Gato de Mau Humor"
     },
+    "decks": [],
     "description": {
       "en": "A cat known for its grumpy facial expression.",
       "pt": "Um gato conhecido por sua expressão facial mal-humorada."
@@ -3129,6 +2417,7 @@
       "en": "Jack Dawson",
       "pt": "Jack Dawson"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the 1997 film Titanic.",
       "pt": "Um personagem fictício no filme de 1997 Titanic."
@@ -3140,6 +2429,7 @@
       "en": "Raphael",
       "pt": "Rafael"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Teenage Mutant Ninja Turtles franchise.",
       "pt": "Um personagem fictício na franquia Tartarugas Ninja."
@@ -3151,6 +2441,7 @@
       "en": "Cuca Beludo",
       "pt": "Cuca Beludo"
     },
+    "decks": [],
     "description": {
       "en": "Celebrity?",
       "pt": "Celebridade?"
@@ -3163,6 +2454,7 @@
       "en": "Tan Mom",
       "pt": "Tan Mom"
     },
+    "decks": [],
     "exclusivity": "en"
   },
   "cnt-285": {
@@ -3171,6 +2463,7 @@
       "en": "Betty White",
       "pt": "Betty White"
     },
+    "decks": [],
     "exclusivity": "en"
   },
   "cnt-286": {
@@ -3178,27 +2471,44 @@
     "name": {
       "en": "Miley Cyrus",
       "pt": "Miley Cyrus"
-    }
+    },
+    "decks": []
   },
   "cnt-287": {
     "id": "cnt-287",
     "name": {
       "en": "Hannah Montana",
       "pt": "Hannah Montana"
-    }
+    },
+    "decks": []
   },
   "cnt-288": {
     "id": "cnt-288",
     "name": {
       "en": "Suzanne Crazy Eyes",
       "pt": "Suzanne Crazy Eyes"
-    }
+    },
+    "decks": []
   },
   "cnt-289": {
     "id": "cnt-289",
     "name": {
       "en": "Tom Brady",
       "pt": "Tom Brady"
+    },
+    "decks": [],
+    "exclusivity": "en"
+  },
+  "cnt-29": {
+    "id": "cnt-29",
+    "name": {
+      "en": "Clifford the Big Red Dog",
+      "pt": "Clifford the Big Red Dog"
+    },
+    "decks": [],
+    "description": {
+      "en": "A children's book series about a giant red dog named Clifford.",
+      "pt": "Uma série de livros infantis sobre um cachorro vermelho gigante chamado Clifford."
     },
     "exclusivity": "en"
   },
@@ -3207,14 +2517,16 @@
     "name": {
       "en": "Michael Schumacher",
       "pt": "Michael Schumacher"
-    }
+    },
+    "decks": []
   },
   "cnt-291": {
     "id": "cnt-291",
     "name": {
       "en": "Lionel Messi",
       "pt": "Lionel Messi"
-    }
+    },
+    "decks": []
   },
   "cnt-292": {
     "id": "cnt-292",
@@ -3222,6 +2534,7 @@
       "en": "Serena Williams",
       "pt": "Serena Williams"
     },
+    "decks": [],
     "exclusivity": "en"
   },
   "cnt-293": {
@@ -3229,14 +2542,16 @@
     "name": {
       "en": "Babadook",
       "pt": "Babadook"
-    }
+    },
+    "decks": []
   },
   "cnt-294": {
     "id": "cnt-294",
     "name": {
       "en": "Him",
       "pt": "Ele"
-    }
+    },
+    "decks": []
   },
   "cnt-295": {
     "id": "cnt-295",
@@ -3244,6 +2559,7 @@
       "en": "Mendigo da Planaltina",
       "pt": "Mendigo da Planaltina"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-296": {
@@ -3251,27 +2567,55 @@
     "name": {
       "en": "Orko",
       "pt": "Gorpo"
-    }
+    },
+    "decks": []
   },
   "cnt-297": {
     "id": "cnt-297",
     "name": {
       "en": "Monkey D. Luffy",
       "pt": "Monkey D. Luffy"
-    }
+    },
+    "decks": []
   },
   "cnt-298": {
     "id": "cnt-298",
     "name": {
       "en": "Jesus",
       "pt": "Jesus"
-    }
+    },
+    "decks": []
   },
   "cnt-299": {
     "id": "cnt-299",
     "name": {
       "en": "Lizzo",
       "pt": "Lizzo"
+    },
+    "decks": []
+  },
+  "cnt-3": {
+    "id": "cnt-3",
+    "name": {
+      "en": "Al Capone",
+      "pt": "Al Capone"
+    },
+    "decks": ["base"],
+    "description": {
+      "en": "An American gangster who attained fame during the Prohibition era as the co-founder and boss of the Chicago Outfit.",
+      "pt": "Um gângster americano que alcançou fama durante a era da Proibição como co-fundador e chefe do Chicago Outfit."
+    }
+  },
+  "cnt-30": {
+    "id": "cnt-30",
+    "name": {
+      "en": "Cockroach",
+      "pt": "Uma barata"
+    },
+    "decks": [],
+    "description": {
+      "en": "An insect of the order Blattodea, which also includes termites.",
+      "pt": "Um inseto da ordem Blattodea, que também inclui térmitas."
     }
   },
   "cnt-300": {
@@ -3279,7 +2623,8 @@
     "name": {
       "en": "Ted Lasso",
       "pt": "Ted Lasso"
-    }
+    },
+    "decks": []
   },
   "cnt-301": {
     "id": "cnt-301",
@@ -3287,6 +2632,7 @@
       "en": "Bicha Muda",
       "pt": "Bicha Muda"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-302": {
@@ -3295,6 +2641,7 @@
       "en": "Grávida de Taubaté",
       "pt": "Grávida de Taubaté"
     },
+    "decks": [],
     "exclusivity": "pt"
   },
   "cnt-303": {
@@ -3302,14 +2649,16 @@
     "name": {
       "en": "M3gan",
       "pt": "M3gan"
-    }
+    },
+    "decks": []
   },
   "cnt-304": {
     "id": "cnt-304",
     "name": {
       "en": "Michelle Yeoh",
       "pt": "Michelle Yeoh"
-    }
+    },
+    "decks": []
   },
   "cnt-305": {
     "id": "cnt-305",
@@ -3317,6 +2666,7 @@
       "en": "Tony Stark",
       "pt": "Tony Stark"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Marvel Comics universe.",
       "pt": "Um personagem fictício no universo da Marvel Comics."
@@ -3328,6 +2678,7 @@
       "en": "Spider-man",
       "pt": "Spider-man"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Marvel Comics universe.",
       "pt": "Um personagem fictício no universo da Marvel Comics."
@@ -3339,6 +2690,7 @@
       "en": "Cardi B",
       "pt": "Cardi B"
     },
+    "decks": [],
     "description": {
       "en": "An American rapper, songwriter, and actress.",
       "pt": "Uma rapper, compositora e atriz americana."
@@ -3350,6 +2702,7 @@
       "en": "Katniss Everdeen",
       "pt": "Katniss Everdeen"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Hunger Games book series by Suzanne Collins.",
       "pt": "Um personagem fictício na série de livros Jogos Vorazes de Suzanne Collins."
@@ -3361,9 +2714,22 @@
       "en": "Tarzan",
       "pt": "Tarzan"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character created by Edgar Rice Burroughs.",
       "pt": "Um personagem fictício criado por Edgar Rice Burroughs."
+    }
+  },
+  "cnt-31": {
+    "id": "cnt-31",
+    "name": {
+      "en": "Colonel Sanders",
+      "pt": "Coronel Sanders"
+    },
+    "decks": [],
+    "description": {
+      "en": "An American businessman, best known for founding fast food chicken restaurant chain Kentucky Fried Chicken.",
+      "pt": "Um empresário americano, mais conhecido por fundar a cadeia de restaurantes de frango fast food Kentucky Fried Chicken."
     }
   },
   "cnt-310": {
@@ -3372,6 +2738,7 @@
       "en": "John McClane",
       "pt": "John McClane"
     },
+    "decks": [],
     "description": {
       "en": "A fictional character in the Die Hard film series.",
       "pt": "Um personagem fictício na série de filmes Duro de Matar."
@@ -3382,35 +2749,40 @@
     "name": {
       "en": "Willy Wonka",
       "pt": "Willy Wonka"
-    }
+    },
+    "decks": []
   },
   "cnt-312": {
     "id": "cnt-312",
     "name": {
       "en": "Barbie",
       "pt": "Barbie"
-    }
+    },
+    "decks": []
   },
   "cnt-313": {
     "id": "cnt-313",
     "name": {
       "en": "Jay Gatsby",
       "pt": "Jay Gatsby"
-    }
+    },
+    "decks": []
   },
   "cnt-314": {
     "id": "cnt-314",
     "name": {
       "en": "Fred Flintstone",
       "pt": "Fred Flintstone"
-    }
+    },
+    "decks": []
   },
   "cnt-315": {
     "id": "cnt-315",
     "name": {
       "en": "Zorro",
       "pt": "Zorro"
-    }
+    },
+    "decks": []
   },
   "cnt-316": {
     "id": "cnt-316",
@@ -3418,6 +2790,7 @@
       "en": "Goku",
       "pt": "Goku"
     },
+    "decks": [],
     "description": {
       "en": "A character from the anime Dragon Ball.",
       "pt": "Um personagem do anime Dragon Ball."
@@ -3429,6 +2802,7 @@
       "en": "Sonic the Hedgehog",
       "pt": "Sonic"
     },
+    "decks": [],
     "description": {
       "en": "A character from the video game Sonic the Hedgehog.",
       "pt": "Um personagem do jogo de vídeo Sonic the Hedgehog."
@@ -3440,6 +2814,7 @@
       "en": "Quasimodo",
       "pt": "Quasimodo"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie The Hunchback of Notre Dame.",
       "pt": "Um personagem do filme O Corcunda de Notre Dame."
@@ -3451,9 +2826,22 @@
       "en": "Barry B Benson",
       "pt": "Barry B Benson"
     },
+    "decks": [],
     "description": {
       "en": "A bee from the movie Bee Movie.",
       "pt": "Uma abelha do filme Bee Movie."
+    }
+  },
+  "cnt-32": {
+    "id": "cnt-32",
+    "name": {
+      "en": "Confucius",
+      "pt": "Confúcio"
+    },
+    "decks": [],
+    "description": {
+      "en": "A Chinese philosopher and politician of the Spring and Autumn period.",
+      "pt": "Um filósofo e político chinês do período da Primavera e Outono."
     }
   },
   "cnt-320": {
@@ -3462,6 +2850,7 @@
       "en": "Drag Queen ET",
       "pt": "ET, a drag queen"
     },
+    "decks": [],
     "description": {
       "en": "A drag queen version of the character ET.",
       "pt": "Uma versão drag queen do personagem ET."
@@ -3473,6 +2862,7 @@
       "en": "Troll Face",
       "pt": "Troll Face"
     },
+    "decks": [],
     "description": {
       "en": "A popular internet meme.",
       "pt": "Um meme popular da internet."
@@ -3484,6 +2874,7 @@
       "en": "Will Smith",
       "pt": "Will Smith"
     },
+    "decks": [],
     "description": {
       "en": "An American actor, producer, and rapper.",
       "pt": "Um ator, produtor e rapper americano."
@@ -3495,6 +2886,7 @@
       "en": "Naruto Uzumaki",
       "pt": "Naruto Uzumaki"
     },
+    "decks": [],
     "description": {
       "en": "A character from the anime Naruto.",
       "pt": "Um personagem do anime Naruto."
@@ -3506,6 +2898,7 @@
       "en": "Kim Kardashian",
       "pt": "Kim Kardashian"
     },
+    "decks": [],
     "description": {
       "en": "An American media personality, socialite, and model.",
       "pt": "Uma personalidade da mídia, socialite e modelo americana."
@@ -3517,6 +2910,7 @@
       "en": "Tiger Woods",
       "pt": "Tiger Woods"
     },
+    "decks": [],
     "description": {
       "en": "An American professional golfer.",
       "pt": "Um golfista profissional americano."
@@ -3528,6 +2922,7 @@
       "en": "Joe Exotic",
       "pt": "Joe Exotic"
     },
+    "decks": [],
     "description": {
       "en": "The main character of the documentary series Tiger King.",
       "pt": "O personagem principal da série documental Tiger King."
@@ -3539,6 +2934,7 @@
       "en": "Marie Kondo",
       "pt": "Marie Kondo"
     },
+    "decks": [],
     "description": {
       "en": "A Japanese organizing consultant and author.",
       "pt": "Uma consultora de organização japonesa e autora."
@@ -3550,6 +2946,7 @@
       "en": "Sharpay Evans",
       "pt": "Sharpay Evans"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie High School Musical.",
       "pt": "Um personagem do filme High School Musical."
@@ -3561,10 +2958,24 @@
       "en": "The Sun",
       "pt": "O Sol"
     },
+    "decks": [],
     "description": {
       "en": "The star at the center of the Solar System.",
       "pt": "A estrela no centro do Sistema Solar."
     }
+  },
+  "cnt-33": {
+    "id": "cnt-33",
+    "name": {
+      "en": "Cookie Monster",
+      "pt": "Cookie Monster"
+    },
+    "decks": [],
+    "description": {
+      "en": "A Muppet character on the children's television show Sesame Street.",
+      "pt": "Um personagem Muppet no programa de televisão infantil Sesame Street."
+    },
+    "exclusivity": "en"
   },
   "cnt-330": {
     "id": "cnt-330",
@@ -3572,6 +2983,7 @@
       "en": "King Julien",
       "pt": "O Rei Julien"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie Madagascar.",
       "pt": "Um personagem do filme Madagascar."
@@ -3583,6 +2995,7 @@
       "en": "Edna Mode",
       "pt": "Edna Moda"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie The Incredibles.",
       "pt": "Um personagem do filme Os Incríveis."
@@ -3594,6 +3007,7 @@
       "en": "Aang",
       "pt": "Aang"
     },
+    "decks": [],
     "description": {
       "en": "The main character of the animated series Avatar: The Last Airbender.",
       "pt": "O personagem principal da série animada Avatar: A Lenda de Aang."
@@ -3605,6 +3019,7 @@
       "en": "Jimmy Fallon",
       "pt": "Jimmy Fallon"
     },
+    "decks": [],
     "description": {
       "en": "An American comedian, actor, and television host.",
       "pt": "Um comediante, ator e apresentador de televisão americano."
@@ -3617,6 +3032,7 @@
       "en": "Gloria Pritchett",
       "pt": "Gloria Pritchett"
     },
+    "decks": [],
     "description": {
       "en": "A character from the TV show Modern Family.",
       "pt": "Um personagem da série de televisão Modern Family."
@@ -3628,6 +3044,7 @@
       "en": "Snoop Dogg",
       "pt": "Snoop Dogg"
     },
+    "decks": [],
     "description": {
       "en": "An American rapper, singer, and actor.",
       "pt": "Um rapper, cantor e ator americano."
@@ -3638,27 +3055,43 @@
     "name": {
       "en": "BTS",
       "pt": "BTS"
-    }
+    },
+    "decks": []
   },
   "cnt-337": {
     "id": "cnt-337",
     "name": {
       "en": "Borat",
       "pt": "Borat"
-    }
+    },
+    "decks": []
   },
   "cnt-338": {
     "id": "cnt-338",
     "name": {
       "en": "Eminem",
       "pt": "Eminem"
-    }
+    },
+    "decks": []
   },
   "cnt-339": {
     "id": "cnt-339",
     "name": {
       "en": "Simon Cowell",
       "pt": "Simon Cowell"
+    },
+    "decks": []
+  },
+  "cnt-34": {
+    "id": "cnt-34",
+    "name": {
+      "en": "Cruella De Vil",
+      "pt": "Cruella De Vil"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the main antagonist of Dodie Smith's 1956 novel The Hundred and One Dalmatians.",
+      "pt": "Um personagem fictício e o principal antagonista do romance de 1956 de Dodie Smith, The Hundred and One Dalmatians."
     }
   },
   "cnt-340": {
@@ -3666,7 +3099,8 @@
     "name": {
       "en": "Gordon Ramsay",
       "pt": "Gordon Ramsay"
-    }
+    },
+    "decks": []
   },
   "cnt-341": {
     "id": "cnt-341",
@@ -3674,6 +3108,7 @@
       "en": "Analise Keating",
       "pt": "Analise Keating"
     },
+    "decks": [],
     "description": {
       "en": "A character from the TV show How to Get Away with Murder",
       "pt": "Personagem do seriado How to Get Away with Murder"
@@ -3685,6 +3120,7 @@
       "en": "Rocky Balboa",
       "pt": "Rocky Balboa"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie Rocky.",
       "pt": "Um personagem do filme Rocky."
@@ -3696,6 +3132,7 @@
       "en": "Woody Woodpecker",
       "pt": "Pica-pau"
     },
+    "decks": [],
     "description": {
       "en": "A character from the animated series Woody Woodpecker.",
       "pt": "Um personagem da série animada Pica-pau."
@@ -3707,6 +3144,7 @@
       "en": "Oprah Winfrey",
       "pt": "Oprah Winfrey"
     },
+    "decks": [],
     "description": {
       "en": "An American talk show host, television producer, and philanthropist.",
       "pt": "Uma apresentadora de talk show, produtora de televisão e filantropa americana."
@@ -3718,6 +3156,7 @@
       "en": "Michelle Obama",
       "pt": "Michelle Obama"
     },
+    "decks": [],
     "description": {
       "en": "The former First Lady of the United States.",
       "pt": "A ex-Primeira-Dama dos Estados Unidos."
@@ -3729,6 +3168,7 @@
       "en": "Ellen DeGeneres",
       "pt": "Ellen DeGeneres"
     },
+    "decks": [],
     "description": {
       "en": "An American comedian, television host, and actress.",
       "pt": "Uma comediante, apresentadora de televisão e atriz americana."
@@ -3740,6 +3180,7 @@
       "en": "Oliver",
       "pt": "Oliver"
     },
+    "decks": [],
     "description": {
       "en": "Actor who seduced women for the Test of Fidelity.",
       "pt": "Ator que seduzia mulheres no Teste de Fidelidade."
@@ -3752,6 +3193,7 @@
       "en": "Tom",
       "pt": "Tom"
     },
+    "decks": [],
     "description": {
       "en": "From MySpace.",
       "pt": "Do MySpace."
@@ -3763,11 +3205,24 @@
       "en": "Jake from State Farm",
       "pt": "Jake from State Farm"
     },
+    "decks": [],
     "description": {
       "en": "A character from an American insurance company.",
       "pt": "Um personagem de uma empresa de seguros americana."
     },
     "exclusivity": "en"
+  },
+  "cnt-35": {
+    "id": "cnt-35",
+    "name": {
+      "en": "Cupid",
+      "pt": "Cupido"
+    },
+    "decks": [],
+    "description": {
+      "en": "The god of desire, erotic love, attraction, and affection in classical mythology.",
+      "pt": "O deus do desejo, amor erótico, atração e afeto na mitologia clássica."
+    }
   },
   "cnt-350": {
     "id": "cnt-350",
@@ -3775,6 +3230,7 @@
       "en": "Mona Lisa",
       "pt": "Mona Lisa"
     },
+    "decks": [],
     "description": {
       "en": "A painting by Leonardo da Vinci.",
       "pt": "Uma pintura de Leonardo da Vinci."
@@ -3786,6 +3242,7 @@
       "en": "Alex Trebek",
       "pt": "Alex Trebek"
     },
+    "decks": [],
     "description": {
       "en": "The host of the American game show Jeopardy!",
       "pt": "O apresentador do programa de televisão americano Jeopardy!"
@@ -3798,6 +3255,7 @@
       "en": "Dolly Parton",
       "pt": "Dolly Parton"
     },
+    "decks": [],
     "description": {
       "en": "An American singer and actress.",
       "pt": "Uma cantora e atriz americana."
@@ -3810,6 +3268,7 @@
       "en": "Kanye West",
       "pt": "Kanye West"
     },
+    "decks": [],
     "description": {
       "en": "An American rapper and fashion designer.",
       "pt": "Um rapper e estilista americano."
@@ -3822,6 +3281,7 @@
       "en": "Kamala Harris",
       "pt": "Kamala Harris"
     },
+    "decks": [],
     "description": {
       "en": "The Vice President of the United States.",
       "pt": "A Vice-Presidente dos Estados Unidos."
@@ -3833,6 +3293,7 @@
       "en": "Joe Biden",
       "pt": "Joe Biden"
     },
+    "decks": [],
     "description": {
       "en": "The President of the United States.",
       "pt": "O Presidente dos Estados Unidos."
@@ -3844,6 +3305,7 @@
       "en": "Trojan Horse",
       "pt": "Cavalo de Troia"
     },
+    "decks": [],
     "description": {
       "en": "A story from Greek mythology.",
       "pt": "Uma história da mitologia grega."
@@ -3855,6 +3317,7 @@
       "en": "The Beatles",
       "pt": "The Beatles"
     },
+    "decks": [],
     "description": {
       "en": "A British rock band.",
       "pt": "Uma banda de rock britânica."
@@ -3866,6 +3329,7 @@
       "en": "Nicolas Cage",
       "pt": "Nicolas Cage"
     },
+    "decks": [],
     "description": {
       "en": "An American actor.",
       "pt": "Um ator americano."
@@ -3877,9 +3341,22 @@
       "en": "Oompa Loompa",
       "pt": "Oompa Loompa"
     },
+    "decks": [],
     "description": {
       "en": "A character from Charlie and the Chocolate Factory.",
       "pt": "Um personagem de A Fantástica Fábrica de Chocolate."
+    }
+  },
+  "cnt-36": {
+    "id": "cnt-36",
+    "name": {
+      "en": "Curious George",
+      "pt": "George o Curioso"
+    },
+    "decks": [],
+    "description": {
+      "en": "A monkey character in a series of children's books by Margret and H.A. Rey.",
+      "pt": "Um personagem de macaco em uma série de livros infantis de Margret e H.A. Rey."
     }
   },
   "cnt-360": {
@@ -3888,6 +3365,7 @@
       "en": "The Mask",
       "pt": "O Máscara"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie The Mask.",
       "pt": "Um personagem do filme O Máscara."
@@ -3899,6 +3377,7 @@
       "en": "Che Guevara",
       "pt": "Che Guevara"
     },
+    "decks": [],
     "description": {
       "en": "An Argentine Marxist revolutionary.",
       "pt": "Um revolucionário marxista argentino."
@@ -3910,6 +3389,7 @@
       "en": "A communist",
       "pt": "Um comunista"
     },
+    "decks": [],
     "description": {
       "en": "A person who supports communism.",
       "pt": "Uma pessoa que apoia o comunismo."
@@ -3921,6 +3401,7 @@
       "en": "Puppies",
       "pt": "Filhotes"
     },
+    "decks": [],
     "description": {
       "en": "Young dogs.",
       "pt": "Cachorrinhos."
@@ -3932,6 +3413,7 @@
       "en": "Kittens",
       "pt": "Gatinhos"
     },
+    "decks": [],
     "description": {
       "en": "Young cats.",
       "pt": "Gatinhos."
@@ -3943,6 +3425,7 @@
       "en": "A unicorn",
       "pt": "Um unicórnio"
     },
+    "decks": [],
     "description": {
       "en": "A mythical creature.",
       "pt": "Uma criatura mítica."
@@ -3954,6 +3437,7 @@
       "en": "Ariel",
       "pt": "Ariel"
     },
+    "decks": [],
     "description": {
       "en": "A character from The Little Mermaid.",
       "pt": "Um personagem de A Pequena Sereia."
@@ -3965,6 +3449,7 @@
       "en": "Kevin McCallister",
       "pt": "Kevin McCallister"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie Home Alone.",
       "pt": "Um personagem do filme Esqueceram de Mim."
@@ -3976,6 +3461,7 @@
       "en": "The Grinch",
       "pt": "O Grinch"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie How the Grinch Stole Christmas.",
       "pt": "Um personagem do filme Como o Grinch Roubou o Natal."
@@ -3987,9 +3473,22 @@
       "en": "Ariana Grande",
       "pt": "Ariana Grande"
     },
+    "decks": [],
     "description": {
       "en": "An American singer and actress.",
       "pt": "Uma cantora e atriz americana."
+    }
+  },
+  "cnt-37": {
+    "id": "cnt-37",
+    "name": {
+      "en": "Darth Vader",
+      "pt": "Darth Vader"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character in the Star Wars franchise.",
+      "pt": "Um personagem fictício na franquia Star Wars."
     }
   },
   "cnt-370": {
@@ -3998,6 +3497,7 @@
       "en": "Benjamin Button",
       "pt": "Benjamin Button"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie The Curious Case of Benjamin Button.",
       "pt": "Um personagem do filme O Curioso Caso de Benjamin Button."
@@ -4009,6 +3509,7 @@
       "en": "Catherine the Great",
       "pt": "Catarina, a Grande"
     },
+    "decks": [],
     "description": {
       "en": "A Russian Empress.",
       "pt": "Uma Imperatriz Russa."
@@ -4020,6 +3521,7 @@
       "en": "Cleopatra",
       "pt": "Cleópatra"
     },
+    "decks": [],
     "description": {
       "en": "The last active ruler of the Ptolemaic Kingdom of Egypt.",
       "pt": "A última governante ativa do Reino Ptolemaico do Egito."
@@ -4031,6 +3533,7 @@
       "en": "Coco Chanel",
       "pt": "Coco Chanel"
     },
+    "decks": [],
     "description": {
       "en": "A French fashion designer.",
       "pt": "Uma estilista francesa."
@@ -4042,6 +3545,7 @@
       "en": "Diana Ross",
       "pt": "Diana Ross"
     },
+    "decks": [],
     "description": {
       "en": "An American singer and actress.",
       "pt": "Uma cantora e atriz americana."
@@ -4053,11 +3557,11 @@
       "en": "Dorothy",
       "pt": "Dorothy"
     },
+    "decks": ["movies"],
     "description": {
       "en": "A character from The Wizard of Oz.",
       "pt": "Um personagem de O Mágico de Oz."
-    },
-    "deck": "movies"
+    }
   },
   "cnt-376": {
     "id": "cnt-376",
@@ -4065,11 +3569,11 @@
       "en": "Elizabeth Taylor",
       "pt": "Elizabeth Taylor"
     },
+    "decks": ["movies"],
     "description": {
       "en": "An American actress.",
       "pt": "Uma atriz americana."
-    },
-    "deck": "movies"
+    }
   },
   "cnt-377": {
     "id": "cnt-377",
@@ -4077,11 +3581,11 @@
       "en": "Frida Kahlo",
       "pt": "Frida Kahlo"
     },
+    "decks": ["base"],
     "description": {
       "en": "A Mexican painter.",
       "pt": "Uma pintora mexicana."
-    },
-    "deck": "base"
+    }
   },
   "cnt-378": {
     "id": "cnt-378",
@@ -4089,6 +3593,7 @@
       "en": "Grace Kelly",
       "pt": "Grace Kelly"
     },
+    "decks": [],
     "description": {
       "en": "An American actress and Princess of Monaco.",
       "pt": "Uma atriz americana e Princesa de Mônaco."
@@ -4100,9 +3605,22 @@
       "en": "Lisa Left Eye Lopes",
       "pt": "Lisa Left Eye Lopes"
     },
+    "decks": [],
     "description": {
       "en": "An American rapper and singer.",
       "pt": "Uma rapper e cantora americana."
+    }
+  },
+  "cnt-38": {
+    "id": "cnt-38",
+    "name": {
+      "en": "Darwin",
+      "pt": "Darwin"
+    },
+    "decks": [],
+    "description": {
+      "en": "An English naturalist, geologist, and biologist, best known for his contributions to the science of evolution.",
+      "pt": "Um naturalista, geólogo e biólogo inglês, mais conhecido por suas contribuições para a ciência da evolução."
     }
   },
   "cnt-380": {
@@ -4111,6 +3629,7 @@
       "en": "Nicki Minaj",
       "pt": "Nicki Minaj"
     },
+    "decks": [],
     "description": {
       "en": "An American rapper and singer.",
       "pt": "Uma rapper e cantora americana."
@@ -4122,6 +3641,7 @@
       "en": "Oscar Wilde",
       "pt": "Oscar Wilde"
     },
+    "decks": [],
     "description": {
       "en": "An Irish poet and playwright.",
       "pt": "Um poeta e dramaturgo irlandês."
@@ -4133,6 +3653,7 @@
       "en": "Pablo Picasso",
       "pt": "Pablo Picasso"
     },
+    "decks": [],
     "description": {
       "en": "A Spanish painter and sculptor.",
       "pt": "Um pintor e escultor espanhol."
@@ -4144,6 +3665,7 @@
       "en": "Queen Elizabeth II",
       "pt": "Rainha Elizabeth II"
     },
+    "decks": [],
     "description": {
       "en": "The Queen of the United Kingdom.",
       "pt": "A Rainha do Reino Unido."
@@ -4155,6 +3677,7 @@
       "en": "Rosa Parks",
       "pt": "Rosa Parks"
     },
+    "decks": [],
     "description": {
       "en": "An American civil rights activist.",
       "pt": "Uma ativista dos direitos civis americana."
@@ -4166,6 +3689,7 @@
       "en": "Fat Amy",
       "pt": "Fat Amy"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie Pitch Perfect.",
       "pt": "Um personagem do filme A Escolha Perfeita."
@@ -4177,6 +3701,7 @@
       "en": "Robocop",
       "pt": "Robocop"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie Robocop.",
       "pt": "Um personagem do filme Robocop."
@@ -4188,6 +3713,7 @@
       "en": "Sailor Moon",
       "pt": "Sailor Moon"
     },
+    "decks": [],
     "description": {
       "en": "A character from the anime Sailor Moon.",
       "pt": "Um personagem do anime Sailor Moon."
@@ -4199,6 +3725,7 @@
       "en": "Steve Irvin",
       "pt": "Steve Irvin"
     },
+    "decks": [],
     "description": {
       "en": "An Australian zookeeper and television personality.",
       "pt": "Um zelador de zoológico australiano e personalidade da televisão."
@@ -4210,9 +3737,22 @@
       "en": "Free Willy",
       "pt": "Free Willy"
     },
+    "decks": [],
     "description": {
       "en": "A character from the movie Free Willy.",
       "pt": "Um personagem do filme Free Willy."
+    }
+  },
+  "cnt-39": {
+    "id": "cnt-39",
+    "name": {
+      "en": "Donald Trump",
+      "pt": "Donald Trump"
+    },
+    "decks": [],
+    "description": {
+      "en": "The 45th President of the United States, a businessman, television personality, and politician.",
+      "pt": "O 45º presidente dos Estados Unidos, um empresário, personalidade da televisão e político."
     }
   },
   "cnt-390": {
@@ -4221,6 +3761,7 @@
       "en": "Pablo Escobar",
       "pt": "Pablo Escobar"
     },
+    "decks": [],
     "description": {
       "en": "A Colombian drug lord.",
       "pt": "Um traficante colombiano."
@@ -4232,6 +3773,7 @@
       "en": "Dungeon Master",
       "pt": "Mestre dos Magos"
     },
+    "decks": [],
     "description": {
       "en": "A character from the animated series Dungeons & Dragons.",
       "pt": "Um personagem da série animada Caverna do Dragão."
@@ -4243,6 +3785,7 @@
       "en": "Captain Planet",
       "pt": "Capitão Planeta"
     },
+    "decks": [],
     "description": {
       "en": "A character from the animated series Captain Planet and the Planeteers.",
       "pt": "Um personagem da série animada Capitão Planeta e os Planetários."
@@ -4254,6 +3797,7 @@
       "en": "Seu Peru",
       "pt": "Seu Peru"
     },
+    "decks": [],
     "description": {
       "en": "A character from the Brazilian TV show Escolinha do Professor Raimundo.",
       "pt": "Um personagem do programa de televisão brasileiro Escolinha do Professor Raimundo."
@@ -4266,6 +3810,7 @@
       "en": "Melocoton",
       "pt": "Melocoton"
     },
+    "decks": [],
     "description": {
       "en": "A character from the Brazilian TV show Bom dia e Cia.",
       "pt": "Um personagem do programa de televisão brasileiro Bom dia e Cia."
@@ -4278,6 +3823,7 @@
       "en": "Clodovil Hernandes",
       "pt": "Clodovil Hernandes"
     },
+    "decks": [],
     "description": {
       "en": "A Brazilian fashion designer and television presenter.",
       "pt": "Um estilista brasileiro e apresentador de televisão."
@@ -4290,6 +3836,7 @@
       "en": "Popeye",
       "pt": "Popeye"
     },
+    "decks": [],
     "description": {
       "en": "A character from the animated series Popeye the Sailor.",
       "pt": "Um personagem da série animada Popeye, o Marinheiro."
@@ -4301,6 +3848,7 @@
       "en": "Ratinho",
       "pt": "Ratinho"
     },
+    "decks": [],
     "description": {
       "en": "The host from the Brazilian TV show Ratinho.",
       "pt": "O apresentador do programa de televisão brasileiro Ratinho."
@@ -4313,6 +3861,7 @@
       "en": "Roberval, o ladrão de chocolates",
       "pt": "Roberval, o ladrão de chocolates"
     },
+    "decks": [],
     "description": {
       "en": "A character from the Brazilian TV show TV Colosso.",
       "pt": "Um personagem do programa de televisão brasileiro TV Colosso."
@@ -4325,11 +3874,36 @@
       "en": "Nissim Orfali",
       "pt": "Nissim Orfali"
     },
+    "decks": [],
     "description": {
       "en": "Brazilian personality that often goes to Baleia.",
       "pt": "Personalidade brasileira que frequentemente vai à Baleia."
     },
     "exclusivity": "pt"
+  },
+  "cnt-4": {
+    "id": "cnt-4",
+    "name": {
+      "en": "Albert Einstein",
+      "pt": "Albert Einstein"
+    },
+    "decks": ["base"],
+    "description": {
+      "en": "A German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.",
+      "pt": "Um físico teórico nascido na Alemanha que desenvolveu a teoria da relatividade, um dos dois pilares da física moderna."
+    }
+  },
+  "cnt-40": {
+    "id": "cnt-40",
+    "name": {
+      "en": "Dopey",
+      "pt": "Dunga"
+    },
+    "decks": [],
+    "description": {
+      "en": "One of the seven dwarfs in Disney's 1937 animated film Snow White and the Seven Dwarfs.",
+      "pt": "Um dos sete anões no filme de animação de 1937 da Disney, Branca de Neve e os Sete Anões."
+    }
   },
   "cnt-400": {
     "id": "cnt-400",
@@ -4337,12 +3911,12 @@
       "en": "Mayra",
       "pt": "Mayra"
     },
+    "decks": ["special-td-bg"],
     "description": {
       "en": "A teacher from San Jose, CA.",
       "pt": "Uma professora de San Jose, CA."
     },
-    "exclusivity": "en",
-    "deck": "special-td-bg"
+    "exclusivity": "en"
   },
   "cnt-401": {
     "id": "cnt-401",
@@ -4350,11 +3924,11 @@
       "en": "Nicolas",
       "pt": "Nicolas"
     },
+    "decks": ["special-td"],
     "description": {
       "en": "A good boy",
       "pt": "Um bom menino"
-    },
-    "deck": "special-td"
+    }
   },
   "cnt-402": {
     "id": "cnt-402",
@@ -4362,11 +3936,11 @@
       "en": "Louis",
       "pt": "Louis"
     },
+    "decks": ["special-td"],
     "description": {
       "en": "A good boy",
       "pt": "Um bom menino"
-    },
-    "deck": "special-td"
+    }
   },
   "cnt-403": {
     "id": "cnt-403",
@@ -4374,11 +3948,11 @@
       "en": "Stephanie",
       "pt": "Stephanie"
     },
+    "decks": ["special-td"],
     "description": {
       "en": "A girl who goes to the mall with her friends.",
       "pt": "Uma garota que vai ao shopping com suas amigas."
-    },
-    "deck": "special-td"
+    }
   },
   "cnt-404": {
     "id": "cnt-404",
@@ -4386,11 +3960,11 @@
       "en": "Chupa-cabra",
       "pt": "Chupa-cabra"
     },
+    "decks": ["pop-culture"],
     "description": {
       "en": "A mythical creature that sucks the blood of livestock.",
       "pt": "Uma criatura mítica que suga o sangue do gado."
-    },
-    "deck": "pop-culture"
+    }
   },
   "cnt-405": {
     "id": "cnt-405",
@@ -4398,6 +3972,7 @@
       "en": "Anubis",
       "pt": "Anúbis"
     },
+    "decks": [],
     "description": {
       "en": "An Egyptian god associated with mummification and the afterlife.",
       "pt": "Um deus egípcio associado à mumificação e à vida após a morte."
@@ -4409,11 +3984,11 @@
       "en": "Chun-Li",
       "pt": "Chun-Li"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the video game Street Fighter.",
       "pt": "Um personagem do jogo de vídeo Street Fighter."
-    },
-    "deck": "games"
+    }
   },
   "cnt-407": {
     "id": "cnt-407",
@@ -4421,11 +3996,11 @@
       "en": "Pac-Man",
       "pt": "Pac-Man"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the video game",
       "pt": "Um personagem do video game"
-    },
-    "deck": "games"
+    }
   },
   "cnt-408": {
     "id": "cnt-408",
@@ -4433,11 +4008,11 @@
       "en": "Steve",
       "pt": "Steve"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the video game Minecraft.",
       "pt": "Um personagem do jogo de vídeo Minecraft."
-    },
-    "deck": "games"
+    }
   },
   "cnt-409": {
     "id": "cnt-409",
@@ -4445,11 +4020,23 @@
       "en": "Tracer",
       "pt": "Tracer"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the video game Overwatch.",
       "pt": "Um personagem do jogo de vídeo Overwatch."
+    }
+  },
+  "cnt-41": {
+    "id": "cnt-41",
+    "name": {
+      "en": "Dora the Explorer",
+      "pt": "Dora a exploradora"
     },
-    "deck": "games"
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the main protagonist of the animated television series Dora the Explorer.",
+      "pt": "Um personagem fictício e o protagonista principal da série de televisão animada Dora a Exploradora."
+    }
   },
   "cnt-410": {
     "id": "cnt-410",
@@ -4457,11 +4044,11 @@
       "en": "Ezio Auditore da Firenze",
       "pt": "Ezio Auditore da Firenze"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the video game Assassin's Creed.",
       "pt": "Um personagem do jogo de vídeo Assassin's Creed."
-    },
-    "deck": "games"
+    }
   },
   "cnt-411": {
     "id": "cnt-411",
@@ -4469,11 +4056,11 @@
       "en": "Scorpion",
       "pt": "Scorpion"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the video game Mortal Kombat.",
       "pt": "Um personagem do jogo de vídeo Mortal Kombat."
-    },
-    "deck": "games"
+    }
   },
   "cnt-412": {
     "id": "cnt-412",
@@ -4481,11 +4068,11 @@
       "en": "Kratos",
       "pt": "Kratos"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the video game God of War.",
       "pt": "Um personagem do jogo de vídeo God of War."
-    },
-    "deck": "games"
+    }
   },
   "cnt-413": {
     "id": "cnt-413",
@@ -4493,11 +4080,11 @@
       "en": "Master Chief",
       "pt": "Master Chief"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the video game Halo.",
       "pt": "Um personagem do jogo de vídeo Halo."
-    },
-    "deck": "games"
+    }
   },
   "cnt-414": {
     "id": "cnt-414",
@@ -4505,11 +4092,11 @@
       "en": "Carrie Bradshaw",
       "pt": "Carrie Bradshaw"
     },
+    "decks": ["television"],
     "description": {
       "en": "A character from the TV show Sex and the City",
       "pt": "Um personagem da série de televisão Sex and the City"
-    },
-    "deck": "television"
+    }
   },
   "cnt-415": {
     "id": "cnt-415",
@@ -4517,11 +4104,11 @@
       "en": "Walter White",
       "pt": "Walter White"
     },
+    "decks": ["television"],
     "description": {
       "en": "A character from the TV show Breaking Bad",
       "pt": "Um personagem da série de televisão Breaking Bad"
-    },
-    "deck": "television"
+    }
   },
   "cnt-416": {
     "id": "cnt-416",
@@ -4529,11 +4116,11 @@
       "en": "Tony Soprano",
       "pt": "Tony Soprano"
     },
+    "decks": ["television"],
     "description": {
       "en": "A character from the TV show The Sopranos",
       "pt": "Um personagem da série de televisão The Sopranos"
-    },
-    "deck": "television"
+    }
   },
   "cnt-417": {
     "id": "cnt-417",
@@ -4541,11 +4128,11 @@
       "en": "The Doctor",
       "pt": "The Doctor"
     },
+    "decks": ["television"],
     "description": {
       "en": "The main character of the TV show Doctor Who",
       "pt": "O personagem principal da série de televisão Doctor Who"
-    },
-    "deck": "television"
+    }
   },
   "cnt-418": {
     "id": "cnt-418",
@@ -4553,11 +4140,11 @@
       "en": "The Mandalorian",
       "pt": "The Mandalorian"
     },
+    "decks": ["television"],
     "description": {
       "en": "The main character of the TV show The Mandalorian",
       "pt": "O personagem principal da série de televisão The Mandalorian"
-    },
-    "deck": "television"
+    }
   },
   "cnt-419": {
     "id": "cnt-419",
@@ -4565,11 +4152,23 @@
       "en": "Jack Bauer",
       "pt": "Jack Bauer"
     },
+    "decks": ["television"],
     "description": {
       "en": "A character from the TV show 24",
       "pt": "Um personagem da série de televisão 24"
+    }
+  },
+  "cnt-42": {
+    "id": "cnt-42",
+    "name": {
+      "en": "Dorothy",
+      "pt": "Dorothy"
     },
-    "deck": "television"
+    "decks": [],
+    "description": {
+      "en": "The protagonist of L. Frank Baum's children's book The Wonderful Wizard of Oz.",
+      "pt": "A protagonista do livro infantil de L. Frank Baum, O Mágico de Oz."
+    }
   },
   "cnt-420": {
     "id": "cnt-420",
@@ -4577,11 +4176,11 @@
       "en": "Xena, the warrior princess",
       "pt": "Xena, a princesa guerreira"
     },
+    "decks": ["television"],
     "description": {
       "en": "A character from the TV show Xena: Warrior Princess",
       "pt": "Um personagem da série de televisão Xena: A Princesa Guerreira"
-    },
-    "deck": "television"
+    }
   },
   "cnt-421": {
     "id": "cnt-421",
@@ -4589,11 +4188,11 @@
       "en": "Geralt of Rivia",
       "pt": "Geralt de Rivia"
     },
+    "decks": ["games"],
     "description": {
       "en": "A character from the game and TV show The Witcher",
       "pt": "Um personagem da jogo e da série de televisão The Witcher"
-    },
-    "deck": "games"
+    }
   },
   "cnt-422": {
     "id": "cnt-422",
@@ -4601,11 +4200,11 @@
       "en": "A blowup doll",
       "pt": "Uma boneca inflável"
     },
+    "decks": ["pop-culture"],
     "description": {
       "en": "A friend for lonely nights.",
       "pt": "Uma amiga para noites solitárias."
     },
-    "deck": "pop-culture",
     "nsfw": true
   },
   "cnt-423": {
@@ -4614,11 +4213,760 @@
       "en": "Mia Khalifa",
       "pt": "Mia Khalifa"
     },
+    "decks": ["enterntainment"],
     "description": {
       "en": "A former adult content actress",
       "pt": "Uma ex-atriz  de conteúdo adulto"
     },
-    "deck": "enterntainment",
     "nsfw": true
+  },
+  "cnt-43": {
+    "id": "cnt-43",
+    "name": {
+      "en": "Dr. Evil",
+      "pt": "Dr. Evil"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character, the main antagonist of the Austin Powers film series.",
+      "pt": "Um personagem fictício, o principal antagonista da série de filmes Austin Powers."
+    }
+  },
+  "cnt-44": {
+    "id": "cnt-44",
+    "name": {
+      "en": "Dracula",
+      "pt": "Drácula"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the main antagonist of Bram Stoker's 1897 Gothic horror novel Dracula.",
+      "pt": "Um personagem fictício e o principal antagonista do romance de horror gótico de 1897 de Bram Stoker, Drácula."
+    }
+  },
+  "cnt-45": {
+    "id": "cnt-45",
+    "name": {
+      "en": "E. Coli",
+      "pt": "E. Coli"
+    },
+    "decks": [],
+    "description": {
+      "en": "A type of bacteria that lives in your intestines and in the intestines of animals.",
+      "pt": "Um tipo de bactéria que vive em seus intestinos e nos intestinos dos animais."
+    }
+  },
+  "cnt-46": {
+    "id": "cnt-46",
+    "name": {
+      "en": "Easter Bunny",
+      "pt": "Coelhinho da Páscoa"
+    },
+    "decks": [],
+    "description": {
+      "en": "A folkloric figure and symbol of Easter, depicted as a rabbit bringing Easter eggs.",
+      "pt": "Uma figura folclórica e símbolo da Páscoa, representada como um coelho trazendo ovos de Páscoa."
+    }
+  },
+  "cnt-47": {
+    "id": "cnt-47",
+    "name": {
+      "en": "Elvis",
+      "pt": "Elvis"
+    },
+    "decks": [],
+    "description": {
+      "en": "An American singer and actor, often referred to as the 'King of Rock and Roll'.",
+      "pt": "Um cantor e ator americano, frequentemente referido como o 'Rei do Rock and Roll'."
+    }
+  },
+  "cnt-48": {
+    "id": "cnt-48",
+    "name": {
+      "en": "Eve",
+      "pt": "Eva"
+    },
+    "decks": [],
+    "description": {
+      "en": "The first woman according to the creation story of the Abrahamic religions.",
+      "pt": "A primeira mulher de acordo com a história da criação das religiões abraâmicas."
+    }
+  },
+  "cnt-49": {
+    "id": "cnt-49",
+    "name": {
+      "en": "Ferris Bueller",
+      "pt": "Ferris Bueller"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the protagonist of the 1986 film Ferris Bueller's Day Off.",
+      "pt": "Um personagem fictício e o protagonista do filme de 1986 Curtindo a Vida Adoidado."
+    },
+    "exclusivity": "en"
+  },
+  "cnt-5": {
+    "id": "cnt-5",
+    "name": {
+      "en": "Alfred Nobel",
+      "pt": "Alfred Nobel"
+    },
+    "decks": ["base"],
+    "description": {
+      "en": "A Swedish chemist, engineer, and industrialist who invented dynamite and founded the Nobel Prizes.",
+      "pt": "Um químico, engenheiro e industrial sueco que inventou a dinamite e fundou os Prêmios Nobel."
+    }
+  },
+  "cnt-50": {
+    "id": "cnt-50",
+    "name": {
+      "en": "Frank Sinatra",
+      "pt": "Frank Sinatra"
+    },
+    "decks": [],
+    "description": {
+      "en": "An American singer, actor, and producer who was one of the most popular and influential musical artists of the 20th century.",
+      "pt": "Um cantor, ator e produtor americano que foi um dos artistas musicais mais populares e influentes do século XX."
+    }
+  },
+  "cnt-51": {
+    "id": "cnt-51",
+    "name": {
+      "en": "Freddy Krueger",
+      "pt": "Freddy Krueger"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the main antagonist of the A Nightmare on Elm Street film series.",
+      "pt": "Um personagem fictício e o principal antagonista da série de filmes A Nightmare on Elm Street."
+    }
+  },
+  "cnt-52": {
+    "id": "cnt-52",
+    "name": {
+      "en": "Gandalf",
+      "pt": "Gandalf"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and one of the main protagonists in J.R.R. Tolkien's novels The Hobbit and The Lord of the Rings.",
+      "pt": "Um personagem fictício e um dos principais protagonistas nos romances de J.R.R. Tolkien, O Hobbit e O Senhor dos Anéis."
+    }
+  },
+  "cnt-53": {
+    "id": "cnt-53",
+    "name": {
+      "en": "Gandhi",
+      "pt": "Gandhi"
+    },
+    "decks": [],
+    "description": {
+      "en": "An Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule.",
+      "pt": "Um advogado indiano, nacionalista anti-colonial e ético político que empregou resistência não violenta para liderar a campanha bem-sucedida pela independência da Índia do domínio britânico."
+    }
+  },
+  "cnt-54": {
+    "id": "cnt-54",
+    "name": {
+      "en": "Genghis Khan",
+      "pt": "Genghis Khan"
+    },
+    "decks": [],
+    "description": {
+      "en": "The founder and first Great Khan of the Mongol Empire.",
+      "pt": "O fundador e primeiro Grande Khan do Império Mongol."
+    }
+  },
+  "cnt-55": {
+    "id": "cnt-55",
+    "name": {
+      "en": "George Lucas",
+      "pt": "George Lucas"
+    },
+    "decks": [],
+    "description": {
+      "en": "An American filmmaker and entrepreneur known for creating the Star Wars and Indiana Jones franchises.",
+      "pt": "Um cineasta e empresário americano conhecido por criar as franquias Star Wars e Indiana Jones."
+    }
+  },
+  "cnt-56": {
+    "id": "cnt-56",
+    "name": {
+      "en": "George Washington",
+      "pt": "George Washington"
+    },
+    "decks": [],
+    "description": {
+      "en": "The first President of the United States, a Founding Father, and the Commander-in-Chief of the Continental Army during the American Revolutionary War.",
+      "pt": "O primeiro presidente dos Estados Unidos, um dos Pais Fundadores e o Comandante-em-Chefe do Exército Continental durante a Guerra Revolucionária Americana."
+    }
+  },
+  "cnt-57": {
+    "id": "cnt-57",
+    "name": {
+      "en": "Glinda the Good Witch",
+      "pt": "Glinda, a Bruxa Boa"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character in the Land of Oz created by American author L. Frank Baum.",
+      "pt": "Um personagem fictício na Terra de Oz criado pelo autor americano L. Frank Baum."
+    }
+  },
+  "cnt-58": {
+    "id": "cnt-58",
+    "name": {
+      "en": "Godzilla",
+      "pt": "Godzilla"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional monster, or kaiju, originating from a series of Japanese films.",
+      "pt": "Um monstro fictício, ou kaiju, originário de uma série de filmes japoneses."
+    }
+  },
+  "cnt-59": {
+    "id": "cnt-59",
+    "name": {
+      "en": "Good Luck Care Bear",
+      "pt": "Ursinho Carinhoso"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character in the Care Bears franchise.",
+      "pt": "Um personagem fictício na franquia Ursinhos Carinhosos."
+    }
+  },
+  "cnt-6": {
+    "id": "cnt-6",
+    "name": {
+      "en": "Aphrodite",
+      "pt": "Afrodite"
+    },
+    "decks": ["base"],
+    "description": {
+      "en": "The Greek goddess of love, beauty, pleasure, and procreation.",
+      "pt": "A deusa grega do amor, beleza, prazer e procriação."
+    }
+  },
+  "cnt-60": {
+    "id": "cnt-60",
+    "name": {
+      "en": "Grim Reaper",
+      "pt": "Ceifador"
+    },
+    "decks": [],
+    "description": {
+      "en": "A personification of death in the form of a cloaked skeleton wielding a large scythe.",
+      "pt": "Uma personificação da morte na forma de um esqueleto encapuzado empunhando uma grande foice."
+    }
+  },
+  "cnt-61": {
+    "id": "cnt-61",
+    "name": {
+      "en": "Han Solo",
+      "pt": "Han Solo"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character in the Star Wars franchise.",
+      "pt": "Um personagem fictício na franquia Star Wars."
+    }
+  },
+  "cnt-62": {
+    "id": "cnt-62",
+    "name": {
+      "en": "Hannibal Lecter",
+      "pt": "Hannibal Lecter"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the main antagonist of Thomas Harris' novels Red Dragon, The Silence of the Lambs, and Hannibal.",
+      "pt": "Um personagem fictício e o principal antagonista dos romances de Thomas Harris, Dragão Vermelho, O Silêncio dos Inocentes e Hannibal."
+    }
+  },
+  "cnt-63": {
+    "id": "cnt-63",
+    "name": {
+      "en": "Hello Kitty",
+      "pt": "Hello Kitty"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character produced by the Japanese company Sanrio.",
+      "pt": "Um personagem fictício produzido pela empresa japonesa Sanrio."
+    }
+  },
+  "cnt-64": {
+    "id": "cnt-64",
+    "name": {
+      "en": "Hercules",
+      "pt": "Hércules"
+    },
+    "decks": [],
+    "description": {
+      "en": "A Roman hero and god, the son of Jupiter and Alcmene, and the greatest of the Greek heroes.",
+      "pt": "Um herói e deus romano, filho de Júpiter e Alcmena, e o maior dos heróis gregos."
+    }
+  },
+  "cnt-65": {
+    "id": "cnt-65",
+    "name": {
+      "en": "Hitler",
+      "pt": "Hitler"
+    },
+    "decks": [],
+    "description": {
+      "en": "A German politician and leader of the Nazi Party who rose to power as Chancellor of Germany in 1933 and later Führer in 1934.",
+      "pt": "Um político alemão e líder do Partido Nazista que chegou ao poder como Chanceler da Alemanha em 1933 e mais tarde Führer em 1934."
+    }
+  },
+  "cnt-66": {
+    "id": "cnt-66",
+    "name": {
+      "en": "Honey Badger",
+      "pt": "Texugo"
+    },
+    "decks": [],
+    "description": {
+      "en": "A mammal native to Africa, Southwest Asia, and the Indian subcontinent.",
+      "pt": "Um mamífero nativo da África, Sudoeste Asiático e subcontinente indiano."
+    },
+    "exclusivity": "en"
+  },
+  "cnt-67": {
+    "id": "cnt-67",
+    "name": {
+      "en": "Houdini",
+      "pt": "Houdini"
+    },
+    "decks": [],
+    "description": {
+      "en": "A Hungarian-born American illusionist and stunt performer, noted for his sensational escape acts.",
+      "pt": "Um ilusionista e artista de acrobacias americano nascido na Hungria, conhecido por seus atos de fuga sensacionais."
+    }
+  },
+  "cnt-68": {
+    "id": "cnt-68",
+    "name": {
+      "en": "Indiana Jones",
+      "pt": "Indiana Jones"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the protagonist of the Indiana Jones franchise.",
+      "pt": "Um personagem fictício e o protagonista da franquia Indiana Jones."
+    }
+  },
+  "cnt-69": {
+    "id": "cnt-69",
+    "name": {
+      "en": "Jack the Ripper",
+      "pt": "Jack, o estripador"
+    },
+    "decks": [],
+    "description": {
+      "en": "The unidentified serial killer who terrorized London in 1888.",
+      "pt": "O assassino em série não identificado que aterrorizou Londres em 1888."
+    }
+  },
+  "cnt-7": {
+    "id": "cnt-7",
+    "name": {
+      "en": "Aquaman",
+      "pt": "Aquaman"
+    },
+    "decks": ["base"],
+    "description": {
+      "en": "A superhero appearing in American comic books published by DC Comics.",
+      "pt": "Um super-herói que aparece em quadrinhos americanos publicados pela DC Comics."
+    }
+  },
+  "cnt-70": {
+    "id": "cnt-70",
+    "name": {
+      "en": "Jackie Chan",
+      "pt": "Jackie Chan"
+    },
+    "decks": ["entertainment"],
+    "description": {
+      "en": "A Hong Kong martial artist, actor, film director, producer, stuntman, and singer.",
+      "pt": "Um artista marcial, ator, diretor de cinema, produtor, dublê e cantor de Hong Kong."
+    }
+  },
+  "cnt-71": {
+    "id": "cnt-71",
+    "name": {
+      "en": "James Bond",
+      "pt": "James Bond"
+    },
+    "decks": ["movies"],
+    "description": {
+      "en": "A fictional character created by British journalist and novelist Ian Fleming.",
+      "pt": "Um personagem fictício criado pelo jornalista e romancista britânico Ian Fleming."
+    }
+  },
+  "cnt-72": {
+    "id": "cnt-72",
+    "name": {
+      "en": "Jaws",
+      "pt": "Tubarão"
+    },
+    "decks": ["movies"],
+    "description": {
+      "en": "A 1975 American thriller film directed by Steven Spielberg.",
+      "pt": "Um filme de suspense americano de 1975 dirigido por Steven Spielberg."
+    }
+  },
+  "cnt-73": {
+    "id": "cnt-73",
+    "name": {
+      "en": "Joan of Arc",
+      "pt": "Joana D'Arc"
+    },
+    "decks": ["history"],
+    "description": {
+      "en": "A French heroine and Roman Catholic saint who led the French army to several victories during the Hundred Years' War.",
+      "pt": "Uma heroína francesa e santa católica romana que liderou o exército francês para várias vitórias durante a Guerra dos Cem Anos."
+    }
+  },
+  "cnt-74": {
+    "id": "cnt-74",
+    "name": {
+      "en": "Judas",
+      "pt": "Judas"
+    },
+    "decks": ["religion"],
+    "description": {
+      "en": "A disciple of Jesus who betrayed him according to the New Testament.",
+      "pt": "Um discípulo de Jesus que o traiu de acordo com o Novo Testamento."
+    }
+  },
+  "cnt-75": {
+    "id": "cnt-75",
+    "name": {
+      "en": "Julius Caesar",
+      "pt": "Julius Caesar"
+    },
+    "decks": ["history"],
+    "description": {
+      "en": "A Roman general, statesman, and historian who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.",
+      "pt": "Um general romano, estadista e historiador que desempenhou um papel crítico nos eventos que levaram à queda da República Romana e ao surgimento do Império Romano."
+    }
+  },
+  "cnt-76": {
+    "id": "cnt-76",
+    "name": {
+      "en": "Kenny",
+      "pt": "Kenny"
+    },
+    "decks": ["animation"],
+    "description": {
+      "en": "A fictional character in the animated television series South Park.",
+      "pt": "Um personagem fictício na série de televisão animada South Park."
+    }
+  },
+  "cnt-77": {
+    "id": "cnt-77",
+    "name": {
+      "en": "Kermit the Frog",
+      "pt": "Caco, o sapo"
+    },
+    "decks": ["television"],
+    "description": {
+      "en": "A Muppet character and Jim Henson's most well-known creation.",
+      "pt": "Um personagem Muppet e a criação mais conhecida de Jim Henson."
+    }
+  },
+  "cnt-78": {
+    "id": "cnt-78",
+    "name": {
+      "en": "King Arthur",
+      "pt": "Rei Arthur"
+    },
+    "decks": ["history"],
+    "description": {
+      "en": "A legendary British leader who, according to medieval histories and romances, led the defense of Britain against Saxon invaders in the late 5th and early 6th centuries.",
+      "pt": "Um líder britânico lendário que, de acordo com histórias e romances medievais, liderou a defesa da Grã-Bretanha contra invasores saxões nos finais do século V e início do século VI."
+    }
+  },
+  "cnt-79": {
+    "id": "cnt-79",
+    "name": {
+      "en": "King Kong",
+      "pt": "King Kong"
+    },
+    "decks": ["movies"],
+    "description": {
+      "en": "A fictional giant movie monster resembling a colossal gorilla.",
+      "pt": "Um monstro de filme gigante fictício que se assemelha a um gorila colossal."
+    }
+  },
+  "cnt-8": {
+    "id": "cnt-8",
+    "name": {
+      "en": "Arnold Schwarzenegger",
+      "pt": "Arnold Schwarzenegger"
+    },
+    "decks": ["base"],
+    "description": {
+      "en": "An Austrian-American actor, producer, businessman, retired bodybuilder, and former politician who served as the 38th Governor of California.",
+      "pt": "Um ator, produtor, empresário, fisiculturista aposentado e ex-político austríaco-americano que serviu como o 38º Governador da Califórnia."
+    }
+  },
+  "cnt-80": {
+    "id": "cnt-80",
+    "name": {
+      "en": "Lara Croft",
+      "pt": "Lara Croft"
+    },
+    "decks": ["games"],
+    "description": {
+      "en": "A fictional character and the protagonist of the Tomb Raider video game series.",
+      "pt": "Um personagem fictício e o protagonista da série de jogos de vídeo Tomb Raider."
+    }
+  },
+  "cnt-81": {
+    "id": "cnt-81",
+    "name": {
+      "en": "Lassie",
+      "pt": "Lassie"
+    },
+    "decks": ["television"],
+    "description": {
+      "en": "A fictional character and the protagonist of a novel, a radio show, and several television shows.",
+      "pt": "Um personagem fictício e o protagonista de um romance, um programa de rádio e vários programas de televisão."
+    }
+  },
+  "cnt-82": {
+    "id": "cnt-82",
+    "name": {
+      "en": "Leonardo Da Vinci",
+      "pt": "Leonardo Da Vinci"
+    },
+    "decks": ["history"],
+    "description": {
+      "en": "An Italian polymath of the Renaissance whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography.",
+      "pt": "Um polímata italiano do Renascimento cujas áreas de interesse incluíam invenção, pintura, escultura, arquitetura, ciência, música, matemática, engenharia, literatura, anatomia, geologia, astronomia, botânica, escrita, história e cartografia."
+    }
+  },
+  "cnt-83": {
+    "id": "cnt-83",
+    "name": {
+      "en": "Lex Luthor",
+      "pt": "Lex Luthor"
+    },
+    "decks": ["characters"],
+    "description": {
+      "en": "A fictional character and the main antagonist of Superman in DC Comics.",
+      "pt": "Um personagem fictício e o principal antagonista do Superman nos quadrinhos da DC."
+    }
+  },
+  "cnt-84": {
+    "id": "cnt-84",
+    "name": {
+      "en": "Little Red Riding Hood",
+      "pt": "Chapeuzinho Vermelho"
+    },
+    "decks": [],
+    "description": {
+      "en": "A European fairy tale about a young girl and a Big Bad Wolf.",
+      "pt": "Um conto de fadas europeu sobre uma menina e um Lobo Mau."
+    }
+  },
+  "cnt-85": {
+    "id": "cnt-85",
+    "name": {
+      "en": "Loch Ness Monster",
+      "pt": "Monstro do Lago Ness"
+    },
+    "decks": [],
+    "description": {
+      "en": "A creature said to inhabit Loch Ness in the Scottish Highlands.",
+      "pt": "Uma criatura que se diz habitar o Lago Ness nas Terras Altas Escocesas."
+    }
+  },
+  "cnt-86": {
+    "id": "cnt-86",
+    "name": {
+      "en": "Lois Lane",
+      "pt": "Lois Lane"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the love interest of Superman in DC Comics.",
+      "pt": "Um personagem fictício e o interesse amoroso do Superman nos quadrinhos da DC."
+    }
+  },
+  "cnt-87": {
+    "id": "cnt-87",
+    "name": {
+      "en": "Loki",
+      "pt": "Loki"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character appearing in American comic books published by Marvel Comics.",
+      "pt": "Um personagem fictício que aparece em quadrinhos americanos publicados pela Marvel Comics."
+    }
+  },
+  "cnt-88": {
+    "id": "cnt-88",
+    "name": {
+      "en": "Lorax",
+      "pt": "Lorax"
+    },
+    "decks": [],
+    "description": {
+      "en": "A character created by Dr. Seuss who speaks for the trees.",
+      "pt": "Um personagem criado por Dr. Seuss que fala pelos árvores."
+    },
+    "exclusivity": "en"
+  },
+  "cnt-89": {
+    "id": "cnt-89",
+    "name": {
+      "en": "Luke Skywalker",
+      "pt": "Luke Skywalker"
+    },
+    "decks": [],
+    "description": {
+      "en": "A fictional character and the main protagonist of the original film trilogy of the Star Wars franchise.",
+      "pt": "Um personagem fictício e o protagonista principal da trilogia original de filmes da franquia Star Wars."
+    }
+  },
+  "cnt-9": {
+    "id": "cnt-9",
+    "name": {
+      "en": "Austin Powers",
+      "pt": "Austin Powers"
+    },
+    "decks": ["movies"],
+    "description": {
+      "en": "A British secret agent and the main protagonist of the Austin Powers film series.",
+      "pt": "Um agente secreto britânico e o protagonista principal da série de filmes Austin Powers."
+    }
+  },
+  "cnt-90": {
+    "id": "cnt-90",
+    "name": {
+      "en": "Madonna",
+      "pt": "Madonna"
+    },
+    "decks": ["music"],
+    "description": {
+      "en": "An American singer, songwriter, and actress.",
+      "pt": "Uma cantora, compositora e atriz americana."
+    }
+  },
+  "cnt-91": {
+    "id": "cnt-91",
+    "name": {
+      "en": "Marie Antoinette",
+      "pt": "Maria Antonieta"
+    },
+    "decks": ["history"],
+    "description": {
+      "en": "The last Queen of France before the French Revolution.",
+      "pt": "A última rainha da França antes da Revolução Francesa."
+    }
+  },
+  "cnt-92": {
+    "id": "cnt-92",
+    "name": {
+      "en": "Marilyn Monroe",
+      "pt": "Marilyn Monroe"
+    },
+    "decks": ["movies"],
+    "description": {
+      "en": "An American actress, model, and singer.",
+      "pt": "Uma atriz, modelo e cantora americana."
+    }
+  },
+  "cnt-93": {
+    "id": "cnt-93",
+    "name": {
+      "en": "Martin Luther King Jr.",
+      "pt": "Martin Luther King Jr."
+    },
+    "decks": ["history"],
+    "description": {
+      "en": "An American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968.",
+      "pt": "Um ministro batista americano e ativista que se tornou o porta-voz e líder mais visível no movimento pelos direitos civis de 1955 até seu assassinato em 1968."
+    }
+  },
+  "cnt-94": {
+    "id": "cnt-94",
+    "name": {
+      "en": "Medusa",
+      "pt": "Medusa"
+    },
+    "decks": [],
+    "description": {
+      "en": "A monster, a Gorgon, generally described as a wing snake-haired",
+      "pt": "Um monstro, uma Górgona, geralmente descrita como uma serpente alada"
+    }
+  },
+  "cnt-95": {
+    "id": "cnt-95",
+    "name": {
+      "en": "Michael Jackson",
+      "pt": "Michael Jackson"
+    },
+    "decks": ["music"],
+    "description": {
+      "en": "An American singer, songwriter, and dancer.",
+      "pt": "Um cantor, compositor e dançarino americano."
+    }
+  },
+  "cnt-96": {
+    "id": "cnt-96",
+    "name": {
+      "en": "Moses",
+      "pt": "Moises"
+    },
+    "decks": ["religion"],
+    "description": {
+      "en": "A prophet in the Abrahamic religions who led the Israelites out of Egypt.",
+      "pt": "Um profeta nas religiões abraâmicas que liderou os israelitas para fora do Egito."
+    }
+  },
+  "cnt-97": {
+    "id": "cnt-97",
+    "name": {
+      "en": "Mother Teresa",
+      "pt": "Madre Teresa"
+    },
+    "decks": ["history"],
+    "description": {
+      "en": "A Roman Catholic nun and missionary who devoted her life to helping the poor and sick in India.",
+      "pt": "Uma freira e missionária católica romana que dedicou sua vida a ajudar os pobres e doentes na Índia."
+    }
+  },
+  "cnt-98": {
+    "id": "cnt-98",
+    "name": {
+      "en": "Mr. Kool-aid",
+      "pt": "Mr. Kool-aid"
+    },
+    "decks": ["pop-culture"],
+    "description": {
+      "en": "A mascot character for the Kool-Aid brand.",
+      "pt": "Um personagem mascote para a marca Kool-Aid."
+    },
+    "exclusivity": "en"
+  },
+  "cnt-99": {
+    "id": "cnt-99",
+    "name": {
+      "en": "Mr. Rogers",
+      "pt": "Mr. Rogers"
+    },
+    "decks": ["television"],
+    "description": {
+      "en": "An American television personality, musician, puppeteer, writer, and producer.",
+      "pt": "Uma personalidade da televisão americana, músico, marionetista, escritor e produtor."
+    },
+    "exclusivity": "en"
   }
 }
