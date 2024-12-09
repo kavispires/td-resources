@@ -1913,6 +1913,10 @@
       "en": "Lindsay Lohan",
       "pt": "Lindsay Lohan"
     },
+    "description": {
+      "en": "An American actress, singer, songwriter, and businesswoman.",
+      "pt": "Uma atriz, cantora, compositora e empresária americana."
+    },
     "decks": ["movies"]
   },
   "cnt-242": {
@@ -2114,6 +2118,10 @@
       "en": "Wilson",
       "pt": "Wilson"
     },
+    "description": {
+      "en": "A fictional character in the 2000 film Cast Away.",
+      "pt": "Um personagem fictício no filme de 2000 Náufrago."
+    },
     "decks": ["movies"]
   },
   "cnt-259": {
@@ -2121,6 +2129,10 @@
     "name": {
       "en": "Dory",
       "pt": "Dory"
+    },
+    "description": {
+      "en": "A fictional character in the 2003 film Finding Nemo.",
+      "pt": "Um personagem fictício no filme de 2003 Procurando Nemo."
     },
     "decks": ["cartoon"]
   },
@@ -2468,6 +2480,10 @@
       "en": "Betty White",
       "pt": "Betty White"
     },
+    "description": {
+      "en": "An American actress and comedian.",
+      "pt": "Uma atriz e comediante americana."
+    },
     "decks": ["television"],
     "exclusivity": "en"
   },
@@ -2477,13 +2493,21 @@
       "en": "Miley Cyrus",
       "pt": "Miley Cyrus"
     },
-    "decks": ["music", "television"]
+    "description": {
+      "en": "An American singer, songwriter, and actress.",
+      "pt": "Uma cantora, compositora e atriz americana."
+    },
+    "decks": ["music"]
   },
   "cnt-287": {
     "id": "cnt-287",
     "name": {
       "en": "Hannah Montana",
       "pt": "Hannah Montana"
+    },
+    "description": {
+      "en": "A fictional character in the American television series Hannah Montana.",
+      "pt": "Um personagem fictício na série de televisão americana Hannah Montana."
     },
     "decks": ["television"]
   },
@@ -2493,6 +2517,10 @@
       "en": "Suzanne Crazy Eyes",
       "pt": "Suzanne Crazy Eyes"
     },
+    "description": {
+      "en": "A fictional character in the American television series Orange Is the New Black.",
+      "pt": "Um personagem fictício na série de televisão americana Orange Is the New Black."
+    },
     "decks": ["television"]
   },
   "cnt-289": {
@@ -2500,6 +2528,10 @@
     "name": {
       "en": "Tom Brady",
       "pt": "Tom Brady"
+    },
+    "description": {
+      "en": "An American football quarterback.",
+      "pt": "Um quarterback de futebol americano."
     },
     "decks": ["sports"],
     "exclusivity": "en"
@@ -2531,6 +2563,10 @@
       "en": "Lionel Messi",
       "pt": "Lionel Messi"
     },
+    "description": {
+      "en": "An Argentine professional footballer.",
+      "pt": "Um jogador de futebol profissional argentino."
+    },
     "decks": ["sports"]
   },
   "cnt-292": {
@@ -2538,6 +2574,10 @@
     "name": {
       "en": "Serena Williams",
       "pt": "Serena Williams"
+    },
+    "description": {
+      "en": "An American professional tennis player.",
+      "pt": "Uma jogadora de tênis profissional americana."
     },
     "decks": ["sports"],
     "exclusivity": "en"
@@ -2548,6 +2588,10 @@
       "en": "Babadook",
       "pt": "Babadook"
     },
+    "description": {
+      "en": "A 2014 Australian psychological horror film.",
+      "pt": "Um filme de terror psicológico australiano de 2014."
+    },
     "decks": ["movies"]
   },
   "cnt-294": {
@@ -2555,6 +2599,10 @@
     "name": {
       "en": "Him",
       "pt": "Ele"
+    },
+    "description": {
+      "en": "A fictional character in the Powerpuff girls",
+      "pt": "Um personagem fictício nas Meninas Superpoderosas."
     },
     "decks": ["television"]
   },
@@ -2573,6 +2621,10 @@
       "en": "Orko",
       "pt": "Gorpo"
     },
+    "description": {
+      "en": "A fictional character in the Masters of the Universe franchise.",
+      "pt": "Um personagem fictício na franquia Masters of the Universe."
+    },
     "decks": ["television"]
   },
   "cnt-297": {
@@ -2580,6 +2632,10 @@
     "name": {
       "en": "Monkey D. Luffy",
       "pt": "Monkey D. Luffy"
+    },
+    "description": {
+      "en": "A fictional character in the One Piece manga series.",
+      "pt": "Um personagem fictício na série de mangá One Piece."
     },
     "decks": ["anime"]
   },
@@ -2589,6 +2645,10 @@
       "en": "Jesus",
       "pt": "Jesus"
     },
+    "description": {
+      "en": "A central figure of Christianity.",
+      "pt": "Uma figura central do cristianismo."
+    },
     "decks": ["base", "mythology"]
   },
   "cnt-299": {
@@ -2596,6 +2656,10 @@
     "name": {
       "en": "Lizzo",
       "pt": "Lizzo"
+    },
+    "description": {
+      "en": "An American singer, rapper, and songwriter.",
+      "pt": "Uma cantora, rapper e compositora americana."
     },
     "decks": ["music"]
   },
@@ -2629,6 +2693,10 @@
       "en": "Ted Lasso",
       "pt": "Ted Lasso"
     },
+    "description": {
+      "en": "An American television series.",
+      "pt": "Uma série de televisão americana."
+    },
     "decks": ["television"]
   },
   "cnt-301": {
@@ -2655,6 +2723,10 @@
       "en": "M3gan",
       "pt": "M3gan"
     },
+    "description": {
+      "en": "A 2021 American horror film.",
+      "pt": "Um filme de terror americano de 2021."
+    },
     "decks": ["movies"]
   },
   "cnt-304": {
@@ -2662,6 +2734,10 @@
     "name": {
       "en": "Michelle Yeoh",
       "pt": "Michelle Yeoh"
+    },
+    "description": {
+      "en": "A Malaysian actress.",
+      "pt": "Uma atriz malaia."
     },
     "decks": ["movies"]
   },
@@ -2755,6 +2831,10 @@
       "en": "Willy Wonka",
       "pt": "Willy Wonka"
     },
+    "description": {
+      "en": "A fictional character in the 1964 novel Charlie and the Chocolate Factory by Roald Dahl.",
+      "pt": "Um personagem fictício no romance de 1964 Charlie e a Fábrica de Chocolate de Roald Dahl."
+    },
     "decks": ["movies"]
   },
   "cnt-312": {
@@ -2762,6 +2842,10 @@
     "name": {
       "en": "Barbie",
       "pt": "Barbie"
+    },
+    "description": {
+      "en": "A fashion doll manufactured by the American toy company Mattel, Inc.",
+      "pt": "Uma boneca de moda fabricada pela empresa americana de brinquedos Mattel, Inc."
     },
     "decks": ["base"]
   },
@@ -2771,6 +2855,10 @@
       "en": "Jay Gatsby",
       "pt": "Jay Gatsby"
     },
+    "description": {
+      "en": "A fictional character in the 1925 novel The Great Gatsby by F. Scott Fitzgerald.",
+      "pt": "Um personagem fictício no romance de 1925 O Grande Gatsby de F. Scott Fitzgerald."
+    },
     "decks": ["literature"]
   },
   "cnt-314": {
@@ -2779,6 +2867,10 @@
       "en": "Fred Flintstone",
       "pt": "Fred Flintstone"
     },
+    "description": {
+      "en": "A fictional character in the animated television series The Flintstones.",
+      "pt": "Um personagem fictício na série de televisão animada Os Flintstones."
+    },
     "decks": ["cartoon"]
   },
   "cnt-315": {
@@ -2786,6 +2878,10 @@
     "name": {
       "en": "Zorro",
       "pt": "Zorro"
+    },
+    "description": {
+      "en": "A fictional character created in 1919 by New York–based pulp writer Johnston McCulley.",
+      "pt": "Um personagem fictício criado em 1919 pelo escritor de pulp de Nova York Johnston McCulley."
     },
     "decks": ["television"]
   },
@@ -3062,6 +3158,10 @@
       "en": "BTS",
       "pt": "BTS"
     },
+    "description": {
+      "en": "A South Korean boy group",
+      "pt": "Um grupo de garotos sul-coreano"
+    },
     "decks": ["music"]
   },
   "cnt-337": {
@@ -3069,6 +3169,10 @@
     "name": {
       "en": "Borat",
       "pt": "Borat"
+    },
+    "description": {
+      "en": "A fictional character from the movie Borat.",
+      "pt": "Um personagem fictício do filme Borat."
     },
     "decks": ["movies"]
   },
@@ -3078,6 +3182,10 @@
       "en": "Eminem",
       "pt": "Eminem"
     },
+    "description": {
+      "en": "An American rapper, songwriter, and record producer.",
+      "pt": "Um rapper, compositor e produtor musical americano."
+    },
     "decks": ["music"]
   },
   "cnt-339": {
@@ -3085,6 +3193,10 @@
     "name": {
       "en": "Simon Cowell",
       "pt": "Simon Cowell"
+    },
+    "description": {
+      "en": "An English television personality, music executive, and talent show judge.",
+      "pt": "Uma personalidade da televisão inglesa, executivo musical e juiz de talentos."
     },
     "decks": ["music", "television"]
   },
@@ -3105,6 +3217,10 @@
     "name": {
       "en": "Gordon Ramsay",
       "pt": "Gordon Ramsay"
+    },
+    "description": {
+      "en": "A British chef, restaurateur, writer, and television personality.",
+      "pt": "Um chef britânico, restaurateur, escritor e personalidade da televisão."
     },
     "decks": ["television"]
   },
@@ -3566,8 +3682,8 @@
     "id": "cnt-375",
     "decks": ["movies", "mythology"],
     "description": {
-      "en": "?",
-      "pt": "?"
+      "en": "A character from the movie Moana.",
+      "pt": "Um personagem do filme Moana."
     }
   },
   "cnt-376": {
@@ -3920,7 +4036,7 @@
     },
     "decks": ["special-td-bg"],
     "description": {
-      "en": "A sexy teacher from San Jose, CA.",
+      "en": "A sexy teacher from San Jose, CA, Queen of the Raccoons.",
       "pt": "Uma professora de San Jose, CA."
     },
     "exclusivity": "en"
