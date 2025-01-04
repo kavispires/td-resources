@@ -548,8 +548,8 @@
 		"spriteId": "sign-35",
 		"priority": 4,
 		"keywords": {
-			"en": "valuable precious, rare, money, sentimental value",
-			"pt": "valioso precioso, raro, dinheiro, valor sentimental"
+			"en": "valuable precious rare money sentimental value cheap expensive price purchase",
+			"pt": "valioso precioso raro dinheiro valor sentimental caro barato preço compra chique"
 		}
 	},
 	"war": {
@@ -569,7 +569,7 @@
 		"oppositeId": "col",
 		"keywords": {
 			"en": "warm heat, cozy, temperature",
-			"pt": "quente calor, aconchegante, temperatura"
+			"pt": "quente calor aconchegante temperatura frio gelado fogo queimar"
 		}
 	},
 	"wea": {
@@ -960,7 +960,7 @@
 		"priority": 42,
 		"keywords": {
 			"en": "part piece portion slice section",
-			"pt": "parte pedaço porção fatia seção"
+			"pt": "parte peça pedaço porção fatia seção"
 		}
 	}
 }

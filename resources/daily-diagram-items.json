@@ -6560,6 +6560,26 @@
     "syllables": "te|cla|do",
     "updatedAt": 1730692158972
   },
+  "348": {
+    "name": "neve",
+    "itemId": "348",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-3-pt",
+      "ddr-15-pt",
+      "ddr-8-pt",
+      "ddr-29-pt",
+      "ddr-38-pt",
+      "ddr-24-pt",
+      "ddr-26-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "ne|ve",
+    "updatedAt": 1735954212909
+  },
   "351": {
     "name": "lápide",
     "itemId": "351",
@@ -23506,6 +23526,31 @@
     "syllables": "tem|pe|ros",
     "updatedAt": 1730746364398
   },
+  "1583": {
+    "name": "barras",
+    "itemId": "1583",
+    "rules": [
+      "ddr-1-pt",
+      "ddr-44-pt",
+      "ddr-42-pt",
+      "ddr-3-pt",
+      "ddr-15-pt",
+      "ddr-16-pt",
+      "ddr-27-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-39-pt",
+      "ddr-40-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt",
+      "ddr-20-pt"
+    ],
+    "stressedSyllable": 1,
+    "syllables": "bar|ras",
+    "updatedAt": 1735954204420
+  },
   "1584": {
     "name": "condor",
     "itemId": "1584",
@@ -25907,7 +25952,6 @@
     "itemId": "1721",
     "rules": [
       "ddr-1-pt",
-      "ddr-5-pt",
       "ddr-43-pt",
       "ddr-41-pt",
       "ddr-3-pt",
@@ -25925,7 +25969,7 @@
     ],
     "stressedSyllable": 0,
     "syllables": "mei|ão",
-    "updatedAt": 1730745700001
+    "updatedAt": 1735954122148
   },
   "1723": {
     "name": "jujuba",
@@ -26305,6 +26349,33 @@
     "stressedSyllable": 1,
     "syllables": "on|ça",
     "updatedAt": 1730748235713
+  },
+  "1746": {
+    "name": "bicho-pau",
+    "itemId": "1746",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-5-pt",
+      "ddr-43-pt",
+      "ddr-41-pt",
+      "ddr-4-pt",
+      "ddr-14-pt",
+      "ddr-7-pt",
+      "ddr-12-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-48-pt",
+      "ddr-30-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "bi|cho-|pau",
+    "updatedAt": 1735954234920
   },
   "1747": {
     "name": "besouro",
@@ -37094,6 +37165,34 @@
     "stressedSyllable": 0,
     "syllables": "con|ten|ção",
     "updatedAt": 1730750903399
+  },
+  "2593": {
+    "name": "chassi",
+    "itemId": "2593",
+    "rules": [
+      "ddr-2-pt",
+      "ddr-43-pt",
+      "ddr-42-pt",
+      "ddr-3-pt",
+      "ddr-14-pt",
+      "ddr-16-pt",
+      "ddr-7-pt",
+      "ddr-27-pt",
+      "ddr-10-pt",
+      "ddr-28-pt",
+      "ddr-32-pt",
+      "ddr-34-pt",
+      "ddr-35-pt",
+      "ddr-47-pt",
+      "ddr-38-pt",
+      "ddr-23-pt",
+      "ddr-26-pt",
+      "ddr-21-pt",
+      "ddr-19-pt"
+    ],
+    "stressedSyllable": 0,
+    "syllables": "chas|si",
+    "updatedAt": 1735954287557
   },
   "2595": {
     "name": "scanner",
