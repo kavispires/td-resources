@@ -5517,7 +5517,7 @@
     "id": "433",
     "name": {
       "en": "vibrator",
-      "pt": "vibrator"
+      "pt": "vibrador"
     },
     "decks": [
       "alien",
@@ -8518,8 +8518,11 @@
     "id": "679",
     "name": {
       "en": "beer",
-      "pt": "cerveja"
+      "pt": "chope"
     },
+    "aliasesPt": [
+      "cerveja"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -27504,7 +27507,7 @@
   "2303": {
     "name": {
       "en": "fertilizer",
-      "pt": "festilizante"
+      "pt": "fertilizante"
     },
     "id": "2303",
     "decks": [
@@ -32097,11 +32100,11 @@
     "groups": {}
   },
   "2689": {
-    "id": "2689",
     "name": {
       "en": "wendigo",
       "pt": "bicho-papão"
     },
+    "id": "2689",
     "aliasesEn": [
       "monster"
     ],
@@ -32115,11 +32118,11 @@
     "groups": []
   },
   "2690": {
-    "id": "2690",
     "name": {
       "en": "panettone",
       "pt": "panetone"
     },
+    "id": "2690",
     "decks": [
       "alien",
       "dream",
@@ -32129,11 +32132,11 @@
     "groups": []
   },
   "2691": {
-    "id": "2691",
     "name": {
       "en": "koto",
       "pt": "koto"
     },
+    "id": "2691",
     "aliasesPt": [
       "cítara japonesa"
     ],
@@ -32144,11 +32147,11 @@
     "groups": []
   },
   "2692": {
-    "id": "2692",
     "name": {
       "en": "bass",
       "pt": "baixo"
     },
+    "id": "2692",
     "decks": [
       "alien",
       "dream",
@@ -32159,11 +32162,11 @@
     "groups": []
   },
   "2693": {
-    "id": "2693",
     "name": {
       "en": "teleprompter",
       "pt": "teleprompter"
     },
+    "id": "2693",
     "decks": [
       "alien",
       "dream",
@@ -32189,11 +32192,11 @@
     "groups": []
   },
   "2695": {
-    "id": "2695",
     "name": {
       "en": "dishes",
       "pt": "louça"
     },
+    "id": "2695",
     "decks": [
       "alien",
       "dream",
@@ -32217,11 +32220,11 @@
     "groups": []
   },
   "2697": {
-    "id": "2697",
     "name": {
       "en": "crossroads",
       "pt": "cruzamento"
     },
+    "id": "2697",
     "aliasesPt": [
       "encruzilhada"
     ],
@@ -32232,11 +32235,14 @@
     "groups": []
   },
   "2698": {
-    "id": "2698",
     "name": {
       "en": "trolley",
-      "pt": "bonde"
+      "pt": "ônibus elétrico"
     },
+    "id": "2698",
+    "aliasesPt": [
+      "trólebus"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -32244,11 +32250,11 @@
     "groups": []
   },
   "2699": {
-    "id": "2699",
     "name": {
       "en": "roadblock",
       "pt": "bloqueio"
     },
+    "id": "2699",
     "aliasesPt": [
       "barreira"
     ],
@@ -32289,11 +32295,11 @@
     "groups": []
   },
   "2702": {
-    "id": "2702",
     "name": {
       "en": "discount bin",
       "pt": "ofertas"
     },
+    "id": "2702",
     "aliasesEn": [
       "sale bin"
     ],
@@ -32308,11 +32314,11 @@
     "groups": []
   },
   "2703": {
-    "id": "2703",
     "name": {
       "en": "lance",
       "pt": "lança de torneio"
     },
+    "id": "2703",
     "aliasesPt": [
       "lança"
     ],
@@ -32324,11 +32330,11 @@
     "groups": []
   },
   "2704": {
-    "id": "2704",
     "name": {
       "en": "brochure",
       "pt": "folder"
     },
+    "id": "2704",
     "decks": [
       "alien",
       "dream",
@@ -32338,11 +32344,11 @@
     "groups": []
   },
   "2705": {
-    "id": "2705",
     "name": {
       "en": "paper shredder",
       "pt": "fragmentadora de papel"
     },
+    "id": "2705",
     "aliasesPt": [
       "triturador",
       "triturador de papel"
@@ -32382,11 +32388,11 @@
     "groups": []
   },
   "2708": {
-    "id": "2708",
     "name": {
       "en": "toiletries",
       "pt": "produtos de higiene"
     },
+    "id": "2708",
     "decks": [
       "evidence",
       "manufactured"
@@ -32430,11 +32436,11 @@
     "groups": []
   },
   "2712": {
-    "id": "2712",
     "name": {
       "en": "ten commandments",
       "pt": "dez mandamentos"
     },
+    "id": "2712",
     "aliasesEn": [
       "commandments"
     ],
@@ -32480,11 +32486,11 @@
     "groups": []
   },
   "2715": {
-    "id": "2715",
     "name": {
       "en": "patchwork",
       "pt": "colcha de retalho"
     },
+    "id": "2715",
     "aliasesEn": [
       "quilt"
     ],
@@ -32526,11 +32532,11 @@
     "groups": []
   },
   "2718": {
-    "id": "2718",
     "name": {
       "en": "beg bug",
       "pt": "percevejo de cama"
     },
+    "id": "2718",
     "decks": [
       "alien"
     ],
@@ -32550,11 +32556,11 @@
     "groups": []
   },
   "2720": {
-    "id": "2720",
     "name": {
       "en": "veil",
       "pt": "vél"
     },
+    "id": "2720",
     "decks": [
       "alien",
       "dream",
@@ -32590,11 +32596,11 @@
     "groups": []
   },
   "2723": {
-    "id": "2723",
     "name": {
       "en": "mine cart",
       "pt": "Vagonete"
     },
+    "id": "2723",
     "aliasesPt": [
       "carrinho de mina"
     ],
@@ -32639,11 +32645,11 @@
     "groups": []
   },
   "2726": {
-    "id": "2726",
     "name": {
       "en": "landmine",
       "pt": "mina terrestre"
     },
+    "id": "2726",
     "aliasesPt": [
       "mina"
     ],
@@ -32655,11 +32661,11 @@
     "groups": []
   },
   "2727": {
-    "id": "2727",
     "name": {
       "en": "search engine",
       "pt": "busca"
     },
+    "id": "2727",
     "aliasesPt": [
       "pesquisar"
     ],
@@ -32682,11 +32688,11 @@
     "groups": []
   },
   "2729": {
-    "id": "2729",
     "name": {
       "en": "power line",
       "pt": "torres de transmissão"
     },
+    "id": "2729",
     "aliasesPt": [
       "torres de energia"
     ],

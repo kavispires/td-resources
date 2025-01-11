@@ -103,13 +103,12 @@
     "level": 0
   },
   "dqs-0010-pt": {
-    "title": "Muitos",
     "id": "dqs-0010-pt",
+    "title": "Muitos",
     "itemsIds": [
       "270",
       "350",
       "378",
-      "385",
       "570"
     ],
     "level": 0
@@ -610,7 +609,8 @@
     "itemsIds": [
       "89",
       "94",
-      "329"
+      "329",
+      "2262"
     ],
     "level": 0
   },
@@ -1450,16 +1450,16 @@
     "level": 1
   },
   "dqs-0121-pt": {
-    "title": "Canino",
     "id": "dqs-0121-pt",
+    "title": "Canino",
+    "type": "thematic",
     "itemsIds": [
-      "96",
       "148",
       "278",
       "338",
       "1224"
     ],
-    "level": 0
+    "level": 3
   },
   "dqs-0122-pt": {
     "title": "Bebidas",
@@ -1557,7 +1557,9 @@
       "214",
       "215",
       "417",
-      "540"
+      "540",
+      "854",
+      "2201"
     ],
     "level": 0
   },
@@ -1734,12 +1736,13 @@
     "level": 3
   },
   "dqs-0144-pt": {
-    "title": "Cercado",
     "id": "dqs-0144-pt",
+    "title": "Cercado",
     "itemsIds": [
       "107",
       "456",
-      "482"
+      "482",
+      "356"
     ],
     "level": 0
   },
@@ -1777,14 +1780,15 @@
     "level": 0
   },
   "dqs-0148-pt": {
+    "type": "thematic",
     "title": "Acesso restrito",
     "id": "dqs-0148-pt",
-    "type": "thematic",
     "itemsIds": [
       "482",
       "571",
       "636",
-      "1694"
+      "1694",
+      "2699"
     ],
     "level": 0
   },
@@ -2098,7 +2102,9 @@
       "217",
       "291",
       "320",
-      "376"
+      "376",
+      "600",
+      "109"
     ],
     "level": 0
   },
@@ -2114,12 +2120,13 @@
     "level": 0
   },
   "dqs-0177-pt": {
-    "title": "Jogando pedra-papel-tesoura",
     "id": "dqs-0177-pt",
+    "title": "Jogando pedra-papel-tesoura",
     "itemsIds": [
       "115",
       "478",
-      "618"
+      "618",
+      "530"
     ],
     "level": 0
   },
@@ -2632,7 +2639,7 @@
     "level": 0
   },
   "dqs-0219-pt": {
-    "title": "Corta",
+    "title": "Cordas",
     "id": "dqs-0219-pt",
     "itemsIds": [
       "100",
@@ -2996,7 +3003,8 @@
       "81",
       "162",
       "667",
-      "923"
+      "923",
+      "1744"
     ],
     "level": 0
   },
@@ -3043,16 +3051,16 @@
     "level": 0
   },
   "dqs-0252-pt": {
-    "title": "Mesas",
+    "title": "Jogos de Mesa",
+    "type": "thematic",
     "id": "dqs-0252-pt",
     "itemsIds": [
-      "98",
+      "77",
       "858",
-      "877",
       "878",
       "879"
     ],
-    "level": 0
+    "level": 2
   },
   "dqs-0253-pt": {
     "title": "Sem sair do lugar",
@@ -3456,7 +3464,6 @@
       "1136",
       "1154",
       "1185",
-      "1365",
       "1496"
     ],
     "level": 0
@@ -3747,6 +3754,7 @@
     "itemsIds": [
       "454",
       "457",
+      "594",
       "2291"
     ],
     "level": 0
