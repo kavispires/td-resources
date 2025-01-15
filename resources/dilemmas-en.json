@@ -1,498 +1,812 @@
 {
-  "dlm-1-pt": {
-    "id": "dlm-1-pt",
-    "prompt": "At karaoke, you sing",
-    "left": "Almost like Mariah Carey",
-    "right": "Just... really bad"
-  },
-  "dlm-2-pt": {
-    "id": "dlm-2-pt",
-    "prompt": "Propose in front of",
-    "left": "Your in-laws",
-    "right": "A cramped stadium, on the big screen"
-  },
-  "dlm-3-pt": {
-    "id": "dlm-3-pt",
-    "prompt": "Last-minute gift",
-    "left": "Rewrapped Christmas present",
-    "right": "Flowers picked at the park"
-  },
-  "dlm-4-pt": {
-    "id": "dlm-4-pt",
-    "prompt": "Reuse",
-    "left": "Condom",
-    "right": "Toilet paper",
-    "nsfw": true
-  },
-  "dlm-5-pt": {
-    "id": "dlm-5-pt",
-    "prompt": "President",
-    "left": "Rihanna",
-    "right": "Greta Thunberg"
-  },
-  "dlm-6-pt": {
-    "id": "dlm-6-pt",
-    "prompt": "Live in the world of",
-    "left": "Star Wars, as a Jedi",
-    "right": "X-men, as a mutant"
-  },
-  "dlm-7-pt": {
-    "id": "dlm-7-pt",
-    "prompt": "Befriend",
-    "left": "An alien",
-    "right": "A robot"
-  },
-  "dlm-8-pt": {
-    "id": "dlm-8-pt",
-    "prompt": "Amazing orgasm every time",
-    "left": "For you",
-    "right": "For your partners",
-    "nsfw": true
-  },
-  "dlm-9-pt": {
-    "id": "dlm-9-pt",
-    "prompt": "Midlife crisis",
-    "left": "You get in debt for unnecessary stuff",
-    "right": "You leave everything to raise goats in a village"
-  },
-  "dlm-10-pt": {
-    "id": "dlm-10-pt",
-    "prompt": "Super combo",
-    "left": "Coke and coke",
-    "right": "Acid and watermelon",
-    "nsfw": true
-  },
-  "dlm-11-pt": {
-    "id": "dlm-11-pt",
-    "prompt": "Drive like",
-    "left": "Granny on a Sunday morning",
-    "right": "Schumacher in a hurry"
-  },
-  "dlm-12-pt": {
-    "id": "dlm-12-pt",
-    "prompt": "Ideal home",
-    "left": "Big living room",
-    "right": "Big kitchen"
-  },
-  "dlm-13-pt": {
-    "id": "dlm-13-pt",
-    "prompt": "Spa",
-    "left": "In a bathing suit",
-    "right": "Naked"
-  },
-  "dlm-14-pt": {
-    "id": "dlm-14-pt",
-    "prompt": "Sponge bath from",
-    "left": "Your father",
-    "right": "The Pope"
-  },
-  "dlm-15-pt": {
-    "id": "dlm-15-pt",
-    "prompt": "Your plate at the end of a meal",
-    "left": "Spotless, and your stomach hurts",
-    "right": "There are still 2 spoonfuls left"
-  },
-  "dlm-16-pt": {
-    "id": "dlm-16-pt",
-    "prompt": "Your laugh",
-    "left": "Seal",
-    "right": "Pig"
-  },
-  "dlm-17-pt": {
-    "id": "dlm-17-pt",
-    "prompt": "Sitting next to you on a plane",
-    "left": "The Joker",
-    "right": "Hannibal Lecter"
-  },
-  "dlm-18-pt": {
-    "id": "dlm-18-pt",
-    "prompt": "Boost your confidence",
-    "left": "2-3 shots",
-    "right": "Soundtrack from Rocky"
-  },
-  "dlm-19-pt": {
-    "id": "dlm-19-pt",
-    "prompt": "Plastic surgery",
-    "left": "You gotta do what you gotta do!",
-    "right": "Over my dead body!"
-  },
-  "dlm-20-pt": {
-    "id": "dlm-20-pt",
-    "prompt": "Lose",
-    "left": "All your teeth",
-    "right": "One day of your life each time you kiss someone"
-  },
-  "dlm-21-pt": {
-    "id": "dlm-21-pt",
-    "prompt": "In a plane",
-    "left": "You sleep",
-    "right": "You pray"
-  },
-  "dlm-22-pt": {
-    "id": "dlm-22-pt",
-    "prompt": "Day after a party",
-    "left": "Last night's pizza",
-    "right": "Only water"
-  },
-  "dlm-23-pt": {
-    "id": "dlm-23-pt",
-    "prompt": "In front of a naked person",
-    "left": "You stare at them",
-    "right": "You stare at the ground"
-  },
-  "dlm-24-pt": {
-    "id": "dlm-24-pt",
-    "prompt": "Perfect excuse",
-    "left": "Family problem",
-    "right": "Health problem"
-  },
-  "dlm-25-pt": {
-    "id": "dlm-25-pt",
-    "prompt": "Sex slave to",
-    "left": "Person to your left",
-    "right": "Person to your right",
-    "nsfw": true
-  },
-  "dlm-26-pt": {
-    "id": "dlm-26-pt",
-    "prompt": "Fight against",
-    "left": "A tiger",
-    "right": "A shark"
-  },
-  "dlm-27-pt": {
-    "id": "dlm-27-pt",
-    "prompt": "Drive",
-    "left": "The Batmobile",
-    "right": "The Ghostbusters car"
-  },
-  "dlm-28-pt": {
-    "id": "dlm-28-pt",
-    "prompt": "Sexually attracted to",
-    "left": "Door handles",
-    "right": "Vacuums",
-    "nsfw": true
-  },
-  "dlm-29-pt": {
-    "id": "dlm-29-pt",
-    "prompt": "Your walk",
-    "left": "Cowboy",
-    "right": "Ballerina"
-  },
-  "dlm-30-pt": {
-    "id": "dlm-30-pt",
-    "prompt": "Shopping spree",
-    "left": "With pleasure!",
-    "right": "No, thank you..."
-  },
-  "dlm-31-pt": {
-    "id": "dlm-31-pt",
-    "prompt": "Subscription",
-    "left": "Netflix",
-    "right": "Disney+"
-  },
-  "dlm-32-pt": {
-    "id": "dlm-32-pt",
-    "prompt": "Night to yourself",
-    "left": "1000 piece puzzle",
-    "right": "1000 page novel"
-  },
-  "dlm-33-pt": {
-    "id": "dlm-33-pt",
-    "prompt": "At the store",
-    "left": "You get 10 times more than you need",
-    "right": "You forget half your list"
-  },
-  "dlm-34-pt": {
-    "id": "dlm-34-pt",
-    "prompt": "Two people fighting",
-    "left": "You film them",
-    "right": "You separate them"
-  },
-  "dlm-35-pt": {
-    "id": "dlm-35-pt",
-    "prompt": "Sneezing while drunk",
-    "left": "You fart at the same time",
-    "right": "You vomit in your mouth",
-    "nsfw": true
-  },
-  "dlm-36-pt": {
-    "id": "dlm-36-pt",
-    "prompt": "Your friend is being cheated on",
-    "left": "You tell them",
-    "right": "You keep the secret"
-  },
-  "dlm-37-pt": {
-    "id": "dlm-37-pt",
-    "prompt": "Masturbation",
-    "left": "3 times per year",
-    "right": "3 times per day",
-    "nsfw": true
-  },
-  "dlm-38-pt": {
-    "id": "dlm-38-pt",
-    "prompt": "Handcuffed for life to",
-    "left": "A 10th ladder",
-    "right": "A goat"
-  },
-  "dlm-39-pt": {
-    "id": "dlm-39-pt",
-    "prompt": "Eat jam out of",
-    "left": "Celebrity of choice's butthole",
-    "right": "Gollum's mouth",
-    "nsfw": true
-  },
-  "dlm-40-pt": {
-    "id": "dlm-40-pt",
-    "prompt": "Your future",
-    "left": "Dead in 10 years",
-    "right": "Immortality"
-  },
-  "dlm-41-pt": {
-    "id": "dlm-41-pt",
-    "prompt": "Lick a body smeared with",
-    "left": "Chocolate",
-    "right": "Guacamole",
-    "nsfw": true
-  },
-  "dlm-42-pt": {
-    "id": "dlm-42-pt",
-    "prompt": "World Champion of",
-    "left": "Rock, Paper, Scissors",
-    "right": "Read light, green light"
-  },
-  "dlm-43-pt": {
-    "id": "dlm-43-pt",
-    "prompt": "Hit with a baseball bat",
-    "left": "Wasp nest",
-    "right": "Your neighbor"
-  },
-  "dlm-44-pt": {
-    "id": "dlm-44-pt",
-    "prompt": "Radio",
-    "left": "Classic hits",
-    "right": "Top 100"
-  },
-  "dlm-45-pt": {
-    "id": "dlm-45-pt",
-    "prompt": "In the street",
-    "left": "Step in dog shit",
-    "right": "Pigeon poops on you"
-  },
-  "dlm-46-pt": {
-    "id": "dlm-46-pt",
-    "prompt": "Vacation home",
-    "left": "Vatican",
-    "right": "Versailles"
-  },
-  "dlm-47-pt": {
-    "id": "dlm-47-pt",
-    "prompt": "Furniture",
-    "left": "IKEA",
-    "right": "Grandparents' antiques"
-  },
-  "dlm-48-pt": {
-    "id": "dlm-48-pt",
-    "prompt": "Conspiracy",
-    "left": "First steps on the Moon",
-    "right": "JFK's assassination"
-  },
-  "dlm-49-pt": {
-    "id": "dlm-49-pt",
-    "prompt": "Videogame",
-    "left": "Mario Kart",
-    "right": "Minecraft"
-  },
-  "dlm-50-pt": {
-    "id": "dlm-50-pt",
-    "prompt": "Seashore",
-    "left": "Crowded sandy beach",
-    "right": "Deserted pebble beach"
-  },
-  "dlm-51-pt": {
-    "id": "dlm-51-pt",
-    "prompt": "Take a dump",
-    "left": "With someone in the next stall",
-    "right": "While talking on the phone"
-  },
-  "dlm-52-pt": {
-    "id": "dlm-52-pt",
-    "prompt": "Free for life",
-    "left": "Condoms",
-    "right": "Carrots",
-    "nsfw": true
-  },
-  "dlm-53-pt": {
-    "id": "dlm-53-pt",
-    "prompt": "Speak like",
-    "left": "Yoda",
-    "right": "Darth Vader"
-  },
-  "dlm-54-pt": {
-    "id": "dlm-54-pt",
-    "prompt": "The hardest to find",
-    "left": "The G spot",
-    "right": "Waldo",
-    "nsfw": true
-  },
-  "dlm-55-pt": {
-    "id": "dlm-55-pt",
-    "prompt": "Computer",
-    "left": "Apple",
-    "right": "Windows"
-  },
-  "dlm-56-pt": {
-    "id": "dlm-56-pt",
-    "prompt": "In your bedroom",
-    "left": "Mosquito",
-    "right": "Baby"
-  },
-  "dlm-57-pt": {
-    "id": "dlm-57-pt",
-    "prompt": "Best friend",
-    "left": "Weird Al",
-    "right": "Dwayne \"The Rock\" Johnson"
-  },
-  "dlm-58-pt": {
-    "id": "dlm-58-pt",
-    "prompt": "Love life",
-    "left": "Very complicated double life",
-    "right": "Abstinence"
-  },
-  "dlm-59-pt": {
-    "id": "dlm-59-pt",
-    "prompt": "Ruins pizza",
-    "left": "Anchovies",
-    "right": "Olives"
-  },
-  "dlm-60-pt": {
-    "id": "dlm-60-pt",
-    "prompt": "In your coffee",
-    "left": "Splash of milk",
-    "right": "Splash of whiskey"
-  },
-  "dlm-61-pt": {
-    "id": "dlm-61-pt",
-    "prompt": "Cheated on",
-    "left": "You forgive them... 2 years later",
-    "right": "You set fire to their apartment"
-  },
-  "dlm-62-pt": {
-    "id": "dlm-62-pt",
-    "prompt": "Dare",
-    "left": "Hook up with someone",
-    "right": "Snort a chili pepper"
-  },
-  "dlm-63-pt": {
-    "id": "dlm-63-pt",
-    "prompt": "When you get a ticket",
-    "left": "$50 and we forget it happened?",
-    "right": "My taxes pay for your salary!"
-  },
-  "dlm-64-pt": {
-    "id": "dlm-64-pt",
-    "prompt": "Your dating pattern",
-    "left": "Let's take it month by month",
-    "right": "Till death do us part"
-  },
-  "dlm-65-pt": {
-    "id": "dlm-65-pt",
-    "prompt": "Fetich",
-    "left": "Feet",
-    "right": "Latex",
-    "nsfw": true
-  },
-  "dlm-66-pt": {
-    "id": "dlm-66-pt",
-    "prompt": "James Bond",
-    "left": "Sean Connery",
-    "right": "Daniel Craig"
-  },
-  "dlm-67-pt": {
-    "id": "dlm-67-pt",
-    "prompt": "To get a promotion",
-    "left": "Loooooots of overtime",
-    "right": "1 hour in bed with your boss",
-    "nsfw": true
-  },
-  "dlm-68-pt": {
-    "id": "dlm-68-pt",
-    "prompt": "Your skin covered in",
-    "left": "Fur",
-    "right": "Scales"
-  },
-  "dlm-69-pt": {
-    "id": "dlm-69-pt",
-    "prompt": "Your car",
-    "left": "Optimus Prime",
-    "right": "Lightning McQueen"
-  },
-  "dlm-70-pt": {
-    "id": "dlm-70-pt",
-    "prompt": "You at school",
-    "left": "Hermione Granger",
-    "right": "Bart Simpson"
-  },
-  "dlm-71-pt": {
-    "id": "dlm-71-pt",
-    "prompt": "Wearing clothes",
-    "left": "Clean but damp",
-    "right": "Dry but dirty"
-  },
-  "dlm-72-pt": {
-    "id": "dlm-72-pt",
-    "prompt": "Wake up to",
-    "left": "The Star-spangled Banner",
-    "right": "Repeating ding of a triangle"
-  },
-  "dlm-73-pt": {
-    "id": "dlm-73-pt",
-    "prompt": "Instant arousal",
-    "left": "Aragorn",
-    "right": "Legolas"
-  },
-  "dlm-74-pt": {
-    "id": "dlm-74-pt",
-    "prompt": "Date",
-    "left": "A cop for their handcuffs",
-    "right": "A jockey for their whip",
-    "nsfw": true
-  },
-  "dlm-75-pt": {
-    "id": "dlm-75-pt",
-    "prompt": "On TV",
-    "left": "Reruns of Grey's Anatomy",
-    "right": "Documentary about fly larvae"
-  },
-  "dlm-76-pt": {
-    "id": "dlm-76-pt",
-    "prompt": "When you're high",
-    "left": "Build Legos",
-    "right": "Watch Planet Earth",
-    "nsfw": true
-  },
-  "dlm-77-pt": {
-    "id": "dlm-77-pt",
-    "prompt": "Walk barefoot on",
-    "left": "Legos",
-    "right": "Moose droppings"
-  },
-  "dlm-78-pt": {
-    "id": "dlm-78-pt",
-    "prompt": "Find in your car",
-    "left": "Use condom",
-    "right": "Dead squirrel",
-    "nsfw": true
-  },
-  "dlm-79-pt": {
-    "id": "dlm-79-pt",
-    "prompt": "Breakup phrase",
-    "left": "It's not you, it's me",
-    "right": "Things were moving too quickly"
-  },
-  "dlm-80-pt": {
-    "id": "dlm-80-pt",
-    "prompt": "Infuriating in the check-out line",
-    "left": "Cashier who chats with everyone",
-    "right": "Geezer who counts all his coins"
-  }
+	"dlm-1-en": {
+		"id": "dlm-1-en",
+		"prompt": "At karaoke, you sing",
+		"left": "Almost like Mariah Carey",
+		"right": "Just... really bad"
+	},
+	"dlm-2-en": {
+		"id": "dlm-2-en",
+		"prompt": "Propose in front of",
+		"left": "Your in-laws",
+		"right": "A cramped stadium, on the big screen"
+	},
+	"dlm-3-en": {
+		"id": "dlm-3-en",
+		"prompt": "Last-minute gift",
+		"left": "Rewrapped Christmas present",
+		"right": "Flowers picked at the park"
+	},
+	"dlm-4-en": {
+		"id": "dlm-4-en",
+		"prompt": "Reuse",
+		"left": "Condom",
+		"right": "Toilet paper",
+		"nsfw": true
+	},
+	"dlm-5-en": {
+		"id": "dlm-5-en",
+		"prompt": "President",
+		"left": "Rihanna",
+		"right": "Greta Thunberg"
+	},
+	"dlm-6-en": {
+		"id": "dlm-6-en",
+		"prompt": "Live in the world of",
+		"left": "Star Wars, as a Jedi",
+		"right": "X-men, as a mutant"
+	},
+	"dlm-7-en": {
+		"id": "dlm-7-en",
+		"prompt": "Befriend",
+		"left": "An alien",
+		"right": "A robot"
+	},
+	"dlm-8-en": {
+		"id": "dlm-8-en",
+		"prompt": "Amazing orgasm every time",
+		"left": "For you",
+		"right": "For your partners",
+		"nsfw": true
+	},
+	"dlm-9-en": {
+		"id": "dlm-9-en",
+		"prompt": "Midlife crisis",
+		"left": "You get in debt for unnecessary stuff",
+		"right": "You leave everything to raise goats in a village"
+	},
+	"dlm-10-en": {
+		"id": "dlm-10-en",
+		"prompt": "Super combo",
+		"left": "Coke and coke",
+		"right": "Acid and watermelon",
+		"nsfw": true
+	},
+	"dlm-11-en": {
+		"id": "dlm-11-en",
+		"prompt": "Drive like",
+		"left": "Granny on a Sunday morning",
+		"right": "Schumacher in a hurry"
+	},
+	"dlm-12-en": {
+		"id": "dlm-12-en",
+		"prompt": "Ideal home",
+		"left": "Big living room",
+		"right": "Big kitchen"
+	},
+	"dlm-13-en": {
+		"id": "dlm-13-en",
+		"prompt": "Spa",
+		"left": "In a bathing suit",
+		"right": "Naked",
+		"nsfw": true
+	},
+	"dlm-14-en": {
+		"id": "dlm-14-en",
+		"prompt": "Sponge bath from",
+		"left": "Your father",
+		"right": "The Pope",
+		"nsfw": true
+	},
+	"dlm-15-en": {
+		"id": "dlm-15-en",
+		"prompt": "Your plate at the end of a meal",
+		"left": "Spotless, and your stomach hurts",
+		"right": "There are still 2 spoonfuls left"
+	},
+	"dlm-16-en": {
+		"id": "dlm-16-en",
+		"prompt": "Your laugh",
+		"left": "Seal",
+		"right": "Pig"
+	},
+	"dlm-17-en": {
+		"id": "dlm-17-en",
+		"prompt": "Sitting next to you on a plane",
+		"left": "The Joker",
+		"right": "Hannibal Lecter"
+	},
+	"dlm-18-en": {
+		"id": "dlm-18-en",
+		"prompt": "Boost your confidence",
+		"left": "2-3 shots",
+		"right": "Soundtrack from Rocky"
+	},
+	"dlm-19-en": {
+		"id": "dlm-19-en",
+		"prompt": "Plastic surgery",
+		"left": "You gotta do what you gotta do!",
+		"right": "Over my dead body!"
+	},
+	"dlm-20-en": {
+		"id": "dlm-20-en",
+		"prompt": "Lose",
+		"left": "All your teeth",
+		"right": "One day of your life each time you kiss someone"
+	},
+	"dlm-21-en": {
+		"id": "dlm-21-en",
+		"prompt": "In a plane",
+		"left": "You sleep",
+		"right": "You pray"
+	},
+	"dlm-22-en": {
+		"id": "dlm-22-en",
+		"prompt": "Day after a party",
+		"left": "Last night's pizza",
+		"right": "Only water"
+	},
+	"dlm-23-en": {
+		"id": "dlm-23-en",
+		"prompt": "In front of a naked person",
+		"left": "You stare at them",
+		"right": "You stare at the ground",
+		"nsfw": true
+	},
+	"dlm-24-en": {
+		"id": "dlm-24-en",
+		"prompt": "Perfect excuse",
+		"left": "Family problem",
+		"right": "Health problem"
+	},
+	"dlm-25-en": {
+		"id": "dlm-25-en",
+		"prompt": "Sex slave to",
+		"left": "Person to your left",
+		"right": "Person to your right",
+		"nsfw": true
+	},
+	"dlm-26-en": {
+		"id": "dlm-26-en",
+		"prompt": "Fight against",
+		"left": "A tiger",
+		"right": "A shark"
+	},
+	"dlm-27-en": {
+		"id": "dlm-27-en",
+		"prompt": "Drive",
+		"left": "The Batmobile",
+		"right": "The Ghostbusters car"
+	},
+	"dlm-28-en": {
+		"id": "dlm-28-en",
+		"prompt": "Sexually attracted to",
+		"left": "Door handles",
+		"right": "Vacuums",
+		"nsfw": true
+	},
+	"dlm-29-en": {
+		"id": "dlm-29-en",
+		"prompt": "Your walk",
+		"left": "Cowboy",
+		"right": "Ballerina"
+	},
+	"dlm-30-en": {
+		"id": "dlm-30-en",
+		"prompt": "Shopping spree",
+		"left": "With pleasure!",
+		"right": "No, thank you..."
+	},
+	"dlm-31-en": {
+		"id": "dlm-31-en",
+		"prompt": "Subscription",
+		"left": "Netflix",
+		"right": "Disney+"
+	},
+	"dlm-32-en": {
+		"id": "dlm-32-en",
+		"prompt": "Night to yourself",
+		"left": "1000 piece puzzle",
+		"right": "1000 page novel"
+	},
+	"dlm-33-en": {
+		"id": "dlm-33-en",
+		"prompt": "At the store",
+		"left": "You get 10 times more than you need",
+		"right": "You forget half your list"
+	},
+	"dlm-34-en": {
+		"id": "dlm-34-en",
+		"prompt": "Two people fighting",
+		"left": "You film them",
+		"right": "You separate them"
+	},
+	"dlm-35-en": {
+		"id": "dlm-35-en",
+		"prompt": "Sneezing while drunk",
+		"left": "You fart at the same time",
+		"right": "You vomit in your mouth",
+		"nsfw": true
+	},
+	"dlm-36-en": {
+		"id": "dlm-36-en",
+		"prompt": "Your friend is being cheated on",
+		"left": "You tell them",
+		"right": "You keep the secret"
+	},
+	"dlm-37-en": {
+		"id": "dlm-37-en",
+		"prompt": "Masturbation",
+		"left": "3 times per year",
+		"right": "3 times per day",
+		"nsfw": true
+	},
+	"dlm-38-en": {
+		"id": "dlm-38-en",
+		"prompt": "Handcuffed for life to",
+		"left": "A 10ft ladder",
+		"right": "A goat"
+	},
+	"dlm-39-en": {
+		"id": "dlm-39-en",
+		"prompt": "Eat jam out of",
+		"left": "Celebrity of choice's butthole",
+		"right": "Gollum's mouth",
+		"nsfw": true
+	},
+	"dlm-40-en": {
+		"id": "dlm-40-en",
+		"prompt": "Your future",
+		"left": "Dead in 10 years",
+		"right": "Immortality"
+	},
+	"dlm-41-en": {
+		"id": "dlm-41-en",
+		"prompt": "Lick a body smeared with",
+		"left": "Chocolate",
+		"right": "Guacamole",
+		"nsfw": true
+	},
+	"dlm-42-en": {
+		"id": "dlm-42-en",
+		"prompt": "World Champion of",
+		"left": "Rock, Paper, Scissors",
+		"right": "Read light, green light"
+	},
+	"dlm-43-en": {
+		"id": "dlm-43-en",
+		"prompt": "Hit with a baseball bat",
+		"left": "Wasp nest",
+		"right": "Your neighbor"
+	},
+	"dlm-44-en": {
+		"id": "dlm-44-en",
+		"prompt": "Radio",
+		"left": "Classic hits",
+		"right": "Top 100"
+	},
+	"dlm-45-en": {
+		"id": "dlm-45-en",
+		"prompt": "In the street",
+		"left": "Step in dog shit",
+		"right": "Pigeon poops on you"
+	},
+	"dlm-46-en": {
+		"id": "dlm-46-en",
+		"prompt": "Vacation home",
+		"left": "Vatican",
+		"right": "Versailles"
+	},
+	"dlm-47-en": {
+		"id": "dlm-47-en",
+		"prompt": "Furniture",
+		"left": "IKEA",
+		"right": "Grandparents' antiques"
+	},
+	"dlm-48-en": {
+		"id": "dlm-48-en",
+		"prompt": "Conspiracy",
+		"left": "First steps on the Moon",
+		"right": "JFK's assassination"
+	},
+	"dlm-49-en": {
+		"id": "dlm-49-en",
+		"prompt": "Videogame",
+		"left": "Mario Kart",
+		"right": "Minecraft"
+	},
+	"dlm-50-en": {
+		"id": "dlm-50-en",
+		"prompt": "Seashore",
+		"left": "Crowded sandy beach",
+		"right": "Deserted pebble beach"
+	},
+	"dlm-51-en": {
+		"id": "dlm-51-en",
+		"prompt": "Take a dump",
+		"left": "With someone in the next stall",
+		"right": "While talking on the phone"
+	},
+	"dlm-52-en": {
+		"id": "dlm-52-en",
+		"prompt": "Free for life",
+		"left": "Condoms",
+		"right": "Carrots",
+		"nsfw": true
+	},
+	"dlm-53-en": {
+		"id": "dlm-53-en",
+		"prompt": "Speak like",
+		"left": "Yoda",
+		"right": "Darth Vader"
+	},
+	"dlm-54-en": {
+		"id": "dlm-54-en",
+		"prompt": "The hardest to find",
+		"left": "The G spot",
+		"right": "Waldo",
+		"nsfw": true
+	},
+	"dlm-55-en": {
+		"id": "dlm-55-en",
+		"prompt": "Computer",
+		"left": "Apple",
+		"right": "Windows"
+	},
+	"dlm-56-en": {
+		"id": "dlm-56-en",
+		"prompt": "In your bedroom",
+		"left": "Mosquito",
+		"right": "Baby"
+	},
+	"dlm-57-en": {
+		"id": "dlm-57-en",
+		"prompt": "Best friend",
+		"left": "Weird Al",
+		"right": "Dwayne \"The Rock\" Johnson"
+	},
+	"dlm-58-en": {
+		"id": "dlm-58-en",
+		"prompt": "Love life",
+		"left": "Very complicated double life",
+		"right": "Abstinence"
+	},
+	"dlm-59-en": {
+		"id": "dlm-59-en",
+		"prompt": "Ruins pizza",
+		"left": "Anchovies",
+		"right": "Olives"
+	},
+	"dlm-60-en": {
+		"id": "dlm-60-en",
+		"prompt": "In your coffee",
+		"left": "Splash of milk",
+		"right": "Splash of whiskey"
+	},
+	"dlm-61-en": {
+		"id": "dlm-61-en",
+		"prompt": "Cheated on",
+		"left": "You forgive them... 2 years later",
+		"right": "You set fire to their apartment"
+	},
+	"dlm-62-en": {
+		"id": "dlm-62-en",
+		"prompt": "Dare",
+		"left": "Hook up with someone",
+		"right": "Snort a chili pepper"
+	},
+	"dlm-63-en": {
+		"id": "dlm-63-en",
+		"prompt": "When you get a ticket",
+		"left": "$50 and we forget it happened?",
+		"right": "My taxes pay for your salary!"
+	},
+	"dlm-64-en": {
+		"id": "dlm-64-en",
+		"prompt": "Your dating pattern",
+		"left": "Let's take it month by month",
+		"right": "Till death do us part"
+	},
+	"dlm-65-en": {
+		"id": "dlm-65-en",
+		"prompt": "Fetich",
+		"left": "Feet",
+		"right": "Latex",
+		"nsfw": true
+	},
+	"dlm-66-en": {
+		"id": "dlm-66-en",
+		"prompt": "James Bond",
+		"left": "Sean Connery",
+		"right": "Daniel Craig"
+	},
+	"dlm-67-en": {
+		"id": "dlm-67-en",
+		"prompt": "To get a promotion",
+		"left": "Loooooots of overtime",
+		"right": "1 hour in bed with your boss",
+		"nsfw": true
+	},
+	"dlm-68-en": {
+		"id": "dlm-68-en",
+		"prompt": "Your skin covered in",
+		"left": "Fur",
+		"right": "Scales"
+	},
+	"dlm-69-en": {
+		"id": "dlm-69-en",
+		"prompt": "Your car",
+		"left": "Optimus Prime",
+		"right": "Lightning McQueen"
+	},
+	"dlm-70-en": {
+		"id": "dlm-70-en",
+		"prompt": "You at school",
+		"left": "Hermione Granger",
+		"right": "Bart Simpson"
+	},
+	"dlm-71-en": {
+		"id": "dlm-71-en",
+		"prompt": "Wearing clothes",
+		"left": "Clean but damp",
+		"right": "Dry but dirty"
+	},
+	"dlm-72-en": {
+		"id": "dlm-72-en",
+		"prompt": "Wake up to",
+		"left": "The Star-spangled Banner",
+		"right": "Repeating ding of a triangle"
+	},
+	"dlm-73-en": {
+		"id": "dlm-73-en",
+		"prompt": "Instant arousal",
+		"left": "Aragorn",
+		"right": "Legolas",
+		"nsfw": true
+	},
+	"dlm-74-en": {
+		"id": "dlm-74-en",
+		"prompt": "Date",
+		"left": "A cop for their handcuffs",
+		"right": "A jockey for their whip",
+		"nsfw": true
+	},
+	"dlm-75-en": {
+		"id": "dlm-75-en",
+		"prompt": "On TV",
+		"left": "Reruns of Grey's Anatomy",
+		"right": "Documentary about fly larvae"
+	},
+	"dlm-76-en": {
+		"id": "dlm-76-en",
+		"prompt": "When you're high",
+		"left": "Build Legos",
+		"right": "Watch Planet Earth",
+		"nsfw": true
+	},
+	"dlm-77-en": {
+		"id": "dlm-77-en",
+		"prompt": "Walk barefoot on",
+		"left": "Legos",
+		"right": "Moose droppings"
+	},
+	"dlm-78-en": {
+		"id": "dlm-78-en",
+		"prompt": "Find in your car",
+		"left": "Use condom",
+		"right": "Dead squirrel",
+		"nsfw": true
+	},
+	"dlm-79-en": {
+		"id": "dlm-79-en",
+		"prompt": "Breakup phrase",
+		"left": "It's not you, it's me",
+		"right": "Things were moving too quickly"
+	},
+	"dlm-80-en": {
+		"id": "dlm-80-en",
+		"prompt": "Infuriating in the check-out line",
+		"left": "Cashier who chats with everyone",
+		"right": "Geezer who counts all his coins"
+	},
+	"dlm-81-en": {
+		"id": "dlm-81-en",
+		"prompt": "Superpower for a day",
+		"left": "Invisibility",
+		"right": "Flight"
+	},
+	"dlm-82-en": {
+		"id": "dlm-82-en",
+		"prompt": "Roommates",
+		"left": "A professional mime",
+		"right": "A loud snorer"
+	},
+	"dlm-83-en": {
+		"id": "dlm-83-en",
+		"prompt": "Unlikely career",
+		"left": "Circus clown",
+		"right": "Shark trainer"
+	},
+	"dlm-84-en": {
+		"id": "dlm-84-en",
+		"prompt": "Stranded on a desert island",
+		"left": "A lifetime supply of mayonnaise",
+		"right": "A library of books in a language you don't understand"
+	},
+	"dlm-85-en": {
+		"id": "dlm-85-en",
+		"prompt": "Worst thing to find in your closet",
+		"left": "A raccoon",
+		"right": "A haunted doll"
+	},
+	"dlm-86-en": {
+		"id": "dlm-86-en",
+		"prompt": "First date activity",
+		"left": "A competitive eating contest",
+		"right": "An intense escape room"
+	},
+	"dlm-87-en": {
+		"id": "dlm-87-en",
+		"prompt": "Unwanted superpower",
+		"left": "Every time you sneeze, you teleport randomly",
+		"right": "Every time you blink, you switch languages"
+	},
+	"dlm-88-en": {
+		"id": "dlm-88-en",
+		"prompt": "Haunted experience",
+		"left": "An endless loop of spooky whispers",
+		"right": "A shadow that moves on its own"
+	},
+	"dlm-89-en": {
+		"id": "dlm-89-en",
+		"prompt": "Worst reality show to star in",
+		"left": "Cooking with bugs",
+		"right": "Living with your ex"
+	},
+	"dlm-90-en": {
+		"id": "dlm-90-en",
+		"prompt": "A strange law",
+		"left": "Must wear a chicken costume every Tuesday",
+		"right": "Can only eat soup with a fork"
+	},
+	"dlm-91-en": {
+		"id": "dlm-91-en",
+		"prompt": "Worst thing to lose for a week",
+		"left": "Your voice",
+		"right": "Your phone"
+	},
+	"dlm-92-en": {
+		"id": "dlm-92-en",
+		"prompt": "Unusual pet",
+		"left": "A clingy octopus",
+		"right": "A grumpy hedgehog"
+	},
+	"dlm-93-en": {
+		"id": "dlm-93-en",
+		"prompt": "Time travel dilemma",
+		"left": "Stuck in the age of dinosaurs",
+		"right": "Stuck in the distant future with no humans"
+	},
+	"dlm-94-en": {
+		"id": "dlm-94-en",
+		"prompt": "Embarrassing celebrity encounter",
+		"left": "Spilling coffee on them",
+		"right": "Tripping and falling into their arms"
+	},
+	"dlm-95-en": {
+		"id": "dlm-95-en",
+		"prompt": "You win a lifetime supply of",
+		"left": "Cheese",
+		"right": "Bubble wrap"
+	},
+	"dlm-96-en": {
+		"id": "dlm-96-en",
+		"prompt": "You can only listen to",
+		"left": "The same song forever",
+		"right": "A random playlist that changes every minute"
+	},
+	"dlm-97-en": {
+		"id": "dlm-97-en",
+		"prompt": "Weirdest good luck charm",
+		"left": "A jar of toenails",
+		"right": "A cursed teddy bear"
+	},
+	"dlm-98-en": {
+		"id": "dlm-98-en",
+		"prompt": "Pick a punishment",
+		"left": "Sing every word you speak",
+		"right": "Hop everywhere instead of walking"
+	},
+	"dlm-99-en": {
+		"id": "dlm-99-en",
+		"prompt": "Swap your nose with",
+		"left": "An elephant's trunk",
+		"right": "A butterfly's antennae"
+	},
+	"dlm-100-en": {
+		"id": "dlm-100-en",
+		"prompt": "Worst alarm clock sound",
+		"left": "A baby crying",
+		"right": "A drill sergeant screaming at you"
+	},
+	"dlm-101-en": {
+		"id": "dlm-101-en",
+		"prompt": "Strangest thing to find in your fridge",
+		"left": "A live goldfish",
+		"right": "A tiny gnome having a picnic"
+	},
+	"dlm-102-en": {
+		"id": "dlm-102-en",
+		"prompt": "Worst job offer",
+		"left": "Professional armpit sniffer",
+		"right": "Official sewage taste tester"
+	},
+	"dlm-103-en": {
+		"id": "dlm-103-en",
+		"prompt": "You wake up one morning and you are",
+		"left": "Three feet tall",
+		"right": "Ten feet tall"
+	},
+	"dlm-104-en": {
+		"id": "dlm-104-en",
+		"prompt": "Your new roommate is",
+		"left": "A professional clown",
+		"right": "An amateur magician"
+	},
+	"dlm-105-en": {
+		"id": "dlm-105-en",
+		"prompt": "Your laugh now sounds like",
+		"left": "A donkey braying",
+		"right": "A car alarm"
+	},
+	"dlm-106-en": {
+		"id": "dlm-106-en",
+		"prompt": "Unwanted transformation",
+		"left": "You have lobster claws for hands",
+		"right": "Your skin glows neon pink"
+	},
+	"dlm-107-en": {
+		"id": "dlm-107-en",
+		"prompt": "Every meal for a month is",
+		"left": "Cold soup",
+		"right": "Unseasoned boiled chicken"
+	},
+	"dlm-108-en": {
+		"id": "dlm-108-en",
+		"prompt": "New annoying superpower",
+		"left": "You can read minds but only when people are thinking about food",
+		"right": "You can teleport but only to the nearest gas station"
+	},
+	"dlm-109-en": {
+		"id": "dlm-109-en",
+		"prompt": "Haunted by",
+		"left": "A friendly but overly chatty ghost",
+		"right": "A spooky but silent shadow figure"
+	},
+	"dlm-110-en": {
+		"id": "dlm-110-en",
+		"prompt": "Worst fashion trend to follow",
+		"left": "Clothes made entirely of duct tape",
+		"right": "Shoes made of bread"
+	},
+	"dlm-111-en": {
+		"id": "dlm-111-en",
+		"prompt": "Every time you sneeze",
+		"left": "You switch bodies with the nearest person",
+		"right": "You teleport to a random location within 50 miles"
+	},
+	"dlm-112-en": {
+		"id": "dlm-112-en",
+		"prompt": "Your internet history is shown to",
+		"left": "Your boss",
+		"right": "Your parents"
+	},
+	"dlm-113-en": {
+		"id": "dlm-113-en",
+		"prompt": "Live inside a world where everyone communicates only by",
+		"left": "Song",
+		"right": "Mime"
+	},
+	"dlm-114-en": {
+		"id": "dlm-114-en",
+		"prompt": "Your shadow suddenly",
+		"left": "Starts talking to you",
+		"right": "Moves on its own"
+	},
+	"dlm-115-en": {
+		"id": "dlm-115-en",
+		"prompt": "You can only eat with",
+		"left": "Chopsticks for everything",
+		"right": "A single spoon for every meal"
+	},
+	"dlm-116-en": {
+		"id": "dlm-116-en",
+		"prompt": "A tattoo magically appears on your forehead saying",
+		"left": "\"I love pineapples on pizza\"",
+		"right": "\"Ask me about my ex\""
+	},
+	"dlm-117-en": {
+		"id": "dlm-117-en",
+		"prompt": "You have to wear",
+		"left": "A swimsuit to a formal event",
+		"right": "A tuxedo to the beach"
+	},
+	"dlm-118-en": {
+		"id": "dlm-118-en",
+		"prompt": "Your alarm clock is now",
+		"left": "A rooster that lives in your bedroom",
+		"right": "A random stranger who yells at you every morning"
+	},
+	"dlm-119-en": {
+		"id": "dlm-119-en",
+		"prompt": "Your phone autocorrects every text to",
+		"left": "Shakespearean English",
+		"right": "Pirate slang"
+	},
+	"dlm-120-en": {
+		"id": "dlm-120-en",
+		"prompt": "Your sneeze sounds like",
+		"left": "A trumpet blast",
+		"right": "A high-pitched scream"
+	},
+	"dlm-121-en": {
+		"id": "dlm-121-en",
+		"prompt": "You can only watch adult films with",
+		"left": "Your parents in the room",
+		"right": "A group of complete strangers",
+		"nsfw": true
+	},
+	"dlm-122-en": {
+		"id": "dlm-122-en",
+		"prompt": "Your next date involves",
+		"left": "Playing with food",
+		"right": "Testing sex toys",
+		"nsfw": true
+	},
+	"dlm-123-en": {
+		"id": "dlm-123-en",
+		"prompt": "You're magically forced to shout during sex",
+		"left": "\"Take me to the moon!\"",
+		"right": "\"I'm the king/queen of the jungle!\"",
+		"nsfw": true
+	},
+	"dlm-124-en": {
+		"id": "dlm-124-en",
+		"prompt": "You must walk down the street wearing",
+		"left": "A sexy nurse costume",
+		"right": "Leather underwear",
+		"nsfw": true
+	},
+	"dlm-125-en": {
+		"id": "dlm-125-en",
+		"prompt": "You must accidentally send a spicy text to",
+		"left": "Your boss",
+		"right": "Your former teacher",
+		"nsfw": true
+	},
+	"dlm-126-en": {
+		"id": "dlm-126-en",
+		"prompt": "You find out your neighbor is",
+		"left": "A professional stripper",
+		"right": "A director of adult films",
+		"nsfw": true
+	},
+	"dlm-127-en": {
+		"id": "dlm-127-en",
+		"prompt": "You're hypnotized to feel pleasure every time",
+		"left": "Someone says 'thank you'",
+		"right": "You hear a doorbell",
+		"nsfw": true
+	},
+	"dlm-128-en": {
+		"id": "dlm-128-en",
+		"prompt": "Your partner can only get in the mood if you're dressed as",
+		"left": "A cartoon character",
+		"right": "A ridiculous superhero",
+		"nsfw": true
+	},
+	"dlm-129-en": {
+		"id": "dlm-129-en",
+		"prompt": "You can only have intimate moments in",
+		"left": "A crowded elevator",
+		"right": "A very quiet library",
+		"nsfw": true
+	},
+	"dlm-130-en": {
+		"id": "dlm-130-en",
+		"prompt": "Your NSFW superpower is",
+		"left": "You can attract anyone with a wink",
+		"right": "You become irresistible when covered in glitter",
+		"nsfw": true
+	}
 }
