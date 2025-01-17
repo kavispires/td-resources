@@ -1120,15 +1120,18 @@
     "level": 0
   },
   "dqs-0093-pt": {
+    "type": "general",
     "title": "Comunicação",
     "id": "dqs-0093-pt",
     "itemsIds": [
       "83",
       "421",
       "466",
-      "499"
+      "499",
+      "1185",
+      "2064"
     ],
-    "level": 0
+    "level": 1
   },
   "dqs-0094-pt": {
     "title": "Devagar",
@@ -3940,5 +3943,17 @@
       "1950"
     ],
     "level": 3
+  },
+  "dqs-0328-pt": {
+    "type": "general",
+    "title": "Ao redor do pescoço",
+    "id": "dqs-0328-pt",
+    "itemsIds": [
+      "696",
+      "520",
+      "207",
+      "339"
+    ],
+    "level": 1
   }
 }

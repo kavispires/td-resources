@@ -1386,6 +1386,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -2326,14 +2327,15 @@
     ]
   },
   "182": {
-    "id": "182",
     "name": {
       "en": "castle",
       "pt": "castelo"
     },
+    "id": "182",
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -2806,7 +2808,9 @@
     "decks": [
       "alien",
       "dream",
-      "manufactured"
+      "location",
+      "manufactured",
+      "weapon"
     ]
   },
   "220": {
@@ -3557,14 +3561,15 @@
     ]
   },
   "278": {
-    "id": "278",
     "name": {
       "en": "dog house",
       "pt": "casa de cachorro"
     },
+    "id": "278",
     "decks": [
       "alien",
       "evidence",
+      "location",
       "manufactured"
     ]
   },
@@ -4730,14 +4735,15 @@
     ]
   },
   "370": {
-    "id": "370",
     "name": {
       "en": "windmill",
       "pt": "moinho de vento"
     },
+    "id": "370",
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -4750,6 +4756,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -4762,6 +4769,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -5723,14 +5731,15 @@
     ]
   },
   "450": {
-    "id": "450",
     "name": {
       "en": "mountains",
       "pt": "montanhas"
     },
+    "id": "450",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "451": {
@@ -5745,14 +5754,15 @@
     ]
   },
   "452": {
-    "id": "452",
     "name": {
       "en": "igloo",
       "pt": "iglu"
     },
+    "id": "452",
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -5833,25 +5843,27 @@
     ]
   },
   "459": {
-    "id": "459",
     "name": {
       "en": "pagoda",
       "pt": "pagoda"
     },
+    "id": "459",
     "decks": [
       "alien",
+      "location",
       "manufactured"
     ]
   },
   "460": {
-    "id": "460",
     "name": {
       "en": "ship",
       "pt": "barco"
     },
+    "id": "460",
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -6131,6 +6143,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -6208,13 +6221,14 @@
     ]
   },
   "489": {
-    "id": "489",
     "name": {
       "en": "buildings",
       "pt": "prédios"
     },
+    "id": "489",
     "decks": [
       "alien",
+      "location",
       "manufactured"
     ]
   },
@@ -6454,6 +6468,7 @@
     },
     "decks": [
       "alien",
+      "location",
       "manufactured"
     ]
   },
@@ -6499,7 +6514,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "514": {
@@ -6599,7 +6615,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "522": {
@@ -6804,6 +6821,7 @@
     },
     "decks": [
       "alien",
+      "location",
       "manufactured"
     ]
   },
@@ -6951,19 +6969,21 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured",
       "weapon"
     ]
   },
   "551": {
-    "id": "551",
     "name": {
       "en": "subway",
       "pt": "metrô"
     },
+    "id": "551",
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured",
       "weapon"
     ]
@@ -7216,14 +7236,15 @@
     ]
   },
   "572": {
-    "id": "572",
     "name": {
       "en": "submarine",
       "pt": "submarino"
     },
+    "id": "572",
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -7353,7 +7374,8 @@
       "pt": "sexo"
     },
     "decks": [
-      "alien"
+      "alien",
+      "weapon"
     ],
     "nsfw": true
   },
@@ -7893,7 +7915,8 @@
     "decks": [
       "alien",
       "dream",
-      "manufactured"
+      "manufactured",
+      "weapon"
     ]
   },
   "628": {
@@ -7918,7 +7941,8 @@
     "decks": [
       "alien",
       "dream",
-      "manufactured"
+      "manufactured",
+      "weapon"
     ]
   },
   "630": {
@@ -8940,14 +8964,14 @@
     ]
   },
   "713": {
-    "id": "713",
     "name": {
       "en": "waiting room",
       "pt": "sala de espera"
     },
+    "id": "713",
     "decks": [
       "alien",
-      "manufactured"
+      "location"
     ]
   },
   "714": {
@@ -9189,6 +9213,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -9268,14 +9293,15 @@
     ]
   },
   "740": {
-    "id": "740",
     "name": {
       "en": "water slide",
       "pt": "toboágua"
     },
+    "id": "740",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "741": {
@@ -9286,7 +9312,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "742": {
@@ -10173,7 +10200,8 @@
       "pt": "arco do triunfo"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "815": {
@@ -10262,14 +10290,15 @@
     ]
   },
   "822": {
-    "id": "822",
     "name": {
       "en": "helicopter",
       "pt": "helicóptero"
     },
+    "id": "822",
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -10407,13 +10436,14 @@
     ]
   },
   "834": {
-    "id": "834",
     "name": {
       "en": "food truck",
       "pt": "food truck"
     },
+    "id": "834",
     "decks": [
       "alien",
+      "location",
       "manufactured"
     ]
   },
@@ -10453,14 +10483,15 @@
     ]
   },
   "838": {
-    "id": "838",
     "name": {
       "en": "factory",
       "pt": "fábrica"
     },
+    "id": "838",
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -10520,7 +10551,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "844": {
@@ -10598,7 +10630,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "weapon"
     ]
   },
   "851": {
@@ -10610,6 +10643,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -10622,6 +10656,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -11100,11 +11135,15 @@
     "id": "893",
     "name": {
       "en": "abandoned house",
-      "pt": "barraco"
+      "pt": "casa abandonada"
     },
+    "aliasesPt": [
+      "barraco"
+    ],
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "894": {
@@ -11282,7 +11321,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "909": {
@@ -11489,6 +11529,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -11527,6 +11568,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -11598,7 +11640,8 @@
       "pt": "torre inclinada de pisa"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "935": {
@@ -11654,7 +11697,8 @@
       "pt": "casa branca"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "940": {
@@ -12216,6 +12260,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -12527,7 +12572,8 @@
       "pt": "ringue de luta"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1010": {
@@ -13650,7 +13696,8 @@
       "pt": "pet shop"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1108": {
@@ -15218,7 +15265,8 @@
       "pt": "cabeleireiro"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1239": {
@@ -15599,7 +15647,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1271": {
@@ -15635,7 +15684,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1274": {
@@ -15646,7 +15696,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1275": {
@@ -15658,6 +15709,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -15691,7 +15743,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1279": {
@@ -16112,7 +16165,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1314": {
@@ -17087,9 +17141,13 @@
       "en": "university",
       "pt": "faculdade"
     },
+    "aliasesPt": [
+      "universidade"
+    ],
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1395": {
@@ -17181,7 +17239,8 @@
       "pt": "cinema"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1404": {
@@ -17204,17 +17263,19 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1406": {
     "id": "1406",
     "name": {
       "en": "dance floor",
-      "pt": "boate"
+      "pt": "pista de dança"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1407": {
@@ -17970,7 +18031,8 @@
       "pt": "arena de sumô"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1473": {
@@ -17992,7 +18054,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1475": {
@@ -18197,7 +18260,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1492": {
@@ -18220,7 +18284,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1494": {
@@ -18404,7 +18469,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1509": {
@@ -18451,7 +18517,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1513": {
@@ -18485,7 +18552,8 @@
       "pt": "deserto"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1516": {
@@ -18495,7 +18563,8 @@
       "pt": "cânion"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1517": {
@@ -18507,6 +18576,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -18517,7 +18587,8 @@
       "pt": "savana"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1519": {
@@ -18527,7 +18598,8 @@
       "pt": "oceano"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1520": {
@@ -18537,7 +18609,8 @@
       "pt": "campos"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1521": {
@@ -18547,7 +18620,8 @@
       "pt": "colinas"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1522": {
@@ -18557,7 +18631,8 @@
       "pt": "floresta"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1523": {
@@ -18588,7 +18663,8 @@
       "pt": "nevasca"
     },
     "decks": [
-      "dream"
+      "dream",
+      "weapon"
     ]
   },
   "1526": {
@@ -18745,7 +18821,8 @@
       "pt": "farmácia"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1538": {
@@ -18794,6 +18871,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -18875,6 +18953,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -18918,7 +18997,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1552": {
@@ -18964,7 +19044,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1556": {
@@ -19008,7 +19089,8 @@
       "pt": "boutique"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1560": {
@@ -19034,7 +19116,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1562": {
@@ -19057,7 +19140,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1564": {
@@ -19222,7 +19306,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1578": {
@@ -19243,7 +19328,8 @@
       "pt": "consultório dentário"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1580": {
@@ -19463,6 +19549,7 @@
     },
     "decks": [
       "alien",
+      "location",
       "manufactured"
     ]
   },
@@ -19530,7 +19617,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1603": {
@@ -19650,6 +19738,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -19890,7 +19979,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1634": {
@@ -20127,7 +20217,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1654": {
@@ -20493,7 +20584,8 @@
       "pt": "praia"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1685": {
@@ -20685,7 +20777,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1701": {
@@ -20709,6 +20802,7 @@
     },
     "decks": [
       "alien",
+      "location",
       "manufactured"
     ]
   },
@@ -20835,7 +20929,8 @@
       "pt": "estacionamento"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1714": {
@@ -20846,7 +20941,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1715": {
@@ -21446,7 +21542,8 @@
     },
     "decks": [
       "alien",
-      "evidence"
+      "evidence",
+      "location"
     ]
   },
   "1765": {
@@ -21468,7 +21565,8 @@
     },
     "id": "1766",
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1767": {
@@ -21522,6 +21620,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -21566,7 +21665,8 @@
     "id": "1775",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1776": {
@@ -21658,7 +21758,8 @@
     "id": "1783",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1784": {
@@ -21910,7 +22011,8 @@
     },
     "id": "1805",
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1806": {
@@ -21973,7 +22075,8 @@
       "pt": "casa na árvore"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1812": {
@@ -22006,6 +22109,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -22028,7 +22132,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1817": {
@@ -22107,7 +22212,8 @@
       "pt": "café"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1824": {
@@ -22118,7 +22224,8 @@
     "id": "1824",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1825": {
@@ -22279,7 +22386,8 @@
     "id": "1838",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1839": {
@@ -22383,7 +22491,8 @@
     "id": "1847",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1848": {
@@ -22425,7 +22534,8 @@
     },
     "id": "1851",
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "1852": {
@@ -22601,6 +22711,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -22634,7 +22745,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1870": {
@@ -22658,7 +22770,8 @@
     "id": "1871",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1872": {
@@ -22812,6 +22925,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -23164,7 +23278,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1917": {
@@ -23259,7 +23374,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ],
     "nsfw": true
   },
@@ -23377,7 +23493,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1935": {
@@ -23579,7 +23696,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1953": {
@@ -23806,7 +23924,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "1973": {
@@ -25099,7 +25218,9 @@
       "alien",
       "dream",
       "evidence",
-      "manufactured"
+      "location",
+      "manufactured",
+      "weapon"
     ]
   },
   "2088": {
@@ -25110,7 +25231,8 @@
     "id": "2088",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2089": {
@@ -25121,7 +25243,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2090": {
@@ -25178,7 +25301,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2095": {
@@ -25671,7 +25795,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2140": {
@@ -25896,7 +26021,8 @@
     },
     "id": "2159",
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2160": {
@@ -26048,7 +26174,8 @@
     },
     "id": "2173",
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "2174": {
@@ -26074,7 +26201,8 @@
     },
     "id": "2175",
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2176": {
@@ -26266,7 +26394,8 @@
     "id": "2192",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2193": {
@@ -26313,7 +26442,8 @@
     "id": "2196",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2197": {
@@ -26609,7 +26739,8 @@
       "pt": "espaço virtual"
     },
     "decks": [
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2222": {
@@ -26883,7 +27014,8 @@
       "pt": "Sydney Opera House"
     },
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "2248": {
@@ -26895,6 +27027,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -26952,6 +27085,7 @@
     "id": "2253",
     "decks": [
       "alien",
+      "location",
       "manufactured"
     ]
   },
@@ -27100,6 +27234,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -27123,7 +27258,8 @@
     "id": "2268",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2269": {
@@ -27134,7 +27270,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2270": {
@@ -27145,7 +27282,8 @@
     "id": "2270",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2271": {
@@ -27167,6 +27305,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -27377,6 +27516,7 @@
     },
     "decks": [
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -27890,7 +28030,8 @@
     "id": "2339",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2340": {
@@ -28138,7 +28279,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2363": {
@@ -28355,7 +28497,8 @@
     "id": "2381",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2382": {
@@ -28431,7 +28574,8 @@
     "id": "2388",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2389": {
@@ -28624,7 +28768,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2406": {
@@ -28668,7 +28813,8 @@
     "id": "2409",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2410": {
@@ -28726,7 +28872,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2415": {
@@ -29014,7 +29161,8 @@
     ],
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2441": {
@@ -29064,6 +29212,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "thing"
     ]
   },
@@ -29078,7 +29227,8 @@
     ],
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2446": {
@@ -29101,7 +29251,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2448": {
@@ -29112,7 +29263,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2449": {
@@ -29367,7 +29519,8 @@
     ],
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2470": {
@@ -29378,7 +29531,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2471": {
@@ -29426,6 +29580,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "thing"
     ]
   },
@@ -30297,7 +30452,8 @@
     "id": "2543",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2544": {
@@ -30424,7 +30580,8 @@
     },
     "id": "2553",
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "2554": {
@@ -30443,8 +30600,12 @@
       "pt": "slalom"
     },
     "id": "2555",
+    "aliasesPt": [
+      "pista de esqui"
+    ],
     "decks": [
-      "alien"
+      "alien",
+      "location"
     ]
   },
   "2556": {
@@ -30740,6 +30901,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "thing"
     ],
     "nsfw": true
@@ -31070,6 +31232,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -31189,7 +31352,8 @@
     "decks": [
       "alien",
       "dream",
-      "evidence"
+      "evidence",
+      "suspect"
     ]
   },
   "2618": {
@@ -31200,7 +31364,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2619": {
@@ -31267,7 +31432,8 @@
     "id": "2624",
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2625": {
@@ -31278,6 +31444,7 @@
     "id": "2625",
     "decks": [
       "alien",
+      "location",
       "manufactured",
       "thing"
     ]
@@ -31560,6 +31727,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "thing"
     ]
   },
@@ -31695,7 +31863,8 @@
     },
     "decks": [
       "alien",
-      "dream"
+      "dream",
+      "location"
     ]
   },
   "2660": {
@@ -31707,6 +31876,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "thing"
     ]
   },
@@ -31819,6 +31989,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "thing"
     ],
     "groups": {}
@@ -32095,16 +32266,17 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "thing"
     ],
     "groups": {}
   },
   "2689": {
+    "id": "2689",
     "name": {
       "en": "wendigo",
       "pt": "bicho-papão"
     },
-    "id": "2689",
     "aliasesEn": [
       "monster"
     ],
@@ -32113,6 +32285,7 @@
     ],
     "decks": [
       "dream",
+      "suspect",
       "thing"
     ],
     "groups": []
@@ -32230,6 +32403,7 @@
     ],
     "decks": [
       "dream",
+      "location",
       "thing"
     ],
     "groups": []
@@ -32591,6 +32765,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "thing"
     ],
     "groups": []
