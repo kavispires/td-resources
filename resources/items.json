@@ -4141,11 +4141,11 @@
     ]
   },
   "323": {
-    "id": "323",
     "name": {
       "en": "empanada",
       "pt": "pastel assado"
     },
+    "id": "323",
     "decks": [
       "alien",
       "dream",
@@ -16874,11 +16874,14 @@
     ]
   },
   "1373": {
-    "id": "1373",
     "name": {
       "en": "play dough",
       "pt": "massa de modelar"
     },
+    "id": "1373",
+    "aliasesPt": [
+      "massinha"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -32877,11 +32880,11 @@
     "groups": []
   },
   "2730": {
-    "id": "2730",
     "name": {
       "en": "display shelf",
       "pt": "prateleira"
     },
+    "id": "2730",
     "aliasesEn": [
       "display"
     ],
@@ -32908,11 +32911,11 @@
     "groups": []
   },
   "2732": {
-    "id": "2732",
     "name": {
       "en": "cartoon",
       "pt": "desenho animado"
     },
+    "id": "2732",
     "aliasesEn": [
       "animation"
     ],
@@ -32942,11 +32945,11 @@
     "groups": []
   },
   "2734": {
-    "id": "2734",
     "name": {
       "en": "music video",
       "pt": "vídeo clipe"
     },
+    "id": "2734",
     "aliasesEn": [
       "mv"
     ],
@@ -32972,11 +32975,11 @@
     "groups": []
   },
   "2736": {
-    "id": "2736",
     "name": {
       "en": "ping pong",
       "pt": "ping pong"
     },
+    "id": "2736",
     "aliasesEn": [
       "rackets"
     ],
@@ -32991,11 +32994,11 @@
     "groups": []
   },
   "2737": {
-    "id": "2737",
     "name": {
       "en": "ping pong table",
       "pt": "mesa de ping pong"
     },
+    "id": "2737",
     "decks": [
       "alien",
       "manufactured"
@@ -33003,11 +33006,11 @@
     "groups": []
   },
   "2738": {
-    "id": "2738",
     "name": {
       "en": "referee chair",
       "pt": "cadeira do árbitro"
     },
+    "id": "2738",
     "decks": [
       "alien",
       "manufactured"
@@ -33027,11 +33030,11 @@
     "groups": []
   },
   "2740": {
-    "id": "2740",
     "name": {
       "en": "rock-climbing wall",
       "pt": "parede de escalada"
     },
+    "id": "2740",
     "decks": [
       "alien",
       "location"
@@ -33075,11 +33078,11 @@
     "groups": []
   },
   "2743": {
-    "id": "2743",
     "name": {
       "en": "hare",
       "pt": "lebre"
     },
+    "id": "2743",
     "decks": [
       "alien",
       "dream"
@@ -33087,11 +33090,11 @@
     "groups": []
   },
   "2744": {
-    "id": "2744",
     "name": {
       "en": "glue stick",
       "pt": "cola bastão"
     },
+    "id": "2744",
     "decks": [
       "alien",
       "dream",
@@ -33100,11 +33103,11 @@
     "groups": []
   },
   "2745": {
-    "id": "2745",
     "name": {
       "en": "bike helmet",
       "pt": "capacete de bicicleta"
     },
+    "id": "2745",
     "decks": [
       "alien",
       "evidence"
@@ -33112,11 +33115,11 @@
     "groups": []
   },
   "2746": {
-    "id": "2746",
     "name": {
       "en": "nintendo switch",
       "pt": "nintendo switch"
     },
+    "id": "2746",
     "aliasesEn": [
       "switch"
     ],
@@ -33155,11 +33158,11 @@
     "groups": []
   },
   "2749": {
-    "id": "2749",
     "name": {
       "en": "serigraphy",
       "pt": "serigrafia"
     },
+    "id": "2749",
     "decks": [
       "alien",
       "manufactured",
@@ -33196,11 +33199,11 @@
     "groups": []
   },
   "2752": {
-    "id": "2752",
     "name": {
       "en": "horseradish",
       "pt": "raiz-forte"
     },
+    "id": "2752",
     "decks": [
       "alien",
       "dream",
@@ -33209,22 +33212,22 @@
     "groups": []
   },
   "2753": {
-    "id": "2753",
     "name": {
       "en": "puppet show",
       "pt": "teatro de fantoches"
     },
+    "id": "2753",
     "decks": [
       "alien"
     ],
     "groups": []
   },
   "2754": {
-    "id": "2754",
     "name": {
       "en": "car crash",
       "pt": "batida"
     },
+    "id": "2754",
     "aliasesEn": [
       "crash"
     ],
@@ -33253,11 +33256,11 @@
     "groups": []
   },
   "2756": {
-    "id": "2756",
     "name": {
       "en": "potion",
       "pt": "poção"
     },
+    "id": "2756",
     "decks": [
       "alien",
       "dream",
@@ -33266,11 +33269,11 @@
     "groups": []
   },
   "2757": {
-    "id": "2757",
     "name": {
       "en": "briefcase",
       "pt": "maleta"
     },
+    "id": "2757",
     "aliasesPt": [
       "pasta",
       "pasta executiva"
@@ -33285,11 +33288,11 @@
     "groups": []
   },
   "2758": {
-    "id": "2758",
     "name": {
       "en": "hoof",
       "pt": "casco"
     },
+    "id": "2758",
     "decks": [
       "alien",
       "dream",
@@ -33298,11 +33301,11 @@
     "groups": []
   },
   "2759": {
-    "id": "2759",
     "name": {
       "en": "leg press",
       "pt": "leg press"
     },
+    "id": "2759",
     "decks": [
       "alien",
       "manufactured"
@@ -33358,7 +33361,6 @@
       "documentário"
     ],
     "decks": [
-      "alien",
       "dream",
       "thing"
     ],
@@ -33390,11 +33392,11 @@
     "groups": []
   },
   "2765": {
-    "id": "2765",
     "name": {
       "en": "shoulder",
       "pt": "ombro"
     },
+    "id": "2765",
     "decks": [
       "alien",
       "dream",
@@ -33403,11 +33405,11 @@
     "groups": []
   },
   "2766": {
-    "id": "2766",
     "name": {
       "en": "nobody",
       "pt": "ninguém"
     },
+    "id": "2766",
     "decks": [
       "dream",
       "suspect",
@@ -33430,11 +33432,11 @@
     "groups": []
   },
   "2768": {
-    "id": "2768",
     "name": {
       "en": "bedroom",
       "pt": "quarto"
     },
+    "id": "2768",
     "decks": [
       "alien",
       "dream",
@@ -33458,11 +33460,11 @@
     "groups": []
   },
   "2770": {
-    "id": "2770",
     "name": {
       "en": "kitchen",
       "pt": "cozinha"
     },
+    "id": "2770",
     "decks": [
       "alien",
       "dream",
@@ -33472,11 +33474,11 @@
     "groups": []
   },
   "2771": {
-    "id": "2771",
     "name": {
       "en": "living room",
       "pt": "sala"
     },
+    "id": "2771",
     "decks": [
       "alien",
       "dream",
@@ -33486,11 +33488,11 @@
     "groups": []
   },
   "2772": {
-    "id": "2772",
     "name": {
       "en": "garage",
       "pt": "garagem"
     },
+    "id": "2772",
     "decks": [
       "alien",
       "dream",
@@ -33583,11 +33585,11 @@
     "groups": []
   },
   "2779": {
-    "id": "2779",
     "name": {
       "en": "spine",
       "pt": "vértebra"
     },
+    "id": "2779",
     "aliasesPt": [
       "coluna"
     ],
@@ -33610,11 +33612,11 @@
     "groups": []
   },
   "2781": {
-    "id": "2781",
     "name": {
       "en": "rum ",
       "pt": "rum"
     },
+    "id": "2781",
     "decks": [
       "alien",
       "dream",
@@ -33624,11 +33626,11 @@
     "groups": []
   },
   "2782": {
-    "id": "2782",
     "name": {
       "en": "soursop",
       "pt": "graviola"
     },
+    "id": "2782",
     "decks": [
       "alien",
       "dream",
@@ -33696,11 +33698,11 @@
     "groups": []
   },
   "2787": {
-    "id": "2787",
     "name": {
       "en": "fried pastry",
       "pt": "pastel"
     },
+    "id": "2787",
     "decks": [
       "alien",
       "dream",
@@ -33722,11 +33724,11 @@
     "groups": []
   },
   "2789": {
-    "id": "2789",
     "name": {
       "en": "dog park",
       "pt": "parque canino"
     },
+    "id": "2789",
     "decks": [
       "alien",
       "location",
@@ -33735,11 +33737,11 @@
     "groups": []
   },
   "2790": {
-    "id": "2790",
     "name": {
       "en": "banana leaf",
       "pt": "folha de bananeira"
     },
+    "id": "2790",
     "decks": [
       "alien"
     ],
@@ -33759,11 +33761,11 @@
     "groups": []
   },
   "2792": {
-    "id": "2792",
     "name": {
       "en": "festival dancer",
       "pt": "dançarino"
     },
+    "id": "2792",
     "decks": [
       "alien",
       "dream",
@@ -33800,11 +33802,11 @@
     "groups": []
   },
   "2795": {
-    "id": "2795",
     "name": {
       "en": "mech",
       "pt": "mecha"
     },
+    "id": "2795",
     "decks": [
       "alien",
       "dream",
@@ -33813,11 +33815,11 @@
     "groups": []
   },
   "2796": {
-    "id": "2796",
     "name": {
       "en": "grotto",
       "pt": "gruta"
     },
+    "id": "2796",
     "decks": [
       "alien",
       "dream",
@@ -33854,11 +33856,11 @@
     "groups": []
   },
   "2799": {
-    "id": "2799",
     "name": {
       "en": "vodka",
       "pt": "vodka"
     },
+    "id": "2799",
     "decks": [
       "alien",
       "dream",
@@ -33883,11 +33885,11 @@
     "groups": []
   },
   "2801": {
-    "id": "2801",
     "name": {
       "en": "cashew",
       "pt": "caju"
     },
+    "id": "2801",
     "decks": [
       "alien",
       "dream",
@@ -33937,11 +33939,11 @@
     "groups": []
   },
   "2805": {
-    "id": "2805",
     "name": {
       "en": "pew",
       "pt": "banco de igreja"
     },
+    "id": "2805",
     "decks": [
       "alien",
       "dream"
@@ -33949,11 +33951,11 @@
     "groups": []
   },
   "2806": {
-    "id": "2806",
     "name": {
       "en": "inside",
       "pt": "dentro"
     },
+    "id": "2806",
     "aliasesEn": [
       "get in"
     ],
@@ -33966,11 +33968,11 @@
     "groups": []
   },
   "2807": {
-    "id": "2807",
     "name": {
       "en": "outside",
       "pt": "fora"
     },
+    "id": "2807",
     "aliasesEn": [
       "get out"
     ],

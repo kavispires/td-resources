@@ -1899,10 +1899,12 @@
   "dqs-0158-pt": {
     "title": "Almoço",
     "id": "dqs-0158-pt",
+    "type": "thematic",
     "itemsIds": [
-      "187",
       "236",
-      "428"
+      "428",
+      "619",
+      "1509"
     ],
     "level": 0
   },
@@ -2167,16 +2169,18 @@
     "level": 0
   },
   "dqs-0181-pt": {
-    "type": "general",
-    "title": "Bebidas alcoólicas",
+    "title": "Garrafas alcoólicas",
     "id": "dqs-0181-pt",
+    "type": "general",
     "itemsIds": [
       "178",
       "355",
       "679",
       "680",
       "748",
-      "1352"
+      "1352",
+      "2781",
+      "2799"
     ],
     "level": 1
   },
@@ -3636,9 +3640,10 @@
     "title": "Com florzinhas",
     "id": "dqs-0302-pt",
     "itemsIds": [
+      "1717",
       "1890",
       "1906",
-      "1717"
+      "1341"
     ],
     "level": 3
   },
@@ -3831,7 +3836,8 @@
       "390",
       "396",
       "521",
-      "588"
+      "588",
+      "127"
     ],
     "level": 3
   },
@@ -3848,13 +3854,14 @@
     "level": 0
   },
   "dqs-0320-pt": {
-    "title": "Usado em um sequestro",
     "id": "dqs-0320-pt",
+    "title": "Usado em um sequestro",
     "itemsIds": [
       "100",
       "893",
       "1469",
-      "2664"
+      "2664",
+      "2638"
     ],
     "level": 0
   },
@@ -3955,5 +3962,28 @@
       "339"
     ],
     "level": 1
+  },
+  "dqs-0329-pt": {
+    "title": "Partes da Casa",
+    "type": "general",
+    "id": "dqs-0329-pt",
+    "itemsIds": [
+      "2771",
+      "2768",
+      "2769",
+      "2772",
+      "2770"
+    ],
+    "level": 1
+  },
+  "dqs-0330-pt": {
+    "id": "dqs-0330-pt",
+    "title": "Estrelas",
+    "itemsIds": [
+      "1663",
+      "1217",
+      "294"
+    ],
+    "level": 0
   }
 }
