@@ -7,6 +7,11 @@
 		"total": 1,
 		"missions": {},
 		"cards": {
+			"erc-0": {
+				"id": "erc-0",
+				"type": "complete-mission",
+				"content": null
+			},
 			"erc-1": {
 				"id": "erc-1",
 				"type": "mission",
@@ -28,58 +33,53 @@
 			},
 			"erc-2": {
 				"id": "erc-2",
-				"type": "complete-mission",
-				"content": null
-			},
-			"erc-3": {
-				"id": "erc-3",
 				"type": "text",
 				"content": {
 					"spriteId": "note",
 					"text": "Start with something that represents love followed by the most fruit."
 				}
 			},
-			"erc-4": {
-				"id": "erc-4",
+			"erc-3": {
+				"id": "erc-3",
 				"type": "item",
 				"content": {
 					"itemId": "1988"
 				}
 			},
-			"erc-5": {
-				"id": "erc-5",
+			"erc-4": {
+				"id": "erc-4",
 				"type": "item",
 				"content": {
 					"itemId": "14",
 					"name": "Strawberry"
 				}
 			},
-			"erc-6": {
-				"id": "erc-6",
+			"erc-5": {
+				"id": "erc-5",
 				"type": "item",
 				"content": {
 					"itemId": "90",
 					"name": "Banana"
 				}
 			},
-			"erc-7": {
-				"id": "erc-7",
+			"erc-6": {
+				"id": "erc-6",
 				"type": "item",
 				"content": {
 					"itemId": "1858",
 					"name": "Apple"
 				}
 			},
-			"erc-8": {
-				"id": "erc-8",
+			"erc-7": {
+				"id": "erc-7",
 				"type": "item",
 				"content": {
 					"itemId": "621",
 					"name": "Orange"
 				}
 			},
-			"erc-9": {
-				"id": "erc-9",
+			"erc-8": {
+				"id": "erc-8",
 				"type": "item",
 				"content": {
 					"itemId": "125",
