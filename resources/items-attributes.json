@@ -1,22 +1,43 @@
 {
+	"acc": {
+		"id": "acc",
+		"name": {
+			"en": "Accessory",
+			"pt": "Acessório"
+		},
+		"default": false,
+		"description": {
+			"en": "ornament, attachment, additional piece",
+			"pt": "ornamento, anexo, peça adicional"
+		},
+		"keywords": {
+			"en": "accessory ornament, attachment, additional piece",
+			"pt": "acessório ornamento, anexo, peça adicional"
+		},
+		"level": 4,
+		"priority": 87,
+		"relatedId": "too",
+		"specific": true,
+		"spriteId": "sign-45"
+	},
 	"ali": {
 		"id": "ali",
 		"name": {
 			"en": "Alive",
 			"pt": "Vivo"
 		},
+		"default": true,
 		"description": {
 			"en": "life, being, organism, animated",
 			"pt": "vida, ser, organismo, animado"
 		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-0",
-		"priority": 11,
 		"keywords": {
 			"en": "alive life, being, organism, animated",
 			"pt": "vivo vida, ser, organismo, animado"
-		}
+		},
+		"level": 1,
+		"priority": 33,
+		"spriteId": "sign-0"
 	},
 	"bea": {
 		"id": "bea",
@@ -24,18 +45,18 @@
 			"en": "Beautiful",
 			"pt": "Bonito"
 		},
+		"default": true,
 		"description": {
 			"en": "attractiveness, charming, colorful, festive, decoration",
 			"pt": "atraente, charmoso, colorido, festivo, decorativo"
 		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-1",
-		"priority": 7,
 		"keywords": {
 			"en": "beautiful attractiveness, charming, colorful, festive, decoration",
 			"pt": "bonito atraente, charmoso, colorido, festivo, decorativo"
-		}
+		},
+		"level": 2,
+		"priority": 21,
+		"spriteId": "sign-1"
 	},
 	"big": {
 		"id": "big",
@@ -43,18 +64,18 @@
 			"en": "Big",
 			"pt": "Grande"
 		},
+		"default": true,
 		"description": {
 			"en": "size, magnitude",
 			"pt": "tamanho, magnitude"
 		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-2",
-		"priority": 36,
 		"keywords": {
 			"en": "big size, magnitude",
 			"pt": "grande tamanho, magnitude"
-		}
+		},
+		"level": 1,
+		"priority": 108,
+		"spriteId": "sign-2"
 	},
 	"bri": {
 		"id": "bri",
@@ -62,634 +83,18 @@
 			"en": "Bright",
 			"pt": "Brilho"
 		},
+		"default": true,
 		"description": {
 			"en": "light, shiny, reflective",
 			"pt": "luz, brilhante, reflexivo"
 		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-3",
-		"priority": 18,
 		"keywords": {
 			"en": "bright light, shiny, reflective",
 			"pt": "brilho luz, brilhante, reflexivo"
-		}
-	},
-	"clo": {
-		"id": "clo",
-		"name": {
-			"en": "Clothes",
-			"pt": "Vestimenta"
 		},
-		"description": {
-			"en": "Wearables, fashion, clothing",
-			"pt": "moda, roupas, acessórios"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-4",
-		"priority": 6,
-		"keywords": {
-			"en": "clothes wearables, fashion, clothing",
-			"pt": "vestimenta moda, roupas, acessórios"
-		}
-	},
-	"dan": {
-		"id": "dan",
-		"name": {
-			"en": "Danger",
-			"pt": "Perigo"
-		},
-		"description": {
-			"en": "hazard, risk, threat",
-			"pt": "risco, ameaça"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-6",
-		"priority": 21,
-		"keywords": {
-			"en": "danger hazard, risk, threat",
-			"pt": "perigo risco, ameaça"
-		}
-	},
-	"def": {
-		"id": "def",
-		"name": {
-			"en": "Defense",
-			"pt": "Defesa"
-		},
-		"description": {
-			"en": "shield, protection, covering",
-			"pt": "proteção, cobertura, escudo"
-		},
-		"default": true,
 		"level": 2,
-		"spriteId": "sign-7",
-		"priority": 23,
-		"keywords": {
-			"en": "defense shield, protection, covering",
-			"pt": "defesa proteção, cobertura, escudo"
-		}
-	},
-	"fas": {
-		"id": "fas",
-		"name": {
-			"en": "Fast",
-			"pt": "Rápido"
-		},
-		"description": {
-			"en": "movement, speed, velocity",
-			"pt": "movimento, velocidade, rapidez"
-		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-8",
-		"priority": 24,
-		"keywords": {
-			"en": "fast movement, speed, velocity",
-			"pt": "rápido movimento, velocidade, rapidez"
-		}
-	},
-	"fla": {
-		"id": "fla",
-		"name": {
-			"en": "Flat",
-			"pt": "Plano"
-		},
-		"description": {
-			"en": "surface, smooth, level",
-			"pt": "superfície, liso, nivelado"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-9",
-		"priority": 37,
-		"keywords": {
-			"en": "flat surface, smooth, level",
-			"pt": "plano superfície, liso, nivelado"
-		}
-	},
-	"fli": {
-		"id": "fli",
-		"name": {
-			"en": "Flight",
-			"pt": "Vôo"
-		},
-		"description": {
-			"en": "flying, glides, has wings",
-			"pt": "voador, alado"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-10",
-		"priority": 10,
-		"keywords": {
-			"en": "flight flying, glides, has wings",
-			"pt": "vôo voador, alado"
-		}
-	},
-	"foo": {
-		"id": "foo",
-		"name": {
-			"en": "Food",
-			"pt": "Comida"
-		},
-		"description": {
-			"en": "edible, sustenance, used for eating or cooking",
-			"pt": "comestível, sustento, usado para comer ou cozinhar"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-11",
-		"priority": 1,
-		"keywords": {
-			"en": "food edible, sustenance, used for eating or cooking",
-			"pt": "comida comestível, sustento, usado para comer ou cozinhar"
-		}
-	},
-	"hea": {
-		"id": "hea",
-		"name": {
-			"en": "Heavy",
-			"pt": "Pesado"
-		},
-		"description": {
-			"en": "weight, mass",
-			"pt": "peso, massa"
-		},
-		"default": true,
-		"level": 3,
-		"spriteId": "sign-13",
-		"priority": 43,
-		"keywords": {
-			"en": "heavy weight, mass",
-			"pt": "pesado peso, massa"
-		}
-	},
-	"hum": {
-		"id": "hum",
-		"name": {
-			"en": "Human",
-			"pt": "Humano"
-		},
-		"description": {
-			"en": "person, human body, used by people, has human features",
-			"pt": "pessoa, corpo, usado por pessoas, tem características humanas"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-15",
-		"priority": 9,
-		"keywords": {
-			"en": "human person, human body, used by people, has human features",
-			"pt": "humano pessoa, corpo, usado por pessoas, tem características humanas"
-		}
-	},
-	"kno": {
-		"id": "kno",
-		"name": {
-			"en": "Knowledge",
-			"pt": "Conhecimento"
-		},
-		"description": {
-			"en": "wisdom, smarts, idea, gives information",
-			"pt": "sabedoria, inteligência, ideia, dá informação"
-		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-16",
-		"priority": 14,
-		"keywords": {
-			"en": "knowledge wisdom, smarts, idea, gives information",
-			"pt": "conhecimento sabedoria, inteligência, ideia, dá informação"
-		}
-	},
-	"liq": {
-		"id": "liq",
-		"name": {
-			"en": "Liquid",
-			"pt": "Líquido"
-		},
-		"description": {
-			"en": "fluid, aquatic, water",
-			"pt": "fluido, aquático"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-41",
-		"priority": 5,
-		"keywords": {
-			"en": "liquid fluid, aquatic, water",
-			"pt": "líquido fluido, aquático"
-		}
-	},
-	"lon": {
-		"id": "lon",
-		"name": {
-			"en": "Long",
-			"pt": "Longo"
-		},
-		"description": {
-			"en": "tall, lengthy",
-			"pt": "alto, comprido"
-		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-18",
-		"priority": 31,
-		"keywords": {
-			"en": "long tall, lengthy",
-			"pt": "longo alto, comprido"
-		}
-	},
-	"mac": {
-		"id": "mac",
-		"name": {
-			"en": "Machine",
-			"pt": "Máquina"
-		},
-		"description": {
-			"en": "has gears, uses powers, works",
-			"pt": "tem engrenagens, usa energia, funciona"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-19",
-		"priority": 17,
-		"keywords": {
-			"en": "machine has gears, uses powers, works",
-			"pt": "máquina tem engrenagens, usa energia, funciona"
-		}
-	},
-	"met": {
-		"id": "met",
-		"name": {
-			"en": "Metal",
-			"pt": "Metal"
-		},
-		"description": {
-			"en": "has metallic shiny parts, made of metal",
-			"pt": "tem partes metálicas brilhantes, feito de metal"
-		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-20",
-		"priority": 32,
-		"keywords": {
-			"en": "metal has metallic shiny parts, made of metal",
-			"pt": "metal tem partes metálicas brilhantes, feito de metal"
-		}
-	},
-	"odo": {
-		"id": "odo",
-		"name": {
-			"en": "Odor",
-			"pt": "Cheiro"
-		},
-		"description": {
-			"en": "smell, odor, aroma",
-			"pt": "perfume, odor, aroma, fedor"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-22",
-		"priority": 33,
-		"keywords": {
-			"en": "odor smell, odor, aroma",
-			"pt": "cheiro perfume, odor, aroma, fedor"
-		}
-	},
-	"old": {
-		"id": "old",
-		"name": {
-			"en": "Old",
-			"pt": "Velho"
-		},
-		"description": {
-			"en": "elderly, aged, dated, ancient",
-			"pt": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-23",
-		"priority": 34,
-		"keywords": {
-			"en": "old elderly aged dated ancient time",
-			"pt": "velho idoso envelhecido fora de moda antigo ultrapassado tempo"
-		}
-	},
-	"pla": {
-		"id": "pla",
-		"name": {
-			"en": "Plant",
-			"pt": "Planta"
-		},
-		"description": {
-			"en": "vegetation, flora, green, wood",
-			"pt": "vegetação, flora, verde, madeira"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-25",
-		"priority": 3,
-		"keywords": {
-			"en": "plant vegetation, flora, green, wood",
-			"pt": "planta vegetação, flora, verde, madeira"
-		}
-	},
-	"pow": {
-		"id": "pow",
-		"name": {
-			"en": "Power",
-			"pt": "Força"
-		},
-		"description": {
-			"en": "strength, energy, force, electricity",
-			"pt": "poder, energia, eletricidade"
-		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-26",
-		"priority": 15,
-		"keywords": {
-			"en": "power strength, energy, force, electricity",
-			"pt": "força poder, energia, eletricidade"
-		}
-	},
-	"rou": {
-		"id": "rou",
-		"name": {
-			"en": "Round",
-			"pt": "Redondo"
-		},
-		"description": {
-			"en": "circular, sphere, oval",
-			"pt": "circular, esfera, oval"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-27",
-		"priority": 19,
-		"keywords": {
-			"en": "round circular, sphere, oval",
-			"pt": "redondo circular, esfera, oval"
-		}
-	},
-	"sha": {
-		"id": "sha",
-		"name": {
-			"en": "Sharp",
-			"pt": "Afiado"
-		},
-		"description": {
-			"en": "pointy, cutting, blade",
-			"pt": "pontiagudo, cortante, lâmina"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-28",
-		"priority": 8,
-		"keywords": {
-			"en": "sharp pointy, cutting, blade",
-			"pt": "afiado pontiagudo, cortante, lâmina"
-		}
-	},
-	"sof": {
-		"id": "sof",
-		"name": {
-			"en": "Soft",
-			"pt": "Mole"
-		},
-		"description": {
-			"en": "gentle, smooth, plush, gooey, bendable",
-			"pt": "gentil, suave, macio, pegajoso, flexível"
-		},
-		"default": false,
-		"level": 3,
-		"spriteId": "sign-29",
-		"priority": 39,
-		"oppositeId": "har",
-		"keywords": {
-			"en": "soft gentle, smooth, plush, gooey, bendable",
-			"pt": "mole gentil, suave, macio, pegajoso, flexível"
-		}
-	},
-	"har": {
-		"id": "har",
-		"name": {
-			"en": "Hard",
-			"pt": "Duro"
-		},
-		"description": {
-			"en": "solid, firm, rigid, unyielding",
-			"pt": "sólido, firme, rígido, inflexível"
-		},
-		"default": true,
-		"level": 4,
-		"spriteId": "sign-30",
-		"priority": 39,
-		"oppositeId": "sof",
-		"keywords": {
-			"en": "hard solid, firm, rigid, unyielding",
-			"pt": "duro sólido, firme, rígido, inflexível"
-		}
-	},
-	"sou": {
-		"id": "sou",
-		"name": {
-			"en": "Sound",
-			"pt": "Som"
-		},
-		"description": {
-			"en": "makes sound naturally or by design or interaction",
-			"pt": "faz som naturalmente ou por design ou interação"
-		},
-		"default": false,
-		"level": 1,
-		"spriteId": "sign-31",
-		"priority": 17,
-		"keywords": {
-			"en": "sound makes sound naturally or by design or interaction",
-			"pt": "som faz som naturalmente ou por design ou interação"
-		}
-	},
-	"too": {
-		"id": "too",
-		"name": {
-			"en": "Tool",
-			"pt": "Ferramenta"
-		},
-		"description": {
-			"en": "instrument, device, implement",
-			"pt": "instrumento, dispositivo, implemento"
-		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-33",
-		"priority": 27,
-		"relatedId": "ins",
-		"keywords": {
-			"en": "tool instrument, device, implement",
-			"pt": "ferramenta instrumento, dispositivo, implemento"
-		}
-	},
-	"val": {
-		"id": "val",
-		"name": {
-			"en": "Valuable",
-			"pt": "Valioso"
-		},
-		"description": {
-			"en": "precious, rare, money, sentimental value",
-			"pt": "precioso, raro, dinheiro, valor sentimental"
-		},
-		"default": true,
-		"level": 3,
-		"spriteId": "sign-35",
-		"priority": 4,
-		"keywords": {
-			"en": "valuable precious rare money sentimental value cheap expensive price purchase",
-			"pt": "valioso precioso raro dinheiro valor sentimental caro barato preço compra chique"
-		}
-	},
-	"war": {
-		"id": "war",
-		"name": {
-			"en": "Warm",
-			"pt": "Quente"
-		},
-		"description": {
-			"en": "heat, cozy, temperature",
-			"pt": "calor, aconchegante, temperatura"
-		},
-		"default": true,
-		"level": 2,
-		"spriteId": "sign-36",
-		"priority": 13,
-		"oppositeId": "col",
-		"keywords": {
-			"en": "warm heat, cozy, temperature",
-			"pt": "quente calor aconchegante temperatura frio gelado fogo queimar"
-		}
-	},
-	"wea": {
-		"id": "wea",
-		"name": {
-			"en": "Weapon",
-			"pt": "Arma"
-		},
-		"description": {
-			"en": "artillery, offense, used in combat",
-			"pt": "artilharia, ofensiva, usado em combate"
-		},
-		"default": true,
-		"level": 1,
-		"spriteId": "sign-32",
-		"priority": 2,
-		"keywords": {
-			"en": "weapon artillery, offense, used in combat",
-			"pt": "arma artilharia, ofensiva, usado em combate"
-		}
-	},
-	"gra": {
-		"id": "gra",
-		"name": {
-			"en": "Grabbable",
-			"pt": "Segurável"
-		},
-		"description": {
-			"en": "holdable, you normally hold or has a handle or mainly holds something",
-			"pt": "com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-14",
-		"priority": 40,
-		"limited": true,
-		"keywords": {
-			"en": "grabbable holdable, you normally hold or has a handle or mainly holds something",
-			"pt": "segurável com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
-		}
-	},
-	"per": {
-		"id": "per",
-		"name": {
-			"en": "Personal",
-			"pt": "Pessoal"
-		},
-		"description": {
-			"en": "Belonging to a person, private, used by a single person",
-			"pt": "Pertencente a uma pessoa, privado, usado por uma única pessoa"
-		},
-		"default": false,
-		"level": 4,
-		"spriteId": "sign-24",
-		"priority": 45,
-		"limited": true,
-		"keywords": {
-			"en": "personal belonging to a person, private, used by a single person",
-			"pt": "pessoal pertencente a uma pessoa, privado, usado por uma única pessoa"
-		}
-	},
-	"mul": {
-		"id": "mul",
-		"name": {
-			"en": "Multiple",
-			"pt": "Múltiplo"
-		},
-		"description": {
-			"en": "usually found in pairs, groups, or sets, or people own more than one",
-			"pt": "pares, grupos, conjuntos, ou as pessoas possuem mais de um"
-		},
-		"default": false,
-		"level": 4,
-		"spriteId": "sign-21",
-		"priority": 36,
-		"limited": true,
-		"keywords": {
-			"en": "multiple usually found in pairs, groups, or sets, or people own more than one",
-			"pt": "múltiplo pares, grupos, conjuntos, ou as pessoas possuem mais de um"
-		}
-	},
-	"fra": {
-		"id": "fra",
-		"name": {
-			"en": "Fragile",
-			"pt": "Frágil"
-		},
-		"description": {
-			"en": "delicate, easily broken, sensitive",
-			"pt": "delicado, facilmente quebrável, sensível"
-		},
-		"default": false,
-		"level": 4,
-		"spriteId": "sign-12",
-		"priority": 44,
-		"limited": true,
-		"keywords": {
-			"en": "fragile delicate, easily broken, sensitive",
-			"pt": "frágil delicado, facilmente quebrável, sensível"
-		}
-	},
-	"toy": {
-		"id": "toy",
-		"name": {
-			"en": "Toy",
-			"pt": "Brinquedo"
-		},
-		"description": {
-			"en": "plaything, amusement, for children",
-			"pt": "laser, prazer, diversão, para crianças"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-34",
-		"priority": 26,
-		"keywords": {
-			"en": "toy plaything, amusement, for children",
-			"pt": "brinquedo laser, prazer, diversão, para crianças"
-		}
+		"priority": 54,
+		"spriteId": "sign-3"
 	},
 	"bui": {
 		"id": "bui",
@@ -697,94 +102,18 @@
 			"en": "Construction",
 			"pt": "Construção"
 		},
+		"default": false,
 		"description": {
 			"en": "building, structure, architecture, housing",
 			"pt": "prédios, estrutura, arquitetura, habitação"
 		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-42",
-		"priority": 22,
 		"keywords": {
 			"en": "construction building structure architecture housing store",
 			"pt": "construção prédios estrutura arquitetura habitação"
-		}
-	},
-	"tec": {
-		"id": "tec",
-		"name": {
-			"en": "Technology",
-			"pt": "Tecnologia"
 		},
-		"description": {
-			"en": "electronics, digital, computer, internet",
-			"pt": "eletrônicos, digital, computador, internet"
-		},
-		"default": false,
 		"level": 2,
-		"spriteId": "sign-37",
-		"priority": 12,
-		"keywords": {
-			"en": "technology electronics, digital, computer, internet",
-			"pt": "tecnologia eletrônicos, digital, computador, internet"
-		}
-	},
-	"con": {
-		"id": "con",
-		"name": {
-			"en": "Container",
-			"pt": "Recipiente"
-		},
-		"description": {
-			"en": "holds, stores, or encloses items or substances",
-			"pt": "contém, armazena ou envolve itens ou substâncias"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-17",
-		"priority": 20,
-		"keywords": {
-			"en": "container holds, stores, or encloses items or substances",
-			"pt": "recipiente contém, armazena ou envolve itens ou substâncias"
-		}
-	},
-	"hol": {
-		"id": "hol",
-		"name": {
-			"en": "Holes",
-			"pt": "Buracos"
-		},
-		"description": {
-			"en": "has gaps, perforations, or openings",
-			"pt": "possui lacunas, perfurações ou aberturas"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-5",
-		"priority": 42,
-		"keywords": {
-			"en": "holes has gaps, perforations, or openings",
-			"pt": "buracos possui lacunas, perfurações ou aberturas"
-		}
-	},
-	"wri": {
-		"id": "wri",
-		"name": {
-			"en": "Writing",
-			"pt": "Escrita"
-		},
-		"description": {
-			"en": "text, letters, or symbols used for communication",
-			"pt": "texto, letras ou símbolos usados para comunicação"
-		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-38",
-		"priority": 35,
-		"keywords": {
-			"en": "writing text, letters, or symbols used for communication",
-			"pt": "escrita texto, letras ou símbolos usados para comunicação"
-		}
+		"priority": 66,
+		"spriteId": "sign-42"
 	},
 	"but": {
 		"id": "but",
@@ -792,19 +121,40 @@
 			"en": "Buttons",
 			"pt": "Botões"
 		},
+		"default": false,
 		"description": {
 			"en": "keys, switches, pressable, or clickable",
 			"pt": "teclas, interruptores, pressionáveis ou clicáveis"
 		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-39",
-		"limited": true,
-		"priority": 30,
 		"keywords": {
 			"en": "buttons keys, switches, pressable clickable",
 			"pt": "botões teclas interruptores pressionáveis clicáveis"
-		}
+		},
+		"level": 2,
+		"limited": true,
+		"priority": 90,
+		"relatedId": "mac",
+		"specific": true,
+		"spriteId": "sign-39"
+	},
+	"clo": {
+		"id": "clo",
+		"name": {
+			"en": "Clothes",
+			"pt": "Vestimenta"
+		},
+		"default": true,
+		"description": {
+			"en": "Wearables, fashion, clothing",
+			"pt": "moda, roupas, acessórios"
+		},
+		"keywords": {
+			"en": "clothes wearables, fashion, clothing",
+			"pt": "vestimenta moda, roupas, acessórios"
+		},
+		"level": 1,
+		"priority": 18,
+		"spriteId": "sign-4"
 	},
 	"col": {
 		"id": "col",
@@ -812,79 +162,313 @@
 			"en": "Cold",
 			"pt": "Frio"
 		},
+		"default": false,
 		"description": {
 			"en": "low temperature, chilly, icy, refreshing",
 			"pt": "baixa temperatura, gelado, refrescante"
 		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-40",
-		"priority": 13,
-		"oppositeId": "war",
 		"keywords": {
 			"en": "cold low temperature chilly ice icy freezing  frozen refreshing",
 			"pt": "frio baixa temperatura gelado gelo congelado refrescante"
-		}
-	},
-	"nat": {
-		"id": "nat",
-		"name": {
-			"en": "Natural",
-			"pt": "Natural"
 		},
-		"description": {
-			"en": "found in nature, not artificial, organic",
-			"pt": "encontrado na natureza, não artificial, orgânico"
+		"level": 2,
+		"oppositeId": "war",
+		"priority": 39,
+		"spriteId": "sign-40"
+	},
+	"con": {
+		"id": "con",
+		"name": {
+			"en": "Container",
+			"pt": "Recipiente"
 		},
 		"default": false,
+		"description": {
+			"en": "holds, stores, or encloses items or substances",
+			"pt": "contém, armazena ou envolve itens ou substâncias"
+		},
+		"keywords": {
+			"en": "container holds, stores, or encloses items or substances",
+			"pt": "recipiente contém, armazena ou envolve itens ou substâncias"
+		},
+		"level": 2,
+		"priority": 60,
+		"spriteId": "sign-17"
+	},
+	"dan": {
+		"id": "dan",
+		"name": {
+			"en": "Danger",
+			"pt": "Perigo"
+		},
+		"default": true,
+		"description": {
+			"en": "hazard, risk, threat",
+			"pt": "risco, ameaça"
+		},
+		"keywords": {
+			"en": "danger hazard, risk, threat",
+			"pt": "perigo risco, ameaça"
+		},
+		"level": 1,
+		"priority": 63,
+		"spriteId": "sign-6"
+	},
+	"def": {
+		"id": "def",
+		"name": {
+			"en": "Defense",
+			"pt": "Defesa"
+		},
+		"default": true,
+		"description": {
+			"en": "shield, protection, covering",
+			"pt": "proteção, cobertura, escudo"
+		},
+		"keywords": {
+			"en": "defense shield, protection, covering",
+			"pt": "defesa proteção, cobertura, escudo"
+		},
+		"level": 2,
+		"priority": 69,
+		"spriteId": "sign-7"
+	},
+	"fas": {
+		"id": "fas",
+		"name": {
+			"en": "Fast",
+			"pt": "Rápido"
+		},
+		"default": true,
+		"description": {
+			"en": "movement, speed, velocity",
+			"pt": "movimento, velocidade, rapidez"
+		},
+		"keywords": {
+			"en": "fast movement, speed, velocity",
+			"pt": "rápido movimento, velocidade, rapidez"
+		},
+		"level": 2,
+		"priority": 72,
+		"spriteId": "sign-8"
+	},
+	"fla": {
+		"id": "fla",
+		"name": {
+			"en": "Flat",
+			"pt": "Plano"
+		},
+		"default": false,
+		"description": {
+			"en": "surface, smooth, level",
+			"pt": "superfície, liso, nivelado"
+		},
+		"keywords": {
+			"en": "flat surface, smooth, level",
+			"pt": "plano superfície, liso, nivelado"
+		},
+		"level": 2,
+		"priority": 111,
+		"spriteId": "sign-9"
+	},
+	"fli": {
+		"id": "fli",
+		"name": {
+			"en": "Flight",
+			"pt": "Vôo"
+		},
+		"default": true,
+		"description": {
+			"en": "flying, glides, has wings",
+			"pt": "voador, alado"
+		},
+		"keywords": {
+			"en": "flight flying, glides, has wings",
+			"pt": "vôo voador, alado"
+		},
+		"level": 1,
+		"priority": 30,
+		"spriteId": "sign-10"
+	},
+	"foo": {
+		"id": "foo",
+		"name": {
+			"en": "Food",
+			"pt": "Comida"
+		},
+		"default": true,
+		"description": {
+			"en": "edible, sustenance, used for eating or cooking",
+			"pt": "comestível, sustento, usado para comer ou cozinhar"
+		},
+		"keywords": {
+			"en": "food edible, sustenance, used for eating or cooking",
+			"pt": "comida comestível, sustento, usado para comer ou cozinhar"
+		},
+		"level": 1,
+		"priority": 3,
+		"spriteId": "sign-11"
+	},
+	"fra": {
+		"id": "fra",
+		"name": {
+			"en": "Fragile",
+			"pt": "Frágil"
+		},
+		"default": false,
+		"description": {
+			"en": "delicate, easily broken, sensitive",
+			"pt": "delicado, facilmente quebrável, sensível"
+		},
+		"keywords": {
+			"en": "fragile delicate, easily broken, sensitive",
+			"pt": "frágil delicado, facilmente quebrável, sensível"
+		},
+		"level": 4,
+		"limited": true,
+		"priority": 132,
+		"spriteId": "sign-12"
+	},
+	"gra": {
+		"id": "gra",
+		"name": {
+			"en": "Grabbable",
+			"pt": "Segurável"
+		},
+		"default": false,
+		"description": {
+			"en": "holdable, you normally hold or has a handle or mainly holds something",
+			"pt": "com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
+		},
+		"keywords": {
+			"en": "grabbable holdable, you normally hold or has a handle or mainly holds something",
+			"pt": "segurável com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
+		},
+		"level": 2,
+		"limited": true,
+		"priority": 120,
+		"spriteId": "sign-14"
+	},
+	"har": {
+		"id": "har",
+		"name": {
+			"en": "Hard",
+			"pt": "Duro"
+		},
+		"default": true,
+		"description": {
+			"en": "solid, firm, rigid, unyielding",
+			"pt": "sólido, firme, rígido, inflexível"
+		},
+		"keywords": {
+			"en": "hard solid, firm, rigid, unyielding",
+			"pt": "duro sólido, firme, rígido, inflexível"
+		},
+		"level": 4,
+		"oppositeId": "sof",
+		"priority": 117,
+		"spriteId": "sign-30"
+	},
+	"hea": {
+		"id": "hea",
+		"name": {
+			"en": "Heavy",
+			"pt": "Pesado"
+		},
+		"default": true,
+		"description": {
+			"en": "weight, mass",
+			"pt": "peso, massa"
+		},
+		"keywords": {
+			"en": "heavy weight, mass",
+			"pt": "pesado peso, massa"
+		},
 		"level": 3,
-		"spriteId": "sign-43",
-		"priority": 25,
-		"oppositeId": "pls",
-		"keywords": {
-			"en": "natural found in nature plant not artificial organic",
-			"pt": "natural encontrado na natureza plant não artificial orgânico"
-		}
+		"priority": 129,
+		"spriteId": "sign-13"
 	},
-	"pls": {
-		"id": "pls",
+	"hei": {
+		"id": "height",
 		"name": {
-			"en": "Plastic",
-			"pt": "Plástico"
-		},
-		"description": {
-			"en": "rubber, synthetic material,",
-			"pt": "borracha, material sintético"
+			"en": "Height",
+			"pt": "Altura"
 		},
 		"default": false,
-		"level": 2,
-		"spriteId": "sign-44",
-		"priority": 25,
-		"oppositeId": "nat",
-		"keywords": {
-			"en": "plastic rubber, synthetic material,",
-			"pt": "plástico borracha, material sintético"
-		}
-	},
-	"acc": {
-		"id": "acc",
-		"name": {
-			"en": "Accessory",
-			"pt": "Acessório"
-		},
 		"description": {
-			"en": "ornament, attachment, additional piece",
-			"pt": "ornamento, anexo, peça adicional"
+			"en": "high, tall, height, altitude",
+			"pt": "alto, alto, altura, altitude"
+		},
+		"keywords": {
+			"en": "height high tall altitude",
+			"pt": "altura alto alto altitude"
+		},
+		"level": 4,
+		"limited": false,
+		"priority": 30,
+		"relatedId": "lon",
+		"specific": true,
+		"spriteId": "sign-55"
+	},
+	"height": {
+		"id": "height",
+		"name": {
+			"en": "Height",
+			"pt": "Altura"
 		},
 		"default": false,
-		"level": 2,
-		"spriteId": "sign-45",
-		"priority": 29,
-		"relatedId": "ins",
+		"description": {
+			"en": "high, tall, height, altitude",
+			"pt": "alto, alto, altura, altitude"
+		},
 		"keywords": {
-			"en": "accessory ornament, attachment, additional piece",
-			"pt": "acessório ornamento, anexo, peça adicional"
-		}
+			"en": "height high tall altitude",
+			"pt": "altura alto alto altitude"
+		},
+		"level": 4,
+		"limited": false,
+		"priority": 30,
+		"relatedId": "lon",
+		"specific": true,
+		"spriteId": "sign-55"
+	},
+	"hol": {
+		"id": "hol",
+		"name": {
+			"en": "Holes",
+			"pt": "Buracos"
+		},
+		"default": false,
+		"description": {
+			"en": "has gaps, perforations, or openings",
+			"pt": "possui lacunas, perfurações ou aberturas"
+		},
+		"keywords": {
+			"en": "holes has gaps, perforations, or openings",
+			"pt": "buracos possui lacunas, perfurações ou aberturas"
+		},
+		"level": 2,
+		"priority": 126,
+		"spriteId": "sign-5"
+	},
+	"hum": {
+		"id": "hum",
+		"name": {
+			"en": "Human",
+			"pt": "Humano"
+		},
+		"default": true,
+		"description": {
+			"en": "person, human body, used by people, has human features",
+			"pt": "pessoa, corpo, usado por pessoas, tem características humanas"
+		},
+		"keywords": {
+			"en": "human person, human body, used by people, has human features",
+			"pt": "humano pessoa, corpo, usado por pessoas, tem características humanas"
+		},
+		"level": 1,
+		"priority": 27,
+		"spriteId": "sign-15"
 	},
 	"ins": {
 		"id": "ins",
@@ -892,39 +476,199 @@
 			"en": "Instrument",
 			"pt": "Instrumento"
 		},
+		"default": false,
 		"description": {
 			"en": "utensil, support",
 			"pt": "utensílio, suporte"
 		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-46",
-		"priority": 28,
-		"relatedId": "too",
 		"keywords": {
 			"en": "instrument utensil, support",
 			"pt": "instrumento utensílio, suporte"
-		}
-	},
-	"sma": {
-		"id": "sma",
-		"name": {
-			"en": "Small",
-			"pt": "Pequeno"
 		},
+		"level": 4,
+		"priority": 84,
+		"relatedId": "too",
+		"specific": true,
+		"spriteId": "sign-46"
+	},
+	"kno": {
+		"id": "kno",
+		"name": {
+			"en": "Knowledge",
+			"pt": "Conhecimento"
+		},
+		"default": true,
 		"description": {
-			"en": "tiny, miniature, compact",
-			"pt": "pequeno, compacto"
+			"en": "wisdom, smarts, idea, gives information",
+			"pt": "sabedoria, inteligência, ideia, dá informação"
+		},
+		"keywords": {
+			"en": "knowledge wisdom, smarts, idea, gives information",
+			"pt": "conhecimento sabedoria, inteligência, ideia, dá informação"
+		},
+		"level": 2,
+		"priority": 42,
+		"spriteId": "sign-16"
+	},
+	"liq": {
+		"id": "liq",
+		"name": {
+			"en": "Liquid",
+			"pt": "Líquido"
+		},
+		"default": true,
+		"description": {
+			"en": "fluid, aquatic, water",
+			"pt": "fluido, aquático"
+		},
+		"keywords": {
+			"en": "liquid fluid, aquatic, water",
+			"pt": "líquido fluido, aquático"
+		},
+		"level": 1,
+		"priority": 15,
+		"spriteId": "sign-41"
+	},
+	"lon": {
+		"id": "lon",
+		"name": {
+			"en": "Long",
+			"pt": "Longo"
+		},
+		"default": true,
+		"description": {
+			"en": "tall, lengthy",
+			"pt": "alto, comprido"
+		},
+		"keywords": {
+			"en": "long tall, lengthy",
+			"pt": "longo alto, comprido"
+		},
+		"level": 2,
+		"priority": 93,
+		"spriteId": "sign-18"
+	},
+	"mac": {
+		"id": "mac",
+		"name": {
+			"en": "Machine",
+			"pt": "Máquina"
 		},
 		"default": false,
-		"level": 2,
-		"spriteId": "sign-47",
-		"priority": 38,
-		"oppositeId": "big",
+		"description": {
+			"en": "has gears, uses powers, works",
+			"pt": "tem engrenagens, usa energia, funciona"
+		},
 		"keywords": {
-			"en": "small tiny, miniature, compact",
-			"pt": "pequeno pequeno, compacto"
-		}
+			"en": "machine has gears, uses powers, works",
+			"pt": "máquina tem engrenagens, usa energia, funciona"
+		},
+		"level": 2,
+		"priority": 51,
+		"spriteId": "sign-19"
+	},
+	"met": {
+		"id": "met",
+		"name": {
+			"en": "Metal",
+			"pt": "Metal"
+		},
+		"default": true,
+		"description": {
+			"en": "has metallic shiny parts, made of metal",
+			"pt": "tem partes metálicas brilhantes, feito de metal"
+		},
+		"keywords": {
+			"en": "metal has metallic shiny parts, made of metal",
+			"pt": "metal tem partes metálicas brilhantes, feito de metal"
+		},
+		"level": 2,
+		"priority": 96,
+		"spriteId": "sign-20"
+	},
+	"mul": {
+		"id": "mul",
+		"name": {
+			"en": "Multiple",
+			"pt": "Múltiplo"
+		},
+		"default": false,
+		"description": {
+			"en": "usually found in pairs, groups, or sets, or people own more than one",
+			"pt": "pares, grupos, conjuntos, ou as pessoas possuem mais de um"
+		},
+		"keywords": {
+			"en": "multiple usually found in pairs, groups, or sets, or people own more than one",
+			"pt": "múltiplo pares, grupos, conjuntos, ou as pessoas possuem mais de um"
+		},
+		"level": 4,
+		"limited": true,
+		"priority": 108,
+		"spriteId": "sign-21"
+	},
+	"myt": {
+		"id": "mythic",
+		"name": {
+			"en": "Mythic",
+			"pt": "Mítico"
+		},
+		"default": false,
+		"description": {
+			"en": "legend, myth, mystic, spiritual, supernatural, religious",
+			"pt": "lenda, mito, místico, espiritual, sobrenatural, religioso"
+		},
+		"keywords": {
+			"en": "mythic legend myth mystic spiritual supernatural religious",
+			"pt": "mítico lenda mito místico espiritual sobrenatural religioso"
+		},
+		"level": 4,
+		"limited": false,
+		"priority": 13,
+		"relatedId": "kno",
+		"specific": true,
+		"spriteId": "sign-54"
+	},
+	"mythic": {
+		"id": "mythic",
+		"name": {
+			"en": "Mythic",
+			"pt": "Mítico"
+		},
+		"default": false,
+		"description": {
+			"en": "legend, myth, mystic, spiritual, supernatural, religious",
+			"pt": "lenda, mito, místico, espiritual, sobrenatural, religioso"
+		},
+		"keywords": {
+			"en": "mythic legend myth mystic spiritual supernatural religious",
+			"pt": "mítico lenda mito místico espiritual sobrenatural religioso"
+		},
+		"level": 4,
+		"limited": false,
+		"priority": 13,
+		"relatedId": "kno",
+		"specific": true,
+		"spriteId": "sign-54"
+	},
+	"nat": {
+		"id": "nat",
+		"name": {
+			"en": "Natural",
+			"pt": "Natural"
+		},
+		"default": false,
+		"description": {
+			"en": "found in nature, not artificial, organic",
+			"pt": "encontrado na natureza, não artificial, orgânico"
+		},
+		"keywords": {
+			"en": "natural found in nature plant not artificial organic",
+			"pt": "natural encontrado na natureza plant não artificial orgânico"
+		},
+		"level": 3,
+		"oppositeId": "pls",
+		"priority": 75,
+		"spriteId": "sign-43"
 	},
 	"new": {
 		"id": "new",
@@ -932,19 +676,57 @@
 			"en": "New",
 			"pt": "Novo"
 		},
+		"default": false,
 		"description": {
 			"en": "young, recent, fresh, modern",
 			"pt": "jovem, recente, moderno"
 		},
-		"default": false,
-		"level": 2,
-		"spriteId": "sign-48",
-		"priority": 34,
-		"oppositeId": "old",
 		"keywords": {
 			"en": "new young recent fresh modern",
 			"pt": "novo jovem recente moderno tempo idade"
-		}
+		},
+		"level": 2,
+		"oppositeId": "old",
+		"priority": 102,
+		"spriteId": "sign-48"
+	},
+	"odo": {
+		"id": "odo",
+		"name": {
+			"en": "Odor",
+			"pt": "Cheiro"
+		},
+		"default": false,
+		"description": {
+			"en": "smell, odor, aroma",
+			"pt": "perfume, odor, aroma, fedor"
+		},
+		"keywords": {
+			"en": "odor smell, odor, aroma",
+			"pt": "cheiro perfume, odor, aroma, fedor"
+		},
+		"level": 2,
+		"priority": 99,
+		"spriteId": "sign-22"
+	},
+	"old": {
+		"id": "old",
+		"name": {
+			"en": "Old",
+			"pt": "Velho"
+		},
+		"default": false,
+		"description": {
+			"en": "elderly, aged, dated, ancient",
+			"pt": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
+		},
+		"keywords": {
+			"en": "old elderly aged dated ancient time",
+			"pt": "velho idoso envelhecido fora de moda antigo ultrapassado tempo"
+		},
+		"level": 2,
+		"priority": 102,
+		"spriteId": "sign-23"
 	},
 	"par": {
 		"id": "par",
@@ -952,18 +734,371 @@
 			"en": "Part",
 			"pt": "Parte"
 		},
+		"default": false,
 		"description": {
 			"en": "piece, portion, slice, section",
 			"pt": "pedaço, porção, fatia, seção"
 		},
-		"default": false,
-		"level": 3,
-		"spriteId": "sign-49",
-		"limited": true,
-		"priority": 42,
 		"keywords": {
 			"en": "part piece portion slice section",
 			"pt": "parte peça pedaço porção fatia seção"
-		}
+		},
+		"level": 3,
+		"limited": true,
+		"priority": 126,
+		"spriteId": "sign-49"
+	},
+	"per": {
+		"id": "per",
+		"name": {
+			"en": "Personal",
+			"pt": "Pessoal"
+		},
+		"default": false,
+		"description": {
+			"en": "Belonging to a person, private, used by a single person",
+			"pt": "Pertencente a uma pessoa, privado, usado por uma única pessoa"
+		},
+		"keywords": {
+			"en": "personal belonging to a person, private, used by a single person",
+			"pt": "pessoal pertencente a uma pessoa, privado, usado por uma única pessoa"
+		},
+		"level": 4,
+		"limited": true,
+		"priority": 135,
+		"spriteId": "sign-24"
+	},
+	"pla": {
+		"id": "pla",
+		"name": {
+			"en": "Plant",
+			"pt": "Planta"
+		},
+		"default": true,
+		"description": {
+			"en": "vegetation, flora, green, wood",
+			"pt": "vegetação, flora, verde, madeira"
+		},
+		"keywords": {
+			"en": "plant vegetation, flora, green, wood",
+			"pt": "planta vegetação, flora, verde, madeira"
+		},
+		"level": 1,
+		"priority": 9,
+		"spriteId": "sign-25"
+	},
+	"pls": {
+		"id": "pls",
+		"name": {
+			"en": "Plastic",
+			"pt": "Plástico"
+		},
+		"default": false,
+		"description": {
+			"en": "rubber, synthetic material,",
+			"pt": "borracha, material sintético"
+		},
+		"keywords": {
+			"en": "plastic rubber, synthetic material,",
+			"pt": "plástico borracha, material sintético"
+		},
+		"level": 2,
+		"oppositeId": "nat",
+		"priority": 75,
+		"spriteId": "sign-44"
+	},
+	"pow": {
+		"id": "pow",
+		"name": {
+			"en": "Power",
+			"pt": "Força"
+		},
+		"default": true,
+		"description": {
+			"en": "strength, energy, force, electricity",
+			"pt": "poder, energia, eletricidade"
+		},
+		"keywords": {
+			"en": "power strength, energy, force, electricity",
+			"pt": "força poder, energia, eletricidade"
+		},
+		"level": 2,
+		"priority": 45,
+		"spriteId": "sign-26"
+	},
+	"rou": {
+		"id": "rou",
+		"name": {
+			"en": "Round",
+			"pt": "Redondo"
+		},
+		"default": true,
+		"description": {
+			"en": "circular, sphere, oval",
+			"pt": "circular, esfera, oval"
+		},
+		"keywords": {
+			"en": "round circular, sphere, oval",
+			"pt": "redondo circular, esfera, oval"
+		},
+		"level": 1,
+		"priority": 57,
+		"spriteId": "sign-27"
+	},
+	"sha": {
+		"id": "sha",
+		"name": {
+			"en": "Sharp",
+			"pt": "Afiado"
+		},
+		"default": true,
+		"description": {
+			"en": "pointy, cutting, blade",
+			"pt": "pontiagudo, cortante, lâmina"
+		},
+		"keywords": {
+			"en": "sharp pointy, cutting, blade",
+			"pt": "afiado pontiagudo, cortante, lâmina"
+		},
+		"level": 1,
+		"priority": 24,
+		"spriteId": "sign-28"
+	},
+	"sma": {
+		"id": "sma",
+		"name": {
+			"en": "Small",
+			"pt": "Pequeno"
+		},
+		"default": false,
+		"description": {
+			"en": "tiny, miniature, compact",
+			"pt": "pequeno, compacto"
+		},
+		"keywords": {
+			"en": "small tiny, miniature, compact",
+			"pt": "pequeno pequeno, compacto"
+		},
+		"level": 2,
+		"oppositeId": "big",
+		"priority": 114,
+		"spriteId": "sign-47"
+	},
+	"sof": {
+		"id": "sof",
+		"name": {
+			"en": "Soft",
+			"pt": "Mole"
+		},
+		"default": false,
+		"description": {
+			"en": "gentle, smooth, plush, gooey, bendable",
+			"pt": "gentil, suave, macio, pegajoso, flexível"
+		},
+		"keywords": {
+			"en": "soft gentle, smooth, plush, gooey, bendable",
+			"pt": "mole gentil, suave, macio, pegajoso, flexível"
+		},
+		"level": 3,
+		"oppositeId": "har",
+		"priority": 117,
+		"spriteId": "sign-29"
+	},
+	"sou": {
+		"id": "sou",
+		"name": {
+			"en": "Sound",
+			"pt": "Som"
+		},
+		"default": false,
+		"description": {
+			"en": "makes sound naturally or by design or interaction",
+			"pt": "faz som naturalmente ou por design ou interação"
+		},
+		"keywords": {
+			"en": "sound makes sound naturally or by design or interaction",
+			"pt": "som faz som naturalmente ou por design ou interação"
+		},
+		"level": 1,
+		"priority": 51,
+		"spriteId": "sign-31"
+	},
+	"tec": {
+		"id": "tec",
+		"name": {
+			"en": "Technology",
+			"pt": "Tecnologia"
+		},
+		"default": false,
+		"description": {
+			"en": "electronics, digital, computer, internet",
+			"pt": "eletrônicos, digital, computador, internet"
+		},
+		"keywords": {
+			"en": "technology electronics, digital, computer, internet",
+			"pt": "tecnologia eletrônicos, digital, computador, internet"
+		},
+		"level": 2,
+		"priority": 36,
+		"spriteId": "sign-37"
+	},
+	"too": {
+		"id": "too",
+		"name": {
+			"en": "Tool",
+			"pt": "Ferramenta"
+		},
+		"default": true,
+		"description": {
+			"en": "instrument, device, implement",
+			"pt": "instrumento, dispositivo, implemento"
+		},
+		"keywords": {
+			"en": "tool instrument, device, implement",
+			"pt": "ferramenta instrumento, dispositivo, implemento"
+		},
+		"level": 2,
+		"priority": 81,
+		"spriteId": "sign-33"
+	},
+	"toy": {
+		"id": "toy",
+		"name": {
+			"en": "Toy",
+			"pt": "Brinquedo"
+		},
+		"default": false,
+		"description": {
+			"en": "plaything, amusement, for children",
+			"pt": "laser, prazer, diversão, para crianças"
+		},
+		"keywords": {
+			"en": "toy plaything, amusement, for children",
+			"pt": "brinquedo laser, prazer, diversão, para crianças"
+		},
+		"level": 2,
+		"priority": 78,
+		"spriteId": "sign-34"
+	},
+	"tra": {
+		"id": "transportation",
+		"name": {
+			"en": "Transportation",
+			"pt": "Transporte"
+		},
+		"default": false,
+		"description": {
+			"en": "Vehicle, cars",
+			"pt": "Veículos, carros"
+		},
+		"keywords": {
+			"en": "",
+			"pt": "moto avião barco"
+		},
+		"level": 4,
+		"limited": false,
+		"priority": 23,
+		"relatedId": "fas",
+		"specific": true,
+		"spriteId": "sign-52"
+	},
+	"transportation": {
+		"id": "transportation",
+		"name": {
+			"en": "Transportation",
+			"pt": "Transporte"
+		},
+		"default": false,
+		"description": {
+			"en": "Vehicle, cars",
+			"pt": "Veículos, carros"
+		},
+		"keywords": {
+			"en": "",
+			"pt": "moto avião barco"
+		},
+		"level": 4,
+		"limited": false,
+		"priority": 23,
+		"relatedId": "fas",
+		"specific": true,
+		"spriteId": "sign-52"
+	},
+	"val": {
+		"id": "val",
+		"name": {
+			"en": "Valuable",
+			"pt": "Valioso"
+		},
+		"default": true,
+		"description": {
+			"en": "precious, rare, money, sentimental value",
+			"pt": "precioso, raro, dinheiro, valor sentimental"
+		},
+		"keywords": {
+			"en": "valuable precious rare money sentimental value cheap expensive price purchase",
+			"pt": "valioso precioso raro dinheiro valor sentimental caro barato preço compra chique"
+		},
+		"level": 3,
+		"priority": 12,
+		"spriteId": "sign-35"
+	},
+	"war": {
+		"id": "war",
+		"name": {
+			"en": "Warm",
+			"pt": "Quente"
+		},
+		"default": true,
+		"description": {
+			"en": "heat, cozy, temperature",
+			"pt": "calor, aconchegante, temperatura"
+		},
+		"keywords": {
+			"en": "warm heat, cozy, temperature",
+			"pt": "quente calor aconchegante temperatura frio gelado fogo queimar"
+		},
+		"level": 2,
+		"oppositeId": "col",
+		"priority": 39,
+		"spriteId": "sign-36"
+	},
+	"wea": {
+		"id": "wea",
+		"name": {
+			"en": "Weapon",
+			"pt": "Arma"
+		},
+		"default": true,
+		"description": {
+			"en": "artillery, offense, used in combat",
+			"pt": "artilharia, ofensiva, usado em combate"
+		},
+		"keywords": {
+			"en": "weapon artillery, offense, used in combat",
+			"pt": "arma artilharia, ofensiva, usado em combate"
+		},
+		"level": 1,
+		"priority": 6,
+		"spriteId": "sign-32"
+	},
+	"wri": {
+		"id": "wri",
+		"name": {
+			"en": "Writing",
+			"pt": "Escrita"
+		},
+		"default": false,
+		"description": {
+			"en": "text, letters, or symbols used for communication",
+			"pt": "texto, letras ou símbolos usados para comunicação"
+		},
+		"keywords": {
+			"en": "writing text, letters, or symbols used for communication",
+			"pt": "escrita texto, letras ou símbolos usados para comunicação"
+		},
+		"level": 2,
+		"priority": 105,
+		"spriteId": "sign-38"
 	}
 }
