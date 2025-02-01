@@ -389,29 +389,7 @@
 		"spriteId": "sign-13"
 	},
 	"hei": {
-		"id": "height",
-		"name": {
-			"en": "Height",
-			"pt": "Altura"
-		},
-		"default": false,
-		"description": {
-			"en": "high, tall, height, altitude",
-			"pt": "alto, alto, altura, altitude"
-		},
-		"keywords": {
-			"en": "height high tall altitude",
-			"pt": "altura alto alto altitude"
-		},
-		"level": 4,
-		"limited": false,
-		"priority": 30,
-		"relatedId": "lon",
-		"specific": true,
-		"spriteId": "sign-55"
-	},
-	"height": {
-		"id": "height",
+		"id": "hei",
 		"name": {
 			"en": "Height",
 			"pt": "Altura"
@@ -607,29 +585,7 @@
 		"spriteId": "sign-21"
 	},
 	"myt": {
-		"id": "mythic",
-		"name": {
-			"en": "Mythic",
-			"pt": "Mítico"
-		},
-		"default": false,
-		"description": {
-			"en": "legend, myth, mystic, spiritual, supernatural, religious",
-			"pt": "lenda, mito, místico, espiritual, sobrenatural, religioso"
-		},
-		"keywords": {
-			"en": "mythic legend myth mystic spiritual supernatural religious",
-			"pt": "mítico lenda mito místico espiritual sobrenatural religioso"
-		},
-		"level": 4,
-		"limited": false,
-		"priority": 13,
-		"relatedId": "kno",
-		"specific": true,
-		"spriteId": "sign-54"
-	},
-	"mythic": {
-		"id": "mythic",
+		"id": "myt",
 		"name": {
 			"en": "Mythic",
 			"pt": "Mítico"
@@ -981,29 +937,7 @@
 		"spriteId": "sign-34"
 	},
 	"tra": {
-		"id": "transportation",
-		"name": {
-			"en": "Transportation",
-			"pt": "Transporte"
-		},
-		"default": false,
-		"description": {
-			"en": "Vehicle, cars",
-			"pt": "Veículos, carros"
-		},
-		"keywords": {
-			"en": "",
-			"pt": "moto avião barco"
-		},
-		"level": 4,
-		"limited": false,
-		"priority": 23,
-		"relatedId": "fas",
-		"specific": true,
-		"spriteId": "sign-52"
-	},
-	"transportation": {
-		"id": "transportation",
+		"id": "tra",
 		"name": {
 			"en": "Transportation",
 			"pt": "Transporte"
