@@ -7714,7 +7714,7 @@
       "ins": -3,
       "kno": -3,
       "liq": -3,
-      "lon": 5,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -7743,10 +7743,10 @@
       "wri": -3
     },
     "complete": true,
-    "reliability": 92,
-    "score": 20,
-    "signature": "*clo+bea+lon",
-    "updatedAt": 1738390554666
+    "reliability": 90,
+    "score": 15,
+    "signature": "*clo+bea",
+    "updatedAt": 1738476180249
   },
   "124": {
     "id": "124",
@@ -25213,7 +25213,7 @@
       "col": -3,
       "con": -3,
       "dan": -3,
-      "def": -3,
+      "def": -1,
       "fas": -3,
       "fla": -3,
       "fli": -3,
@@ -25257,10 +25257,10 @@
       "wri": -3
     },
     "complete": true,
-    "reliability": 94,
+    "reliability": 92,
     "score": 20,
     "signature": "*met*hol",
-    "updatedAt": 1738390962344
+    "updatedAt": 1738476292997
   },
   "402": {
     "id": "402",
@@ -43472,6 +43472,7 @@
       "foo": -1,
       "gra": -3,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "lon": -3,
@@ -43494,7 +43495,7 @@
       "wea": -3,
       "wri": -3
     },
-    "updatedAt": 1738387157508
+    "updatedAt": 1738446272448
   },
   "766": {
     "id": "766",
