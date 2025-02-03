@@ -460,7 +460,6 @@
     "level": 4,
     "spriteId": "sign-55",
     "relatedId": "con",
-    "default": true,
     "limited": false,
     "specific": true,
     "keywords": "location place area region local região lugar área"
@@ -912,6 +911,25 @@
     "spriteId": "sign-32",
     "default": true,
     "keywords": "weapon artillery offense used in combat arma artilharia ofensiva usado em combate"
+  },
+  "woo": {
+    "id": "woo",
+    "name": {
+      "en": "Wood",
+      "pt": "Madeira"
+    },
+    "description": {
+      "en": "made of wood",
+      "pt": "feito de madeira"
+    },
+    "priority": 95,
+    "level": 4,
+    "spriteId": "sign-2",
+    "relatedId": "pla",
+    "default": false,
+    "limited": true,
+    "specific": true,
+    "keywords": "wood wooden tree furniture madeira árvore móveis móvel"
   },
   "wri": {
     "id": "wri",
