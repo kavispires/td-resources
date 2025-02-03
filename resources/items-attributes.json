@@ -1,913 +1,932 @@
 {
-	"acc": {
-		"id": "acc",
-		"name": {
-			"en": "Accessory",
-			"pt": "Acessório"
-		},
-		"description": {
-			"en": "ornament, attachment, additional piece",
-			"pt": "ornamento, anexo, peça adicional"
-		},
-		"priority": 87,
-		"level": 4,
-		"spriteId": "sign-45",
-		"relatedId": "too",
-		"default": false,
-		"specific": true,
-		"keywords": "accessory ornament attachment additional piece acessório ornamento anexo peça adicional"
-	},
-	"ali": {
-		"id": "ali",
-		"name": {
-			"en": "Alive",
-			"pt": "Vivo"
-		},
-		"description": {
-			"en": "life, being, organism, animated",
-			"pt": "vida, ser, organismo, animado"
-		},
-		"priority": 33,
-		"level": 1,
-		"spriteId": "sign-0",
-		"default": true,
-		"keywords": "alive life being organism animated vivo vida ser organismo animado"
-	},
-	"bea": {
-		"id": "bea",
-		"name": {
-			"en": "Beautiful",
-			"pt": "Bonito"
-		},
-		"description": {
-			"en": "attractiveness, charming, colorful, festive, decoration",
-			"pt": "atraente, charmoso, colorido, festivo, decorativo"
-		},
-		"priority": 21,
-		"level": 2,
-		"spriteId": "sign-1",
-		"default": true,
-		"keywords": "beautiful attractiveness charming colorful festive decoration bonito atraente charmoso colorido festivo decorativo"
-	},
-	"big": {
-		"id": "big",
-		"name": {
-			"en": "Big",
-			"pt": "Grande"
-		},
-		"description": {
-			"en": "size, magnitude",
-			"pt": "tamanho, magnitude"
-		},
-		"priority": 108,
-		"level": 1,
-		"spriteId": "sign-57",
-		"default": true,
-		"keywords": "big size magnitude grande tamanho"
-	},
-	"bri": {
-		"id": "bri",
-		"name": {
-			"en": "Bright",
-			"pt": "Brilho"
-		},
-		"description": {
-			"en": "light, shiny, reflective",
-			"pt": "luz, brilhante, reflexivo"
-		},
-		"priority": 54,
-		"level": 2,
-		"spriteId": "sign-3",
-		"default": true,
-		"keywords": "bright light shiny reflective brilho luz brilhante reflexivo"
-	},
-	"bui": {
-		"id": "bui",
-		"name": {
-			"en": "Construction",
-			"pt": "Construção"
-		},
-		"description": {
-			"en": "building, structure, architecture, housing",
-			"pt": "prédios, estrutura, arquitetura, habitação"
-		},
-		"priority": 66,
-		"level": 2,
-		"spriteId": "sign-42",
-		"default": false,
-		"keywords": "construction building structure architecture housing store construção prédios estrutura arquitetura habitação"
-	},
-	"but": {
-		"id": "but",
-		"name": {
-			"en": "Buttons",
-			"pt": "Botões"
-		},
-		"description": {
-			"en": "keys, switches, pressable, or clickable",
-			"pt": "teclas, interruptores, pressionáveis ou clicáveis"
-		},
-		"priority": 90,
-		"level": 2,
-		"spriteId": "sign-39",
-		"relatedId": "mac",
-		"default": false,
-		"limited": true,
-		"specific": true,
-		"keywords": "buttons keys switches pressable clickable botões teclas interruptores pressionáveis clicáveis"
-	},
-	"clo": {
-		"id": "clo",
-		"name": {
-			"en": "Clothes",
-			"pt": "Vestimenta"
-		},
-		"description": {
-			"en": "Wearables, fashion, clothing",
-			"pt": "moda, roupas, acessórios"
-		},
-		"priority": 18,
-		"level": 1,
-		"spriteId": "sign-4",
-		"default": true,
-		"keywords": "clothes wearables fashion clothing vestimenta moda roupas acessórios"
-	},
-	"col": {
-		"id": "col",
-		"name": {
-			"en": "Cold",
-			"pt": "Frio"
-		},
-		"description": {
-			"en": "low temperature, chilly, icy, refreshing",
-			"pt": "baixa temperatura, gelado, refrescante"
-		},
-		"priority": 39,
-		"level": 2,
-		"spriteId": "sign-40",
-		"oppositeId": "war",
-		"default": false,
-		"keywords": "cold low temperature chilly ice icy freezing  frozen refreshing frio baixa temperatura gelado gelo congelado refrescante"
-	},
-	"con": {
-		"id": "con",
-		"name": {
-			"en": "Container",
-			"pt": "Recipiente"
-		},
-		"description": {
-			"en": "holds, stores, or encloses items or substances",
-			"pt": "contém, armazena ou envolve itens ou substâncias"
-		},
-		"priority": 60,
-		"level": 2,
-		"spriteId": "sign-17",
-		"default": false,
-		"keywords": "container holds stores or encloses items substances recipiente contém armazena ou envolve itens substâncias"
-	},
-	"cul": {
-		"id": "cul",
-		"name": {
-			"en": "Culture",
-			"pt": "Cultura"
-		},
-		"description": {
-			"en": "custom, values, local, regional, traditional, regional, religious",
-			"pt": "personalizado, valores, local, regional, tradicional, regional, religioso"
-		},
-		"priority": 42,
-		"level": 3,
-		"spriteId": "sign-50",
-		"relatedId": "kno",
-		"specific": true,
-		"keywords": "culture custom values local regional traditional religious cultura personalizado valores tradicional religioso"
-	},
-	"dan": {
-		"id": "dan",
-		"name": {
-			"en": "Danger",
-			"pt": "Perigo"
-		},
-		"description": {
-			"en": "hazard, risk, threat",
-			"pt": "risco, ameaça"
-		},
-		"priority": 63,
-		"level": 1,
-		"spriteId": "sign-6",
-		"default": true,
-		"keywords": "danger hazard risk threat perigo risco ameaça"
-	},
-	"def": {
-		"id": "def",
-		"name": {
-			"en": "Defense",
-			"pt": "Defesa"
-		},
-		"description": {
-			"en": "shield, protection, covering",
-			"pt": "proteção, cobertura, escudo"
-		},
-		"priority": 69,
-		"level": 2,
-		"spriteId": "sign-7",
-		"default": true,
-		"keywords": "defense shield protection covering defesa proteção cobertura escudo"
-	},
-	"fas": {
-		"id": "fas",
-		"name": {
-			"en": "Fast",
-			"pt": "Rápido"
-		},
-		"description": {
-			"en": "movement, speed, velocity",
-			"pt": "movimento, velocidade, rapidez"
-		},
-		"priority": 72,
-		"level": 2,
-		"spriteId": "sign-8",
-		"default": true,
-		"keywords": "fast movement speed velocity rápido movimento velocidade rapidez"
-	},
-	"fla": {
-		"id": "fla",
-		"name": {
-			"en": "Flat",
-			"pt": "Plano"
-		},
-		"description": {
-			"en": "surface, smooth, level",
-			"pt": "superfície, liso, nivelado"
-		},
-		"priority": 111,
-		"level": 2,
-		"spriteId": "sign-9",
-		"default": false,
-		"keywords": "flat surface smooth level plano superfície liso nivelado"
-	},
-	"fli": {
-		"id": "fli",
-		"name": {
-			"en": "Flight",
-			"pt": "Vôo"
-		},
-		"description": {
-			"en": "flying, glides, has wings",
-			"pt": "voador, alado"
-		},
-		"priority": 30,
-		"level": 1,
-		"spriteId": "sign-10",
-		"default": true,
-		"keywords": "flight flying glides has wings vôo voador alado"
-	},
-	"foo": {
-		"id": "foo",
-		"name": {
-			"en": "Food",
-			"pt": "Comida"
-		},
-		"description": {
-			"en": "edible, sustenance, used for eating or cooking",
-			"pt": "comestível, sustento, usado para comer ou cozinhar"
-		},
-		"priority": 3,
-		"level": 1,
-		"spriteId": "sign-11",
-		"default": true,
-		"keywords": "food edible sustenance used for eating or cooking comida comestível sustento usado para comer ou cozinhar"
-	},
-	"fra": {
-		"id": "fra",
-		"name": {
-			"en": "Fragile",
-			"pt": "Frágil"
-		},
-		"description": {
-			"en": "delicate, easily broken, sensitive",
-			"pt": "delicado, facilmente quebrável, sensível"
-		},
-		"priority": 132,
-		"level": 4,
-		"spriteId": "sign-12",
-		"default": false,
-		"limited": true,
-		"keywords": "fragile delicate easily broken sensitive frágil delicado facilmente quebrável sensível"
-	},
-	"gra": {
-		"id": "gra",
-		"name": {
-			"en": "Grabbable",
-			"pt": "Segurável"
-		},
-		"description": {
-			"en": "holdable, you normally hold or has a handle or mainly holds something",
-			"pt": "com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
-		},
-		"priority": 120,
-		"level": 2,
-		"spriteId": "sign-14",
-		"default": false,
-		"limited": true,
-		"keywords": "grabbable holdable you normally hold or has a handle mainly holds something segurável com alças apoio você normalmente segura seu trabalho é segurar algo"
-	},
-	"har": {
-		"id": "har",
-		"name": {
-			"en": "Hard",
-			"pt": "Duro"
-		},
-		"description": {
-			"en": "solid, firm, rigid, unyielding",
-			"pt": "sólido, firme, rígido, inflexível"
-		},
-		"priority": 117,
-		"level": 4,
-		"spriteId": "sign-30",
-		"oppositeId": "sof",
-		"default": true,
-		"keywords": "hard solid firm rigid unyielding duro sólido firme rígido inflexível"
-	},
-	"hea": {
-		"id": "hea",
-		"name": {
-			"en": "Heavy",
-			"pt": "Pesado"
-		},
-		"description": {
-			"en": "weight, mass",
-			"pt": "peso, massa"
-		},
-		"priority": 129,
-		"level": 3,
-		"spriteId": "sign-13",
-		"default": true,
-		"keywords": "heavy weight mass pesado peso massa"
-	},
-	"hei": {
-		"id": "hei",
-		"name": {
-			"en": "Height",
-			"pt": "Altura"
-		},
-		"description": {
-			"en": "high, tall, height, altitude",
-			"pt": "alto, alto, altura, altitude"
-		},
-		"priority": 92,
-		"level": 4,
-		"spriteId": "sign-55",
-		"relatedId": "lon",
-		"default": false,
-		"limited": false,
-		"specific": true,
-		"keywords": "height high tall altitude altura alto"
-	},
-	"hol": {
-		"id": "hol",
-		"name": {
-			"en": "Holes",
-			"pt": "Buracos"
-		},
-		"description": {
-			"en": "has gaps, perforations, or openings",
-			"pt": "possui lacunas, perfurações ou aberturas"
-		},
-		"priority": 126,
-		"level": 2,
-		"spriteId": "sign-5",
-		"default": false,
-		"keywords": "holes has gaps perforations or openings buracos possui lacunas perfurações ou aberturas"
-	},
-	"hum": {
-		"id": "hum",
-		"name": {
-			"en": "Human",
-			"pt": "Humano"
-		},
-		"description": {
-			"en": "person, human body, used by people, has human features",
-			"pt": "pessoa, corpo, usado por pessoas, tem características humanas"
-		},
-		"priority": 27,
-		"level": 1,
-		"spriteId": "sign-15",
-		"default": true,
-		"keywords": "human person body used by people has features humano pessoa corpo usado por pessoas tem características humanas"
-	},
-	"ins": {
-		"id": "ins",
-		"name": {
-			"en": "Instrument",
-			"pt": "Instrumento"
-		},
-		"description": {
-			"en": "utensil, support",
-			"pt": "utensílio, suporte"
-		},
-		"priority": 84,
-		"level": 4,
-		"spriteId": "sign-46",
-		"relatedId": "too",
-		"default": false,
-		"specific": true,
-		"keywords": "instrument utensil support instrumento utensílio suporte"
-	},
-	"kno": {
-		"id": "kno",
-		"name": {
-			"en": "Knowledge",
-			"pt": "Conhecimento"
-		},
-		"description": {
-			"en": "wisdom, smarts, idea, gives information",
-			"pt": "sabedoria, inteligência, ideia, dá informação"
-		},
-		"priority": 42,
-		"level": 2,
-		"spriteId": "sign-16",
-		"default": true,
-		"keywords": "knowledge wisdom smarts idea gives information conhecimento sabedoria inteligência ideia dá informação"
-	},
-	"liq": {
-		"id": "liq",
-		"name": {
-			"en": "Liquid",
-			"pt": "Líquido"
-		},
-		"description": {
-			"en": "fluid, aquatic, water",
-			"pt": "fluido, aquático"
-		},
-		"priority": 15,
-		"level": 1,
-		"spriteId": "sign-41",
-		"default": true,
-		"keywords": "liquid fluid aquatic water líquido fluido aquático"
-	},
-	"lon": {
-		"id": "lon",
-		"name": {
-			"en": "Long",
-			"pt": "Longo"
-		},
-		"description": {
-			"en": "tall, lengthy",
-			"pt": "alto, comprido"
-		},
-		"priority": 93,
-		"level": 2,
-		"spriteId": "sign-18",
-		"default": true,
-		"keywords": "long tall lengthy longo alto comprido"
-	},
-	"mac": {
-		"id": "mac",
-		"name": {
-			"en": "Machine",
-			"pt": "Máquina"
-		},
-		"description": {
-			"en": "has gears, uses powers, works",
-			"pt": "tem engrenagens, usa energia, funciona"
-		},
-		"priority": 51,
-		"level": 2,
-		"spriteId": "sign-19",
-		"default": false,
-		"keywords": "machine has gears uses powers works máquina tem engrenagens usa energia funciona"
-	},
-	"met": {
-		"id": "met",
-		"name": {
-			"en": "Metal",
-			"pt": "Metal"
-		},
-		"description": {
-			"en": "has metallic shiny parts, made of metal",
-			"pt": "tem partes metálicas brilhantes, feito de metal"
-		},
-		"priority": 96,
-		"level": 2,
-		"spriteId": "sign-20",
-		"default": true,
-		"keywords": "metal has metallic shiny parts made of tem partes metálicas brilhantes feito de"
-	},
-	"mul": {
-		"id": "mul",
-		"name": {
-			"en": "Multiple",
-			"pt": "Múltiplo"
-		},
-		"description": {
-			"en": "usually found in pairs, groups, or sets, or people own more than one",
-			"pt": "pares, grupos, conjuntos, ou as pessoas possuem mais de um"
-		},
-		"priority": 108,
-		"level": 4,
-		"spriteId": "sign-21",
-		"default": false,
-		"limited": true,
-		"keywords": "multiple usually found in pairs groups or sets people own more than one múltiplo pares grupos conjuntos ou as pessoas possuem mais de um"
-	},
-	"myt": {
-		"id": "myt",
-		"name": {
-			"en": "Mythic",
-			"pt": "Mítico"
-		},
-		"description": {
-			"en": "fantasy, legend, myth, mystic, spiritual, supernatural, magic",
-			"pt": "fantasia, lenda, mito, místico, espiritual, sobrenatural, mágico"
-		},
-		"priority": 41,
-		"level": 4,
-		"spriteId": "sign-54",
-		"relatedId": "kno",
-		"default": false,
-		"limited": false,
-		"specific": true,
-		"keywords": "mythic fantasy legend myth mystic spiritual supernatural magic mítico fantasia lenda mito místico espiritual sobrenatural mágico"
-	},
-	"nat": {
-		"id": "nat",
-		"name": {
-			"en": "Natural",
-			"pt": "Natural"
-		},
-		"description": {
-			"en": "found in nature, not artificial, organic",
-			"pt": "encontrado na natureza, não artificial, orgânico"
-		},
-		"priority": 75,
-		"level": 3,
-		"spriteId": "sign-43",
-		"oppositeId": "pls",
-		"default": false,
-		"keywords": "natural found in nature plant not artificial organic encontrado na natureza não orgânico"
-	},
-	"new": {
-		"id": "new",
-		"name": {
-			"en": "New",
-			"pt": "Novo"
-		},
-		"description": {
-			"en": "young, recent, fresh, modern",
-			"pt": "jovem, recente, moderno"
-		},
-		"priority": 102,
-		"level": 2,
-		"spriteId": "sign-48",
-		"oppositeId": "old",
-		"default": false,
-		"keywords": "new young recent fresh modern novo jovem recente moderno tempo idade"
-	},
-	"odo": {
-		"id": "odo",
-		"name": {
-			"en": "Odor",
-			"pt": "Cheiro"
-		},
-		"description": {
-			"en": "smell, odor, aroma",
-			"pt": "perfume, odor, aroma, fedor"
-		},
-		"priority": 99,
-		"level": 2,
-		"spriteId": "sign-22",
-		"default": false,
-		"keywords": "odor smell odor aroma cheiro perfume aroma fedor"
-	},
-	"old": {
-		"id": "old",
-		"name": {
-			"en": "Old",
-			"pt": "Velho"
-		},
-		"description": {
-			"en": "elderly, aged, dated, ancient",
-			"pt": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
-		},
-		"priority": 102,
-		"level": 2,
-		"spriteId": "sign-23",
-		"default": false,
-		"keywords": "old elderly aged dated ancient time velho idoso envelhecido fora de moda antigo ultrapassado tempo"
-	},
-	"par": {
-		"id": "par",
-		"name": {
-			"en": "Part",
-			"pt": "Parte"
-		},
-		"description": {
-			"en": "piece, portion, slice, section",
-			"pt": "pedaço, porção, fatia, seção"
-		},
-		"priority": 126,
-		"level": 3,
-		"spriteId": "sign-49",
-		"default": false,
-		"limited": true,
-		"keywords": "part piece portion slice section parte peça pedaço porção fatia seção"
-	},
-	"per": {
-		"id": "per",
-		"name": {
-			"en": "Personal",
-			"pt": "Pessoal"
-		},
-		"description": {
-			"en": "Belonging to a person, private, used by a single person",
-			"pt": "Pertencente a uma pessoa, privado, usado por uma única pessoa"
-		},
-		"priority": 135,
-		"level": 4,
-		"spriteId": "sign-24",
-		"default": false,
-		"limited": true,
-		"keywords": "personal belonging to a person private used by single person pessoal pertencente uma pessoa privado usado por única pessoa"
-	},
-	"pla": {
-		"id": "pla",
-		"name": {
-			"en": "Plant",
-			"pt": "Planta"
-		},
-		"description": {
-			"en": "vegetation, flora, green, wood",
-			"pt": "vegetação, flora, verde, madeira"
-		},
-		"priority": 9,
-		"level": 1,
-		"spriteId": "sign-25",
-		"default": true,
-		"keywords": "plant vegetation flora green wood planta vegetação verde madeira"
-	},
-	"pls": {
-		"id": "pls",
-		"name": {
-			"en": "Plastic",
-			"pt": "Plástico"
-		},
-		"description": {
-			"en": "rubber, synthetic material,",
-			"pt": "borracha, material sintético"
-		},
-		"priority": 75,
-		"level": 2,
-		"spriteId": "sign-44",
-		"oppositeId": "nat",
-		"default": false,
-		"keywords": "plastic rubber synthetic material plástico borracha material sintético"
-	},
-	"pow": {
-		"id": "pow",
-		"name": {
-			"en": "Power",
-			"pt": "Força"
-		},
-		"description": {
-			"en": "strength, energy, force, electricity",
-			"pt": "poder, energia, eletricidade"
-		},
-		"priority": 45,
-		"level": 2,
-		"spriteId": "sign-26",
-		"default": true,
-		"keywords": "power strength energy force electricity força poder energia eletricidade"
-	},
-	"rou": {
-		"id": "rou",
-		"name": {
-			"en": "Round",
-			"pt": "Redondo"
-		},
-		"description": {
-			"en": "circular, sphere, oval",
-			"pt": "circular, esfera, oval"
-		},
-		"priority": 57,
-		"level": 1,
-		"spriteId": "sign-27",
-		"default": true,
-		"keywords": "round circular sphere oval redondo esfera"
-	},
-	"sha": {
-		"id": "sha",
-		"name": {
-			"en": "Sharp",
-			"pt": "Afiado"
-		},
-		"description": {
-			"en": "pointy, cutting, blade",
-			"pt": "pontiagudo, cortante, lâmina"
-		},
-		"priority": 24,
-		"level": 1,
-		"spriteId": "sign-28",
-		"default": true,
-		"keywords": "sharp pointy cutting blade afiado pontiagudo cortante lâmina"
-	},
-	"sma": {
-		"id": "sma",
-		"name": {
-			"en": "Small",
-			"pt": "Pequeno"
-		},
-		"description": {
-			"en": "tiny, miniature, compact",
-			"pt": "pequeno, compacto"
-		},
-		"priority": 114,
-		"level": 2,
-		"spriteId": "sign-47",
-		"oppositeId": "big",
-		"default": false,
-		"keywords": "small tiny miniature compact pequeno pequeno compacto"
-	},
-	"sof": {
-		"id": "sof",
-		"name": {
-			"en": "Soft",
-			"pt": "Mole"
-		},
-		"description": {
-			"en": "gentle, smooth, plush, gooey, bendable",
-			"pt": "gentil, suave, macio, pegajoso, flexível"
-		},
-		"priority": 117,
-		"level": 3,
-		"spriteId": "sign-29",
-		"oppositeId": "har",
-		"default": false,
-		"keywords": "soft gentle smooth plush gooey bendable mole gentil suave macio pegajoso flexível"
-	},
-	"sou": {
-		"id": "sou",
-		"name": {
-			"en": "Sound",
-			"pt": "Som"
-		},
-		"description": {
-			"en": "makes sound naturally or by design or interaction",
-			"pt": "faz som naturalmente ou por design ou interação"
-		},
-		"priority": 51,
-		"level": 1,
-		"spriteId": "sign-31",
-		"default": false,
-		"keywords": "sound makes naturally or by design interaction som faz naturalmente ou por interação"
-	},
-	"tab": {
-		"id": "tab",
-		"name": {
-			"en": "Taboo",
-			"pt": "Tabu"
-		},
-		"description": {
-			"en": "censored, controversial, stigmatized, banned, adult, unethical, secret.",
-			"pt": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto."
-		},
-		"priority": 41,
-		"level": 3,
-		"spriteId": "sign-56",
-		"relatedId": "kno",
-		"specific": true,
-		"keywords": "taboo censor controversial stigmatized banned adult unethical secret tabu censurado controverso estigmatizado banido adulto antiético secreto"
-	},
-	"tec": {
-		"id": "tec",
-		"name": {
-			"en": "Technology",
-			"pt": "Tecnologia"
-		},
-		"description": {
-			"en": "electronics, digital, computer, internet",
-			"pt": "eletrônicos, digital, computador, internet"
-		},
-		"priority": 36,
-		"level": 2,
-		"spriteId": "sign-37",
-		"default": false,
-		"keywords": "technology electronics digital computer internet tecnologia eletrônicos computador"
-	},
-	"too": {
-		"id": "too",
-		"name": {
-			"en": "Tool",
-			"pt": "Ferramenta"
-		},
-		"description": {
-			"en": "instrument, device, implement",
-			"pt": "instrumento, dispositivo, implemento"
-		},
-		"priority": 81,
-		"level": 2,
-		"spriteId": "sign-33",
-		"default": true,
-		"keywords": "tool instrument device implement ferramenta instrumento dispositivo implemento"
-	},
-	"toy": {
-		"id": "toy",
-		"name": {
-			"en": "Toy",
-			"pt": "Brinquedo"
-		},
-		"description": {
-			"en": "plaything, amusement, for children",
-			"pt": "laser, prazer, diversão, para crianças"
-		},
-		"priority": 78,
-		"level": 2,
-		"spriteId": "sign-34",
-		"default": false,
-		"keywords": "toy plaything amusement for children brinquedo laser prazer diversão para crianças"
-	},
-	"tra": {
-		"id": "tra",
-		"name": {
-			"en": "Transportation",
-			"pt": "Transporte"
-		},
-		"description": {
-			"en": "Vehicle, cars",
-			"pt": "Veículos, carros"
-		},
-		"priority": 71,
-		"level": 4,
-		"spriteId": "sign-52",
-		"relatedId": "fas",
-		"default": false,
-		"limited": false,
-		"specific": true,
-		"keywords": "moto avião barco"
-	},
-	"val": {
-		"id": "val",
-		"name": {
-			"en": "Valuable",
-			"pt": "Valioso"
-		},
-		"description": {
-			"en": "precious, rare, money, sentimental value",
-			"pt": "precioso, raro, dinheiro, valor sentimental"
-		},
-		"priority": 12,
-		"level": 3,
-		"spriteId": "sign-35",
-		"default": true,
-		"keywords": "valuable precious rare money sentimental value cheap expensive price purchase valioso precioso raro dinheiro valor caro barato preço compra chique"
-	},
-	"war": {
-		"id": "war",
-		"name": {
-			"en": "Warm",
-			"pt": "Quente"
-		},
-		"description": {
-			"en": "heat, cozy, temperature",
-			"pt": "calor, aconchegante, temperatura"
-		},
-		"priority": 39,
-		"level": 2,
-		"spriteId": "sign-36",
-		"oppositeId": "col",
-		"default": true,
-		"keywords": "warm heat cozy temperature quente calor aconchegante temperatura frio gelado fogo queimar"
-	},
-	"wea": {
-		"id": "wea",
-		"name": {
-			"en": "Weapon",
-			"pt": "Arma"
-		},
-		"description": {
-			"en": "artillery, offense, used in combat",
-			"pt": "artilharia, ofensiva, usado em combate"
-		},
-		"priority": 6,
-		"level": 1,
-		"spriteId": "sign-32",
-		"default": true,
-		"keywords": "weapon artillery offense used in combat arma artilharia ofensiva usado em combate"
-	},
-	"wri": {
-		"id": "wri",
-		"name": {
-			"en": "Writing",
-			"pt": "Escrita"
-		},
-		"description": {
-			"en": "text, letters, or symbols used for communication",
-			"pt": "texto, letras ou símbolos usados para comunicação"
-		},
-		"priority": 105,
-		"level": 2,
-		"spriteId": "sign-38",
-		"default": false,
-		"keywords": "writing text letters or symbols used for communication escrita texto letras ou símbolos usados para comunicação"
-	}
+  "acc": {
+    "id": "acc",
+    "name": {
+      "en": "Accessory",
+      "pt": "Acessório"
+    },
+    "description": {
+      "en": "ornament, attachment, additional piece",
+      "pt": "ornamento, anexo, peça adicional"
+    },
+    "priority": 87,
+    "level": 4,
+    "spriteId": "sign-45",
+    "relatedId": "too",
+    "default": false,
+    "specific": true,
+    "keywords": "accessory ornament attachment additional piece acessório ornamento anexo peça adicional"
+  },
+  "ali": {
+    "id": "ali",
+    "name": {
+      "en": "Alive",
+      "pt": "Vivo"
+    },
+    "description": {
+      "en": "life, being, organism, animated",
+      "pt": "vida, ser, organismo, animado"
+    },
+    "priority": 33,
+    "level": 1,
+    "spriteId": "sign-0",
+    "default": true,
+    "keywords": "alive life being organism animated vivo vida ser organismo animado"
+  },
+  "bea": {
+    "id": "bea",
+    "name": {
+      "en": "Beautiful",
+      "pt": "Bonito"
+    },
+    "description": {
+      "en": "attractiveness, charming, colorful, festive, decoration",
+      "pt": "atraente, charmoso, colorido, festivo, decorativo"
+    },
+    "priority": 21,
+    "level": 2,
+    "spriteId": "sign-1",
+    "default": true,
+    "keywords": "beautiful attractiveness charming colorful festive decoration bonito atraente charmoso colorido festivo decorativo"
+  },
+  "big": {
+    "id": "big",
+    "name": {
+      "en": "Big",
+      "pt": "Grande"
+    },
+    "description": {
+      "en": "size, magnitude",
+      "pt": "tamanho, magnitude"
+    },
+    "priority": 108,
+    "level": 1,
+    "spriteId": "sign-57",
+    "default": true,
+    "keywords": "big size magnitude grande tamanho"
+  },
+  "bri": {
+    "id": "bri",
+    "name": {
+      "en": "Bright",
+      "pt": "Brilho"
+    },
+    "description": {
+      "en": "light, shiny, reflective",
+      "pt": "luz, brilhante, reflexivo"
+    },
+    "priority": 54,
+    "level": 2,
+    "spriteId": "sign-3",
+    "default": true,
+    "keywords": "bright light shiny reflective brilho luz brilhante reflexivo"
+  },
+  "bui": {
+    "id": "bui",
+    "name": {
+      "en": "Construction",
+      "pt": "Construção"
+    },
+    "description": {
+      "en": "building, structure, architecture, housing",
+      "pt": "prédios, estrutura, arquitetura, habitação"
+    },
+    "priority": 66,
+    "level": 2,
+    "spriteId": "sign-42",
+    "default": false,
+    "keywords": "construction building structure architecture housing store construção prédios estrutura arquitetura habitação"
+  },
+  "but": {
+    "id": "but",
+    "name": {
+      "en": "Buttons",
+      "pt": "Botões"
+    },
+    "description": {
+      "en": "keys, switches, pressable, or clickable",
+      "pt": "teclas, interruptores, pressionáveis ou clicáveis"
+    },
+    "priority": 90,
+    "level": 2,
+    "spriteId": "sign-39",
+    "relatedId": "mac",
+    "default": false,
+    "limited": true,
+    "specific": true,
+    "keywords": "buttons keys switches pressable clickable botões teclas interruptores pressionáveis clicáveis"
+  },
+  "clo": {
+    "id": "clo",
+    "name": {
+      "en": "Clothes",
+      "pt": "Vestimenta"
+    },
+    "description": {
+      "en": "Wearables, fashion, clothing",
+      "pt": "moda, roupas, acessórios"
+    },
+    "priority": 18,
+    "level": 1,
+    "spriteId": "sign-4",
+    "default": true,
+    "keywords": "clothes wearables fashion clothing vestimenta moda roupas acessórios"
+  },
+  "col": {
+    "id": "col",
+    "name": {
+      "en": "Cold",
+      "pt": "Frio"
+    },
+    "description": {
+      "en": "low temperature, chilly, icy, refreshing",
+      "pt": "baixa temperatura, gelado, refrescante"
+    },
+    "priority": 39,
+    "level": 2,
+    "spriteId": "sign-40",
+    "oppositeId": "war",
+    "default": false,
+    "keywords": "cold low temperature chilly ice icy freezing  frozen refreshing frio baixa temperatura gelado gelo congelado refrescante"
+  },
+  "con": {
+    "id": "con",
+    "name": {
+      "en": "Container",
+      "pt": "Recipiente"
+    },
+    "description": {
+      "en": "holds, stores, or encloses items or substances",
+      "pt": "contém, armazena ou envolve itens ou substâncias"
+    },
+    "priority": 60,
+    "level": 2,
+    "spriteId": "sign-17",
+    "default": false,
+    "keywords": "container holds stores or encloses items substances recipiente contém armazena ou envolve itens substâncias"
+  },
+  "cul": {
+    "id": "cul",
+    "name": {
+      "en": "Culture",
+      "pt": "Cultura"
+    },
+    "description": {
+      "en": "custom, values, local, regional, traditional, regional, religious",
+      "pt": "personalizado, valores, local, regional, tradicional, regional, religioso"
+    },
+    "priority": 42,
+    "level": 3,
+    "spriteId": "sign-50",
+    "relatedId": "kno",
+    "specific": true,
+    "keywords": "culture custom values local regional traditional religious cultura personalizado valores tradicional religioso"
+  },
+  "dan": {
+    "id": "dan",
+    "name": {
+      "en": "Danger",
+      "pt": "Perigo"
+    },
+    "description": {
+      "en": "hazard, risk, threat",
+      "pt": "risco, ameaça"
+    },
+    "priority": 63,
+    "level": 1,
+    "spriteId": "sign-6",
+    "default": true,
+    "keywords": "danger hazard risk threat perigo risco ameaça"
+  },
+  "def": {
+    "id": "def",
+    "name": {
+      "en": "Defense",
+      "pt": "Defesa"
+    },
+    "description": {
+      "en": "shield, protection, covering",
+      "pt": "proteção, cobertura, escudo"
+    },
+    "priority": 69,
+    "level": 2,
+    "spriteId": "sign-7",
+    "default": true,
+    "keywords": "defense shield protection covering defesa proteção cobertura escudo"
+  },
+  "fas": {
+    "id": "fas",
+    "name": {
+      "en": "Fast",
+      "pt": "Rápido"
+    },
+    "description": {
+      "en": "movement, speed, velocity",
+      "pt": "movimento, velocidade, rapidez"
+    },
+    "priority": 72,
+    "level": 2,
+    "spriteId": "sign-8",
+    "default": true,
+    "keywords": "fast movement speed velocity rápido movimento velocidade rapidez"
+  },
+  "fla": {
+    "id": "fla",
+    "name": {
+      "en": "Flat",
+      "pt": "Plano"
+    },
+    "description": {
+      "en": "surface, smooth, level",
+      "pt": "superfície, liso, nivelado"
+    },
+    "priority": 111,
+    "level": 2,
+    "spriteId": "sign-9",
+    "default": false,
+    "keywords": "flat surface smooth level plano superfície liso nivelado"
+  },
+  "fli": {
+    "id": "fli",
+    "name": {
+      "en": "Flight",
+      "pt": "Vôo"
+    },
+    "description": {
+      "en": "flying, glides, has wings",
+      "pt": "voador, alado"
+    },
+    "priority": 30,
+    "level": 1,
+    "spriteId": "sign-10",
+    "default": true,
+    "keywords": "flight flying glides has wings vôo voador alado"
+  },
+  "foo": {
+    "id": "foo",
+    "name": {
+      "en": "Food",
+      "pt": "Comida"
+    },
+    "description": {
+      "en": "edible, sustenance, used for eating or cooking",
+      "pt": "comestível, sustento, usado para comer ou cozinhar"
+    },
+    "priority": 3,
+    "level": 1,
+    "spriteId": "sign-11",
+    "default": true,
+    "keywords": "food edible sustenance used for eating or cooking comida comestível sustento usado para comer ou cozinhar"
+  },
+  "fra": {
+    "id": "fra",
+    "name": {
+      "en": "Fragile",
+      "pt": "Frágil"
+    },
+    "description": {
+      "en": "delicate, easily broken, sensitive",
+      "pt": "delicado, facilmente quebrável, sensível"
+    },
+    "priority": 132,
+    "level": 4,
+    "spriteId": "sign-12",
+    "default": false,
+    "limited": true,
+    "keywords": "fragile delicate easily broken sensitive frágil delicado facilmente quebrável sensível"
+  },
+  "gra": {
+    "id": "gra",
+    "name": {
+      "en": "Grabbable",
+      "pt": "Segurável"
+    },
+    "description": {
+      "en": "holdable, you normally hold or has a handle or mainly holds something",
+      "pt": "com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
+    },
+    "priority": 120,
+    "level": 2,
+    "spriteId": "sign-14",
+    "default": false,
+    "limited": true,
+    "keywords": "grabbable holdable you normally hold or has a handle mainly holds something segurável com alças apoio você normalmente segura seu trabalho é segurar algo"
+  },
+  "har": {
+    "id": "har",
+    "name": {
+      "en": "Hard",
+      "pt": "Duro"
+    },
+    "description": {
+      "en": "solid, firm, rigid, unyielding",
+      "pt": "sólido, firme, rígido, inflexível"
+    },
+    "priority": 117,
+    "level": 4,
+    "spriteId": "sign-30",
+    "oppositeId": "sof",
+    "default": true,
+    "keywords": "hard solid firm rigid unyielding duro sólido firme rígido inflexível"
+  },
+  "hea": {
+    "id": "hea",
+    "name": {
+      "en": "Heavy",
+      "pt": "Pesado"
+    },
+    "description": {
+      "en": "weight, mass",
+      "pt": "peso, massa"
+    },
+    "priority": 129,
+    "level": 3,
+    "spriteId": "sign-13",
+    "default": true,
+    "keywords": "heavy weight mass pesado peso massa"
+  },
+  "hei": {
+    "id": "hei",
+    "name": {
+      "en": "Height",
+      "pt": "Altura"
+    },
+    "description": {
+      "en": "high, tall, height, altitude",
+      "pt": "alto, alto, altura, altitude"
+    },
+    "priority": 92,
+    "level": 4,
+    "spriteId": "sign-58",
+    "relatedId": "lon",
+    "default": false,
+    "limited": false,
+    "specific": true,
+    "keywords": "height high tall altitude altura alto"
+  },
+  "hol": {
+    "id": "hol",
+    "name": {
+      "en": "Holes",
+      "pt": "Buracos"
+    },
+    "description": {
+      "en": "has gaps, perforations, or openings",
+      "pt": "possui lacunas, perfurações ou aberturas"
+    },
+    "priority": 126,
+    "level": 2,
+    "spriteId": "sign-5",
+    "default": false,
+    "keywords": "holes has gaps perforations or openings buracos possui lacunas perfurações ou aberturas"
+  },
+  "hum": {
+    "id": "hum",
+    "name": {
+      "en": "Human",
+      "pt": "Humano"
+    },
+    "description": {
+      "en": "person, human body, used by people, has human features",
+      "pt": "pessoa, corpo, usado por pessoas, tem características humanas"
+    },
+    "priority": 27,
+    "level": 1,
+    "spriteId": "sign-15",
+    "default": true,
+    "keywords": "human person body used by people has features humano pessoa corpo usado por pessoas tem características humanas"
+  },
+  "ins": {
+    "id": "ins",
+    "name": {
+      "en": "Instrument",
+      "pt": "Instrumento"
+    },
+    "description": {
+      "en": "utensil, support",
+      "pt": "utensílio, suporte"
+    },
+    "priority": 84,
+    "level": 4,
+    "spriteId": "sign-46",
+    "relatedId": "too",
+    "default": false,
+    "specific": true,
+    "keywords": "instrument utensil support instrumento utensílio suporte"
+  },
+  "kno": {
+    "id": "kno",
+    "name": {
+      "en": "Knowledge",
+      "pt": "Conhecimento"
+    },
+    "description": {
+      "en": "wisdom, smarts, idea, gives information",
+      "pt": "sabedoria, inteligência, ideia, dá informação"
+    },
+    "priority": 42,
+    "level": 2,
+    "spriteId": "sign-16",
+    "default": true,
+    "keywords": "knowledge wisdom smarts idea gives information conhecimento sabedoria inteligência ideia dá informação"
+  },
+  "liq": {
+    "id": "liq",
+    "name": {
+      "en": "Liquid",
+      "pt": "Líquido"
+    },
+    "description": {
+      "en": "fluid, aquatic, water",
+      "pt": "fluido, aquático"
+    },
+    "priority": 15,
+    "level": 1,
+    "spriteId": "sign-41",
+    "default": true,
+    "keywords": "liquid fluid aquatic water líquido fluido aquático"
+  },
+  "loc": {
+    "id": "loc",
+    "name": {
+      "en": "Location",
+      "pt": "Local"
+    },
+    "description": {
+      "en": "Place, region, area",
+      "pt": "Lugar, região, área"
+    },
+    "priority": 65,
+    "level": 4,
+    "spriteId": "sign-55",
+    "relatedId": "con",
+    "default": true,
+    "limited": false,
+    "specific": true,
+    "keywords": "location place area region local região lugar área"
+  },
+  "lon": {
+    "id": "lon",
+    "name": {
+      "en": "Long",
+      "pt": "Longo"
+    },
+    "description": {
+      "en": "tall, lengthy",
+      "pt": "alto, comprido"
+    },
+    "priority": 93,
+    "level": 2,
+    "spriteId": "sign-18",
+    "default": true,
+    "keywords": "long tall lengthy longo alto comprido"
+  },
+  "mac": {
+    "id": "mac",
+    "name": {
+      "en": "Machine",
+      "pt": "Máquina"
+    },
+    "description": {
+      "en": "has gears, uses powers, works",
+      "pt": "tem engrenagens, usa energia, funciona"
+    },
+    "priority": 51,
+    "level": 2,
+    "spriteId": "sign-19",
+    "default": false,
+    "keywords": "machine has gears uses powers works máquina tem engrenagens usa energia funciona"
+  },
+  "met": {
+    "id": "met",
+    "name": {
+      "en": "Metal",
+      "pt": "Metal"
+    },
+    "description": {
+      "en": "has metallic shiny parts, made of metal",
+      "pt": "tem partes metálicas brilhantes, feito de metal"
+    },
+    "priority": 96,
+    "level": 2,
+    "spriteId": "sign-20",
+    "default": true,
+    "keywords": "metal has metallic shiny parts made of tem partes metálicas brilhantes feito de"
+  },
+  "mul": {
+    "id": "mul",
+    "name": {
+      "en": "Multiple",
+      "pt": "Múltiplo"
+    },
+    "description": {
+      "en": "usually found in pairs, groups, or sets, or people own more than one",
+      "pt": "pares, grupos, conjuntos, ou as pessoas possuem mais de um"
+    },
+    "priority": 108,
+    "level": 4,
+    "spriteId": "sign-21",
+    "default": false,
+    "limited": true,
+    "keywords": "multiple usually found in pairs groups or sets people own more than one múltiplo pares grupos conjuntos ou as pessoas possuem mais de um"
+  },
+  "myt": {
+    "id": "myt",
+    "name": {
+      "en": "Mythic",
+      "pt": "Mítico"
+    },
+    "description": {
+      "en": "fantasy, legend, myth, mystic, spiritual, supernatural, magic",
+      "pt": "fantasia, lenda, mito, místico, espiritual, sobrenatural, mágico"
+    },
+    "priority": 41,
+    "level": 4,
+    "spriteId": "sign-54",
+    "relatedId": "kno",
+    "default": false,
+    "limited": false,
+    "specific": true,
+    "keywords": "mythic fantasy legend myth mystic spiritual supernatural magic mítico fantasia lenda mito místico espiritual sobrenatural mágico"
+  },
+  "nat": {
+    "id": "nat",
+    "name": {
+      "en": "Natural",
+      "pt": "Natural"
+    },
+    "description": {
+      "en": "found in nature, not artificial, organic",
+      "pt": "encontrado na natureza, não artificial, orgânico"
+    },
+    "priority": 75,
+    "level": 3,
+    "spriteId": "sign-43",
+    "oppositeId": "pls",
+    "default": false,
+    "keywords": "natural found in nature plant not artificial organic encontrado na natureza não orgânico"
+  },
+  "new": {
+    "id": "new",
+    "name": {
+      "en": "New",
+      "pt": "Novo"
+    },
+    "description": {
+      "en": "young, recent, fresh, modern",
+      "pt": "jovem, recente, moderno"
+    },
+    "priority": 102,
+    "level": 2,
+    "spriteId": "sign-48",
+    "oppositeId": "old",
+    "default": false,
+    "keywords": "new young recent fresh modern novo jovem recente moderno tempo idade"
+  },
+  "odo": {
+    "id": "odo",
+    "name": {
+      "en": "Odor",
+      "pt": "Cheiro"
+    },
+    "description": {
+      "en": "smell, odor, aroma",
+      "pt": "perfume, odor, aroma, fedor"
+    },
+    "priority": 99,
+    "level": 2,
+    "spriteId": "sign-22",
+    "default": false,
+    "keywords": "odor smell odor aroma cheiro perfume aroma fedor"
+  },
+  "old": {
+    "id": "old",
+    "name": {
+      "en": "Old",
+      "pt": "Velho"
+    },
+    "description": {
+      "en": "elderly, aged, dated, ancient",
+      "pt": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
+    },
+    "priority": 102,
+    "level": 2,
+    "spriteId": "sign-23",
+    "default": false,
+    "keywords": "old elderly aged dated ancient time velho idoso envelhecido fora de moda antigo ultrapassado tempo"
+  },
+  "par": {
+    "id": "par",
+    "name": {
+      "en": "Part",
+      "pt": "Parte"
+    },
+    "description": {
+      "en": "piece, portion, slice, section",
+      "pt": "pedaço, porção, fatia, seção"
+    },
+    "priority": 126,
+    "level": 3,
+    "spriteId": "sign-49",
+    "default": false,
+    "limited": true,
+    "keywords": "part piece portion slice section parte peça pedaço porção fatia seção"
+  },
+  "per": {
+    "id": "per",
+    "name": {
+      "en": "Personal",
+      "pt": "Pessoal"
+    },
+    "description": {
+      "en": "Belonging to a person, private, used by a single person",
+      "pt": "Pertencente a uma pessoa, privado, usado por uma única pessoa"
+    },
+    "priority": 135,
+    "level": 4,
+    "spriteId": "sign-24",
+    "default": false,
+    "limited": true,
+    "keywords": "personal belonging to a person private used by single person pessoal pertencente uma pessoa privado usado por única pessoa"
+  },
+  "pla": {
+    "id": "pla",
+    "name": {
+      "en": "Plant",
+      "pt": "Planta"
+    },
+    "description": {
+      "en": "vegetation, flora, green, wood",
+      "pt": "vegetação, flora, verde, madeira"
+    },
+    "priority": 9,
+    "level": 1,
+    "spriteId": "sign-25",
+    "default": true,
+    "keywords": "plant vegetation flora green wood planta vegetação verde madeira"
+  },
+  "pls": {
+    "id": "pls",
+    "name": {
+      "en": "Plastic",
+      "pt": "Plástico"
+    },
+    "description": {
+      "en": "rubber, synthetic material,",
+      "pt": "borracha, material sintético"
+    },
+    "priority": 75,
+    "level": 2,
+    "spriteId": "sign-44",
+    "oppositeId": "nat",
+    "default": false,
+    "keywords": "plastic rubber synthetic material plástico borracha material sintético"
+  },
+  "pow": {
+    "id": "pow",
+    "name": {
+      "en": "Power",
+      "pt": "Força"
+    },
+    "description": {
+      "en": "strength, energy, force, electricity",
+      "pt": "poder, energia, eletricidade"
+    },
+    "priority": 45,
+    "level": 2,
+    "spriteId": "sign-26",
+    "default": true,
+    "keywords": "power strength energy force electricity força poder energia eletricidade"
+  },
+  "rou": {
+    "id": "rou",
+    "name": {
+      "en": "Round",
+      "pt": "Redondo"
+    },
+    "description": {
+      "en": "circular, sphere, oval",
+      "pt": "circular, esfera, oval"
+    },
+    "priority": 57,
+    "level": 1,
+    "spriteId": "sign-27",
+    "default": true,
+    "keywords": "round circular sphere oval redondo esfera"
+  },
+  "sha": {
+    "id": "sha",
+    "name": {
+      "en": "Sharp",
+      "pt": "Afiado"
+    },
+    "description": {
+      "en": "pointy, cutting, blade",
+      "pt": "pontiagudo, cortante, lâmina"
+    },
+    "priority": 24,
+    "level": 1,
+    "spriteId": "sign-28",
+    "default": true,
+    "keywords": "sharp pointy cutting blade afiado pontiagudo cortante lâmina"
+  },
+  "sma": {
+    "id": "sma",
+    "name": {
+      "en": "Small",
+      "pt": "Pequeno"
+    },
+    "description": {
+      "en": "tiny, miniature, compact",
+      "pt": "pequeno, compacto"
+    },
+    "priority": 114,
+    "level": 2,
+    "spriteId": "sign-47",
+    "oppositeId": "big",
+    "default": false,
+    "keywords": "small tiny miniature compact pequeno pequeno compacto"
+  },
+  "sof": {
+    "id": "sof",
+    "name": {
+      "en": "Soft",
+      "pt": "Mole"
+    },
+    "description": {
+      "en": "gentle, smooth, plush, gooey, bendable",
+      "pt": "gentil, suave, macio, pegajoso, flexível"
+    },
+    "priority": 117,
+    "level": 3,
+    "spriteId": "sign-29",
+    "oppositeId": "har",
+    "default": false,
+    "keywords": "soft gentle smooth plush gooey bendable mole gentil suave macio pegajoso flexível"
+  },
+  "sou": {
+    "id": "sou",
+    "name": {
+      "en": "Sound",
+      "pt": "Som"
+    },
+    "description": {
+      "en": "makes sound naturally or by design or interaction",
+      "pt": "faz som naturalmente ou por design ou interação"
+    },
+    "priority": 51,
+    "level": 1,
+    "spriteId": "sign-31",
+    "default": false,
+    "keywords": "sound makes naturally or by design interaction som faz naturalmente ou por interação"
+  },
+  "tab": {
+    "id": "tab",
+    "name": {
+      "en": "Taboo",
+      "pt": "Tabu"
+    },
+    "description": {
+      "en": "censored, controversial, stigmatized, banned, adult, unethical, secret.",
+      "pt": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto."
+    },
+    "priority": 41,
+    "level": 3,
+    "spriteId": "sign-56",
+    "relatedId": "kno",
+    "specific": true,
+    "keywords": "taboo censor controversial stigmatized banned adult unethical secret tabu censurado controverso estigmatizado banido adulto antiético secreto"
+  },
+  "tec": {
+    "id": "tec",
+    "name": {
+      "en": "Technology",
+      "pt": "Tecnologia"
+    },
+    "description": {
+      "en": "electronics, digital, computer, internet",
+      "pt": "eletrônicos, digital, computador, internet"
+    },
+    "priority": 36,
+    "level": 2,
+    "spriteId": "sign-37",
+    "default": false,
+    "keywords": "technology electronics digital computer internet tecnologia eletrônicos computador"
+  },
+  "too": {
+    "id": "too",
+    "name": {
+      "en": "Tool",
+      "pt": "Ferramenta"
+    },
+    "description": {
+      "en": "instrument, device, implement",
+      "pt": "instrumento, dispositivo, implemento"
+    },
+    "priority": 81,
+    "level": 2,
+    "spriteId": "sign-33",
+    "default": true,
+    "keywords": "tool instrument device implement ferramenta instrumento dispositivo implemento"
+  },
+  "toy": {
+    "id": "toy",
+    "name": {
+      "en": "Toy",
+      "pt": "Brinquedo"
+    },
+    "description": {
+      "en": "plaything, amusement, for children",
+      "pt": "laser, prazer, diversão, para crianças"
+    },
+    "priority": 78,
+    "level": 2,
+    "spriteId": "sign-34",
+    "default": false,
+    "keywords": "toy plaything amusement for children brinquedo laser prazer diversão para crianças"
+  },
+  "tra": {
+    "id": "tra",
+    "name": {
+      "en": "Transportation",
+      "pt": "Transporte"
+    },
+    "description": {
+      "en": "Vehicle, cars",
+      "pt": "Veículos, carros"
+    },
+    "priority": 71,
+    "level": 4,
+    "spriteId": "sign-52",
+    "relatedId": "fas",
+    "default": false,
+    "limited": false,
+    "specific": true,
+    "keywords": "moto avião barco"
+  },
+  "val": {
+    "id": "val",
+    "name": {
+      "en": "Valuable",
+      "pt": "Valioso"
+    },
+    "description": {
+      "en": "precious, rare, money, sentimental value",
+      "pt": "precioso, raro, dinheiro, valor sentimental"
+    },
+    "priority": 12,
+    "level": 3,
+    "spriteId": "sign-35",
+    "default": true,
+    "keywords": "valuable precious rare money sentimental value cheap expensive price purchase valioso precioso raro dinheiro valor caro barato preço compra chique"
+  },
+  "war": {
+    "id": "war",
+    "name": {
+      "en": "Warm",
+      "pt": "Quente"
+    },
+    "description": {
+      "en": "heat, cozy, temperature",
+      "pt": "calor, aconchegante, temperatura"
+    },
+    "priority": 39,
+    "level": 2,
+    "spriteId": "sign-36",
+    "oppositeId": "col",
+    "default": true,
+    "keywords": "warm heat cozy temperature quente calor aconchegante temperatura frio gelado fogo queimar"
+  },
+  "wea": {
+    "id": "wea",
+    "name": {
+      "en": "Weapon",
+      "pt": "Arma"
+    },
+    "description": {
+      "en": "artillery, offense, used in combat",
+      "pt": "artilharia, ofensiva, usado em combate"
+    },
+    "priority": 6,
+    "level": 1,
+    "spriteId": "sign-32",
+    "default": true,
+    "keywords": "weapon artillery offense used in combat arma artilharia ofensiva usado em combate"
+  },
+  "wri": {
+    "id": "wri",
+    "name": {
+      "en": "Writing",
+      "pt": "Escrita"
+    },
+    "description": {
+      "en": "text, letters, or symbols used for communication",
+      "pt": "texto, letras ou símbolos usados para comunicação"
+    },
+    "priority": 105,
+    "level": 2,
+    "spriteId": "sign-38",
+    "default": false,
+    "keywords": "writing text letters or symbols used for communication escrita texto letras ou símbolos usados para comunicação"
+  }
 }
