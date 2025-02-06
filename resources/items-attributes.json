@@ -403,8 +403,8 @@
       "pt": "Instrumento"
     },
     "description": {
-      "en": "utensil, support",
-      "pt": "utensílio, suporte"
+      "en": "utensil, equipment, support",
+      "pt": "utensílio, equipamento, suporte"
     },
     "priority": 84,
     "level": 4,
@@ -412,7 +412,7 @@
     "relatedId": "too",
     "default": false,
     "specific": true,
-    "keywords": "instrument utensil support instrumento utensílio suporte"
+    "keywords": "instrument utensil support equipment instrumento utensílio suporte equipamento"
   },
   "kno": {
     "id": "kno",
