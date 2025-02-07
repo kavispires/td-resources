@@ -116,6 +116,9 @@
       "en": "birthday hat",
       "pt": "chapéu de festa"
     },
+    "aliasesPt": [
+      "chapeuzinho"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -210,8 +213,11 @@
     "id": "15",
     "name": {
       "en": "boxing gloves",
-      "pt": "luva de box"
+      "pt": "luva de boxe"
     },
+    "aliasesPt": [
+      "boxe"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -239,6 +245,9 @@
       "en": "shopping cart",
       "pt": "carrinho de supermercado"
     },
+    "aliasesPt": [
+      "carrinho"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -506,6 +515,9 @@
       "en": "paint roller",
       "pt": "rolo de tinta"
     },
+    "aliasesPt": [
+      "rolo"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -537,6 +549,9 @@
       "en": "fire extinguisher",
       "pt": "extintor de incêndio"
     },
+    "aliasesPt": [
+      "extintor"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -654,6 +669,9 @@
     },
     "aliasesEn": [
       "wristwatch"
+    ],
+    "aliasesPt": [
+      "relógio"
     ],
     "decks": [
       "alien",
@@ -1015,6 +1033,9 @@
       "en": "board game",
       "pt": "jogo de tabuleiro"
     },
+    "aliasesPt": [
+      "tabuleiro"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -1054,6 +1075,9 @@
       "en": "shell with pearl",
       "pt": "concha com pérola"
     },
+    "aliasesPt": [
+      "pérola"
+    ],
     "decks": [
       "alien"
     ]
@@ -1470,6 +1494,9 @@
       "en": "toy horse",
       "pt": "cavalo de balanço"
     },
+    "aliasesPt": [
+      "cavalinho"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -1543,6 +1570,12 @@
       "en": "gold bars",
       "pt": "barras de ouro"
     },
+    "aliasesEn": [
+      "gold"
+    ],
+    "aliasesPt": [
+      "ouro"
+    ],
     "decks": [
       "alien",
       "evidence"
@@ -1707,6 +1740,9 @@
       "en": "vacuum",
       "pt": "aspirador de pó"
     },
+    "aliasesPt": [
+      "aspirador"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -1845,6 +1881,9 @@
       "en": "nuclear plant",
       "pt": "usina nuclear"
     },
+    "aliasesPt": [
+      "usina"
+    ],
     "decks": [
       "alien",
       "manufactured",
@@ -1920,6 +1959,9 @@
       "en": "teddy bear",
       "pt": "urso de pelúcia"
     },
+    "aliasesPt": [
+      "ursinho"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -2017,8 +2059,11 @@
     "id": "158",
     "name": {
       "en": "light bulb",
-      "pt": "lâmpada elétrica"
+      "pt": "lâmpada"
     },
+    "aliasesPt": [
+      "lâmpada"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -2092,6 +2137,9 @@
       "en": "headphones",
       "pt": "fones de ouvido"
     },
+    "aliasesPt": [
+      "fones"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -2560,6 +2608,9 @@
       "en": "joystick",
       "pt": "controle de video game"
     },
+    "aliasesPt": [
+      "joystick"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -2624,6 +2675,9 @@
       "en": "cassete tape",
       "pt": "fita cassete"
     },
+    "aliasesPt": [
+      "cassete"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -2764,6 +2818,9 @@
       "en": "karate gi",
       "pt": "quimono de artes marciais"
     },
+    "aliasesPt": [
+      "quimono"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -2778,6 +2835,10 @@
     },
     "aliasesEn": [
       "bat"
+    ],
+    "aliasesPt": [
+      "bastão",
+      "taco"
     ],
     "decks": [
       "alien",
@@ -3195,6 +3256,9 @@
       "en": "traffic cone",
       "pt": "cone de trânsito"
     },
+    "aliasesPt": [
+      "cone"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -3208,6 +3272,9 @@
       "en": "license plate",
       "pt": "placa de carro"
     },
+    "aliasesPt": [
+      "placa"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -3620,6 +3687,7 @@
       "bulletproof vest"
     ],
     "aliasesPt": [
+      "colete",
       "colete balístico"
     ],
     "decks": [
@@ -3695,6 +3763,9 @@
       "en": "bottle opener",
       "pt": "abridor de garrafa"
     },
+    "aliasesPt": [
+      "abridor"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -3720,6 +3791,9 @@
       "en": "cutting board",
       "pt": "tábua de cortar"
     },
+    "aliasesPt": [
+      "tábua"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -3734,6 +3808,9 @@
     },
     "aliasesEn": [
       "pasta roller"
+    ],
+    "aliasesPt": [
+      "rolo"
     ],
     "decks": [
       "alien",
@@ -4322,6 +4399,9 @@
       "en": "credit card",
       "pt": "cartão de crédito"
     },
+    "aliasesPt": [
+      "cartão"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -4740,6 +4820,9 @@
       "en": "windmill",
       "pt": "moinho de vento"
     },
+    "aliasesPt": [
+      "moinho"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -4870,6 +4953,9 @@
       "en": "paper clip",
       "pt": "clips de papel"
     },
+    "aliasesPt": [
+      "clips"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -5289,6 +5375,9 @@
       "en": "vinyl",
       "pt": "disco de vinil"
     },
+    "aliasesPt": [
+      "vinil"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -5378,6 +5467,9 @@
       "en": "rotary phone",
       "pt": "telefone de disco"
     },
+    "aliasesPt": [
+      "telefone"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -5416,6 +5508,9 @@
       "en": "cymbals",
       "pt": "pratos musicais"
     },
+    "aliasesPt": [
+      "pratos"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -5454,6 +5549,9 @@
       "en": "crayons",
       "pt": "giz de cera"
     },
+    "aliasesPt": [
+      "giz"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -5505,6 +5603,9 @@
       "en": "school bell",
       "pt": "sino de escola"
     },
+    "aliasesPt": [
+      "sinal"
+    ],
     "decks": [
       "alien",
       "manufactured"
@@ -5589,6 +5690,9 @@
       "en": "stroller",
       "pt": "carrinho de bebê"
     },
+    "aliasesPt": [
+      "carrinho"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -5939,6 +6043,9 @@
       "en": "phone booth",
       "pt": "cabine telefônica"
     },
+    "aliasesPt": [
+      "cabine"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -6049,6 +6156,9 @@
       "en": "washing machine",
       "pt": "máquina de lavar"
     },
+    "aliasesPt": [
+      "lavadora"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -6114,6 +6224,9 @@
       "en": "iron",
       "pt": "ferro de passar"
     },
+    "aliasesPt": [
+      "ferro"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -6176,6 +6289,9 @@
       "en": "flight tickets",
       "pt": "passagem de avião"
     },
+    "aliasesPt": [
+      "passagem"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -6393,6 +6509,9 @@
       "en": "stop sign",
       "pt": "placa de pare"
     },
+    "aliasesPt": [
+      "pare"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -6453,6 +6572,9 @@
       "en": "toothbrush",
       "pt": "escova de dentes"
     },
+    "aliasesPt": [
+      "escova"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -6466,6 +6588,9 @@
       "en": "school bus",
       "pt": "ônibus escolar"
     },
+    "aliasesPt": [
+      "escolar"
+    ],
     "decks": [
       "alien",
       "location",
@@ -6572,7 +6697,7 @@
     "id": "518",
     "name": {
       "en": "hamburger",
-      "pt": "hamburger"
+      "pt": "hambúrger"
     },
     "decks": [
       "alien",
@@ -6710,6 +6835,9 @@
       "en": "abs",
       "pt": "barriga tanquinho"
     },
+    "aliasesPt": [
+      "abdômen"
+    ],
     "decks": [
       "alien"
     ]
@@ -6757,6 +6885,9 @@
       "en": "ice pop sticks",
       "pt": "palitos de picolé"
     },
+    "aliasesPt": [
+      "palitos"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -6831,6 +6962,9 @@
       "en": "influencer",
       "pt": "influenciadora digital"
     },
+    "aliasesPt": [
+      "influenciadora"
+    ],
     "decks": [
       "alien",
       "suspect"
@@ -6857,6 +6991,9 @@
       "en": "poker chip",
       "pt": "ficha de poker"
     },
+    "aliasesPt": [
+      "ficha"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -7094,6 +7231,9 @@
       "en": "wand",
       "pt": "varinha mágica"
     },
+    "aliasesPt": [
+      "varinha"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -7206,6 +7346,9 @@
       "en": "tea mug",
       "pt": "xícara de chá"
     },
+    "aliasesPt": [
+      "chá"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -7279,6 +7422,9 @@
       "en": "pantone palette",
       "pt": "palheta pantone"
     },
+    "aliasesPt": [
+      "pantone"
+    ],
     "decks": [
       "alien",
       "manufactured"
