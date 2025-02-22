@@ -13898,8 +13898,11 @@
     "id": "1112",
     "name": {
       "en": "truck",
-      "pt": "caminhão"
+      "pt": "carreta"
     },
+    "aliasesPt": [
+      "caminhão"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -14385,6 +14388,9 @@
       "en": "hair tie",
       "pt": "xuxinha"
     },
+    "aliasesEn": [
+      "Scrunchie"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -34277,6 +34283,441 @@
     "decks": [
       "alien",
       "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2817": {
+    "id": "2817",
+    "name": {
+      "en": "prayer mat",
+      "pt": "tapete de oração"
+    },
+    "decks": [
+      "alien",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2818": {
+    "id": "2818",
+    "name": {
+      "en": "quran",
+      "pt": "alcorão"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "thing"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2819": {
+    "id": "2819",
+    "name": {
+      "en": "tote bag",
+      "pt": "bolsa tote"
+    },
+    "aliasesPt": [
+      "sacola tote"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2820": {
+    "id": "2820",
+    "name": {
+      "en": "electronics store",
+      "pt": "loja de eletrônicos"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2821": {
+    "id": "2821",
+    "name": {
+      "en": "hot sauce",
+      "pt": "molho de pimenta"
+    },
+    "aliasesEn": [
+      "tabasco"
+    ],
+    "aliasesPt": [
+      "pimenta"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2822": {
+    "id": "2822",
+    "name": {
+      "en": "packing",
+      "pt": "embalagem"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2823": {
+    "id": "2823",
+    "name": {
+      "en": "leggings",
+      "pt": "legging"
+    },
+    "aliasesPt": [
+      "calça legging"
+    ],
+    "decks": [
+      "alien",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2824": {
+    "id": "2824",
+    "name": {
+      "en": "morse code",
+      "pt": "código morse"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2825": {
+    "id": "2825",
+    "name": {
+      "en": "smoke detector",
+      "pt": "sensor de incêndio"
+    },
+    "aliasesEn": [
+      "fire sensor"
+    ],
+    "aliasesPt": [
+      "detector de fumaça"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2826": {
+    "id": "2826",
+    "name": {
+      "en": "highway",
+      "pt": "viaduto"
+    },
+    "aliasesEn": [
+      "overpass"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2827": {
+    "id": "2827",
+    "name": {
+      "en": "twins",
+      "pt": "gêmeos"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2828": {
+    "id": "2828",
+    "name": {
+      "en": "water meter",
+      "pt": "hidrômetro"
+    },
+    "decks": [
+      "alien",
+      "manufactured",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2829": {
+    "id": "2829",
+    "name": {
+      "en": "candy shop",
+      "pt": "doceria"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2830": {
+    "id": "2830",
+    "name": {
+      "en": "tank",
+      "pt": "tanque"
+    },
+    "aliasesPt": [
+      "reservatório"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2831": {
+    "id": "2831",
+    "name": {
+      "en": "vacation",
+      "pt": "férias"
+    },
+    "aliasesPt": [
+      "feriado"
+    ],
+    "decks": [
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2832": {
+    "id": "2832",
+    "name": {
+      "en": "coatl",
+      "pt": "serpente"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2833": {
+    "id": "2833",
+    "name": {
+      "en": "labrys",
+      "pt": "labrys"
+    },
+    "aliasesEn": [
+      "double-headed axe"
+    ],
+    "aliasesPt": [
+      "machado de duas cabeças"
+    ],
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2834": {
+    "id": "2834",
+    "name": {
+      "en": "dump truck",
+      "pt": "caminhão basculante"
+    },
+    "aliasesPt": [
+      "caminhão"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2835": {
+    "id": "2835",
+    "name": {
+      "en": "Italy",
+      "pt": "Itália"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2836": {
+    "id": "2836",
+    "name": {
+      "en": "India",
+      "pt": "Índia"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2837": {
+    "id": "2837",
+    "name": {
+      "en": "China",
+      "pt": "China"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2838": {
+    "id": "2838",
+    "name": {
+      "en": "Mexico",
+      "pt": "México"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2839": {
+    "id": "2839",
+    "name": {
+      "en": "lion dance",
+      "pt": "dança do leão"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2840": {
+    "id": "2840",
+    "name": {
+      "en": "absinthe",
+      "pt": "absinto"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2841": {
+    "id": "2841",
+    "name": {
+      "en": "gin",
+      "pt": "gim"
+    },
+    "decks": [
+      "alien",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2842": {
+    "id": "2842",
+    "name": {
+      "en": "brandy",
+      "pt": "conhaque"
+    },
+    "decks": [
+      "alien",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2843": {
+    "id": "2843",
+    "name": {
+      "en": "mojito",
+      "pt": "mojito"
+    },
+    "decks": [
+      "alien",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2844": {
+    "id": "2844",
+    "name": {
+      "en": "bloody mary",
+      "pt": "bloody mary"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2845": {
+    "id": "2845",
+    "name": {
+      "en": "sangria",
+      "pt": "sangria"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2846": {
+    "id": "2846",
+    "name": {
+      "en": "cuba libre",
+      "pt": "cuba libre"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2847": {
+    "id": "2847",
+    "name": {
+      "en": "theremin",
+      "pt": "theremin"
+    },
+    "decks": [
+      "alien",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2848": {
+    "id": "2848",
+    "name": {
+      "en": "cabasa",
+      "pt": "cabasa"
+    },
+    "decks": [
+      "alien",
       "thing"
     ],
     "groups": []
