@@ -1,0 +1,140 @@
+{
+	"tsm-1": {
+		"id": "tsm-1",
+		"title": {
+			"en": "Vigilante",
+			"pt": "Vigilante"
+		},
+		"description": {
+			"en": "You cannot spread rumors about anyone in the 8 areas surrounding the Detective marker.",
+			"pt": "Você não pode espalhar boatos sobre ninguém nas 8 áreas ao redor do Detetive."
+		},
+		"beginner": true
+	},
+	"tsm-2": {
+		"id": "tsm-2",
+		"title": {
+			"en": "Incel/Feminist",
+			"pt": "Incel/Feminista"
+		},
+		"description": {
+			"en": "All victims have to be of the same sex.",
+			"pt": "Todas as vítimas têm que ser do mesmo sexo."
+		},
+		"beginner": true
+	},
+	"tsm-3": {
+		"id": "tsm-3",
+		"title": {
+			"en": "Bully",
+			"pt": "Bully"
+		},
+		"description": {
+			"en": "You cannot spread rumors on intimidated students",
+			"pt": "Você não pode espalhar boatos sobre estudantes intimidados"
+		},
+		"beginner": true
+	},
+	"tsm-4": {
+		"id": "tsm-4",
+		"title": {
+			"en": "Anarchist",
+			"pt": "Anarquista"
+		},
+		"description": {
+			"en": "All victims have to be from different social groups.",
+			"pt": "Todas as vítimas têm que ser de grupos sociais diferentes."
+		},
+		"beginner": true
+	},
+	"tsm-5": {
+		"id": "tsm-5",
+		"title": {
+			"en": "Opportunist",
+			"pt": "Oportunista"
+		},
+		"description": {
+			"en": "You can only spread rumor about students that are alone in a space",
+			"pt": "Você só pode espalhar boatos sobre estudantes que estão sozinhos em uma área"
+		},
+		"beginner": true
+	},
+	"tsm-6": {
+		"id": "tsm-6",
+		"title": {
+			"en": "Social Assassin",
+			"pt": "Assassino Social"
+		},
+		"description": {
+			"en": "You cannot spread rumors in the 4 central areas of the school",
+			"pt": "Você não pode espalhar boatos nas 4 áreas centrais da escola"
+		},
+		"beginner": true
+	},
+	"tsm-7": {
+		"id": "tsm-7",
+		"title": {
+			"en": "Backstabber",
+			"pt": "Traidor"
+		},
+		"description": {
+			"en": "The first victim has to be of a different social group than your Best Friend. Each victim has to be from a different social group than the last. Has to spread rumors about the Best Friend",
+			"pt": "A primeira vítima tem que ser de um grupo social diferente do seu Melhor Amigo. Cada vítima tem que ser de um grupo social diferente da última. Tem que espalhar boatos sobre o Melhor Amigo"
+		}
+	},
+	"tsm-8": {
+		"id": "tsm-8",
+		"title": {
+			"en": "Radical",
+			"pt": "Radical"
+		},
+		"description": {
+			"en": "At least 3 of the victims have to be from the same social group.",
+			"pt": "Pelo menos 3 das vítimas têm que ser do mesmo grupo social."
+		}
+	},
+	"tsm-9": {
+		"id": "tsm-9",
+		"title": {
+			"en": "Manipulator",
+			"pt": "Manipulador"
+		},
+		"description": {
+			"en": "You cannot spread rumors anyone in any room adjacent to the last rumored space.",
+			"pt": "Você não pode espalhar boatos sobre ninguém em qualquer sala adjacente à última área afetada."
+		}
+	},
+	"tsm-10": {
+		"id": "tsm-10",
+		"title": {
+			"en": "Sociopath",
+			"pt": "Sociopata"
+		},
+		"description": {
+			"en": "All victims can be of no more than two different ages.",
+			"pt": "Todas as vítimas podem ter no máximo duas idades diferentes."
+		}
+	},
+	"tsm-11": {
+		"id": "tsm-11",
+		"title": {
+			"en": "Cultist",
+			"pt": "Cultista"
+		},
+		"description": {
+			"en": "There have to be students of all three different builds among the victims.",
+			"pt": "Tem que haver estudantes de todos os três biotipos diferentes entre as vítimas."
+		}
+	},
+	"tsm-12": {
+		"id": "tsm-12",
+		"title": {
+			"en": "Spy",
+			"pt": "Espião"
+		},
+		"description": {
+			"en": "All victims have to be rumored in rooms with school staff.",
+			"pt": "Todas as vítimas têm que ser boatos em salas com funcionários da escola."
+		}
+	}
+}
