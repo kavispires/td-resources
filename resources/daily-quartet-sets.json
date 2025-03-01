@@ -36,6 +36,18 @@
     ],
     "level": 0
   },
+  "33791": {
+    "id": "33791",
+    "title": "Sobre os olhos",
+    "type": "general",
+    "itemsIds": [
+      "55",
+      "768",
+      "730",
+      "1272"
+    ],
+    "level": 1
+  },
   "33832": {
     "id": "33832",
     "title": "Café da manhã",
@@ -180,13 +192,14 @@
   },
   "91162": {
     "id": "91162",
-    "title": "Ao redor do pescoço",
+    "title": "No pulso",
     "type": "general",
     "itemsIds": [
-      "696",
-      "520",
-      "207",
-      "339"
+      "556",
+      "1147",
+      "1250",
+      "49",
+      "1434"
     ],
     "level": 1
   },
@@ -250,18 +263,20 @@
       "707",
       "744"
     ],
-    "level": 0
+    "level": 1
   },
   "03e0d": {
     "id": "03e0d",
     "title": "Incêndio",
+    "type": "general",
     "itemsIds": [
       "39",
       "40",
-      "253",
-      "431"
+      "1899",
+      "2825",
+      "1236"
     ],
-    "level": 0
+    "level": 1
   },
   "040b2": {
     "id": "040b2",
@@ -273,20 +288,23 @@
       "1417",
       "1418",
       "1525",
-      "449"
+      "449",
+      "2600"
     ],
-    "level": 0
+    "level": 1
   },
   "041a7": {
     "id": "041a7",
     "title": "Sinais e placas",
+    "type": "general",
     "itemsIds": [
       "503",
       "714",
       "1014",
-      "1020"
+      "1020",
+      "1752"
     ],
-    "level": 0
+    "level": 2
   },
   "04478": {
     "id": "04478",
@@ -477,6 +495,16 @@
     ],
     "level": 0
   },
+  "0e477": {
+    "id": "0e477",
+    "title": "Quadras e campos esportivos",
+    "itemsIds": [
+      "1474",
+      "1477",
+      "1669"
+    ],
+    "level": 0
+  },
   "0ff5c": {
     "id": "0ff5c",
     "title": "Leitura",
@@ -572,7 +600,10 @@
       "348",
       "349",
       "1439",
-      "1525"
+      "1525",
+      "1435",
+      "2739",
+      "2707"
     ],
     "level": 0
   },
@@ -731,6 +762,18 @@
     ],
     "level": 1
   },
+  "2150b": {
+    "id": "2150b",
+    "title": "Animais com chifres",
+    "type": "attribute",
+    "itemsIds": [
+      "940",
+      "1091",
+      "1248",
+      "1957"
+    ],
+    "level": 1
+  },
   "21df1": {
     "id": "21df1",
     "title": "Medieval",
@@ -742,6 +785,20 @@
       "2207"
     ],
     "level": 0
+  },
+  "2399c": {
+    "id": "2399c",
+    "title": "Um pé do calçado",
+    "type": "general",
+    "itemsIds": [
+      "213",
+      "692",
+      "2203",
+      "2336",
+      "2335",
+      "2330"
+    ],
+    "level": 1
   },
   "23c11": {
     "id": "23c11",
@@ -1006,7 +1063,8 @@
       "509",
       "550",
       "551",
-      "851"
+      "851",
+      "1932"
     ],
     "level": 0
   },
@@ -1463,6 +1521,20 @@
     ],
     "level": 0
   },
+  "4d8b2": {
+    "id": "4d8b2",
+    "title": "Dois calçados",
+    "itemsIds": [
+      "853",
+      "1576",
+      "2333",
+      "1244",
+      "1116",
+      "1246",
+      "600"
+    ],
+    "level": 1
+  },
   "4dc41": {
     "id": "4dc41",
     "title": "Segura na alça",
@@ -1530,7 +1602,8 @@
       "162",
       "667",
       "923",
-      "1744"
+      "1744",
+      "1623"
     ],
     "level": 0
   },
@@ -1631,6 +1704,18 @@
       "2176",
       "2594",
       "1850"
+    ],
+    "level": 1
+  },
+  "5d7d0": {
+    "id": "5d7d0",
+    "title": "Impossível comer só um",
+    "type": "general",
+    "itemsIds": [
+      "655",
+      "2061",
+      "933",
+      "654"
     ],
     "level": 1
   },
@@ -1896,7 +1981,9 @@
       "76",
       "82",
       "118",
-      "372"
+      "372",
+      "1402",
+      "2284"
     ],
     "level": 0
   },
@@ -1951,6 +2038,18 @@
       "918"
     ],
     "level": 0
+  },
+  "7aa56": {
+    "id": "7aa56",
+    "title": "Animais australianos",
+    "type": "general",
+    "itemsIds": [
+      "867",
+      "903",
+      "1285",
+      "458"
+    ],
+    "level": 2
   },
   "7aadb": {
     "id": "7aadb",
@@ -2179,6 +2278,19 @@
     ],
     "level": 0
   },
+  "8c8cc": {
+    "id": "8c8cc",
+    "title": "Derretendo...",
+    "type": "attribute",
+    "itemsIds": [
+      "1465",
+      "79",
+      "226",
+      "2436",
+      "1846"
+    ],
+    "level": 1
+  },
   "8d634": {
     "id": "8d634",
     "title": "Veículos aquáticos",
@@ -2314,6 +2426,18 @@
     ],
     "level": 2
   },
+  "977c1": {
+    "id": "977c1",
+    "title": "Comidas redondinhas",
+    "itemsIds": [
+      "1609",
+      "567",
+      "1600",
+      "350",
+      "792"
+    ],
+    "level": 0
+  },
   "978dd": {
     "id": "978dd",
     "title": "No pescoço",
@@ -2425,10 +2549,10 @@
     "title": "Jogos de Mesa",
     "type": "thematic",
     "itemsIds": [
-      "77",
       "858",
       "878",
-      "879"
+      "879",
+      "2737"
     ],
     "level": 2
   },
@@ -2520,13 +2644,14 @@
   "a1f4d": {
     "id": "a1f4d",
     "title": "Contém camadas",
+    "type": "attribute",
     "itemsIds": [
       "71",
       "1055",
       "1751",
       "2274"
     ],
-    "level": 2
+    "level": 3
   },
   "a4bcd": {
     "id": "a4bcd",
@@ -2677,6 +2802,23 @@
     ],
     "level": 0
   },
+  "aa42b": {
+    "id": "aa42b",
+    "title": "É de chocolate",
+    "type": "general",
+    "itemsIds": [
+      "837",
+      "1863",
+      "212",
+      "1876",
+      "1549",
+      "2684",
+      "1298",
+      "2390",
+      "1636"
+    ],
+    "level": 1
+  },
   "aafa8": {
     "id": "aafa8",
     "title": "Crime",
@@ -2728,6 +2870,16 @@
       "273",
       "444",
       "1192"
+    ],
+    "level": 0
+  },
+  "ae32a": {
+    "id": "ae32a",
+    "title": "Equinos",
+    "itemsIds": [
+      "36",
+      "866",
+      "1829"
     ],
     "level": 0
   },
@@ -3057,7 +3209,9 @@
       "2103",
       "699",
       "1376",
-      "811"
+      "811",
+      "726",
+      "831"
     ],
     "level": 1
   },
@@ -3146,6 +3300,18 @@
       "911"
     ],
     "level": 0
+  },
+  "c4fe9": {
+    "id": "c4fe9",
+    "title": "Calçado de cano alto",
+    "type": "general",
+    "itemsIds": [
+      "540",
+      "2201",
+      "2333",
+      "2334"
+    ],
+    "level": 1
   },
   "c5076": {
     "id": "c5076",
@@ -3695,6 +3861,16 @@
     ],
     "level": 0
   },
+  "e9af5": {
+    "id": "e9af5",
+    "title": "Prender o cabelo",
+    "itemsIds": [
+      "1152",
+      "777",
+      "136"
+    ],
+    "level": 2
+  },
   "ea1b0": {
     "id": "ea1b0",
     "title": "Cercado",
@@ -3715,6 +3891,17 @@
       "566",
       "687",
       "709"
+    ],
+    "level": 0
+  },
+  "ee1d9": {
+    "id": "ee1d9",
+    "title": "Pra ver melhor",
+    "itemsIds": [
+      "558",
+      "55",
+      "1131",
+      "357"
     ],
     "level": 0
   },
@@ -3829,6 +4016,7 @@
   "f3b2b": {
     "id": "f3b2b",
     "title": "Quantas horas são?",
+    "type": "general",
     "itemsIds": [
       "49",
       "83",
@@ -3840,7 +4028,7 @@
       "802",
       "1445"
     ],
-    "level": 0
+    "level": 1
   },
   "f3b51": {
     "id": "f3b51",
