@@ -1,920 +1,920 @@
 {
-  "tsc-1": {
-    "id": "tsc-1",
-    "title": {
-      "en": "Captain of the football team",
-      "pt": "Capitão do time de futebol"
-    },
-    "name": {
-      "en": "Ethan Johnson",
-      "pt": "Eduardo Junqueira"
-    },
-    "socialGroup": "Jocks",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "medium",
-    "height": "tall"
-  },
-  "tsc-2": {
-    "id": "tsc-2",
-    "title": {
-      "en": "The Cheerleader",
-      "pt": "A líder de torcida"
-    },
-    "name": {
-      "en": "Ashley Miller",
-      "pt": "Amanda Moura"
-    },
-    "socialGroup": "Jocks",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "medium",
-    "height": "medium"
-  },
-  "tsc-3": {
-    "id": "tsc-3",
-    "title": {
-      "en": "The Wrestler",
-      "pt": "O lutador"
-    },
-    "name": {
-      "en": "Carlos Ramirez",
-      "pt": "Carlos Ribeiro"
-    },
-    "socialGroup": "Jocks",
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "senior",
-    "build": "large",
-    "height": "short"
-  },
-  "tsc-4": {
-    "id": "tsc-4",
-    "title": {
-      "en": "The Jogger",
-      "pt": "A corredora"
-    },
-    "name": {
-      "en": "Sofia Morales",
-      "pt": "Sabrina Martins"
-    },
-    "socialGroup": "Jocks",
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "junior",
-    "build": "small",
-    "height": "tall"
-  },
-  "tsc-5": {
-    "id": "tsc-5",
-    "title": {
-      "en": "The gymnast",
-      "pt": "A ginasta"
-    },
-    "name": {
-      "en": "Aaliyah Thompson",
-      "pt": "Aline Teixeira"
-    },
-    "socialGroup": "Jocks",
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "sophomore",
-    "build": "small",
-    "height": "short"
-  },
-  "tsc-6": {
-    "id": "tsc-6",
-    "title": {
-      "en": "The Karate kid",
-      "pt": "O carateca"
-    },
-    "name": {
-      "en": "Kai Nakamura",
-      "pt": "Kai Nakamura"
-    },
-    "socialGroup": "Jocks",
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "junior",
-    "build": "large",
-    "height": "medium"
-  },
-  "tsc-7": {
-    "id": "tsc-7",
-    "title": {
-      "en": "The Druggie",
-      "pt": "O drogado"
-    },
-    "name": {
-      "en": "Brandon Davis",
-      "pt": "Bruno Dias"
-    },
-    "socialGroup": "Troublemakers",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "large",
-    "height": "tall"
-  },
-  "tsc-8": {
-    "id": "tsc-8",
-    "title": {
-      "en": "The Bully",
-      "pt": "O valentão"
-    },
-    "name": {
-      "en": "Liam O'Connor",
-      "pt": "Lucas Oliveira"
-    },
-    "socialGroup": "Troublemakers",
-    "gender": "male",
-    "ethnicity": "ginger",
-    "age": "senior",
-    "build": "medium",
-    "height": "tall"
-  },
-  "tsc-9": {
-    "id": "tsc-9",
-    "title": {
-      "en": "The Smoker",
-      "pt": "A fumante"
-    },
-    "name": {
-      "en": "Emma White",
-      "pt": "Emanuela Werneck"
-    },
-    "socialGroup": "Troublemakers",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "medium",
-    "height": "short"
-  },
-  "tsc-10": {
-    "id": "tsc-10",
-    "title": {
-      "en": "The Stoner",
-      "pt": "O maconheiro"
-    },
-    "name": {
-      "en": "Jake Harris",
-      "pt": "João Henrique"
-    },
-    "socialGroup": "Troublemakers",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "small",
-    "height": "short"
-  },
-  "tsc-11": {
-    "id": "tsc-11",
-    "title": {
-      "en": "The Pyromaniac",
-      "pt": "O piromaníaco"
-    },
-    "name": {
-      "en": "Tyler Brooks",
-      "pt": "Tiago Brandão"
-    },
-    "socialGroup": "Troublemakers",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "small",
-    "height": "medium"
-  },
-  "tsc-12": {
-    "id": "tsc-12",
-    "title": {
-      "en": "The dealer",
-      "pt": "A contrabandista"
-    },
-    "name": {
-      "en": "Tasha Brown",
-      "pt": "Tatiana Barbosa"
-    },
-    "socialGroup": "Troublemakers",
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "junior",
-    "build": "large",
-    "height": "medium"
-  },
-  "tsc-13": {
-    "id": "tsc-13",
-    "title": {
-      "en": "Assistant Coach",
-      "pt": "O assistente técnico"
-    },
-    "name": {
-      "en": "Marcus Williams",
-      "pt": "Maurício William"
-    },
-    "socialGroup": "Leaders",
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "junior",
-    "build": "medium",
-    "height": "medium"
-  },
-  "tsc-14": {
-    "id": "tsc-14",
-    "title": {
-      "en": "Teacher's Pet",
-      "pt": "A queridinha da professora"
-    },
-    "name": {
-      "en": "Jessica Clark",
-      "pt": "Juliana Castro"
-    },
-    "socialGroup": "Leaders",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "large",
-    "height": "medium"
-  },
-  "tsc-15": {
-    "id": "tsc-15",
-    "title": {
-      "en": "The hall monitor",
-      "pt": "A monitora do corredor"
-    },
-    "name": {
-      "en": "Olivia Taylor",
-      "pt": "Olívia Torres"
-    },
-    "socialGroup": "Leaders",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "small",
-    "height": "tall"
-  },
-  "tsc-16": {
-    "id": "tsc-16",
-    "title": {
-      "en": "The Principal's son",
-      "pt": "O filho do diretor"
-    },
-    "name": {
-      "en": "William Adams",
-      "pt": "Wesley Alves"
-    },
-    "socialGroup": "Leaders",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "small",
-    "height": "short"
-  },
-  "tsc-17": {
-    "id": "tsc-17",
-    "title": {
-      "en": "The announcer",
-      "pt": "O locutor"
-    },
-    "name": {
-      "en": "John Kim",
-      "pt": "João Kim"
-    },
-    "socialGroup": "Leaders",
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "sophomore",
-    "build": "medium",
-    "height": "tall"
-  },
-  "tsc-18": {
-    "id": "tsc-18",
-    "title": {
-      "en": "The newspaper editor",
-      "pt": "A editora do jornal"
-    },
-    "name": {
-      "en": "Mei Chen",
-      "pt": "Mila Chen"
-    },
-    "socialGroup": "Leaders",
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "sophomore",
-    "build": "large",
-    "height": "short"
-  },
-  "tsc-19": {
-    "id": "tsc-19",
-    "title": {
-      "en": "The indian kid",
-      "pt": "O garoto indiano"
-    },
-    "name": {
-      "en": "Arjun Patel",
-      "pt": "Arun Patel"
-    },
-    "socialGroup": "Immigrants",
-    "gender": "male",
-    "ethnicity": "indian",
-    "age": "junior",
-    "build": "small",
-    "height": "medium"
-  },
-  "tsc-20": {
-    "id": "tsc-20",
-    "title": {
-      "en": "The muslin",
-      "pt": "A muçulmana"
-    },
-    "name": {
-      "en": "Layla Ahmed",
-      "pt": "Laila Ahmed"
-    },
-    "socialGroup": "Immigrants",
-    "gender": "female",
-    "ethnicity": "muslin",
-    "age": "junior",
-    "build": "large",
-    "height": "short"
-  },
-  "tsc-21": {
-    "id": "tsc-21",
-    "title": {
-      "en": "The asian foreigner",
-      "pt": "O estrangeiro asiático"
-    },
-    "name": {
-      "en": "Zhang Wei",
-      "pt": "Zhang Wei"
-    },
-    "socialGroup": "Immigrants",
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "sophomore",
-    "build": "small",
-    "height": "tall"
-  },
-  "tsc-22": {
-    "id": "tsc-22",
-    "title": {
-      "en": "The handsome latino",
-      "pt": "O latino bonitão"
-    },
-    "name": {
-      "en": "Alejandro Garcia",
-      "pt": "Alexandre Garcia"
-    },
-    "socialGroup": "Immigrants",
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "senior",
-    "build": "large",
-    "height": "tall"
-  },
-  "tsc-23": {
-    "id": "tsc-23",
-    "title": {
-      "en": "The exchange student",
-      "pt": "O estudante de intercâmbio"
-    },
-    "name": {
-      "en": "Maya Kawadero-Mbaye",
-      "pt": "Mirela Kawadero-Mbaye"
-    },
-    "socialGroup": "Immigrants",
-    "gender": "female",
-    "ethnicity": "unknown",
-    "age": "senior",
-    "build": "medium",
-    "height": "medium"
-  },
-  "tsc-24": {
-    "id": "tsc-24",
-    "title": {
-      "en": "The religious",
-      "pt": "A religiosa"
-    },
-    "name": {
-      "en": "Sarah Evans",
-      "pt": "Sara Esteves"
-    },
-    "socialGroup": "Immigrants",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "medium",
-    "height": "short"
-  },
-  "tsc-25": {
-    "id": "tsc-25",
-    "title": {
-      "en": "The heir",
-      "pt": "O herdeiro"
-    },
-    "name": {
-      "en": "Alexander Sterling",
-      "pt": "Arthur Soares"
-    },
-    "socialGroup": "Jet Set",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "small",
-    "height": "medium"
-  },
-  "tsc-26": {
-    "id": "tsc-26",
-    "title": {
-      "en": "The jewish",
-      "pt": "O judeu"
-    },
-    "name": {
-      "en": "Ezra Rosenberg",
-      "pt": "Ezra Rosenbaum"
-    },
-    "socialGroup": "Jet Set",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "large",
-    "height": "tall"
-  },
-  "tsc-27": {
-    "id": "tsc-27",
-    "title": {
-      "en": "The golden daughter",
-      "pt": "A filha dourada"
-    },
-    "name": {
-      "en": "Isabella Carter",
-      "pt": "Isabela Albuquerque"
-    },
-    "socialGroup": "Jet Set",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "large",
-    "height": "short"
-  },
-  "tsc-28": {
-    "id": "tsc-28",
-    "title": {
-      "en": "The Bombshell",
-      "pt": "A gostosona"
-    },
-    "name": {
-      "en": "Madison King",
-      "pt": "Melissa Catarina"
-    },
-    "socialGroup": "Jet Set",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "medium",
-    "height": "tall"
-  },
-  "tsc-29": {
-    "id": "tsc-29",
-    "title": {
-      "en": "The Gay Fashionista",
-      "pt": "O fashionista gay"
-    },
-    "name": {
-      "en": "Javier Martinez",
-      "pt": "João Mendes"
-    },
-    "socialGroup": "Jet Set",
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "senior",
-    "build": "small",
-    "height": "tall"
-  },
-  "tsc-30": {
-    "id": "tsc-30",
-    "title": {
-      "en": "The Cello Player",
-      "pt": "A violoncelista"
-    },
-    "name": {
-      "en": "Chloe Baker",
-      "pt": "Clara Borges"
-    },
-    "socialGroup": "Jet Set",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "medium",
-    "height": "short"
-  },
-  "tsc-31": {
-    "id": "tsc-31",
-    "title": {
-      "en": "Comic book guy",
-      "pt": "O cara dos quadrinhos"
-    },
-    "name": {
-      "en": "Kevin Parker",
-      "pt": "Kaio Pires"
-    },
-    "socialGroup": "Nerds",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "large",
-    "height": "short"
-  },
-  "tsc-32": {
-    "id": "tsc-32",
-    "title": {
-      "en": "Bookworm",
-      "pt": "A leitora"
-    },
-    "name": {
-      "en": "Lily Zhang",
-      "pt": "Letícia Zanetti"
-    },
-    "socialGroup": "Nerds",
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "junior",
-    "build": "small",
-    "height": "tall"
-  },
-  "tsc-33": {
-    "id": "tsc-33",
-    "title": {
-      "en": "The spell bee champion",
-      "pt": "A campeã de soletração"
-    },
-    "name": {
-      "en": "Priya Sharma",
-      "pt": "Priscila Silva"
-    },
-    "socialGroup": "Nerds",
-    "gender": "female",
-    "ethnicity": "indian",
-    "age": "sophomore",
-    "build": "medium",
-    "height": "medium"
-  },
-  "tsc-34": {
-    "id": "tsc-34",
-    "title": {
-      "en": "The gamer",
-      "pt": "O gamer"
-    },
-    "name": {
-      "en": "Dylan Matthews",
-      "pt": "Diego Martins"
-    },
-    "socialGroup": "Nerds",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "small",
-    "height": "medium"
-  },
-  "tsc-35": {
-    "id": "tsc-35",
-    "title": {
-      "en": "Anime fanatic",
-      "pt": "O fã de anime"
-    },
-    "name": {
-      "en": "Ryan Reed",
-      "pt": "Ricardo Torres"
-    },
-    "socialGroup": "Nerds",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "large",
-    "height": "tall"
-  },
-  "tsc-36": {
-    "id": "tsc-36",
-    "title": {
-      "en": "Hacker",
-      "pt": "A hacker"
-    },
-    "name": {
-      "en": "Abigail Miller",
-      "pt": "Ana Mendes"
-    },
-    "socialGroup": "Nerds",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "medium",
-    "height": "short"
-  },
-  "tsc-37": {
-    "id": "tsc-37",
-    "title": {
-      "en": "The handicap",
-      "pt": "A deficiente"
-    },
-    "name": {
-      "en": "Maria Rodriguez",
-      "pt": "Mariana Rodrigues"
-    },
-    "socialGroup": "Special Needs",
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "senior",
-    "build": "small",
-    "height": "short"
-  },
-  "tsc-38": {
-    "id": "tsc-38",
-    "title": {
-      "en": "The blind",
-      "pt": "A cega"
-    },
-    "name": {
-      "en": "Hannah Walker",
-      "pt": "Helena Oliveira"
-    },
-    "socialGroup": "Special Needs",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "medium",
-    "height": "tall"
-  },
-  "tsc-39": {
-    "id": "tsc-39",
-    "title": {
-      "en": "The 'in-the-spectrum'",
-      "pt": "O garoto no espectro"
-    },
-    "name": {
-      "en": "Jacob Anderson",
-      "pt": "José Andrade"
-    },
-    "socialGroup": "Special Needs",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "medium",
-    "height": "short"
-  },
-  "tsc-40": {
-    "id": "tsc-40",
-    "title": {
-      "en": "Bubble boy",
-      "pt": "O garoto-bolha"
-    },
-    "name": {
-      "en": "Oliver Scott",
-      "pt": "Otávio Santos"
-    },
-    "socialGroup": "Special Needs",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "large",
-    "height": "medium"
-  },
-  "tsc-41": {
-    "id": "tsc-41",
-    "title": {
-      "en": "The observer",
-      "pt": "O observador"
-    },
-    "name": {
-      "en": "Noah Richardson",
-      "pt": "Nicolas Barbosa"
-    },
-    "socialGroup": "Special Needs",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "small",
-    "height": "medium"
-  },
-  "tsc-42": {
-    "id": "tsc-42",
-    "title": {
-      "en": "The non-confident fattie",
-      "pt": "O gordinho inseguro"
-    },
-    "name": {
-      "en": "Daniel Wilson",
-      "pt": "Danilo Wagner"
-    },
-    "socialGroup": "Special Needs",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "large",
-    "height": "tall"
-  },
-  "tsc-43": {
-    "id": "tsc-43",
-    "title": {
-      "en": "Goth",
-      "pt": "A gótica"
-    },
-    "name": {
-      "en": "Raven Adams",
-      "pt": "Raquel Costa"
-    },
-    "socialGroup": "Outcasts",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "small",
-    "height": "short"
-  },
-  "tsc-44": {
-    "id": "tsc-44",
-    "title": {
-      "en": "Metalhead",
-      "pt": "O metaleiro"
-    },
-    "name": {
-      "en": "Travis Johnson",
-      "pt": "Thiago Jordão"
-    },
-    "socialGroup": "Outcasts",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "medium",
-    "height": "medium"
-  },
-  "tsc-45": {
-    "id": "tsc-45",
-    "title": {
-      "en": "The witch",
-      "pt": "A bruxa"
-    },
-    "name": {
-      "en": "Luna Blackwell",
-      "pt": "Lívia Barbosa"
-    },
-    "socialGroup": "Outcasts",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "large",
-    "height": "medium"
-  },
-  "tsc-46": {
-    "id": "tsc-46",
-    "title": {
-      "en": "The non-binary",
-      "pt": "O não-binário"
-    },
-    "name": {
-      "en": "Jordan Washington",
-      "pt": "Joana Washington"
-    },
-    "socialGroup": "Outcasts",
-    "gender": "both",
-    "ethnicity": "black",
-    "age": "sophomore",
-    "build": "small",
-    "height": "tall"
-  },
-  "tsc-47": {
-    "id": "tsc-47",
-    "title": {
-      "en": "The Activist",
-      "pt": "A ativista"
-    },
-    "name": {
-      "en": "Grace Moore",
-      "pt": "Gabriela Monteiro"
-    },
-    "socialGroup": "Outcasts",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "medium",
-    "height": "tall"
-  },
-  "tsc-48": {
-    "id": "tsc-48",
-    "title": {
-      "en": "The Bug Collector",
-      "pt": "O colecionador de insetos"
-    },
-    "name": {
-      "en": "Ben Carter",
-      "pt": "Bruno Cardoso"
-    },
-    "socialGroup": "Outcasts",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "large",
-    "height": "short"
-  },
-  "tsc-49": {
-    "id": "tsc-49",
-    "title": {
-      "en": "The photographer",
-      "pt": "O fotógrafo"
-    },
-    "name": {
-      "en": "Max Collins",
-      "pt": "Mateus Corrêa"
-    },
-    "socialGroup": "Arts",
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "senior",
-    "build": "large",
-    "height": "medium"
-  },
-  "tsc-50": {
-    "id": "tsc-50",
-    "title": {
-      "en": "The Actress",
-      "pt": "A atriz"
-    },
-    "name": {
-      "en": "Emily Mitchell",
-      "pt": "Evelyn Weisz"
-    },
-    "socialGroup": "Arts",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "junior",
-    "build": "small",
-    "height": "short"
-  },
-  "tsc-51": {
-    "id": "tsc-51",
-    "title": {
-      "en": "The Dancer",
-      "pt": "O dançarino"
-    },
-    "name": {
-      "en": "Jamal Jackson",
-      "pt": "Joaquim Jesus"
-    },
-    "socialGroup": "Arts",
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "senior",
-    "build": "medium",
-    "height": "short"
-  },
-  "tsc-52": {
-    "id": "tsc-52",
-    "title": {
-      "en": "The chatterbox",
-      "pt": "A tagarela"
-    },
-    "name": {
-      "en": "Sophie Edwards",
-      "pt": "Sofia Esteves"
-    },
-    "socialGroup": "Arts",
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "sophomore",
-    "build": "small",
-    "height": "medium"
-  },
-  "tsc-53": {
-    "id": "tsc-53",
-    "title": {
-      "en": "The class clown",
-      "pt": "O palhaço da turma"
-    },
-    "name": {
-      "en": "Miguel Torres",
-      "pt": "Maurício Tavares"
-    },
-    "socialGroup": "Arts",
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "junior",
-    "build": "large",
-    "height": "tall"
-  },
-  "tsc-54": {
-    "id": "tsc-54",
-    "title": {
-      "en": "The artist",
-      "pt": "O artista"
-    },
-    "name": {
-      "en": "Camila Sanchez",
-      "pt": "Cecília Souza"
-    },
-    "socialGroup": "Arts",
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "sophomore",
-    "build": "medium",
-    "height": "tall"
-  }
+	"tsc-1": {
+		"id": "tsc-1",
+		"title": {
+			"en": "Captain of the football team",
+			"pt": "Capitão do time de futebol"
+		},
+		"name": {
+			"en": "Ethan Johnson",
+			"pt": "Eduardo Junqueira"
+		},
+		"socialGroupId": "jocks",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "medium",
+		"height": "tall"
+	},
+	"tsc-2": {
+		"id": "tsc-2",
+		"title": {
+			"en": "The Cheerleader",
+			"pt": "A líder de torcida"
+		},
+		"name": {
+			"en": "Ashley Miller",
+			"pt": "Amanda Moura"
+		},
+		"socialGroupId": "jocks",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "medium",
+		"height": "medium"
+	},
+	"tsc-3": {
+		"id": "tsc-3",
+		"title": {
+			"en": "The Wrestler",
+			"pt": "O lutador"
+		},
+		"name": {
+			"en": "Carlos Ramirez",
+			"pt": "Carlos Ribeiro"
+		},
+		"socialGroupId": "jocks",
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "senior",
+		"build": "large",
+		"height": "short"
+	},
+	"tsc-4": {
+		"id": "tsc-4",
+		"title": {
+			"en": "The Jogger",
+			"pt": "A corredora"
+		},
+		"name": {
+			"en": "Sofia Morales",
+			"pt": "Sabrina Martins"
+		},
+		"socialGroupId": "jocks",
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "junior",
+		"build": "small",
+		"height": "tall"
+	},
+	"tsc-5": {
+		"id": "tsc-5",
+		"title": {
+			"en": "The gymnast",
+			"pt": "A ginasta"
+		},
+		"name": {
+			"en": "Aaliyah Thompson",
+			"pt": "Aline Teixeira"
+		},
+		"socialGroupId": "jocks",
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "sophomore",
+		"build": "small",
+		"height": "short"
+	},
+	"tsc-6": {
+		"id": "tsc-6",
+		"title": {
+			"en": "The Karate kid",
+			"pt": "O carateca"
+		},
+		"name": {
+			"en": "Kai Nakamura",
+			"pt": "Kai Nakamura"
+		},
+		"socialGroupId": "jocks",
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "junior",
+		"build": "large",
+		"height": "medium"
+	},
+	"tsc-7": {
+		"id": "tsc-7",
+		"title": {
+			"en": "The Druggie",
+			"pt": "O drogado"
+		},
+		"name": {
+			"en": "Brandon Davis",
+			"pt": "Bruno Dias"
+		},
+		"socialGroupId": "troublemakers",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "large",
+		"height": "tall"
+	},
+	"tsc-8": {
+		"id": "tsc-8",
+		"title": {
+			"en": "The Bully",
+			"pt": "O valentão"
+		},
+		"name": {
+			"en": "Liam O'Connor",
+			"pt": "Lucas Oliveira"
+		},
+		"socialGroupId": "troublemakers",
+		"gender": "male",
+		"ethnicity": "ginger",
+		"age": "senior",
+		"build": "medium",
+		"height": "tall"
+	},
+	"tsc-9": {
+		"id": "tsc-9",
+		"title": {
+			"en": "The Smoker",
+			"pt": "A fumante"
+		},
+		"name": {
+			"en": "Emma White",
+			"pt": "Emanuela Werneck"
+		},
+		"socialGroupId": "troublemakers",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "medium",
+		"height": "short"
+	},
+	"tsc-10": {
+		"id": "tsc-10",
+		"title": {
+			"en": "The Stoner",
+			"pt": "O maconheiro"
+		},
+		"name": {
+			"en": "Jake Harris",
+			"pt": "João Henrique"
+		},
+		"socialGroupId": "troublemakers",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "small",
+		"height": "short"
+	},
+	"tsc-11": {
+		"id": "tsc-11",
+		"title": {
+			"en": "The Pyromaniac",
+			"pt": "O piromaníaco"
+		},
+		"name": {
+			"en": "Tyler Brooks",
+			"pt": "Tiago Brandão"
+		},
+		"socialGroupId": "troublemakers",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "small",
+		"height": "medium"
+	},
+	"tsc-12": {
+		"id": "tsc-12",
+		"title": {
+			"en": "The dealer",
+			"pt": "A contrabandista"
+		},
+		"name": {
+			"en": "Tasha Brown",
+			"pt": "Tatiana Barbosa"
+		},
+		"socialGroupId": "troublemakers",
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "junior",
+		"build": "large",
+		"height": "medium"
+	},
+	"tsc-13": {
+		"id": "tsc-13",
+		"title": {
+			"en": "Assistant Coach",
+			"pt": "O assistente técnico"
+		},
+		"name": {
+			"en": "Marcus Williams",
+			"pt": "Maurício William"
+		},
+		"socialGroupId": "leaders",
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "junior",
+		"build": "medium",
+		"height": "medium"
+	},
+	"tsc-14": {
+		"id": "tsc-14",
+		"title": {
+			"en": "Teacher's Pet",
+			"pt": "A queridinha da professora"
+		},
+		"name": {
+			"en": "Jessica Clark",
+			"pt": "Juliana Castro"
+		},
+		"socialGroupId": "leaders",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "large",
+		"height": "medium"
+	},
+	"tsc-15": {
+		"id": "tsc-15",
+		"title": {
+			"en": "The hall monitor",
+			"pt": "A monitora do corredor"
+		},
+		"name": {
+			"en": "Olivia Taylor",
+			"pt": "Olívia Torres"
+		},
+		"socialGroupId": "leaders",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "small",
+		"height": "tall"
+	},
+	"tsc-16": {
+		"id": "tsc-16",
+		"title": {
+			"en": "The Principal's son",
+			"pt": "O filho do diretor"
+		},
+		"name": {
+			"en": "William Adams",
+			"pt": "Wesley Alves"
+		},
+		"socialGroupId": "leaders",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "small",
+		"height": "short"
+	},
+	"tsc-17": {
+		"id": "tsc-17",
+		"title": {
+			"en": "The announcer",
+			"pt": "O locutor"
+		},
+		"name": {
+			"en": "John Kim",
+			"pt": "João Kim"
+		},
+		"socialGroupId": "leaders",
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "sophomore",
+		"build": "medium",
+		"height": "tall"
+	},
+	"tsc-18": {
+		"id": "tsc-18",
+		"title": {
+			"en": "The newspaper editor",
+			"pt": "A editora do jornal"
+		},
+		"name": {
+			"en": "Mei Chen",
+			"pt": "Mila Chen"
+		},
+		"socialGroupId": "leaders",
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "sophomore",
+		"build": "large",
+		"height": "short"
+	},
+	"tsc-19": {
+		"id": "tsc-19",
+		"title": {
+			"en": "The indian kid",
+			"pt": "O garoto indiano"
+		},
+		"name": {
+			"en": "Arjun Patel",
+			"pt": "Arun Patel"
+		},
+		"socialGroupId": "immigrants",
+		"gender": "male",
+		"ethnicity": "indian",
+		"age": "junior",
+		"build": "small",
+		"height": "medium"
+	},
+	"tsc-20": {
+		"id": "tsc-20",
+		"title": {
+			"en": "The muslin",
+			"pt": "A muçulmana"
+		},
+		"name": {
+			"en": "Layla Ahmed",
+			"pt": "Laila Ahmed"
+		},
+		"socialGroupId": "immigrants",
+		"gender": "female",
+		"ethnicity": "muslin",
+		"age": "junior",
+		"build": "large",
+		"height": "short"
+	},
+	"tsc-21": {
+		"id": "tsc-21",
+		"title": {
+			"en": "The asian foreigner",
+			"pt": "O estrangeiro asiático"
+		},
+		"name": {
+			"en": "Zhang Wei",
+			"pt": "Zhang Wei"
+		},
+		"socialGroupId": "immigrants",
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "sophomore",
+		"build": "small",
+		"height": "tall"
+	},
+	"tsc-22": {
+		"id": "tsc-22",
+		"title": {
+			"en": "The handsome latino",
+			"pt": "O latino bonitão"
+		},
+		"name": {
+			"en": "Alejandro Garcia",
+			"pt": "Alexandre Garcia"
+		},
+		"socialGroupId": "immigrants",
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "senior",
+		"build": "large",
+		"height": "tall"
+	},
+	"tsc-23": {
+		"id": "tsc-23",
+		"title": {
+			"en": "The exchange student",
+			"pt": "O estudante de intercâmbio"
+		},
+		"name": {
+			"en": "Maya Kawadero-Mbaye",
+			"pt": "Mirela Kawadero-Mbaye"
+		},
+		"socialGroupId": "immigrants",
+		"gender": "female",
+		"ethnicity": "unknown",
+		"age": "senior",
+		"build": "medium",
+		"height": "medium"
+	},
+	"tsc-24": {
+		"id": "tsc-24",
+		"title": {
+			"en": "The religious",
+			"pt": "A religiosa"
+		},
+		"name": {
+			"en": "Sarah Evans",
+			"pt": "Sara Esteves"
+		},
+		"socialGroupId": "immigrants",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "medium",
+		"height": "short"
+	},
+	"tsc-25": {
+		"id": "tsc-25",
+		"title": {
+			"en": "The heir",
+			"pt": "O herdeiro"
+		},
+		"name": {
+			"en": "Alexander Sterling",
+			"pt": "Arthur Soares"
+		},
+		"socialGroupId": "jet-set",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "small",
+		"height": "medium"
+	},
+	"tsc-26": {
+		"id": "tsc-26",
+		"title": {
+			"en": "The jewish",
+			"pt": "O judeu"
+		},
+		"name": {
+			"en": "Ezra Rosenberg",
+			"pt": "Ezra Rosenbaum"
+		},
+		"socialGroupId": "jet-set",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "large",
+		"height": "tall"
+	},
+	"tsc-27": {
+		"id": "tsc-27",
+		"title": {
+			"en": "The golden daughter",
+			"pt": "A filha dourada"
+		},
+		"name": {
+			"en": "Isabella Carter",
+			"pt": "Isabela Albuquerque"
+		},
+		"socialGroupId": "jet-set",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "large",
+		"height": "short"
+	},
+	"tsc-28": {
+		"id": "tsc-28",
+		"title": {
+			"en": "The Bombshell",
+			"pt": "A gostosona"
+		},
+		"name": {
+			"en": "Madison King",
+			"pt": "Melissa Catarina"
+		},
+		"socialGroupId": "jet-set",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "medium",
+		"height": "tall"
+	},
+	"tsc-29": {
+		"id": "tsc-29",
+		"title": {
+			"en": "The Gay Fashionista",
+			"pt": "O fashionista gay"
+		},
+		"name": {
+			"en": "Javier Martinez",
+			"pt": "João Mendes"
+		},
+		"socialGroupId": "jet-set",
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "senior",
+		"build": "small",
+		"height": "tall"
+	},
+	"tsc-30": {
+		"id": "tsc-30",
+		"title": {
+			"en": "The Cello Player",
+			"pt": "A violoncelista"
+		},
+		"name": {
+			"en": "Chloe Baker",
+			"pt": "Clara Borges"
+		},
+		"socialGroupId": "jet-set",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "medium",
+		"height": "short"
+	},
+	"tsc-31": {
+		"id": "tsc-31",
+		"title": {
+			"en": "Comic book guy",
+			"pt": "O cara dos quadrinhos"
+		},
+		"name": {
+			"en": "Kevin Parker",
+			"pt": "Kaio Pires"
+		},
+		"socialGroupId": "nerds",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "large",
+		"height": "short"
+	},
+	"tsc-32": {
+		"id": "tsc-32",
+		"title": {
+			"en": "Bookworm",
+			"pt": "A leitora"
+		},
+		"name": {
+			"en": "Lily Zhang",
+			"pt": "Letícia Zanetti"
+		},
+		"socialGroupId": "nerds",
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "junior",
+		"build": "small",
+		"height": "tall"
+	},
+	"tsc-33": {
+		"id": "tsc-33",
+		"title": {
+			"en": "The spell bee champion",
+			"pt": "A campeã de soletração"
+		},
+		"name": {
+			"en": "Priya Sharma",
+			"pt": "Priscila Silva"
+		},
+		"socialGroupId": "nerds",
+		"gender": "female",
+		"ethnicity": "indian",
+		"age": "sophomore",
+		"build": "medium",
+		"height": "medium"
+	},
+	"tsc-34": {
+		"id": "tsc-34",
+		"title": {
+			"en": "The gamer",
+			"pt": "O gamer"
+		},
+		"name": {
+			"en": "Dylan Matthews",
+			"pt": "Diego Martins"
+		},
+		"socialGroupId": "nerds",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "small",
+		"height": "medium"
+	},
+	"tsc-35": {
+		"id": "tsc-35",
+		"title": {
+			"en": "Anime fanatic",
+			"pt": "O fã de anime"
+		},
+		"name": {
+			"en": "Ryan Reed",
+			"pt": "Ricardo Torres"
+		},
+		"socialGroupId": "nerds",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "large",
+		"height": "tall"
+	},
+	"tsc-36": {
+		"id": "tsc-36",
+		"title": {
+			"en": "Hacker",
+			"pt": "A hacker"
+		},
+		"name": {
+			"en": "Abigail Miller",
+			"pt": "Ana Mendes"
+		},
+		"socialGroupId": "nerds",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "medium",
+		"height": "short"
+	},
+	"tsc-37": {
+		"id": "tsc-37",
+		"title": {
+			"en": "The handicap",
+			"pt": "A deficiente"
+		},
+		"name": {
+			"en": "Maria Rodriguez",
+			"pt": "Mariana Rodrigues"
+		},
+		"socialGroupId": "special-needs",
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "senior",
+		"build": "small",
+		"height": "short"
+	},
+	"tsc-38": {
+		"id": "tsc-38",
+		"title": {
+			"en": "The blind",
+			"pt": "A cega"
+		},
+		"name": {
+			"en": "Hannah Walker",
+			"pt": "Helena Oliveira"
+		},
+		"socialGroupId": "special-needs",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "medium",
+		"height": "tall"
+	},
+	"tsc-39": {
+		"id": "tsc-39",
+		"title": {
+			"en": "The 'in-the-spectrum'",
+			"pt": "O garoto no espectro"
+		},
+		"name": {
+			"en": "Jacob Anderson",
+			"pt": "José Andrade"
+		},
+		"socialGroupId": "special-needs",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "medium",
+		"height": "short"
+	},
+	"tsc-40": {
+		"id": "tsc-40",
+		"title": {
+			"en": "Bubble boy",
+			"pt": "O garoto-bolha"
+		},
+		"name": {
+			"en": "Oliver Scott",
+			"pt": "Otávio Santos"
+		},
+		"socialGroupId": "special-needs",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "large",
+		"height": "medium"
+	},
+	"tsc-41": {
+		"id": "tsc-41",
+		"title": {
+			"en": "The observer",
+			"pt": "O observador"
+		},
+		"name": {
+			"en": "Noah Richardson",
+			"pt": "Nicolas Barbosa"
+		},
+		"socialGroupId": "special-needs",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "small",
+		"height": "medium"
+	},
+	"tsc-42": {
+		"id": "tsc-42",
+		"title": {
+			"en": "The non-confident fattie",
+			"pt": "O gordinho inseguro"
+		},
+		"name": {
+			"en": "Daniel Wilson",
+			"pt": "Danilo Wagner"
+		},
+		"socialGroupId": "special-needs",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "large",
+		"height": "tall"
+	},
+	"tsc-43": {
+		"id": "tsc-43",
+		"title": {
+			"en": "Goth",
+			"pt": "A gótica"
+		},
+		"name": {
+			"en": "Raven Adams",
+			"pt": "Raquel Costa"
+		},
+		"socialGroupId": "outcasts",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "small",
+		"height": "short"
+	},
+	"tsc-44": {
+		"id": "tsc-44",
+		"title": {
+			"en": "Metalhead",
+			"pt": "O metaleiro"
+		},
+		"name": {
+			"en": "Travis Johnson",
+			"pt": "Thiago Jordão"
+		},
+		"socialGroupId": "outcasts",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "medium",
+		"height": "medium"
+	},
+	"tsc-45": {
+		"id": "tsc-45",
+		"title": {
+			"en": "The witch",
+			"pt": "A bruxa"
+		},
+		"name": {
+			"en": "Luna Blackwell",
+			"pt": "Lívia Barbosa"
+		},
+		"socialGroupId": "outcasts",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "large",
+		"height": "medium"
+	},
+	"tsc-46": {
+		"id": "tsc-46",
+		"title": {
+			"en": "The non-binary",
+			"pt": "O não-binário"
+		},
+		"name": {
+			"en": "Jordan Washington",
+			"pt": "Joana Washington"
+		},
+		"socialGroupId": "outcasts",
+		"gender": "both",
+		"ethnicity": "black",
+		"age": "sophomore",
+		"build": "small",
+		"height": "tall"
+	},
+	"tsc-47": {
+		"id": "tsc-47",
+		"title": {
+			"en": "The Activist",
+			"pt": "A ativista"
+		},
+		"name": {
+			"en": "Grace Moore",
+			"pt": "Gabriela Monteiro"
+		},
+		"socialGroupId": "outcasts",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "medium",
+		"height": "tall"
+	},
+	"tsc-48": {
+		"id": "tsc-48",
+		"title": {
+			"en": "The Bug Collector",
+			"pt": "O colecionador de insetos"
+		},
+		"name": {
+			"en": "Ben Carter",
+			"pt": "Bruno Cardoso"
+		},
+		"socialGroupId": "outcasts",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "large",
+		"height": "short"
+	},
+	"tsc-49": {
+		"id": "tsc-49",
+		"title": {
+			"en": "The photographer",
+			"pt": "O fotógrafo"
+		},
+		"name": {
+			"en": "Max Collins",
+			"pt": "Mateus Corrêa"
+		},
+		"socialGroupId": "arts",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "senior",
+		"build": "large",
+		"height": "medium"
+	},
+	"tsc-50": {
+		"id": "tsc-50",
+		"title": {
+			"en": "The Actress",
+			"pt": "A atriz"
+		},
+		"name": {
+			"en": "Emily Mitchell",
+			"pt": "Evelyn Weisz"
+		},
+		"socialGroupId": "arts",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "small",
+		"height": "short"
+	},
+	"tsc-51": {
+		"id": "tsc-51",
+		"title": {
+			"en": "The Dancer",
+			"pt": "O dançarino"
+		},
+		"name": {
+			"en": "Jamal Jackson",
+			"pt": "Joaquim Jesus"
+		},
+		"socialGroupId": "arts",
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "senior",
+		"build": "medium",
+		"height": "short"
+	},
+	"tsc-52": {
+		"id": "tsc-52",
+		"title": {
+			"en": "The chatterbox",
+			"pt": "A tagarela"
+		},
+		"name": {
+			"en": "Sophie Edwards",
+			"pt": "Sofia Esteves"
+		},
+		"socialGroupId": "arts",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "small",
+		"height": "medium"
+	},
+	"tsc-53": {
+		"id": "tsc-53",
+		"title": {
+			"en": "The class clown",
+			"pt": "O palhaço da turma"
+		},
+		"name": {
+			"en": "Miguel Torres",
+			"pt": "Maurício Tavares"
+		},
+		"socialGroupId": "arts",
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "junior",
+		"build": "large",
+		"height": "tall"
+	},
+	"tsc-54": {
+		"id": "tsc-54",
+		"title": {
+			"en": "The artist",
+			"pt": "O artista"
+		},
+		"name": {
+			"en": "Camila Sanchez",
+			"pt": "Cecília Souza"
+		},
+		"socialGroupId": "arts",
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "sophomore",
+		"build": "medium",
+		"height": "tall"
+	}
 }
