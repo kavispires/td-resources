@@ -13074,6 +13074,9 @@
       "en": "starvation",
       "pt": "fome"
     },
+    "aliasesPt": [
+      "desnutrição"
+    ],
     "decks": [
       "dream",
       "weapon"
@@ -13386,6 +13389,12 @@
       "en": "spaceship",
       "pt": "nave espacial"
     },
+    "aliasesEn": [
+      "ufo"
+    ],
+    "aliasesPt": [
+      "ovni"
+    ],
     "decks": [
       "dream"
     ]
@@ -34726,6 +34735,369 @@
     "decks": [
       "alien",
       "thing"
+    ],
+    "groups": []
+  },
+  "2849": {
+    "id": "2849",
+    "name": {
+      "en": "wombat",
+      "pt": "vombate"
+    },
+    "decks": [
+      "alien",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2850": {
+    "id": "2850",
+    "name": {
+      "en": "Tasmanian devil",
+      "pt": "diabo-da-Tasmânia"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2851": {
+    "id": "2851",
+    "name": {
+      "en": "leopard",
+      "pt": "leopardo"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2852": {
+    "id": "2852",
+    "name": {
+      "en": "antelope",
+      "pt": "antílope"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2853": {
+    "id": "2853",
+    "name": {
+      "en": "ushanka",
+      "pt": "chapéu russo"
+    },
+    "aliasesEn": [
+      "russian hat"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2854": {
+    "id": "2854",
+    "name": {
+      "en": "headdress",
+      "pt": "cocar de carnaval"
+    },
+    "aliasesEn": [
+      "carnaval head piece"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2855": {
+    "id": "2855",
+    "name": {
+      "en": "mystery novel",
+      "pt": "livro de mistério"
+    },
+    "aliasesEn": [
+      "detective book"
+    ],
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2856": {
+    "id": "2856",
+    "name": {
+      "en": "gossipe",
+      "pt": "fofoca"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2857": {
+    "id": "2857",
+    "name": {
+      "en": "neck pillow",
+      "pt": "travesseiro de pescoço"
+    },
+    "aliasesPt": [
+      "travesseiro de viagem"
+    ],
+    "decks": [
+      "alien",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2858": {
+    "id": "2858",
+    "name": {
+      "en": "floating island",
+      "pt": "ilha flutuante"
+    },
+    "decks": [
+      "location"
+    ],
+    "groups": []
+  },
+  "2859": {
+    "id": "2859",
+    "name": {
+      "en": "amr floaties",
+      "pt": "bóia de braço"
+    },
+    "aliasesEn": [
+      "swimmies",
+      "water wings"
+    ],
+    "aliasesPt": [
+      "bóia"
+    ],
+    "groups": []
+  },
+  "2860": {
+    "id": "2860",
+    "name": {
+      "en": "pool float",
+      "pt": "flutuador"
+    },
+    "aliasesEn": [
+      "float"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2861": {
+    "id": "2861",
+    "name": {
+      "en": "fan",
+      "pt": "fã"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2862": {
+    "id": "2862",
+    "name": {
+      "en": "popularity",
+      "pt": "popularidade"
+    },
+    "aliasesEn": [
+      "reaction"
+    ],
+    "aliasesPt": [
+      "reações"
+    ],
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2863": {
+    "id": "2863",
+    "name": {
+      "en": "red card",
+      "pt": "cartão vermelho"
+    },
+    "aliasesPt": [
+      "falta"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2864": {
+    "id": "2864",
+    "name": {
+      "en": "corner",
+      "pt": "escanteio"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2865": {
+    "id": "2865",
+    "name": {
+      "en": "playoffs",
+      "pt": "torneio"
+    },
+    "aliasesEn": [
+      "brackets",
+      "championship",
+      "tournament"
+    ],
+    "aliasesPt": [
+      "campeonato"
+    ],
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2866": {
+    "id": "2866",
+    "name": {
+      "en": "paparazzi",
+      "pt": "paparazzi"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2867": {
+    "id": "2867",
+    "name": {
+      "en": "neck",
+      "pt": "pescoço"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2868": {
+    "id": "2868",
+    "name": {
+      "en": "idea",
+      "pt": "ideia"
+    },
+    "aliasesEn": [
+      "creativity"
+    ],
+    "aliasesPt": [
+      "criatividade"
+    ],
+    "decks": [
+      "symbol"
+    ],
+    "groups": []
+  },
+  "2869": {
+    "id": "2869",
+    "name": {
+      "en": "team",
+      "pt": "time"
+    },
+    "aliasesEn": [
+      "group",
+      "network"
+    ],
+    "aliasesPt": [
+      "equipe",
+      "group"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2870": {
+    "id": "2870",
+    "name": {
+      "en": "panic",
+      "pt": "pânico"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2871": {
+    "id": "2871",
+    "name": {
+      "en": "thinking",
+      "pt": "pensamentos"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2872": {
+    "id": "2872",
+    "name": {
+      "en": "tired",
+      "pt": "cansaço"
+    },
+    "aliasesEn": [
+      "exhaustion"
+    ],
+    "aliasesPt": [
+      "exaustão"
+    ],
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2873": {
+    "id": "2873",
+    "name": {
+      "en": "loliness",
+      "pt": "solidão"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2874": {
+    "id": "2874",
+    "name": {
+      "en": "mad scientist",
+      "pt": "cientista louco"
+    },
+    "decks": [
+      "dream",
+      "suspect"
     ],
     "groups": []
   }
