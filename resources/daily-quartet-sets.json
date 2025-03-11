@@ -490,7 +490,8 @@
     "itemsIds": [
       "1663",
       "1217",
-      "294"
+      "294",
+      "2837"
     ],
     "level": 0
   },
@@ -514,7 +515,8 @@
     "itemsIds": [
       "1474",
       "1477",
-      "1669"
+      "1669",
+      "1472"
     ],
     "level": 0
   },
@@ -990,6 +992,18 @@
     ],
     "level": 3
   },
+  "2a2c6": {
+    "id": "2a2c6",
+    "title": "Animais do filme Madagascar",
+    "type": "thematic",
+    "itemsIds": [
+      "116",
+      "81",
+      "866",
+      "97"
+    ],
+    "level": 2
+  },
   "2afc5": {
     "id": "2afc5",
     "title": "Moradia da realeza",
@@ -1121,7 +1135,9 @@
     "title": "Parte Interna do Corpo",
     "itemsIds": [
       "632",
-      "402"
+      "402",
+      "2814",
+      "1347"
     ],
     "level": 0
   },
@@ -1310,6 +1326,7 @@
   "3e46d": {
     "id": "3e46d",
     "title": "Vegetais",
+    "flagged": true,
     "itemsIds": [
       "543",
       "607",
@@ -1354,22 +1371,26 @@
   "4119a": {
     "id": "4119a",
     "title": "Proteção para a cabeça",
+    "type": "general",
     "itemsIds": [
       "316",
       "324",
-      "626"
+      "626",
+      "2701"
     ],
-    "level": 0
+    "level": 1
   },
   "41a3d": {
     "id": "41a3d",
     "title": "Rede",
+    "type": "general",
     "itemsIds": [
       "328",
       "630",
-      "914"
+      "914",
+      "1021"
     ],
-    "level": 0
+    "level": 1
   },
   "41f05": {
     "id": "41f05",
@@ -1383,12 +1404,14 @@
   "4254e": {
     "id": "4254e",
     "title": "Lixo",
+    "type": "general",
     "itemsIds": [
       "229",
       "724",
-      "810"
+      "810",
+      "1767"
     ],
-    "level": 0
+    "level": 1
   },
   "43a8d": {
     "id": "43a8d",
@@ -1477,12 +1500,14 @@
   "4b0bf": {
     "id": "4b0bf",
     "title": "Frágil",
+    "type": "general",
     "itemsIds": [
       "178",
       "403",
-      "620"
+      "620",
+      "59"
     ],
-    "level": 0
+    "level": 1
   },
   "4c18b": {
     "id": "4c18b",
@@ -1846,6 +1871,7 @@
   "613a2": {
     "id": "613a2",
     "title": "Parte Externa do Corpo",
+    "flagged": true,
     "itemsIds": [],
     "level": 0
   },
@@ -2025,6 +2051,7 @@
   "723a9": {
     "id": "723a9",
     "title": "Pessoa de Cor",
+    "flagged": true,
     "itemsIds": [],
     "level": 0
   },
@@ -2154,8 +2181,8 @@
     "itemsIds": [
       "446",
       "710",
-      "787",
-      "1468"
+      "1468",
+      "1849"
     ],
     "level": 3
   },
@@ -2220,6 +2247,7 @@
   "8160a": {
     "id": "8160a",
     "title": "Lugares",
+    "flagged": true,
     "itemsIds": [
       "450",
       "513",
@@ -2416,7 +2444,9 @@
       "81",
       "97",
       "116",
-      "233"
+      "233",
+      "552",
+      "1247"
     ],
     "level": 1
   },
@@ -2445,7 +2475,8 @@
     "itemsIds": [
       "85",
       "700",
-      "1712"
+      "1712",
+      "2429"
     ],
     "level": 0
   },
@@ -2475,12 +2506,16 @@
   },
   "9504c": {
     "id": "9504c",
-    "title": "Lugares esportivos - repetido",
+    "title": "Caveiras",
     "flagged": true,
     "itemsIds": [
-      "1472"
+      "2187",
+      "352",
+      "2211",
+      "2539",
+      "1350"
     ],
-    "level": 0
+    "level": 2
   },
   "965f2": {
     "id": "965f2",
@@ -2835,12 +2870,15 @@
   "a6bf7": {
     "id": "a6bf7",
     "title": "Tipos de casacos",
+    "type": "general",
     "itemsIds": [
       "132",
       "555",
-      "563"
+      "563",
+      "1429",
+      "1726"
     ],
-    "level": 0
+    "level": 1
   },
   "a74ba": {
     "id": "a74ba",
@@ -3500,10 +3538,10 @@
   "cf614": {
     "id": "cf614",
     "title": "Na cozinha",
+    "flagged": true,
     "itemsIds": [
       "152",
       "154",
-      "326",
       "395"
     ],
     "level": 1
@@ -3980,7 +4018,8 @@
     "itemsIds": [
       "1152",
       "777",
-      "136"
+      "136",
+      "1211"
     ],
     "level": 2
   },

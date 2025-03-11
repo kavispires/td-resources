@@ -483,6 +483,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -717,6 +718,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -985,6 +987,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -1667,6 +1670,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -6307,6 +6311,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -7944,6 +7949,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured"
     ]
   },
@@ -8087,6 +8093,7 @@
     "decks": [
       "alien",
       "dream",
+      "location",
       "manufactured",
       "weapon"
     ]
@@ -14611,6 +14618,7 @@
       "pt": "grafite"
     },
     "decks": [
+      "alien",
       "evidence"
     ]
   },
@@ -14644,6 +14652,7 @@
       "pt": "canos"
     },
     "decks": [
+      "alien",
       "dream",
       "evidence"
     ]
@@ -18213,6 +18222,7 @@
       "pt": "obstáculo"
     },
     "decks": [
+      "alien",
       "dream",
       "manufactured"
     ]
@@ -18286,6 +18296,7 @@
       "pt": "peteca"
     },
     "decks": [
+      "alien",
       "dream",
       "evidence",
       "manufactured"
@@ -18860,6 +18871,7 @@
       "pt": "brasil"
     },
     "decks": [
+      "alien",
       "dream"
     ]
   },
@@ -18995,6 +19007,7 @@
       "pt": "farmácia"
     },
     "decks": [
+      "alien",
       "dream",
       "location"
     ]
@@ -19241,7 +19254,9 @@
       "pt": "supermercado"
     },
     "decks": [
-      "dream"
+      "alien",
+      "dream",
+      "location"
     ]
   },
   "1558": {
@@ -19263,6 +19278,7 @@
       "pt": "boutique"
     },
     "decks": [
+      "alien",
       "dream",
       "location"
     ]
@@ -19442,6 +19458,7 @@
       "pt": "colesterol"
     },
     "decks": [
+      "alien",
       "dream"
     ]
   },
@@ -22525,7 +22542,9 @@
       "pt": "camarim"
     },
     "decks": [
+      "alien",
       "dream",
+      "location",
       "thing"
     ]
   },
@@ -24416,7 +24435,12 @@
       "en": "stone",
       "pt": "pedra"
     },
+    "aliasesPt": [
+      "rocha"
+    ],
     "decks": [
+      "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -32734,6 +32758,10 @@
       "encomendas",
       "mudança"
     ],
+    "decks": [
+      "alien",
+      "evidence"
+    ],
     "groups": []
   },
   "2707": {
@@ -32757,6 +32785,7 @@
       "pt": "produtos de higiene"
     },
     "decks": [
+      "alien",
       "evidence",
       "manufactured"
     ],
@@ -33779,6 +33808,11 @@
     "aliasesPt": [
       "coluna"
     ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
     "groups": []
   },
   "2780": {
@@ -33880,6 +33914,11 @@
     ],
     "aliasesPt": [
       "vasilhinhas"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
     ],
     "groups": []
   },
@@ -34524,12 +34563,9 @@
   "2832": {
     "id": "2832",
     "name": {
-      "en": "coatl",
-      "pt": "serpente"
+      "en": "coatl - REPLACE",
+      "pt": "serpente - REPLACE"
     },
-    "decks": [
-      "alien"
-    ],
     "groups": []
   },
   "2833": {
@@ -34883,6 +34919,10 @@
     "aliasesPt": [
       "bóia"
     ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
     "groups": []
   },
   "2860": {
@@ -35034,7 +35074,6 @@
       "group"
     ],
     "decks": [
-      "alien",
       "dream"
     ],
     "groups": []
