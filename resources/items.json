@@ -1473,6 +1473,12 @@
       "en": "money",
       "pt": "dinheiro"
     },
+    "aliasesEn": [
+      "cash"
+    ],
+    "aliasesPt": [
+      "grana"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -14531,6 +14537,7 @@
     },
     "decks": [
       "evidence",
+      "meta",
       "thing"
     ]
   },
@@ -14541,7 +14548,8 @@
       "pt": "pegada"
     },
     "decks": [
-      "evidence"
+      "evidence",
+      "meta"
     ]
   },
   "1160": {
@@ -14659,7 +14667,8 @@
     ],
     "decks": [
       "alien",
-      "evidence"
+      "evidence",
+      "meta"
     ]
   },
   "1170": {
@@ -14782,7 +14791,8 @@
     },
     "decks": [
       "alien",
-      "evidence"
+      "evidence",
+      "meta"
     ]
   },
   "1180": {
@@ -14794,7 +14804,8 @@
     "decks": [
       "alien",
       "evidence",
-      "manufactured"
+      "manufactured",
+      "meta"
     ]
   },
   "1181": {
@@ -14812,7 +14823,8 @@
     "decks": [
       "alien",
       "evidence",
-      "manufactured"
+      "manufactured",
+      "meta"
     ]
   },
   "1182": {
@@ -14862,7 +14874,8 @@
     "decks": [
       "alien",
       "evidence",
-      "manufactured"
+      "manufactured",
+      "meta"
     ]
   },
   "1186": {
@@ -15195,7 +15208,8 @@
     },
     "decks": [
       "alien",
-      "evidence"
+      "evidence",
+      "meta"
     ]
   },
   "1214": {
@@ -15205,7 +15219,8 @@
       "pt": "material de escritório"
     },
     "decks": [
-      "evidence"
+      "evidence",
+      "meta"
     ]
   },
   "1215": {
@@ -15240,7 +15255,8 @@
     "decks": [
       "alien",
       "evidence",
-      "manufactured"
+      "manufactured",
+      "meta"
     ]
   },
   "1218": {
@@ -15289,7 +15305,8 @@
     "decks": [
       "alien",
       "evidence",
-      "manufactured"
+      "manufactured",
+      "meta"
     ]
   },
   "1222": {
@@ -15347,7 +15364,8 @@
     },
     "decks": [
       "alien",
-      "evidence"
+      "evidence",
+      "meta"
     ]
   },
   "1227": {
@@ -20853,6 +20871,7 @@
       "pt": "rio"
     },
     "decks": [
+      "dream",
       "thing"
     ]
   },
@@ -21836,7 +21855,8 @@
     },
     "decks": [
       "alien",
-      "location"
+      "location",
+      "meta"
     ]
   },
   "1767": {
@@ -22958,7 +22978,8 @@
       "pt": "caixa de chocolates"
     },
     "decks": [
-      "alien"
+      "alien",
+      "meta"
     ]
   },
   "1864": {
@@ -23005,7 +23026,8 @@
     },
     "decks": [
       "alien",
-      "evidence"
+      "evidence",
+      "meta"
     ]
   },
   "1868": {
@@ -23435,6 +23457,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -23445,6 +23468,9 @@
       "en": "Hawaiian shirt",
       "pt": "Camisa florida"
     },
+    "aliasesPt": [
+      "camisa havaiana "
+    ],
     "decks": [
       "alien",
       "evidence"
@@ -25203,6 +25229,7 @@
       "pt": "transparente"
     },
     "decks": [
+      "meta",
       "symbol"
     ]
   },
@@ -34718,9 +34745,17 @@
   "2832": {
     "id": "2832",
     "name": {
-      "en": "coatl - REPLACE",
-      "pt": "serpente - REPLACE"
+      "en": "tamales",
+      "pt": "pamonha"
     },
+    "aliasesPt": [
+      "tamales"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
     "groups": []
   },
   "2833": {
@@ -34925,6 +34960,7 @@
     },
     "decks": [
       "alien",
+      "meta",
       "thing"
     ],
     "groups": []
@@ -35047,7 +35083,8 @@
     "decks": [
       "alien",
       "evidence",
-      "manufactured"
+      "manufactured",
+      "meta"
     ],
     "groups": []
   },
