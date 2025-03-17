@@ -35334,5 +35334,958 @@
       "suspect"
     ],
     "groups": []
+  },
+  "2875": {
+    "id": "2875",
+    "name": {
+      "en": "kiss",
+      "pt": "beijo"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2876": {
+    "id": "2876",
+    "name": {
+      "en": "voucher",
+      "pt": "cupon"
+    },
+    "aliasesEn": [
+      "coupon"
+    ],
+    "aliasesPt": [
+      "voucher"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2877": {
+    "id": "2877",
+    "name": {
+      "en": "Zeus",
+      "pt": "Zeus"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2878": {
+    "id": "2878",
+    "name": {
+      "en": "pandal",
+      "pt": "pandal"
+    },
+    "aliasesEn": [
+      "cerimonial tent"
+    ],
+    "aliasesPt": [
+      "tenda decorativa"
+    ],
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2879": {
+    "id": "2879",
+    "name": {
+      "en": "ramem",
+      "pt": "lamen"
+    },
+    "aliasesPt": [
+      "ramen"
+    ],
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2880": {
+    "id": "2880",
+    "name": {
+      "en": "japanese restaurant",
+      "pt": "restaurante japonês"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2881": {
+    "id": "2881",
+    "name": {
+      "en": "planetarium",
+      "pt": "planetário"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2882": {
+    "id": "2882",
+    "name": {
+      "en": "dispensary",
+      "pt": "dispensário"
+    },
+    "aliasesPt": [
+      "loja de cannabis"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2883": {
+    "id": "2883",
+    "name": {
+      "en": "smoke shop",
+      "pt": "tabacaria"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2884": {
+    "id": "2884",
+    "name": {
+      "en": "heart attack",
+      "pt": "ataque cardíaco"
+    },
+    "decks": [
+      "meta",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2885": {
+    "id": "2885",
+    "name": {
+      "en": "conjunctivitis",
+      "pt": "conjuntivite"
+    },
+    "decks": [
+      "meta",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2886": {
+    "id": "2886",
+    "name": {
+      "en": "chat",
+      "pt": "chat"
+    },
+    "aliasesPt": [
+      "conversa online"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2887": {
+    "id": "2887",
+    "name": {
+      "en": "mandala",
+      "pt": "mandala"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "meta",
+      "symbol"
+    ],
+    "groups": []
+  },
+  "2888": {
+    "id": "2888",
+    "name": {
+      "en": "podcast",
+      "pt": "podcast"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2889": {
+    "id": "2889",
+    "name": {
+      "en": "post",
+      "pt": "postagem"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2890": {
+    "id": "2890",
+    "name": {
+      "en": "online shopping",
+      "pt": "loja online"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2891": {
+    "id": "2891",
+    "name": {
+      "en": "high five",
+      "pt": "toca aqui"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2892": {
+    "id": "2892",
+    "name": {
+      "en": "planning",
+      "pt": "planejamento"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2893": {
+    "id": "2893",
+    "name": {
+      "en": "disagree",
+      "pt": "discordar"
+    },
+    "aliasesPt": [
+      "briga",
+      "desentendimento",
+      "término"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2894": {
+    "id": "2894",
+    "name": {
+      "en": "self-awareness",
+      "pt": "autoconsciência"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2895": {
+    "id": "2895",
+    "name": {
+      "en": "self-control",
+      "pt": "autodisciplina"
+    },
+    "aliasesPt": [
+      "autocontrole"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2896": {
+    "id": "2896",
+    "name": {
+      "en": "hybrid work",
+      "pt": "trabalho híbrido"
+    },
+    "aliasesEn": [
+      "remote"
+    ],
+    "aliasesPt": [
+      "remoto"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2897": {
+    "id": "2897",
+    "name": {
+      "en": "self-esteem",
+      "pt": "autoestima"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2898": {
+    "id": "2898",
+    "name": {
+      "en": "audio book",
+      "pt": "audiolivro"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2899": {
+    "id": "2899",
+    "name": {
+      "en": "memory game",
+      "pt": "jogo da memória"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2900": {
+    "id": "2900",
+    "name": {
+      "en": "amusement park",
+      "pt": "parque de diversões"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2901": {
+    "id": "2901",
+    "name": {
+      "en": "demographics",
+      "pt": "demografia"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2902": {
+    "id": "2902",
+    "name": {
+      "en": "antidepressants",
+      "pt": "antidepressivos"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2903": {
+    "id": "2903",
+    "name": {
+      "en": "tutorial",
+      "pt": "tutorial"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2904": {
+    "id": "2904",
+    "name": {
+      "en": "tanning goggles",
+      "pt": "óculos para bronzeamento"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2905": {
+    "id": "2905",
+    "name": {
+      "en": "retirement home",
+      "pt": "lar para idosos"
+    },
+    "aliasesPt": [
+      "casa de repouso"
+    ],
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2906": {
+    "id": "2906",
+    "name": {
+      "en": "truffles",
+      "pt": "trufas"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2907": {
+    "id": "2907",
+    "name": {
+      "en": "tanning",
+      "pt": "bronzeamento"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2908": {
+    "id": "2908",
+    "name": {
+      "en": "parkinson's",
+      "pt": "parkinson"
+    },
+    "aliasesPt": [
+      "tremer",
+      "tremido"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2909": {
+    "id": "2909",
+    "name": {
+      "en": "toes",
+      "pt": "dedos dos pés"
+    },
+    "aliasesPt": [
+      "dedos"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2910": {
+    "id": "2910",
+    "name": {
+      "en": "steamroller",
+      "pt": "rolo compressor"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2911": {
+    "id": "2911",
+    "name": {
+      "en": "network",
+      "pt": "contatos"
+    },
+    "groups": []
+  },
+  "2912": {
+    "id": "2912",
+    "name": {
+      "en": "anonymous",
+      "pt": "anônimo"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2913": {
+    "id": "2913",
+    "name": {
+      "en": "alzheimer",
+      "pt": "alzheimer"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2914": {
+    "id": "2914",
+    "name": {
+      "en": "schizophrenia",
+      "pt": "esquizofrenia"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2915": {
+    "id": "2915",
+    "name": {
+      "en": "hallucination",
+      "pt": "alucinação"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2916": {
+    "id": "2916",
+    "name": {
+      "en": "breadfruit",
+      "pt": "fruta-pão"
+    },
+    "decks": [
+      "alien",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2917": {
+    "id": "2917",
+    "name": {
+      "en": "pager",
+      "pt": "pager"
+    },
+    "aliasesPt": [
+      "bipe"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2918": {
+    "id": "2918",
+    "name": {
+      "en": "mp3 player",
+      "pt": "mp3"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2919": {
+    "id": "2919",
+    "name": {
+      "en": "k-pop artist",
+      "pt": "cantor de k-pop"
+    },
+    "decks": [
+      "alien",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2920": {
+    "id": "2920",
+    "name": {
+      "en": "carbon",
+      "pt": "gás carbônico"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2921": {
+    "id": "2921",
+    "name": {
+      "en": "socket",
+      "pt": "tomada"
+    },
+    "aliasesEn": [
+      "outlet"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2922": {
+    "id": "2922",
+    "name": {
+      "en": "merch",
+      "pt": "merch"
+    },
+    "aliasesEn": [
+      "merchandise"
+    ],
+    "aliasesPt": [
+      "merchandise",
+      "produtos oficiais"
+    ],
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2923": {
+    "id": "2923",
+    "name": {
+      "en": "wudhu tap",
+      "pt": "bica"
+    },
+    "aliasesPt": [
+      "torneira"
+    ],
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2924": {
+    "id": "2924",
+    "name": {
+      "en": "senses",
+      "pt": "sentidos"
+    },
+    "aliasesEn": [
+      "sensing"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2925": {
+    "id": "2925",
+    "name": {
+      "en": "roommate",
+      "pt": "colega de quarto"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2926": {
+    "id": "2926",
+    "name": {
+      "en": "airbrush",
+      "pt": "aerógrafo"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2927": {
+    "id": "2927",
+    "name": {
+      "en": "shaman",
+      "pt": "xamã"
+    },
+    "decks": [
+      "alien",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2928": {
+    "id": "2928",
+    "name": {
+      "en": "palmistry",
+      "pt": "quiromancia"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2929": {
+    "id": "2929",
+    "name": {
+      "en": "powder",
+      "pt": "pó"
+    },
+    "aliasesEn": [
+      "face powder"
+    ],
+    "aliasesPt": [
+      "pó facial"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2930": {
+    "id": "2930",
+    "name": {
+      "en": "resectoscope",
+      "pt": "ressectoscópio"
+    },
+    "decks": [
+      "alien",
+      "manufactured",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2931": {
+    "id": "2931",
+    "name": {
+      "en": "chemotherapy",
+      "pt": "quimioterapia"
+    },
+    "decks": [
+      "dream",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2932": {
+    "id": "2932",
+    "name": {
+      "en": "lawyer",
+      "pt": "advogado"
+    },
+    "decks": [
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2933": {
+    "id": "2933",
+    "name": {
+      "en": "baptism",
+      "pt": "batismo"
+    },
+    "decks": [
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "2934": {
+    "id": "2934",
+    "name": {
+      "en": "tapir",
+      "pt": "anta"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2935": {
+    "id": "2935",
+    "name": {
+      "en": "court",
+      "pt": "tribunal"
+    },
+    "aliasesEn": [
+      "tribunal"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "2936": {
+    "id": "2936",
+    "name": {
+      "en": "blue jeans frog",
+      "pt": "rã-morango"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2937": {
+    "id": "2937",
+    "name": {
+      "en": "stele",
+      "pt": "estela"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2938": {
+    "id": "2938",
+    "name": {
+      "en": "herbal medicine",
+      "pt": "fitoterapia"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2939": {
+    "id": "2939",
+    "name": {
+      "en": "5s",
+      "pt": "5s"
+    },
+    "aliasesEn": [
+      "workplace organization method"
+    ],
+    "aliasesPt": [
+      "metodologia 5s"
+    ],
+    "groups": []
+  },
+  "2940": {
+    "id": "2940",
+    "name": {
+      "en": "retro windbreaker",
+      "pt": "jaqueta retrô"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2941": {
+    "id": "2941",
+    "name": {
+      "en": "handbell",
+      "pt": "sino de mão"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2942": {
+    "id": "2942",
+    "name": {
+      "en": "marimba",
+      "pt": "marimba"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2943": {
+    "id": "2943",
+    "name": {
+      "en": "money laundering",
+      "pt": "lavagem de dinheiro"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2944": {
+    "id": "2944",
+    "name": {
+      "en": "discussion",
+      "pt": "discussão"
+    },
+    "aliasesEn": [
+      "conversation"
+    ],
+    "aliasesPt": [
+      "conversa"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2945": {
+    "id": "2945",
+    "name": {
+      "en": "blinds",
+      "pt": "persiana"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2946": {
+    "id": "2946",
+    "name": {
+      "en": "lyre",
+      "pt": "lira"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2947": {
+    "id": "2947",
+    "name": {
+      "en": "book shelf",
+      "pt": "prateleira"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2948": {
+    "id": "2948",
+    "name": {
+      "en": "manual",
+      "pt": "manual"
+    },
+    "aliasesEn": [
+      "instructions"
+    ],
+    "aliasesPt": [
+      "instruções",
+      "manual de instruções"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured",
+      "meta"
+    ],
+    "groups": []
   }
 }
