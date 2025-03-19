@@ -223,7 +223,6 @@
       "dream",
       "evidence",
       "manufactured",
-      "thing",
       "weapon"
     ]
   },
@@ -34135,8 +34134,7 @@
     },
     "decks": [
       "alien",
-      "location",
-      "thing"
+      "location"
     ],
     "groups": []
   },
@@ -35463,12 +35461,11 @@
   "2884": {
     "id": "2884",
     "name": {
-      "en": "heart attack",
-      "pt": "ataque cardíaco"
+      "en": "prejudice",
+      "pt": "preconceito"
     },
     "decks": [
-      "meta",
-      "weapon"
+      "meta"
     ],
     "groups": []
   },
@@ -36165,6 +36162,9 @@
     "aliasesPt": [
       "metodologia 5s"
     ],
+    "decks": [
+      "meta"
+    ],
     "groups": []
   },
   "2940": {
@@ -36239,6 +36239,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "manufactured"
     ],
     "groups": []
@@ -36285,6 +36286,178 @@
       "dream",
       "manufactured",
       "meta"
+    ],
+    "groups": []
+  },
+  "2949": {
+    "id": "2949",
+    "name": {
+      "en": "aromatherapy",
+      "pt": "aromoterapia"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2950": {
+    "id": "2950",
+    "name": {
+      "en": "anaconda",
+      "pt": "anaconda"
+    },
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "2951": {
+    "id": "2951",
+    "name": {
+      "en": "native woman",
+      "pt": "índia"
+    },
+    "aliasesPt": [
+      "nativa"
+    ],
+    "decks": [
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2952": {
+    "id": "2952",
+    "name": {
+      "en": "native man",
+      "pt": "índio"
+    },
+    "aliasesPt": [
+      "nativo"
+    ],
+    "decks": [
+      "alien",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2953": {
+    "id": "2953",
+    "name": {
+      "en": "parabolic microphone",
+      "pt": "microfone parabólico"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2954": {
+    "id": "2954",
+    "name": {
+      "en": "insulin",
+      "pt": "insulina"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2955": {
+    "id": "2955",
+    "name": {
+      "en": "expert",
+      "pt": "especialista"
+    },
+    "aliasesPt": [
+      "expert"
+    ],
+    "decks": [
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "2956": {
+    "id": "2956",
+    "name": {
+      "en": "spy bug",
+      "pt": "grampo"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2957": {
+    "id": "2957",
+    "name": {
+      "en": "c-section",
+      "pt": "cesariana"
+    },
+    "aliasesEn": [
+      "cesarean section"
+    ],
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "2958": {
+    "id": "2958",
+    "name": {
+      "en": "ravioli",
+      "pt": "ravioli"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2959": {
+    "id": "2959",
+    "name": {
+      "en": "pet groomer",
+      "pt": "tosadora"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2960": {
+    "id": "2960",
+    "name": {
+      "en": "food stamp",
+      "pt": "Bolsa Família"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2961": {
+    "id": "2961",
+    "name": {
+      "en": "chinchilla",
+      "pt": "chinchilla"
+    },
+    "decks": [
+      "alien",
+      "dream"
     ],
     "groups": []
   }
