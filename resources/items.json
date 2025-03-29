@@ -15934,6 +15934,9 @@
       "en": "catwalk",
       "pt": "passarela"
     },
+    "aliasesEn": [
+      "runway"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -19333,6 +19336,9 @@
       "en": "supermarket",
       "pt": "supermercado"
     },
+    "aliasesEn": [
+      "grocery story"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -20492,6 +20498,15 @@
       "en": "Discoteche",
       "pt": "Boate"
     },
+    "aliasesEn": [
+      "dance club",
+      "night club"
+    ],
+    "aliasesPt": [
+      "casa noturna",
+      "danceteria",
+      "discoteca"
+    ],
     "decks": [
       "alien",
       "dream",
@@ -36483,6 +36498,779 @@
       "alien",
       "dream",
       "thing"
+    ],
+    "groups": []
+  },
+  "2963": {
+    "id": "2963",
+    "name": {
+      "en": "sign language",
+      "pt": "linguagem de sinais"
+    },
+    "decks": [
+      "dream",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2964": {
+    "id": "2964",
+    "name": {
+      "en": "okay",
+      "pt": "ok"
+    },
+    "aliasesEn": [
+      "ok"
+    ],
+    "aliasesPt": [
+      "vtnc"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2965": {
+    "id": "2965",
+    "name": {
+      "en": "cramps",
+      "pt": "cólicas"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2966": {
+    "id": "2966",
+    "name": {
+      "en": "sundae",
+      "pt": "sundae"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2967": {
+    "id": "2967",
+    "name": {
+      "en": "epilator",
+      "pt": "depilador"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2968": {
+    "id": "2968",
+    "name": {
+      "en": "bingsu",
+      "pt": "bingsu"
+    },
+    "aliasesEn": [
+      "korean shaved ice"
+    ],
+    "aliasesPt": [
+      "raspadinha coreana"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2969": {
+    "id": "2969",
+    "name": {
+      "en": "Bakezori",
+      "pt": "Bakezori"
+    },
+    "aliasesPt": [
+      "chinela maldita"
+    ],
+    "decks": [
+      "meta",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2970": {
+    "id": "2970",
+    "name": {
+      "en": "hippie",
+      "pt": "hippie"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2971": {
+    "id": "2971",
+    "name": {
+      "en": "felon",
+      "pt": "criminoso"
+    },
+    "aliasesEn": [
+      "con"
+    ],
+    "aliasesPt": [
+      "presidiário"
+    ],
+    "decks": [
+      "alien",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2972": {
+    "id": "2972",
+    "name": {
+      "en": "addict",
+      "pt": "viciado"
+    },
+    "aliasesEn": [
+      "druggy"
+    ],
+    "aliasesPt": [
+      "drogado"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2973": {
+    "id": "2973",
+    "name": {
+      "en": "ted talker",
+      "pt": "coach"
+    },
+    "aliasesEn": [
+      "speaker"
+    ],
+    "aliasesPt": [
+      "palestrante"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2974": {
+    "id": "2974",
+    "name": {
+      "en": "obsessed ex",
+      "pt": "ex"
+    },
+    "aliasesEn": [
+      "ex-girlfriend"
+    ],
+    "aliasesPt": [
+      "ex-namorada"
+    ],
+    "decks": [
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2975": {
+    "id": "2975",
+    "name": {
+      "en": "cult leader",
+      "pt": "lider de culto"
+    },
+    "aliasesPt": [
+      "guru"
+    ],
+    "decks": [
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2976": {
+    "id": "2976",
+    "name": {
+      "en": "gypsy",
+      "pt": "cigana"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2977": {
+    "id": "2977",
+    "name": {
+      "en": "pervert",
+      "pt": "tarado"
+    },
+    "aliasesPt": [
+      "pervertido"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2978": {
+    "id": "2978",
+    "name": {
+      "en": "perception",
+      "pt": "percepção"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2979": {
+    "id": "2979",
+    "name": {
+      "en": "nudist",
+      "pt": "nudista"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2980": {
+    "id": "2980",
+    "name": {
+      "en": "crawl",
+      "pt": "engatinhar"
+    },
+    "aliasesEn": [
+      "escape"
+    ],
+    "aliasesPt": [
+      "fugir",
+      "rastejar"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2981": {
+    "id": "2981",
+    "name": {
+      "en": "relax",
+      "pt": "teste do sofá"
+    },
+    "aliasesEn": [
+      "audition couch"
+    ],
+    "aliasesPt": [
+      "descansar",
+      "relax"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "2982": {
+    "id": "2982",
+    "name": {
+      "en": "musician",
+      "pt": "músico"
+    },
+    "decks": [
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2983": {
+    "id": "2983",
+    "name": {
+      "en": "hooligan",
+      "pt": "vândalo"
+    },
+    "decks": [
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2984": {
+    "id": "2984",
+    "name": {
+      "en": "artist",
+      "pt": "artista"
+    },
+    "decks": [
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2985": {
+    "id": "2985",
+    "name": {
+      "en": "fat guy",
+      "pt": "gordo"
+    },
+    "aliasesEn": [
+      "obese"
+    ],
+    "aliasesPt": [
+      "obeso"
+    ],
+    "decks": [
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2986": {
+    "id": "2986",
+    "name": {
+      "en": "fat woman",
+      "pt": "gorda"
+    },
+    "decks": [
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "2987": {
+    "id": "2987",
+    "name": {
+      "en": "insult",
+      "pt": "palavrão"
+    },
+    "aliasesEn": [
+      "curse"
+    ],
+    "aliasesPt": [
+      "insulto",
+      "xingar"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2988": {
+    "id": "2988",
+    "name": {
+      "en": "career path",
+      "pt": "carreira"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2989": {
+    "id": "2989",
+    "name": {
+      "en": "puffin",
+      "pt": "papagaio-do-mar"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "2990": {
+    "id": "2990",
+    "name": {
+      "en": "liar",
+      "pt": "mentiroso"
+    },
+    "aliasesPt": [
+      "falso"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "2991": {
+    "id": "2991",
+    "name": {
+      "en": "fake news",
+      "pt": "fake news"
+    },
+    "decks": [
+      "dream",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2992": {
+    "id": "2992",
+    "name": {
+      "en": "penthouse",
+      "pt": "cobertura"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "2993": {
+    "id": "2993",
+    "name": {
+      "en": "hedge",
+      "pt": "cerca viva"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "2994": {
+    "id": "2994",
+    "name": {
+      "en": "helipad",
+      "pt": "heliponto"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "2995": {
+    "id": "2995",
+    "name": {
+      "en": "seats",
+      "pt": "lugares"
+    },
+    "decks": [
+      "dream",
+      "meta"
+    ],
+    "groups": []
+  },
+  "2996": {
+    "id": "2996",
+    "name": {
+      "en": "stole",
+      "pt": "estola"
+    },
+    "decks": [
+      "alien",
+      "evidence"
+    ],
+    "groups": []
+  },
+  "2997": {
+    "id": "2997",
+    "name": {
+      "en": "censer",
+      "pt": "turíbulo"
+    },
+    "aliasesPt": [
+      "incensário"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "2998": {
+    "id": "2998",
+    "name": {
+      "en": "airport",
+      "pt": "aeroporto"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "2999": {
+    "id": "2999",
+    "name": {
+      "en": "lavender",
+      "pt": "lavanda"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3000": {
+    "id": "3000",
+    "name": {
+      "en": "motel",
+      "pt": "motel de beira de estrada"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "3001": {
+    "id": "3001",
+    "name": {
+      "en": "anise",
+      "pt": "anis"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3002": {
+    "id": "3002",
+    "name": {
+      "en": "trellis",
+      "pt": "treliça"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3003": {
+    "id": "3003",
+    "name": {
+      "en": "craft",
+      "pt": "artesanato"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3004": {
+    "id": "3004",
+    "name": {
+      "en": "stigma",
+      "pt": "estigma"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3005": {
+    "id": "3005",
+    "name": {
+      "en": "obsessed",
+      "pt": "obcecada"
+    },
+    "aliasesEn": [
+      "obsession"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3006": {
+    "id": "3006",
+    "name": {
+      "en": "changing room",
+      "pt": "vestiário"
+    },
+    "aliasesEn": [
+      "locker room"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "3007": {
+    "id": "3007",
+    "name": {
+      "en": "emergency exit",
+      "pt": "saída de emergência"
+    },
+    "decks": [
+      "alien",
+      "location",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3008": {
+    "id": "3008",
+    "name": {
+      "en": "apartment door",
+      "pt": "apartamento"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3009": {
+    "id": "3009",
+    "name": {
+      "en": "research lab",
+      "pt": "laboratório"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "3010": {
+    "id": "3010",
+    "name": {
+      "en": "tv station",
+      "pt": "estação de tv"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "3011": {
+    "id": "3011",
+    "name": {
+      "en": "hallway",
+      "pt": "corredor"
+    },
+    "decks": [
+      "location",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3012": {
+    "id": "3012",
+    "name": {
+      "en": "alley",
+      "pt": "beco"
+    },
+    "decks": [
+      "location"
+    ],
+    "groups": []
+  },
+  "3013": {
+    "id": "3013",
+    "name": {
+      "en": "deforestation",
+      "pt": "desflorestamento"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3014": {
+    "id": "3014",
+    "name": {
+      "en": "ferry",
+      "pt": "balsa"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "3015": {
+    "id": "3015",
+    "name": {
+      "en": "parking garage",
+      "pt": "estacionamento"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "3016": {
+    "id": "3016",
+    "name": {
+      "en": "art gallery",
+      "pt": "galeria de arte"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "3017": {
+    "id": "3017",
+    "name": {
+      "en": "garden",
+      "pt": "jardim"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "3018": {
+    "id": "3018",
+    "name": {
+      "en": "wine cellar",
+      "pt": "adega"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "3019": {
+    "id": "3019",
+    "name": {
+      "en": "stalker",
+      "pt": "stalker"
+    },
+    "aliasesPt": [
+      "assediador"
+    ],
+    "decks": [
+      "dream",
+      "suspect"
     ],
     "groups": []
   }

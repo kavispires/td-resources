@@ -6,6 +6,7 @@
 			"pt": "Causa da Morte"
 		},
 		"type": "cause",
+		"specific": "weapon",
 		"description": {
 			"en": "How did the weapon made the victim die?",
 			"pt": "Como a arma causou a morte da vítima?"
@@ -659,6 +660,7 @@
 			"en": "How the selected object relates to the crime?",
 			"pt": "Como a evidência selecionada se relaciona com o crime?"
 		},
+		"specific": "evidence",
 		"tags": {
 			"0": [
 				"ash",
@@ -1290,6 +1292,7 @@
 			"en": "General",
 			"pt": "Geral"
 		},
+		"specific": "location",
 		"tags": {
 			"0": [
 				"art",
@@ -2376,7 +2379,7 @@
 			"en": "How was the victim?",
 			"pt": "Como era a vítima?"
 		},
-		"specific": null,
+		"specific": "victim",
 		"values": [
 			{
 				"en": "Large",
@@ -2415,7 +2418,7 @@
 			"en": "How was the victim's clothes?",
 			"pt": "Como eram as roupas da vítima?"
 		},
-		"specific": null,
+		"specific": "victim",
 		"values": [
 			{
 				"en": "Neat",
@@ -2532,7 +2535,7 @@
 			"en": "Tell us more about the victim.",
 			"pt": "Diga-nos mais sobre a vítima."
 		},
-		"specific": null,
+		"specific": "victim",
 		"values": [
 			{
 				"en": "Child",
