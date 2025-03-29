@@ -3,10 +3,10 @@
 		"id": "dmhk-vt-1",
 		"name": {
 			"en": "priest",
-			"pt": "padre / sacerdote"
+			"pt": "padre"
 		},
 		"type": "victim",
-		"itemId": 82,
+		"itemId": "82",
 		"tags": []
 	},
 	"dmhk-vt-2": {
@@ -16,17 +16,17 @@
 			"pt": "mendigo(a)"
 		},
 		"type": "victim",
-		"itemId": 142,
+		"itemId": "142",
 		"tags": []
 	},
 	"dmhk-vt-3": {
 		"id": "dmhk-vt-3",
 		"name": {
 			"en": "twerking girl",
-			"pt": "garota fazendo twerk / garota rebolando"
+			"pt": "piriguete"
 		},
 		"type": "victim",
-		"itemId": 222,
+		"itemId": "222",
 		"tags": []
 	},
 	"dmhk-vt-4": {
@@ -36,47 +36,47 @@
 			"pt": "senhora idosa"
 		},
 		"type": "victim",
-		"itemId": 223,
+		"itemId": "223",
 		"tags": []
 	},
 	"dmhk-vt-5": {
 		"id": "dmhk-vt-5",
 		"name": {
 			"en": "doctor",
-			"pt": "médico(a)"
+			"pt": "médico"
 		},
 		"type": "victim",
-		"itemId": 224,
+		"itemId": "224",
 		"tags": []
 	},
 	"dmhk-vt-6": {
 		"id": "dmhk-vt-6",
 		"name": {
 			"en": "thief",
-			"pt": "ladrão(ã)"
+			"pt": "ladrão"
 		},
 		"type": "victim",
-		"itemId": 234,
+		"itemId": "234",
 		"tags": []
 	},
 	"dmhk-vt-7": {
 		"id": "dmhk-vt-7",
 		"name": {
 			"en": "clown",
-			"pt": "palhaço(a)"
+			"pt": "palhaço"
 		},
 		"type": "victim",
-		"itemId": 318,
+		"itemId": "318",
 		"tags": []
 	},
 	"dmhk-vt-8": {
 		"id": "dmhk-vt-8",
 		"name": {
 			"en": "telemarketer",
-			"pt": "telemarketing / operador(a) de telemarketing"
+			"pt": "telemarketing"
 		},
 		"type": "victim",
-		"itemId": 500,
+		"itemId": "500",
 		"tags": []
 	},
 	"dmhk-vt-9": {
@@ -86,7 +86,7 @@
 			"pt": "dj"
 		},
 		"type": "victim",
-		"itemId": 528,
+		"itemId": "528",
 		"tags": []
 	},
 	"dmhk-vt-10": {
@@ -96,37 +96,37 @@
 			"pt": "policial"
 		},
 		"type": "victim",
-		"itemId": 535,
+		"itemId": "535",
 		"tags": []
 	},
 	"dmhk-vt-11": {
 		"id": "dmhk-vt-11",
 		"name": {
 			"en": "influencer",
-			"pt": "influenciador(a)"
+			"pt": "influenciadora"
 		},
 		"type": "victim",
-		"itemId": 539,
+		"itemId": "539",
 		"tags": []
 	},
 	"dmhk-vt-12": {
 		"id": "dmhk-vt-12",
 		"name": {
 			"en": "monkey",
-			"pt": "macaco(a)"
+			"pt": "macaco"
 		},
 		"type": "victim",
-		"itemId": 552,
+		"itemId": "552",
 		"tags": []
 	},
 	"dmhk-vt-13": {
 		"id": "dmhk-vt-13",
 		"name": {
 			"en": "firefighter",
-			"pt": "bombeiro(a)"
+			"pt": "bombeiro"
 		},
 		"type": "victim",
-		"itemId": 582,
+		"itemId": "582",
 		"tags": []
 	},
 	"dmhk-vt-14": {
@@ -136,7 +136,7 @@
 			"pt": "chefe / patrão(oa)"
 		},
 		"type": "victim",
-		"itemId": 644,
+		"itemId": "644",
 		"tags": []
 	},
 	"dmhk-vt-15": {
@@ -146,17 +146,17 @@
 			"pt": "passista de samba"
 		},
 		"type": "victim",
-		"itemId": 675,
+		"itemId": "675",
 		"tags": []
 	},
 	"dmhk-vt-16": {
 		"id": "dmhk-vt-16",
 		"name": {
-			"en": "pole dancer",
-			"pt": "dançarino(a) de pole dance"
+			"en": "stripper",
+			"pt": "stripper"
 		},
 		"type": "victim",
-		"itemId": 751,
+		"itemId": "751",
 		"tags": []
 	},
 	"dmhk-vt-17": {
@@ -166,7 +166,7 @@
 			"pt": "manifestantes"
 		},
 		"type": "victim",
-		"itemId": 1014,
+		"itemId": "1014",
 		"tags": []
 	},
 	"dmhk-vt-18": {
@@ -176,7 +176,7 @@
 			"pt": "alienígena"
 		},
 		"type": "victim",
-		"itemId": 1053,
+		"itemId": "1053",
 		"tags": []
 	},
 	"dmhk-vt-19": {
@@ -186,7 +186,7 @@
 			"pt": "boyband"
 		},
 		"type": "victim",
-		"itemId": 1062,
+		"itemId": "1062",
 		"tags": []
 	},
 	"dmhk-vt-20": {
@@ -196,7 +196,7 @@
 			"pt": "hacker"
 		},
 		"type": "victim",
-		"itemId": 1070,
+		"itemId": "1070",
 		"tags": []
 	},
 	"dmhk-vt-21": {
@@ -206,7 +206,7 @@
 			"pt": "pessoa cega"
 		},
 		"type": "victim",
-		"itemId": 1196,
+		"itemId": "1196",
 		"tags": []
 	},
 	"dmhk-vt-22": {
@@ -216,17 +216,17 @@
 			"pt": "médium"
 		},
 		"type": "victim",
-		"itemId": 1259,
+		"itemId": "1259",
 		"tags": []
 	},
 	"dmhk-vt-23": {
 		"id": "dmhk-vt-23",
 		"name": {
 			"en": "karen",
-			"pt": "karen"
+			"pt": "mulher barraqueira"
 		},
 		"type": "victim",
-		"itemId": 1336,
+		"itemId": "1336",
 		"tags": []
 	},
 	"dmhk-vt-24": {
@@ -236,7 +236,7 @@
 			"pt": "pessoa não binária"
 		},
 		"type": "victim",
-		"itemId": 1359,
+		"itemId": "1359",
 		"tags": []
 	},
 	"dmhk-vt-25": {
@@ -246,7 +246,7 @@
 			"pt": "princesa"
 		},
 		"type": "victim",
-		"itemId": 1385,
+		"itemId": "1385",
 		"tags": []
 	},
 	"dmhk-vt-26": {
@@ -256,57 +256,57 @@
 			"pt": "família"
 		},
 		"type": "victim",
-		"itemId": 1511,
+		"itemId": "1511",
 		"tags": []
 	},
 	"dmhk-vt-27": {
 		"id": "dmhk-vt-27",
 		"name": {
 			"en": "politician",
-			"pt": "político(a)"
+			"pt": "político"
 		},
 		"type": "victim",
-		"itemId": 1514,
+		"itemId": "1514",
 		"tags": []
 	},
 	"dmhk-vt-28": {
 		"id": "dmhk-vt-28",
 		"name": {
 			"en": "bouncer",
-			"pt": "segurança de boate / porteiro(a)"
+			"pt": "segurança de boate"
 		},
 		"type": "victim",
-		"itemId": 1542,
+		"itemId": "1542",
 		"tags": []
 	},
 	"dmhk-vt-29": {
 		"id": "dmhk-vt-29",
 		"name": {
 			"en": "teacher",
-			"pt": "professor(a)"
+			"pt": "professora"
 		},
 		"type": "victim",
-		"itemId": 1556,
+		"itemId": "1556",
 		"tags": []
 	},
 	"dmhk-vt-30": {
 		"id": "dmhk-vt-30",
 		"name": {
 			"en": "sumo fighter",
-			"pt": "lutador(a) de sumô"
+			"pt": "lutador de sumô"
 		},
 		"type": "victim",
-		"itemId": 1568,
+		"itemId": "1568",
 		"tags": []
 	},
 	"dmhk-vt-31": {
 		"id": "dmhk-vt-31",
 		"name": {
 			"en": "mime",
-			"pt": "mímico(a)"
+			"pt": "mímico"
 		},
 		"type": "victim",
-		"itemId": 1595,
+		"itemId": "1595",
 		"tags": []
 	},
 	"dmhk-vt-32": {
@@ -316,7 +316,7 @@
 			"pt": "trapezista"
 		},
 		"type": "victim",
-		"itemId": 1607,
+		"itemId": "1607",
 		"tags": []
 	},
 	"dmhk-vt-33": {
@@ -326,7 +326,7 @@
 			"pt": "chefe da máfia"
 		},
 		"type": "victim",
-		"itemId": 1608,
+		"itemId": "1608",
 		"tags": []
 	},
 	"dmhk-vt-34": {
@@ -336,7 +336,7 @@
 			"pt": "muitas pessoas"
 		},
 		"type": "victim",
-		"itemId": 1624,
+		"itemId": "1624",
 		"tags": []
 	},
 	"dmhk-vt-35": {
@@ -346,7 +346,7 @@
 			"pt": "rapper"
 		},
 		"type": "victim",
-		"itemId": 1645,
+		"itemId": "1645",
 		"tags": []
 	},
 	"dmhk-vt-36": {
@@ -356,27 +356,27 @@
 			"pt": "capoeirista"
 		},
 		"type": "victim",
-		"itemId": 1662,
+		"itemId": "1662",
 		"tags": []
 	},
 	"dmhk-vt-37": {
 		"id": "dmhk-vt-37",
 		"name": {
 			"en": "twins",
-			"pt": "gêmeos(as)"
+			"pt": "gêmeos"
 		},
 		"type": "victim",
-		"itemId": 1737,
+		"itemId": "1737",
 		"tags": []
 	},
 	"dmhk-vt-38": {
 		"id": "dmhk-vt-38",
 		"name": {
 			"en": "superhero",
-			"pt": "super-herói(na)"
+			"pt": "super-herói"
 		},
 		"type": "victim",
-		"itemId": 1745,
+		"itemId": "1745",
 		"tags": []
 	},
 	"dmhk-vt-39": {
@@ -386,17 +386,17 @@
 			"pt": "estrela pop"
 		},
 		"type": "victim",
-		"itemId": 1763,
+		"itemId": "1763",
 		"tags": []
 	},
 	"dmhk-vt-40": {
 		"id": "dmhk-vt-40",
 		"name": {
 			"en": "a vegan",
-			"pt": "um(a) vegano(a)"
+			"pt": "um vegano"
 		},
 		"type": "victim",
-		"itemId": 1788,
+		"itemId": "1788",
 		"tags": []
 	},
 	"dmhk-vt-41": {
@@ -406,7 +406,7 @@
 			"pt": "um coro"
 		},
 		"type": "victim",
-		"itemId": 1796,
+		"itemId": "1796",
 		"tags": []
 	},
 	"dmhk-vt-42": {
@@ -416,7 +416,7 @@
 			"pt": "criança fantasiada"
 		},
 		"type": "victim",
-		"itemId": 1799,
+		"itemId": "1799",
 		"tags": []
 	},
 	"dmhk-vt-43": {
@@ -426,7 +426,7 @@
 			"pt": "emo"
 		},
 		"type": "victim",
-		"itemId": 1818,
+		"itemId": "1818",
 		"tags": []
 	},
 	"dmhk-vt-44": {
@@ -436,7 +436,7 @@
 			"pt": "nerd"
 		},
 		"type": "victim",
-		"itemId": 1837,
+		"itemId": "1837",
 		"tags": []
 	},
 	"dmhk-vt-45": {
@@ -446,7 +446,7 @@
 			"pt": "dois amigos"
 		},
 		"type": "victim",
-		"itemId": 1938,
+		"itemId": "1938",
 		"tags": []
 	},
 	"dmhk-vt-46": {
@@ -456,7 +456,7 @@
 			"pt": "maestro"
 		},
 		"type": "victim",
-		"itemId": 1939,
+		"itemId": "1939",
 		"tags": []
 	},
 	"dmhk-vt-47": {
@@ -466,7 +466,7 @@
 			"pt": "criança"
 		},
 		"type": "victim",
-		"itemId": 1940,
+		"itemId": "1940",
 		"tags": []
 	},
 	"dmhk-vt-48": {
@@ -476,7 +476,7 @@
 			"pt": "rabino"
 		},
 		"type": "victim",
-		"itemId": 1966,
+		"itemId": "1966",
 		"tags": []
 	},
 	"dmhk-vt-49": {
@@ -486,7 +486,7 @@
 			"pt": "chef"
 		},
 		"type": "victim",
-		"itemId": 1970,
+		"itemId": "1970",
 		"tags": []
 	},
 	"dmhk-vt-50": {
@@ -496,7 +496,7 @@
 			"pt": "espião"
 		},
 		"type": "victim",
-		"itemId": 1971,
+		"itemId": "1971",
 		"tags": []
 	},
 	"dmhk-vt-51": {
@@ -506,7 +506,7 @@
 			"pt": "criancinha"
 		},
 		"type": "victim",
-		"itemId": 1974,
+		"itemId": "1974",
 		"tags": []
 	},
 	"dmhk-vt-52": {
@@ -516,7 +516,7 @@
 			"pt": "cabeleireira"
 		},
 		"type": "victim",
-		"itemId": 1975,
+		"itemId": "1975",
 		"tags": []
 	},
 	"dmhk-vt-53": {
@@ -526,7 +526,7 @@
 			"pt": "peão"
 		},
 		"type": "victim",
-		"itemId": 1976,
+		"itemId": "1976",
 		"tags": []
 	},
 	"dmhk-vt-54": {
@@ -536,7 +536,7 @@
 			"pt": "freira"
 		},
 		"type": "victim",
-		"itemId": 1977,
+		"itemId": "1977",
 		"tags": []
 	},
 	"dmhk-vt-55": {
@@ -546,7 +546,7 @@
 			"pt": "juiz"
 		},
 		"type": "victim",
-		"itemId": 1978,
+		"itemId": "1978",
 		"tags": []
 	},
 	"dmhk-vt-56": {
@@ -556,7 +556,7 @@
 			"pt": "muçulmana"
 		},
 		"type": "victim",
-		"itemId": 1979,
+		"itemId": "1979",
 		"tags": []
 	},
 	"dmhk-vt-57": {
@@ -566,7 +566,7 @@
 			"pt": "pedreiro"
 		},
 		"type": "victim",
-		"itemId": 1980,
+		"itemId": "1980",
 		"tags": []
 	},
 	"dmhk-vt-58": {
@@ -576,7 +576,7 @@
 			"pt": "arquiteto"
 		},
 		"type": "victim",
-		"itemId": 1981,
+		"itemId": "1981",
 		"tags": []
 	},
 	"dmhk-vt-59": {
@@ -586,7 +586,7 @@
 			"pt": "piloto"
 		},
 		"type": "victim",
-		"itemId": 1998,
+		"itemId": "1998",
 		"tags": []
 	},
 	"dmhk-vt-60": {
@@ -596,7 +596,7 @@
 			"pt": "vendedora"
 		},
 		"type": "victim",
-		"itemId": 2003,
+		"itemId": "2003",
 		"tags": []
 	},
 	"dmhk-vt-61": {
@@ -606,7 +606,7 @@
 			"pt": "marinheiro"
 		},
 		"type": "victim",
-		"itemId": 2004,
+		"itemId": "2004",
 		"tags": []
 	},
 	"dmhk-vt-62": {
@@ -616,7 +616,7 @@
 			"pt": "repórter"
 		},
 		"type": "victim",
-		"itemId": 2005,
+		"itemId": "2005",
 		"tags": []
 	},
 	"dmhk-vt-63": {
@@ -626,7 +626,7 @@
 			"pt": "atendente"
 		},
 		"type": "victim",
-		"itemId": 2006,
+		"itemId": "2006",
 		"tags": []
 	},
 	"dmhk-vt-64": {
@@ -636,7 +636,7 @@
 			"pt": "garçom"
 		},
 		"type": "victim",
-		"itemId": 2007,
+		"itemId": "2007",
 		"tags": []
 	},
 	"dmhk-vt-65": {
@@ -646,7 +646,7 @@
 			"pt": "atleta"
 		},
 		"type": "victim",
-		"itemId": 2008,
+		"itemId": "2008",
 		"tags": []
 	},
 	"dmhk-vt-66": {
@@ -656,7 +656,7 @@
 			"pt": "cientista"
 		},
 		"type": "victim",
-		"itemId": 2009,
+		"itemId": "2009",
 		"tags": []
 	},
 	"dmhk-vt-67": {
@@ -666,7 +666,7 @@
 			"pt": "estudante"
 		},
 		"type": "victim",
-		"itemId": 2010,
+		"itemId": "2010",
 		"tags": []
 	},
 	"dmhk-vt-68": {
@@ -676,7 +676,7 @@
 			"pt": "apresentador de TV"
 		},
 		"type": "victim",
-		"itemId": 2011,
+		"itemId": "2011",
 		"tags": []
 	},
 	"dmhk-vt-69": {
@@ -686,7 +686,7 @@
 			"pt": "corredor"
 		},
 		"type": "victim",
-		"itemId": 2012,
+		"itemId": "2012",
 		"tags": []
 	},
 	"dmhk-vt-70": {
@@ -696,7 +696,7 @@
 			"pt": "faxineira"
 		},
 		"type": "victim",
-		"itemId": 2166,
+		"itemId": "2166",
 		"tags": []
 	},
 	"dmhk-vt-71": {
@@ -706,7 +706,7 @@
 			"pt": "enfermeira"
 		},
 		"type": "victim",
-		"itemId": 2095,
+		"itemId": "2095",
 		"tags": []
 	},
 	"dmhk-vt-72": {
@@ -716,7 +716,7 @@
 			"pt": "drag queen"
 		},
 		"type": "victim",
-		"itemId": 2102,
+		"itemId": "2102",
 		"tags": []
 	},
 	"dmhk-vt-73": {
@@ -726,27 +726,27 @@
 			"pt": "professora de zumba"
 		},
 		"type": "victim",
-		"itemId": 2162,
+		"itemId": "2162",
 		"tags": []
 	},
 	"dmhk-vt-74": {
 		"id": "dmhk-vt-74",
 		"name": {
 			"en": "mother",
-			"pt": "mãe"
+			"pt": "mãe solteira"
 		},
 		"type": "victim",
-		"itemId": 2098,
+		"itemId": "2098",
 		"tags": []
 	},
 	"dmhk-vt-75": {
 		"id": "dmhk-vt-75",
 		"name": {
 			"en": "father",
-			"pt": "pai"
+			"pt": "pai ausente"
 		},
 		"type": "victim",
-		"itemId": 2099,
+		"itemId": "2099",
 		"tags": []
 	},
 	"dmhk-vt-76": {
@@ -756,7 +756,7 @@
 			"pt": "programador"
 		},
 		"type": "victim",
-		"itemId": 2484,
+		"itemId": "2484",
 		"tags": []
 	},
 	"dmhk-vt-77": {
@@ -766,7 +766,7 @@
 			"pt": "moço da placa"
 		},
 		"type": "victim",
-		"itemId": 2573,
+		"itemId": "2573",
 		"tags": []
 	},
 	"dmhk-vt-78": {
@@ -776,7 +776,7 @@
 			"pt": "sapatona lésbica"
 		},
 		"type": "victim",
-		"itemId": 2575,
+		"itemId": "2575",
 		"tags": []
 	},
 	"dmhk-vt-79": {
@@ -786,7 +786,7 @@
 			"pt": "aeromoça"
 		},
 		"type": "victim",
-		"itemId": 2579,
+		"itemId": "2579",
 		"tags": []
 	},
 	"dmhk-vt-80": {
@@ -796,7 +796,7 @@
 			"pt": "uma pessoa trans"
 		},
 		"type": "victim",
-		"itemId": 2616,
+		"itemId": "2616",
 		"tags": []
 	},
 	"dmhk-vt-81": {
@@ -806,7 +806,7 @@
 			"pt": "um feto"
 		},
 		"type": "victim",
-		"itemId": 2617,
+		"itemId": "2617",
 		"tags": []
 	},
 	"dmhk-vt-82": {
@@ -816,7 +816,7 @@
 			"pt": "gêmeos"
 		},
 		"type": "victim",
-		"itemId": 2827,
+		"itemId": "2827",
 		"tags": []
 	},
 	"dmhk-vt-83": {
@@ -826,7 +826,7 @@
 			"pt": "fã"
 		},
 		"type": "victim",
-		"itemId": 2861,
+		"itemId": "2861",
 		"tags": []
 	},
 	"dmhk-vt-84": {
@@ -836,7 +836,7 @@
 			"pt": "paparazzi"
 		},
 		"type": "victim",
-		"itemId": 2866,
+		"itemId": "2866",
 		"tags": []
 	},
 	"dmhk-vt-85": {
@@ -846,7 +846,7 @@
 			"pt": "artista de k-pop"
 		},
 		"type": "victim",
-		"itemId": 2919,
+		"itemId": "2919",
 		"tags": []
 	},
 	"dmhk-vt-86": {
@@ -856,7 +856,7 @@
 			"pt": "advogada"
 		},
 		"type": "victim",
-		"itemId": 2932,
+		"itemId": "2932",
 		"tags": []
 	},
 	"dmhk-vt-87": {
@@ -866,7 +866,7 @@
 			"pt": "índia"
 		},
 		"type": "victim",
-		"itemId": 2951,
+		"itemId": "2951",
 		"tags": []
 	},
 	"dmhk-vt-88": {
@@ -876,17 +876,17 @@
 			"pt": "tosadora de animais"
 		},
 		"type": "victim",
-		"itemId": 2959,
+		"itemId": "2959",
 		"tags": []
 	},
 	"dmhk-vt-89": {
 		"id": "dmhk-vt-89",
 		"name": {
 			"en": "roommate",
-			"pt": "companheiro(a) de apartamento"
+			"pt": "companheiro de apartamento"
 		},
 		"type": "victim",
-		"itemId": 2925,
+		"itemId": "2925",
 		"tags": []
 	},
 	"dmhk-vt-90": {
@@ -896,7 +896,7 @@
 			"pt": "hippie"
 		},
 		"type": "victim",
-		"itemId": 2970,
+		"itemId": "2970",
 		"tags": []
 	},
 	"dmhk-vt-91": {
@@ -906,7 +906,7 @@
 			"pt": "líder de culto"
 		},
 		"type": "victim",
-		"itemId": 2975,
+		"itemId": "2975",
 		"tags": []
 	},
 	"dmhk-vt-92": {
@@ -916,7 +916,7 @@
 			"pt": "criminoso"
 		},
 		"type": "victim",
-		"itemId": 2971,
+		"itemId": "2971",
 		"tags": []
 	},
 	"dmhk-vt-93": {
@@ -926,7 +926,7 @@
 			"pt": "nudista"
 		},
 		"type": "victim",
-		"itemId": 2977,
+		"itemId": "2977",
 		"tags": []
 	},
 	"dmhk-vt-94": {
@@ -936,7 +936,7 @@
 			"pt": "cigana"
 		},
 		"type": "victim",
-		"itemId": 2976,
+		"itemId": "2976",
 		"tags": []
 	},
 	"dmhk-vt-95": {
@@ -946,7 +946,7 @@
 			"pt": "coach"
 		},
 		"type": "victim",
-		"itemId": 2973,
+		"itemId": "2973",
 		"tags": []
 	},
 	"dmhk-vt-96": {
@@ -956,17 +956,17 @@
 			"pt": "viciado"
 		},
 		"type": "victim",
-		"itemId": 2972,
+		"itemId": "2972",
 		"tags": []
 	},
 	"dmhk-vt-97": {
 		"id": "dmhk-vt-97",
 		"name": {
-			"en": "obssessed ex",
+			"en": "obsessed ex",
 			"pt": "ex-namorada louca"
 		},
 		"type": "victim",
-		"itemId": 2974,
+		"itemId": "2974",
 		"tags": []
 	},
 	"dmhk-vt-98": {
@@ -976,7 +976,7 @@
 			"pt": "tarado nojento"
 		},
 		"type": "victim",
-		"itemId": 2977,
+		"itemId": "2977",
 		"tags": []
 	},
 	"dmhk-vt-99": {
@@ -986,7 +986,7 @@
 			"pt": "avó"
 		},
 		"type": "victim",
-		"itemId": 2096,
+		"itemId": "2096",
 		"tags": []
 	},
 	"dmhk-vt-100": {
@@ -996,7 +996,7 @@
 			"pt": "avô"
 		},
 		"type": "victim",
-		"itemId": 2097,
+		"itemId": "2097",
 		"tags": []
 	},
 	"dmhk-vt-101": {
@@ -1006,7 +1006,7 @@
 			"pt": "cara careca"
 		},
 		"type": "victim",
-		"itemId": 2073,
+		"itemId": "2073",
 		"tags": []
 	},
 	"dmhk-vt-102": {
@@ -1016,7 +1016,7 @@
 			"pt": "arruaceiro"
 		},
 		"type": "victim",
-		"itemId": 2983,
+		"itemId": "2983",
 		"tags": []
 	},
 	"dmhk-vt-103": {
@@ -1026,7 +1026,7 @@
 			"pt": "cantor(a) de restaurante"
 		},
 		"type": "victim",
-		"itemId": 2982,
+		"itemId": "2982",
 		"tags": []
 	},
 	"dmhk-vt-104": {
@@ -1036,7 +1036,7 @@
 			"pt": "artista"
 		},
 		"type": "victim",
-		"itemId": 2984,
+		"itemId": "2984",
 		"tags": []
 	},
 	"dmhk-vt-105": {
@@ -1046,7 +1046,7 @@
 			"pt": "gordo"
 		},
 		"type": "victim",
-		"itemId": 2985,
+		"itemId": "2985",
 		"tags": []
 	}
 }
