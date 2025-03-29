@@ -13305,6 +13305,9 @@
       "en": "earth",
       "pt": "planeta terra"
     },
+    "aliasesPt": [
+      "Terra"
+    ],
     "decks": [
       "dream"
     ]
@@ -26399,9 +26402,15 @@
   "2162": {
     "id": "2162",
     "name": {
-      "en": "aerobics",
-      "pt": "aeróbica"
+      "en": "fitness instructor",
+      "pt": "professora de ginástica"
     },
+    "aliasesEn": [
+      "aerobics"
+    ],
+    "aliasesPt": [
+      "aeróbica"
+    ],
     "decks": [
       "dream",
       "suspect"
@@ -30757,7 +30766,7 @@
   "2539": {
     "id": "2539",
     "name": {
-      "en": "macumba",
+      "en": "voodoo offering",
       "pt": "macumba"
     },
     "aliasesEn": [
@@ -31169,7 +31178,8 @@
       "pt": "propaganda humana"
     },
     "decks": [
-      "alien"
+      "alien",
+      "suspect"
     ]
   },
   "2574": {
@@ -31187,6 +31197,7 @@
     "decks": [
       "alien",
       "dream",
+      "suspect",
       "thing"
     ]
   },
@@ -33545,6 +33556,7 @@
     "decks": [
       "alien",
       "dream",
+      "suspect",
       "thing"
     ],
     "groups": []
