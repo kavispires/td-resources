@@ -37273,5 +37273,205 @@
       "suspect"
     ],
     "groups": []
+  },
+  "3020": {
+    "id": "3020",
+    "name": {
+      "en": "work-life balance",
+      "pt": "equilíbrio profissional"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3021": {
+    "id": "3021",
+    "name": {
+      "en": "lives",
+      "pt": "vidas"
+    },
+    "aliasesEn": [
+      "life"
+    ],
+    "aliasesPt": [
+      "vida"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3022": {
+    "id": "3022",
+    "name": {
+      "en": "raffle",
+      "pt": "rifa"
+    },
+    "aliasesPt": [
+      "sorteio"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3023": {
+    "id": "3023",
+    "name": {
+      "en": "wheelchair person",
+      "pt": "cadeirante"
+    },
+    "aliasesPt": [
+      "deficiente"
+    ],
+    "decks": [
+      "alien",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "3024": {
+    "id": "3024",
+    "name": {
+      "en": "deaf",
+      "pt": "surda"
+    },
+    "aliasesEn": [
+      "deaf person"
+    ],
+    "aliasesPt": [
+      "surdo"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "3025": {
+    "id": "3025",
+    "name": {
+      "en": "mute",
+      "pt": "mudo"
+    },
+    "aliasesEn": [
+      "mute person"
+    ],
+    "aliasesPt": [
+      "pessoa muda"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "3026": {
+    "id": "3026",
+    "name": {
+      "en": "tactile paving",
+      "pt": "piso tátil"
+    },
+    "decks": [
+      "alien",
+      "manufactured",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3027": {
+    "id": "3027",
+    "name": {
+      "en": "wheelchair van",
+      "pt": "van acessível"
+    },
+    "aliasesPt": [
+      "van de cadeirante"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "3028": {
+    "id": "3028",
+    "name": {
+      "en": "mentally challenged",
+      "pt": "deficiente mental"
+    },
+    "decks": [
+      "alien",
+      "meta",
+      "suspect"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "3029": {
+    "id": "3029",
+    "name": {
+      "en": "service dog",
+      "pt": "cão guia"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "3030": {
+    "id": "3030",
+    "name": {
+      "en": "autistic person",
+      "pt": "autista"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "meta"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "3031": {
+    "id": "3031",
+    "name": {
+      "en": "escort",
+      "pt": "acompanhante"
+    },
+    "aliasesEn": [
+      "call girl",
+      "prostitute"
+    ],
+    "aliasesPt": [
+      "garota de programa",
+      "prostituta"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "3032": {
+    "id": "3032",
+    "name": {
+      "en": "mafia boss",
+      "pt": "chefe da máfia"
+    },
+    "decks": [
+      "alien",
+      "meta",
+      "suspect"
+    ],
+    "groups": []
   }
 }
