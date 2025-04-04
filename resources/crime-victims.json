@@ -326,7 +326,7 @@
 			"pt": "chefe da máfia"
 		},
 		"type": "victim",
-		"itemId": "1608",
+		"itemId": "3032",
 		"tags": []
 	},
 	"dmhk-vt-34": {
@@ -1047,6 +1047,56 @@
 		},
 		"type": "victim",
 		"itemId": "2985",
+		"tags": []
+	},
+	"dmhk-vt-106": {
+		"id": "dmhk-vt-106",
+		"name": {
+			"en": "mute man",
+			"pt": "mudo"
+		},
+		"type": "victim",
+		"itemId": "3025",
+		"tags": []
+	},
+	"dmhk-vt-107": {
+		"id": "dmhk-vt-107",
+		"name": {
+			"en": "deaf woman",
+			"pt": "surda"
+		},
+		"type": "victim",
+		"itemId": "3024",
+		"tags": []
+	},
+	"dmhk-vt-108": {
+		"id": "dmhk-vt-108",
+		"name": {
+			"en": "wheelchair guy",
+			"pt": "cadeirante"
+		},
+		"type": "victim",
+		"itemId": "3023",
+		"tags": []
+	},
+	"dmhk-vt-109": {
+		"id": "dmhk-vt-109",
+		"name": {
+			"en": "escort",
+			"pt": "acompanhante"
+		},
+		"type": "victim",
+		"itemId": "3031",
+		"tags": []
+	},
+	"dmhk-vt-110": {
+		"id": "dmhk-vt-110",
+		"name": {
+			"en": "autistic guy",
+			"pt": "autista"
+		},
+		"type": "victim",
+		"itemId": "3030",
 		"tags": []
 	}
 }
