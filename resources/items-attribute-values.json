@@ -40672,6 +40672,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -40685,7 +40686,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "611": {
     "id": "611",
@@ -40888,6 +40889,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -40901,7 +40903,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "615": {
     "id": "615",
@@ -41118,6 +41120,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -41129,7 +41132,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "619": {
     "id": "619",
@@ -41444,9 +41447,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": 10,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": 5,
       "tec": -3,
@@ -41459,7 +41464,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740617169
+    "updatedAt": 1744392262513
   },
   "625": {
     "id": "625",
@@ -41779,6 +41784,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -41790,7 +41796,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "631": {
     "id": "631",
@@ -42086,6 +42092,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 5,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -42097,7 +42104,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "636": {
     "id": "636",
@@ -42348,6 +42355,7 @@
       "pow": -3,
       "rou": 10,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -42361,7 +42369,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "641": {
     "id": "641",
@@ -42404,6 +42412,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -42416,7 +42425,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "642": {
     "id": "642",
@@ -44307,27 +44316,38 @@
       "fli": -3,
       "foo": -3,
       "fra": -3,
+      "gra": -1,
+      "har": -3,
       "hea": -3,
+      "hei": -10,
+      "hol": -1,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": 5,
       "rou": 10,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
       "tec": 10,
+      "too": -1,
       "toy": -3,
       "tra": -1,
       "val": -3,
@@ -44336,7 +44356,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "complete": true,
+    "reliability": 87,
+    "score": 50,
+    "signature": "~tra~too~ins~met~fla~gra~hol!acc!ali!bea!big!bri!bui!clo!col!con!cul!dan!def!fli!foo!fra!har!hea!hum!kno!liq!loc!lon!mul!myt!nat!new!odo!old!par!per!pla!sha!sma!sof!tab!toy!val!war!wea!woo!wri",
+    "updatedAt": 1743983199920
   },
   "675": {
     "id": "675",
@@ -44684,6 +44708,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -44696,7 +44721,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "681": {
     "id": "681",
@@ -44922,6 +44947,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -44935,7 +44961,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "685": {
     "id": "685",
@@ -45026,6 +45052,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -45038,7 +45065,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "687": {
     "id": "687",
@@ -45141,9 +45168,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -45156,7 +45185,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733361333
+    "updatedAt": 1744392262513
   },
   "689": {
     "id": "689",
@@ -45199,6 +45228,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 5,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -45210,7 +45240,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "690": {
     "id": "690",
@@ -45386,6 +45416,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -45399,7 +45430,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "693": {
     "id": "693",
@@ -45688,9 +45719,11 @@
       "par": -3,
       "per": -1,
       "pla": -3,
+      "pls": 5,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -45702,7 +45735,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740517950
+    "updatedAt": 1744392262513
   },
   "698": {
     "id": "698",
@@ -46440,19 +46473,28 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
+      "hea": 5,
+      "hei": -1,
+      "hol": -1,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -1,
+      "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": 5,
       "rou": -3,
       "sha": -3,
@@ -46470,7 +46512,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "complete": true,
+    "reliability": 92,
+    "score": 45,
+    "signature": "~mac~but~hei~hol!acc!ali!bea!bri!bui!clo!col!con!cul!dan!def!fla!fli!foo!fra!gra!har!hum!ins!kno!liq!loc!mul!myt!nat!new!odo!old!par!per!pla!pls!rou!sha!sma!sof!tab!tec!too!toy!val!war!wea!woo!wri",
+    "updatedAt": 1743983218532
   },
   "712": {
     "id": "712",
@@ -46983,6 +47029,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -46996,7 +47043,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "722": {
     "id": "722",
@@ -47290,6 +47337,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -47301,7 +47349,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "728": {
     "id": "728",
@@ -48063,6 +48111,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -48076,7 +48125,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "742": {
     "id": "742",
@@ -51384,6 +51433,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -51396,7 +51446,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "799": {
     "id": "799",
@@ -51420,7 +51470,10 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -3,
       "hum": -3,
       "ins": -1,
       "kno": 5,
@@ -51432,14 +51485,17 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 5,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -51453,7 +51509,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740634299
+    "complete": true,
+    "reliability": 89,
+    "score": 50,
+    "signature": "~tec~mac~rou~pls~ins~acc!ali!bea!big!bui!but!clo!col!con!cul!fas!fla!fli!foo!fra!gra!har!hea!hei!hol!hum!liq!loc!lon!met!mul!myt!nat!new!odo!old!par!per!pla!sha!sma!sof!tab!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392370171
   },
   "800": {
     "id": "800",
@@ -51549,6 +51609,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -51561,7 +51622,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "802": {
     "id": "802",
@@ -51654,6 +51715,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -51666,7 +51728,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "804": {
     "id": "804",
@@ -51809,6 +51871,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -51821,7 +51884,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "807": {
     "id": "807",
@@ -52063,6 +52126,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -52075,7 +52139,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "812": {
     "id": "812",
@@ -52556,6 +52620,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -52569,7 +52634,7 @@
       "woo": -1,
       "wri": 10
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "820": {
     "id": "820",
@@ -52742,6 +52807,7 @@
   "823": {
     "id": "823",
     "attributes": {
+      "acc": -1,
       "ali": -3,
       "bea": -3,
       "big": -3,
@@ -52760,8 +52826,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -1,
+      "hei": -3,
+      "hol": 5,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -52777,9 +52847,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -10,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -52793,7 +52865,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740681413
+    "complete": true,
+    "reliability": 89,
+    "score": 10,
+    "signature": "~def~pls~ins~acc~odo~hea!ali!bea!big!bri!bui!but!clo!col!cul!dan!fas!fla!fli!foo!fra!gra!har!hei!hum!kno!liq!loc!lon!mac!met!mul!myt!nat!new!old!par!per!pla!pow!rou!sma!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392402437
   },
   "824": {
     "id": "824",
@@ -52922,8 +52998,12 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": 5,
       "loc": -3,
@@ -52943,6 +53023,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -52956,7 +53037,11 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740691327
+    "complete": true,
+    "reliability": 91,
+    "score": 45,
+    "signature": "~war~ins~lon~wri~hol!acc!ali!bea!big!bui!but!clo!cul!dan!fas!fla!fli!foo!fra!har!hea!hei!hum!kno!loc!mac!met!mul!myt!nat!new!old!par!per!pla!pow!rou!sha!sma!sou!tab!tec!too!toy!tra!val!wea!woo",
+    "updatedAt": 1744213680919
   },
   "827": {
     "id": "827",
@@ -53414,6 +53499,7 @@
   "835": {
     "id": "835",
     "attributes": {
+      "acc": -1,
       "ali": -3,
       "bea": -3,
       "big": -3,
@@ -53434,8 +53520,10 @@
       "gra": 5,
       "har": -3,
       "hea": -3,
+      "hei": -1,
       "hol": -3,
       "hum": -3,
+      "ins": -1,
       "kno": 5,
       "liq": -3,
       "loc": -3,
@@ -53445,6 +53533,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -53454,6 +53543,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -53467,7 +53557,11 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743307986551
+    "complete": true,
+    "reliability": 92,
+    "score": 35,
+    "signature": "~pls~ins~acc~hei!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fli!fra!har!hea!hol!hum!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo",
+    "updatedAt": 1744302614079
   },
   "836": {
     "id": "836",
@@ -53974,6 +54068,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -53986,7 +54081,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "846": {
     "id": "846",
@@ -54008,24 +54103,34 @@
       "fla": -3,
       "fli": -3,
       "foo": -3,
+      "fra": -3,
       "gra": 5,
+      "har": -1,
       "hea": -3,
+      "hei": -3,
+      "hol": 5,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": 10,
       "met": 10,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": 5,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -54039,7 +54144,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "complete": true,
+    "reliability": 92,
+    "score": 65,
+    "signature": "~ins~acc~but~har!ali!bea!big!bri!bui!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!hea!hei!hum!kno!liq!loc!mul!myt!nat!new!odo!old!par!per!pla!pls!rou!sma!sof!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1743983244614
   },
   "847": {
     "id": "847",
@@ -54127,6 +54236,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 10,
       "sou": 10,
       "tab": -3,
       "tec": -3,
@@ -54138,7 +54248,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "849": {
     "id": "849",
@@ -54181,6 +54291,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -54194,7 +54305,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "850": {
     "id": "850",
@@ -54231,6 +54342,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -54243,7 +54355,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "851": {
     "id": "851",
@@ -54383,9 +54495,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -10,
       "sou": -1,
       "tab": -3,
@@ -54398,7 +54512,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743739980804
+    "updatedAt": 1744392262513
   },
   "854": {
     "id": "854",
@@ -54665,6 +54779,7 @@
       "pow": 5,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -54678,7 +54793,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "859": {
     "id": "859",
@@ -55390,6 +55505,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -55402,7 +55518,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "871": {
     "id": "871",
@@ -55424,28 +55540,39 @@
       "fla": -3,
       "fli": -3,
       "foo": -3,
+      "fra": -1,
       "gra": -3,
+      "har": -3,
       "hea": -3,
+      "hei": -1,
+      "hol": -1,
       "hum": -1,
+      "ins": 10,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -3,
       "met": 10,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
+      "per": 5,
       "pla": -3,
       "pls": 5,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
       "tec": -3,
+      "too": -3,
       "toy": -3,
       "tra": -1,
       "val": -3,
@@ -55454,7 +55581,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "complete": true,
+    "reliability": 84,
+    "score": 45,
+    "signature": "~clo~hum~sou~tra~fas~but~hei~hol~fra!ali!bea!big!bri!bui!col!con!cul!dan!def!fla!fli!foo!gra!har!hea!kno!liq!loc!mac!mul!myt!nat!new!odo!old!par!pla!pow!rou!sha!sma!sof!tab!tec!too!toy!val!war!wea!woo!wri",
+    "updatedAt": 1743983261511
   },
   "872": {
     "id": "872",
@@ -55595,6 +55726,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -55608,7 +55740,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "875": {
     "id": "875",
@@ -55649,6 +55781,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -55660,7 +55793,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "876": {
     "id": "876",
@@ -55900,6 +56033,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 5,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -55911,7 +56045,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "881": {
     "id": "881",
@@ -56221,6 +56355,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -56233,7 +56368,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "887": {
     "id": "887",
@@ -56271,6 +56406,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -56284,7 +56420,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "888": {
     "id": "888",
@@ -56375,6 +56511,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -56387,7 +56524,7 @@
       "woo": -1,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "890": {
     "id": "890",
@@ -56556,9 +56693,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -56572,7 +56711,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392262513
   },
   "893": {
     "id": "893",
@@ -56612,9 +56751,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -56628,7 +56769,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740638232
+    "updatedAt": 1744392262513
   },
   "894": {
     "id": "894",
@@ -56662,9 +56803,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": 5,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -56678,7 +56821,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392262513
   },
   "895": {
     "id": "895",
@@ -56712,9 +56855,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -56728,7 +56873,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "896": {
     "id": "896",
@@ -56821,6 +56966,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -56833,7 +56979,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "898": {
     "id": "898",
@@ -57199,6 +57345,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -57211,7 +57358,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "905": {
     "id": "905",
@@ -57790,6 +57937,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -57801,7 +57949,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "916": {
     "id": "916",
@@ -57841,6 +57989,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -57853,7 +58002,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "917": {
     "id": "917",
@@ -58590,6 +58739,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -58602,7 +58752,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "932": {
     "id": "932",
@@ -59287,6 +59437,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": 10,
       "tab": -3,
@@ -59299,7 +59450,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "945": {
     "id": "945",
@@ -59843,6 +59994,7 @@
   "954": {
     "id": "954",
     "attributes": {
+      "acc": -3,
       "ali": -3,
       "bea": -3,
       "big": -3,
@@ -59859,22 +60011,34 @@
       "fla": -3,
       "fli": -3,
       "foo": -3,
+      "fra": -3,
       "gra": -3,
+      "har": -3,
+      "hea": 5,
+      "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": 5,
       "loc": -3,
+      "lon": -3,
       "mac": 5,
       "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
+      "per": -1,
       "pla": -3,
+      "pls": 5,
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -59888,7 +60052,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "complete": true,
+    "reliability": 89,
+    "score": 40,
+    "signature": "~pow~ins~but~met~sma~per!acc!ali!bea!big!bri!bui!clo!col!con!cul!dan!def!fla!fli!foo!fra!gra!har!hei!hol!hum!kno!loc!lon!mul!myt!nat!new!odo!old!par!pla!rou!sha!sof!tab!tec!too!toy!val!war!wea!woo!wri",
+    "updatedAt": 1743983284252
   },
   "955": {
     "id": "955",
@@ -61038,9 +61206,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": 10,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -61054,7 +61224,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740525584
+    "updatedAt": 1744392262513
   },
   "975": {
     "id": "975",
@@ -61438,6 +61608,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -61450,7 +61621,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391902358
   },
   "982": {
     "id": "982",
@@ -61741,6 +61912,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -61753,7 +61925,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "988": {
     "id": "988",
@@ -62008,6 +62180,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -62020,7 +62193,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392138484
   },
   "993": {
     "id": "993",
@@ -62061,6 +62234,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -62073,7 +62247,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744391968544
   },
   "994": {
     "id": "994",
@@ -62616,9 +62790,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -62632,7 +62808,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "1005": {
     "id": "1005",
@@ -62716,9 +62892,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": 10,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -62732,7 +62910,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740517950
+    "updatedAt": 1744392262513
   },
   "1007": {
     "id": "1007",
@@ -62819,9 +62997,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -62834,7 +63014,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392262513
   },
   "1009": {
     "id": "1009",
@@ -63238,9 +63418,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -63253,7 +63435,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392262513
   },
   "1016": {
     "id": "1016",
@@ -63629,6 +63811,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -63642,7 +63825,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1023": {
     "id": "1023",
@@ -63682,9 +63865,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -63698,7 +63883,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740662179
+    "updatedAt": 1744392262513
   },
   "1024": {
     "id": "1024",
@@ -63737,9 +63922,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -1,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -63753,7 +63940,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740509294
+    "updatedAt": 1744392262513
   },
   "1025": {
     "id": "1025",
@@ -63859,6 +64046,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -63871,7 +64059,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1027": {
     "id": "1027",
@@ -64093,9 +64281,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -64108,7 +64298,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392262513
   },
   "1031": {
     "id": "1031",
@@ -64306,9 +64496,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -64322,7 +64514,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "1035": {
     "id": "1035",
@@ -65116,6 +65308,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -65129,7 +65322,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1081": {
     "id": "1081",
@@ -65237,6 +65430,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -65250,7 +65444,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "1083": {
     "id": "1083",
@@ -65337,9 +65531,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -65352,7 +65548,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743733361333
+    "updatedAt": 1744392262513
   },
   "1085": {
     "id": "1085",
@@ -65452,9 +65648,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -65467,7 +65665,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743740641662
+    "updatedAt": 1744392262513
   },
   "1087": {
     "id": "1087",
@@ -65851,9 +66049,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": 5,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -65866,7 +66066,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740638232
+    "updatedAt": 1744392262513
   },
   "1095": {
     "id": "1095",
@@ -66106,6 +66306,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -66118,7 +66319,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392138484
   },
   "1100": {
     "id": "1100",
@@ -66310,6 +66511,7 @@
       "pow": -10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -66323,7 +66525,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1107": {
     "id": "1107",
@@ -66358,9 +66560,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -66374,7 +66578,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740457576
+    "updatedAt": 1744392262513
   },
   "1108": {
     "id": "1108",
@@ -66710,9 +66914,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": 10,
       "tec": -3,
@@ -66725,7 +66931,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392262513
   },
   "1120": {
     "id": "1120",
@@ -66760,9 +66966,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -66775,7 +66983,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743740641662
+    "updatedAt": 1744392262513
   },
   "1122": {
     "id": "1122",
@@ -67083,9 +67291,14 @@
       "fla": -3,
       "fli": -3,
       "foo": -3,
+      "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
+      "hei": -1,
+      "hol": -1,
       "hum": -3,
+      "ins": 10,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -67095,16 +67308,22 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
+      "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 5,
       "sof": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
+      "too": -1,
       "toy": -3,
       "tra": -3,
       "val": -3,
@@ -67113,7 +67332,11 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743740457576
+    "complete": true,
+    "reliability": 89,
+    "score": 25,
+    "signature": "~pls~too~hei~woo~met~hol!acc!ali!bea!big!bri!bui!but!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hum!kno!liq!loc!lon!mac!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sha!sof!sou!tab!tec!toy!tra!val!war!wea!wri",
+    "updatedAt": 1744392138484
   },
   "1128": {
     "id": "1128",
@@ -67135,8 +67358,14 @@
       "fla": -1,
       "fli": -3,
       "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -67146,12 +67375,18 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -1,
+      "odo": -1,
       "old": -3,
       "par": -3,
+      "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
+      "sof": 5,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -67164,7 +67399,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1741838283162
+    "complete": true,
+    "reliability": 91,
+    "score": 15,
+    "signature": "~ins~odo~new~fla~gra!acc!ali!bea!big!bri!bui!but!col!con!cul!dan!def!fas!fli!foo!fra!har!hea!hei!hol!hum!kno!liq!loc!mac!met!mul!myt!nat!old!par!per!pla!pls!pow!rou!sha!sma!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392295813
   },
   "1129": {
     "id": "1129",
@@ -67528,6 +67767,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -67540,7 +67780,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "1136": {
     "id": "1136",
@@ -67734,9 +67974,11 @@
       "par": -3,
       "per": 5,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -67748,7 +67990,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392262513
   },
   "1140": {
     "id": "1140",
@@ -67838,6 +68080,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -67850,7 +68093,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392138484
   },
   "1142": {
     "id": "1142",
@@ -68212,9 +68455,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": 10,
       "sha": -10,
+      "sma": 5,
       "sof": 10,
       "sou": -3,
       "tab": -3,
@@ -68228,7 +68473,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740525584
+    "updatedAt": 1744392262513
   },
   "1149": {
     "id": "1149",
@@ -68479,9 +68724,11 @@
       "old": 5,
       "par": -3,
       "pla": -3,
+      "pls": 5,
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -68494,7 +68741,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743733409674
+    "updatedAt": 1744392262513
   },
   "1154": {
     "id": "1154",
@@ -68787,6 +69034,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -68800,7 +69048,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733384901
+    "updatedAt": 1744392138484
   },
   "1163": {
     "id": "1163",
@@ -69039,6 +69287,7 @@
   "1170": {
     "id": "1170",
     "attributes": {
+      "acc": -1,
       "ali": -3,
       "bea": -3,
       "big": -3,
@@ -69057,8 +69306,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": 5,
       "hea": -3,
+      "hei": -3,
+      "hol": 10,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -69074,9 +69327,11 @@
       "par": 5,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -69090,7 +69345,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740530289
+    "complete": true,
+    "reliability": 94,
+    "score": 45,
+    "signature": "~too~acc~sma!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!hea!hei!hum!kno!liq!loc!lon!mul!myt!nat!new!odo!old!per!pla!pls!pow!sha!sof!sou!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392424699
   },
   "1171": {
     "id": "1171",
@@ -69510,6 +69769,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -69523,7 +69783,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1178": {
     "id": "1178",
@@ -69938,6 +70198,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": 10,
       "tab": -3,
       "tec": -3,
@@ -69949,7 +70210,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1186": {
     "id": "1186",
@@ -70290,6 +70551,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -70303,7 +70565,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392138484
   },
   "1193": {
     "id": "1193",
@@ -70573,9 +70835,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -70587,7 +70851,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392262513
   },
   "1198": {
     "id": "1198",
@@ -71863,9 +72127,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -71879,7 +72145,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "1223": {
     "id": "1223",
@@ -72438,6 +72704,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -72451,7 +72718,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1236": {
     "id": "1236",
@@ -72880,9 +73147,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -72896,7 +73165,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743739991796
+    "updatedAt": 1744392262513
   },
   "1244": {
     "id": "1244",
@@ -73072,6 +73341,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -73085,7 +73355,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1247": {
     "id": "1247",
@@ -73448,7 +73718,10 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": 5,
       "hum": -3,
       "ins": -3,
       "kno": 5,
@@ -73466,9 +73739,11 @@
       "par": -1,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": 10,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -73482,7 +73757,11 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743262968789
+    "complete": true,
+    "reliability": 92,
+    "score": 45,
+    "signature": "~rou~acc~fla~par!ali!bea!big!bri!bui!but!col!con!cul!dan!def!fas!fli!foo!fra!gra!har!hea!hei!hum!ins!liq!loc!lon!mac!met!mul!myt!nat!odo!old!per!pla!pls!pow!sha!sof!sou!tab!tec!too!toy!tra!war!wea!woo",
+    "updatedAt": 1744302623418
   },
   "1255": {
     "id": "1255",
@@ -73892,6 +74171,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -73904,7 +74184,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392138484
   },
   "1263": {
     "id": "1263",
@@ -74175,6 +74455,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -74187,7 +74468,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1269": {
     "id": "1269",
@@ -74541,6 +74822,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -74553,7 +74835,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1276": {
     "id": "1276",
@@ -75231,9 +75513,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -75247,7 +75531,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740551711
+    "updatedAt": 1744392262513
   },
   "1292": {
     "id": "1292",
@@ -75908,6 +76192,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -75920,7 +76205,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1305": {
     "id": "1305",
@@ -76143,9 +76428,12 @@
       "fla": -3,
       "fli": -3,
       "foo": 10,
+      "fra": -3,
       "gra": -3,
       "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -3,
       "hum": -3,
       "ins": -3,
       "kno": -3,
@@ -76157,14 +76445,17 @@
       "mul": -3,
       "myt": -3,
       "nat": 5,
+      "new": -3,
       "odo": 10,
       "old": -3,
       "par": -3,
+      "per": -3,
       "pla": 10,
       "pls": -3,
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -76178,7 +76469,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "complete": true,
+    "reliability": 98,
+    "score": 35,
+    "signature": "~ali!acc!bea!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!new!old!par!per!pls!pow!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392430714
   },
   "1309": {
     "id": "1309",
@@ -77476,7 +77771,10 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -3,
       "hea": -3,
+      "hei": 5,
+      "hol": 5,
       "hum": -3,
       "ins": -1,
       "kno": -3,
@@ -77494,9 +77792,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -77510,7 +77810,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1742957981251
+    "complete": true,
+    "reliability": 87,
+    "score": 25,
+    "signature": "~fli~ali~dan~loc~ins~lon~gra!acc!bea!big!bri!bui!but!clo!col!con!cul!def!fas!fla!foo!fra!har!hea!hum!kno!liq!mac!met!mul!myt!nat!new!odo!par!per!pla!pls!pow!rou!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!wri",
+    "updatedAt": 1744302633508
   },
   "1339": {
     "id": "1339",
@@ -77590,8 +77894,12 @@
       "foo": -3,
       "fra": -1,
       "gra": 5,
+      "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": 5,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -77601,14 +77909,17 @@
       "mul": 5,
       "myt": -3,
       "nat": -3,
+      "new": 5,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -77622,7 +77933,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740520924
+    "complete": true,
+    "reliability": 94,
+    "score": 45,
+    "signature": "~pls~sof~fra!acc!ali!bea!big!bri!bui!but!clo!col!cul!dan!fas!fla!fli!foo!har!hea!hei!hum!kno!liq!loc!lon!mac!met!myt!nat!odo!old!par!per!pla!pow!rou!sha!sma!sou!tab!tec!too!toy!tra!war!wea!woo!wri",
+    "updatedAt": 1744392593356
   },
   "1341": {
     "id": "1341",
@@ -77769,6 +78084,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -77781,7 +78097,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1344": {
     "id": "1344",
@@ -78041,9 +78357,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": 10,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 5,
       "sof": 10,
       "sou": -3,
       "tab": -3,
@@ -78056,7 +78374,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740284882
+    "updatedAt": 1744392262513
   },
   "1350": {
     "id": "1350",
@@ -78131,8 +78449,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": 10,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -78142,14 +78464,17 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -1,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -78163,7 +78488,11 @@
       "woo": -1,
       "wri": -1
     },
-    "updatedAt": 1743740627339
+    "complete": true,
+    "reliability": 87,
+    "score": 45,
+    "signature": "~tec~pls~too~acc~woo~wri~par!ali!bea!big!bri!bui!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hum!kno!liq!loc!lon!mul!myt!nat!new!odo!old!per!pla!rou!sha!sma!sof!tab!toy!tra!val!war!wea",
+    "updatedAt": 1744392603961
   },
   "1352": {
     "id": "1352",
@@ -78354,6 +78683,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -78366,7 +78696,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1356": {
     "id": "1356",
@@ -78781,9 +79111,11 @@
       "par": 5,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -78796,7 +79128,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743739980804
+    "updatedAt": 1744392262513
   },
   "1364": {
     "id": "1364",
@@ -79054,9 +79386,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -79070,7 +79404,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392262513
   },
   "1370": {
     "id": "1370",
@@ -79299,9 +79633,12 @@
       "fla": -3,
       "fli": -3,
       "foo": -3,
+      "fra": -10,
       "gra": -3,
       "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -1,
       "hum": 10,
       "ins": -3,
       "kno": -3,
@@ -79314,6 +79651,7 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -79322,6 +79660,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 10,
@@ -79335,7 +79674,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733361333
+    "complete": true,
+    "reliability": 91,
+    "score": 30,
+    "signature": "~wea~pow~sou~but~hol!acc!bea!big!bri!bui!clo!col!con!cul!fas!fla!fli!foo!gra!har!hea!hei!ins!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!rou!sha!sma!sof!tec!too!toy!tra!val!war!woo!wri",
+    "updatedAt": 1744392378691
   },
   "1376": {
     "id": "1376",
@@ -79772,6 +80115,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -1,
@@ -79785,7 +80129,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1384": {
     "id": "1384",
@@ -80164,9 +80508,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 10,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -80179,7 +80525,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743740214709
+    "updatedAt": 1744392262513
   },
   "1394": {
     "id": "1394",
@@ -81156,9 +81502,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -81170,7 +81518,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740457554
+    "updatedAt": 1744392262513
   },
   "1428": {
     "id": "1428",
@@ -81325,9 +81673,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -81341,7 +81691,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740551711
+    "updatedAt": 1744392262513
   },
   "1431": {
     "id": "1431",
@@ -81584,9 +81934,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -81599,7 +81951,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740509294
+    "updatedAt": 1744392262513
   },
   "1436": {
     "id": "1436",
@@ -81634,9 +81986,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -81649,7 +82003,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743740691305
+    "updatedAt": 1744392262513
   },
   "1437": {
     "id": "1437",
@@ -81688,9 +82042,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -81703,7 +82059,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392262513
   },
   "1438": {
     "id": "1438",
@@ -82157,9 +82513,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": 5,
       "tab": -3,
       "tec": -3,
@@ -82172,7 +82530,7 @@
       "woo": 5,
       "wri": -1
     },
-    "updatedAt": 1743740625342
+    "updatedAt": 1744392262513
   },
   "1446": {
     "id": "1446",
@@ -82849,6 +83207,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -82861,7 +83220,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1459": {
     "id": "1459",
@@ -83430,6 +83789,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -83442,7 +83802,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740520924
+    "updatedAt": 1744392042877
   },
   "1470": {
     "id": "1470",
@@ -83628,9 +83988,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -83643,7 +84005,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743733434221
+    "updatedAt": 1744392262513
   },
   "1474": {
     "id": "1474",
@@ -83890,6 +84252,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -83902,7 +84265,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1480": {
     "id": "1480",
@@ -84788,6 +85151,7 @@
   "1496": {
     "id": "1496",
     "attributes": {
+      "acc": 5,
       "ali": -3,
       "bea": -3,
       "big": -3,
@@ -84809,7 +85173,9 @@
       "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -84819,14 +85185,17 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -84840,7 +85209,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740525584
+    "complete": true,
+    "reliability": 92,
+    "score": 30,
+    "signature": "~mac~too~met~hol!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hum!kno!liq!loc!mul!myt!nat!new!odo!old!par!per!pla!rou!sha!sma!sof!sou!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392387946
   },
   "1497": {
     "id": "1497",
@@ -85889,9 +86262,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -85905,7 +86280,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733384901
+    "updatedAt": 1744392262513
   },
   "1528": {
     "id": "1528",
@@ -86309,9 +86684,11 @@
       "fla": -3,
       "fli": -3,
       "foo": 10,
+      "fra": -3,
       "gra": -3,
       "har": -3,
       "hea": -3,
+      "hei": -3,
       "hol": -3,
       "hum": -3,
       "ins": -3,
@@ -86324,6 +86701,8 @@
       "mul": -3,
       "myt": -3,
       "nat": 5,
+      "new": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -86332,6 +86711,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -86345,7 +86725,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "complete": true,
+    "reliability": 94,
+    "score": 25,
+    "signature": "~ali~rou~odo!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!new!old!par!per!pls!pow!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392392694
   },
   "1536": {
     "id": "1536",
@@ -86761,9 +87145,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -86775,7 +87161,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743740460414
+    "updatedAt": 1744392262513
   },
   "1544": {
     "id": "1544",
@@ -86937,6 +87323,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -86948,7 +87335,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743740532822
+    "updatedAt": 1744392042877
   },
   "1548": {
     "id": "1548",
@@ -87407,9 +87794,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -87423,7 +87812,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743740473935
+    "updatedAt": 1744392262513
   },
   "1559": {
     "id": "1559",
@@ -88338,6 +88727,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -88350,7 +88740,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1577": {
     "id": "1577",
@@ -88374,9 +88764,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
       "hei": -1,
+      "hol": 10,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": 10,
@@ -88386,11 +88779,13 @@
       "mul": -10,
       "myt": -3,
       "nat": -3,
+      "new": -10,
       "odo": -3,
       "old": 10,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
@@ -88408,7 +88803,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743263088361
+    "complete": true,
+    "reliability": 98,
+    "score": 50,
+    "signature": "~hei!acc!ali!bri!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hum!ins!kno!liq!lon!mac!met!myt!nat!odo!par!per!pla!pls!pow!rou!sha!sof!sou!tab!tec!too!toy!val!war!wea!woo!wri",
+    "updatedAt": 1744392614147
   },
   "1578": {
     "id": "1578",
@@ -88556,8 +88955,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": 5,
       "kno": 5,
       "liq": -3,
       "loc": -3,
@@ -88577,6 +88980,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": 5,
       "tab": -3,
@@ -88590,7 +88994,11 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743395167633
+    "complete": true,
+    "reliability": 91,
+    "score": 45,
+    "signature": "~tec~too~but~lon~gra!acc!ali!bea!big!bri!bui!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hol!hum!liq!loc!met!mul!myt!nat!new!odo!old!par!per!pla!pls!rou!sha!sma!tab!toy!tra!val!war!wea!woo",
+    "updatedAt": 1744392624106
   },
   "1581": {
     "id": "1581",
@@ -88746,6 +89154,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -88758,7 +89167,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1584": {
     "id": "1584",
@@ -89260,6 +89669,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -89273,7 +89683,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1594": {
     "id": "1594",
@@ -89851,6 +90261,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -89864,7 +90275,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733384901
+    "updatedAt": 1744392138484
   },
   "1604": {
     "id": "1604",
@@ -89906,6 +90317,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -89919,7 +90331,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1607": {
     "id": "1607",
@@ -90018,6 +90430,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -90031,7 +90444,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1610": {
     "id": "1610",
@@ -90287,6 +90700,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -90299,7 +90713,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1615": {
     "id": "1615",
@@ -90339,6 +90753,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -90352,7 +90767,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1617": {
     "id": "1617",
@@ -90880,9 +91295,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -90896,7 +91313,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743733422184
+    "updatedAt": 1744392262513
   },
   "1632": {
     "id": "1632",
@@ -90938,6 +91355,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -90950,7 +91368,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740658479
+    "updatedAt": 1744392042877
   },
   "1633": {
     "id": "1633",
@@ -92632,6 +93050,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -92644,7 +93063,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1667": {
     "id": "1667",
@@ -93098,7 +93517,10 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -1,
       "hum": -3,
       "ins": 10,
       "kno": -3,
@@ -93116,9 +93538,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -93132,7 +93556,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743262749397
+    "complete": true,
+    "reliability": 94,
+    "score": 40,
+    "signature": "~cul~too~hol!acc!ali!bea!big!bri!bui!but!clo!col!con!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hum!kno!liq!loc!mac!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!sha!sma!sof!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392640046
   },
   "1676": {
     "id": "1676",
@@ -93223,9 +93651,11 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 10,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": 10,
@@ -93238,7 +93668,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740450989
+    "updatedAt": 1744392262513
   },
   "1680": {
     "id": "1680",
@@ -93675,10 +94105,14 @@
       "fla": -3,
       "fli": -3,
       "foo": 10,
+      "fra": -3,
       "gra": -3,
       "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": 10,
       "loc": -3,
@@ -93689,6 +94123,7 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": 10,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -93697,6 +94132,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -93710,7 +94146,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743739899097
+    "complete": true,
+    "reliability": 100,
+    "score": 35,
+    "signature": "!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!fra!gra!har!hea!hei!hol!hum!ins!kno!loc!lon!mac!met!mul!myt!nat!new!old!par!per!pla!pls!pow!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392649956
   },
   "1691": {
     "id": "1691",
@@ -94080,6 +94520,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -94092,7 +94533,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "1698": {
     "id": "1698",
@@ -94386,8 +94827,12 @@
       "fla": -3,
       "fli": -3,
       "foo": -3,
+      "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
+      "hei": -1,
+      "hol": -3,
       "hum": -3,
       "ins": -1,
       "kno": -3,
@@ -94400,13 +94845,16 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -94420,7 +94868,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743739966082
+    "complete": true,
+    "reliability": 91,
+    "score": 20,
+    "signature": "~tra~too~ins~acc~hei!ali!bea!big!bri!bui!but!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hol!hum!kno!liq!loc!lon!mac!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sha!sma!sof!sou!tab!tec!toy!val!war!wea!woo!wri",
+    "updatedAt": 1744392656486
   },
   "1705": {
     "id": "1705",
@@ -94463,6 +94915,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -94476,7 +94929,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733384901
+    "updatedAt": 1744392138484
   },
   "1706": {
     "id": "1706",
@@ -94572,6 +95025,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -1,
@@ -94585,7 +95039,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392138484
   },
   "1708": {
     "id": "1708",
@@ -97164,6 +97618,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -97176,7 +97631,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1761": {
     "id": "1761",
@@ -97470,6 +97925,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -97482,7 +97938,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1766": {
     "id": "1766",
@@ -97802,6 +98258,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -97815,7 +98272,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1773": {
     "id": "1773",
@@ -98316,6 +98773,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -98329,7 +98787,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1783": {
     "id": "1783",
@@ -98866,9 +99324,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": 5,
       "tab": -3,
       "tec": -3,
@@ -98880,7 +99340,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392262513
   },
   "1796": {
     "id": "1796",
@@ -99029,6 +99489,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -99042,7 +99503,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733397667
+    "updatedAt": 1744392138484
   },
   "1799": {
     "id": "1799",
@@ -99287,6 +99748,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -99299,7 +99761,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1805": {
     "id": "1805",
@@ -99818,6 +100280,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -99830,7 +100293,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1814": {
     "id": "1814",
@@ -100190,6 +100653,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -100202,7 +100666,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392138484
   },
   "1820": {
     "id": "1820",
@@ -101626,6 +102090,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": 5,
       "sof": 10,
       "sou": -3,
       "tab": -3,
@@ -101639,7 +102104,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "1847": {
     "id": "1847",
@@ -101797,6 +102262,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -101810,7 +102276,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1851": {
     "id": "1851",
@@ -101998,6 +102464,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -102010,7 +102477,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1855": {
     "id": "1855",
@@ -102044,9 +102511,11 @@
       "old": -1,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": 5,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -102060,7 +102529,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "1857": {
     "id": "1857",
@@ -102422,10 +102891,13 @@
       "fli": -3,
       "foo": 10,
       "fra": -3,
+      "gra": 5,
       "har": -3,
+      "hea": -3,
       "hei": -3,
       "hol": 5,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -102436,13 +102908,16 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
+      "per": -3,
       "pla": -3,
       "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -102456,7 +102931,11 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741041583
+    "complete": true,
+    "reliability": 92,
+    "score": 35,
+    "signature": "~pls~ins~odo~wri!acc!ali!big!bri!bui!but!clo!col!cul!dan!def!fas!fla!fli!fra!har!hea!hei!hum!kno!liq!loc!lon!mac!met!myt!nat!new!old!par!per!pla!pow!rou!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo",
+    "updatedAt": 1744392664992
   },
   "1865": {
     "id": "1865",
@@ -103526,9 +104005,11 @@
       "old": -1,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -103542,7 +104023,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "1888": {
     "id": "1888",
@@ -103581,6 +104062,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -103593,7 +104075,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1889": {
     "id": "1889",
@@ -103697,6 +104179,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -103710,7 +104193,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1891": {
     "id": "1891",
@@ -103745,9 +104228,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": 5,
       "tab": -3,
       "tec": -3,
@@ -103760,7 +104245,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392262513
   },
   "1892": {
     "id": "1892",
@@ -103793,9 +104278,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -1,
@@ -103809,7 +104296,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "1893": {
     "id": "1893",
@@ -104069,6 +104556,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -104082,7 +104570,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1898": {
     "id": "1898",
@@ -104572,6 +105060,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -104584,7 +105073,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "1908": {
     "id": "1908",
@@ -104669,6 +105158,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -104681,7 +105171,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1910": {
     "id": "1910",
@@ -104771,6 +105261,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -104783,7 +105274,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "1912": {
     "id": "1912",
@@ -104875,6 +105366,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -104887,7 +105379,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "1914": {
     "id": "1914",
@@ -104976,9 +105468,11 @@
       "old": -1,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -104991,7 +105485,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392262513
   },
   "1916": {
     "id": "1916",
@@ -105886,6 +106380,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -105898,7 +106393,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1932": {
     "id": "1932",
@@ -105935,6 +106430,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -105948,7 +106444,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1933": {
     "id": "1933",
@@ -106197,6 +106693,7 @@
       "pow": -3,
       "rou": 10,
       "sha": -3,
+      "sma": -10,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -106210,7 +106707,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733361333
+    "updatedAt": 1744392138484
   },
   "1938": {
     "id": "1938",
@@ -107028,6 +107525,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -107041,7 +107539,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "1953": {
     "id": "1953",
@@ -107077,9 +107575,11 @@
       "old": -3,
       "par": 5,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -107092,7 +107592,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743739966082
+    "updatedAt": 1744392262513
   },
   "1954": {
     "id": "1954",
@@ -107552,9 +108052,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -1,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -107568,7 +108070,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733384901
+    "updatedAt": 1744392262513
   },
   "1964": {
     "id": "1964",
@@ -108824,6 +109326,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -108837,7 +109340,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2001": {
     "id": "2001",
@@ -109911,9 +110414,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -109927,7 +110432,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "2029": {
     "id": "2029",
@@ -110238,6 +110743,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -110251,7 +110757,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733384901
+    "updatedAt": 1744392138484
   },
   "2038": {
     "id": "2038",
@@ -110338,6 +110844,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -110350,7 +110857,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2041": {
     "id": "2041",
@@ -110654,6 +111161,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -110667,7 +111175,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2061": {
     "id": "2061",
@@ -111688,6 +112196,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -111701,7 +112210,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2091": {
     "id": "2091",
@@ -111738,6 +112247,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -111750,7 +112260,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2092": {
     "id": "2092",
@@ -111787,6 +112297,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -111799,7 +112310,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2093": {
     "id": "2093",
@@ -111836,6 +112347,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -111849,7 +112361,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2094": {
     "id": "2094",
@@ -112207,6 +112719,7 @@
       "pow": 10,
       "rou": 10,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -112219,7 +112732,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2111": {
     "id": "2111",
@@ -112628,6 +113141,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -112640,7 +113154,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2131": {
     "id": "2131",
@@ -112938,6 +113452,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": 5,
       "tab": -1,
@@ -112951,7 +113466,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2139": {
     "id": "2139",
@@ -113156,6 +113671,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -113169,7 +113685,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2143": {
     "id": "2143",
@@ -113625,9 +114141,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -113641,7 +114159,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733384901
+    "updatedAt": 1744392262513
   },
   "2152": {
     "id": "2152",
@@ -114526,6 +115044,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -114538,7 +115057,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2178": {
     "id": "2178",
@@ -114915,6 +115434,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -114928,7 +115448,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2187": {
     "id": "2187",
@@ -115085,6 +115605,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -115098,7 +115619,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2191": {
     "id": "2191",
@@ -115138,6 +115659,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -115151,7 +115673,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392138484
   },
   "2192": {
     "id": "2192",
@@ -115339,6 +115861,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -115352,7 +115875,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2196": {
     "id": "2196",
@@ -115669,6 +116192,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -115682,7 +116206,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2202": {
     "id": "2202",
@@ -115721,6 +116245,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -115733,7 +116258,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2203": {
     "id": "2203",
@@ -115774,6 +116299,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -115787,7 +116313,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2204": {
     "id": "2204",
@@ -115828,6 +116354,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -115841,7 +116368,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2205": {
     "id": "2205",
@@ -115929,6 +116456,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -115942,7 +116470,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392138484
   },
   "2209": {
     "id": "2209",
@@ -116023,9 +116551,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 10,
@@ -116038,7 +116568,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743733361333
+    "updatedAt": 1744392262513
   },
   "2212": {
     "id": "2212",
@@ -116071,9 +116601,11 @@
       "old": -3,
       "par": 5,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -116086,7 +116618,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392262513
   },
   "2213": {
     "id": "2213",
@@ -116170,9 +116702,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -116186,7 +116720,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "2215": {
     "id": "2215",
@@ -116225,6 +116759,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -1,
+      "sma": -3,
       "sof": -1,
       "sou": -1,
       "tab": -1,
@@ -116238,7 +116773,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2218": {
     "id": "2218",
@@ -117395,6 +117930,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -117407,7 +117943,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2256": {
     "id": "2256",
@@ -118791,6 +119327,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -118803,7 +119340,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2283": {
     "id": "2283",
@@ -119312,6 +119849,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": 10,
@@ -119325,7 +119863,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2296": {
     "id": "2296",
@@ -119360,9 +119898,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -119375,7 +119915,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743733433369
+    "updatedAt": 1744392262513
   },
   "2297": {
     "id": "2297",
@@ -119796,6 +120336,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -119809,7 +120350,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2332": {
     "id": "2332",
@@ -119849,6 +120390,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -119862,7 +120404,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2333": {
     "id": "2333",
@@ -119904,6 +120446,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -119917,7 +120460,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2334": {
     "id": "2334",
@@ -120271,9 +120814,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -120287,7 +120832,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743739931116
+    "updatedAt": 1744392262513
   },
   "2353": {
     "id": "2353",
@@ -121194,6 +121739,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -121206,7 +121752,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2371": {
     "id": "2371",
@@ -121400,6 +121946,7 @@
       "pow": 10,
       "rou": 10,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -121412,7 +121959,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2375": {
     "id": "2375",
@@ -122186,6 +122733,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -122199,7 +122747,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743733436503
+    "updatedAt": 1744392138484
   },
   "2395": {
     "id": "2395",
@@ -122547,9 +123095,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": 10,
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -122562,7 +123112,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392262513
   },
   "2402": {
     "id": "2402",
@@ -122657,6 +123207,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -122670,7 +123221,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2404": {
     "id": "2404",
@@ -122712,6 +123263,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -122725,7 +123277,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2405": {
     "id": "2405",
@@ -123484,6 +124036,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -123497,7 +124050,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2430": {
     "id": "2430",
@@ -123758,6 +124311,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -123771,7 +124325,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2436": {
     "id": "2436",
@@ -124069,6 +124623,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -124081,7 +124636,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2442": {
     "id": "2442",
@@ -124836,9 +125391,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 10,
       "sou": -3,
       "tab": -3,
@@ -124851,7 +125408,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743733392558
+    "updatedAt": 1744392262513
   },
   "2457": {
     "id": "2457",
@@ -125167,6 +125724,7 @@
       "pow": 10,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -125179,7 +125737,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2465": {
     "id": "2465",
@@ -125477,6 +126035,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -125490,7 +126049,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392138484
   },
   "2472": {
     "id": "2472",
@@ -125725,6 +126284,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -125737,7 +126297,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2477": {
     "id": "2477",
@@ -125880,6 +126440,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -125893,7 +126454,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2480": {
     "id": "2480",
@@ -126087,6 +126648,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -126099,7 +126661,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2484": {
     "id": "2484",
@@ -126191,9 +126753,11 @@
       "old": -3,
       "par": -1,
       "pla": -3,
+      "pls": 10,
       "pow": -3,
       "rou": -3,
       "sha": -10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -126207,7 +126771,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733330848
+    "updatedAt": 1744392262513
   },
   "2486": {
     "id": "2486",
@@ -126491,9 +127055,11 @@
       "old": -3,
       "par": -1,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": 10,
@@ -126507,7 +127073,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743733361333
+    "updatedAt": 1744392262513
   },
   "2492": {
     "id": "2492",
@@ -126899,6 +127465,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -126911,7 +127478,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2502": {
     "id": "2502",
@@ -126952,6 +127519,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -126965,7 +127533,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2503": {
     "id": "2503",
@@ -127168,6 +127736,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -127181,7 +127750,7 @@
       "woo": 5,
       "wri": 5
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2507": {
     "id": "2507",
@@ -129014,6 +129583,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 5,
       "sof": -3,
       "sou": -3,
       "tab": -1,
@@ -129026,7 +129596,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2543": {
     "id": "2543",
@@ -129360,6 +129930,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -129372,7 +129943,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2550": {
     "id": "2550",
@@ -129818,6 +130389,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -129830,7 +130402,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2559": {
     "id": "2559",
@@ -129868,6 +130440,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -129880,7 +130453,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2561": {
     "id": "2561",
@@ -130021,6 +130594,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 10,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -130034,7 +130608,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2564": {
     "id": "2564",
@@ -130356,9 +130930,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -130371,7 +130947,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733384901
+    "updatedAt": 1744392262513
   },
   "2573": {
     "id": "2573",
@@ -131001,6 +131577,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -131013,7 +131590,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2585": {
     "id": "2585",
@@ -131440,6 +132017,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -131453,7 +132031,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2598": {
     "id": "2598",
@@ -131818,6 +132396,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -131830,7 +132409,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2606": {
     "id": "2606",
@@ -131868,6 +132447,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -131880,7 +132460,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2607": {
     "id": "2607",
@@ -131964,9 +132544,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": 10,
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -131979,7 +132561,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743733410671
+    "updatedAt": 1744392262513
   },
   "2609": {
     "id": "2609",
@@ -132119,6 +132701,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -132131,7 +132714,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2612": {
     "id": "2612",
@@ -132847,6 +133430,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -132859,7 +133443,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2636": {
     "id": "2636",
@@ -132995,6 +133579,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -133007,7 +133592,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2639": {
     "id": "2639",
@@ -133200,6 +133785,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -133212,7 +133798,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2643": {
     "id": "2643",
@@ -133516,6 +134102,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -133529,7 +134116,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2649": {
     "id": "2649",
@@ -133739,6 +134326,7 @@
       "pow": -3,
       "rou": 10,
       "sha": -1,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -133751,7 +134339,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2653": {
     "id": "2653",
@@ -133789,6 +134377,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -133801,7 +134390,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2654": {
     "id": "2654",
@@ -134233,6 +134822,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -134245,7 +134835,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2663": {
     "id": "2663",
@@ -134484,9 +135074,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 5,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -134499,7 +135091,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392262513
   },
   "2669": {
     "id": "2669",
@@ -134835,6 +135427,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -134847,7 +135440,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2675": {
     "id": "2675",
@@ -134936,6 +135529,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -134948,7 +135542,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2677": {
     "id": "2677",
@@ -135239,6 +135833,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -1,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -135251,7 +135846,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2682": {
     "id": "2682",
@@ -135452,9 +136047,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -135467,7 +136064,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743733415373
+    "updatedAt": 1744392262513
   },
   "2686": {
     "id": "2686",
@@ -135506,6 +136103,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -135518,7 +136116,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2687": {
     "id": "2687",
@@ -135651,6 +136249,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -135663,7 +136262,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2691": {
     "id": "2691",
@@ -135746,9 +136345,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -135761,7 +136362,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743733413450
+    "updatedAt": 1744392262513
   },
   "2693": {
     "id": "2693",
@@ -135847,6 +136448,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -135859,7 +136461,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2695": {
     "id": "2695",
@@ -135897,6 +136499,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -135909,7 +136512,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2696": {
     "id": "2696",
@@ -135949,6 +136552,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -135961,7 +136565,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733408846
+    "updatedAt": 1744392138484
   },
   "2698": {
     "id": "2698",
@@ -135997,6 +136601,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -136009,7 +136614,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2699": {
     "id": "2699",
@@ -136148,6 +136753,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -136160,7 +136766,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733361333
+    "updatedAt": 1744392138484
   },
   "2702": {
     "id": "2702",
@@ -136198,6 +136804,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -136210,7 +136817,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2703": {
     "id": "2703",
@@ -136252,6 +136859,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -136264,7 +136872,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392138484
   },
   "2704": {
     "id": "2704",
@@ -136349,6 +136957,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": 5,
       "tab": -3,
       "tec": -1,
@@ -136360,7 +136969,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2706": {
     "id": "2706",
@@ -136392,9 +137001,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -136407,7 +137018,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733420483
+    "updatedAt": 1744392262513
   },
   "2707": {
     "id": "2707",
@@ -136444,6 +137055,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -136456,7 +137068,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2708": {
     "id": "2708",
@@ -136492,6 +137104,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -136504,7 +137117,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2709": {
     "id": "2709",
@@ -136658,6 +137271,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -136670,7 +137284,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392138484
   },
   "2713": {
     "id": "2713",
@@ -136808,6 +137422,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 10,
       "sou": -3,
       "tab": -3,
@@ -136820,7 +137435,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2716": {
     "id": "2716",
@@ -137171,6 +137786,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -137183,7 +137799,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2723": {
     "id": "2723",
@@ -137403,6 +138019,7 @@
       "pow": -3,
       "rou": 10,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -1,
@@ -137415,7 +138032,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740617150
+    "updatedAt": 1744392042877
   },
   "2729": {
     "id": "2729",
@@ -137517,6 +138134,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -137528,7 +138146,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2731": {
     "id": "2731",
@@ -137659,6 +138277,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -137670,7 +138289,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2738": {
     "id": "2738",
@@ -137801,6 +138420,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -137813,7 +138433,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2741": {
     "id": "2741",
@@ -137848,6 +138468,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -137859,7 +138480,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2743": {
     "id": "2743",
@@ -137946,6 +138567,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -137957,7 +138579,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2745": {
     "id": "2745",
@@ -137994,6 +138616,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -138006,7 +138629,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2746": {
     "id": "2746",
@@ -138197,6 +138820,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -138209,7 +138833,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2750": {
     "id": "2750",
@@ -138348,6 +138972,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -138361,7 +138986,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733361333
+    "updatedAt": 1744392138484
   },
   "2753": {
     "id": "2753",
@@ -138450,6 +139075,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 10,
       "sou": -3,
       "tab": -3,
@@ -138462,7 +139088,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2756": {
     "id": "2756",
@@ -138565,6 +139191,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -138576,7 +139203,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2758": {
     "id": "2758",
@@ -138616,6 +139243,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -138629,7 +139257,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743739960772
+    "updatedAt": 1744392138484
   },
   "2759": {
     "id": "2759",
@@ -138665,6 +139293,7 @@
       "pow": -1,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -138676,7 +139305,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2760": {
     "id": "2760",
@@ -138779,6 +139408,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -138790,7 +139420,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2763": {
     "id": "2763",
@@ -138829,6 +139459,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 10,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -138841,7 +139472,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2765": {
     "id": "2765",
@@ -138928,6 +139559,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -138940,7 +139572,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2768": {
     "id": "2768",
@@ -139379,6 +140011,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -139391,7 +140024,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2775": {
     "id": "2775",
@@ -139638,6 +140271,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -139651,7 +140285,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2780": {
     "id": "2780",
@@ -139979,6 +140613,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -139990,7 +140625,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2786": {
     "id": "2786",
@@ -140095,6 +140730,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -140106,7 +140742,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2788": {
     "id": "2788",
@@ -140128,23 +140764,35 @@
       "fla": -3,
       "fli": -3,
       "foo": 5,
+      "fra": -3,
+      "gra": -1,
       "har": -3,
       "hea": -3,
+      "hei": -3,
+      "hol": -1,
       "hum": -3,
       "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
+      "met": -3,
+      "mul": 5,
       "myt": -3,
       "nat": 5,
+      "new": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
+      "per": -3,
       "pla": 10,
       "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 5,
+      "sof": -1,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -140157,7 +140805,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1742957951113
+    "complete": true,
+    "reliability": 91,
+    "score": 30,
+    "signature": "~ali~odo~sof~gra~hol!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!fra!har!hea!hei!hum!ins!kno!liq!loc!lon!mac!met!myt!new!old!par!per!pls!pow!rou!sha!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392320886
   },
   "2789": {
     "id": "2789",
@@ -140496,6 +141148,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -10,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -140509,7 +141162,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733355825
+    "updatedAt": 1744392138484
   },
   "2796": {
     "id": "2796",
@@ -140878,21 +141531,34 @@
       "fla": -3,
       "fli": -3,
       "foo": -3,
+      "fra": -3,
       "gra": -3,
+      "har": 5,
+      "hea": 10,
+      "hei": 5,
+      "hol": -1,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": 5,
       "loc": 10,
+      "lon": -1,
       "mac": -3,
+      "met": -10,
       "mul": -3,
       "myt": -3,
       "nat": 10,
+      "new": -10,
+      "odo": -3,
       "old": 5,
       "par": -3,
+      "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -140906,7 +141572,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "complete": true,
+    "reliability": 96,
+    "score": 60,
+    "signature": "~lon~hol!acc!ali!bea!bri!bui!but!clo!con!cul!def!fas!fla!fli!foo!fra!gra!hum!ins!kno!mac!mul!myt!odo!par!per!pla!pls!pow!rou!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1744392346020
   },
   "2803": {
     "id": "2803",
@@ -141197,6 +141867,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -141210,7 +141881,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2815": {
     "id": "2815",
@@ -141249,6 +141920,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -1,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -141261,7 +141933,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2816": {
     "id": "2816",
@@ -141283,25 +141955,39 @@
       "fla": -3,
       "fli": -3,
       "foo": -3,
+      "fra": -3,
+      "gra": 5,
+      "har": 5,
+      "hea": 10,
+      "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": 10,
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -10,
+      "odo": -3,
       "old": 10,
       "par": -3,
+      "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
+      "too": -3,
       "toy": -3,
       "tra": -3,
       "val": 10,
@@ -141310,7 +141996,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743733412221
+    "complete": true,
+    "reliability": 89,
+    "score": 55,
+    "signature": "~bea~bri~but~big~mul~hol!acc!ali!bui!clo!col!cul!dan!def!fas!fla!fli!foo!fra!hei!hum!ins!kno!liq!loc!lon!mac!myt!nat!odo!par!per!pla!pls!pow!rou!sha!sma!sof!sou!tab!tec!too!toy!tra!war!wea!wri",
+    "updatedAt": 1744392363135
   },
   "2817": {
     "id": "2817",
@@ -141391,9 +142081,11 @@
       "old": 10,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -141406,7 +142098,7 @@
       "woo": -1,
       "wri": 10
     },
-    "updatedAt": 1743733361333
+    "updatedAt": 1744392262513
   },
   "2819": {
     "id": "2819",
@@ -141537,6 +142229,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
@@ -141548,7 +142241,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2822": {
     "id": "2822",
@@ -141581,9 +142274,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -141596,7 +142291,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733426755
+    "updatedAt": 1744392262513
   },
   "2823": {
     "id": "2823",
@@ -141743,9 +142438,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": 5,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -141758,7 +142455,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733432291
+    "updatedAt": 1744392262513
   },
   "2826": {
     "id": "2826",
@@ -141795,6 +142492,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -141807,7 +142505,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2827": {
     "id": "2827",
@@ -141988,9 +142686,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142003,7 +142703,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733428959
+    "updatedAt": 1744392262513
   },
   "2832": {
     "id": "2832",
@@ -142041,6 +142741,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142053,7 +142754,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2833": {
     "id": "2833",
@@ -142084,9 +142785,11 @@
       "old": 5,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142099,7 +142802,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733350688
+    "updatedAt": 1744392262513
   },
   "2834": {
     "id": "2834",
@@ -142184,6 +142887,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142197,7 +142901,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2836": {
     "id": "2836",
@@ -142235,6 +142939,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142248,7 +142953,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2837": {
     "id": "2837",
@@ -142285,6 +142990,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -1,
@@ -142298,7 +143004,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2838": {
     "id": "2838",
@@ -142335,6 +143041,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142348,7 +143055,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743739918640
+    "updatedAt": 1744392138484
   },
   "2839": {
     "id": "2839",
@@ -142385,9 +143092,11 @@
       "old": -1,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -142401,7 +143110,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743739966082
+    "updatedAt": 1744392262513
   },
   "2840": {
     "id": "2840",
@@ -142433,9 +143142,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142448,7 +143159,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743733437398
+    "updatedAt": 1744392262513
   },
   "2841": {
     "id": "2841",
@@ -142480,9 +143191,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142495,7 +143208,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743733431215
+    "updatedAt": 1744392262513
   },
   "2842": {
     "id": "2842",
@@ -142579,6 +143292,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142591,7 +143305,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2844": {
     "id": "2844",
@@ -142630,6 +143344,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142642,7 +143357,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2845": {
     "id": "2845",
@@ -142679,6 +143394,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142691,7 +143407,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733435203
+    "updatedAt": 1744392138484
   },
   "2846": {
     "id": "2846",
@@ -142729,6 +143445,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142741,7 +143458,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2847": {
     "id": "2847",
@@ -142778,6 +143495,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -142790,7 +143508,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2848": {
     "id": "2848",
@@ -142828,6 +143546,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -142841,7 +143560,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2849": {
     "id": "2849",
@@ -143188,6 +143907,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -143200,7 +143920,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2857": {
     "id": "2857",
@@ -143291,6 +144011,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -143303,7 +144024,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2860": {
     "id": "2860",
@@ -143337,9 +144058,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": 10,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 10,
       "sou": -3,
       "tab": -3,
@@ -143352,7 +144075,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743733423896
+    "updatedAt": 1744392262513
   },
   "2861": {
     "id": "2861",
@@ -143444,6 +144167,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -143456,7 +144180,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2864": {
     "id": "2864",
@@ -143494,6 +144218,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -143506,7 +144231,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2866": {
     "id": "2866",
@@ -143598,6 +144323,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -143611,7 +144337,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2876": {
     "id": "2876",
@@ -143647,6 +144373,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -143659,7 +144386,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2878": {
     "id": "2878",
@@ -143742,6 +144469,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -143754,7 +144482,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2880": {
     "id": "2880",
@@ -143982,6 +144710,7 @@
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -143994,7 +144723,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2899": {
     "id": "2899",
@@ -144026,9 +144755,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -144041,7 +144772,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743739839644
+    "updatedAt": 1744392262513
   },
   "2900": {
     "id": "2900",
@@ -144120,9 +144851,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -144135,7 +144868,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743739839644
+    "updatedAt": 1744392262513
   },
   "2904": {
     "id": "2904",
@@ -144265,6 +144998,7 @@
       "pow": -3,
       "rou": 10,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -144277,7 +145011,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2909": {
     "id": "2909",
@@ -144315,6 +145049,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -144328,7 +145063,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2910": {
     "id": "2910",
@@ -144463,6 +145198,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -144475,7 +145211,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2918": {
     "id": "2918",
@@ -144511,6 +145247,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -144523,7 +145260,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2919": {
     "id": "2919",
@@ -144805,6 +145542,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -144818,7 +145556,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2927": {
     "id": "2927",
@@ -144921,6 +145659,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -144933,7 +145672,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2930": {
     "id": "2930",
@@ -144971,6 +145710,7 @@
       "pow": -3,
       "rou": -3,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -144984,7 +145724,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2934": {
     "id": "2934",
@@ -145232,6 +145972,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": 5,
@@ -145244,7 +145985,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2940": {
     "id": "2940",
@@ -145282,6 +146023,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": 10,
       "sou": -3,
       "tab": -3,
@@ -145294,7 +146036,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2941": {
     "id": "2941",
@@ -145330,6 +146072,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": 10,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -145342,7 +146085,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2942": {
     "id": "2942",
@@ -145379,6 +146122,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -145391,7 +146135,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2945": {
     "id": "2945",
@@ -145477,6 +146221,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -145490,7 +146235,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2947": {
     "id": "2947",
@@ -145526,6 +146271,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -145538,7 +146284,7 @@
       "woo": 5,
       "wri": -1
     },
-    "updatedAt": 1743741261903
+    "updatedAt": 1744391902358
   },
   "2948": {
     "id": "2948",
@@ -145577,6 +146323,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -145589,7 +146336,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1743741041583
+    "updatedAt": 1744391968544
   },
   "2949": {
     "id": "2949",
@@ -145623,9 +146370,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -145639,7 +146388,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740276579
+    "updatedAt": 1744392262513
   },
   "2950": {
     "id": "2950",
@@ -145808,9 +146557,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 5,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": 10,
@@ -145824,7 +146575,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740276579
+    "updatedAt": 1744392262513
   },
   "2954": {
     "id": "2954",
@@ -145859,9 +146610,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": 5,
       "pow": -1,
       "rou": -3,
       "sha": 10,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -1,
@@ -145875,7 +146628,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740276579
+    "updatedAt": 1744392262513
   },
   "2956": {
     "id": "2956",
@@ -145909,9 +146662,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": 5,
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": 10,
       "sof": -3,
       "sou": 10,
       "tab": 10,
@@ -145925,7 +146680,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740276579
+    "updatedAt": 1744392262513
   },
   "2958": {
     "id": "2958",
@@ -145959,9 +146714,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": 5,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -145975,7 +146732,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740276579
+    "updatedAt": 1744392262513
   },
   "2959": {
     "id": "2959",
@@ -146061,9 +146818,11 @@
       "old": -3,
       "par": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -146077,7 +146836,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743740276579
+    "updatedAt": 1744392262513
   },
   "2961": {
     "id": "2961",
@@ -146182,6 +146941,7 @@
       "pow": 10,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -146194,7 +146954,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740757016
+    "updatedAt": 1744392042877
   },
   "2966": {
     "id": "2966",
@@ -146229,6 +146989,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -146241,7 +147002,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2967": {
     "id": "2967",
@@ -146276,6 +147037,7 @@
       "pow": 10,
       "rou": -1,
       "sha": 5,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -146288,7 +147050,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2968": {
     "id": "2968",
@@ -146457,6 +147219,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 10,
@@ -146469,7 +147232,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2972": {
     "id": "2972",
@@ -146504,6 +147267,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 10,
@@ -146516,7 +147280,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2973": {
     "id": "2973",
@@ -146551,6 +147315,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -146563,7 +147328,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2976": {
     "id": "2976",
@@ -146598,6 +147363,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -1,
@@ -146610,7 +147376,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2977": {
     "id": "2977",
@@ -146645,6 +147411,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 10,
@@ -146657,7 +147424,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2979": {
     "id": "2979",
@@ -146692,6 +147459,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 10,
@@ -146704,7 +147472,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2989": {
     "id": "2989",
@@ -146739,6 +147507,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -1,
       "tab": -3,
@@ -146751,7 +147520,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2992": {
     "id": "2992",
@@ -146786,6 +147555,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -146798,7 +147568,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2993": {
     "id": "2993",
@@ -146833,6 +147603,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -146845,7 +147616,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2994": {
     "id": "2994",
@@ -146880,6 +147651,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -146892,7 +147664,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2996": {
     "id": "2996",
@@ -146927,6 +147699,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": 5,
       "sou": -3,
       "tab": -3,
@@ -146939,7 +147712,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2997": {
     "id": "2997",
@@ -146974,6 +147747,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -146986,7 +147760,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2998": {
     "id": "2998",
@@ -147021,6 +147795,7 @@
       "pow": 5,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -147033,7 +147808,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "2999": {
     "id": "2999",
@@ -147068,6 +147843,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -147080,7 +147856,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3000": {
     "id": "3000",
@@ -147115,6 +147891,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147127,7 +147904,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3001": {
     "id": "3001",
@@ -147162,6 +147939,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": 5,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147174,7 +147952,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3002": {
     "id": "3002",
@@ -147209,6 +147987,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147221,7 +148000,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3003": {
     "id": "3003",
@@ -147256,6 +148035,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -147268,7 +148048,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3006": {
     "id": "3006",
@@ -147303,6 +148083,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147315,7 +148096,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3007": {
     "id": "3007",
@@ -147350,6 +148131,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -147362,7 +148144,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3008": {
     "id": "3008",
@@ -147397,6 +148179,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147409,7 +148192,7 @@
       "woo": 5,
       "wri": 10
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3009": {
     "id": "3009",
@@ -147444,6 +148227,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147456,7 +148240,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3010": {
     "id": "3010",
@@ -147492,6 +148276,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -147504,7 +148289,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3014": {
     "id": "3014",
@@ -147539,6 +148324,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -3,
@@ -147551,7 +148337,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3015": {
     "id": "3015",
@@ -147586,6 +148372,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147598,7 +148385,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3016": {
     "id": "3016",
@@ -147633,6 +148420,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147645,7 +148433,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3017": {
     "id": "3017",
@@ -147680,6 +148468,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -147692,7 +148481,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3018": {
     "id": "3018",
@@ -147733,6 +148522,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -147745,7 +148535,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3022": {
     "id": "3022",
@@ -147847,6 +148637,7 @@
       "pow": -3,
       "rou": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 5,
@@ -147859,7 +148650,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3024": {
     "id": "3024",
@@ -147894,6 +148685,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 5,
@@ -147906,7 +148698,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3025": {
     "id": "3025",
@@ -147941,6 +148733,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -10,
       "tab": 5,
@@ -147953,7 +148746,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3026": {
     "id": "3026",
@@ -147989,6 +148782,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -148001,7 +148795,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3027": {
     "id": "3027",
@@ -148036,6 +148830,7 @@
       "pow": -1,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -148048,7 +148843,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3028": {
     "id": "3028",
@@ -148083,6 +148878,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 5,
@@ -148095,7 +148891,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3029": {
     "id": "3029",
@@ -148130,6 +148926,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -148142,7 +148939,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3030": {
     "id": "3030",
@@ -148177,6 +148974,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -148189,7 +148987,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3031": {
     "id": "3031",
@@ -148224,6 +149022,7 @@
       "pow": -3,
       "rou": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": 10,
@@ -148236,7 +149035,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1743740975146
+    "updatedAt": 1744392042877
   },
   "3032": {
     "id": "3032",
