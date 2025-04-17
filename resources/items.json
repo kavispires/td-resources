@@ -10468,7 +10468,7 @@
     "id": "820",
     "name": {
       "en": "lemon",
-      "pt": "limão"
+      "pt": "limão siciliano"
     },
     "decks": [
       "alien",
@@ -37528,6 +37528,286 @@
       "alien",
       "meta",
       "suspect"
+    ],
+    "groups": []
+  },
+  "3033": {
+    "id": "3033",
+    "name": {
+      "en": "prosciutto",
+      "pt": "presunto cru"
+    },
+    "aliasesPt": [
+      "prosciutto"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3034": {
+    "id": "3034",
+    "name": {
+      "en": "oyster",
+      "pt": "ostra"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3035": {
+    "id": "3035",
+    "name": {
+      "en": "spinach",
+      "pt": "espinafre"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3036": {
+    "id": "3036",
+    "name": {
+      "en": "mussel",
+      "pt": "mexilhão"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3037": {
+    "id": "3037",
+    "name": {
+      "en": "salsa",
+      "pt": "molho salsa"
+    },
+    "aliasesPt": [
+      "molho mexicano"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3038": {
+    "id": "3038",
+    "name": {
+      "en": "pesto",
+      "pt": "pesto"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3039": {
+    "id": "3039",
+    "name": {
+      "en": "patties",
+      "pt": "bife de hambúrguer"
+    },
+    "aliasesPt": [
+      "hambúrguer"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3040": {
+    "id": "3040",
+    "name": {
+      "en": "escargot",
+      "pt": "escargot"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3041": {
+    "id": "3041",
+    "name": {
+      "en": "mozzarella",
+      "pt": "mussarela"
+    },
+    "aliasesPt": [
+      "muçarela"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3042": {
+    "id": "3042",
+    "name": {
+      "en": "cream cheese",
+      "pt": "cream cheese"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "3043": {
+    "id": "3043",
+    "name": {
+      "en": "cheese spread",
+      "pt": "requeijão"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3044": {
+    "id": "3044",
+    "name": {
+      "en": "sour cream",
+      "pt": "creme de leite"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3045": {
+    "id": "3045",
+    "name": {
+      "en": "flow chart",
+      "pt": "fluxograma"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3046": {
+    "id": "3046",
+    "name": {
+      "en": "Sputnik",
+      "pt": "Sputnik"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3047": {
+    "id": "3047",
+    "name": {
+      "en": "moon rover",
+      "pt": "veículo explorador lunar"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3048": {
+    "id": "3048",
+    "name": {
+      "en": "bibimbap",
+      "pt": "bibimbap"
+    },
+    "aliasesEn": [
+      "korean rice"
+    ],
+    "aliasesPt": [
+      "arroz coreano"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3049": {
+    "id": "3049",
+    "name": {
+      "en": "stairlift",
+      "pt": "cadeira elevatória para escadas"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "3050": {
+    "id": "3050",
+    "name": {
+      "en": "vitamins",
+      "pt": "vitaminas"
+    },
+    "aliasesEn": [
+      "multivitamins"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "3051": {
+    "id": "3051",
+    "name": {
+      "en": "data",
+      "pt": "dados"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3052": {
+    "id": "3052",
+    "name": {
+      "en": "piracy",
+      "pt": "pirataria"
+    },
+    "aliasesEn": [
+      "illegal downloads"
+    ],
+    "aliasesPt": [
+      "downloads ilegais"
+    ],
+    "decks": [
+      "dream",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3053": {
+    "id": "3053",
+    "name": {
+      "en": "soju",
+      "pt": "soju"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3054": {
+    "id": "3054",
+    "name": {
+      "en": "lime",
+      "pt": "limão"
+    },
+    "decks": [
+      "alien",
+      "dream"
     ],
     "groups": []
   }
