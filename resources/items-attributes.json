@@ -28,7 +28,7 @@
 			"pt": "vida, ser, organismo, animado"
 		},
 		"priority": 33,
-		"level": 1,
+		"level": 2,
 		"spriteId": "sign-0",
 		"default": true,
 		"keywords": "alive life being organism animated vivo vida ser organismo animado"
@@ -44,7 +44,7 @@
 			"pt": "atraente, charmoso, colorido, festivo, decorativo"
 		},
 		"priority": 21,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-1",
 		"default": true,
 		"keywords": "beautiful attractiveness charming colorful festive decoration bonito atraente charmoso colorido festivo decorativo"
@@ -60,7 +60,7 @@
 			"pt": "tamanho, magnitude"
 		},
 		"priority": 108,
-		"level": 1,
+		"level": 3,
 		"spriteId": "sign-57",
 		"default": true,
 		"keywords": "big size magnitude grande tamanho"
@@ -108,7 +108,7 @@
 			"pt": "teclas, interruptores, pressionáveis ou clicáveis"
 		},
 		"priority": 90,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-39",
 		"relatedId": "mac",
 		"default": false,
@@ -143,7 +143,7 @@
 			"pt": "baixa temperatura, gelado, refrescante"
 		},
 		"priority": 39,
-		"level": 2,
+		"level": 1,
 		"spriteId": "sign-40",
 		"oppositeId": "war",
 		"default": false,
@@ -193,7 +193,7 @@
 			"pt": "risco, ameaça"
 		},
 		"priority": 63,
-		"level": 1,
+		"level": 2,
 		"spriteId": "sign-6",
 		"default": true,
 		"keywords": "danger hazard risk threat perigo risco ameaça"
@@ -209,7 +209,7 @@
 			"pt": "proteção, cobertura, escudo"
 		},
 		"priority": 69,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-7",
 		"default": true,
 		"keywords": "defense shield protection covering defesa proteção cobertura escudo"
@@ -225,7 +225,7 @@
 			"pt": "movimento, velocidade, rapidez"
 		},
 		"priority": 72,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-8",
 		"default": true,
 		"keywords": "fast movement speed velocity rápido movimento velocidade rapidez"
@@ -302,15 +302,15 @@
 			"pt": "Segurável"
 		},
 		"description": {
-			"en": "holdable, you normally hold or has a handle or mainly holds something",
+			"en": "holdable, handles, you normally hold or has a handle or mainly holds something",
 			"pt": "com alças, apoio, você normalmente segura, seu trabalho é segurar algo"
 		},
 		"priority": 120,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-14",
 		"default": false,
 		"limited": true,
-		"keywords": "grabbable holdable you normally hold or has a handle mainly holds something segurável com alças apoio você normalmente segura seu trabalho é segurar algo"
+		"keywords": "grabbable holdable handles you normally hold mainly holds something segurável com alças apoio você normalmente segura seu trabalho é segurar algo"
 	},
 	"har": {
 		"id": "har",
@@ -356,7 +356,7 @@
 			"pt": "alto, alto, altura, altitude"
 		},
 		"priority": 92,
-		"level": 4,
+		"level": 3,
 		"spriteId": "sign-58",
 		"relatedId": "lon",
 		"default": false,
@@ -391,7 +391,7 @@
 			"pt": "pessoa, corpo, usado por pessoas, tem características humanas"
 		},
 		"priority": 27,
-		"level": 1,
+		"level": 2,
 		"spriteId": "sign-15",
 		"default": true,
 		"keywords": "human person body used by people has features humano pessoa corpo usado por pessoas tem características humanas"
@@ -404,7 +404,7 @@
 		},
 		"description": {
 			"en": "utensil, equipment, support",
-			"pt": "utensílio, equipamento, suporte"
+			"pt": "utensílio, peça, equipamento, suporte"
 		},
 		"priority": 84,
 		"level": 4,
@@ -412,7 +412,7 @@
 		"relatedId": "too",
 		"default": false,
 		"specific": true,
-		"keywords": "instrument utensil support equipment instrumento utensílio suporte equipamento"
+		"keywords": "instrument utensil support equipment instrumento utensílio peça equipamento suporte"
 	},
 	"kno": {
 		"id": "kno",
@@ -425,7 +425,7 @@
 			"pt": "sabedoria, inteligência, ideia, dá informação"
 		},
 		"priority": 42,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-16",
 		"default": true,
 		"keywords": "knowledge wisdom smarts idea gives information conhecimento sabedoria inteligência ideia dá informação"
@@ -441,7 +441,7 @@
 			"pt": "fluido, aquático"
 		},
 		"priority": 15,
-		"level": 1,
+		"level": 2,
 		"spriteId": "sign-41",
 		"default": true,
 		"keywords": "liquid fluid aquatic water líquido fluido aquático"
@@ -457,7 +457,7 @@
 			"pt": "Lugar, região, área"
 		},
 		"priority": 65,
-		"level": 4,
+		"level": 2,
 		"spriteId": "sign-55",
 		"relatedId": "con",
 		"limited": false,
@@ -475,7 +475,7 @@
 			"pt": "alto, comprido"
 		},
 		"priority": 93,
-		"level": 2,
+		"level": 3,
 		"spriteId": "sign-18",
 		"default": true,
 		"keywords": "long tall lengthy longo alto comprido"
@@ -491,7 +491,7 @@
 			"pt": "tem engrenagens, usa energia, funciona"
 		},
 		"priority": 51,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-19",
 		"default": false,
 		"keywords": "machine has gears uses powers works máquina tem engrenagens usa energia funciona"
@@ -507,7 +507,7 @@
 			"pt": "tem partes metálicas brilhantes, feito de metal"
 		},
 		"priority": 96,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-20",
 		"default": true,
 		"keywords": "metal has metallic shiny parts made of tem partes metálicas brilhantes feito de"
@@ -540,7 +540,7 @@
 			"pt": "fantasia, lenda, mito, místico, espiritual, sobrenatural, mágico"
 		},
 		"priority": 41,
-		"level": 4,
+		"level": 3,
 		"spriteId": "sign-54",
 		"relatedId": "kno",
 		"default": false,
@@ -593,7 +593,7 @@
 			"pt": "perfume, odor, aroma, fedor"
 		},
 		"priority": 99,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-22",
 		"default": false,
 		"keywords": "odor smell odor aroma cheiro perfume aroma fedor"
@@ -659,7 +659,7 @@
 			"pt": "vegetação, flora, verde, madeira"
 		},
 		"priority": 9,
-		"level": 1,
+		"level": 2,
 		"spriteId": "sign-25",
 		"default": true,
 		"keywords": "plant vegetation flora green wood planta vegetação verde madeira"
@@ -708,7 +708,7 @@
 			"pt": "circular, esfera, oval"
 		},
 		"priority": 57,
-		"level": 1,
+		"level": 2,
 		"spriteId": "sign-27",
 		"default": true,
 		"keywords": "round circular sphere oval redondo esfera"
@@ -740,7 +740,7 @@
 			"pt": "compacto, reduzido"
 		},
 		"priority": 114,
-		"level": 2,
+		"level": 4,
 		"spriteId": "sign-47",
 		"oppositeId": "big",
 		"default": false,
@@ -757,7 +757,7 @@
 			"pt": "mole, gentil, suave, pegajoso, flexível"
 		},
 		"priority": 117,
-		"level": 3,
+		"level": 4,
 		"spriteId": "sign-29",
 		"oppositeId": "har",
 		"default": false,
@@ -774,7 +774,7 @@
 			"pt": "faz som naturalmente ou por design ou interação"
 		},
 		"priority": 51,
-		"level": 1,
+		"level": 4,
 		"spriteId": "sign-31",
 		"default": false,
 		"keywords": "sound makes naturally or by design interaction som faz naturalmente ou por interação"
@@ -823,7 +823,7 @@
 			"pt": "instrumento, dispositivo, implemento"
 		},
 		"priority": 81,
-		"level": 2,
+		"level": 3,
 		"spriteId": "sign-33",
 		"default": true,
 		"keywords": "tool instrument device implement ferramenta instrumento dispositivo implemento"
@@ -839,7 +839,7 @@
 			"pt": "laser, prazer, diversão, para crianças"
 		},
 		"priority": 78,
-		"level": 2,
+		"level": 1,
 		"spriteId": "sign-34",
 		"default": false,
 		"keywords": "toy plaything amusement for children brinquedo laser prazer diversão para crianças"
@@ -855,7 +855,7 @@
 			"pt": "Veículos, carros"
 		},
 		"priority": 71,
-		"level": 4,
+		"level": 1,
 		"spriteId": "sign-52",
 		"relatedId": "fas",
 		"default": false,
@@ -890,7 +890,7 @@
 			"pt": "calor, aconchegante, temperatura"
 		},
 		"priority": 39,
-		"level": 2,
+		"level": 1,
 		"spriteId": "sign-36",
 		"oppositeId": "col",
 		"default": true,
