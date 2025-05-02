@@ -1324,7 +1324,7 @@
 		},
 		"type": "weapon",
 		"itemId": "1047",
-		"tags": ["inhaleable", "poisonous"]
+		"tags": ["inhaleable", "poisonous", "smoke", "toxic", "vapor", "visibility"]
 	},
 	"dmhk-wp-088": {
 		"id": "dmhk-wp-088",
@@ -1682,7 +1682,7 @@
 			"pt": "robô assassino"
 		},
 		"type": "weapon",
-		"itemId": "12",
+		"itemId": "2574",
 		"tags": [
 			"action",
 			"artificial intelligence",
@@ -1801,8 +1801,8 @@
 	"dmhk-wp-119": {
 		"id": "dmhk-wp-119",
 		"name": {
-			"en": "cortador de grama",
-			"pt": "lawnmower"
+			"en": "lawnmower",
+			"pt": "cortador de grama"
 		},
 		"type": "weapon",
 		"itemId": "473",
@@ -2416,6 +2416,123 @@
 			"portable",
 			"recreation",
 			"sport"
+		]
+	},
+	"dmhk-wp-154": {
+		"id": "dmhk-wp-154",
+		"name": {
+			"en": "fireworks",
+			"pt": "fogos de artifício"
+		},
+		"type": "weapon",
+		"itemId": "246",
+		"tags": [
+			"celebration",
+			"controlled",
+			"entertainment",
+			"explosive",
+			"hazardous",
+			"light",
+			"outdoor",
+			"pyrotechnics",
+			"safety hazard"
+		]
+	},
+	"dmhk-wp-155": {
+		"id": "dmhk-wp-155",
+		"name": {
+			"en": "bull",
+			"pt": "touro"
+		},
+		"type": "weapon",
+		"itemId": "2226",
+		"tags": ["strength", "power", "symbol", "animal", "farming", "punctureable"]
+	},
+	"dmhk-wp-156": {
+		"id": "dmhk-wp-156",
+		"name": {
+			"en": "botox",
+			"pt": "botox"
+		},
+		"type": "weapon",
+		"itemId": "1387",
+		"tags": ["cosmetic", "medical", "injectable", "treatment"]
+	},
+	"dmhk-wp-157": {
+		"id": "dmhk-wp-157",
+		"name": {
+			"en": "skewer",
+			"pt": "espeto de churrasco"
+		},
+		"type": "weapon",
+		"itemId": "1343",
+		"tags": [
+			"cooking",
+			"cutting",
+			"food",
+			"holdable",
+			"metal",
+			"sharp",
+			"skewer",
+			"tool"
+		]
+	},
+	"dmhk-wp-158": {
+		"id": "dmhk-wp-158",
+		"name": {
+			"en": "bowling ball",
+			"pt": "bola de boliche"
+		},
+		"type": "weapon",
+		"itemId": "1450",
+		"tags": [
+			"ball",
+			"heavy",
+			"holdable",
+			"object",
+			"recreation",
+			"sport",
+			"tool"
+		]
+	},
+	"dmhk-wp-159": {
+		"id": "dmhk-wp-159",
+		"name": {
+			"en": "chemotherapy",
+			"pt": "quimioterapia"
+		},
+		"type": "weapon",
+		"itemId": "2931",
+		"tags": [
+			"cancer",
+			"chemotherapy",
+			"condition",
+			"controlled",
+			"drug",
+			"health",
+			"medical",
+			"pharmaceutical",
+			"treatment"
+		]
+	},
+	"dmhk-wp-160": {
+		"id": "dmhk-wp-160",
+		"name": {
+			"en": "spit",
+			"pt": "cuspe"
+		},
+		"type": "weapon",
+		"itemId": "2512",
+		"tags": [
+			"action",
+			"biological",
+			"disgusting",
+			"fluid",
+			"holdable",
+			"human",
+			"liquid",
+			"saliva",
+			"spit"
 		]
 	}
 }
