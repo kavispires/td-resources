@@ -31183,9 +31183,17 @@
   "2568": {
     "id": "2568",
     "name": {
-      "en": "scars",
-      "pt": "cicatriz"
+      "en": "burn marks",
+      "pt": "quemadura"
     },
+    "aliasesEn": [
+      "marks",
+      "scars"
+    ],
+    "aliasesPt": [
+      "cicatriz",
+      "manchas"
+    ],
     "decks": [
       "alien",
       "dream"
@@ -37808,6 +37816,507 @@
     "decks": [
       "alien",
       "dream"
+    ],
+    "groups": []
+  },
+  "3055": {
+    "id": "3055",
+    "name": {
+      "en": "shoelaces",
+      "pt": "cadarços"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "3056": {
+    "id": "3056",
+    "name": {
+      "en": "acne",
+      "pt": "espinhas"
+    },
+    "aliasesEn": [
+      "pimples"
+    ],
+    "aliasesPt": [
+      "acne"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3057": {
+    "id": "3057",
+    "name": {
+      "en": "wrinkles",
+      "pt": "rugas"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3058": {
+    "id": "3058",
+    "name": {
+      "en": "trivet",
+      "pt": "descanso de panela"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3059": {
+    "id": "3059",
+    "name": {
+      "en": "champagne glasses",
+      "pt": "taça de champanhe"
+    },
+    "aliasesEn": [
+      "champagne"
+    ],
+    "aliasesPt": [
+      "champagne"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3060": {
+    "id": "3060",
+    "name": {
+      "en": "champagne tower",
+      "pt": "torre de taças"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3061": {
+    "id": "3061",
+    "name": {
+      "en": "toxic",
+      "pt": "tóxico"
+    },
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "3062": {
+    "id": "3062",
+    "name": {
+      "en": "bottle planters",
+      "pt": "vaso de garrafa PET"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3063": {
+    "id": "3063",
+    "name": {
+      "en": "fumes",
+      "pt": "gases de escape"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3064": {
+    "id": "3064",
+    "name": {
+      "en": "flatbread",
+      "pt": "pão sírio"
+    },
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3065": {
+    "id": "3065",
+    "name": {
+      "en": "enchiladas",
+      "pt": "panquecas mexicanas"
+    },
+    "aliasesPt": [
+      "panquecas"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3066": {
+    "id": "3066",
+    "name": {
+      "en": "acupuncture",
+      "pt": "acupuntura"
+    },
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "3067": {
+    "id": "3067",
+    "name": {
+      "en": "evolution",
+      "pt": "evolução"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3068": {
+    "id": "3068",
+    "name": {
+      "en": "Talking behind someone’s back",
+      "pt": "Falar pelas costas"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3069": {
+    "id": "3069",
+    "name": {
+      "en": "wigwam",
+      "pt": "cabana indígena"
+    },
+    "aliasesEn": [
+      "tipi"
+    ],
+    "aliasesPt": [
+      "oca"
+    ],
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "3070": {
+    "id": "3070",
+    "name": {
+      "en": "dog poop",
+      "pt": "cocô de cachorro"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3071": {
+    "id": "3071",
+    "name": {
+      "en": "motivation",
+      "pt": "motivação"
+    },
+    "aliasesEn": [
+      "power"
+    ],
+    "aliasesPt": [
+      "golpe",
+      "poder"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3072": {
+    "id": "3072",
+    "name": {
+      "en": "sculpture",
+      "pt": "escultura"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3073": {
+    "id": "3073",
+    "name": {
+      "en": "regeneration",
+      "pt": "regeneração"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3074": {
+    "id": "3074",
+    "name": {
+      "en": "shapeshifter",
+      "pt": "metamorfo"
+    },
+    "aliasesEn": [
+      "mutant"
+    ],
+    "aliasesPt": [
+      "mutante"
+    ],
+    "decks": [
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "3075": {
+    "id": "3075",
+    "name": {
+      "en": "bulletproof",
+      "pt": "à prova de balas"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3076": {
+    "id": "3076",
+    "name": {
+      "en": "sun hat",
+      "pt": "chapéu de sol"
+    },
+    "aliasesEn": [
+      "floppy hat"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3077": {
+    "id": "3077",
+    "name": {
+      "en": "multitasking",
+      "pt": "multitarefa"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3078": {
+    "id": "3078",
+    "name": {
+      "en": "meltdown",
+      "pt": "surto"
+    },
+    "aliasesEn": [
+      "emotional breakdown"
+    ],
+    "aliasesPt": [
+      "crise emocional"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3079": {
+    "id": "3079",
+    "name": {
+      "en": "part",
+      "pt": "parte"
+    },
+    "aliasesEn": [
+      "graph",
+      "piece",
+      "section"
+    ],
+    "aliasesPt": [
+      "gráfico",
+      "peça",
+      "seção"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3080": {
+    "id": "3080",
+    "name": {
+      "en": "scar",
+      "pt": "cicatriz"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3081": {
+    "id": "3081",
+    "name": {
+      "en": "accessible ramp",
+      "pt": "rampa para cadeirantes"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "3082": {
+    "id": "3082",
+    "name": {
+      "en": "state of matter",
+      "pt": "estados da matéria"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3083": {
+    "id": "3083",
+    "name": {
+      "en": "Hollywood sign",
+      "pt": "placa de Hollywood"
+    },
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "3084": {
+    "id": "3084",
+    "name": {
+      "en": "guava",
+      "pt": "goiaba"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "3085": {
+    "id": "3085",
+    "name": {
+      "en": "contest",
+      "pt": "concurso"
+    },
+    "aliasesEn": [
+      "contestants"
+    ],
+    "aliasesPt": [
+      "participantes"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3086": {
+    "id": "3086",
+    "name": {
+      "en": "encryption",
+      "pt": "criptografia"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3087": {
+    "id": "3087",
+    "name": {
+      "en": "giant",
+      "pt": "gigante"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3088": {
+    "id": "3088",
+    "name": {
+      "en": "equal",
+      "pt": "igual"
+    },
+    "aliasesEn": [
+      "same"
+    ],
+    "aliasesPt": [
+      "mesmo"
+    ],
+    "decks": [
+      "symbol"
+    ],
+    "groups": []
+  },
+  "3089": {
+    "id": "3089",
+    "name": {
+      "en": "different",
+      "pt": "diferente"
+    },
+    "aliasesEn": [
+      "difference",
+      "unequal"
+    ],
+    "aliasesPt": [
+      "diferença"
+    ],
+    "decks": [
+      "symbol"
+    ],
+    "groups": []
+  },
+  "3090": {
+    "id": "3090",
+    "name": {
+      "en": "angle",
+      "pt": "ângulo"
+    },
+    "decks": [
+      "suspect"
+    ],
+    "groups": []
+  },
+  "3091": {
+    "id": "3091",
+    "name": {
+      "en": "math",
+      "pt": "matemática"
+    },
+    "aliasesEn": [
+      "operations",
+      "signs"
+    ],
+    "aliasesPt": [
+      "operações"
+    ],
+    "decks": [
+      "meta"
     ],
     "groups": []
   }
