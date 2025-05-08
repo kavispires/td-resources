@@ -6,8 +6,8 @@
 			"pt": "Acessório"
 		},
 		"description": {
-			"en": "ornament, attachment, additional piece",
-			"pt": "ornamento, anexo, peça adicional"
+			"en": "decoration, ornament, add-on, embellishment, attachment, enhancement",
+			"pt": "decoração, ornamento, anexo, embelezamento, adição, aprimoramento"
 		},
 		"priority": 87,
 		"level": 4,
@@ -15,7 +15,7 @@
 		"relatedId": "too",
 		"default": false,
 		"specific": true,
-		"keywords": "accessory ornament attachment additional piece acessório ornamento anexo peça adicional"
+		"keywords": "accessory decoration ornament add-on embellishment attachment enhancement acessório decoração ornamento anexo embelezamento adição aprimoramento"
 	},
 	"ali": {
 		"id": "ali",
@@ -202,11 +202,11 @@
 		"id": "def",
 		"name": {
 			"en": "Defense",
-			"pt": "Defesa"
+			"pt": "Proteção"
 		},
 		"description": {
 			"en": "shield, protection, covering",
-			"pt": "proteção, cobertura, escudo"
+			"pt": "defesa, cobertura, escudo"
 		},
 		"priority": 69,
 		"level": 4,
@@ -403,8 +403,8 @@
 			"pt": "Instrumento"
 		},
 		"description": {
-			"en": "utensil, equipment, support",
-			"pt": "utensílio, peça, equipamento, suporte"
+			"en": "utensil, equipment, precision, measurement, musical, artistic",
+			"pt": "utensílio, equipamento, precisão, medição, musical, artístico"
 		},
 		"priority": 84,
 		"level": 4,
@@ -412,7 +412,7 @@
 		"relatedId": "too",
 		"default": false,
 		"specific": true,
-		"keywords": "instrument utensil support equipment instrumento utensílio peça equipamento suporte"
+		"keywords": "instrument utensil equipment precision measurement musical artistic instrumento utensílio equipamento precisão medição musical artístico"
 	},
 	"kno": {
 		"id": "kno",
@@ -819,14 +819,14 @@
 			"pt": "Ferramenta"
 		},
 		"description": {
-			"en": "instrument, device, implement",
-			"pt": "instrumento, dispositivo, implemento"
+			"en": "implement, manual, work, construction, repair, utility, device",
+			"pt": "ferramenta, manual, trabalho, construção, reparo, utilitário, dispositivo"
 		},
 		"priority": 81,
 		"level": 3,
 		"spriteId": "sign-33",
 		"default": true,
-		"keywords": "tool instrument device implement ferramenta instrumento dispositivo implemento"
+		"keywords": "tool implement manual work construction repair utility device ferramenta ferramenta manual trabalho construção reparo utilitário dispositivo"
 	},
 	"toy": {
 		"id": "toy",
