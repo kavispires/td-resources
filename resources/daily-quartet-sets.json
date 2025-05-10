@@ -511,13 +511,15 @@
   "0d2b9": {
     "id": "0d2b9",
     "title": "Estrelas",
+    "type": "visual",
     "itemsIds": [
       "1663",
       "1217",
       "294",
-      "2837"
+      "2837",
+      "1763"
     ],
-    "level": 0
+    "level": 2
   },
   "0dd1c": {
     "id": "0dd1c",
@@ -536,13 +538,14 @@
   "0e477": {
     "id": "0e477",
     "title": "Quadras e campos esportivos",
+    "type": "general",
     "itemsIds": [
       "1474",
       "1477",
       "1669",
       "1472"
     ],
-    "level": 0
+    "level": 2
   },
   "0ff5c": {
     "id": "0ff5c",
@@ -782,6 +785,7 @@
   "20bca": {
     "id": "20bca",
     "title": "Espaço sideral",
+    "type": "general",
     "itemsIds": [
       "1052",
       "1054",
@@ -1172,13 +1176,15 @@
   "336ec": {
     "id": "336ec",
     "title": "Parte Interna do Corpo",
+    "type": "general",
     "itemsIds": [
       "632",
       "402",
       "2814",
-      "1347"
+      "1347",
+      "2665"
     ],
-    "level": 0
+    "level": 1
   },
   "354c8": {
     "id": "354c8",
@@ -1250,11 +1256,14 @@
   "36f5c": {
     "id": "36f5c",
     "title": "Matemática",
+    "type": "general",
     "itemsIds": [
       "1872",
       "2168",
       "2169",
-      "2170"
+      "2170",
+      "3088",
+      "3089"
     ],
     "level": 1
   },
@@ -1388,10 +1397,12 @@
   "3fc83": {
     "id": "3fc83",
     "title": "Corrente",
+    "type": "visual",
     "itemsIds": [
       "488",
       "726",
-      "2294"
+      "2294",
+      "558"
     ],
     "level": 0
   },
@@ -1825,14 +1836,15 @@
   },
   "5c9fe": {
     "id": "5c9fe",
-    "title": "Quadrado com quatro coisas",
+    "title": "Mini Quartetos",
     "type": "visual",
     "itemsIds": [
       "2590",
       "2619",
       "2176",
       "2594",
-      "1850"
+      "1850",
+      "3091"
     ],
     "level": 1
   },
@@ -2576,7 +2588,7 @@
       "1712",
       "2429"
     ],
-    "level": 0
+    "level": 1
   },
   "9431b": {
     "id": "9431b",
@@ -3019,12 +3031,14 @@
   "a8bbc": {
     "id": "a8bbc",
     "title": "Usado para abrir",
+    "type": "attribute",
     "itemsIds": [
       "199",
       "288",
-      "688"
+      "688",
+      "999"
     ],
-    "level": 0
+    "level": 2
   },
   "a90a5": {
     "id": "a90a5",
@@ -3104,10 +3118,12 @@
   "ac819": {
     "id": "ac819",
     "title": "Disco",
+    "type": "general",
     "itemsIds": [
       "414",
       "424",
-      "588"
+      "588",
+      "1454"
     ],
     "level": 0
   },
@@ -3347,7 +3363,8 @@
     "itemsIds": [
       "79",
       "236",
-      "491"
+      "491",
+      "2436"
     ],
     "level": 0
   },
@@ -3488,11 +3505,14 @@
   "c1609": {
     "id": "c1609",
     "title": "Lua",
+    "type": "visual",
     "itemsIds": [
       "916",
-      "1489"
+      "1489",
+      "2626",
+      "1059"
     ],
-    "level": 0
+    "level": 1
   },
   "c1a6a": {
     "id": "c1a6a",
