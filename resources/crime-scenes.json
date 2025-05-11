@@ -35,7 +35,8 @@
 				"en": "Accident",
 				"pt": "Acidente"
 			}
-		]
+		],
+		"specific": "weapon"
 	},
 	"scene-0-evidence": {
 		"id": "scene-0-evidence",
@@ -48,6 +49,7 @@
 			"en": "How the selected object relates to the crime?",
 			"pt": "Como a evidência selecionada se relaciona com o crime?"
 		},
+		"specific": "evidence",
 		"values": [
 			{
 				"en": "Left on top of the body",
@@ -111,7 +113,8 @@
 				"en": "Unknown",
 				"pt": "Desconhecido"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "evidence", "victim", "weapon"]
 	},
 	"scene-01": {
 		"id": "scene-01",
@@ -150,7 +153,8 @@
 				"en": "Silence",
 				"pt": "Silêncio"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "evidence", "victim", "weapon"]
 	},
 	"scene-02": {
 		"id": "scene-02",
@@ -189,7 +193,8 @@
 				"en": "Twisted",
 				"pt": "Retorcido"
 			}
-		]
+		],
+		"likelihoodPriority": ["weapon", "location", "victim", "evidence"]
 	},
 	"scene-03": {
 		"id": "scene-03",
@@ -228,7 +233,8 @@
 				"en": "Winter",
 				"pt": "Inverno"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "evidence", "victim", "weapon"]
 	},
 	"scene-04": {
 		"id": "scene-04",
@@ -267,13 +273,14 @@
 				"en": "Unclear",
 				"pt": "Inconclusivo"
 			}
-		]
+		],
+		"likelihoodPriority": ["weapon", "victim", "location", "evidence"]
 	},
 	"scene-05": {
 		"id": "scene-05",
 		"title": {
-			"en": "Chosen Evidence",
-			"pt": "Evidência Escolhida"
+			"en": "Evidence Nature",
+			"pt": "Natureza da Evidência"
 		},
 		"type": "scene",
 		"description": {
@@ -306,7 +313,8 @@
 				"en": "Unrelated",
 				"pt": "Irrelevante"
 			}
-		]
+		],
+		"likelihoodPriority": ["evidence", "victim", "location", "weapon"]
 	},
 	"scene-06": {
 		"id": "scene-06",
@@ -345,7 +353,8 @@
 				"en": "Suspenseful",
 				"pt": "Misterioso"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "evidence", "victim", "weapon"]
 	},
 	"scene-07": {
 		"id": "scene-07",
@@ -384,7 +393,8 @@
 				"en": "All-over",
 				"pt": "Pra Todo Lado"
 			}
-		]
+		],
+		"likelihoodPriority": ["victim", "weapon", "evidence", "location"]
 	},
 	"scene-08": {
 		"id": "scene-08",
@@ -423,7 +433,8 @@
 				"en": "Dining",
 				"pt": "Refeição"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "evidence", "victim", "weapon"]
 	},
 	"scene-09": {
 		"id": "scene-09",
@@ -462,7 +473,8 @@
 				"en": "Nothing",
 				"pt": "Nada"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "victim", "evidence", "weapon"]
 	},
 	"scene-10": {
 		"id": "scene-10",
@@ -501,7 +513,8 @@
 				"en": "Justice",
 				"pt": "Justiça"
 			}
-		]
+		],
+		"likelihoodPriority": ["victim", "weapon", "evidence", "location"]
 	},
 	"scene-11": {
 		"id": "scene-11",
@@ -540,7 +553,8 @@
 				"en": "None",
 				"pt": "Nada"
 			}
-		]
+		],
+		"likelihoodPriority": ["weapon", "evidence", "location", "victim"]
 	},
 	"scene-12": {
 		"id": "scene-12",
@@ -579,7 +593,8 @@
 				"en": "Perverted",
 				"pt": "Pervertido"
 			}
-		]
+		],
+		"likelihoodPriority": ["weapon", "victim", "evidence", "location"]
 	},
 	"scene-13": {
 		"id": "scene-13",
@@ -631,7 +646,6 @@
 			"en": "What would a person sense while in the crime scene?",
 			"pt": "O que uma pessoa perceberia na cena do crime?"
 		},
-		"specific": null,
 		"values": [
 			{
 				"en": "Bright Colors",
@@ -657,7 +671,8 @@
 				"en": "Utter Confusion",
 				"pt": "Confusão total"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "evidence", "victim", "weapon"]
 	},
 	"scene-15": {
 		"id": "scene-15",
@@ -696,7 +711,8 @@
 				"en": "Food",
 				"pt": "Comida"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "evidence", "weapon", "victim"]
 	},
 	"scene-16": {
 		"id": "scene-16",
@@ -735,7 +751,8 @@
 				"en": "Strangers",
 				"pt": "Desconhecidos"
 			}
-		]
+		],
+		"likelihoodPriority": ["victim", "evidence", "location", "weapon"]
 	},
 	"scene-17": {
 		"id": "scene-17",
@@ -774,7 +791,8 @@
 				"en": "Tidy",
 				"pt": "Arrumado"
 			}
-		]
+		],
+		"likelihoodPriority": ["weapon", "location", "evidence", "victim"]
 	},
 	"scene-18": {
 		"id": "scene-18",
@@ -813,7 +831,8 @@
 				"en": "Nothing",
 				"pt": "Nada"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "weapon", "evidence", "victim"]
 	},
 	"scene-19": {
 		"id": "scene-19",
@@ -852,7 +871,8 @@
 				"en": "Night",
 				"pt": "Madrugada"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "victim", "evidence", "weapon"]
 	},
 	"scene-20": {
 		"id": "scene-20",
@@ -891,7 +911,8 @@
 				"en": "Scar",
 				"pt": "Cicatriz"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "victim", "weapon", "evidence"]
 	},
 	"scene-21": {
 		"id": "scene-21",
@@ -930,7 +951,8 @@
 				"en": "Fit",
 				"pt": "Malhado"
 			}
-		]
+		],
+		"likelihoodPriority": ["victim", "evidence", "location", "weapon"]
 	},
 	"scene-22": {
 		"id": "scene-22",
@@ -969,7 +991,8 @@
 				"en": "Naked",
 				"pt": "Pelada"
 			}
-		]
+		],
+		"likelihoodPriority": ["victim", "evidence", "location", "weapon"]
 	},
 	"scene-23": {
 		"id": "scene-23",
@@ -1008,7 +1031,8 @@
 				"en": "Angry",
 				"pt": "Zangado"
 			}
-		]
+		],
+		"likelihoodPriority": ["weapon", "victim", "evidence", "location"]
 	},
 	"scene-24": {
 		"id": "scene-24",
@@ -1047,7 +1071,8 @@
 				"en": "Fashion",
 				"pt": "Moda"
 			}
-		]
+		],
+		"likelihoodPriority": ["evidence", "victim", "location", "weapon"]
 	},
 	"scene-25": {
 		"id": "scene-25",
@@ -1086,7 +1111,8 @@
 				"en": "Female",
 				"pt": "Mulher"
 			}
-		]
+		],
+		"likelihoodPriority": ["victim", "evidence", "location", "weapon"]
 	},
 	"scene-26": {
 		"id": "scene-26",
@@ -1125,7 +1151,8 @@
 				"en": "Retired",
 				"pt": "Aposentado"
 			}
-		]
+		],
+		"likelihoodPriority": ["victim", "evidence", "location", "weapon"]
 	},
 	"scene-27": {
 		"id": "scene-27",
@@ -1164,7 +1191,8 @@
 				"en": "Average",
 				"pt": "Normal"
 			}
-		]
+		],
+		"likelihoodPriority": ["victim", "evidence", "location", "weapon"]
 	},
 	"scene-28": {
 		"id": "scene-28",
@@ -1203,6 +1231,7 @@
 				"en": "Hot",
 				"pt": "Quente"
 			}
-		]
+		],
+		"likelihoodPriority": ["location", "evidence", "victim", "weapon"]
 	}
 }
