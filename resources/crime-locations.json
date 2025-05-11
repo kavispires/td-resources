@@ -1,933 +1,1025 @@
 {
-	"dmhk-lc-1": {
-		"id": "dmhk-lc-1",
-		"name": {
-			"en": "Public park",
-			"pt": "Parque público"
-		},
-		"type": "location",
-		"itemId": "2773",
-		"tags": []
-	},
-	"dmhk-lc-2": {
-		"id": "dmhk-lc-2",
-		"name": {
-			"en": "Grocery Store",
-			"pt": "Supermercado"
-		},
-		"type": "location",
-		"itemId": "1557",
-		"tags": []
-	},
-	"dmhk-lc-3": {
-		"id": "dmhk-lc-3",
-		"name": {
-			"en": "Apartment Hallway",
-			"pt": "Corredor"
-		},
-		"type": "location",
-		"itemId": "3011",
-		"tags": []
-	},
-	"dmhk-lc-4": {
-		"id": "dmhk-lc-4",
-		"name": {
-			"en": "Kitchen",
-			"pt": "Cozinha"
-		},
-		"type": "location",
-		"itemId": "2770",
-		"tags": []
-	},
-	"dmhk-lc-5": {
-		"id": "dmhk-lc-5",
-		"name": {
-			"en": "Garage",
-			"pt": "Garagem"
-		},
-		"type": "location",
-		"itemId": "2772",
-		"tags": []
-	},
-	"dmhk-lc-6": {
-		"id": "dmhk-lc-6",
-		"name": {
-			"en": "Coffee Shop",
-			"pt": "Cafeteria"
-		},
-		"type": "location",
-		"itemId": "1823",
-		"tags": []
-	},
-	"dmhk-lc-7": {
-		"id": "dmhk-lc-7",
-		"name": {
-			"en": "Library",
-			"pt": "Biblioteca"
-		},
-		"type": "location",
-		"itemId": "1934",
-		"tags": []
-	},
-	"dmhk-lc-8": {
-		"id": "dmhk-lc-8",
-		"name": {
-			"en": "Bus stop",
-			"pt": "Ponto de ônibus"
-		},
-		"type": "location",
-		"itemId": "852",
-		"tags": []
-	},
-	"dmhk-lc-9": {
-		"id": "dmhk-lc-9",
-		"name": {
-			"en": "Hotel Room",
-			"pt": "Quarto de hotel"
-		},
-		"type": "location",
-		"itemId": "2089",
-		"tags": []
-	},
-	"dmhk-lc-10": {
-		"id": "dmhk-lc-10",
-		"name": {
-			"en": "Gas Station",
-			"pt": "Posto de gasolina"
-		},
-		"type": "location",
-		"itemId": "1551",
-		"tags": []
-	},
-	"dmhk-lc-11": {
-		"id": "dmhk-lc-11",
-		"name": {
-			"en": "Hospital",
-			"pt": "Hospital"
-		},
-		"type": "location",
-		"itemId": "928",
-		"tags": []
-	},
-	"dmhk-lc-12": {
-		"id": "dmhk-lc-12",
-		"name": {
-			"en": "Police Station",
-			"pt": "Delegacia"
-		},
-		"type": "location",
-		"itemId": "1270",
-		"tags": []
-	},
-	"dmhk-lc-13": {
-		"id": "dmhk-lc-13",
-		"name": {
-			"en": "School Locker Room",
-			"pt": "Vestiário escolar"
-		},
-		"type": "location",
-		"itemId": "3006",
-		"tags": []
-	},
-	"dmhk-lc-14": {
-		"id": "dmhk-lc-14",
-		"name": {
-			"en": "Office building",
-			"pt": "Prédio de escritórios"
-		},
-		"type": "location",
-		"itemId": "489",
-		"tags": []
-	},
-	"dmhk-lc-15": {
-		"id": "dmhk-lc-15",
-		"name": {
-			"en": "Prison cell",
-			"pt": "Cela de prisão"
-		},
-		"type": "location",
-		"itemId": "482",
-		"tags": []
-	},
-	"dmhk-lc-16": {
-		"id": "dmhk-lc-16",
-		"name": {
-			"en": "Research Lab",
-			"pt": "Laboratório de pesquisa"
-		},
-		"type": "location",
-		"itemId": "3009",
-		"tags": []
-	},
-	"dmhk-lc-17": {
-		"id": "dmhk-lc-17",
-		"name": {
-			"en": "Warehouse",
-			"pt": "Armazém"
-		},
-		"type": "location",
-		"itemId": "1508",
-		"tags": []
-	},
-	"dmhk-lc-18": {
-		"id": "dmhk-lc-18",
-		"name": {
-			"en": "News Studio",
-			"pt": "Estúdio de notícias"
-		},
-		"type": "location",
-		"itemId": "3010",
-		"tags": []
-	},
-	"dmhk-lc-19": {
-		"id": "dmhk-lc-19",
-		"name": {
-			"en": "Factory Floor",
-			"pt": "Fábrica"
-		},
-		"type": "location",
-		"itemId": "838",
-		"tags": []
-	},
-	"dmhk-lc-20": {
-		"id": "dmhk-lc-20",
-		"name": {
-			"en": "Abandoned House",
-			"pt": "Casa abandonada"
-		},
-		"type": "location",
-		"itemId": "893",
-		"tags": []
-	},
-	"dmhk-lc-21": {
-		"id": "dmhk-lc-21",
-		"name": {
-			"en": "Train Tracks",
-			"pt": "Trilhos de trem"
-		},
-		"type": "location",
-		"itemId": "455",
-		"tags": []
-	},
-	"dmhk-lc-22": {
-		"id": "dmhk-lc-22",
-		"name": {
-			"en": "Dark Alley",
-			"pt": "Beco escuro"
-		},
-		"type": "location",
-		"itemId": "3012",
-		"tags": []
-	},
-	"dmhk-lc-23": {
-		"id": "dmhk-lc-23",
-		"name": {
-			"en": "Motel Room",
-			"pt": "Quarto de motel"
-		},
-		"type": "location",
-		"itemId": "3000",
-		"tags": []
-	},
-	"dmhk-lc-24": {
-		"id": "dmhk-lc-24",
-		"name": {
-			"en": "Penthouse",
-			"pt": "Cobertura"
-		},
-		"type": "location",
-		"itemId": "2992",
-		"tags": []
-	},
-	"dmhk-lc-25": {
-		"id": "dmhk-lc-25",
-		"name": {
-			"en": "Cemetery",
-			"pt": "Cemitério"
-		},
-		"type": "location",
-		"itemId": "2339",
-		"tags": []
-	},
-	"dmhk-lc-26": {
-		"id": "dmhk-lc-26",
-		"name": {
-			"en": "Forest clearing",
-			"pt": "Clareira na floresta"
-		},
-		"type": "location",
-		"itemId": "1522",
-		"tags": []
-	},
-	"dmhk-lc-27": {
-		"id": "dmhk-lc-27",
-		"name": {
-			"en": "Beach",
-			"pt": "Praia"
-		},
-		"type": "location",
-		"itemId": "1684",
-		"tags": []
-	},
-	"dmhk-lc-28": {
-		"id": "dmhk-lc-28",
-		"name": {
-			"en": "Subway tunnel",
-			"pt": "Túnel de metrô"
-		},
-		"type": "location",
-		"itemId": "2447",
-		"tags": []
-	},
-	"dmhk-lc-29": {
-		"id": "dmhk-lc-29",
-		"name": {
-			"en": "Airplane",
-			"pt": "Avião"
-		},
-		"type": "location",
-		"itemId": "219",
-		"tags": []
-	},
-	"dmhk-lc-30": {
-		"id": "dmhk-lc-30",
-		"name": {
-			"en": "Passenger Train",
-			"pt": "Trem de passageiros"
-		},
-		"type": "location",
-		"itemId": "550",
-		"tags": []
-	},
-	"dmhk-lc-31": {
-		"id": "dmhk-lc-31",
-		"name": {
-			"en": "Ferry Boat",
-			"pt": "Balsa"
-		},
-		"type": "location",
-		"itemId": "3014",
-		"tags": []
-	},
-	"dmhk-lc-32": {
-		"id": "dmhk-lc-32",
-		"name": {
-			"en": "Elevator",
-			"pt": "Elevador"
-		},
-		"type": "location",
-		"itemId": "741",
-		"tags": []
-	},
-	"dmhk-lc-33": {
-		"id": "dmhk-lc-33",
-		"name": {
-			"en": "Parking Garage",
-			"pt": "Estacionamento"
-		},
-		"type": "location",
-		"itemId": "3015",
-		"tags": []
-	},
-	"dmhk-lc-34": {
-		"id": "dmhk-lc-34",
-		"name": {
-			"en": "Cruise Ship",
-			"pt": "Navio de cruzeiro"
-		},
-		"type": "location",
-		"itemId": "1866",
-		"tags": []
-	},
-	"dmhk-lc-35": {
-		"id": "dmhk-lc-35",
-		"name": {
-			"en": "Art Gallery",
-			"pt": "Galeria de arte"
-		},
-		"type": "location",
-		"itemId": "3016",
-		"tags": []
-	},
-	"dmhk-lc-36": {
-		"id": "dmhk-lc-36",
-		"name": {
-			"en": "Mansion Garden",
-			"pt": "Jardim de mansão"
-		},
-		"type": "location",
-		"itemId": "3017",
-		"tags": []
-	},
-	"dmhk-lc-37": {
-		"id": "dmhk-lc-37",
-		"name": {
-			"en": "Casino Floor",
-			"pt": "Salão de cassino"
-		},
-		"type": "location",
-		"itemId": "2470",
-		"tags": []
-	},
-	"dmhk-lc-38": {
-		"id": "dmhk-lc-38",
-		"name": {
-			"en": "Nightclub",
-			"pt": "Boate"
-		},
-		"type": "location",
-		"itemId": "1653",
-		"tags": []
-	},
-	"dmhk-lc-39": {
-		"id": "dmhk-lc-39",
-		"name": {
-			"en": "Street",
-			"pt": "Rua"
-		},
-		"type": "location",
-		"itemId": "2192",
-		"tags": []
-	},
-	"dmhk-lc-40": {
-		"id": "dmhk-lc-40",
-		"name": {
-			"en": "Theater",
-			"pt": "Teatro"
-		},
-		"type": "location",
-		"itemId": "2784",
-		"tags": []
-	},
-	"dmhk-lc-41": {
-		"id": "dmhk-lc-41",
-		"name": {
-			"en": "Fashion Show",
-			"pt": "Desfile de moda"
-		},
-		"type": "location",
-		"itemId": "1274",
-		"tags": []
-	},
-	"dmhk-lc-42": {
-		"id": "dmhk-lc-42",
-		"name": {
-			"en": "Wine Cellar",
-			"pt": "Adega de vinho"
-		},
-		"type": "location",
-		"itemId": "3018",
-		"tags": []
-	},
-	"dmhk-lc-43": {
-		"id": "dmhk-lc-43",
-		"name": {
-			"en": "Amusement Park",
-			"pt": "Parque de diversões"
-		},
-		"type": "location",
-		"itemId": "2900",
-		"tags": []
-	},
-	"dmhk-lc-44": {
-		"id": "dmhk-lc-44",
-		"name": {
-			"en": "Shopping Mall",
-			"pt": "Shopping"
-		},
-		"type": "location",
-		"itemId": "1783",
-		"tags": []
-	},
-	"dmhk-lc-45": {
-		"id": "dmhk-lc-45",
-		"name": {
-			"en": "Racetrack",
-			"pt": "Pista de corrida"
-		},
-		"type": "location",
-		"itemId": "2131",
-		"tags": []
-	},
-	"dmhk-lc-46": {
-		"id": "dmhk-lc-46",
-		"name": {
-			"en": "Bar",
-			"pt": "Bar"
-		},
-		"type": "location",
-		"itemId": "2445",
-		"tags": []
-	},
-	"dmhk-lc-47": {
-		"id": "dmhk-lc-47",
-		"name": {
-			"en": "Swimming Pool",
-			"pt": "Piscina"
-		},
-		"type": "location",
-		"itemId": "733",
-		"tags": []
-	},
-	"dmhk-lc-48": {
-		"id": "dmhk-lc-48",
-		"name": {
-			"en": "Skate Park",
-			"pt": "Parque de skate"
-		},
-		"type": "location",
-		"itemId": "1369",
-		"tags": []
-	},
-	"dmhk-lc-49": {
-		"id": "dmhk-lc-49",
-		"name": {
-			"en": "Soccer Field",
-			"pt": "Campo de futebol"
-		},
-		"type": "location",
-		"itemId": "1474",
-		"tags": []
-	},
-	"dmhk-lc-50": {
-		"id": "dmhk-lc-50",
-		"name": {
-			"en": "Dog Park",
-			"pt": "Parque para cães"
-		},
-		"type": "location",
-		"itemId": "2789",
-		"tags": []
-	},
-	"dmhk-lc-51": {
-		"id": "dmhk-lc-51",
-		"name": {
-			"en": "Docks",
-			"pt": "Cais"
-		},
-		"type": "location",
-		"itemId": "2266",
-		"tags": []
-	},
-	"dmhk-lc-52": {
-		"id": "dmhk-lc-52",
-		"name": {
-			"en": "Dream",
-			"pt": "Sonho"
-		},
-		"type": "location",
-		"itemId": "1333",
-		"tags": []
-	},
-	"dmhk-lc-53": {
-		"id": "dmhk-lc-53",
-		"name": {
-			"en": "Lighthouse",
-			"pt": "Farol"
-		},
-		"type": "location",
-		"itemId": "73",
-		"tags": []
-	},
-	"dmhk-lc-54": {
-		"id": "dmhk-lc-54",
-		"name": {
-			"en": "Castle",
-			"pt": "Castelo"
-		},
-		"type": "location",
-		"itemId": "182",
-		"tags": []
-	},
-	"dmhk-lc-55": {
-		"id": "dmhk-lc-55",
-		"name": {
-			"en": "Mountains",
-			"pt": "Montanhas"
-		},
-		"type": "location",
-		"itemId": "450",
-		"tags": []
-	},
-	"dmhk-lc-56": {
-		"id": "dmhk-lc-56",
-		"name": {
-			"en": "Cave",
-			"pt": "Caverna"
-		},
-		"type": "location",
-		"itemId": "1294",
-		"tags": []
-	},
-	"dmhk-lc-57": {
-		"id": "dmhk-lc-57",
-		"name": {
-			"en": "Mountain Cabin",
-			"pt": "Cabana de montanha"
-		},
-		"type": "location",
-		"itemId": "2775",
-		"tags": []
-	},
-	"dmhk-lc-58": {
-		"id": "dmhk-lc-58",
-		"name": {
-			"en": "Stable",
-			"pt": "Estábulo"
-		},
-		"type": "location",
-		"itemId": "35",
-		"tags": []
-	},
-	"dmhk-lc-59": {
-		"id": "dmhk-lc-59",
-		"name": {
-			"en": "Church",
-			"pt": "Igreja"
-		},
-		"type": "location",
-		"itemId": "372",
-		"tags": []
-	},
-	"dmhk-lc-60": {
-		"id": "dmhk-lc-60",
-		"name": {
-			"en": "Circus",
-			"pt": "Circo"
-		},
-		"type": "location",
-		"itemId": "521",
-		"tags": []
-	},
-	"dmhk-lc-61": {
-		"id": "dmhk-lc-61",
-		"name": {
-			"en": "Scaffolding",
-			"pt": "Andaime"
-		},
-		"type": "location",
-		"itemId": "629",
-		"tags": []
-	},
-	"dmhk-lc-62": {
-		"id": "dmhk-lc-62",
-		"name": {
-			"en": "Waterfall",
-			"pt": "Cachoeira"
-		},
-		"type": "location",
-		"itemId": "908",
-		"tags": []
-	},
-	"dmhk-lc-63": {
-		"id": "dmhk-lc-63",
-		"name": {
-			"en": "Slum",
-			"pt": "Quebrada da favela"
-		},
-		"type": "location",
-		"itemId": "1313",
-		"tags": []
-	},
-	"dmhk-lc-64": {
-		"id": "dmhk-lc-64",
-		"name": {
-			"en": "Playground",
-			"pt": "Parquinho"
-		},
-		"type": "location",
-		"itemId": "1273",
-		"tags": []
-	},
-	"dmhk-lc-65": {
-		"id": "dmhk-lc-65",
-		"name": {
-			"en": "Bridge",
-			"pt": "Ponte"
-		},
-		"type": "location",
-		"itemId": "617",
-		"tags": []
-	},
-	"dmhk-lc-66": {
-		"id": "dmhk-lc-66",
-		"name": {
-			"en": "Stadium",
-			"pt": "Estádio"
-		},
-		"type": "location",
-		"itemId": "843",
-		"tags": []
-	},
-	"dmhk-lc-67": {
-		"id": "dmhk-lc-67",
-		"name": {
-			"en": "Parade",
-			"pt": "Carnaval"
-		},
-		"type": "location",
-		"itemId": "2087",
-		"tags": []
-	},
-	"dmhk-lc-68": {
-		"id": "dmhk-lc-68",
-		"name": {
-			"en": "Pagoda",
-			"pt": "Pagoda"
-		},
-		"type": "location",
-		"itemId": "459",
-		"tags": []
-	},
-	"dmhk-lc-69": {
-		"id": "dmhk-lc-69",
-		"name": {
-			"en": "Construction Site",
-			"pt": "Canteiro de obras"
-		},
-		"type": "location",
-		"itemId": "629",
-		"tags": []
-	},
-	"dmhk-lc-70": {
-		"id": "dmhk-lc-70",
-		"name": {
-			"en": "Concert",
-			"pt": "Show"
-		},
-		"type": "location",
-		"itemId": "984",
-		"tags": []
-	},
-	"dmhk-lc-71": {
-		"id": "dmhk-lc-71",
-		"name": {
-			"en": "Movie Theater",
-			"pt": "Cinema"
-		},
-		"type": "location",
-		"itemId": "1403",
-		"tags": []
-	},
-	"dmhk-lc-72": {
-		"id": "dmhk-lc-72",
-		"name": {
-			"en": "Mansion",
-			"pt": "Mansão"
-		},
-		"type": "location",
-		"itemId": "1491",
-		"tags": []
-	},
-	"dmhk-lc-73": {
-		"id": "dmhk-lc-73",
-		"name": {
-			"en": "Desert",
-			"pt": "Deserto"
-		},
-		"type": "location",
-		"itemId": "1515",
-		"tags": []
-	},
-	"dmhk-lc-74": {
-		"id": "dmhk-lc-74",
-		"name": {
-			"en": "Bank",
-			"pt": "Banco"
-		},
-		"type": "location",
-		"itemId": "1548",
-		"tags": []
-	},
-	"dmhk-lc-75": {
-		"id": "dmhk-lc-75",
-		"name": {
-			"en": "Boutique",
-			"pt": "Butique"
-		},
-		"type": "location",
-		"itemId": "1559",
-		"tags": []
-	},
-	"dmhk-lc-76": {
-		"id": "dmhk-lc-76",
-		"name": {
-			"en": "Barn",
-			"pt": "Celeiro"
-		},
-		"type": "location",
-		"itemId": "1602",
-		"tags": []
-	},
-	"dmhk-lc-77": {
-		"id": "dmhk-lc-77",
-		"name": {
-			"en": "Tree House",
-			"pt": "Casa na árvore"
-		},
-		"type": "location",
-		"itemId": "1811",
-		"tags": []
-	},
-	"dmhk-lc-78": {
-		"id": "dmhk-lc-78",
-		"name": {
-			"en": "Lake",
-			"pt": "Lago"
-		},
-		"type": "location",
-		"itemId": "1816",
-		"tags": []
-	},
-	"dmhk-lc-79": {
-		"id": "dmhk-lc-79",
-		"name": {
-			"en": "Dressing Room",
-			"pt": "Camarim"
-		},
-		"type": "location",
-		"itemId": "1835",
-		"tags": []
-	},
-	"dmhk-lc-80": {
-		"id": "dmhk-lc-80",
-		"name": {
-			"en": "Autoshop",
-			"pt": "Oficina mecânica"
-		},
-		"type": "location",
-		"itemId": "1838",
-		"tags": []
-	},
-	"dmhk-lc-81": {
-		"id": "dmhk-lc-81",
-		"name": {
-			"en": "Museum",
-			"pt": "Museu"
-		},
-		"type": "location",
-		"itemId": "1847",
-		"tags": []
-	},
-	"dmhk-lc-82": {
-		"id": "dmhk-lc-82",
-		"name": {
-			"en": "Mosque",
-			"pt": "Mesquita"
-		},
-		"type": "location",
-		"itemId": "1916",
-		"tags": []
-	},
-	"dmhk-lc-83": {
-		"id": "dmhk-lc-83",
-		"name": {
-			"en": "Orphanage",
-			"pt": "Orfanato"
-		},
-		"type": "location",
-		"itemId": "2196",
-		"tags": []
-	},
-	"dmhk-lc-84": {
-		"id": "dmhk-lc-84",
-		"name": {
-			"en": "Fire Station",
-			"pt": "Corpo de bombeiros"
-		},
-		"type": "location",
-		"itemId": "2405",
-		"tags": []
-	},
-	"dmhk-lc-85": {
-		"id": "dmhk-lc-85",
-		"name": {
-			"en": "Retirement Home",
-			"pt": "Casa de repouso"
-		},
-		"type": "location",
-		"itemId": "2905",
-		"tags": []
-	},
-	"dmhk-lc-86": {
-		"id": "dmhk-lc-86",
-		"name": {
-			"en": "Rooftop",
-			"pt": "Telhado"
-		},
-		"type": "location",
-		"itemId": "2440",
-		"tags": []
-	},
-	"dmhk-lc-87": {
-		"id": "dmhk-lc-87",
-		"name": {
-			"en": "Zoo",
-			"pt": "Zoológico"
-		},
-		"type": "location",
-		"itemId": "2409",
-		"tags": []
-	},
-	"dmhk-lc-88": {
-		"id": "dmhk-lc-88",
-		"name": {
-			"en": "Movie Set",
-			"pt": "Set de filme"
-		},
-		"type": "location",
-		"itemId": "2474",
-		"tags": []
-	},
-	"dmhk-lc-89": {
-		"id": "dmhk-lc-89",
-		"name": {
-			"en": "Bookmaker",
-			"pt": "Casa de apostas"
-		},
-		"type": "location",
-		"itemId": "2543",
-		"tags": []
-	},
-
-	"dmhk-lc-90": {
-		"id": "dmhk-lc-90",
-		"name": {
-			"en": "Synagogue",
-			"pt": "Sinagoga"
-		},
-		"type": "location",
-		"itemId": "2381",
-		"tags": []
-	},
-	"dmhk-lc-91": {
-		"id": "dmhk-lc-91",
-		"name": {
-			"en": "Daycare",
-			"pt": "Creche"
-		},
-		"type": "location",
-		"itemId": "2388",
-		"tags": []
-	},
-	"dmhk-lc-92": {
-		"id": "dmhk-lc-92",
-		"name": {
-			"en": "Car Wash",
-			"pt": "Lavagem de carros"
-		},
-		"type": "location",
-		"itemId": "2094",
-		"tags": []
-	},
-	"dmhk-lc-93": {
-		"id": "dmhk-lc-93",
-		"name": {
-			"en": "Gym",
-			"pt": "Academia"
-		},
-		"type": "location",
-		"itemId": "2618",
-		"tags": []
-	}
+  "dmhk-lc-1": {
+    "id": "dmhk-lc-1",
+    "name": {
+      "en": "Public park",
+      "pt": "Parque público"
+    },
+    "type": "location",
+    "itemId": "2773",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-10": {
+    "id": "dmhk-lc-10",
+    "name": {
+      "en": "Gas Station",
+      "pt": "Posto de gasolina"
+    },
+    "type": "location",
+    "itemId": "1551",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-11": {
+    "id": "dmhk-lc-11",
+    "name": {
+      "en": "Hospital",
+      "pt": "Hospital"
+    },
+    "type": "location",
+    "itemId": "928",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-12": {
+    "id": "dmhk-lc-12",
+    "name": {
+      "en": "Police Station",
+      "pt": "Delegacia"
+    },
+    "type": "location",
+    "itemId": "1270",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-13": {
+    "id": "dmhk-lc-13",
+    "name": {
+      "en": "School Locker Room",
+      "pt": "Vestiário escolar"
+    },
+    "type": "location",
+    "itemId": "3006",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-14": {
+    "id": "dmhk-lc-14",
+    "name": {
+      "en": "Office building",
+      "pt": "Prédio de escritórios"
+    },
+    "type": "location",
+    "itemId": "489",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-15": {
+    "id": "dmhk-lc-15",
+    "name": {
+      "en": "Prison cell",
+      "pt": "Cela de prisão"
+    },
+    "type": "location",
+    "itemId": "482",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-16": {
+    "id": "dmhk-lc-16",
+    "name": {
+      "en": "Research Lab",
+      "pt": "Laboratório de pesquisa"
+    },
+    "type": "location",
+    "itemId": "3009",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-17": {
+    "id": "dmhk-lc-17",
+    "name": {
+      "en": "Warehouse",
+      "pt": "Armazém"
+    },
+    "type": "location",
+    "itemId": "1508",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-18": {
+    "id": "dmhk-lc-18",
+    "name": {
+      "en": "News Studio",
+      "pt": "Estúdio de notícias"
+    },
+    "type": "location",
+    "itemId": "3010",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-19": {
+    "id": "dmhk-lc-19",
+    "name": {
+      "en": "Factory Floor",
+      "pt": "Fábrica"
+    },
+    "type": "location",
+    "itemId": "838",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-2": {
+    "id": "dmhk-lc-2",
+    "name": {
+      "en": "Grocery Store",
+      "pt": "Supermercado"
+    },
+    "type": "location",
+    "itemId": "1557",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-20": {
+    "id": "dmhk-lc-20",
+    "name": {
+      "en": "Abandoned House",
+      "pt": "Casa abandonada"
+    },
+    "type": "location",
+    "itemId": "893",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-21": {
+    "id": "dmhk-lc-21",
+    "name": {
+      "en": "Train Tracks",
+      "pt": "Trilhos de trem"
+    },
+    "type": "location",
+    "itemId": "455",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-22": {
+    "id": "dmhk-lc-22",
+    "name": {
+      "en": "Dark Alley",
+      "pt": "Beco escuro"
+    },
+    "type": "location",
+    "itemId": "3012",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-23": {
+    "id": "dmhk-lc-23",
+    "name": {
+      "en": "Motel Room",
+      "pt": "Quarto de motel"
+    },
+    "type": "location",
+    "itemId": "3000",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-24": {
+    "id": "dmhk-lc-24",
+    "name": {
+      "en": "Penthouse",
+      "pt": "Cobertura"
+    },
+    "type": "location",
+    "itemId": "2992",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-25": {
+    "id": "dmhk-lc-25",
+    "name": {
+      "en": "Cemetery",
+      "pt": "Cemitério"
+    },
+    "type": "location",
+    "itemId": "2339",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-26": {
+    "id": "dmhk-lc-26",
+    "name": {
+      "en": "Forest clearing",
+      "pt": "Clareira na floresta"
+    },
+    "type": "location",
+    "itemId": "1522",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-27": {
+    "id": "dmhk-lc-27",
+    "name": {
+      "en": "Beach",
+      "pt": "Praia"
+    },
+    "type": "location",
+    "itemId": "1684",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-28": {
+    "id": "dmhk-lc-28",
+    "name": {
+      "en": "Subway tunnel",
+      "pt": "Túnel de metrô"
+    },
+    "type": "location",
+    "itemId": "2447",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-29": {
+    "id": "dmhk-lc-29",
+    "name": {
+      "en": "Airplane",
+      "pt": "Avião"
+    },
+    "type": "location",
+    "itemId": "219",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-3": {
+    "id": "dmhk-lc-3",
+    "name": {
+      "en": "Apartment Hallway",
+      "pt": "Corredor"
+    },
+    "type": "location",
+    "itemId": "3011",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-30": {
+    "id": "dmhk-lc-30",
+    "name": {
+      "en": "Passenger Train",
+      "pt": "Trem de passageiros"
+    },
+    "type": "location",
+    "itemId": "550",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-31": {
+    "id": "dmhk-lc-31",
+    "name": {
+      "en": "Ferry Boat",
+      "pt": "Balsa"
+    },
+    "type": "location",
+    "itemId": "3014",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-32": {
+    "id": "dmhk-lc-32",
+    "name": {
+      "en": "Elevator",
+      "pt": "Elevador"
+    },
+    "type": "location",
+    "itemId": "741",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-33": {
+    "id": "dmhk-lc-33",
+    "name": {
+      "en": "Parking Garage",
+      "pt": "Estacionamento"
+    },
+    "type": "location",
+    "itemId": "3015",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-34": {
+    "id": "dmhk-lc-34",
+    "name": {
+      "en": "Cruise Ship",
+      "pt": "Navio de cruzeiro"
+    },
+    "type": "location",
+    "itemId": "1866",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-35": {
+    "id": "dmhk-lc-35",
+    "name": {
+      "en": "Art Gallery",
+      "pt": "Galeria de arte"
+    },
+    "type": "location",
+    "itemId": "3016",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-36": {
+    "id": "dmhk-lc-36",
+    "name": {
+      "en": "Mansion Garden",
+      "pt": "Jardim de mansão"
+    },
+    "type": "location",
+    "itemId": "3017",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-37": {
+    "id": "dmhk-lc-37",
+    "name": {
+      "en": "Casino Floor",
+      "pt": "Salão de cassino"
+    },
+    "type": "location",
+    "itemId": "2470",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-38": {
+    "id": "dmhk-lc-38",
+    "name": {
+      "en": "Nightclub",
+      "pt": "Boate"
+    },
+    "type": "location",
+    "itemId": "1653",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-39": {
+    "id": "dmhk-lc-39",
+    "name": {
+      "en": "Street",
+      "pt": "Rua"
+    },
+    "type": "location",
+    "itemId": "2192",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-4": {
+    "id": "dmhk-lc-4",
+    "name": {
+      "en": "Kitchen",
+      "pt": "Cozinha"
+    },
+    "type": "location",
+    "itemId": "2770",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-40": {
+    "id": "dmhk-lc-40",
+    "name": {
+      "en": "Theater",
+      "pt": "Teatro"
+    },
+    "type": "location",
+    "itemId": "2784",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-41": {
+    "id": "dmhk-lc-41",
+    "name": {
+      "en": "Fashion Show",
+      "pt": "Desfile de moda"
+    },
+    "type": "location",
+    "itemId": "1274",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-42": {
+    "id": "dmhk-lc-42",
+    "name": {
+      "en": "Wine Cellar",
+      "pt": "Adega de vinho"
+    },
+    "type": "location",
+    "itemId": "3018",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-43": {
+    "id": "dmhk-lc-43",
+    "name": {
+      "en": "Amusement Park",
+      "pt": "Parque de diversões"
+    },
+    "type": "location",
+    "itemId": "2900",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-44": {
+    "id": "dmhk-lc-44",
+    "name": {
+      "en": "Shopping Mall",
+      "pt": "Shopping"
+    },
+    "type": "location",
+    "itemId": "1783",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-45": {
+    "id": "dmhk-lc-45",
+    "name": {
+      "en": "Racetrack",
+      "pt": "Pista de corrida"
+    },
+    "type": "location",
+    "itemId": "2131",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-46": {
+    "id": "dmhk-lc-46",
+    "name": {
+      "en": "Bar",
+      "pt": "Bar"
+    },
+    "type": "location",
+    "itemId": "2445",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-47": {
+    "id": "dmhk-lc-47",
+    "name": {
+      "en": "Swimming Pool",
+      "pt": "Piscina"
+    },
+    "type": "location",
+    "itemId": "733",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-48": {
+    "id": "dmhk-lc-48",
+    "name": {
+      "en": "Skate Park",
+      "pt": "Parque de skate"
+    },
+    "type": "location",
+    "itemId": "1369",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-49": {
+    "id": "dmhk-lc-49",
+    "name": {
+      "en": "Soccer Field",
+      "pt": "Campo de futebol"
+    },
+    "type": "location",
+    "itemId": "1474",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-5": {
+    "id": "dmhk-lc-5",
+    "name": {
+      "en": "Garage",
+      "pt": "Garagem"
+    },
+    "type": "location",
+    "itemId": "2772",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-50": {
+    "id": "dmhk-lc-50",
+    "name": {
+      "en": "Dog Park",
+      "pt": "Parque para cães"
+    },
+    "type": "location",
+    "itemId": "2789",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-51": {
+    "id": "dmhk-lc-51",
+    "name": {
+      "en": "Docks",
+      "pt": "Cais"
+    },
+    "type": "location",
+    "itemId": "2266",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-52": {
+    "id": "dmhk-lc-52",
+    "name": {
+      "en": "Dream",
+      "pt": "Sonho"
+    },
+    "type": "location",
+    "itemId": "1333",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-53": {
+    "id": "dmhk-lc-53",
+    "name": {
+      "en": "Lighthouse",
+      "pt": "Farol"
+    },
+    "type": "location",
+    "itemId": "73",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-54": {
+    "id": "dmhk-lc-54",
+    "name": {
+      "en": "Castle",
+      "pt": "Castelo"
+    },
+    "type": "location",
+    "itemId": "182",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-55": {
+    "id": "dmhk-lc-55",
+    "name": {
+      "en": "Mountains",
+      "pt": "Montanhas"
+    },
+    "type": "location",
+    "itemId": "450",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-56": {
+    "id": "dmhk-lc-56",
+    "name": {
+      "en": "Cave",
+      "pt": "Caverna"
+    },
+    "type": "location",
+    "itemId": "1294",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-57": {
+    "id": "dmhk-lc-57",
+    "name": {
+      "en": "Mountain Cabin",
+      "pt": "Cabana de montanha"
+    },
+    "type": "location",
+    "itemId": "2775",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-58": {
+    "id": "dmhk-lc-58",
+    "name": {
+      "en": "Stable",
+      "pt": "Estábulo"
+    },
+    "type": "location",
+    "itemId": "35",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-59": {
+    "id": "dmhk-lc-59",
+    "name": {
+      "en": "Church",
+      "pt": "Igreja"
+    },
+    "type": "location",
+    "itemId": "372",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-6": {
+    "id": "dmhk-lc-6",
+    "name": {
+      "en": "Coffee Shop",
+      "pt": "Cafeteria"
+    },
+    "type": "location",
+    "itemId": "1823",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-60": {
+    "id": "dmhk-lc-60",
+    "name": {
+      "en": "Circus",
+      "pt": "Circo"
+    },
+    "type": "location",
+    "itemId": "521",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-61": {
+    "id": "dmhk-lc-61",
+    "name": {
+      "en": "Scaffolding",
+      "pt": "Andaime"
+    },
+    "type": "location",
+    "itemId": "629",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-62": {
+    "id": "dmhk-lc-62",
+    "name": {
+      "en": "Waterfall",
+      "pt": "Cachoeira"
+    },
+    "type": "location",
+    "itemId": "908",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-63": {
+    "id": "dmhk-lc-63",
+    "name": {
+      "en": "Slum",
+      "pt": "Quebrada da favela"
+    },
+    "type": "location",
+    "itemId": "1313",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-64": {
+    "id": "dmhk-lc-64",
+    "name": {
+      "en": "Playground",
+      "pt": "Parquinho"
+    },
+    "type": "location",
+    "itemId": "1273",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-65": {
+    "id": "dmhk-lc-65",
+    "name": {
+      "en": "Bridge",
+      "pt": "Ponte"
+    },
+    "type": "location",
+    "itemId": "617",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-66": {
+    "id": "dmhk-lc-66",
+    "name": {
+      "en": "Stadium",
+      "pt": "Estádio"
+    },
+    "type": "location",
+    "itemId": "843",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-67": {
+    "id": "dmhk-lc-67",
+    "name": {
+      "en": "Parade",
+      "pt": "Carnaval"
+    },
+    "type": "location",
+    "itemId": "2087",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-68": {
+    "id": "dmhk-lc-68",
+    "name": {
+      "en": "Pagoda",
+      "pt": "Pagoda"
+    },
+    "type": "location",
+    "itemId": "459",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-69": {
+    "id": "dmhk-lc-69",
+    "name": {
+      "en": "Construction Site",
+      "pt": "Canteiro de obras"
+    },
+    "type": "location",
+    "itemId": "629",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-7": {
+    "id": "dmhk-lc-7",
+    "name": {
+      "en": "Library",
+      "pt": "Biblioteca"
+    },
+    "type": "location",
+    "itemId": "1934",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-70": {
+    "id": "dmhk-lc-70",
+    "name": {
+      "en": "Concert",
+      "pt": "Show"
+    },
+    "type": "location",
+    "itemId": "984",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-71": {
+    "id": "dmhk-lc-71",
+    "name": {
+      "en": "Movie Theater",
+      "pt": "Cinema"
+    },
+    "type": "location",
+    "itemId": "1403",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-72": {
+    "id": "dmhk-lc-72",
+    "name": {
+      "en": "Mansion",
+      "pt": "Mansão"
+    },
+    "type": "location",
+    "itemId": "1491",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-73": {
+    "id": "dmhk-lc-73",
+    "name": {
+      "en": "Desert",
+      "pt": "Deserto"
+    },
+    "type": "location",
+    "itemId": "1515",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-74": {
+    "id": "dmhk-lc-74",
+    "name": {
+      "en": "Bank",
+      "pt": "Banco"
+    },
+    "type": "location",
+    "itemId": "1548",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-75": {
+    "id": "dmhk-lc-75",
+    "name": {
+      "en": "Boutique",
+      "pt": "Butique"
+    },
+    "type": "location",
+    "itemId": "1559",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-76": {
+    "id": "dmhk-lc-76",
+    "name": {
+      "en": "Barn",
+      "pt": "Celeiro"
+    },
+    "type": "location",
+    "itemId": "1602",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-77": {
+    "id": "dmhk-lc-77",
+    "name": {
+      "en": "Tree House",
+      "pt": "Casa na árvore"
+    },
+    "type": "location",
+    "itemId": "1811",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-78": {
+    "id": "dmhk-lc-78",
+    "name": {
+      "en": "Lake",
+      "pt": "Lago"
+    },
+    "type": "location",
+    "itemId": "1816",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-79": {
+    "id": "dmhk-lc-79",
+    "name": {
+      "en": "Dressing Room",
+      "pt": "Camarim"
+    },
+    "type": "location",
+    "itemId": "1835",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-8": {
+    "id": "dmhk-lc-8",
+    "name": {
+      "en": "Bus stop",
+      "pt": "Ponto de ônibus"
+    },
+    "type": "location",
+    "itemId": "852",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-80": {
+    "id": "dmhk-lc-80",
+    "name": {
+      "en": "Autoshop",
+      "pt": "Oficina mecânica"
+    },
+    "type": "location",
+    "itemId": "1838",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-81": {
+    "id": "dmhk-lc-81",
+    "name": {
+      "en": "Museum",
+      "pt": "Museu"
+    },
+    "type": "location",
+    "itemId": "1847",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-82": {
+    "id": "dmhk-lc-82",
+    "name": {
+      "en": "Mosque",
+      "pt": "Mesquita"
+    },
+    "type": "location",
+    "itemId": "1916",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-83": {
+    "id": "dmhk-lc-83",
+    "name": {
+      "en": "Orphanage",
+      "pt": "Orfanato"
+    },
+    "type": "location",
+    "itemId": "2196",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-84": {
+    "id": "dmhk-lc-84",
+    "name": {
+      "en": "Fire Station",
+      "pt": "Corpo de bombeiros"
+    },
+    "type": "location",
+    "itemId": "2405",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-85": {
+    "id": "dmhk-lc-85",
+    "name": {
+      "en": "Retirement Home",
+      "pt": "Casa de repouso"
+    },
+    "type": "location",
+    "itemId": "2905",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-86": {
+    "id": "dmhk-lc-86",
+    "name": {
+      "en": "Rooftop",
+      "pt": "Telhado"
+    },
+    "type": "location",
+    "itemId": "2440",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-87": {
+    "id": "dmhk-lc-87",
+    "name": {
+      "en": "Zoo",
+      "pt": "Zoológico"
+    },
+    "type": "location",
+    "itemId": "2409",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-88": {
+    "id": "dmhk-lc-88",
+    "name": {
+      "en": "Movie Set",
+      "pt": "Set de filme"
+    },
+    "type": "location",
+    "itemId": "2474",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-89": {
+    "id": "dmhk-lc-89",
+    "name": {
+      "en": "Bookmaker",
+      "pt": "Casa de apostas"
+    },
+    "type": "location",
+    "itemId": "2543",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-9": {
+    "id": "dmhk-lc-9",
+    "name": {
+      "en": "Hotel Room",
+      "pt": "Quarto de hotel"
+    },
+    "type": "location",
+    "itemId": "2089",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-90": {
+    "id": "dmhk-lc-90",
+    "name": {
+      "en": "Synagogue",
+      "pt": "Sinagoga"
+    },
+    "type": "location",
+    "itemId": "2381",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-91": {
+    "id": "dmhk-lc-91",
+    "name": {
+      "en": "Daycare",
+      "pt": "Creche"
+    },
+    "type": "location",
+    "itemId": "2388",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-92": {
+    "id": "dmhk-lc-92",
+    "name": {
+      "en": "Car Wash",
+      "pt": "Lavagem de carros"
+    },
+    "type": "location",
+    "itemId": "2094",
+    "likelihood": {},
+    "tags": []
+  },
+  "dmhk-lc-93": {
+    "id": "dmhk-lc-93",
+    "name": {
+      "en": "Gym",
+      "pt": "Academia"
+    },
+    "type": "location",
+    "itemId": "2618",
+    "likelihood": {},
+    "tags": []
+  }
 }
