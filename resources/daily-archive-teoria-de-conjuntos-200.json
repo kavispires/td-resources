@@ -1,0 +1,7202 @@
+{
+	"101": {
+		"id": "2024-12-10",
+		"title": "Gramática vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 101,
+		"intersectingThing": {
+			"id": "2411",
+			"name": "pinhão"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-43-pt",
+			"text": "é oxítona",
+			"level": 3,
+			"thing": {
+				"id": "1971",
+				"name": "espião"
+			}
+		},
+		"rule2": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "2073",
+				"name": "careca"
+			}
+		},
+		"setId": "ddr-26-pt::ddr-43-pt",
+		"things": [
+			{
+				"rule": 2,
+				"id": "1954",
+				"name": "peixe-espada"
+			},
+			{
+				"id": "1918",
+				"name": "açaí",
+				"rule": 1
+			},
+			{
+				"name": "vitral",
+				"rule": 0,
+				"id": "1166"
+			},
+			{
+				"name": "vagalume",
+				"id": "1843",
+				"rule": 2
+			},
+			{
+				"name": "abajur",
+				"id": "1309",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"name": "esfregão",
+				"id": "1190"
+			},
+			{
+				"name": "taiko",
+				"rule": 0,
+				"id": "2571"
+			},
+			{
+				"rule": 1,
+				"id": "133",
+				"name": "aspirador"
+			}
+		]
+	},
+	"102": {
+		"id": "2024-12-11",
+		"title": "Repetição vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 102,
+		"intersectingThing": {
+			"id": "1493",
+			"name": "apartamento"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-18-pt",
+			"text": "a primeira letra se repete na palavra (ex: rural, ele)",
+			"level": 2,
+			"thing": {
+				"id": "2482",
+				"name": "coco"
+			}
+		},
+		"rule2": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "100",
+				"name": "corda"
+			}
+		},
+		"setId": "ddr-18-pt::ddr-28-pt",
+		"things": [
+			{
+				"name": "malabares",
+				"id": "723",
+				"rule": 2
+			},
+			{
+				"id": "99",
+				"name": "gengibre",
+				"rule": 1
+			},
+			{
+				"id": "2140",
+				"rule": 2,
+				"name": "raspadinha"
+			},
+			{
+				"id": "42",
+				"name": "ovo frito",
+				"rule": 1
+			},
+			{
+				"id": "147",
+				"rule": 1,
+				"name": "revólver"
+			},
+			{
+				"name": "metrônomo",
+				"id": "377",
+				"rule": 1
+			},
+			{
+				"name": "seringa",
+				"id": "209",
+				"rule": 2
+			},
+			{
+				"name": "bazuca",
+				"id": "1018",
+				"rule": 2
+			}
+		]
+	},
+	"103": {
+		"id": "2024-12-12",
+		"title": "Gramática vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 103,
+		"intersectingThing": {
+			"id": "1615",
+			"name": "larva"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "1754",
+				"name": "ferragem"
+			}
+		},
+		"rule2": {
+			"id": "ddr-3-pt",
+			"text": "tem 2 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "625",
+				"name": "bíceps"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-3-pt",
+		"things": [
+			{
+				"name": "bastão",
+				"rule": 2,
+				"id": "782"
+			},
+			{
+				"id": "1511",
+				"rule": 1,
+				"name": "família"
+			},
+			{
+				"rule": 1,
+				"name": "seringa",
+				"id": "209"
+			},
+			{
+				"id": "1240",
+				"name": "navalha",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"id": "93",
+				"name": "foice"
+			},
+			{
+				"name": "mola",
+				"id": "949",
+				"rule": 0
+			},
+			{
+				"name": "faixa",
+				"rule": 0,
+				"id": "634"
+			},
+			{
+				"name": "camiseta",
+				"rule": 1,
+				"id": "824"
+			}
+		]
+	},
+	"104": {
+		"id": "2024-12-13",
+		"title": "Gramática vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 104,
+		"intersectingThing": {
+			"id": "477",
+			"name": "passaporte"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-44-pt",
+			"text": "é paroxítona",
+			"level": 3,
+			"thing": {
+				"id": "1149",
+				"name": "uniforme"
+			}
+		},
+		"rule2": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "2628",
+				"name": "cursor"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-44-pt",
+		"things": [
+			{
+				"rule": 0,
+				"id": "935",
+				"name": "grilo"
+			},
+			{
+				"id": "1609",
+				"rule": 2,
+				"name": "almôndegas"
+			},
+			{
+				"name": "computador",
+				"id": "130",
+				"rule": 2
+			},
+			{
+				"name": "grampeador",
+				"rule": 2,
+				"id": "65"
+			},
+			{
+				"id": "2636",
+				"name": "gel",
+				"rule": 2
+			},
+			{
+				"name": "obelisco",
+				"rule": 1,
+				"id": "1028"
+			},
+			{
+				"rule": 2,
+				"id": "2472",
+				"name": "chave-cruz"
+			},
+			{
+				"rule": 1,
+				"name": "azulejo",
+				"id": "1692"
+			}
+		]
+	},
+	"105": {
+		"id": "2024-12-14",
+		"title": "Comparação vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 105,
+		"intersectingThing": {
+			"id": "1177",
+			"name": "chaminé"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "1642",
+				"name": "batata doce"
+			}
+		},
+		"rule2": {
+			"id": "ddr-43-pt",
+			"text": "é oxítona",
+			"level": 3,
+			"thing": {
+				"id": "2130",
+				"name": "kart"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-43-pt",
+		"things": [
+			{
+				"rule": 1,
+				"id": "659",
+				"name": "baleia"
+			},
+			{
+				"id": "1842",
+				"rule": 1,
+				"name": "nervo"
+			},
+			{
+				"name": "maçã",
+				"rule": 2,
+				"id": "1858"
+			},
+			{
+				"rule": 2,
+				"name": "motor",
+				"id": "981"
+			},
+			{
+				"rule": 1,
+				"id": "2364",
+				"name": "autógrafo"
+			},
+			{
+				"name": "mulher",
+				"id": "2014",
+				"rule": 0
+			},
+			{
+				"name": "top",
+				"rule": 2,
+				"id": "1682"
+			},
+			{
+				"name": "puff",
+				"id": "744",
+				"rule": 2
+			}
+		]
+	},
+	"106": {
+		"id": "2024-12-15",
+		"title": "Inclusão vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 106,
+		"intersectingThing": {
+			"id": "238",
+			"name": "pena"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-29-pt",
+			"text": "tem \"E\"",
+			"level": 2,
+			"thing": {
+				"id": "1598",
+				"name": "axolote"
+			}
+		},
+		"rule2": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "1509",
+				"name": "sopa"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-29-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "energético",
+				"id": "2337"
+			},
+			{
+				"rule": 2,
+				"name": "linguiça",
+				"id": "687"
+			},
+			{
+				"id": "1259",
+				"name": "macumbeira",
+				"rule": 0
+			},
+			{
+				"rule": 2,
+				"name": "cítara",
+				"id": "1086"
+			},
+			{
+				"rule": 1,
+				"id": "1691",
+				"name": "crepe"
+			},
+			{
+				"id": "1780",
+				"rule": 1,
+				"name": "pelicano"
+			},
+			{
+				"name": "jujuba",
+				"rule": 2,
+				"id": "1723"
+			},
+			{
+				"rule": 1,
+				"name": "camelo",
+				"id": "669"
+			}
+		]
+	},
+	"107": {
+		"id": "2024-12-16",
+		"title": "Inicialização vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 107,
+		"intersectingThing": {
+			"id": "2001",
+			"name": "amuleto"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-25-pt",
+			"text": "começa com uma vogal",
+			"level": 1,
+			"thing": {
+				"id": "867",
+				"name": "ornitorrinco"
+			}
+		},
+		"rule2": {
+			"id": "ddr-22-pt",
+			"text": "tem 4 sílabas",
+			"level": 2,
+			"thing": {
+				"id": "1784",
+				"name": "colírio"
+			}
+		},
+		"setId": "ddr-22-pt::ddr-25-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "infográfico",
+				"id": "2507"
+			},
+			{
+				"rule": 2,
+				"name": "cardápio",
+				"id": "835"
+			},
+			{
+				"rule": 0,
+				"name": "alavanca",
+				"id": "1569"
+			},
+			{
+				"name": "espátula",
+				"id": "737",
+				"rule": 0
+			},
+			{
+				"name": "esmalte",
+				"id": "235",
+				"rule": 1
+			},
+			{
+				"name": "torradeira",
+				"rule": 2,
+				"id": "828"
+			},
+			{
+				"id": "360",
+				"name": "travesseiro",
+				"rule": 2
+			},
+			{
+				"name": "despertador",
+				"id": "131",
+				"rule": 2
+			}
+		]
+	},
+	"108": {
+		"id": "2024-12-17",
+		"title": "Inclusão vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 108,
+		"intersectingThing": {
+			"id": "778",
+			"name": "ponche"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-34-pt",
+			"text": "tem \"H\"",
+			"level": 2,
+			"thing": {
+				"id": "2156",
+				"name": "tapa-olho"
+			}
+		},
+		"rule2": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "1442",
+				"name": "laser"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-34-pt",
+		"things": [
+			{
+				"id": "816",
+				"rule": 2,
+				"name": "xampu"
+			},
+			{
+				"name": "Petrobrás",
+				"rule": 2,
+				"id": "1714"
+			},
+			{
+				"id": "1183",
+				"rule": 0,
+				"name": "whey"
+			},
+			{
+				"name": "banheira",
+				"rule": 1,
+				"id": "603"
+			},
+			{
+				"id": "148",
+				"rule": 0,
+				"name": "cachorro"
+			},
+			{
+				"id": "1142",
+				"rule": 0,
+				"name": "chiclete"
+			},
+			{
+				"id": "1271",
+				"rule": 1,
+				"name": "holofote"
+			},
+			{
+				"rule": 2,
+				"name": "vendedora",
+				"id": "2003"
+			}
+		]
+	},
+	"109": {
+		"id": "2024-12-18",
+		"title": "Inclusão vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 109,
+		"intersectingThing": {
+			"id": "1751",
+			"name": "wafer"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-29-pt",
+			"text": "tem \"E\"",
+			"level": 2,
+			"thing": {
+				"id": "277",
+				"name": "amarelinha"
+			}
+		},
+		"rule2": {
+			"id": "ddr-24-pt",
+			"text": "começa com uma letra da segunda metade do alfabeto (\"N\"-\"Z\")",
+			"level": 3,
+			"thing": {
+				"id": "482",
+				"name": "prisão"
+			}
+		},
+		"setId": "ddr-24-pt::ddr-29-pt",
+		"things": [
+			{
+				"name": "escrivaninha",
+				"rule": 1,
+				"id": "2467"
+			},
+			{
+				"name": "cabeleireira",
+				"rule": 1,
+				"id": "1975"
+			},
+			{
+				"rule": 0,
+				"id": "1921",
+				"name": "sanduicheira"
+			},
+			{
+				"id": "319",
+				"name": "pasta",
+				"rule": 2
+			},
+			{
+				"name": "quimono",
+				"id": "901",
+				"rule": 2
+			},
+			{
+				"id": "2373",
+				"rule": 2,
+				"name": "pazinha"
+			},
+			{
+				"id": "1836",
+				"rule": 1,
+				"name": "macramê"
+			},
+			{
+				"name": "cerca",
+				"id": "456",
+				"rule": 1
+			}
+		]
+	},
+	"110": {
+		"id": "2024-12-19",
+		"title": "Inclusão vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 110,
+		"intersectingThing": {
+			"id": "446",
+			"name": "eletricidade"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-29-pt",
+			"text": "tem \"E\"",
+			"level": 2,
+			"thing": {
+				"id": "2127",
+				"name": "manjericão"
+			}
+		},
+		"rule2": {
+			"id": "ddr-25-pt",
+			"text": "começa com uma vogal",
+			"level": 1,
+			"thing": {
+				"id": "2503",
+				"name": "arquivo"
+			}
+		},
+		"setId": "ddr-25-pt::ddr-29-pt",
+		"things": [
+			{
+				"name": "snorkel",
+				"rule": 1,
+				"id": "967"
+			},
+			{
+				"id": "85",
+				"name": "olho",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"name": "tapete de ioga",
+				"id": "1"
+			},
+			{
+				"rule": 0,
+				"name": "isqueiro",
+				"id": "1033"
+			},
+			{
+				"id": "1503",
+				"name": "adesivo",
+				"rule": 0
+			},
+			{
+				"id": "1536",
+				"name": "papel alumínio",
+				"rule": 1
+			},
+			{
+				"name": "apito",
+				"rule": 2,
+				"id": "303"
+			},
+			{
+				"rule": 0,
+				"id": "1347",
+				"name": "intestino"
+			}
+		]
+	},
+	"111": {
+		"id": "2024-12-20",
+		"title": "Inclusão vs Sequência",
+		"type": "teoria-de-conjuntos",
+		"number": 111,
+		"intersectingThing": {
+			"id": "1790",
+			"name": "hemorroida"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "1219",
+				"name": "facão"
+			}
+		},
+		"rule2": {
+			"id": "ddr-41-pt",
+			"text": "contém ditongo (ai, ei, ia)",
+			"level": 3,
+			"thing": {
+				"id": "2577",
+				"name": "louro"
+			}
+		},
+		"setId": "ddr-28-pt::ddr-41-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "família",
+				"id": "1511"
+			},
+			{
+				"rule": 1,
+				"id": "2134",
+				"name": "fofoca"
+			},
+			{
+				"rule": 0,
+				"id": "1854",
+				"name": "correia"
+			},
+			{
+				"name": "telescópio",
+				"rule": 2,
+				"id": "924"
+			},
+			{
+				"id": "489",
+				"rule": 2,
+				"name": "prédio"
+			},
+			{
+				"id": "1577",
+				"name": "Coliseu",
+				"rule": 2
+			},
+			{
+				"name": "varal",
+				"id": "1456",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"id": "1095",
+				"name": "frisbee"
+			}
+		]
+	},
+	"112": {
+		"id": "2024-12-21",
+		"title": "Comparação vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 112,
+		"intersectingThing": {
+			"id": "767",
+			"name": "pochete"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "780",
+				"name": "lagosta"
+			}
+		},
+		"rule2": {
+			"id": "ddr-29-pt",
+			"text": "tem \"E\"",
+			"level": 2,
+			"thing": {
+				"id": "707",
+				"name": "rede"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-29-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "step",
+				"id": "2565"
+			},
+			{
+				"id": "130",
+				"name": "computador",
+				"rule": 1
+			},
+			{
+				"name": "presente",
+				"rule": 2,
+				"id": "185"
+			},
+			{
+				"id": "2388",
+				"rule": 2,
+				"name": "creche"
+			},
+			{
+				"name": "pista",
+				"id": "2131",
+				"rule": 1
+			},
+			{
+				"name": "sapo",
+				"id": "2408",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"name": "bumbo",
+				"id": "1560"
+			},
+			{
+				"name": "freezer",
+				"id": "1687",
+				"rule": 2
+			}
+		]
+	},
+	"113": {
+		"id": "2024-12-22",
+		"title": "Gramática vs Sequência",
+		"type": "teoria-de-conjuntos",
+		"number": 113,
+		"intersectingThing": {
+			"id": "10",
+			"name": "carro"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-2-pt",
+			"text": "é um substantivo masculino",
+			"level": 1,
+			"thing": {
+				"id": "1751",
+				"name": "wafer"
+			}
+		},
+		"rule2": {
+			"id": "ddr-42-pt",
+			"text": "contém hiato (i-a, e-i)",
+			"level": 3,
+			"thing": {
+				"id": "1074",
+				"name": "terra"
+			}
+		},
+		"setId": "ddr-2-pt::ddr-42-pt",
+		"things": [
+			{
+				"rule": 1,
+				"id": "606",
+				"name": "fogão"
+			},
+			{
+				"name": "abacaxi",
+				"id": "125",
+				"rule": 1
+			},
+			{
+				"name": "vagalume",
+				"id": "1843",
+				"rule": 1
+			},
+			{
+				"name": "cofre",
+				"rule": 1,
+				"id": "56"
+			},
+			{
+				"id": "893",
+				"rule": 0,
+				"name": "barraco"
+			},
+			{
+				"name": "macarrão",
+				"id": "428",
+				"rule": 0
+			},
+			{
+				"rule": 2,
+				"id": "1556",
+				"name": "professora"
+			},
+			{
+				"name": "concessionária",
+				"rule": 2,
+				"id": "1555"
+			}
+		]
+	},
+	"114": {
+		"id": "2024-12-23",
+		"title": "Contagem vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 114,
+		"intersectingThing": {
+			"id": "970",
+			"name": "detergente"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-12-pt",
+			"text": "tem 8 ou mais letras",
+			"level": 2,
+			"thing": {
+				"id": "2335",
+				"name": "sandália"
+			}
+		},
+		"rule2": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "1729",
+				"name": "bongo"
+			}
+		},
+		"setId": "ddr-12-pt::ddr-23-pt",
+		"things": [
+			{
+				"id": "2046",
+				"rule": 2,
+				"name": "massa"
+			},
+			{
+				"name": "girasol",
+				"id": "2068",
+				"rule": 2
+			},
+			{
+				"id": "2504",
+				"name": "parmesão",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"id": "875",
+				"name": "biombo"
+			},
+			{
+				"rule": 1,
+				"name": "teleférico",
+				"id": "1366"
+			},
+			{
+				"name": "mamadeira",
+				"id": "60",
+				"rule": 0
+			},
+			{
+				"name": "cacatua",
+				"rule": 2,
+				"id": "2399"
+			},
+			{
+				"id": "1457",
+				"rule": 0,
+				"name": "bruschetta"
+			}
+		]
+	},
+	"115": {
+		"id": "2024-12-24",
+		"title": "Inicialização vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 115,
+		"intersectingThing": {
+			"id": "90",
+			"name": "banana"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "128",
+				"name": "limonada"
+			}
+		},
+		"rule2": {
+			"id": "ddr-4-pt",
+			"text": "tem 3 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "2654",
+				"name": "pedigree"
+			}
+		},
+		"setId": "ddr-23-pt::ddr-4-pt",
+		"things": [
+			{
+				"name": "bandana",
+				"rule": 0,
+				"id": "727"
+			},
+			{
+				"rule": 1,
+				"id": "1560",
+				"name": "bumbo"
+			},
+			{
+				"id": "2640",
+				"name": "balaclava",
+				"rule": 1
+			},
+			{
+				"name": "fax",
+				"rule": 1,
+				"id": "1153"
+			},
+			{
+				"name": "lambreta",
+				"id": "1421",
+				"rule": 0
+			},
+			{
+				"id": "1689",
+				"name": "furão",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"name": "protesto",
+				"id": "1014"
+			},
+			{
+				"rule": 2,
+				"id": "1449",
+				"name": "pálete"
+			}
+		]
+	},
+	"116": {
+		"id": "2024-12-25",
+		"title": "Inclusão vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 116,
+		"intersectingThing": {
+			"id": "757",
+			"name": "urso"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-48-pt",
+			"text": "tem \"O\"",
+			"level": 2,
+			"thing": {
+				"id": "436",
+				"name": "cogumelo"
+			}
+		},
+		"rule2": {
+			"id": "ddr-24-pt",
+			"text": "começa com uma letra da segunda metade do alfabeto (\"N\"-\"Z\")",
+			"level": 3,
+			"thing": {
+				"id": "2515",
+				"name": "wi-fi"
+			}
+		},
+		"setId": "ddr-24-pt::ddr-48-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "pá",
+				"id": "21"
+			},
+			{
+				"id": "2094",
+				"name": "lava-jato",
+				"rule": 1
+			},
+			{
+				"id": "2439",
+				"rule": 0,
+				"name": "nozes"
+			},
+			{
+				"name": "pinguim",
+				"id": "568",
+				"rule": 2
+			},
+			{
+				"id": "519",
+				"rule": 2,
+				"name": "pizza"
+			},
+			{
+				"rule": 1,
+				"id": "2412",
+				"name": "braço"
+			},
+			{
+				"name": "preguiça",
+				"rule": 2,
+				"id": "1284"
+			},
+			{
+				"name": "binóculo",
+				"id": "1191",
+				"rule": 1
+			}
+		]
+	},
+	"117": {
+		"id": "2024-12-26",
+		"title": "Inicialização vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 117,
+		"intersectingThing": {
+			"id": "1844",
+			"name": "manga"
+		},
+		"level": 5,
+		"rule1": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "1102",
+				"name": "diapasão"
+			}
+		},
+		"rule2": {
+			"id": "ddr-44-pt",
+			"text": "é paroxítona",
+			"level": 3,
+			"thing": {
+				"id": "1611",
+				"name": "pretzel"
+			}
+		},
+		"setId": "ddr-23-pt::ddr-44-pt",
+		"things": [
+			{
+				"rule": 0,
+				"id": "135",
+				"name": "barata"
+			},
+			{
+				"rule": 2,
+				"id": "647",
+				"name": "walkie-talkie"
+			},
+			{
+				"name": "cais",
+				"id": "2266",
+				"rule": 1
+			},
+			{
+				"id": "1581",
+				"name": "saliva",
+				"rule": 2
+			},
+			{
+				"id": "2598",
+				"name": "rabisco",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"name": "tornado",
+				"id": "449"
+			},
+			{
+				"id": "2402",
+				"name": "ganso",
+				"rule": 0
+			},
+			{
+				"name": "frigideira",
+				"id": "604",
+				"rule": 0
+			}
+		]
+	},
+	"118": {
+		"id": "2024-12-27",
+		"title": "Repetição vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 118,
+		"intersectingThing": {
+			"id": "49",
+			"name": "relógio de pulso"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "2507",
+				"name": "infográfico"
+			}
+		},
+		"rule2": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "456",
+				"name": "cerca"
+			}
+		},
+		"setId": "ddr-20-pt::ddr-26-pt",
+		"things": [
+			{
+				"name": "espanador",
+				"id": "537",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"name": "ensopado",
+				"id": "1690"
+			},
+			{
+				"id": "1970",
+				"name": "cozinheiro",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"name": "maça",
+				"id": "590"
+			},
+			{
+				"id": "827",
+				"name": "waffle",
+				"rule": 2
+			},
+			{
+				"id": "1428",
+				"name": "espátula",
+				"rule": 1
+			},
+			{
+				"name": "chuteira",
+				"rule": 2,
+				"id": "2336"
+			},
+			{
+				"id": "1073",
+				"name": "ameba",
+				"rule": 1
+			}
+		]
+	},
+	"119": {
+		"id": "2024-12-28",
+		"title": "Comparação vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 119,
+		"intersectingThing": {
+			"id": "461",
+			"name": "azeite"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-17-pt",
+			"text": "tem mais vogais do que consoantes",
+			"level": 2,
+			"thing": {
+				"id": "262",
+				"name": "múmia"
+			}
+		},
+		"rule2": {
+			"id": "ddr-29-pt",
+			"text": "tem \"E\"",
+			"level": 2,
+			"thing": {
+				"id": "218",
+				"name": "boné"
+			}
+		},
+		"setId": "ddr-17-pt::ddr-29-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "trailer",
+				"id": "1275"
+			},
+			{
+				"rule": 1,
+				"id": "1242",
+				"name": "jaula"
+			},
+			{
+				"name": "ração",
+				"rule": 1,
+				"id": "1545"
+			},
+			{
+				"id": "256",
+				"name": "útero",
+				"rule": 0
+			},
+			{
+				"rule": 2,
+				"id": "29",
+				"name": "cérebro"
+			},
+			{
+				"name": "adesivo",
+				"id": "1503",
+				"rule": 0
+			},
+			{
+				"id": "1954",
+				"rule": 0,
+				"name": "peixe-espada"
+			},
+			{
+				"id": "1950",
+				"rule": 1,
+				"name": "urubu"
+			}
+		]
+	},
+	"120": {
+		"id": "2024-12-29",
+		"title": "Comparação vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 120,
+		"intersectingThing": {
+			"id": "1462",
+			"name": "molho"
+		},
+		"level": 5,
+		"rule1": {
+			"id": "ddr-15-pt",
+			"text": "tem 4 ou menos letras únicas",
+			"level": 3,
+			"thing": {
+				"id": "322",
+				"name": "sino"
+			}
+		},
+		"rule2": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "793",
+				"name": "coruja"
+			}
+		},
+		"setId": "ddr-15-pt::ddr-23-pt",
+		"things": [
+			{
+				"rule": 2,
+				"id": "2472",
+				"name": "chave-cruz"
+			},
+			{
+				"id": "1196",
+				"rule": 0,
+				"name": "cego"
+			},
+			{
+				"name": "ralo",
+				"id": "609",
+				"rule": 1
+			},
+			{
+				"name": "nabo",
+				"rule": 1,
+				"id": "1903"
+			},
+			{
+				"name": "marreta",
+				"id": "2533",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"name": "bota",
+				"id": "2334"
+			},
+			{
+				"rule": 2,
+				"name": "abobrinha",
+				"id": "1641"
+			},
+			{
+				"id": "2515",
+				"name": "wi-fi",
+				"rule": 1
+			}
+		]
+	},
+	"121": {
+		"id": "2024-12-30",
+		"title": "Repetição vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 121,
+		"intersectingThing": {
+			"id": "267",
+			"name": "mosquito"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "922",
+				"name": "creme"
+			}
+		},
+		"rule2": {
+			"id": "ddr-47-pt",
+			"text": "tem \"I\"",
+			"level": 2,
+			"thing": {
+				"id": "1100",
+				"name": "zumbi"
+			}
+		},
+		"setId": "ddr-20-pt::ddr-47-pt",
+		"things": [
+			{
+				"id": "754",
+				"name": "feijão",
+				"rule": 2
+			},
+			{
+				"name": "portão",
+				"id": "1334",
+				"rule": 1
+			},
+			{
+				"id": "1736",
+				"rule": 2,
+				"name": "raiz"
+			},
+			{
+				"id": "808",
+				"rule": 1,
+				"name": "panela"
+			},
+			{
+				"rule": 1,
+				"id": "34",
+				"name": "ferradura"
+			},
+			{
+				"rule": 0,
+				"id": "1625",
+				"name": "azeitona"
+			},
+			{
+				"rule": 2,
+				"id": "803",
+				"name": "cachimbo"
+			},
+			{
+				"id": "2258",
+				"rule": 0,
+				"name": "peixe-palhaço"
+			}
+		]
+	},
+	"122": {
+		"id": "2024-12-31",
+		"title": "Comparação vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 122,
+		"intersectingThing": {
+			"id": "2584",
+			"name": "mangá"
+		},
+		"level": 5,
+		"rule1": {
+			"id": "ddr-15-pt",
+			"text": "tem 4 ou menos letras únicas",
+			"level": 3,
+			"thing": {
+				"id": "72",
+				"name": "ramo"
+			}
+		},
+		"rule2": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "898",
+				"name": "armadura"
+			}
+		},
+		"setId": "ddr-15-pt::ddr-20-pt",
+		"things": [
+			{
+				"id": "1312",
+				"name": "fatiadora",
+				"rule": 2
+			},
+			{
+				"id": "724",
+				"name": "caçamba",
+				"rule": 0
+			},
+			{
+				"rule": 2,
+				"id": "1080",
+				"name": "escapamento"
+			},
+			{
+				"name": "trem",
+				"id": "550",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"name": "kiwi",
+				"id": "1534"
+			},
+			{
+				"id": "1613",
+				"name": "moai",
+				"rule": 1
+			},
+			{
+				"name": "ambulância",
+				"id": "166",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"id": "864",
+				"name": "lhama"
+			}
+		]
+	},
+	"123": {
+		"id": "2025-01-01",
+		"title": "Repetição vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 123,
+		"intersectingThing": {
+			"id": "1485",
+			"name": "cálice"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "795",
+				"name": "brócolis"
+			}
+		},
+		"rule2": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "1013",
+				"name": "sai"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-28-pt",
+		"things": [
+			{
+				"rule": 1,
+				"id": "884",
+				"name": "violino"
+			},
+			{
+				"rule": 0,
+				"name": "África",
+				"id": "2242"
+			},
+			{
+				"name": "secadora",
+				"rule": 0,
+				"id": "2464"
+			},
+			{
+				"rule": 2,
+				"id": "572",
+				"name": "submarino"
+			},
+			{
+				"rule": 0,
+				"name": "gôndola",
+				"id": "2352"
+			},
+			{
+				"id": "96",
+				"name": "osso",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"id": "62",
+				"name": "sutiã"
+			},
+			{
+				"rule": 2,
+				"id": "332",
+				"name": "cano"
+			}
+		]
+	},
+	"124": {
+		"id": "2025-01-02",
+		"title": "Gramática vs Sequência",
+		"type": "teoria-de-conjuntos",
+		"number": 124,
+		"intersectingThing": {
+			"id": "1779",
+			"name": "apêndice"
+		},
+		"level": 5,
+		"rule1": {
+			"id": "ddr-45-pt",
+			"text": "é proparoxítona",
+			"level": 3,
+			"thing": {
+				"id": "2179",
+				"name": "canário"
+			}
+		},
+		"rule2": {
+			"id": "ddr-7-pt",
+			"text": "as primeiras 2 letras estão em ordem alfabética",
+			"level": 3,
+			"thing": {
+				"id": "1393",
+				"name": "esquadro"
+			}
+		},
+		"setId": "ddr-45-pt::ddr-7-pt",
+		"things": [
+			{
+				"id": "678",
+				"name": "coxinha",
+				"rule": 2
+			},
+			{
+				"name": "cronômetro",
+				"id": "1256",
+				"rule": 0
+			},
+			{
+				"name": "película",
+				"rule": 1,
+				"id": "336"
+			},
+			{
+				"rule": 1,
+				"name": "teleférico",
+				"id": "1366"
+			},
+			{
+				"id": "1958",
+				"name": "orangotango",
+				"rule": 2
+			},
+			{
+				"id": "116",
+				"rule": 0,
+				"name": "hipopótamo"
+			},
+			{
+				"name": "velório",
+				"rule": 1,
+				"id": "1350"
+			},
+			{
+				"name": "armários",
+				"rule": 0,
+				"id": "873"
+			}
+		]
+	},
+	"125": {
+		"id": "2025-01-03",
+		"title": "Gramática vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 125,
+		"intersectingThing": {
+			"id": "329",
+			"name": "motosserra"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-5-pt",
+			"text": "é uma palavra composta ou hifenizada (por exemplo, \"passatempo\")",
+			"level": 2,
+			"thing": {
+				"id": "2557",
+				"name": "eletrochoque"
+			}
+		},
+		"rule2": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "465",
+				"name": "avental"
+			}
+		},
+		"setId": "ddr-28-pt::ddr-5-pt",
+		"things": [
+			{
+				"id": "652",
+				"rule": 0,
+				"name": "água-viva"
+			},
+			{
+				"id": "193",
+				"rule": 1,
+				"name": "monociclo"
+			},
+			{
+				"name": "meião",
+				"rule": 0,
+				"id": "1721"
+			},
+			{
+				"rule": 2,
+				"name": "talheres",
+				"id": "464"
+			},
+			{
+				"name": "ampola",
+				"rule": 2,
+				"id": "1870"
+			},
+			{
+				"id": "2515",
+				"name": "wi-fi",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "2304",
+				"name": "windsurf"
+			},
+			{
+				"id": "2086",
+				"rule": 2,
+				"name": "incubadora"
+			}
+		]
+	},
+	"126": {
+		"id": "2025-01-04",
+		"title": "Comparação vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 126,
+		"intersectingThing": {
+			"id": "357",
+			"name": "lupa"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-15-pt",
+			"text": "tem 4 ou menos letras únicas",
+			"level": 3,
+			"thing": {
+				"id": "894",
+				"name": "adaga"
+			}
+		},
+		"rule2": {
+			"id": "ddr-3-pt",
+			"text": "tem 2 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "2089",
+				"name": "hotel"
+			}
+		},
+		"setId": "ddr-15-pt::ddr-3-pt",
+		"things": [
+			{
+				"name": "feno",
+				"id": "1900",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"name": "casa",
+				"id": "107"
+			},
+			{
+				"id": "1070",
+				"name": "hacker",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"id": "667",
+				"name": "tigre"
+			},
+			{
+				"rule": 1,
+				"id": "1104",
+				"name": "carroça"
+			},
+			{
+				"rule": 0,
+				"id": "491",
+				"name": "sushi"
+			},
+			{
+				"name": "tiara",
+				"rule": 1,
+				"id": "1210"
+			},
+			{
+				"name": "Jenga",
+				"id": "1660",
+				"rule": 2
+			}
+		]
+	},
+	"127": {
+		"id": "2025-01-05",
+		"title": "Inclusão vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 127,
+		"intersectingThing": {
+			"id": "628",
+			"name": "balança"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "580",
+				"name": "segway"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "300",
+				"name": "morcego"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-28-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "pilão",
+				"id": "1632"
+			},
+			{
+				"name": "webcam",
+				"id": "1499",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"id": "2251",
+				"name": "lichia"
+			},
+			{
+				"rule": 2,
+				"name": "pochete",
+				"id": "767"
+			},
+			{
+				"name": "moletom",
+				"id": "132",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"name": "bolo",
+				"id": "71"
+			},
+			{
+				"id": "2062",
+				"name": "cartaz",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"id": "2025",
+				"name": "pistola"
+			}
+		]
+	},
+	"128": {
+		"id": "2025-01-06",
+		"title": "Contagem vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 128,
+		"intersectingThing": {
+			"id": "570",
+			"name": "uva"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-8-pt",
+			"text": "tem 4 ou menos letras",
+			"level": 1,
+			"thing": {
+				"id": "2658",
+				"name": "box"
+			}
+		},
+		"rule2": {
+			"id": "ddr-17-pt",
+			"text": "tem mais vogais do que consoantes",
+			"level": 2,
+			"thing": {
+				"id": "1148",
+				"name": "algodão"
+			}
+		},
+		"setId": "ddr-17-pt::ddr-8-pt",
+		"things": [
+			{
+				"rule": 0,
+				"name": "açaí",
+				"id": "1918"
+			},
+			{
+				"id": "357",
+				"rule": 1,
+				"name": "lupa"
+			},
+			{
+				"id": "1860",
+				"name": "figo",
+				"rule": 1
+			},
+			{
+				"id": "379",
+				"rule": 2,
+				"name": "origami"
+			},
+			{
+				"name": "mão",
+				"id": "530",
+				"rule": 0
+			},
+			{
+				"name": "oboé",
+				"rule": 0,
+				"id": "1908"
+			},
+			{
+				"rule": 2,
+				"id": "2248",
+				"name": "açougue"
+			},
+			{
+				"rule": 2,
+				"name": "cenoura",
+				"id": "543"
+			}
+		]
+	},
+	"129": {
+		"id": "2025-01-07",
+		"title": "Repetição vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 129,
+		"intersectingThing": {
+			"id": "2526",
+			"name": "detonador"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "176",
+				"name": "algema"
+			}
+		},
+		"rule2": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "218",
+				"name": "boné"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-26-pt",
+		"things": [
+			{
+				"rule": 0,
+				"name": "contenção",
+				"id": "2592"
+			},
+			{
+				"name": "arpão",
+				"id": "1262",
+				"rule": 1
+			},
+			{
+				"id": "447",
+				"name": "cristal",
+				"rule": 2
+			},
+			{
+				"id": "1908",
+				"rule": 1,
+				"name": "oboé"
+			},
+			{
+				"id": "1815",
+				"name": "morsa",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"id": "1663",
+				"name": "papel de parede"
+			},
+			{
+				"id": "213",
+				"name": "tênis",
+				"rule": 2
+			},
+			{
+				"id": "2519",
+				"rule": 0,
+				"name": "frankenstein"
+			}
+		]
+	},
+	"130": {
+		"id": "2025-01-08",
+		"title": "Gramática vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 130,
+		"intersectingThing": {
+			"id": "2374",
+			"name": "ventilador"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-2-pt",
+			"text": "é um substantivo masculino",
+			"level": 1,
+			"thing": {
+				"id": "138",
+				"name": "globo"
+			}
+		},
+		"rule2": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "1857",
+				"name": "escova"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-2-pt",
+		"things": [
+			{
+				"id": "1913",
+				"name": "tábua",
+				"rule": 2
+			},
+			{
+				"id": "28",
+				"rule": 0,
+				"name": "haltere"
+			},
+			{
+				"name": "molho",
+				"id": "1462",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "1929",
+				"name": "míssil"
+			},
+			{
+				"rule": 0,
+				"id": "1928",
+				"name": "louva-a-deus"
+			},
+			{
+				"name": "armários",
+				"id": "873",
+				"rule": 0
+			},
+			{
+				"id": "604",
+				"rule": 2,
+				"name": "frigideira"
+			},
+			{
+				"rule": 1,
+				"id": "2636",
+				"name": "gel"
+			}
+		]
+	},
+	"131": {
+		"id": "2025-01-09",
+		"title": "Gramática vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 131,
+		"intersectingThing": {
+			"id": "1085",
+			"name": "camaleão"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-43-pt",
+			"text": "é oxítona",
+			"level": 3,
+			"thing": {
+				"id": "880",
+				"name": "dominó"
+			}
+		},
+		"rule2": {
+			"id": "ddr-29-pt",
+			"text": "tem \"E\"",
+			"level": 2,
+			"thing": {
+				"id": "154",
+				"name": "geladeira"
+			}
+		},
+		"setId": "ddr-29-pt::ddr-43-pt",
+		"things": [
+			{
+				"name": "meião",
+				"rule": 0,
+				"id": "1721"
+			},
+			{
+				"id": "465",
+				"rule": 0,
+				"name": "avental"
+			},
+			{
+				"rule": 0,
+				"name": "cobertor",
+				"id": "443"
+			},
+			{
+				"id": "856",
+				"name": "rã",
+				"rule": 1
+			},
+			{
+				"name": "canguru",
+				"id": "903",
+				"rule": 1
+			},
+			{
+				"id": "1309",
+				"name": "abajur",
+				"rule": 1
+			},
+			{
+				"name": "apêndice",
+				"id": "1779",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"id": "1687",
+				"name": "freezer"
+			}
+		]
+	},
+	"132": {
+		"id": "2025-01-10",
+		"title": "Repetição vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 132,
+		"intersectingThing": {
+			"id": "2274",
+			"name": "solo"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "1457",
+				"name": "bruschetta"
+			}
+		},
+		"rule2": {
+			"id": "ddr-24-pt",
+			"text": "começa com uma letra da segunda metade do alfabeto (\"N\"-\"Z\")",
+			"level": 3,
+			"thing": {
+				"id": "611",
+				"name": "sangue"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-24-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "celular",
+				"id": "83"
+			},
+			{
+				"rule": 2,
+				"name": "pé",
+				"id": "1897"
+			},
+			{
+				"rule": 0,
+				"name": "óvulo",
+				"id": "1586"
+			},
+			{
+				"name": "biscoito",
+				"id": "1138",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"id": "1966",
+				"name": "rabino"
+			},
+			{
+				"id": "453",
+				"name": "pilha",
+				"rule": 2
+			},
+			{
+				"name": "atlas",
+				"id": "2506",
+				"rule": 1
+			},
+			{
+				"id": "2196",
+				"name": "orfanato",
+				"rule": 0
+			}
+		]
+	},
+	"133": {
+		"id": "2025-01-11",
+		"title": "Contagem vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 133,
+		"intersectingThing": {
+			"id": "1147",
+			"name": "bracelete"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-22-pt",
+			"text": "tem 4 sílabas",
+			"level": 2,
+			"thing": {
+				"id": "2006",
+				"name": "atendente"
+			}
+		},
+		"rule2": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "1216",
+				"name": "servidor"
+			}
+		},
+		"setId": "ddr-22-pt::ddr-26-pt",
+		"things": [
+			{
+				"rule": 0,
+				"name": "mandioca",
+				"id": "1697"
+			},
+			{
+				"id": "928",
+				"rule": 2,
+				"name": "hospital"
+			},
+			{
+				"rule": 2,
+				"id": "1146",
+				"name": "cinzeiro"
+			},
+			{
+				"id": "125",
+				"name": "abacaxi",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "412",
+				"name": "escorpião"
+			},
+			{
+				"id": "652",
+				"rule": 1,
+				"name": "água-viva"
+			},
+			{
+				"rule": 0,
+				"name": "tapa-olho",
+				"id": "2156"
+			},
+			{
+				"id": "1196",
+				"name": "cego",
+				"rule": 2
+			}
+		]
+	},
+	"134": {
+		"id": "2025-01-12",
+		"title": "Gramática vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 134,
+		"intersectingThing": {
+			"id": "1690",
+			"name": "ensopado"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-44-pt",
+			"text": "é paroxítona",
+			"level": 3,
+			"thing": {
+				"id": "642",
+				"name": "garfo"
+			}
+		},
+		"rule2": {
+			"id": "ddr-29-pt",
+			"text": "tem \"E\"",
+			"level": 2,
+			"thing": {
+				"id": "1714",
+				"name": "Petrobrás"
+			}
+		},
+		"setId": "ddr-29-pt::ddr-44-pt",
+		"things": [
+			{
+				"rule": 0,
+				"id": "1386",
+				"name": "maquiagem"
+			},
+			{
+				"name": "tábua",
+				"id": "1913",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "2428",
+				"name": "boto"
+			},
+			{
+				"name": "Tricerátopo",
+				"id": "2633",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"name": "perna",
+				"id": "203"
+			},
+			{
+				"name": "privada",
+				"id": "275",
+				"rule": 1
+			},
+			{
+				"name": "snorkel",
+				"rule": 0,
+				"id": "967"
+			},
+			{
+				"name": "energético",
+				"rule": 2,
+				"id": "2337"
+			}
+		]
+	},
+	"135": {
+		"id": "2025-01-13",
+		"title": "Gramática vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 135,
+		"intersectingThing": {
+			"id": "549",
+			"name": "farinha"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "223",
+				"name": "idosa"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "2039",
+				"name": "tinteiro"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-19-pt",
+		"things": [
+			{
+				"id": "2239",
+				"rule": 0,
+				"name": "crianças"
+			},
+			{
+				"rule": 1,
+				"id": "770",
+				"name": "urina"
+			},
+			{
+				"id": "2398",
+				"rule": 2,
+				"name": "hormônio"
+			},
+			{
+				"name": "tartaruga",
+				"rule": 0,
+				"id": "110"
+			},
+			{
+				"id": "1826",
+				"rule": 1,
+				"name": "toupeira"
+			},
+			{
+				"name": "bobes",
+				"id": "2635",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"id": "693",
+				"name": "berinjela"
+			},
+			{
+				"name": "conversível",
+				"rule": 2,
+				"id": "1898"
+			}
+		]
+	},
+	"136": {
+		"id": "2025-01-14",
+		"title": "Inicialização vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 136,
+		"intersectingThing": {
+			"id": "181",
+			"name": "abelha"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "31",
+				"name": "bandeirinhas"
+			}
+		},
+		"rule2": {
+			"id": "ddr-10-pt",
+			"text": "tem 6 letras",
+			"level": 1,
+			"thing": {
+				"id": "1947",
+				"name": "tetris"
+			}
+		},
+		"setId": "ddr-10-pt::ddr-23-pt",
+		"things": [
+			{
+				"name": "cravo",
+				"rule": 1,
+				"id": "2126"
+			},
+			{
+				"id": "1136",
+				"rule": 2,
+				"name": "tomada"
+			},
+			{
+				"name": "tecido",
+				"id": "1128",
+				"rule": 2
+			},
+			{
+				"name": "cítara",
+				"id": "1086",
+				"rule": 0
+			},
+			{
+				"name": "corais",
+				"rule": 0,
+				"id": "1880"
+			},
+			{
+				"rule": 0,
+				"id": "1907",
+				"name": "fagote"
+			},
+			{
+				"name": "iô-iô",
+				"rule": 1,
+				"id": "615"
+			},
+			{
+				"rule": 2,
+				"id": "201",
+				"name": "pipoca"
+			}
+		]
+	},
+	"137": {
+		"id": "2025-01-15",
+		"title": "Comparação vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 137,
+		"intersectingThing": {
+			"id": "591",
+			"name": "trono"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "358",
+				"name": "carimbo"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "1428",
+				"name": "espátula"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-19-pt",
+		"things": [
+			{
+				"rule": 0,
+				"id": "1473",
+				"name": "obstáculo"
+			},
+			{
+				"id": "71",
+				"name": "bolo",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"name": "fatiadora",
+				"id": "1312"
+			},
+			{
+				"name": "martelo",
+				"id": "156",
+				"rule": 1
+			},
+			{
+				"id": "844",
+				"name": "xilofone",
+				"rule": 2
+			},
+			{
+				"name": "colar",
+				"rule": 1,
+				"id": "696"
+			},
+			{
+				"rule": 1,
+				"id": "2437",
+				"name": "moldura"
+			},
+			{
+				"rule": 0,
+				"id": "9",
+				"name": "dentadura"
+			}
+		]
+	},
+	"138": {
+		"id": "2025-01-16",
+		"title": "Inclusão vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 138,
+		"intersectingThing": {
+			"id": "958",
+			"name": "supino"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-47-pt",
+			"text": "tem \"I\"",
+			"level": 2,
+			"thing": {
+				"id": "223",
+				"name": "idosa"
+			}
+		},
+		"rule2": {
+			"id": "ddr-10-pt",
+			"text": "tem 6 letras",
+			"level": 1,
+			"thing": {
+				"id": "2002",
+				"name": "boleto"
+			}
+		},
+		"setId": "ddr-10-pt::ddr-47-pt",
+		"things": [
+			{
+				"name": "desentupidor",
+				"rule": 1,
+				"id": "160"
+			},
+			{
+				"id": "868",
+				"rule": 1,
+				"name": "capivara"
+			},
+			{
+				"name": "caviar",
+				"id": "2655",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"id": "2546",
+				"name": "vacina"
+			},
+			{
+				"name": "servidor",
+				"rule": 1,
+				"id": "1216"
+			},
+			{
+				"id": "2457",
+				"rule": 2,
+				"name": "pomada"
+			},
+			{
+				"id": "2555",
+				"name": "slalom",
+				"rule": 2
+			},
+			{
+				"name": "tetris",
+				"id": "1947",
+				"rule": 0
+			}
+		]
+	},
+	"139": {
+		"id": "2025-01-17",
+		"title": "Gramática vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 139,
+		"intersectingThing": {
+			"id": "646",
+			"name": "estilingue"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-44-pt",
+			"text": "é paroxítona",
+			"level": 3,
+			"thing": {
+				"id": "2601",
+				"name": "mamute"
+			}
+		},
+		"rule2": {
+			"id": "ddr-12-pt",
+			"text": "tem 8 ou mais letras",
+			"level": 2,
+			"thing": {
+				"id": "1698",
+				"name": "petróleo"
+			}
+		},
+		"setId": "ddr-12-pt::ddr-44-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "maçã-do-amor",
+				"id": "1730"
+			},
+			{
+				"rule": 0,
+				"id": "2253",
+				"name": "estaleiro"
+			},
+			{
+				"rule": 2,
+				"id": "2433",
+				"name": "paquímetro"
+			},
+			{
+				"id": "24",
+				"name": "muffin",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"id": "1626",
+				"name": "biscoito recheado"
+			},
+			{
+				"rule": 1,
+				"id": "580",
+				"name": "segway"
+			},
+			{
+				"rule": 0,
+				"id": "1244",
+				"name": "sapatilha"
+			},
+			{
+				"id": "1571",
+				"name": "guitarra",
+				"rule": 0
+			}
+		]
+	},
+	"140": {
+		"id": "2025-01-18",
+		"title": "Contagem vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 140,
+		"intersectingThing": {
+			"id": "613",
+			"name": "bengala"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-11-pt",
+			"text": "tem 7 letras",
+			"level": 1,
+			"thing": {
+				"id": "2524",
+				"name": "cachaça"
+			}
+		},
+		"rule2": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "1562",
+				"name": "torta"
+			}
+		},
+		"setId": "ddr-11-pt::ddr-14-pt",
+		"things": [
+			{
+				"name": "lâmpada",
+				"id": "70",
+				"rule": 1
+			},
+			{
+				"id": "1769",
+				"rule": 0,
+				"name": "earpods"
+			},
+			{
+				"name": "ketchup",
+				"id": "228",
+				"rule": 0
+			},
+			{
+				"name": "lágrima",
+				"id": "1770",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"name": "jangada",
+				"id": "2269"
+			},
+			{
+				"name": "fone",
+				"rule": 2,
+				"id": "164"
+			},
+			{
+				"name": "feng shui",
+				"id": "2589",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"name": "panela",
+				"id": "808"
+			}
+		]
+	},
+	"141": {
+		"id": "2025-01-19",
+		"title": "Repetição vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 141,
+		"intersectingThing": {
+			"id": "1561",
+			"name": "lavanderia"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "1380",
+				"name": "amêndoa"
+			}
+		},
+		"rule2": {
+			"id": "ddr-47-pt",
+			"text": "tem \"I\"",
+			"level": 2,
+			"thing": {
+				"id": "1712",
+				"name": "lábio"
+			}
+		},
+		"setId": "ddr-20-pt::ddr-47-pt",
+		"things": [
+			{
+				"id": "99",
+				"name": "gengibre",
+				"rule": 0
+			},
+			{
+				"id": "38",
+				"name": "rolo",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"id": "1984",
+				"name": "glíter"
+			},
+			{
+				"id": "1593",
+				"rule": 2,
+				"name": "trigo"
+			},
+			{
+				"name": "ninho",
+				"rule": 2,
+				"id": "1206"
+			},
+			{
+				"name": "alicate",
+				"id": "170",
+				"rule": 0
+			},
+			{
+				"id": "558",
+				"name": "monóculo",
+				"rule": 1
+			},
+			{
+				"id": "185",
+				"rule": 1,
+				"name": "presente"
+			}
+		]
+	},
+	"142": {
+		"id": "2025-01-20",
+		"title": "Contagem vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 142,
+		"intersectingThing": {
+			"id": "2412",
+			"name": "braço"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-9-pt",
+			"text": "tem 5 letras",
+			"level": 1,
+			"thing": {
+				"id": "1456",
+				"name": "varal"
+			}
+		},
+		"rule2": {
+			"id": "ddr-44-pt",
+			"text": "é paroxítona",
+			"level": 3,
+			"thing": {
+				"id": "2640",
+				"name": "balaclava"
+			}
+		},
+		"setId": "ddr-44-pt::ddr-9-pt",
+		"things": [
+			{
+				"rule": 2,
+				"id": "2652",
+				"name": "argolas"
+			},
+			{
+				"rule": 1,
+				"name": "katsu",
+				"id": "1610"
+			},
+			{
+				"rule": 0,
+				"name": "fezes",
+				"id": "2614"
+			},
+			{
+				"rule": 0,
+				"id": "2680",
+				"name": "jarra"
+			},
+			{
+				"name": "betoneira",
+				"rule": 2,
+				"id": "1758"
+			},
+			{
+				"id": "1727",
+				"rule": 1,
+				"name": "tarol"
+			},
+			{
+				"id": "1004",
+				"rule": 2,
+				"name": "katana"
+			},
+			{
+				"rule": 1,
+				"name": "colar",
+				"id": "696"
+			}
+		]
+	},
+	"143": {
+		"id": "2025-01-21",
+		"title": "Gramática vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 143,
+		"intersectingThing": {
+			"id": "60",
+			"name": "mamadeira"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "1960",
+				"name": "wok"
+			}
+		},
+		"rule2": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "2266",
+				"name": "cais"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-28-pt",
+		"things": [
+			{
+				"rule": 0,
+				"id": "538",
+				"name": "loja"
+			},
+			{
+				"rule": 0,
+				"name": "piranha",
+				"id": "2267"
+			},
+			{
+				"name": "earpods",
+				"id": "1769",
+				"rule": 2
+			},
+			{
+				"name": "abrigo",
+				"rule": 2,
+				"id": "2660"
+			},
+			{
+				"rule": 1,
+				"id": "547",
+				"name": "cruz"
+			},
+			{
+				"name": "omelete",
+				"id": "2552",
+				"rule": 1
+			},
+			{
+				"id": "1609",
+				"name": "almôndegas",
+				"rule": 0
+			},
+			{
+				"name": "rosto",
+				"id": "1933",
+				"rule": 1
+			}
+		]
+	},
+	"144": {
+		"id": "2025-01-22",
+		"title": "Inclusão vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 144,
+		"intersectingThing": {
+			"id": "31",
+			"name": "bandeirinhas"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-35-pt",
+			"text": "tem \"H\" precedida de consoante (ex: ch, lh, nh)",
+			"level": 2,
+			"thing": {
+				"id": "2336",
+				"name": "chuteira"
+			}
+		},
+		"rule2": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "1999",
+				"name": "quartzo"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-35-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "orelhão",
+				"id": "1365"
+			},
+			{
+				"id": "2472",
+				"name": "chave-cruz",
+				"rule": 0
+			},
+			{
+				"id": "1746",
+				"rule": 1,
+				"name": "bicho-pau"
+			},
+			{
+				"rule": 2,
+				"id": "230",
+				"name": "pomba"
+			},
+			{
+				"id": "736",
+				"name": "caminhão-betoneira",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"id": "2400",
+				"name": "cegonha"
+			},
+			{
+				"id": "209",
+				"rule": 2,
+				"name": "seringa"
+			},
+			{
+				"rule": 0,
+				"name": "cachaça",
+				"id": "2524"
+			}
+		]
+	},
+	"145": {
+		"id": "2025-01-23",
+		"title": "Inclusão vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 145,
+		"intersectingThing": {
+			"id": "2668",
+			"name": "munição"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-30-pt",
+			"text": "tem \"U\"",
+			"level": 2,
+			"thing": {
+				"id": "546",
+				"name": "ampulheta"
+			}
+		},
+		"rule2": {
+			"id": "ddr-43-pt",
+			"text": "é oxítona",
+			"level": 3,
+			"thing": {
+				"id": "2536",
+				"name": "adaptador"
+			}
+		},
+		"setId": "ddr-30-pt::ddr-43-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "mochi",
+				"id": "1600"
+			},
+			{
+				"name": "túnel",
+				"rule": 1,
+				"id": "2447"
+			},
+			{
+				"name": "ketchup",
+				"id": "228",
+				"rule": 0
+			},
+			{
+				"name": "galpão",
+				"rule": 2,
+				"id": "1508"
+			},
+			{
+				"id": "1203",
+				"name": "charuto",
+				"rule": 1
+			},
+			{
+				"id": "180",
+				"name": "guirlanda",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"id": "2207",
+				"name": "mangual"
+			},
+			{
+				"rule": 0,
+				"id": "183",
+				"name": "troféu"
+			}
+		]
+	},
+	"146": {
+		"id": "2025-01-24",
+		"title": "Comparação vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 146,
+		"intersectingThing": {
+			"id": "418",
+			"name": "medalha"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "98",
+				"name": "mesa"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "1594",
+				"name": "lasanha"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-19-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "vestido",
+				"id": "202"
+			},
+			{
+				"name": "solo",
+				"id": "2274",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"name": "moletom",
+				"id": "132"
+			},
+			{
+				"rule": 2,
+				"id": "668",
+				"name": "lagarta"
+			},
+			{
+				"rule": 2,
+				"id": "922",
+				"name": "creme"
+			},
+			{
+				"rule": 1,
+				"id": "1205",
+				"name": "pato"
+			},
+			{
+				"name": "lápide",
+				"id": "351",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"id": "1206",
+				"name": "ninho"
+			}
+		]
+	},
+	"147": {
+		"id": "2025-01-25",
+		"title": "Gramática vs Sequência",
+		"type": "teoria-de-conjuntos",
+		"number": 147,
+		"intersectingThing": {
+			"id": "2522",
+			"name": "gouda"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-2-pt",
+			"text": "é um substantivo masculino",
+			"level": 1,
+			"thing": {
+				"id": "1907",
+				"name": "fagote"
+			}
+		},
+		"rule2": {
+			"id": "ddr-41-pt",
+			"text": "contém ditongo (ai, ei, ia)",
+			"level": 3,
+			"thing": {
+				"id": "187",
+				"name": "refeição"
+			}
+		},
+		"setId": "ddr-2-pt::ddr-41-pt",
+		"things": [
+			{
+				"id": "2463",
+				"name": "iguana",
+				"rule": 2
+			},
+			{
+				"id": "681",
+				"rule": 1,
+				"name": "cartão postal"
+			},
+			{
+				"name": "berimbau",
+				"id": "426",
+				"rule": 0
+			},
+			{
+				"id": "2586",
+				"rule": 1,
+				"name": "mortuário"
+			},
+			{
+				"name": "balalaica",
+				"rule": 2,
+				"id": "2657"
+			},
+			{
+				"rule": 2,
+				"name": "enguia",
+				"id": "1617"
+			},
+			{
+				"rule": 1,
+				"id": "1918",
+				"name": "açaí"
+			},
+			{
+				"name": "mosquete",
+				"rule": 0,
+				"id": "2711"
+			}
+		]
+	},
+	"148": {
+		"id": "2025-01-26",
+		"title": "Gramática vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 148,
+		"intersectingThing": {
+			"id": "909",
+			"name": "marmita"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "1755",
+				"name": "lixadeira"
+			}
+		},
+		"rule2": {
+			"id": "ddr-11-pt",
+			"text": "tem 7 letras",
+			"level": 1,
+			"thing": {
+				"id": "344",
+				"name": "teclado"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-11-pt",
+		"things": [
+			{
+				"id": "128",
+				"rule": 1,
+				"name": "limonada"
+			},
+			{
+				"id": "389",
+				"name": "foguete",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"id": "1152",
+				"name": "xuxinha"
+			},
+			{
+				"id": "302",
+				"rule": 2,
+				"name": "perfume"
+			},
+			{
+				"id": "664",
+				"name": "ancinho",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"id": "638",
+				"name": "luminária"
+			},
+			{
+				"name": "calça",
+				"rule": 1,
+				"id": "1743"
+			},
+			{
+				"id": "1337",
+				"rule": 0,
+				"name": "grávida"
+			}
+		]
+	},
+	"149": {
+		"id": "2025-01-27",
+		"title": "Gramática vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 149,
+		"intersectingThing": {
+			"id": "2062",
+			"name": "cartaz"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-43-pt",
+			"text": "é oxítona",
+			"level": 3,
+			"thing": {
+				"id": "284",
+				"name": "vulcão"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "1461",
+				"name": "aperitivo"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-43-pt",
+		"things": [
+			{
+				"rule": 1,
+				"id": "2014",
+				"name": "mulher"
+			},
+			{
+				"rule": 1,
+				"name": "corais",
+				"id": "1880"
+			},
+			{
+				"id": "534",
+				"rule": 2,
+				"name": "fósforo"
+			},
+			{
+				"id": "491",
+				"name": "sushi",
+				"rule": 0
+			},
+			{
+				"name": "sombreiro",
+				"id": "57",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"id": "856",
+				"name": "rã"
+			},
+			{
+				"rule": 2,
+				"id": "1080",
+				"name": "escapamento"
+			},
+			{
+				"id": "1908",
+				"name": "oboé",
+				"rule": 0
+			}
+		]
+	},
+	"150": {
+		"id": "2025-01-28",
+		"title": "Gramática vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 150,
+		"intersectingThing": {
+			"id": "27",
+			"name": "bicicleta"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-44-pt",
+			"text": "é paroxítona",
+			"level": 3,
+			"thing": {
+				"id": "382",
+				"name": "mapa"
+			}
+		},
+		"rule2": {
+			"id": "ddr-12-pt",
+			"text": "tem 8 ou mais letras",
+			"level": 2,
+			"thing": {
+				"id": "171",
+				"name": "barbeador"
+			}
+		},
+		"setId": "ddr-12-pt::ddr-44-pt",
+		"things": [
+			{
+				"rule": 2,
+				"id": "1531",
+				"name": "gergelim"
+			},
+			{
+				"name": "macarons",
+				"id": "1646",
+				"rule": 2
+			},
+			{
+				"name": "idosa",
+				"rule": 1,
+				"id": "223"
+			},
+			{
+				"name": "elefante",
+				"rule": 0,
+				"id": "233"
+			},
+			{
+				"rule": 1,
+				"name": "coldre",
+				"id": "2532"
+			},
+			{
+				"id": "2681",
+				"rule": 0,
+				"name": "galhadas"
+			},
+			{
+				"id": "2035",
+				"rule": 2,
+				"name": "crisálida"
+			},
+			{
+				"rule": 1,
+				"name": "gêiser",
+				"id": "1851"
+			}
+		]
+	},
+	"151": {
+		"id": "2025-01-29",
+		"title": "Repetição vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 151,
+		"intersectingThing": {
+			"id": "1676",
+			"name": "prendedor"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "2009",
+				"name": "cientista"
+			}
+		},
+		"rule2": {
+			"id": "ddr-48-pt",
+			"text": "tem \"O\"",
+			"level": 2,
+			"thing": {
+				"id": "2697",
+				"name": "cruzamento"
+			}
+		},
+		"setId": "ddr-20-pt::ddr-48-pt",
+		"things": [
+			{
+				"name": "mosca",
+				"rule": 2,
+				"id": "1927"
+			},
+			{
+				"name": "mímico",
+				"rule": 0,
+				"id": "1595"
+			},
+			{
+				"name": "desentupidor",
+				"id": "160",
+				"rule": 0
+			},
+			{
+				"id": "1146",
+				"rule": 0,
+				"name": "cinzeiro"
+			},
+			{
+				"id": "440",
+				"name": "carruagem",
+				"rule": 1
+			},
+			{
+				"id": "989",
+				"rule": 1,
+				"name": "cafeteira"
+			},
+			{
+				"rule": 2,
+				"id": "432",
+				"name": "oca"
+			},
+			{
+				"name": "cartucho",
+				"id": "1699",
+				"rule": 2
+			}
+		]
+	},
+	"152": {
+		"id": "2025-01-30",
+		"title": "Repetição vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 152,
+		"intersectingThing": {
+			"id": "2251",
+			"name": "lichia"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "1",
+				"name": "tapete de ioga"
+			}
+		},
+		"rule2": {
+			"id": "ddr-32-pt",
+			"text": "tem \"C\" ou \"Ç\"",
+			"level": 1,
+			"thing": {
+				"id": "136",
+				"name": "laço"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-32-pt",
+		"things": [
+			{
+				"name": "pincel",
+				"rule": 2,
+				"id": "801"
+			},
+			{
+				"name": "crisálida",
+				"id": "2035",
+				"rule": 0
+			},
+			{
+				"name": "joalheria",
+				"id": "2648",
+				"rule": 1
+			},
+			{
+				"id": "933",
+				"rule": 2,
+				"name": "nachos"
+			},
+			{
+				"id": "766",
+				"rule": 0,
+				"name": "controlador"
+			},
+			{
+				"rule": 2,
+				"name": "bacon",
+				"id": "796"
+			},
+			{
+				"rule": 0,
+				"id": "2539",
+				"name": "macumba"
+			},
+			{
+				"name": "prendedor",
+				"id": "1676",
+				"rule": 1
+			}
+		]
+	},
+	"153": {
+		"id": "2025-01-31",
+		"title": "Inicialização vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 153,
+		"intersectingThing": {
+			"id": "75",
+			"name": "escudo"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-25-pt",
+			"text": "começa com uma vogal",
+			"level": 1,
+			"thing": {
+				"id": "742",
+				"name": "aquário"
+			}
+		},
+		"rule2": {
+			"id": "ddr-44-pt",
+			"text": "é paroxítona",
+			"level": 3,
+			"thing": {
+				"id": "665",
+				"name": "cisne"
+			}
+		},
+		"setId": "ddr-25-pt::ddr-44-pt",
+		"things": [
+			{
+				"rule": 0,
+				"name": "enceradeira",
+				"id": "1795"
+			},
+			{
+				"name": "airbag",
+				"id": "1644",
+				"rule": 1
+			},
+			{
+				"name": "adaga",
+				"rule": 0,
+				"id": "894"
+			},
+			{
+				"rule": 1,
+				"name": "escorregador",
+				"id": "353"
+			},
+			{
+				"rule": 2,
+				"id": "50",
+				"name": "caneta"
+			},
+			{
+				"name": "bife",
+				"id": "113",
+				"rule": 2
+			},
+			{
+				"id": "299",
+				"rule": 1,
+				"name": "apontador"
+			},
+			{
+				"rule": 2,
+				"name": "chopeira",
+				"id": "1765"
+			}
+		]
+	},
+	"154": {
+		"id": "2025-02-01",
+		"title": "Comparação vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 154,
+		"intersectingThing": {
+			"id": "1859",
+			"name": "damasco"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "1700",
+				"name": "espaçonave"
+			}
+		},
+		"rule2": {
+			"id": "ddr-4-pt",
+			"text": "tem 3 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "496",
+				"name": "balança"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-4-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "lasanha",
+				"id": "1594"
+			},
+			{
+				"id": "352",
+				"name": "caveira",
+				"rule": 0
+			},
+			{
+				"name": "açougue",
+				"id": "2248",
+				"rule": 0
+			},
+			{
+				"name": "aspargo",
+				"rule": 0,
+				"id": "904"
+			},
+			{
+				"rule": 1,
+				"id": "535",
+				"name": "policial"
+			},
+			{
+				"rule": 2,
+				"id": "2088",
+				"name": "cabana"
+			},
+			{
+				"id": "2381",
+				"name": "sinagoga",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"name": "arara",
+				"id": "1704"
+			}
+		]
+	},
+	"155": {
+		"id": "2025-02-02",
+		"title": "Inclusão vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 155,
+		"intersectingThing": {
+			"id": "795",
+			"name": "brócolis"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-48-pt",
+			"text": "tem \"O\"",
+			"level": 2,
+			"thing": {
+				"id": "2444",
+				"name": "solitária"
+			}
+		},
+		"rule2": {
+			"id": "ddr-2-pt",
+			"text": "é um substantivo masculino",
+			"level": 1,
+			"thing": {
+				"id": "1297",
+				"name": "picles"
+			}
+		},
+		"setId": "ddr-2-pt::ddr-48-pt",
+		"things": [
+			{
+				"id": "1835",
+				"name": "camarim",
+				"rule": 2
+			},
+			{
+				"id": "1790",
+				"name": "hemorroida",
+				"rule": 1
+			},
+			{
+				"id": "1691",
+				"name": "crepe",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"name": "poeira",
+				"id": "385"
+			},
+			{
+				"id": "534",
+				"name": "fósforo",
+				"rule": 0
+			},
+			{
+				"id": "1324",
+				"rule": 0,
+				"name": "pelourinho"
+			},
+			{
+				"id": "253",
+				"name": "gasolina",
+				"rule": 1
+			},
+			{
+				"name": "achocolatado",
+				"rule": 0,
+				"id": "1636"
+			}
+		]
+	},
+	"156": {
+		"id": "2025-02-03",
+		"title": "Inclusão vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 156,
+		"intersectingThing": {
+			"id": "1707",
+			"name": "confidencial"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-32-pt",
+			"text": "tem \"C\" ou \"Ç\"",
+			"level": 1,
+			"thing": {
+				"id": "287",
+				"name": "calendário"
+			}
+		},
+		"rule2": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "998",
+				"name": "sanfona"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-32-pt",
+		"things": [
+			{
+				"id": "2431",
+				"rule": 1,
+				"name": "física quântica"
+			},
+			{
+				"id": "468",
+				"rule": 2,
+				"name": "bússola"
+			},
+			{
+				"name": "caveira",
+				"rule": 1,
+				"id": "352"
+			},
+			{
+				"id": "1565",
+				"rule": 2,
+				"name": "milkshake"
+			},
+			{
+				"rule": 0,
+				"name": "pesticida",
+				"id": "1008"
+			},
+			{
+				"name": "carimbo",
+				"rule": 0,
+				"id": "358"
+			},
+			{
+				"rule": 0,
+				"name": "castelheiros",
+				"id": "497"
+			},
+			{
+				"rule": 2,
+				"name": "tetris",
+				"id": "1947"
+			}
+		]
+	},
+	"157": {
+		"id": "2025-02-04",
+		"title": "Comparação vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 157,
+		"intersectingThing": {
+			"id": "1871",
+			"name": "torre"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "1483",
+				"name": "código binário"
+			}
+		},
+		"rule2": {
+			"id": "ddr-3-pt",
+			"text": "tem 2 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "2584",
+				"name": "mangá"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-3-pt",
+		"things": [
+			{
+				"name": "camiseta",
+				"id": "824",
+				"rule": 1
+			},
+			{
+				"name": "pescaria",
+				"rule": 1,
+				"id": "2223"
+			},
+			{
+				"id": "463",
+				"name": "sofá",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"name": "chave",
+				"id": "199"
+			},
+			{
+				"rule": 2,
+				"name": "cartaz",
+				"id": "2062"
+			},
+			{
+				"name": "guardanapo",
+				"rule": 1,
+				"id": "1135"
+			},
+			{
+				"id": "394",
+				"name": "placa",
+				"rule": 2
+			},
+			{
+				"id": "848",
+				"name": "gaita",
+				"rule": 0
+			}
+		]
+	},
+	"158": {
+		"id": "2025-02-05",
+		"title": "Inicialização vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 158,
+		"intersectingThing": {
+			"id": "78",
+			"name": "jornal"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "1495",
+				"name": "copo"
+			}
+		},
+		"rule2": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "1980",
+				"name": "pedreiro"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-23-pt",
+		"things": [
+			{
+				"id": "1220",
+				"name": "giz",
+				"rule": 1
+			},
+			{
+				"id": "492",
+				"name": "pneu",
+				"rule": 2
+			},
+			{
+				"name": "pula-pula",
+				"id": "1016",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"id": "358",
+				"name": "carimbo"
+			},
+			{
+				"id": "2524",
+				"name": "cachaça",
+				"rule": 1
+			},
+			{
+				"id": "973",
+				"rule": 0,
+				"name": "alfinete"
+			},
+			{
+				"id": "959",
+				"name": "verruga",
+				"rule": 2
+			},
+			{
+				"name": "cinto",
+				"rule": 0,
+				"id": "109"
+			}
+		]
+	},
+	"159": {
+		"id": "2025-02-06",
+		"title": "Inicialização vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 159,
+		"intersectingThing": {
+			"id": "700",
+			"name": "nariz"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "1724",
+				"name": "guilhotina"
+			}
+		},
+		"rule2": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "1143",
+				"name": "ultrassom"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-26-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "frigideira",
+				"id": "604"
+			},
+			{
+				"rule": 1,
+				"id": "279",
+				"name": "bíblia"
+			},
+			{
+				"id": "1110",
+				"rule": 2,
+				"name": "anzol"
+			},
+			{
+				"rule": 0,
+				"name": "malhete",
+				"id": "2191"
+			},
+			{
+				"id": "2357",
+				"name": "Antártica",
+				"rule": 2
+			},
+			{
+				"id": "29",
+				"name": "cérebro",
+				"rule": 0
+			},
+			{
+				"id": "465",
+				"name": "avental",
+				"rule": 2
+			},
+			{
+				"id": "2093",
+				"rule": 1,
+				"name": "boneco"
+			}
+		]
+	},
+	"160": {
+		"id": "2025-02-07",
+		"title": "Gramática vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 160,
+		"intersectingThing": {
+			"id": "1270",
+			"name": "delegacia"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "177",
+				"name": "televisão"
+			}
+		},
+		"rule2": {
+			"id": "ddr-32-pt",
+			"text": "tem \"C\" ou \"Ç\"",
+			"level": 1,
+			"thing": {
+				"id": "1138",
+				"name": "biscoito"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-32-pt",
+		"things": [
+			{
+				"id": "238",
+				"name": "pena",
+				"rule": 1
+			},
+			{
+				"name": "binóculo",
+				"id": "1191",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"name": "coelho",
+				"id": "30"
+			},
+			{
+				"id": "1529",
+				"name": "fotografias",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "1234",
+				"name": "erva"
+			},
+			{
+				"id": "1779",
+				"rule": 2,
+				"name": "apêndice"
+			},
+			{
+				"rule": 0,
+				"id": "22",
+				"name": "camisola"
+			},
+			{
+				"rule": 0,
+				"id": "2399",
+				"name": "cacatua"
+			}
+		]
+	},
+	"161": {
+		"id": "2025-02-08",
+		"title": "Repetição vs Sequência",
+		"type": "teoria-de-conjuntos",
+		"number": 161,
+		"intersectingThing": {
+			"id": "1316",
+			"name": "espermatozoide"
+		},
+		"level": 5,
+		"rule1": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "1244",
+				"name": "sapatilha"
+			}
+		},
+		"rule2": {
+			"id": "ddr-7-pt",
+			"text": "as primeiras 2 letras estão em ordem alfabética",
+			"level": 3,
+			"thing": {
+				"id": "1810",
+				"name": "tucano"
+			}
+		},
+		"setId": "ddr-20-pt::ddr-7-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "mangual",
+				"id": "2207"
+			},
+			{
+				"id": "2691",
+				"rule": 0,
+				"name": "koto"
+			},
+			{
+				"id": "855",
+				"rule": 2,
+				"name": "chaveiro"
+			},
+			{
+				"id": "1147",
+				"name": "bracelete",
+				"rule": 0
+			},
+			{
+				"name": "Europa",
+				"id": "2243",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"id": "2655",
+				"name": "caviar"
+			},
+			{
+				"name": "tigre-dente-de-sabre",
+				"id": "2630",
+				"rule": 1
+			},
+			{
+				"name": "aspirador",
+				"rule": 0,
+				"id": "133"
+			}
+		]
+	},
+	"162": {
+		"id": "2025-02-09",
+		"title": "Comparação vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 162,
+		"intersectingThing": {
+			"id": "1255",
+			"name": "harpa"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "2763",
+				"name": "shortinho"
+			}
+		},
+		"rule2": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "2678",
+				"name": "axila"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-16-pt",
+		"things": [
+			{
+				"name": "mamadeira",
+				"rule": 2,
+				"id": "60"
+			},
+			{
+				"id": "2204",
+				"name": "Crocs",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"name": "lagarto",
+				"id": "671"
+			},
+			{
+				"name": "chips",
+				"rule": 1,
+				"id": "47"
+			},
+			{
+				"name": "braço",
+				"rule": 1,
+				"id": "2412"
+			},
+			{
+				"name": "enceradeira",
+				"rule": 2,
+				"id": "1795"
+			},
+			{
+				"name": "cerejeira",
+				"rule": 2,
+				"id": "1719"
+			},
+			{
+				"id": "2460",
+				"name": "lesma",
+				"rule": 0
+			}
+		]
+	},
+	"163": {
+		"id": "2025-02-10",
+		"title": "Gramática vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 163,
+		"intersectingThing": {
+			"id": "13",
+			"name": "joia"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "668",
+				"name": "lagarta"
+			}
+		},
+		"rule2": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "425",
+				"name": "triângulo"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-14-pt",
+		"things": [
+			{
+				"id": "259",
+				"rule": 0,
+				"name": "raquete"
+			},
+			{
+				"rule": 1,
+				"name": "carta",
+				"id": "6"
+			},
+			{
+				"name": "estábulo",
+				"rule": 2,
+				"id": "35"
+			},
+			{
+				"name": "cruz",
+				"id": "547",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"name": "tamagochi",
+				"id": "821"
+			},
+			{
+				"name": "Ouija",
+				"id": "1489",
+				"rule": 0
+			},
+			{
+				"id": "1826",
+				"name": "toupeira",
+				"rule": 0
+			},
+			{
+				"id": "1241",
+				"rule": 2,
+				"name": "pêssego"
+			}
+		]
+	},
+	"164": {
+		"id": "2025-02-11",
+		"title": "Repetição vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 164,
+		"intersectingThing": {
+			"id": "758",
+			"name": "mictório"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "1562",
+				"name": "torta"
+			}
+		},
+		"rule2": {
+			"id": "ddr-32-pt",
+			"text": "tem \"C\" ou \"Ç\"",
+			"level": 1,
+			"thing": {
+				"id": "600",
+				"name": "chinelo"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-32-pt",
+		"things": [
+			{
+				"name": "berço",
+				"id": "915",
+				"rule": 2
+			},
+			{
+				"id": "2763",
+				"name": "shortinho",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "1161",
+				"name": "apagador"
+			},
+			{
+				"name": "canoa",
+				"rule": 0,
+				"id": "168"
+			},
+			{
+				"rule": 2,
+				"id": "1880",
+				"name": "corais"
+			},
+			{
+				"name": "crepe",
+				"rule": 0,
+				"id": "1691"
+			},
+			{
+				"id": "924",
+				"rule": 0,
+				"name": "telescópio"
+			},
+			{
+				"id": "1203",
+				"name": "charuto",
+				"rule": 2
+			}
+		]
+	},
+	"165": {
+		"id": "2025-02-12",
+		"title": "Comparação vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 165,
+		"intersectingThing": {
+			"id": "256",
+			"name": "útero"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "2103",
+				"name": "identidade"
+			}
+		},
+		"rule2": {
+			"id": "ddr-4-pt",
+			"text": "tem 3 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "587",
+				"name": "carranca"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-4-pt",
+		"things": [
+			{
+				"rule": 0,
+				"id": "2784",
+				"name": "teatro"
+			},
+			{
+				"id": "653",
+				"name": "batata",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"name": "cruzamento",
+				"id": "2697"
+			},
+			{
+				"id": "70",
+				"name": "lâmpada",
+				"rule": 2
+			},
+			{
+				"name": "grilo",
+				"rule": 1,
+				"id": "935"
+			},
+			{
+				"rule": 1,
+				"id": "2429",
+				"name": "sobrancelha"
+			},
+			{
+				"name": "vassoura",
+				"id": "240",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"id": "44",
+				"name": "trampolim"
+			}
+		]
+	},
+	"166": {
+		"id": "2025-02-13",
+		"title": "Repetição vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 166,
+		"intersectingThing": {
+			"id": "398",
+			"name": "ralador"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "2465",
+				"name": "aparador"
+			}
+		},
+		"rule2": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "136",
+				"name": "laço"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-26-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "estudante",
+				"id": "2010"
+			},
+			{
+				"name": "algodão doce",
+				"rule": 1,
+				"id": "410"
+			},
+			{
+				"name": "braço",
+				"rule": 2,
+				"id": "2412"
+			},
+			{
+				"id": "1544",
+				"name": "mexido",
+				"rule": 2
+			},
+			{
+				"name": "lagartixa",
+				"id": "2462",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"name": "amora",
+				"id": "1895"
+			},
+			{
+				"name": "rosa",
+				"id": "1218",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"name": "fábrica",
+				"id": "838"
+			}
+		]
+	},
+	"167": {
+		"id": "2025-02-14",
+		"title": "Inclusão vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 167,
+		"intersectingThing": {
+			"id": "708",
+			"name": "semáforo"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-29-pt",
+			"text": "tem \"E\"",
+			"level": 2,
+			"thing": {
+				"id": "1129",
+				"name": "flanela"
+			}
+		},
+		"rule2": {
+			"id": "ddr-2-pt",
+			"text": "é um substantivo masculino",
+			"level": 1,
+			"thing": {
+				"id": "296",
+				"name": "vaso"
+			}
+		},
+		"setId": "ddr-2-pt::ddr-29-pt",
+		"things": [
+			{
+				"id": "1101",
+				"name": "empilhadeira",
+				"rule": 1
+			},
+			{
+				"id": "171",
+				"name": "barbeador",
+				"rule": 0
+			},
+			{
+				"rule": 2,
+				"id": "2279",
+				"name": "boi"
+			},
+			{
+				"rule": 0,
+				"name": "despertador",
+				"id": "131"
+			},
+			{
+				"rule": 2,
+				"id": "2801",
+				"name": "caju"
+			},
+			{
+				"id": "2508",
+				"rule": 0,
+				"name": "disfarce"
+			},
+			{
+				"name": "brincos",
+				"id": "305",
+				"rule": 2
+			},
+			{
+				"name": "barragem",
+				"rule": 1,
+				"id": "1541"
+			}
+		]
+	},
+	"168": {
+		"id": "2025-02-15",
+		"title": "Repetição vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 168,
+		"intersectingThing": {
+			"id": "733",
+			"name": "piscina"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "1539",
+				"name": "burrito"
+			}
+		},
+		"rule2": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "1122",
+				"name": "drogas"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-19-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "polia",
+				"id": "1570"
+			},
+			{
+				"name": "pet",
+				"id": "2783",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"name": "barbeador",
+				"id": "171"
+			},
+			{
+				"id": "1138",
+				"rule": 1,
+				"name": "biscoito"
+			},
+			{
+				"rule": 2,
+				"id": "1193",
+				"name": "colmeia"
+			},
+			{
+				"name": "miçanga",
+				"id": "2273",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"name": "bobó",
+				"id": "2780"
+			},
+			{
+				"name": "espátula",
+				"id": "1428",
+				"rule": 0
+			}
+		]
+	},
+	"169": {
+		"id": "2025-02-16",
+		"title": "Inicialização vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 169,
+		"intersectingThing": {
+			"id": "795",
+			"name": "brócolis"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "172",
+				"name": "café"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "619",
+				"name": "sobras"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-23-pt",
+		"things": [
+			{
+				"id": "817",
+				"rule": 1,
+				"name": "cola"
+			},
+			{
+				"id": "2607",
+				"name": "reservatório",
+				"rule": 2
+			},
+			{
+				"id": "2630",
+				"rule": 2,
+				"name": "tigre-dente-de-sabre"
+			},
+			{
+				"id": "2046",
+				"name": "massa",
+				"rule": 0
+			},
+			{
+				"name": "CD",
+				"rule": 1,
+				"id": "1454"
+			},
+			{
+				"name": "corvo",
+				"id": "1808",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"id": "2519",
+				"name": "frankenstein"
+			},
+			{
+				"name": "kunai",
+				"rule": 1,
+				"id": "1855"
+			}
+		]
+	},
+	"170": {
+		"id": "2025-02-17",
+		"title": "Repetição vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 170,
+		"intersectingThing": {
+			"id": "1700",
+			"name": "espaçonave"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "2435",
+				"name": "porta-retrato"
+			}
+		},
+		"rule2": {
+			"id": "ddr-32-pt",
+			"text": "tem \"C\" ou \"Ç\"",
+			"level": 1,
+			"thing": {
+				"id": "2370",
+				"name": "cappuccino"
+			}
+		},
+		"setId": "ddr-20-pt::ddr-32-pt",
+		"things": [
+			{
+				"rule": 0,
+				"name": "conversível",
+				"id": "1898"
+			},
+			{
+				"name": "teleprompter",
+				"id": "2693",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "1208",
+				"name": "tamanduá"
+			},
+			{
+				"rule": 1,
+				"name": "outdoor",
+				"id": "396"
+			},
+			{
+				"id": "2033",
+				"rule": 2,
+				"name": "casulo"
+			},
+			{
+				"rule": 2,
+				"name": "cachecol",
+				"id": "339"
+			},
+			{
+				"id": "67",
+				"rule": 0,
+				"name": "bomba atômica"
+			},
+			{
+				"name": "chaveiro",
+				"rule": 2,
+				"id": "855"
+			}
+		]
+	},
+	"171": {
+		"id": "2025-02-18",
+		"title": "Gramática vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 171,
+		"intersectingThing": {
+			"id": "1008",
+			"name": "pesticida"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-2-pt",
+			"text": "é um substantivo masculino",
+			"level": 1,
+			"thing": {
+				"id": "1126",
+				"name": "mouse"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "1697",
+				"name": "mandioca"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-2-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "cano",
+				"id": "332"
+			},
+			{
+				"rule": 2,
+				"name": "plateia",
+				"id": "1589"
+			},
+			{
+				"rule": 2,
+				"name": "planta",
+				"id": "415"
+			},
+			{
+				"name": "bastão",
+				"rule": 0,
+				"id": "782"
+			},
+			{
+				"id": "1727",
+				"rule": 1,
+				"name": "tarol"
+			},
+			{
+				"rule": 2,
+				"id": "777",
+				"name": "presilhas"
+			},
+			{
+				"rule": 0,
+				"name": "chicote",
+				"id": "476"
+			},
+			{
+				"name": "segurança",
+				"rule": 0,
+				"id": "1542"
+			}
+		]
+	},
+	"172": {
+		"id": "2025-02-19",
+		"title": "Inicialização vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 172,
+		"intersectingThing": {
+			"id": "133",
+			"name": "aspirador"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "1935",
+				"name": "mitra"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "165",
+				"name": "quebra-cabeça"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-23-pt",
+		"things": [
+			{
+				"rule": 0,
+				"id": "1270",
+				"name": "delegacia"
+			},
+			{
+				"name": "ping pong",
+				"rule": 2,
+				"id": "2736"
+			},
+			{
+				"id": "519",
+				"name": "pizza",
+				"rule": 2
+			},
+			{
+				"id": "1827",
+				"name": "hamster",
+				"rule": 1
+			},
+			{
+				"id": "1613",
+				"name": "moai",
+				"rule": 1
+			},
+			{
+				"id": "1316",
+				"name": "espermatozoide",
+				"rule": 0
+			},
+			{
+				"id": "670",
+				"rule": 0,
+				"name": "concha"
+			},
+			{
+				"id": "1375",
+				"rule": 2,
+				"name": "terrorista"
+			}
+		]
+	},
+	"173": {
+		"id": "2025-02-20",
+		"title": "Comparação vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 173,
+		"intersectingThing": {
+			"id": "1505",
+			"name": "desenho"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "1627",
+				"name": "salamandra"
+			}
+		},
+		"rule2": {
+			"id": "ddr-48-pt",
+			"text": "tem \"O\"",
+			"level": 2,
+			"thing": {
+				"id": "13",
+				"name": "joia"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-48-pt",
+		"things": [
+			{
+				"name": "jarra",
+				"id": "2680",
+				"rule": 1
+			},
+			{
+				"id": "1543",
+				"rule": 2,
+				"name": "arquivos"
+			},
+			{
+				"name": "lhama",
+				"id": "864",
+				"rule": 1
+			},
+			{
+				"name": "vendedora",
+				"rule": 0,
+				"id": "2003"
+			},
+			{
+				"rule": 1,
+				"id": "927",
+				"name": "tripé"
+			},
+			{
+				"id": "2473",
+				"name": "estabilizador",
+				"rule": 0
+			},
+			{
+				"id": "1380",
+				"rule": 2,
+				"name": "amêndoa"
+			},
+			{
+				"id": "1790",
+				"rule": 2,
+				"name": "hemorroida"
+			}
+		]
+	},
+	"174": {
+		"id": "2025-02-21",
+		"title": "Inicialização vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 174,
+		"intersectingThing": {
+			"id": "204",
+			"name": "maracas"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "591",
+				"name": "trono"
+			}
+		},
+		"rule2": {
+			"id": "ddr-1-pt",
+			"text": "é um substantivo feminino",
+			"level": 1,
+			"thing": {
+				"id": "1892",
+				"name": "arbaleta"
+			}
+		},
+		"setId": "ddr-1-pt::ddr-26-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "águia",
+				"id": "472"
+			},
+			{
+				"id": "444",
+				"name": "armadilha",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"id": "2021",
+				"name": "lontra"
+			},
+			{
+				"id": "669",
+				"rule": 1,
+				"name": "camelo"
+			},
+			{
+				"id": "1255",
+				"name": "harpa",
+				"rule": 0
+			},
+			{
+				"id": "570",
+				"name": "uva",
+				"rule": 2
+			},
+			{
+				"name": "partitura",
+				"id": "789",
+				"rule": 0
+			},
+			{
+				"name": "lavrador",
+				"rule": 1,
+				"id": "1976"
+			}
+		]
+	},
+	"175": {
+		"id": "2025-02-22",
+		"title": "Inicialização vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 175,
+		"intersectingThing": {
+			"id": "6",
+			"name": "carta"
+		},
+		"level": 5,
+		"rule1": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "9",
+				"name": "dentadura"
+			}
+		},
+		"rule2": {
+			"id": "ddr-15-pt",
+			"text": "tem 4 ou menos letras únicas",
+			"level": 3,
+			"thing": {
+				"id": "72",
+				"name": "ramo"
+			}
+		},
+		"setId": "ddr-15-pt::ddr-23-pt",
+		"things": [
+			{
+				"name": "dente",
+				"id": "86",
+				"rule": 0
+			},
+			{
+				"name": "leque",
+				"id": "18",
+				"rule": 0
+			},
+			{
+				"name": "taco",
+				"id": "64",
+				"rule": 2
+			},
+			{
+				"name": "galinha",
+				"id": "41",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "2",
+				"name": "coqueiro"
+			},
+			{
+				"name": "porco",
+				"rule": 2,
+				"id": "5"
+			},
+			{
+				"rule": 0,
+				"id": "54",
+				"name": "faca"
+			},
+			{
+				"name": "cérebro",
+				"id": "29",
+				"rule": 1
+			}
+		]
+	},
+	"176": {
+		"id": "2025-02-23",
+		"title": "Repetição vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 176,
+		"intersectingThing": {
+			"id": "16",
+			"name": "peixe"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "25",
+				"name": "pendrive"
+			}
+		},
+		"rule2": {
+			"id": "ddr-17-pt",
+			"text": "tem mais vogais do que consoantes",
+			"level": 2,
+			"thing": {
+				"id": "33",
+				"name": "ímã"
+			}
+		},
+		"setId": "ddr-17-pt::ddr-20-pt",
+		"things": [
+			{
+				"name": "caneta",
+				"id": "50",
+				"rule": 1
+			},
+			{
+				"id": "2",
+				"rule": 0,
+				"name": "coqueiro"
+			},
+			{
+				"rule": 2,
+				"name": "piano",
+				"id": "23"
+			},
+			{
+				"id": "1",
+				"rule": 0,
+				"name": "tapete de ioga"
+			},
+			{
+				"rule": 1,
+				"name": "vaca",
+				"id": "46"
+			},
+			{
+				"name": "pente",
+				"id": "19",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"name": "peixe",
+				"id": "16"
+			},
+			{
+				"id": "13",
+				"name": "joia",
+				"rule": 2
+			}
+		]
+	},
+	"177": {
+		"id": "2025-02-24",
+		"title": "Inclusão vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 177,
+		"intersectingThing": {
+			"id": "67",
+			"name": "bomba atômica"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "21",
+				"name": "pá"
+			}
+		},
+		"rule2": {
+			"id": "ddr-14-pt",
+			"text": "tem 2 ou mais vogais diferentes",
+			"level": 2,
+			"thing": {
+				"id": "16",
+				"name": "peixe"
+			}
+		},
+		"setId": "ddr-14-pt::ddr-28-pt",
+		"things": [
+			{
+				"name": "escudo",
+				"rule": 2,
+				"id": "75"
+			},
+			{
+				"rule": 1,
+				"name": "faca",
+				"id": "54"
+			},
+			{
+				"name": "joia",
+				"rule": 0,
+				"id": "13"
+			},
+			{
+				"rule": 1,
+				"name": "lâmpada",
+				"id": "70"
+			},
+			{
+				"id": "55",
+				"rule": 2,
+				"name": "óculos"
+			},
+			{
+				"name": "sombreiro",
+				"rule": 2,
+				"id": "57"
+			},
+			{
+				"id": "52",
+				"rule": 0,
+				"name": "chafariz"
+			},
+			{
+				"name": "spray",
+				"rule": 1,
+				"id": "37"
+			}
+		]
+	},
+	"178": {
+		"id": "2025-02-25",
+		"title": "Comparação vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 178,
+		"intersectingThing": {
+			"id": "48",
+			"name": "rosquinha"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "66",
+				"name": "chave inglesa"
+			}
+		},
+		"rule2": {
+			"id": "ddr-4-pt",
+			"text": "tem 3 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "55",
+				"name": "óculos"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-4-pt",
+		"things": [
+			{
+				"rule": 2,
+				"id": "50",
+				"name": "caneta"
+			},
+			{
+				"name": "coelho",
+				"rule": 2,
+				"id": "30"
+			},
+			{
+				"rule": 0,
+				"id": "57",
+				"name": "sombreiro"
+			},
+			{
+				"id": "27",
+				"rule": 1,
+				"name": "bicicleta"
+			},
+			{
+				"name": "livro",
+				"rule": 1,
+				"id": "11"
+			},
+			{
+				"id": "9",
+				"rule": 1,
+				"name": "dentadura"
+			},
+			{
+				"id": "41",
+				"name": "galinha",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"name": "sorvete",
+				"id": "79"
+			}
+		]
+	},
+	"179": {
+		"id": "2025-02-26",
+		"title": "Contagem vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 179,
+		"intersectingThing": {
+			"id": "49",
+			"name": "relógio de pulso"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-12-pt",
+			"text": "tem 8 ou mais letras",
+			"level": 2,
+			"thing": {
+				"id": "40",
+				"name": "extintor"
+			}
+		},
+		"rule2": {
+			"id": "ddr-53-pt",
+			"text": "tem o mesmo número de vogais e consoantes",
+			"level": 2,
+			"thing": {
+				"id": "21",
+				"name": "pá"
+			}
+		},
+		"setId": "ddr-12-pt::ddr-53-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "cavalo",
+				"id": "36"
+			},
+			{
+				"id": "30",
+				"name": "coelho",
+				"rule": 2
+			},
+			{
+				"name": "bomba atômica",
+				"id": "67",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"id": "2",
+				"name": "coqueiro"
+			},
+			{
+				"rule": 2,
+				"id": "84",
+				"name": "janela"
+			},
+			{
+				"name": "tapete de ioga",
+				"rule": 1,
+				"id": "1"
+			},
+			{
+				"name": "relógio de pulso",
+				"id": "49",
+				"rule": 0
+			},
+			{
+				"name": "canivete",
+				"id": "53",
+				"rule": 0
+			}
+		]
+	},
+	"180": {
+		"id": "2025-02-27",
+		"title": "Comparação vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 180,
+		"intersectingThing": {
+			"id": "42",
+			"name": "ovo frito"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-53-pt",
+			"text": "tem o mesmo número de vogais e consoantes",
+			"level": 2,
+			"thing": {
+				"id": "72",
+				"name": "ramo"
+			}
+		},
+		"rule2": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "28",
+				"name": "haltere"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-53-pt",
+		"things": [
+			{
+				"id": "38",
+				"rule": 0,
+				"name": "rolo"
+			},
+			{
+				"id": "63",
+				"rule": 1,
+				"name": "bigode"
+			},
+			{
+				"name": "fralda",
+				"id": "61",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"id": "24",
+				"name": "muffin"
+			},
+			{
+				"id": "64",
+				"name": "taco",
+				"rule": 1
+			},
+			{
+				"id": "71",
+				"rule": 0,
+				"name": "bolo"
+			},
+			{
+				"rule": 2,
+				"name": "mamadeira",
+				"id": "60"
+			},
+			{
+				"rule": 0,
+				"id": "49",
+				"name": "relógio de pulso"
+			}
+		]
+	},
+	"181": {
+		"id": "2025-02-28",
+		"title": "Gramática vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 181,
+		"intersectingThing": {
+			"id": "23",
+			"name": "piano"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-2-pt",
+			"text": "é um substantivo masculino",
+			"level": 1,
+			"thing": {
+				"id": "28",
+				"name": "haltere"
+			}
+		},
+		"rule2": {
+			"id": "ddr-59-pt",
+			"text": "tem \"P\"",
+			"level": 1,
+			"thing": {
+				"id": "3",
+				"name": "espada"
+			}
+		},
+		"setId": "ddr-2-pt::ddr-59-pt",
+		"things": [
+			{
+				"name": "chupeta",
+				"id": "58",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"name": "pá",
+				"id": "21"
+			},
+			{
+				"id": "1",
+				"name": "tapete de ioga",
+				"rule": 0
+			},
+			{
+				"id": "53",
+				"rule": 1,
+				"name": "canivete"
+			},
+			{
+				"id": "25",
+				"name": "pendrive",
+				"rule": 0
+			},
+			{
+				"id": "70",
+				"name": "lâmpada",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"id": "62",
+				"name": "sutiã"
+			},
+			{
+				"name": "relógio de pulso",
+				"rule": 0,
+				"id": "49"
+			}
+		]
+	},
+	"182": {
+		"id": "2025-03-01",
+		"title": "Comparação vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 182,
+		"intersectingThing": {
+			"id": "72",
+			"name": "ramo"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-53-pt",
+			"text": "tem o mesmo número de vogais e consoantes",
+			"level": 2,
+			"thing": {
+				"id": "30",
+				"name": "coelho"
+			}
+		},
+		"rule2": {
+			"id": "ddr-60-pt",
+			"text": "tem \"R\"",
+			"level": 1,
+			"thing": {
+				"id": "20",
+				"name": "árvore de natal"
+			}
+		},
+		"setId": "ddr-53-pt::ddr-60-pt",
+		"things": [
+			{
+				"id": "2",
+				"name": "coqueiro",
+				"rule": 2
+			},
+			{
+				"name": "bigode",
+				"id": "63",
+				"rule": 1
+			},
+			{
+				"name": "caneta",
+				"rule": 1,
+				"id": "50"
+			},
+			{
+				"rule": 0,
+				"name": "robô",
+				"id": "12"
+			},
+			{
+				"name": "férias",
+				"id": "2831",
+				"rule": 0
+			},
+			{
+				"rule": 2,
+				"name": "cérebro",
+				"id": "29"
+			},
+			{
+				"name": "caixa de ferramentas",
+				"rule": 2,
+				"id": "7"
+			},
+			{
+				"id": "49",
+				"rule": 0,
+				"name": "relógio de pulso"
+			}
+		]
+	},
+	"183": {
+		"id": "2025-03-02",
+		"title": "Sequência vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 183,
+		"intersectingThing": {
+			"id": "17",
+			"name": "carrinho"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-27-pt",
+			"text": "tem consoantes duplas consecutivas (ex \"RR\", \"SS\")",
+			"level": 1,
+			"thing": {
+				"id": "24",
+				"name": "muffin"
+			}
+		},
+		"rule2": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "22",
+				"name": "camisola"
+			}
+		},
+		"setId": "ddr-27-pt::ddr-28-pt",
+		"things": [
+			{
+				"rule": 0,
+				"name": "barril",
+				"id": "74"
+			},
+			{
+				"id": "50",
+				"name": "caneta",
+				"rule": 2
+			},
+			{
+				"id": "54",
+				"name": "faca",
+				"rule": 2
+			},
+			{
+				"rule": 0,
+				"name": "ferradura",
+				"id": "34"
+			},
+			{
+				"id": "17",
+				"rule": 0,
+				"name": "carrinho"
+			},
+			{
+				"id": "2823",
+				"name": "legging",
+				"rule": 1
+			},
+			{
+				"name": "haltere",
+				"rule": 2,
+				"id": "28"
+			},
+			{
+				"name": "jornal",
+				"rule": 2,
+				"id": "78"
+			}
+		]
+	},
+	"184": {
+		"id": "2025-03-03",
+		"title": "Comparação vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 184,
+		"intersectingThing": {
+			"id": "3",
+			"name": "espada"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-53-pt",
+			"text": "tem o mesmo número de vogais e consoantes",
+			"level": 2,
+			"thing": {
+				"id": "35",
+				"name": "estábulo"
+			}
+		},
+		"rule2": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "2835",
+				"name": "Itália"
+			}
+		},
+		"setId": "ddr-20-pt::ddr-53-pt",
+		"things": [
+			{
+				"rule": 0,
+				"id": "84",
+				"name": "janela"
+			},
+			{
+				"name": "pente",
+				"rule": 2,
+				"id": "19"
+			},
+			{
+				"rule": 0,
+				"id": "46",
+				"name": "vaca"
+			},
+			{
+				"rule": 2,
+				"id": "41",
+				"name": "galinha"
+			},
+			{
+				"name": "ovo frito",
+				"rule": 0,
+				"id": "42"
+			},
+			{
+				"rule": 1,
+				"id": "2838",
+				"name": "México"
+			},
+			{
+				"name": "bandeirinhas",
+				"id": "31",
+				"rule": 2
+			},
+			{
+				"name": "ramo",
+				"id": "72",
+				"rule": 1
+			}
+		]
+	},
+	"185": {
+		"id": "2025-03-04",
+		"title": "Inicialização vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 185,
+		"intersectingThing": {
+			"id": "30",
+			"name": "coelho"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "18",
+				"name": "leque"
+			}
+		},
+		"rule2": {
+			"id": "ddr-48-pt",
+			"text": "tem \"O\"",
+			"level": 2,
+			"thing": {
+				"id": "38",
+				"name": "rolo"
+			}
+		},
+		"setId": "ddr-23-pt::ddr-48-pt",
+		"things": [
+			{
+				"name": "ferradura",
+				"rule": 1,
+				"id": "34"
+			},
+			{
+				"name": "óculos",
+				"rule": 2,
+				"id": "55"
+			},
+			{
+				"name": "bomba atômica",
+				"id": "67",
+				"rule": 0
+			},
+			{
+				"rule": 2,
+				"name": "sorvete",
+				"id": "79"
+			},
+			{
+				"id": "2836",
+				"name": "Índia",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"name": "leão",
+				"id": "81"
+			},
+			{
+				"id": "75",
+				"name": "escudo",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"id": "47",
+				"name": "chips"
+			}
+		]
+	},
+	"186": {
+		"id": "2025-03-05",
+		"title": "Contagem vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 186,
+		"intersectingThing": {
+			"id": "21",
+			"name": "pá"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-8-pt",
+			"text": "tem 4 ou menos letras",
+			"level": 1,
+			"thing": {
+				"id": "13",
+				"name": "joia"
+			}
+		},
+		"rule2": {
+			"id": "ddr-53-pt",
+			"text": "tem o mesmo número de vogais e consoantes",
+			"level": 2,
+			"thing": {
+				"id": "53",
+				"name": "canivete"
+			}
+		},
+		"setId": "ddr-53-pt::ddr-8-pt",
+		"things": [
+			{
+				"name": "leão",
+				"id": "81",
+				"rule": 1
+			},
+			{
+				"rule": 1,
+				"id": "33",
+				"name": "ímã"
+			},
+			{
+				"rule": 2,
+				"name": "veneno",
+				"id": "43"
+			},
+			{
+				"id": "59",
+				"rule": 0,
+				"name": "bebê"
+			},
+			{
+				"id": "3",
+				"rule": 2,
+				"name": "espada"
+			},
+			{
+				"name": "gim",
+				"id": "2841",
+				"rule": 1
+			},
+			{
+				"id": "71",
+				"name": "bolo",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"name": "ramo",
+				"id": "72"
+			}
+		]
+	},
+	"187": {
+		"id": "2025-03-06",
+		"title": "Inicialização vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 187,
+		"intersectingThing": {
+			"id": "53",
+			"name": "canivete"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "59",
+				"name": "bebê"
+			}
+		},
+		"rule2": {
+			"id": "ddr-32-pt",
+			"text": "tem \"C\" ou \"Ç\"",
+			"level": 1,
+			"thing": {
+				"id": "55",
+				"name": "óculos"
+			}
+		},
+		"setId": "ddr-26-pt::ddr-32-pt",
+		"things": [
+			{
+				"name": "veneno",
+				"id": "43",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"id": "45",
+				"name": "foca"
+			},
+			{
+				"id": "2821",
+				"name": "pimenta",
+				"rule": 1
+			},
+			{
+				"id": "10",
+				"rule": 0,
+				"name": "carro"
+			},
+			{
+				"id": "9",
+				"rule": 1,
+				"name": "dentadura"
+			},
+			{
+				"id": "53",
+				"rule": 0,
+				"name": "canivete"
+			},
+			{
+				"rule": 2,
+				"id": "75",
+				"name": "escudo"
+			},
+			{
+				"rule": 1,
+				"name": "morango",
+				"id": "14"
+			}
+		]
+	},
+	"188": {
+		"id": "2025-03-07",
+		"title": "Contagem vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 188,
+		"intersectingThing": {
+			"id": "62",
+			"name": "sutiã"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-9-pt",
+			"text": "tem 5 letras",
+			"level": 1,
+			"thing": {
+				"id": "73",
+				"name": "farol"
+			}
+		},
+		"rule2": {
+			"id": "ddr-37-pt",
+			"text": "tem acento",
+			"level": 1,
+			"thing": {
+				"id": "33",
+				"name": "ímã"
+			}
+		},
+		"setId": "ddr-37-pt::ddr-9-pt",
+		"things": [
+			{
+				"rule": 1,
+				"id": "10",
+				"name": "carro"
+			},
+			{
+				"id": "62",
+				"rule": 0,
+				"name": "sutiã"
+			},
+			{
+				"name": "Índia",
+				"rule": 0,
+				"id": "2836"
+			},
+			{
+				"id": "23",
+				"rule": 1,
+				"name": "piano"
+			},
+			{
+				"rule": 2,
+				"name": "hidrômetro",
+				"id": "2828"
+			},
+			{
+				"rule": 1,
+				"name": "dente",
+				"id": "86"
+			},
+			{
+				"name": "México",
+				"rule": 2,
+				"id": "2838"
+			},
+			{
+				"name": "pá",
+				"rule": 2,
+				"id": "21"
+			}
+		]
+	},
+	"189": {
+		"id": "2025-03-08",
+		"title": "Contagem vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 189,
+		"intersectingThing": {
+			"id": "2838",
+			"name": "México"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-4-pt",
+			"text": "tem 3 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "48",
+				"name": "rosquinha"
+			}
+		},
+		"rule2": {
+			"id": "ddr-37-pt",
+			"text": "tem acento",
+			"level": 1,
+			"thing": {
+				"id": "2850",
+				"name": "diabo-da-Tasmânia"
+			}
+		},
+		"setId": "ddr-37-pt::ddr-4-pt",
+		"things": [
+			{
+				"id": "2843",
+				"rule": 1,
+				"name": "mojito"
+			},
+			{
+				"id": "2861",
+				"rule": 2,
+				"name": "fã"
+			},
+			{
+				"name": "cérebro",
+				"rule": 0,
+				"id": "29"
+			},
+			{
+				"name": "theremin",
+				"rule": 1,
+				"id": "2847"
+			},
+			{
+				"id": "158",
+				"rule": 0,
+				"name": "lâmpada"
+			},
+			{
+				"name": "sombreiro",
+				"id": "57",
+				"rule": 1
+			},
+			{
+				"rule": 2,
+				"id": "35",
+				"name": "estábulo"
+			},
+			{
+				"id": "12",
+				"name": "robô",
+				"rule": 2
+			}
+		]
+	},
+	"190": {
+		"id": "2025-03-09",
+		"title": "Comparação vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 190,
+		"intersectingThing": {
+			"id": "1",
+			"name": "tapete de ioga"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-17-pt",
+			"text": "tem mais vogais do que consoantes",
+			"level": 2,
+			"thing": {
+				"id": "16",
+				"name": "peixe"
+			}
+		},
+		"rule2": {
+			"id": "ddr-28-pt",
+			"text": "tem \"A\"",
+			"level": 2,
+			"thing": {
+				"id": "2821",
+				"name": "pimenta"
+			}
+		},
+		"setId": "ddr-17-pt::ddr-28-pt",
+		"things": [
+			{
+				"id": "23",
+				"name": "piano",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"id": "2",
+				"name": "coqueiro"
+			},
+			{
+				"name": "leque",
+				"id": "18",
+				"rule": 1
+			},
+			{
+				"id": "17",
+				"name": "carrinho",
+				"rule": 2
+			},
+			{
+				"id": "2864",
+				"rule": 0,
+				"name": "escanteio"
+			},
+			{
+				"name": "haltere",
+				"rule": 2,
+				"id": "28"
+			},
+			{
+				"id": "2850",
+				"rule": 0,
+				"name": "diabo-da-Tasmânia"
+			},
+			{
+				"name": "carta",
+				"id": "6",
+				"rule": 2
+			}
+		]
+	},
+	"191": {
+		"id": "2025-03-10",
+		"title": "Repetição vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 191,
+		"intersectingThing": {
+			"id": "2850",
+			"name": "diabo-da-Tasmânia"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-19-pt",
+			"text": "tem letras repetidas",
+			"level": 2,
+			"thing": {
+				"id": "12",
+				"name": "robô"
+			}
+		},
+		"rule2": {
+			"id": "ddr-45-pt",
+			"text": "é proparoxítona",
+			"level": 3,
+			"thing": {
+				"id": "2838",
+				"name": "México"
+			}
+		},
+		"setId": "ddr-19-pt::ddr-45-pt",
+		"things": [
+			{
+				"name": "estábulo",
+				"rule": 2,
+				"id": "35"
+			},
+			{
+				"rule": 1,
+				"id": "46",
+				"name": "vaca"
+			},
+			{
+				"id": "2828",
+				"name": "hidrômetro",
+				"rule": 0
+			},
+			{
+				"rule": 2,
+				"name": "antílope",
+				"id": "2852"
+			},
+			{
+				"name": "camisola",
+				"rule": 1,
+				"id": "22"
+			},
+			{
+				"name": "Itália",
+				"rule": 0,
+				"id": "2835"
+			},
+			{
+				"rule": 0,
+				"id": "29",
+				"name": "cérebro"
+			},
+			{
+				"id": "2831",
+				"name": "férias",
+				"rule": 2
+			}
+		]
+	},
+	"192": {
+		"id": "2025-03-11",
+		"title": "Gramática vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 192,
+		"intersectingThing": {
+			"id": "2827",
+			"name": "gêmeos"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-45-pt",
+			"text": "é proparoxítona",
+			"level": 3,
+			"thing": {
+				"id": "2850",
+				"name": "diabo-da-Tasmânia"
+			}
+		},
+		"rule2": {
+			"id": "ddr-10-pt",
+			"text": "tem 6 letras",
+			"level": 1,
+			"thing": {
+				"id": "63",
+				"name": "bigode"
+			}
+		},
+		"setId": "ddr-10-pt::ddr-45-pt",
+		"things": [
+			{
+				"name": "fralda",
+				"rule": 2,
+				"id": "61"
+			},
+			{
+				"id": "2852",
+				"name": "antílope",
+				"rule": 1
+			},
+			{
+				"name": "férias",
+				"rule": 0,
+				"id": "2831"
+			},
+			{
+				"name": "coelho",
+				"id": "30",
+				"rule": 2
+			},
+			{
+				"name": "cavalo",
+				"id": "36",
+				"rule": 2
+			},
+			{
+				"name": "hidrômetro",
+				"id": "2828",
+				"rule": 1
+			},
+			{
+				"rule": 0,
+				"name": "óculos",
+				"id": "55"
+			},
+			{
+				"name": "gêmeos",
+				"id": "2827",
+				"rule": 0
+			}
+		]
+	},
+	"193": {
+		"id": "2025-03-12",
+		"title": "Inclusão vs Repetição",
+		"type": "teoria-de-conjuntos",
+		"number": 193,
+		"intersectingThing": {
+			"id": "79",
+			"name": "sorvete"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-66-pt",
+			"text": "tem \"S\"",
+			"level": 1,
+			"thing": {
+				"id": "2831",
+				"name": "férias"
+			}
+		},
+		"rule2": {
+			"id": "ddr-20-pt",
+			"text": "tem vogais repetidas",
+			"level": 3,
+			"thing": {
+				"id": "67",
+				"name": "bomba atômica"
+			}
+		},
+		"setId": "ddr-20-pt::ddr-66-pt",
+		"things": [
+			{
+				"name": "flutuador",
+				"rule": 2,
+				"id": "2860"
+			},
+			{
+				"rule": 2,
+				"id": "2847",
+				"name": "theremin"
+			},
+			{
+				"name": "chave inglesa",
+				"rule": 0,
+				"id": "66"
+			},
+			{
+				"rule": 1,
+				"id": "75",
+				"name": "escudo"
+			},
+			{
+				"id": "47",
+				"name": "chips",
+				"rule": 1
+			},
+			{
+				"id": "18",
+				"name": "leque",
+				"rule": 2
+			},
+			{
+				"id": "2848",
+				"rule": 0,
+				"name": "cabasa"
+			},
+			{
+				"id": "3",
+				"name": "espada",
+				"rule": 0
+			}
+		]
+	},
+	"194": {
+		"id": "2025-03-13",
+		"title": "Inicialização vs Comparação",
+		"type": "teoria-de-conjuntos",
+		"number": 194,
+		"intersectingThing": {
+			"id": "45",
+			"name": "foca"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "73",
+				"name": "farol"
+			}
+		},
+		"rule2": {
+			"id": "ddr-53-pt",
+			"text": "tem o mesmo número de vogais e consoantes",
+			"level": 2,
+			"thing": {
+				"id": "35",
+				"name": "estábulo"
+			}
+		},
+		"setId": "ddr-26-pt::ddr-53-pt",
+		"things": [
+			{
+				"rule": 2,
+				"name": "antílope",
+				"id": "2852"
+			},
+			{
+				"name": "pimenta",
+				"rule": 1,
+				"id": "2821"
+			},
+			{
+				"id": "75",
+				"name": "escudo",
+				"rule": 2
+			},
+			{
+				"id": "85",
+				"rule": 2,
+				"name": "olho"
+			},
+			{
+				"name": "México",
+				"id": "2838",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"name": "fã",
+				"id": "2861"
+			},
+			{
+				"name": "coqueiro",
+				"id": "2",
+				"rule": 1
+			},
+			{
+				"name": "canivete",
+				"id": "53",
+				"rule": 0
+			}
+		]
+	},
+	"195": {
+		"id": "2025-03-14",
+		"title": "Gramática vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 195,
+		"intersectingThing": {
+			"id": "29",
+			"name": "cérebro"
+		},
+		"level": 3,
+		"rule1": {
+			"id": "ddr-45-pt",
+			"text": "é proparoxítona",
+			"level": 3,
+			"thing": {
+				"id": "2828",
+				"name": "hidrômetro"
+			}
+		},
+		"rule2": {
+			"id": "ddr-54-pt",
+			"text": "tem \"B\"",
+			"level": 1,
+			"thing": {
+				"id": "74",
+				"name": "barril"
+			}
+		},
+		"setId": "ddr-45-pt::ddr-54-pt",
+		"things": [
+			{
+				"name": "bigode",
+				"rule": 2,
+				"id": "63"
+			},
+			{
+				"id": "2852",
+				"rule": 1,
+				"name": "antílope"
+			},
+			{
+				"name": "estábulo",
+				"id": "35",
+				"rule": 0
+			},
+			{
+				"name": "diabo-da-Tasmânia",
+				"id": "2850",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"id": "29",
+				"name": "cérebro"
+			},
+			{
+				"name": "lâmpada",
+				"id": "70",
+				"rule": 1
+			},
+			{
+				"name": "absinto",
+				"rule": 2,
+				"id": "2840"
+			},
+			{
+				"rule": 1,
+				"name": "México",
+				"id": "2838"
+			}
+		]
+	},
+	"196": {
+		"id": "2025-03-15",
+		"title": "Gramática vs Inclusão",
+		"type": "teoria-de-conjuntos",
+		"number": 196,
+		"intersectingThing": {
+			"id": "1544",
+			"name": "mexido"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-44-pt",
+			"text": "é paroxítona",
+			"level": 3,
+			"thing": {
+				"id": "1615",
+				"name": "larva"
+			}
+		},
+		"rule2": {
+			"id": "ddr-47-pt",
+			"text": "tem \"I\"",
+			"level": 2,
+			"thing": {
+				"id": "1608",
+				"name": "máfia"
+			}
+		},
+		"setId": "ddr-44-pt::ddr-47-pt",
+		"things": [
+			{
+				"rule": 1,
+				"id": "639",
+				"name": "monumento"
+			},
+			{
+				"id": "1971",
+				"name": "espião",
+				"rule": 2
+			},
+			{
+				"name": "tiara",
+				"rule": 0,
+				"id": "1210"
+			},
+			{
+				"name": "Coliseu",
+				"rule": 2,
+				"id": "1577"
+			},
+			{
+				"id": "222",
+				"rule": 1,
+				"name": "popozuda"
+			},
+			{
+				"name": "cartucho",
+				"rule": 1,
+				"id": "2212"
+			},
+			{
+				"id": "1146",
+				"name": "cinzeiro",
+				"rule": 0
+			},
+			{
+				"name": "caminhão-tanque",
+				"id": "2135",
+				"rule": 0
+			}
+		]
+	},
+	"197": {
+		"id": "2025-03-16",
+		"title": "Inclusão vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 197,
+		"intersectingThing": {
+			"id": "1572",
+			"name": "flash"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-66-pt",
+			"text": "tem \"S\"",
+			"level": 1,
+			"thing": {
+				"id": "1938",
+				"name": "amigos"
+			}
+		},
+		"rule2": {
+			"id": "ddr-26-pt",
+			"text": "começa com uma consoante",
+			"level": 1,
+			"thing": {
+				"id": "1200",
+				"name": "caldeirão"
+			}
+		},
+		"setId": "ddr-26-pt::ddr-66-pt",
+		"things": [
+			{
+				"name": "churro",
+				"rule": 2,
+				"id": "1371"
+			},
+			{
+				"rule": 2,
+				"name": "China",
+				"id": "2837"
+			},
+			{
+				"id": "1033",
+				"name": "isqueiro",
+				"rule": 1
+			},
+			{
+				"name": "solitária",
+				"id": "2444",
+				"rule": 0
+			},
+			{
+				"name": "sangria",
+				"id": "2845",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"name": "sapataria",
+				"id": "2797"
+			},
+			{
+				"id": "406",
+				"name": "absorvente",
+				"rule": 1
+			},
+			{
+				"name": "contêiner",
+				"id": "1290",
+				"rule": 2
+			}
+		]
+	},
+	"198": {
+		"id": "2025-03-17",
+		"title": "Comparação vs Contagem",
+		"type": "teoria-de-conjuntos",
+		"number": 198,
+		"intersectingThing": {
+			"id": "2126",
+			"name": "cravo"
+		},
+		"level": 2,
+		"rule1": {
+			"id": "ddr-16-pt",
+			"text": "tem mais consoantes do que vogais",
+			"level": 2,
+			"thing": {
+				"id": "2400",
+				"name": "cegonha"
+			}
+		},
+		"rule2": {
+			"id": "ddr-9-pt",
+			"text": "tem 5 letras",
+			"level": 1,
+			"thing": {
+				"id": "2576",
+				"name": "bacia"
+			}
+		},
+		"setId": "ddr-16-pt::ddr-9-pt",
+		"things": [
+			{
+				"id": "1570",
+				"name": "polia",
+				"rule": 2
+			},
+			{
+				"rule": 2,
+				"name": "avião",
+				"id": "219"
+			},
+			{
+				"id": "1263",
+				"rule": 0,
+				"name": "calça"
+			},
+			{
+				"id": "369",
+				"name": "batom",
+				"rule": 0
+			},
+			{
+				"rule": 1,
+				"id": "1275",
+				"name": "trailer"
+			},
+			{
+				"rule": 2,
+				"id": "303",
+				"name": "apito"
+			},
+			{
+				"name": "presente",
+				"rule": 1,
+				"id": "185"
+			},
+			{
+				"rule": 0,
+				"name": "Oscar",
+				"id": "2177"
+			}
+		]
+	},
+	"199": {
+		"id": "2025-03-18",
+		"title": "Repetição vs Inicialização",
+		"type": "teoria-de-conjuntos",
+		"number": 199,
+		"intersectingThing": {
+			"id": "2245",
+			"name": "Ásia"
+		},
+		"level": 4,
+		"rule1": {
+			"id": "ddr-18-pt",
+			"text": "a primeira letra se repete na palavra (ex: rural, ele)",
+			"level": 2,
+			"thing": {
+				"id": "1536",
+				"name": "papel alumínio"
+			}
+		},
+		"rule2": {
+			"id": "ddr-23-pt",
+			"text": "começa com uma letra da primeira metade do alfabeto (\"A\"-\"M\")",
+			"level": 3,
+			"thing": {
+				"id": "214",
+				"name": "meia"
+			}
+		},
+		"setId": "ddr-18-pt::ddr-23-pt",
+		"things": [
+			{
+				"rule": 1,
+				"name": "salsão",
+				"id": "1566"
+			},
+			{
+				"rule": 2,
+				"id": "1600",
+				"name": "mochi"
+			},
+			{
+				"name": "lâmpada",
+				"rule": 2,
+				"id": "158"
+			},
+			{
+				"rule": 0,
+				"name": "argolas",
+				"id": "2652"
+			},
+			{
+				"id": "117",
+				"name": "papagaio",
+				"rule": 1
+			},
+			{
+				"name": "copiadora",
+				"id": "2199",
+				"rule": 2
+			},
+			{
+				"id": "1595",
+				"name": "mímico",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"id": "741",
+				"name": "elevador"
+			}
+		]
+	},
+	"200": {
+		"id": "2025-03-19",
+		"title": "Contagem vs Gramática",
+		"type": "teoria-de-conjuntos",
+		"number": 200,
+		"intersectingThing": {
+			"id": "2869",
+			"name": "time"
+		},
+		"level": 1,
+		"rule1": {
+			"id": "ddr-3-pt",
+			"text": "tem 2 sílabas",
+			"level": 1,
+			"thing": {
+				"id": "2272",
+				"name": "tenda"
+			}
+		},
+		"rule2": {
+			"id": "ddr-2-pt",
+			"text": "é um substantivo masculino",
+			"level": 1,
+			"thing": {
+				"id": "2611",
+				"name": "carrilhão"
+			}
+		},
+		"setId": "ddr-2-pt::ddr-3-pt",
+		"things": [
+			{
+				"id": "477",
+				"rule": 2,
+				"name": "passaporte"
+			},
+			{
+				"name": "Nokia",
+				"id": "1680",
+				"rule": 1
+			},
+			{
+				"name": "larva",
+				"rule": 1,
+				"id": "1615"
+			},
+			{
+				"name": "coco",
+				"id": "2482",
+				"rule": 0
+			},
+			{
+				"name": "carimbo",
+				"id": "358",
+				"rule": 2
+			},
+			{
+				"rule": 1,
+				"id": "1674",
+				"name": "casca"
+			},
+			{
+				"name": "pelos",
+				"id": "2540",
+				"rule": 0
+			},
+			{
+				"rule": 0,
+				"name": "tigre",
+				"id": "667"
+			}
+		]
+	}
+}
