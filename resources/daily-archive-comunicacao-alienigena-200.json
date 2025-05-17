@@ -1,0 +1,3969 @@
+{
+  "101": {
+    "id": "2025-02-17",
+    "type": "comunicação-alienígena",
+    "number": 101,
+    "attributes": [
+      {
+        "description": "utensílio, equipamento, suporte",
+        "id": "ins",
+        "spriteId": "11",
+        "name": "Instrumento",
+        "itemsIds": [
+          "192",
+          "314",
+          "426"
+        ]
+      },
+      {
+        "description": "atraente, charmoso, colorido, festivo, decorativo",
+        "itemsIds": [
+          "364",
+          "76",
+          "403"
+        ],
+        "id": "bea",
+        "name": "Bonito",
+        "spriteId": "21"
+      },
+      {
+        "description": "precioso, raro, dinheiro, valor sentimental",
+        "itemsIds": [
+          "538",
+          "12",
+          "389"
+        ],
+        "spriteId": "31",
+        "name": "Valioso",
+        "id": "val"
+      }
+    ],
+    "itemsIds": [
+      "32",
+      "201",
+      "337",
+      "457",
+      "495",
+      "13",
+      "183"
+    ],
+    "requests": [
+      {
+        "itemId": "337",
+        "spritesIds": [
+          "11",
+          "31"
+        ]
+      },
+      {
+        "itemId": "13",
+        "spritesIds": [
+          "21",
+          "31"
+        ]
+      },
+      {
+        "itemId": "32",
+        "spritesIds": [
+          "11",
+          "21"
+        ]
+      },
+      {
+        "itemId": "183",
+        "spritesIds": [
+          "11",
+          "21",
+          "31"
+        ]
+      }
+    ],
+    "setId": "bea-ins-val",
+    "solution": "337-13-32-183",
+    "valid": true
+  },
+  "102": {
+    "id": "2025-02-18",
+    "type": "comunicação-alienígena",
+    "number": 102,
+    "attributes": [
+      {
+        "name": "Recipiente",
+        "spriteId": "44",
+        "description": "contém, armazena ou envolve itens ou substâncias",
+        "id": "con",
+        "itemsIds": [
+          "371",
+          "302",
+          "350"
+        ]
+      },
+      {
+        "description": "jovem, recente, moderno",
+        "name": "Novo",
+        "itemsIds": [
+          "511"
+        ],
+        "spriteId": "42",
+        "id": "new"
+      },
+      {
+        "description": "gentil, suave, macio, pegajoso, flexível",
+        "id": "sof",
+        "itemsIds": [
+          "463",
+          "162",
+          "102"
+        ],
+        "spriteId": "8",
+        "name": "Mole"
+      }
+    ],
+    "itemsIds": [
+      "155",
+      "468",
+      "387",
+      "523",
+      "150",
+      "418",
+      "143"
+    ],
+    "requests": [
+      {
+        "itemId": "155",
+        "spritesIds": [
+          "44",
+          "8"
+        ]
+      },
+      {
+        "spritesIds": [
+          "8"
+        ],
+        "itemId": "387"
+      },
+      {
+        "spritesIds": [
+          "44"
+        ],
+        "itemId": "523"
+      },
+      {
+        "itemId": "150",
+        "spritesIds": [
+          "42",
+          "8"
+        ]
+      }
+    ],
+    "setId": "con-new-sof",
+    "solution": "155-387-523-150",
+    "valid": true
+  },
+  "103": {
+    "id": "2025-02-19",
+    "type": "comunicação-alienígena",
+    "number": 103,
+    "attributes": [
+      {
+        "id": "pla",
+        "description": "vegetação, flora, verde, madeira",
+        "itemsIds": [
+          "106",
+          "434",
+          "543"
+        ],
+        "spriteId": "10",
+        "name": "Planta"
+      },
+      {
+        "description": "utensílio, equipamento, suporte",
+        "id": "ins",
+        "spriteId": "20",
+        "itemsIds": [
+          "448",
+          "424",
+          "342"
+        ],
+        "name": "Instrumento"
+      },
+      {
+        "itemsIds": [
+          "186",
+          "3",
+          "147"
+        ],
+        "name": "Arma",
+        "id": "wea",
+        "spriteId": "5",
+        "description": "artilharia, ofensiva, usado em combate"
+      }
+    ],
+    "itemsIds": [
+      "53",
+      "198",
+      "125",
+      "530",
+      "273",
+      "436"
+    ],
+    "requests": [
+      {
+        "itemId": "198",
+        "spritesIds": [
+          "10",
+          "20"
+        ]
+      },
+      {
+        "itemId": "273",
+        "spritesIds": [
+          "5"
+        ]
+      },
+      {
+        "itemId": "125",
+        "spritesIds": [
+          "10"
+        ]
+      },
+      {
+        "itemId": "53",
+        "spritesIds": [
+          "20",
+          "5"
+        ]
+      }
+    ],
+    "setId": "ins-pla-wea",
+    "solution": "198-273-125-53",
+    "valid": true
+  },
+  "104": {
+    "id": "2025-02-20",
+    "type": "comunicação-alienígena",
+    "number": 104,
+    "attributes": [
+      {
+        "itemsIds": [
+          "180",
+          "1488",
+          "264"
+        ],
+        "id": "cul",
+        "name": "Cultura",
+        "spriteId": "40",
+        "description": "personalizado, valores, local, regional, tradicional, regional, religioso"
+      },
+      {
+        "description": "Veículos, carros",
+        "name": "Transporte",
+        "itemsIds": [
+          "437",
+          "174",
+          "179"
+        ],
+        "spriteId": "12",
+        "id": "tra"
+      },
+      {
+        "id": "har",
+        "description": "sólido, firme, rígido, inflexível",
+        "itemsIds": [
+          "1492",
+          "92",
+          "353"
+        ],
+        "spriteId": "28",
+        "name": "Duro"
+      }
+    ],
+    "itemsIds": [
+      "368",
+      "404",
+      "171",
+      "237",
+      "545"
+    ],
+    "requests": [
+      {
+        "itemId": "404",
+        "spritesIds": [
+          "40",
+          "28"
+        ]
+      },
+      {
+        "itemId": "237",
+        "spritesIds": [
+          "40"
+        ]
+      },
+      {
+        "itemId": "368",
+        "spritesIds": [
+          "12",
+          "28"
+        ]
+      },
+      {
+        "itemId": "545",
+        "spritesIds": [
+          "28"
+        ]
+      }
+    ],
+    "setId": "cul-har-tra",
+    "solution": "404-237-368-545",
+    "valid": true
+  },
+  "105": {
+    "id": "2025-02-21",
+    "type": "comunicação-alienígena",
+    "number": 105,
+    "attributes": [
+      {
+        "id": "too",
+        "name": "Ferramenta",
+        "description": "instrumento, dispositivo, implemento",
+        "spriteId": "28",
+        "itemsIds": [
+          "66",
+          "240",
+          "93"
+        ]
+      },
+      {
+        "itemsIds": [
+          "371",
+          "450",
+          "219"
+        ],
+        "spriteId": "29",
+        "description": "tamanho, magnitude",
+        "name": "Grande",
+        "id": "big"
+      },
+      {
+        "spriteId": "31",
+        "id": "mac",
+        "name": "Máquina",
+        "itemsIds": [
+          "542",
+          "395",
+          "152"
+        ],
+        "description": "tem engrenagens, usa energia, funciona"
+      }
+    ],
+    "itemsIds": [
+      "310",
+      "513",
+      "486",
+      "473",
+      "170",
+      "362"
+    ],
+    "requests": [
+      {
+        "itemId": "170",
+        "spritesIds": [
+          "28"
+        ]
+      },
+      {
+        "itemId": "310",
+        "spritesIds": [
+          "31"
+        ]
+      },
+      {
+        "spritesIds": [
+          "29",
+          "31"
+        ],
+        "itemId": "486"
+      },
+      {
+        "itemId": "473",
+        "spritesIds": [
+          "28",
+          "31"
+        ]
+      }
+    ],
+    "setId": "big-mac-too",
+    "solution": "170-310-486-473",
+    "valid": true
+  },
+  "106": {
+    "id": "2025-02-22",
+    "type": "comunicação-alienígena",
+    "number": 106,
+    "attributes": [
+      {
+        "id": "con",
+        "name": "Recipiente",
+        "itemsIds": [
+          "294",
+          "119",
+          "56"
+        ],
+        "spriteId": "24",
+        "description": "contém, armazena ou envolve itens ou substâncias"
+      },
+      {
+        "id": "sof",
+        "spriteId": "7",
+        "description": "mole, gentil, suave, pegajoso, flexível",
+        "name": "Macio",
+        "itemsIds": [
+          "150",
+          "24",
+          "463"
+        ]
+      },
+      {
+        "description": "possui lacunas, perfurações ou aberturas",
+        "spriteId": "3",
+        "itemsIds": [
+          "180",
+          "206",
+          "84"
+        ],
+        "name": "Buracos",
+        "id": "hol"
+      }
+    ],
+    "itemsIds": [
+      "155",
+      "184",
+      "298",
+      "391",
+      "132",
+      "285"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "24",
+          "7"
+        ],
+        "itemId": "155"
+      },
+      {
+        "itemId": "391",
+        "spritesIds": [
+          "24",
+          "3"
+        ]
+      },
+      {
+        "itemId": "132",
+        "spritesIds": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "itemId": "285",
+        "spritesIds": [
+          "24",
+          "7",
+          "3"
+        ]
+      }
+    ],
+    "setId": "con-hol-sof",
+    "solution": "155-391-132-285",
+    "valid": true
+  },
+  "107": {
+    "id": "2025-02-23",
+    "type": "comunicação-alienígena",
+    "number": 107,
+    "attributes": [
+      {
+        "name": "Velho",
+        "itemsIds": [
+          "317",
+          "75",
+          "262"
+        ],
+        "spriteId": "30",
+        "description": "idoso, envelhecido, fora de moda, antigo, ultrapassado",
+        "id": "old"
+      },
+      {
+        "spriteId": "42",
+        "itemsIds": [
+          "450",
+          "371",
+          "497"
+        ],
+        "description": "alto, alto, altura, altitude",
+        "id": "hei",
+        "name": "Altura"
+      },
+      {
+        "description": "alto, comprido",
+        "spriteId": "18",
+        "id": "lon",
+        "itemsIds": [
+          "168",
+          "241",
+          "31"
+        ],
+        "name": "Longo"
+      }
+    ],
+    "itemsIds": [
+      "285",
+      "1492",
+      "415",
+      "264",
+      "17",
+      "127",
+      "416"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "30",
+          "42",
+          "18"
+        ],
+        "itemId": "1492"
+      },
+      {
+        "itemId": "264",
+        "spritesIds": [
+          "30",
+          "18"
+        ]
+      },
+      {
+        "itemId": "416",
+        "spritesIds": [
+          "42",
+          "18"
+        ]
+      },
+      {
+        "itemId": "127",
+        "spritesIds": [
+          "30",
+          "42"
+        ]
+      }
+    ],
+    "setId": "hei-lon-old",
+    "solution": "1492-264-416-127",
+    "valid": true
+  },
+  "108": {
+    "id": "2025-02-24",
+    "type": "comunicação-alienígena",
+    "number": 108,
+    "attributes": [
+      {
+        "itemsIds": [
+          "1756",
+          "67",
+          "163"
+        ],
+        "description": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto.",
+        "spriteId": "32",
+        "id": "tab",
+        "name": "Tabu"
+      },
+      {
+        "description": "utensílio, equipamento, suporte",
+        "itemsIds": [
+          "64",
+          "344",
+          "516"
+        ],
+        "id": "ins",
+        "spriteId": "38",
+        "name": "Instrumento"
+      },
+      {
+        "description": "prédios, estrutura, arquitetura, habitação",
+        "itemsIds": [
+          "370",
+          "404",
+          "457"
+        ],
+        "name": "Construção",
+        "spriteId": "27",
+        "id": "bui"
+      }
+    ],
+    "itemsIds": [
+      "191",
+      "405",
+      "501",
+      "413",
+      "234",
+      "338",
+      "148"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "38"
+        ],
+        "itemId": "191"
+      },
+      {
+        "itemId": "405",
+        "spritesIds": [
+          "27"
+        ]
+      },
+      {
+        "itemId": "413",
+        "spritesIds": [
+          "32",
+          "38"
+        ]
+      },
+      {
+        "itemId": "234",
+        "spritesIds": [
+          "32"
+        ]
+      }
+    ],
+    "setId": "bui-ins-tab",
+    "solution": "191-405-413-234",
+    "valid": true
+  },
+  "109": {
+    "id": "2025-02-25",
+    "type": "comunicação-alienígena",
+    "number": 109,
+    "attributes": [
+      {
+        "name": "Construção",
+        "itemsIds": [
+          "127",
+          "35",
+          "489"
+        ],
+        "id": "bui",
+        "spriteId": "9",
+        "description": "prédios, estrutura, arquitetura, habitação"
+      },
+      {
+        "name": "Máquina",
+        "id": "mac",
+        "description": "tem engrenagens, usa energia, funciona",
+        "itemsIds": [
+          "335",
+          "196",
+          "177"
+        ],
+        "spriteId": "28"
+      },
+      {
+        "id": "dan",
+        "name": "Perigo",
+        "description": "risco, ameaça",
+        "itemsIds": [
+          "284",
+          "234",
+          "151"
+        ],
+        "spriteId": "24"
+      }
+    ],
+    "itemsIds": [
+      "486",
+      "281",
+      "204",
+      "144",
+      "286",
+      "1490",
+      "12"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "9",
+          "24"
+        ],
+        "itemId": "144"
+      },
+      {
+        "spritesIds": [
+          "28",
+          "24"
+        ],
+        "itemId": "12"
+      },
+      {
+        "itemId": "486",
+        "spritesIds": [
+          "9",
+          "28",
+          "24"
+        ]
+      },
+      {
+        "itemId": "286",
+        "spritesIds": [
+          "9",
+          "28"
+        ]
+      }
+    ],
+    "setId": "bui-dan-mac",
+    "solution": "144-12-486-286",
+    "valid": true
+  },
+  "110": {
+    "id": "2025-02-26",
+    "type": "comunicação-alienígena",
+    "number": 110,
+    "attributes": [
+      {
+        "id": "wea",
+        "itemsIds": [
+          "147",
+          "3",
+          "4"
+        ],
+        "description": "artilharia, ofensiva, usado em combate",
+        "name": "Arma",
+        "spriteId": "21"
+      },
+      {
+        "description": "luz, brilhante, reflexivo",
+        "name": "Brilho",
+        "spriteId": "32",
+        "id": "bri",
+        "itemsIds": [
+          "158",
+          "242",
+          "73"
+        ]
+      },
+      {
+        "name": "Tabu",
+        "spriteId": "0",
+        "description": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto.",
+        "itemsIds": [
+          "67",
+          "32",
+          "234"
+        ],
+        "id": "tab"
+      }
+    ],
+    "itemsIds": [
+      "152",
+      "177",
+      "209",
+      "146",
+      "251",
+      "163",
+      "262"
+    ],
+    "requests": [
+      {
+        "itemId": "146",
+        "spritesIds": [
+          "21"
+        ]
+      },
+      {
+        "itemId": "209",
+        "spritesIds": [
+          "0"
+        ]
+      },
+      {
+        "itemId": "163",
+        "spritesIds": [
+          "21",
+          "0"
+        ]
+      },
+      {
+        "itemId": "177",
+        "spritesIds": [
+          "32"
+        ]
+      }
+    ],
+    "setId": "bri-tab-wea",
+    "solution": "146-209-163-177",
+    "valid": true
+  },
+  "111": {
+    "id": "2025-02-27",
+    "type": "comunicação-alienígena",
+    "number": 111,
+    "attributes": [
+      {
+        "itemsIds": [
+          "382",
+          "477",
+          "6"
+        ],
+        "spriteId": "47",
+        "name": "Plano",
+        "description": "superfície, liso, nivelado",
+        "id": "fla"
+      },
+      {
+        "id": "fli",
+        "description": "voador, alado",
+        "spriteId": "45",
+        "itemsIds": [
+          "267",
+          "219",
+          "220"
+        ],
+        "name": "Vôo"
+      },
+      {
+        "description": "personalizado, valores, local, regional, tradicional, regional, religioso",
+        "name": "Cultura",
+        "spriteId": "27",
+        "itemsIds": [
+          "57",
+          "82",
+          "264"
+        ],
+        "id": "cul"
+      }
+    ],
+    "itemsIds": [
+      "133",
+      "403",
+      "337",
+      "485",
+      "180",
+      "119"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "47",
+          "27"
+        ],
+        "itemId": "403"
+      },
+      {
+        "spritesIds": [
+          "47",
+          "45"
+        ],
+        "itemId": "485"
+      },
+      {
+        "itemId": "337",
+        "spritesIds": [
+          "47"
+        ]
+      },
+      {
+        "itemId": "180",
+        "spritesIds": [
+          "27"
+        ]
+      }
+    ],
+    "setId": "cul-fla-fli",
+    "solution": "403-485-337-180",
+    "valid": true
+  },
+  "112": {
+    "id": "2025-02-28",
+    "type": "comunicação-alienígena",
+    "number": 112,
+    "attributes": [
+      {
+        "spriteId": "25",
+        "itemsIds": [
+          "158",
+          "242",
+          "73"
+        ],
+        "name": "Brilho",
+        "id": "bri",
+        "description": "luz, brilhante, reflexivo"
+      },
+      {
+        "name": "Pesado",
+        "spriteId": "46",
+        "id": "hea",
+        "itemsIds": [
+          "475",
+          "460",
+          "51"
+        ],
+        "description": "peso, massa"
+      },
+      {
+        "id": "fli",
+        "description": "voador, alado",
+        "itemsIds": [
+          "474",
+          "458",
+          "230"
+        ],
+        "spriteId": "41",
+        "name": "Vôo"
+      }
+    ],
+    "itemsIds": [
+      "252",
+      "396",
+      "416",
+      "1492",
+      "267"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "46",
+          "41"
+        ],
+        "itemId": "416"
+      },
+      {
+        "spritesIds": [
+          "46"
+        ],
+        "itemId": "1492"
+      },
+      {
+        "itemId": "396",
+        "spritesIds": [
+          "25",
+          "46"
+        ]
+      },
+      {
+        "spritesIds": [
+          "41"
+        ],
+        "itemId": "267"
+      }
+    ],
+    "setId": "bri-fli-hea",
+    "solution": "416-1492-396-267",
+    "valid": true
+  },
+  "113": {
+    "id": "2025-03-01",
+    "type": "comunicação-alienígena",
+    "number": 113,
+    "attributes": [
+      {
+        "description": "Lugar, região, área",
+        "name": "Local",
+        "spriteId": "20",
+        "id": "loc",
+        "itemsIds": [
+          "73",
+          "489",
+          "107"
+        ]
+      },
+      {
+        "description": "calor, aconchegante, temperatura",
+        "itemsIds": [
+          "39",
+          "534",
+          "579"
+        ],
+        "id": "war",
+        "name": "Quente",
+        "spriteId": "35"
+      },
+      {
+        "itemsIds": [
+          "83",
+          "319",
+          "78"
+        ],
+        "name": "Plano",
+        "spriteId": "23",
+        "id": "fla",
+        "description": "superfície, liso, nivelado"
+      }
+    ],
+    "itemsIds": [
+      "485",
+      "255",
+      "465",
+      "65",
+      "284",
+      "242",
+      "382"
+    ],
+    "requests": [
+      {
+        "itemId": "242",
+        "spritesIds": [
+          "35"
+        ]
+      },
+      {
+        "spritesIds": [
+          "20",
+          "23"
+        ],
+        "itemId": "382"
+      },
+      {
+        "spritesIds": [
+          "20",
+          "35"
+        ],
+        "itemId": "284"
+      },
+      {
+        "spritesIds": [
+          "23"
+        ],
+        "itemId": "485"
+      }
+    ],
+    "setId": "fla-loc-war",
+    "solution": "242-382-284-485",
+    "valid": true
+  },
+  "114": {
+    "id": "2025-03-02",
+    "type": "comunicação-alienígena",
+    "number": 114,
+    "attributes": [
+      {
+        "description": "ornamento, anexo, peça adicional",
+        "name": "Acessório",
+        "spriteId": "2",
+        "id": "acc",
+        "itemsIds": [
+          "407",
+          "218",
+          "559"
+        ]
+      },
+      {
+        "itemsIds": [
+          "253",
+          "52",
+          "371"
+        ],
+        "id": "con",
+        "name": "Recipiente",
+        "spriteId": "14",
+        "description": "contém, armazena ou envolve itens ou substâncias"
+      },
+      {
+        "spriteId": "23",
+        "itemsIds": [
+          "158",
+          "177",
+          "1488"
+        ],
+        "id": "bri",
+        "name": "Brilho",
+        "description": "luz, brilhante, reflexivo"
+      }
+    ],
+    "itemsIds": [
+      "141",
+      "136",
+      "392",
+      "24",
+      "557"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "2",
+          "23"
+        ],
+        "itemId": "141"
+      },
+      {
+        "itemId": "557",
+        "spritesIds": [
+          "14"
+        ]
+      },
+      {
+        "spritesIds": [
+          "2"
+        ],
+        "itemId": "136"
+      },
+      {
+        "itemId": "392",
+        "spritesIds": [
+          "14",
+          "23"
+        ]
+      }
+    ],
+    "setId": "acc-bri-con",
+    "solution": "141-557-136-392",
+    "valid": true
+  },
+  "115": {
+    "id": "2025-03-03",
+    "type": "comunicação-alienígena",
+    "number": 115,
+    "attributes": [
+      {
+        "spriteId": "37",
+        "itemsIds": [
+          "1756",
+          "573",
+          "12"
+        ],
+        "name": "Tecnologia",
+        "description": "eletrônicos, digital, computador, internet",
+        "id": "tec"
+      },
+      {
+        "name": "Vestimenta",
+        "description": "moda, roupas, acessórios",
+        "itemsIds": [
+          "216",
+          "76",
+          "563"
+        ],
+        "spriteId": "3",
+        "id": "clo"
+      },
+      {
+        "id": "pls",
+        "itemsIds": [
+          "462",
+          "155",
+          "227"
+        ],
+        "spriteId": "24",
+        "name": "Plástico",
+        "description": "borracha, material sintético"
+      }
+    ],
+    "itemsIds": [
+      "335",
+      "55",
+      "250",
+      "323",
+      "137"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "37",
+          "24"
+        ],
+        "itemId": "335"
+      },
+      {
+        "itemId": "55",
+        "spritesIds": [
+          "3",
+          "24"
+        ]
+      },
+      {
+        "itemId": "137",
+        "spritesIds": [
+          "37"
+        ]
+      },
+      {
+        "spritesIds": [
+          "24"
+        ],
+        "itemId": "250"
+      }
+    ],
+    "setId": "clo-pls-tec",
+    "solution": "335-55-137-250",
+    "valid": true
+  },
+  "116": {
+    "id": "2025-03-04",
+    "type": "comunicação-alienígena",
+    "number": 116,
+    "attributes": [
+      {
+        "itemsIds": [
+          "550",
+          "551",
+          "1492"
+        ],
+        "id": "hea",
+        "name": "Pesado",
+        "spriteId": "12",
+        "description": "peso, massa"
+      },
+      {
+        "itemsIds": [
+          "163",
+          "419",
+          "1328"
+        ],
+        "id": "myt",
+        "name": "Mítico",
+        "description": "fantasia, lenda, mito, místico, espiritual, sobrenatural, mágico",
+        "spriteId": "44"
+      },
+      {
+        "spriteId": "18",
+        "description": "texto, letras ou símbolos usados para comunicação",
+        "id": "wri",
+        "name": "Escrita",
+        "itemsIds": [
+          "315",
+          "50",
+          "112"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "51",
+      "129",
+      "372",
+      "483",
+      "243",
+      "1489",
+      "342"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "44"
+        ],
+        "itemId": "372"
+      },
+      {
+        "spritesIds": [
+          "12"
+        ],
+        "itemId": "51"
+      },
+      {
+        "spritesIds": [
+          "12",
+          "18"
+        ],
+        "itemId": "483"
+      },
+      {
+        "spritesIds": [
+          "44",
+          "18"
+        ],
+        "itemId": "1489"
+      }
+    ],
+    "setId": "hea-myt-wri",
+    "solution": "372-51-483-1489",
+    "valid": true
+  },
+  "117": {
+    "id": "2025-03-05",
+    "type": "comunicação-alienígena",
+    "number": 117,
+    "attributes": [
+      {
+        "description": "encontrado na natureza, não artificial, orgânico",
+        "name": "Natural",
+        "spriteId": "2",
+        "itemsIds": [
+          "248",
+          "446",
+          "522"
+        ],
+        "id": "nat"
+      },
+      {
+        "itemsIds": [
+          "550",
+          "179",
+          "166"
+        ],
+        "name": "Transporte",
+        "description": "Veículos, carros",
+        "id": "tra",
+        "spriteId": "12"
+      },
+      {
+        "itemsIds": [
+          "138",
+          "499",
+          "503"
+        ],
+        "spriteId": "48",
+        "id": "kno",
+        "name": "Conhecimento",
+        "description": "sabedoria, inteligência, ideia, dá informação"
+      }
+    ],
+    "itemsIds": [
+      "36",
+      "551",
+      "509",
+      "515",
+      "329",
+      "456"
+    ],
+    "requests": [
+      {
+        "itemId": "509",
+        "spritesIds": [
+          "12",
+          "48"
+        ]
+      },
+      {
+        "itemId": "36",
+        "spritesIds": [
+          "2",
+          "12"
+        ]
+      },
+      {
+        "spritesIds": [
+          "48"
+        ],
+        "itemId": "515"
+      },
+      {
+        "spritesIds": [
+          "12"
+        ],
+        "itemId": "551"
+      }
+    ],
+    "setId": "kno-nat-tra",
+    "solution": "509-36-515-551",
+    "valid": true
+  },
+  "118": {
+    "id": "2025-03-06",
+    "type": "comunicação-alienígena",
+    "number": 118,
+    "attributes": [
+      {
+        "itemsIds": [
+          "66",
+          "38",
+          "490"
+        ],
+        "id": "too",
+        "spriteId": "4",
+        "name": "Ferramenta",
+        "description": "instrumento, dispositivo, implemento"
+      },
+      {
+        "id": "fli",
+        "spriteId": "20",
+        "itemsIds": [
+          "429",
+          "194",
+          "219"
+        ],
+        "name": "Vôo",
+        "description": "voador, alado"
+      },
+      {
+        "itemsIds": [
+          "182",
+          "262",
+          "127"
+        ],
+        "description": "idoso, envelhecido, fora de moda, antigo, ultrapassado",
+        "name": "Velho",
+        "id": "old",
+        "spriteId": "39"
+      }
+    ],
+    "itemsIds": [
+      "472",
+      "1489",
+      "357",
+      "223",
+      "110"
+    ],
+    "requests": [
+      {
+        "itemId": "1489",
+        "spritesIds": [
+          "4",
+          "39"
+        ]
+      },
+      {
+        "spritesIds": [
+          "39"
+        ],
+        "itemId": "223"
+      },
+      {
+        "itemId": "472",
+        "spritesIds": [
+          "20"
+        ]
+      },
+      {
+        "itemId": "357",
+        "spritesIds": [
+          "4"
+        ]
+      }
+    ],
+    "setId": "fli-old-too",
+    "solution": "1489-223-472-357",
+    "valid": true
+  },
+  "119": {
+    "id": "2025-03-07",
+    "type": "comunicação-alienígena",
+    "number": 119,
+    "attributes": [
+      {
+        "spriteId": "7",
+        "description": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto.",
+        "name": "Tabu",
+        "itemsIds": [
+          "163",
+          "32",
+          "234"
+        ],
+        "id": "tab"
+      },
+      {
+        "spriteId": "32",
+        "id": "pla",
+        "itemsIds": [
+          "72",
+          "532",
+          "2"
+        ],
+        "name": "Planta",
+        "description": "vegetação, flora, verde, madeira"
+      },
+      {
+        "description": "poder, energia, eletricidade",
+        "name": "Força",
+        "spriteId": "38",
+        "itemsIds": [
+          "475",
+          "286",
+          "395"
+        ],
+        "id": "pow"
+      }
+    ],
+    "itemsIds": [
+      "209",
+      "265",
+      "67",
+      "211",
+      "154"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "32"
+        ],
+        "itemId": "211"
+      },
+      {
+        "itemId": "209",
+        "spritesIds": [
+          "7"
+        ]
+      },
+      {
+        "itemId": "67",
+        "spritesIds": [
+          "7",
+          "38"
+        ]
+      },
+      {
+        "itemId": "154",
+        "spritesIds": [
+          "38"
+        ]
+      }
+    ],
+    "setId": "pla-pow-tab",
+    "solution": "211-209-67-154",
+    "valid": true
+  },
+  "120": {
+    "id": "2025-03-08",
+    "type": "comunicação-alienígena",
+    "number": 120,
+    "attributes": [
+      {
+        "description": "vegetação, flora, verde, madeira",
+        "spriteId": "31",
+        "name": "Planta",
+        "itemsIds": [
+          "14",
+          "173",
+          "532"
+        ],
+        "id": "pla"
+      },
+      {
+        "id": "dan",
+        "description": "risco, ameaça",
+        "name": "Perigo",
+        "itemsIds": [
+          "67",
+          "446",
+          "2600"
+        ],
+        "spriteId": "42"
+      },
+      {
+        "id": "hum",
+        "name": "Humano",
+        "itemsIds": [
+          "529",
+          "530",
+          "528"
+        ],
+        "description": "pessoa, corpo, usado por pessoas, tem características humanas",
+        "spriteId": "18"
+      }
+    ],
+    "itemsIds": [
+      "90",
+      "53",
+      "497",
+      "329",
+      "535"
+    ],
+    "requests": [
+      {
+        "itemId": "329",
+        "spritesIds": [
+          "31",
+          "42"
+        ]
+      },
+      {
+        "itemId": "535",
+        "spritesIds": [
+          "18"
+        ]
+      },
+      {
+        "spritesIds": [
+          "42",
+          "18"
+        ],
+        "itemId": "497"
+      },
+      {
+        "spritesIds": [
+          "31"
+        ],
+        "itemId": "90"
+      }
+    ],
+    "setId": "dan-hum-pla",
+    "solution": "329-535-497-90",
+    "valid": true
+  },
+  "121": {
+    "id": "2025-03-09",
+    "type": "comunicação-alienígena",
+    "number": 121,
+    "attributes": [
+      {
+        "id": "mac",
+        "itemsIds": [
+          "196",
+          "572",
+          "550"
+        ],
+        "description": "tem engrenagens, usa energia, funciona",
+        "spriteId": "33",
+        "name": "Máquina"
+      },
+      {
+        "description": "laser, prazer, diversão, para crianças",
+        "itemsIds": [
+          "263",
+          "220",
+          "388"
+        ],
+        "spriteId": "28",
+        "name": "Brinquedo",
+        "id": "toy"
+      },
+      {
+        "description": "ornamento, anexo, peça adicional",
+        "id": "acc",
+        "itemsIds": [
+          "559",
+          "18",
+          "157"
+        ],
+        "spriteId": "24",
+        "name": "Acessório"
+      }
+    ],
+    "itemsIds": [
+      "51",
+      "165",
+      "215",
+      "397",
+      "386"
+    ],
+    "requests": [
+      {
+        "itemId": "397",
+        "spritesIds": [
+          "33"
+        ]
+      },
+      {
+        "spritesIds": [
+          "28"
+        ],
+        "itemId": "165"
+      },
+      {
+        "itemId": "215",
+        "spritesIds": [
+          "28",
+          "24"
+        ]
+      },
+      {
+        "itemId": "51",
+        "spritesIds": [
+          "33",
+          "28"
+        ]
+      }
+    ],
+    "setId": "acc-mac-toy",
+    "solution": "397-165-215-51",
+    "valid": true
+  },
+  "122": {
+    "id": "2025-03-10",
+    "type": "comunicação-alienígena",
+    "number": 122,
+    "attributes": [
+      {
+        "spriteId": "30",
+        "itemsIds": [
+          "545",
+          "492",
+          "431"
+        ],
+        "description": "tem partes metálicas brilhantes, feito de metal",
+        "id": "met",
+        "name": "Metal"
+      },
+      {
+        "spriteId": "2",
+        "itemsIds": [
+          "116",
+          "351",
+          "1492"
+        ],
+        "description": "peso, massa",
+        "id": "hea",
+        "name": "Pesado"
+      },
+      {
+        "id": "tab",
+        "name": "Tabu",
+        "spriteId": "20",
+        "description": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto.",
+        "itemsIds": [
+          "234",
+          "1756",
+          "163"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "520",
+      "147",
+      "32",
+      "564",
+      "551",
+      "67"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "30",
+          "2",
+          "20"
+        ],
+        "itemId": "67"
+      },
+      {
+        "itemId": "32",
+        "spritesIds": [
+          "20"
+        ]
+      },
+      {
+        "itemId": "551",
+        "spritesIds": [
+          "30",
+          "2"
+        ]
+      },
+      {
+        "itemId": "147",
+        "spritesIds": [
+          "30"
+        ]
+      }
+    ],
+    "setId": "hea-met-tab",
+    "solution": "67-32-551-147",
+    "valid": true
+  },
+  "123": {
+    "id": "2025-03-11",
+    "type": "comunicação-alienígena",
+    "number": 123,
+    "attributes": [
+      {
+        "spriteId": "22",
+        "description": "sabedoria, inteligência, ideia, dá informação",
+        "name": "Conhecimento",
+        "id": "kno",
+        "itemsIds": [
+          "2507",
+          "317",
+          "515"
+        ]
+      },
+      {
+        "itemsIds": [
+          "579",
+          "2505",
+          "534"
+        ],
+        "description": "calor, aconchegante, temperatura",
+        "id": "war",
+        "spriteId": "9",
+        "name": "Quente"
+      },
+      {
+        "itemsIds": [
+          "343",
+          "216",
+          "123"
+        ],
+        "id": "clo",
+        "description": "moda, roupas, acessórios",
+        "spriteId": "34",
+        "name": "Vestimenta"
+      }
+    ],
+    "itemsIds": [
+      "507",
+      "5",
+      "124",
+      "237",
+      "242"
+    ],
+    "requests": [
+      {
+        "itemId": "124",
+        "spritesIds": [
+          "22"
+        ]
+      },
+      {
+        "spritesIds": [
+          "9"
+        ],
+        "itemId": "242"
+      },
+      {
+        "itemId": "237",
+        "spritesIds": [
+          "22",
+          "34"
+        ]
+      },
+      {
+        "spritesIds": [
+          "9",
+          "34"
+        ],
+        "itemId": "507"
+      }
+    ],
+    "setId": "clo-kno-war",
+    "solution": "124-242-237-507",
+    "valid": true
+  },
+  "124": {
+    "id": "2025-03-12",
+    "type": "comunicação-alienígena",
+    "number": 124,
+    "attributes": [
+      {
+        "itemsIds": [
+          "147",
+          "488",
+          "146"
+        ],
+        "spriteId": "19",
+        "id": "wea",
+        "description": "artilharia, ofensiva, usado em combate",
+        "name": "Arma"
+      },
+      {
+        "spriteId": "29",
+        "description": "instrumento, dispositivo, implemento",
+        "name": "Ferramenta",
+        "id": "too",
+        "itemsIds": [
+          "490",
+          "375",
+          "357"
+        ]
+      },
+      {
+        "itemsIds": [
+          "235",
+          "2505",
+          "475"
+        ],
+        "spriteId": "32",
+        "description": "fluido, aquático",
+        "name": "Líquido",
+        "id": "liq"
+      }
+    ],
+    "itemsIds": [
+      "336",
+      "134",
+      "53",
+      "391",
+      "170"
+    ],
+    "requests": [
+      {
+        "itemId": "134",
+        "spritesIds": [
+          "32"
+        ]
+      },
+      {
+        "spritesIds": [
+          "29",
+          "32"
+        ],
+        "itemId": "391"
+      },
+      {
+        "itemId": "53",
+        "spritesIds": [
+          "19",
+          "29"
+        ]
+      },
+      {
+        "spritesIds": [
+          "29"
+        ],
+        "itemId": "170"
+      }
+    ],
+    "setId": "liq-too-wea",
+    "solution": "134-391-53-170",
+    "valid": true
+  },
+  "125": {
+    "id": "2025-03-13",
+    "type": "comunicação-alienígena",
+    "number": 125,
+    "attributes": [
+      {
+        "id": "met",
+        "spriteId": "17",
+        "itemsIds": [
+          "503",
+          "51",
+          "167"
+        ],
+        "name": "Metal",
+        "description": "tem partes metálicas brilhantes, feito de metal"
+      },
+      {
+        "name": "Local",
+        "itemsIds": [
+          "489",
+          "513",
+          "284"
+        ],
+        "description": "Lugar, região, área",
+        "spriteId": "12",
+        "id": "loc"
+      },
+      {
+        "itemsIds": [
+          "240"
+        ],
+        "spriteId": "21",
+        "name": "Ferramenta",
+        "description": "instrumento, dispositivo, implemento",
+        "id": "too"
+      }
+    ],
+    "itemsIds": [
+      "271",
+      "455",
+      "66",
+      "24",
+      "538",
+      "482"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "17"
+        ],
+        "itemId": "455"
+      },
+      {
+        "spritesIds": [
+          "17",
+          "12"
+        ],
+        "itemId": "482"
+      },
+      {
+        "spritesIds": [
+          "17",
+          "21"
+        ],
+        "itemId": "66"
+      },
+      {
+        "itemId": "538",
+        "spritesIds": [
+          "12"
+        ]
+      }
+    ],
+    "setId": "loc-met-too",
+    "solution": "455-482-66-538",
+    "valid": true
+  },
+  "126": {
+    "id": "2025-03-14",
+    "type": "comunicação-alienígena",
+    "number": 126,
+    "attributes": [
+      {
+        "itemsIds": [
+          "170",
+          "66",
+          "38"
+        ],
+        "id": "too",
+        "name": "Ferramenta",
+        "spriteId": "13",
+        "description": "instrumento, dispositivo, implemento"
+      },
+      {
+        "id": "ali",
+        "itemsIds": [
+          "30",
+          "87",
+          "41"
+        ],
+        "name": "Vivo",
+        "description": "vida, ser, organismo, animado",
+        "spriteId": "37"
+      },
+      {
+        "name": "Defesa",
+        "id": "def",
+        "spriteId": "8",
+        "description": "proteção, cobertura, escudo",
+        "itemsIds": [
+          "278",
+          "677",
+          "274"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "555",
+      "327",
+      "362",
+      "247",
+      "3",
+      "82",
+      "394"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "37"
+        ],
+        "itemId": "362"
+      },
+      {
+        "spritesIds": [
+          "37",
+          "8"
+        ],
+        "itemId": "82"
+      },
+      {
+        "spritesIds": [
+          "8"
+        ],
+        "itemId": "555"
+      },
+      {
+        "itemId": "327",
+        "spritesIds": [
+          "13",
+          "8"
+        ]
+      }
+    ],
+    "setId": "ali-def-too",
+    "solution": "362-82-555-327",
+    "valid": true
+  },
+  "127": {
+    "id": "2025-03-15",
+    "type": "comunicação-alienígena",
+    "number": 127,
+    "attributes": [
+      {
+        "name": "Cultura",
+        "itemsIds": [
+          "57",
+          "264",
+          "180"
+        ],
+        "spriteId": "14",
+        "id": "cul",
+        "description": "personalizado, valores, local, regional, tradicional, regional, religioso"
+      },
+      {
+        "description": "artilharia, ofensiva, usado em combate",
+        "id": "wea",
+        "name": "Arma",
+        "spriteId": "46",
+        "itemsIds": [
+          "488",
+          "146",
+          "531"
+        ]
+      },
+      {
+        "id": "bui",
+        "name": "Construção",
+        "itemsIds": [
+          "144",
+          "482",
+          "538"
+        ],
+        "description": "prédios, estrutura, arquitetura, habitação",
+        "spriteId": "0"
+      }
+    ],
+    "itemsIds": [
+      "73",
+      "186",
+      "372",
+      "1488",
+      "261"
+    ],
+    "requests": [
+      {
+        "itemId": "372",
+        "spritesIds": [
+          "14",
+          "0"
+        ]
+      },
+      {
+        "itemId": "73",
+        "spritesIds": [
+          "0"
+        ]
+      },
+      {
+        "itemId": "186",
+        "spritesIds": [
+          "46"
+        ]
+      },
+      {
+        "itemId": "1488",
+        "spritesIds": [
+          "14"
+        ]
+      }
+    ],
+    "setId": "bui-cul-wea",
+    "solution": "372-73-186-1488",
+    "valid": true
+  },
+  "128": {
+    "id": "2025-03-16",
+    "type": "comunicação-alienígena",
+    "number": 128,
+    "attributes": [
+      {
+        "description": "baixa temperatura, gelado, refrescante",
+        "id": "col",
+        "itemsIds": [
+          "226",
+          "79",
+          "349"
+        ],
+        "spriteId": "18",
+        "name": "Frio"
+      },
+      {
+        "id": "acc",
+        "name": "Acessório",
+        "spriteId": "37",
+        "itemsIds": [
+          "586",
+          "422",
+          "254"
+        ],
+        "description": "ornamento, anexo, peça adicional"
+      },
+      {
+        "name": "Perigo",
+        "description": "risco, ameaça",
+        "itemsIds": [
+          "304",
+          "144",
+          "276"
+        ],
+        "id": "dan",
+        "spriteId": "39"
+      }
+    ],
+    "itemsIds": [
+      "1328",
+      "1642",
+      "324",
+      "1049",
+      "45",
+      "339"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "18",
+          "37"
+        ],
+        "itemId": "339"
+      },
+      {
+        "itemId": "324",
+        "spritesIds": [
+          "37"
+        ]
+      },
+      {
+        "itemId": "1049",
+        "spritesIds": [
+          "39"
+        ]
+      },
+      {
+        "spritesIds": [
+          "18",
+          "39"
+        ],
+        "itemId": "1328"
+      }
+    ],
+    "setId": "acc-col-dan",
+    "solution": "339-324-1049-1328",
+    "valid": true
+  },
+  "129": {
+    "id": "2025-03-17",
+    "type": "comunicação-alienígena",
+    "number": 129,
+    "attributes": [
+      {
+        "id": "val",
+        "spriteId": "13",
+        "itemsIds": [
+          "13",
+          "2800",
+          "141"
+        ],
+        "description": "precioso, raro, dinheiro, valor sentimental",
+        "name": "Valioso"
+      },
+      {
+        "id": "pla",
+        "description": "vegetação, flora, verde, madeira",
+        "itemsIds": [
+          "1019",
+          "1307",
+          "173"
+        ],
+        "name": "Planta",
+        "spriteId": "11"
+      },
+      {
+        "id": "hum",
+        "description": "pessoa, corpo, usado por pessoas, tem características humanas",
+        "name": "Humano",
+        "itemsIds": [
+          "59",
+          "318",
+          "500"
+        ],
+        "spriteId": "26"
+      }
+    ],
+    "itemsIds": [
+      "528",
+      "224",
+      "967",
+      "106",
+      "1788",
+      "323",
+      "561"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "11",
+          "26"
+        ],
+        "itemId": "1788"
+      },
+      {
+        "spritesIds": [
+          "26"
+        ],
+        "itemId": "528"
+      },
+      {
+        "spritesIds": [
+          "11"
+        ],
+        "itemId": "106"
+      },
+      {
+        "itemId": "224",
+        "spritesIds": [
+          "13",
+          "26"
+        ]
+      }
+    ],
+    "setId": "hum-pla-val",
+    "solution": "1788-528-106-224",
+    "valid": true
+  },
+  "130": {
+    "id": "2025-03-18",
+    "type": "comunicação-alienígena",
+    "number": 130,
+    "attributes": [
+      {
+        "description": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto.",
+        "spriteId": "22",
+        "name": "Tabu",
+        "id": "tab",
+        "itemsIds": [
+          "32"
+        ]
+      },
+      {
+        "id": "hum",
+        "name": "Humano",
+        "description": "pessoa, corpo, usado por pessoas, tem características humanas",
+        "spriteId": "44",
+        "itemsIds": [
+          "700",
+          "539",
+          "535"
+        ]
+      },
+      {
+        "name": "Recipiente",
+        "spriteId": "34",
+        "itemsIds": [
+          "253",
+          "350",
+          "70"
+        ],
+        "description": "contém, armazena ou envolve itens ou substâncias",
+        "id": "con"
+      }
+    ],
+    "itemsIds": [
+      "1756",
+      "1408",
+      "1940",
+      "299",
+      "371",
+      "89"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "22",
+          "44"
+        ],
+        "itemId": "1756"
+      },
+      {
+        "spritesIds": [
+          "34"
+        ],
+        "itemId": "371"
+      },
+      {
+        "spritesIds": [
+          "44"
+        ],
+        "itemId": "1940"
+      },
+      {
+        "itemId": "1408",
+        "spritesIds": [
+          "22",
+          "44",
+          "34"
+        ]
+      }
+    ],
+    "setId": "con-hum-tab",
+    "solution": "1756-371-1940-1408",
+    "valid": true
+  },
+  "131": {
+    "id": "2025-03-19",
+    "type": "comunicação-alienígena",
+    "number": 131,
+    "attributes": [
+      {
+        "id": "hea",
+        "itemsIds": [
+          "392",
+          "116",
+          "56"
+        ],
+        "description": "peso, massa",
+        "spriteId": "22",
+        "name": "Pesado"
+      },
+      {
+        "description": "alto, alto, altura, altitude",
+        "id": "hei",
+        "itemsIds": [
+          "161",
+          "2",
+          "97"
+        ],
+        "spriteId": "15",
+        "name": "Altura"
+      },
+      {
+        "spriteId": "29",
+        "description": "Veículos, carros",
+        "name": "Transporte",
+        "id": "tra",
+        "itemsIds": [
+          "91",
+          "179",
+          "26"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "10",
+      "389",
+      "396",
+      "2270",
+      "160"
+    ],
+    "requests": [
+      {
+        "itemId": "10",
+        "spritesIds": [
+          "22",
+          "29"
+        ]
+      },
+      {
+        "spritesIds": [
+          "22",
+          "15"
+        ],
+        "itemId": "396"
+      },
+      {
+        "spritesIds": [
+          "22",
+          "15",
+          "29"
+        ],
+        "itemId": "389"
+      },
+      {
+        "itemId": "2270",
+        "spritesIds": [
+          "15",
+          "29"
+        ]
+      }
+    ],
+    "setId": "hea-hei-tra",
+    "solution": "10-396-389-2270",
+    "valid": true
+  },
+  "132": {
+    "id": "2025-03-20",
+    "type": "comunicação-alienígena",
+    "number": 132,
+    "attributes": [
+      {
+        "name": "Vivo",
+        "itemsIds": [
+          "500",
+          "87",
+          "526"
+        ],
+        "id": "ali",
+        "description": "vida, ser, organismo, animado",
+        "spriteId": "48"
+      },
+      {
+        "description": "superfície, liso, nivelado",
+        "spriteId": "2",
+        "name": "Plano",
+        "itemsIds": [
+          "2670",
+          "98",
+          "290"
+        ],
+        "id": "fla"
+      },
+      {
+        "name": "Escrita",
+        "spriteId": "44",
+        "description": "texto, letras ou símbolos usados para comunicação",
+        "id": "wri",
+        "itemsIds": [
+          "344",
+          "581",
+          "287"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "11",
+      "378",
+      "83",
+      "225",
+      "335"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "48"
+        ],
+        "itemId": "225"
+      },
+      {
+        "itemId": "335",
+        "spritesIds": [
+          "2"
+        ]
+      },
+      {
+        "spritesIds": [
+          "2",
+          "44"
+        ],
+        "itemId": "83"
+      },
+      {
+        "spritesIds": [
+          "44"
+        ],
+        "itemId": "11"
+      }
+    ],
+    "setId": "ali-fla-wri",
+    "solution": "225-335-83-11",
+    "valid": true
+  },
+  "133": {
+    "id": "2025-03-21",
+    "type": "comunicação-alienígena",
+    "number": 133,
+    "attributes": [
+      {
+        "id": "tab",
+        "spriteId": "18",
+        "itemsIds": [
+          "209",
+          "1408",
+          "1756"
+        ],
+        "name": "Tabu",
+        "description": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto."
+      },
+      {
+        "description": "superfície, liso, nivelado",
+        "id": "fla",
+        "name": "Plano",
+        "spriteId": "43",
+        "itemsIds": [
+          "320",
+          "485",
+          "6"
+        ]
+      },
+      {
+        "spriteId": "11",
+        "id": "cul",
+        "name": "Cultura",
+        "description": "personalizado, valores, local, regional, tradicional, regional, religioso",
+        "itemsIds": [
+          "964",
+          "57",
+          "237"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "322",
+      "67",
+      "382",
+      "562",
+      "403",
+      "32"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "18"
+        ],
+        "itemId": "67"
+      },
+      {
+        "spritesIds": [
+          "18",
+          "11"
+        ],
+        "itemId": "32"
+      },
+      {
+        "itemId": "382",
+        "spritesIds": [
+          "43"
+        ]
+      },
+      {
+        "itemId": "403",
+        "spritesIds": [
+          "43",
+          "11"
+        ]
+      }
+    ],
+    "setId": "cul-fla-tab",
+    "solution": "67-32-382-403",
+    "valid": true
+  },
+  "134": {
+    "id": "2025-03-22",
+    "type": "comunicação-alienígena",
+    "number": 134,
+    "attributes": [
+      {
+        "name": "Mítico",
+        "itemsIds": [
+          "163",
+          "372",
+          "276"
+        ],
+        "id": "myt",
+        "spriteId": "19",
+        "description": "fantasia, lenda, mito, místico, espiritual, sobrenatural, mágico"
+      },
+      {
+        "id": "con",
+        "spriteId": "40",
+        "name": "Recipiente",
+        "itemsIds": [
+          "6",
+          "1495",
+          "350"
+        ],
+        "description": "contém, armazena ou envolve itens ou substâncias"
+      },
+      {
+        "spriteId": "36",
+        "itemsIds": [
+          "596",
+          "573",
+          "184"
+        ],
+        "name": "Tecnologia",
+        "description": "eletrônicos, digital, computador, internet",
+        "id": "tec"
+      }
+    ],
+    "itemsIds": [
+      "367",
+      "160",
+      "392",
+      "1489",
+      "2220",
+      "217"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "19"
+        ],
+        "itemId": "1489"
+      },
+      {
+        "itemId": "2220",
+        "spritesIds": [
+          "19",
+          "36"
+        ]
+      },
+      {
+        "spritesIds": [
+          "40"
+        ],
+        "itemId": "367"
+      },
+      {
+        "spritesIds": [
+          "40",
+          "36"
+        ],
+        "itemId": "392"
+      }
+    ],
+    "setId": "con-myt-tec",
+    "solution": "1489-2220-367-392",
+    "valid": true
+  },
+  "135": {
+    "id": "2025-03-23",
+    "type": "comunicação-alienígena",
+    "number": 135,
+    "attributes": [
+      {
+        "name": "Novo",
+        "spriteId": "27",
+        "itemsIds": [
+          "2198"
+        ],
+        "description": "jovem, recente, moderno",
+        "id": "new"
+      },
+      {
+        "description": "pessoa, corpo, usado por pessoas, tem características humanas",
+        "id": "hum",
+        "spriteId": "7",
+        "name": "Humano",
+        "itemsIds": [
+          "497",
+          "234",
+          "528"
+        ]
+      },
+      {
+        "description": "texto, letras ou símbolos usados para comunicação",
+        "id": "wri",
+        "itemsIds": [
+          "311",
+          "477",
+          "351"
+        ],
+        "spriteId": "30",
+        "name": "Escrita"
+      }
+    ],
+    "itemsIds": [
+      "277",
+      "511",
+      "59",
+      "189",
+      "1408"
+    ],
+    "requests": [
+      {
+        "itemId": "277",
+        "spritesIds": [
+          "27",
+          "30"
+        ]
+      },
+      {
+        "itemId": "511",
+        "spritesIds": [
+          "27"
+        ]
+      },
+      {
+        "itemId": "59",
+        "spritesIds": [
+          "27",
+          "7"
+        ]
+      },
+      {
+        "spritesIds": [
+          "7"
+        ],
+        "itemId": "1408"
+      }
+    ],
+    "setId": "hum-new-wri",
+    "solution": "277-511-59-1408",
+    "valid": true
+  },
+  "136": {
+    "id": "2025-03-24",
+    "type": "comunicação-alienígena",
+    "number": 136,
+    "attributes": [
+      {
+        "name": "Velho",
+        "spriteId": "9",
+        "description": "idoso, envelhecido, fora de moda, antigo, ultrapassado",
+        "id": "old",
+        "itemsIds": [
+          "522",
+          "182",
+          "499"
+        ]
+      },
+      {
+        "description": "Lugar, região, área",
+        "name": "Local",
+        "spriteId": "12",
+        "id": "loc",
+        "itemsIds": [
+          "372",
+          "908",
+          "2247"
+        ]
+      },
+      {
+        "id": "tab",
+        "itemsIds": [
+          "2546",
+          "234",
+          "1756"
+        ],
+        "description": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto.",
+        "spriteId": "47",
+        "name": "Tabu"
+      }
+    ],
+    "itemsIds": [
+      "117",
+      "2245",
+      "513",
+      "1489",
+      "236",
+      "408",
+      "67"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "47"
+        ],
+        "itemId": "67"
+      },
+      {
+        "itemId": "2245",
+        "spritesIds": [
+          "9",
+          "12"
+        ]
+      },
+      {
+        "spritesIds": [
+          "9",
+          "47"
+        ],
+        "itemId": "1489"
+      },
+      {
+        "itemId": "513",
+        "spritesIds": [
+          "12"
+        ]
+      }
+    ],
+    "setId": "loc-old-tab",
+    "solution": "67-2245-1489-513",
+    "valid": true
+  },
+  "137": {
+    "id": "2025-03-25",
+    "type": "comunicação-alienígena",
+    "number": 137,
+    "attributes": [
+      {
+        "spriteId": "6",
+        "itemsIds": [
+          "84",
+          "269",
+          "1163"
+        ],
+        "id": "hol",
+        "name": "Buracos",
+        "description": "possui lacunas, perfurações ou aberturas"
+      },
+      {
+        "description": "contém, armazena ou envolve itens ou substâncias",
+        "itemsIds": [
+          "56",
+          "208",
+          "185"
+        ],
+        "id": "con",
+        "name": "Recipiente",
+        "spriteId": "39"
+      },
+      {
+        "spriteId": "9",
+        "description": "pessoa, corpo, usado por pessoas, tem características humanas",
+        "itemsIds": [
+          "530",
+          "536",
+          "234"
+        ],
+        "name": "Humano",
+        "id": "hum"
+      }
+    ],
+    "itemsIds": [
+      "40",
+      "148",
+      "700",
+      "1",
+      "398",
+      "2927"
+    ],
+    "requests": [
+      {
+        "itemId": "40",
+        "spritesIds": [
+          "6",
+          "39"
+        ]
+      },
+      {
+        "itemId": "2927",
+        "spritesIds": [
+          "9"
+        ]
+      },
+      {
+        "spritesIds": [
+          "6",
+          "9"
+        ],
+        "itemId": "700"
+      },
+      {
+        "itemId": "398",
+        "spritesIds": [
+          "6"
+        ]
+      }
+    ],
+    "setId": "con-hol-hum",
+    "solution": "40-2927-700-398",
+    "valid": true
+  },
+  "138": {
+    "id": "2025-03-26",
+    "type": "comunicação-alienígena",
+    "number": 138,
+    "attributes": [
+      {
+        "description": "peso, massa",
+        "itemsIds": [
+          "1440",
+          "116",
+          "573"
+        ],
+        "spriteId": "12",
+        "name": "Pesado",
+        "id": "hea"
+      },
+      {
+        "itemsIds": [
+          "1541",
+          "908",
+          "127"
+        ],
+        "description": "alto, alto, altura, altitude",
+        "name": "Altura",
+        "id": "hei",
+        "spriteId": "39"
+      },
+      {
+        "description": "sólido, firme, rígido, inflexível",
+        "spriteId": "28",
+        "id": "har",
+        "name": "Duro",
+        "itemsIds": [
+          "118",
+          "545",
+          "80"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "290",
+      "405",
+      "550",
+      "51",
+      "371"
+    ],
+    "requests": [
+      {
+        "itemId": "51",
+        "spritesIds": [
+          "12",
+          "39"
+        ]
+      },
+      {
+        "itemId": "550",
+        "spritesIds": [
+          "12",
+          "28"
+        ]
+      },
+      {
+        "itemId": "371",
+        "spritesIds": [
+          "39",
+          "28"
+        ]
+      },
+      {
+        "spritesIds": [
+          "12",
+          "39",
+          "28"
+        ],
+        "itemId": "405"
+      }
+    ],
+    "setId": "har-hea-hei",
+    "solution": "51-550-371-405",
+    "valid": true
+  },
+  "139": {
+    "id": "2025-03-27",
+    "type": "comunicação-alienígena",
+    "number": 139,
+    "attributes": [
+      {
+        "id": "pla",
+        "itemsIds": [
+          "236",
+          "2",
+          "1817"
+        ],
+        "spriteId": "12",
+        "description": "vegetação, flora, verde, madeira",
+        "name": "Planta"
+      },
+      {
+        "itemsIds": [
+          "152",
+          "475",
+          "397"
+        ],
+        "name": "Força",
+        "id": "pow",
+        "spriteId": "26",
+        "description": "poder, energia, eletricidade"
+      },
+      {
+        "name": "Instrumento",
+        "itemsIds": [
+          "426",
+          "424",
+          "314"
+        ],
+        "description": "utensílio, equipamento, suporte",
+        "id": "ins",
+        "spriteId": "21"
+      }
+    ],
+    "itemsIds": [
+      "529",
+      "94",
+      "78",
+      "114",
+      "486",
+      "198",
+      "562"
+    ],
+    "requests": [
+      {
+        "itemId": "198",
+        "spritesIds": [
+          "12",
+          "21"
+        ]
+      },
+      {
+        "spritesIds": [
+          "26",
+          "21"
+        ],
+        "itemId": "562"
+      },
+      {
+        "spritesIds": [
+          "12"
+        ],
+        "itemId": "94"
+      },
+      {
+        "spritesIds": [
+          "26"
+        ],
+        "itemId": "486"
+      }
+    ],
+    "setId": "ins-pla-pow",
+    "solution": "198-562-94-486",
+    "valid": true
+  },
+  "140": {
+    "id": "2025-03-28",
+    "type": "comunicação-alienígena",
+    "number": 140,
+    "attributes": [
+      {
+        "name": "Local",
+        "description": "Lugar, região, área",
+        "id": "loc",
+        "spriteId": "6",
+        "itemsIds": [
+          "432",
+          "452",
+          "538"
+        ]
+      },
+      {
+        "description": "compacto, reduzido",
+        "spriteId": "0",
+        "itemsIds": [
+          "1942",
+          "378",
+          "1598"
+        ],
+        "id": "sma",
+        "name": "Pequeno"
+      },
+      {
+        "description": "tem partes metálicas brilhantes, feito de metal",
+        "spriteId": "41",
+        "itemsIds": [
+          "1440",
+          "161",
+          "314"
+        ],
+        "name": "Metal",
+        "id": "met"
+      }
+    ],
+    "itemsIds": [
+      "513",
+      "1405",
+      "1175",
+      "547",
+      "90"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "0",
+          "41"
+        ],
+        "itemId": "1175"
+      },
+      {
+        "spritesIds": [
+          "6",
+          "41"
+        ],
+        "itemId": "1405"
+      },
+      {
+        "spritesIds": [
+          "6"
+        ],
+        "itemId": "513"
+      },
+      {
+        "itemId": "547",
+        "spritesIds": [
+          "41"
+        ]
+      }
+    ],
+    "setId": "loc-met-sma",
+    "solution": "1175-1405-513-547",
+    "valid": true
+  },
+  "141": {
+    "id": "2025-03-29",
+    "type": "comunicação-alienígena",
+    "number": 141,
+    "attributes": [
+      {
+        "name": "Brinquedo",
+        "spriteId": "11",
+        "id": "toy",
+        "itemsIds": [
+          "353",
+          "470",
+          "159"
+        ],
+        "description": "laser, prazer, diversão, para crianças"
+      },
+      {
+        "name": "Pequeno",
+        "itemsIds": [
+          "526",
+          "545",
+          "1598"
+        ],
+        "description": "compacto, reduzido",
+        "spriteId": "31",
+        "id": "sma"
+      },
+      {
+        "name": "Escrita",
+        "spriteId": "21",
+        "description": "texto, letras ou símbolos usados para comunicação",
+        "itemsIds": [
+          "287",
+          "485",
+          "50"
+        ],
+        "id": "wri"
+      }
+    ],
+    "itemsIds": [
+      "2800",
+      "1649",
+      "303",
+      "85",
+      "311",
+      "343",
+      "1407"
+    ],
+    "requests": [
+      {
+        "itemId": "1407",
+        "spritesIds": [
+          "11",
+          "31",
+          "21"
+        ]
+      },
+      {
+        "itemId": "2800",
+        "spritesIds": [
+          "31",
+          "21"
+        ]
+      },
+      {
+        "itemId": "303",
+        "spritesIds": [
+          "11",
+          "31"
+        ]
+      },
+      {
+        "itemId": "311",
+        "spritesIds": [
+          "11",
+          "21"
+        ]
+      }
+    ],
+    "setId": "sma-toy-wri",
+    "solution": "1407-2800-303-311",
+    "valid": true
+  },
+  "142": {
+    "id": "2025-03-30",
+    "type": "comunicação-alienígena",
+    "number": 142,
+    "attributes": [
+      {
+        "itemsIds": [
+          "511",
+          "2198"
+        ],
+        "id": "new",
+        "spriteId": "11",
+        "name": "Novo",
+        "description": "jovem, recente, moderno"
+      },
+      {
+        "itemsIds": [
+          "92",
+          "573",
+          "1944"
+        ],
+        "id": "hea",
+        "name": "Pesado",
+        "spriteId": "7",
+        "description": "peso, massa"
+      },
+      {
+        "id": "clo",
+        "spriteId": "34",
+        "description": "moda, roupas, acessórios",
+        "itemsIds": [
+          "1335",
+          "1742",
+          "554"
+        ],
+        "name": "Vestimenta"
+      }
+    ],
+    "itemsIds": [
+      "475",
+      "963",
+      "61",
+      "202",
+      "453",
+      "153"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "11"
+        ],
+        "itemId": "963"
+      },
+      {
+        "itemId": "475",
+        "spritesIds": [
+          "7",
+          "34"
+        ]
+      },
+      {
+        "spritesIds": [
+          "34"
+        ],
+        "itemId": "202"
+      },
+      {
+        "spritesIds": [
+          "11",
+          "34"
+        ],
+        "itemId": "61"
+      }
+    ],
+    "setId": "clo-hea-new",
+    "solution": "963-475-202-61",
+    "valid": true
+  },
+  "143": {
+    "id": "2025-03-31",
+    "type": "comunicação-alienígena",
+    "number": 143,
+    "attributes": [
+      {
+        "id": "sha",
+        "name": "Afiado",
+        "description": "pontiagudo, cortante, lâmina",
+        "itemsIds": [
+          "273",
+          "89",
+          "93"
+        ],
+        "spriteId": "19"
+      },
+      {
+        "id": "hum",
+        "description": "pessoa, corpo, usado por pessoas, tem características humanas",
+        "itemsIds": [
+          "82",
+          "1940",
+          "529"
+        ],
+        "name": "Humano",
+        "spriteId": "30"
+      },
+      {
+        "itemsIds": [
+          "190",
+          "1688",
+          "589"
+        ],
+        "spriteId": "41",
+        "name": "Brinquedo",
+        "id": "toy",
+        "description": "laser, prazer, diversão, para crianças"
+      }
+    ],
+    "itemsIds": [
+      "818",
+      "1405",
+      "2275",
+      "530",
+      "418",
+      "318",
+      "171"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "19"
+        ],
+        "itemId": "171"
+      },
+      {
+        "itemId": "818",
+        "spritesIds": [
+          "19",
+          "41"
+        ]
+      },
+      {
+        "spritesIds": [
+          "30",
+          "41"
+        ],
+        "itemId": "318"
+      },
+      {
+        "itemId": "530",
+        "spritesIds": [
+          "30"
+        ]
+      }
+    ],
+    "setId": "hum-sha-toy",
+    "solution": "171-818-318-530",
+    "valid": true
+  },
+  "144": {
+    "id": "2025-04-01",
+    "type": "comunicação-alienígena",
+    "number": 144,
+    "attributes": [
+      {
+        "spriteId": "12",
+        "name": "Afiado",
+        "itemsIds": [
+          "444",
+          "818",
+          "171"
+        ],
+        "id": "sha",
+        "description": "pontiagudo, cortante, lâmina"
+      },
+      {
+        "name": "Valioso",
+        "id": "val",
+        "spriteId": "39",
+        "description": "precioso, raro, dinheiro, valor sentimental",
+        "itemsIds": [
+          "418",
+          "80",
+          "112"
+        ]
+      },
+      {
+        "id": "tec",
+        "description": "eletrônicos, digital, computador, internet",
+        "spriteId": "48",
+        "name": "Tecnologia",
+        "itemsIds": [
+          "347",
+          "1756",
+          "661"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "140",
+      "335",
+      "190",
+      "860",
+      "389",
+      "56",
+      "146"
+    ],
+    "requests": [
+      {
+        "itemId": "56",
+        "spritesIds": [
+          "39"
+        ]
+      },
+      {
+        "itemId": "335",
+        "spritesIds": [
+          "48"
+        ]
+      },
+      {
+        "spritesIds": [
+          "12"
+        ],
+        "itemId": "146"
+      },
+      {
+        "itemId": "389",
+        "spritesIds": [
+          "39",
+          "48"
+        ]
+      }
+    ],
+    "setId": "sha-tec-val",
+    "solution": "56-335-146-389",
+    "valid": true
+  },
+  "145": {
+    "id": "2025-04-02",
+    "type": "comunicação-alienígena",
+    "number": 145,
+    "attributes": [
+      {
+        "spriteId": "24",
+        "id": "sha",
+        "name": "Afiado",
+        "description": "pontiagudo, cortante, lâmina",
+        "itemsIds": [
+          "93",
+          "54",
+          "89"
+        ]
+      },
+      {
+        "spriteId": "39",
+        "itemsIds": [
+          "335",
+          "481",
+          "184"
+        ],
+        "name": "Tecnologia",
+        "id": "tec",
+        "description": "eletrônicos, digital, computador, internet"
+      },
+      {
+        "description": "laser, prazer, diversão, para crianças",
+        "spriteId": "36",
+        "id": "toy",
+        "itemsIds": [
+          "165",
+          "270",
+          "159"
+        ],
+        "name": "Brinquedo"
+      }
+    ],
+    "itemsIds": [
+      "818",
+      "371",
+      "596",
+      "233",
+      "429",
+      "544"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "24",
+          "36"
+        ],
+        "itemId": "818"
+      },
+      {
+        "spritesIds": [
+          "24"
+        ],
+        "itemId": "544"
+      },
+      {
+        "itemId": "429",
+        "spritesIds": [
+          "39",
+          "36"
+        ]
+      },
+      {
+        "spritesIds": [
+          "39"
+        ],
+        "itemId": "596"
+      }
+    ],
+    "setId": "sha-tec-toy",
+    "solution": "818-544-429-596",
+    "valid": true
+  },
+  "146": {
+    "id": "2025-04-03",
+    "type": "comunicação-alienígena",
+    "number": 146,
+    "attributes": [
+      {
+        "name": "Bonito",
+        "itemsIds": [
+          "588",
+          "529",
+          "20"
+        ],
+        "spriteId": "37",
+        "description": "atraente, charmoso, colorido, festivo, decorativo",
+        "id": "bea"
+      },
+      {
+        "name": "Som",
+        "itemsIds": [
+          "166",
+          "1422",
+          "131"
+        ],
+        "spriteId": "18",
+        "id": "sou",
+        "description": "faz som naturalmente ou por design ou interação"
+      },
+      {
+        "description": "fluido, aquático",
+        "name": "Líquido",
+        "spriteId": "44",
+        "itemsIds": [
+          "2651",
+          "178",
+          "461"
+        ],
+        "id": "liq"
+      }
+    ],
+    "itemsIds": [
+      "1742",
+      "460",
+      "52",
+      "246",
+      "113"
+    ],
+    "requests": [
+      {
+        "itemId": "246",
+        "spritesIds": [
+          "37",
+          "18"
+        ]
+      },
+      {
+        "itemId": "52",
+        "spritesIds": [
+          "37",
+          "18",
+          "44"
+        ]
+      },
+      {
+        "spritesIds": [
+          "18",
+          "44"
+        ],
+        "itemId": "460"
+      },
+      {
+        "itemId": "1742",
+        "spritesIds": [
+          "37",
+          "44"
+        ]
+      }
+    ],
+    "setId": "bea-liq-sou",
+    "solution": "246-52-460-1742",
+    "valid": true
+  },
+  "147": {
+    "id": "2025-04-04",
+    "type": "comunicação-alienígena",
+    "number": 147,
+    "attributes": [
+      {
+        "id": "mul",
+        "name": "Múltiplo",
+        "itemsIds": [
+          "1482"
+        ],
+        "description": "pares, grupos, conjuntos, ou as pessoas possuem mais de um",
+        "spriteId": "21"
+      },
+      {
+        "id": "ins",
+        "spriteId": "29",
+        "name": "Instrumento",
+        "description": "utensílio, equipamento, suporte",
+        "itemsIds": [
+          "376",
+          "967",
+          "544"
+        ]
+      },
+      {
+        "description": "contém, armazena ou envolve itens ou substâncias",
+        "name": "Recipiente",
+        "itemsIds": [
+          "397",
+          "6",
+          "185"
+        ],
+        "spriteId": "15",
+        "id": "con"
+      }
+    ],
+    "itemsIds": [
+      "155",
+      "186",
+      "350",
+      "326",
+      "211",
+      "1421",
+      "133"
+    ],
+    "requests": [
+      {
+        "spritesIds": [
+          "29",
+          "15"
+        ],
+        "itemId": "133"
+      },
+      {
+        "itemId": "326",
+        "spritesIds": [
+          "21",
+          "29"
+        ]
+      },
+      {
+        "itemId": "155",
+        "spritesIds": [
+          "21",
+          "15"
+        ]
+      },
+      {
+        "itemId": "350",
+        "spritesIds": [
+          "21",
+          "29",
+          "15"
+        ]
+      }
+    ],
+    "setId": "con-ins-mul",
+    "solution": "133-326-155-350",
+    "valid": true
+  },
+  "148": {
+    "id": "2025-04-05",
+    "type": "comunicação-alienígena",
+    "number": 148,
+    "attributes": [
+      {
+        "itemsIds": [
+          "1743",
+          "345",
+          "2603"
+        ],
+        "name": "Vestimenta",
+        "description": "moda, roupas, acessórios",
+        "spriteId": "6",
+        "id": "clo"
+      },
+      {
+        "spriteId": "5",
+        "description": "borracha, material sintético",
+        "id": "pls",
+        "name": "Plástico",
+        "itemsIds": [
+          "1126",
+          "344",
+          "541"
+        ]
+      },
+      {
+        "name": "Macio",
+        "spriteId": "3",
+        "description": "mole, gentil, suave, pegajoso, flexível",
+        "itemsIds": [
+          "463",
+          "2300",
+          "162"
+        ],
+        "id": "sof"
+      }
+    ],
+    "itemsIds": [
+      "1163",
+      "599",
+      "631",
+      "396",
+      "2651",
+      "58",
+      "310"
+    ],
+    "requests": [
+      {
+        "itemId": "310",
+        "spritesIds": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "spritesIds": [
+          "6",
+          "3"
+        ],
+        "itemId": "631"
+      },
+      {
+        "spritesIds": [
+          "5",
+          "3"
+        ],
+        "itemId": "58"
+      },
+      {
+        "spritesIds": [
+          "6",
+          "5",
+          "3"
+        ],
+        "itemId": "1163"
+      }
+    ],
+    "setId": "clo-pls-sof",
+    "solution": "310-631-58-1163",
+    "valid": true
+  },
+  "149": {
+    "id": "2025-04-06",
+    "type": "comunicação-alienígena",
+    "number": 149,
+    "attributes": [
+      {
+        "id": "bui",
+        "name": "Construção",
+        "spriteId": "15",
+        "description": "prédios, estrutura, arquitetura, habitação",
+        "itemsIds": [
+          "814",
+          "52",
+          "1541"
+        ]
+      },
+      {
+        "description": "jovem, recente, moderno",
+        "name": "Novo",
+        "spriteId": "18",
+        "itemsIds": [
+          "2198",
+          "963",
+          "59"
+        ],
+        "id": "new"
+      },
+      {
+        "description": "tem partes metálicas brilhantes, feito de metal",
+        "name": "Metal",
+        "id": "met",
+        "spriteId": "27",
+        "itemsIds": [
+          "516",
+          "2529",
+          "120"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "443",
+      "359",
+      "1062",
+      "335",
+      "1814",
+      "511",
+      "404"
+    ],
+    "requests": [
+      {
+        "itemId": "511",
+        "spritesIds": [
+          "18"
+        ]
+      },
+      {
+        "itemId": "335",
+        "spritesIds": [
+          "18",
+          "27"
+        ]
+      },
+      {
+        "itemId": "404",
+        "spritesIds": [
+          "15"
+        ]
+      },
+      {
+        "spritesIds": [
+          "15",
+          "27"
+        ],
+        "itemId": "1814"
+      }
+    ],
+    "setId": "bui-met-new",
+    "solution": "511-335-404-1814",
+    "valid": true
+  },
+  "150": {
+    "id": "2025-04-07",
+    "type": "comunicação-alienígena",
+    "number": 150,
+    "attributes": [
+      {
+        "itemsIds": [
+          "297",
+          "165",
+          "277"
+        ],
+        "description": "laser, prazer, diversão, para crianças",
+        "name": "Brinquedo",
+        "spriteId": "26",
+        "id": "toy"
+      },
+      {
+        "spriteId": "4",
+        "name": "Redondo",
+        "id": "rou",
+        "itemsIds": [
+          "588",
+          "357",
+          "354"
+        ],
+        "description": "circular, esfera, oval"
+      },
+      {
+        "spriteId": "24",
+        "name": "Duro",
+        "id": "har",
+        "description": "sólido, firme, rígido, inflexível",
+        "itemsIds": [
+          "368",
+          "101",
+          "92"
+        ]
+      }
+    ],
+    "itemsIds": [
+      "353",
+      "2670",
+      "51",
+      "133",
+      "1031"
+    ],
+    "requests": [
+      {
+        "itemId": "1031",
+        "spritesIds": [
+          "26",
+          "4",
+          "24"
+        ]
+      },
+      {
+        "spritesIds": [
+          "26",
+          "24"
+        ],
+        "itemId": "353"
+      },
+      {
+        "itemId": "2670",
+        "spritesIds": [
+          "4",
+          "24"
+        ]
+      },
+      {
+        "spritesIds": [
+          "26",
+          "4"
+        ],
+        "itemId": "51"
+      }
+    ],
+    "setId": "har-rou-toy",
+    "solution": "1031-353-2670-51",
+    "valid": true
+  }
+}

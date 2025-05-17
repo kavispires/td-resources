@@ -1,0 +1,5002 @@
+{
+	"1": {
+		"id": "2024-11-09",
+		"type": "comunicação-alienígena",
+		"number": 1,
+		"attributes": [
+			{
+				"id": "lon",
+				"itemsIds": ["151", "908", "388"],
+				"name": "Longo",
+				"spriteId": "8",
+				"description": "alto, comprido"
+			},
+			{
+				"description": "voador, alado",
+				"name": "Vôo",
+				"id": "fli",
+				"itemsIds": ["1584", "181", "2180"],
+				"spriteId": "9"
+			},
+			{
+				"id": "old",
+				"itemsIds": ["127", "262", "893"],
+				"name": "Velho",
+				"spriteId": "23",
+				"description": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
+			}
+		],
+		"itemsIds": ["283", "87", "9", "1929", "780", "2538"],
+		"requests": [
+			{
+				"itemId": "87",
+				"spritesIds": ["9"]
+			},
+			{
+				"itemId": "1929",
+				"spritesIds": ["8", "9"]
+			},
+			{
+				"itemId": "283",
+				"spritesIds": ["8", "23"]
+			},
+			{
+				"itemId": "9",
+				"spritesIds": ["23"]
+			}
+		],
+		"setId": "fli-lon-old",
+		"solution": "87-1929-283-9",
+		"valid": true
+	},
+	"2": {
+		"id": "2024-11-10",
+		"type": "comunicação-alienígena",
+		"number": 2,
+		"attributes": [
+			{
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"spriteId": "17",
+				"itemsIds": ["700", "529", "535"],
+				"name": "Humano",
+				"id": "hum"
+			},
+			{
+				"itemsIds": ["1920", "2290", "181"],
+				"description": "voador, alado",
+				"spriteId": "22",
+				"id": "fli",
+				"name": "Vôo"
+			},
+			{
+				"description": "eletrônicos, digital, computador, internet",
+				"spriteId": "7",
+				"id": "tec",
+				"name": "Tecnologia",
+				"itemsIds": ["130", "661", "573"]
+			}
+		],
+		"itemsIds": ["389", "72", "1930", "1337", "2220", "119"],
+		"requests": [
+			{
+				"spritesIds": ["17"],
+				"itemId": "1337"
+			},
+			{
+				"spritesIds": ["17", "7"],
+				"itemId": "2220"
+			},
+			{
+				"itemId": "1930",
+				"spritesIds": ["22"]
+			},
+			{
+				"itemId": "389",
+				"spritesIds": ["22", "7"]
+			}
+		],
+		"setId": "fli-hum-tec",
+		"solution": "1337-2220-1930-389",
+		"valid": true
+	},
+	"3": {
+		"id": "2024-11-11",
+		"type": "comunicação-alienígena",
+		"number": 3,
+		"attributes": [
+			{
+				"name": "Velho",
+				"itemsIds": ["127", "762", "1323"],
+				"description": "idoso, envelhecido, fora de moda, antigo, ultrapassado",
+				"id": "old",
+				"spriteId": "15"
+			},
+			{
+				"id": "dan",
+				"itemsIds": ["67", "1744", "151"],
+				"description": "risco, ameaça",
+				"spriteId": "0",
+				"name": "Perigo"
+			},
+			{
+				"id": "def",
+				"itemsIds": ["1334", "672", "166"],
+				"name": "Defesa",
+				"spriteId": "31",
+				"description": "proteção, cobertura, escudo"
+			}
+		],
+		"itemsIds": ["893", "2005", "1580", "1489", "1193", "182", "393"],
+		"requests": [
+			{
+				"spritesIds": ["15", "31"],
+				"itemId": "182"
+			},
+			{
+				"spritesIds": ["0", "31"],
+				"itemId": "1193"
+			},
+			{
+				"spritesIds": ["15", "0"],
+				"itemId": "1489"
+			},
+			{
+				"spritesIds": ["15", "0", "31"],
+				"itemId": "893"
+			}
+		],
+		"setId": "dan-def-old",
+		"solution": "182-1193-1489-893",
+		"valid": true
+	},
+	"4": {
+		"id": "2024-11-12",
+		"type": "comunicação-alienígena",
+		"number": 4,
+		"attributes": [
+			{
+				"id": "fli",
+				"name": "Vôo",
+				"spriteId": "31",
+				"description": "voador, alado",
+				"itemsIds": ["1599", "389", "2180"]
+			},
+			{
+				"description": "moda, roupas, acessórios",
+				"id": "clo",
+				"itemsIds": ["327", "2534", "2673"],
+				"spriteId": "14",
+				"name": "Vestimenta"
+			},
+			{
+				"description": "perfume, odor, aroma, fedor",
+				"itemsIds": ["2548", "1234", "2509"],
+				"id": "odo",
+				"spriteId": "23",
+				"name": "Cheiro"
+			}
+		],
+		"itemsIds": ["694", "1928", "970", "126", "41", "542", "13"],
+		"requests": [
+			{
+				"spritesIds": ["14", "23"],
+				"itemId": "126"
+			},
+			{
+				"spritesIds": ["31"],
+				"itemId": "1928"
+			},
+			{
+				"itemId": "970",
+				"spritesIds": ["23"]
+			},
+			{
+				"spritesIds": ["31", "23"],
+				"itemId": "41"
+			}
+		],
+		"setId": "clo-fli-odo",
+		"solution": "126-1928-970-41",
+		"valid": true
+	},
+	"5": {
+		"id": "2024-11-13",
+		"type": "comunicação-alienígena",
+		"number": 5,
+		"attributes": [
+			{
+				"itemsIds": ["977", "1031", "48"],
+				"name": "Redondo",
+				"description": "circular, esfera, oval",
+				"id": "rou",
+				"spriteId": "6"
+			},
+			{
+				"description": "pontiagudo, cortante, lâmina",
+				"spriteId": "27",
+				"id": "sha",
+				"name": "Afiado",
+				"itemsIds": ["53", "54", "89"]
+			},
+			{
+				"id": "tec",
+				"description": "eletrônicos, digital, computador, internet",
+				"name": "Tecnologia",
+				"itemsIds": ["335", "83", "596"],
+				"spriteId": "1"
+			}
+		],
+		"itemsIds": ["3", "1640", "107", "1496", "1126", "12"],
+		"requests": [
+			{
+				"spritesIds": ["27"],
+				"itemId": "3"
+			},
+			{
+				"spritesIds": ["6"],
+				"itemId": "1640"
+			},
+			{
+				"spritesIds": ["6", "1"],
+				"itemId": "1126"
+			},
+			{
+				"spritesIds": ["1"],
+				"itemId": "12"
+			}
+		],
+		"setId": "rou-sha-tec",
+		"solution": "3-1640-1126-12",
+		"valid": true
+	},
+	"6": {
+		"id": "2024-11-14",
+		"type": "comunicação-alienígena",
+		"number": 6,
+		"attributes": [
+			{
+				"id": "fla",
+				"description": "superfície, liso, nivelado",
+				"itemsIds": ["1361", "77", "335"],
+				"name": "Plano",
+				"spriteId": "12"
+			},
+			{
+				"id": "liq",
+				"spriteId": "5",
+				"itemsIds": ["1656", "2651", "2548"],
+				"name": "Líquido",
+				"description": "fluido, aquático"
+			},
+			{
+				"id": "lon",
+				"itemsIds": ["1496", "97", "612"],
+				"description": "alto, comprido",
+				"spriteId": "26",
+				"name": "Longo"
+			}
+		],
+		"itemsIds": ["1654", "119", "1529", "108", "38", "781"],
+		"requests": [
+			{
+				"itemId": "1529",
+				"spritesIds": ["12"]
+			},
+			{
+				"itemId": "38",
+				"spritesIds": ["5", "26"]
+			},
+			{
+				"spritesIds": ["12", "26"],
+				"itemId": "1654"
+			},
+			{
+				"itemId": "108",
+				"spritesIds": ["5"]
+			}
+		],
+		"setId": "fla-liq-lon",
+		"solution": "1529-38-1654-108",
+		"valid": true
+	},
+	"7": {
+		"id": "2024-11-15",
+		"type": "comunicação-alienígena",
+		"number": 7,
+		"attributes": [
+			{
+				"itemsIds": ["1578", "224", "1788"],
+				"name": "Humano",
+				"spriteId": "18",
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"id": "hum"
+			},
+			{
+				"description": "tamanho, magnitude",
+				"itemsIds": ["1541", "127", "116"],
+				"id": "big",
+				"name": "Grande",
+				"spriteId": "12"
+			},
+			{
+				"description": "perfume, odor, aroma, fedor",
+				"id": "odo",
+				"spriteId": "26",
+				"itemsIds": ["2509", "95", "363"],
+				"name": "Cheiro"
+			}
+		],
+		"itemsIds": ["1337", "1495", "2005", "908", "335", "551"],
+		"requests": [
+			{
+				"itemId": "2005",
+				"spritesIds": ["18"]
+			},
+			{
+				"spritesIds": ["18", "12"],
+				"itemId": "1337"
+			},
+			{
+				"itemId": "551",
+				"spritesIds": ["12", "26"]
+			},
+			{
+				"spritesIds": ["12"],
+				"itemId": "908"
+			}
+		],
+		"setId": "big-hum-odo",
+		"solution": "2005-1337-551-908",
+		"valid": true
+	},
+	"8": {
+		"id": "2024-11-16",
+		"type": "comunicação-alienígena",
+		"number": 8,
+		"attributes": [
+			{
+				"description": "risco, ameaça",
+				"spriteId": "35",
+				"id": "dan",
+				"name": "Perigo",
+				"itemsIds": ["39", "244", "799"]
+			},
+			{
+				"name": "Pesado",
+				"itemsIds": ["92", "2397", "1899"],
+				"spriteId": "17",
+				"id": "hea",
+				"description": "peso, massa"
+			},
+			{
+				"name": "Vestimenta",
+				"description": "moda, roupas, acessórios",
+				"id": "clo",
+				"itemsIds": ["76", "61", "2673"],
+				"spriteId": "29"
+			}
+		],
+		"itemsIds": ["51", "151", "2181", "757", "126"],
+		"requests": [
+			{
+				"itemId": "757",
+				"spritesIds": ["35", "17"]
+			},
+			{
+				"itemId": "151",
+				"spritesIds": ["35"]
+			},
+			{
+				"spritesIds": ["17"],
+				"itemId": "51"
+			},
+			{
+				"spritesIds": ["29"],
+				"itemId": "126"
+			}
+		],
+		"setId": "clo-dan-hea",
+		"solution": "757-151-51-126",
+		"valid": true
+	},
+	"9": {
+		"id": "2024-11-17",
+		"type": "comunicação-alienígena",
+		"number": 9,
+		"attributes": [
+			{
+				"itemsIds": ["700", "1589", "1793"],
+				"id": "hum",
+				"spriteId": "34",
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"name": "Humano"
+			},
+			{
+				"id": "clo",
+				"name": "Vestimenta",
+				"spriteId": "9",
+				"itemsIds": ["2673", "2535", "126"],
+				"description": "moda, roupas, acessórios"
+			},
+			{
+				"description": "precioso, raro, dinheiro, valor sentimental",
+				"id": "val",
+				"spriteId": "33",
+				"name": "Valioso",
+				"itemsIds": ["337", "56", "389"]
+			}
+		],
+		"itemsIds": ["75", "120", "1499", "2005", "2293", "535"],
+		"requests": [
+			{
+				"itemId": "2293",
+				"spritesIds": ["9", "33"]
+			},
+			{
+				"spritesIds": ["33"],
+				"itemId": "120"
+			},
+			{
+				"itemId": "2005",
+				"spritesIds": ["34"]
+			},
+			{
+				"itemId": "535",
+				"spritesIds": ["34", "9"]
+			}
+		],
+		"setId": "clo-hum-val",
+		"solution": "2293-120-2005-535",
+		"valid": true
+	},
+	"10": {
+		"id": "2024-11-18",
+		"type": "comunicação-alienígena",
+		"number": 10,
+		"attributes": [
+			{
+				"id": "sof",
+				"description": "gentil, suave, macio, pegajoso, flexível",
+				"spriteId": "26",
+				"name": "Mole",
+				"itemsIds": ["463", "2457", "29"]
+			},
+			{
+				"spriteId": "11",
+				"itemsIds": ["77", "1489", "1031"],
+				"id": "toy",
+				"name": "Brinquedo",
+				"description": "laser, prazer, diversão, para crianças"
+			},
+			{
+				"id": "war",
+				"itemsIds": ["534", "39"],
+				"spriteId": "21",
+				"name": "Quente",
+				"description": "calor, aconchegante, temperatura"
+			}
+		],
+		"itemsIds": ["428", "165", "22", "65", "555", "150"],
+		"requests": [
+			{
+				"itemId": "165",
+				"spritesIds": ["11"]
+			},
+			{
+				"spritesIds": ["26"],
+				"itemId": "22"
+			},
+			{
+				"spritesIds": ["26", "21"],
+				"itemId": "428"
+			},
+			{
+				"spritesIds": ["26", "11"],
+				"itemId": "150"
+			}
+		],
+		"setId": "sof-toy-war",
+		"solution": "165-22-428-150",
+		"valid": true
+	},
+	"11": {
+		"id": "2024-11-19",
+		"type": "comunicação-alienígena",
+		"number": 11,
+		"attributes": [
+			{
+				"description": "pontiagudo, cortante, lâmina",
+				"id": "sha",
+				"spriteId": "22",
+				"name": "Afiado",
+				"itemsIds": ["89", "53", "1013"]
+			},
+			{
+				"itemsIds": ["1335", "1378", "169"],
+				"spriteId": "36",
+				"description": "gentil, suave, macio, pegajoso, flexível",
+				"id": "sof",
+				"name": "Mole"
+			},
+			{
+				"description": "vegetação, flora, verde, madeira",
+				"id": "pla",
+				"spriteId": "32",
+				"itemsIds": ["308", "211", "548"],
+				"name": "Planta"
+			}
+		],
+		"itemsIds": ["125", "2", "2457", "1806", "90"],
+		"requests": [
+			{
+				"itemId": "90",
+				"spritesIds": ["36", "32"]
+			},
+			{
+				"itemId": "2457",
+				"spritesIds": ["36"]
+			},
+			{
+				"itemId": "125",
+				"spritesIds": ["22", "32"]
+			},
+			{
+				"spritesIds": ["32"],
+				"itemId": "2"
+			}
+		],
+		"setId": "pla-sha-sof",
+		"solution": "90-2457-125-2",
+		"valid": true
+	},
+	"12": {
+		"id": "2024-11-20",
+		"type": "comunicação-alienígena",
+		"number": 12,
+		"attributes": [
+			{
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"itemsIds": ["2409", "182", "1579"],
+				"name": "Construção",
+				"id": "con",
+				"spriteId": "33"
+			},
+			{
+				"name": "Mole",
+				"spriteId": "31",
+				"description": "gentil, suave, macio, pegajoso, flexível",
+				"itemsIds": ["30", "162", "1378"],
+				"id": "sof"
+			},
+			{
+				"itemsIds": ["335", "389", "2220"],
+				"id": "tec",
+				"description": "eletrônicos, digital, computador, internet",
+				"name": "Tecnologia",
+				"spriteId": "5"
+			}
+		],
+		"itemsIds": ["2543", "596", "23", "780", "2396", "2537", "661"],
+		"requests": [
+			{
+				"spritesIds": ["33"],
+				"itemId": "2543"
+			},
+			{
+				"spritesIds": ["33", "5"],
+				"itemId": "596"
+			},
+			{
+				"itemId": "2396",
+				"spritesIds": ["31", "5"]
+			},
+			{
+				"spritesIds": ["5"],
+				"itemId": "661"
+			}
+		],
+		"setId": "con-sof-tec",
+		"solution": "2543-596-2396-661",
+		"valid": true
+	},
+	"13": {
+		"id": "2024-11-21",
+		"type": "comunicação-alienígena",
+		"number": 13,
+		"attributes": [
+			{
+				"spriteId": "19",
+				"id": "hea",
+				"description": "peso, massa",
+				"itemsIds": ["116", "92", "757"],
+				"name": "Pesado"
+			},
+			{
+				"id": "mac",
+				"itemsIds": ["1639", "232", "974"],
+				"spriteId": "9",
+				"name": "Máquina",
+				"description": "tem engrenagens, usa energia, funciona"
+			},
+			{
+				"name": "Arma",
+				"itemsIds": ["147", "1013", "2528"],
+				"description": "artilharia, ofensiva, usado em combate",
+				"spriteId": "0",
+				"id": "wea"
+			}
+		],
+		"itemsIds": ["3", "166", "2523", "1929", "495", "329", "612"],
+		"requests": [
+			{
+				"spritesIds": ["19", "9", "0"],
+				"itemId": "1929"
+			},
+			{
+				"itemId": "3",
+				"spritesIds": ["19", "0"]
+			},
+			{
+				"itemId": "329",
+				"spritesIds": ["9", "0"]
+			},
+			{
+				"spritesIds": ["19", "9"],
+				"itemId": "166"
+			}
+		],
+		"setId": "hea-mac-wea",
+		"solution": "1929-3-329-166",
+		"valid": true
+	},
+	"14": {
+		"id": "2024-11-22",
+		"type": "comunicação-alienígena",
+		"number": 14,
+		"attributes": [
+			{
+				"name": "Brinquedo",
+				"spriteId": "35",
+				"id": "toy",
+				"itemsIds": ["263", "150", "1489"],
+				"description": "laser, prazer, diversão, para crianças"
+			},
+			{
+				"itemsIds": ["334", "976", "612"],
+				"name": "Longo",
+				"spriteId": "11",
+				"id": "lon",
+				"description": "alto, comprido"
+			},
+			{
+				"itemsIds": ["1920", "87", "1927"],
+				"description": "voador, alado",
+				"id": "fli",
+				"name": "Vôo",
+				"spriteId": "19"
+			}
+		],
+		"itemsIds": ["1584", "119", "77", "1929", "26", "99", "1227"],
+		"requests": [
+			{
+				"itemId": "26",
+				"spritesIds": ["35", "11"]
+			},
+			{
+				"itemId": "77",
+				"spritesIds": ["35"]
+			},
+			{
+				"itemId": "1929",
+				"spritesIds": ["11", "19"]
+			},
+			{
+				"itemId": "1584",
+				"spritesIds": ["19"]
+			}
+		],
+		"setId": "fli-lon-toy",
+		"solution": "26-77-1929-1584",
+		"valid": true
+	},
+	"15": {
+		"id": "2024-11-23",
+		"type": "comunicação-alienígena",
+		"number": 15,
+		"attributes": [
+			{
+				"itemsIds": ["4", "147", "3"],
+				"spriteId": "13",
+				"description": "artilharia, ofensiva, usado em combate",
+				"id": "wea",
+				"name": "Arma"
+			},
+			{
+				"spriteId": "37",
+				"itemsIds": ["191", "92", "44"],
+				"id": "ins",
+				"description": "utensílio",
+				"name": "Instrumento"
+			},
+			{
+				"name": "Vestimenta",
+				"description": "moda, roupas, acessórios",
+				"id": "clo",
+				"spriteId": "33",
+				"itemsIds": ["214", "126", "202"]
+			}
+		],
+		"itemsIds": ["146", "144", "343", "54", "321", "78"],
+		"requests": [
+			{
+				"spritesIds": ["13"],
+				"itemId": "146"
+			},
+			{
+				"itemId": "343",
+				"spritesIds": ["33"]
+			},
+			{
+				"spritesIds": ["13", "37"],
+				"itemId": "54"
+			},
+			{
+				"spritesIds": ["37"],
+				"itemId": "321"
+			}
+		],
+		"setId": "clo-ins-wea",
+		"solution": "146-343-54-321",
+		"valid": true
+	},
+	"16": {
+		"id": "2024-11-24",
+		"type": "comunicação-alienígena",
+		"number": 16,
+		"attributes": [
+			{
+				"description": "idoso, envelhecido, fora de moda, antigo, ultrapassado",
+				"spriteId": "34",
+				"name": "Velho",
+				"itemsIds": ["124", "127", "69"],
+				"id": "old"
+			},
+			{
+				"description": "perfume, odor, aroma, fedor",
+				"itemsIds": ["229", "302", "142"],
+				"spriteId": "0",
+				"id": "odo",
+				"name": "Cheiro"
+			},
+			{
+				"itemsIds": ["118", "266", "92"],
+				"id": "har",
+				"spriteId": "20",
+				"name": "Duro",
+				"description": "sólido, firme, rígido, inflexível"
+			}
+		],
+		"itemsIds": ["316", "251", "80", "5", "182"],
+		"requests": [
+			{
+				"itemId": "182",
+				"spritesIds": ["34"]
+			},
+			{
+				"itemId": "5",
+				"spritesIds": ["0"]
+			},
+			{
+				"itemId": "316",
+				"spritesIds": ["20"]
+			},
+			{
+				"spritesIds": ["34", "20"],
+				"itemId": "80"
+			}
+		],
+		"setId": "har-odo-old",
+		"solution": "182-5-316-80",
+		"valid": true
+	},
+	"17": {
+		"id": "2024-11-25",
+		"type": "comunicação-alienígena",
+		"number": 17,
+		"attributes": [
+			{
+				"itemsIds": ["28", "219", "116"],
+				"description": "peso, massa",
+				"id": "hea",
+				"spriteId": "14",
+				"name": "Pesado"
+			},
+			{
+				"description": "comestível, sustento, usado para comer ou cozinhar",
+				"id": "foo",
+				"name": "Comida",
+				"spriteId": "10",
+				"itemsIds": ["16", "42", "211"]
+			},
+			{
+				"itemsIds": ["37", "296", "294"],
+				"name": "Recipiente",
+				"spriteId": "26",
+				"description": "contém, armazena ou envolve itens ou substâncias",
+				"id": "con"
+			}
+		],
+		"itemsIds": ["154", "119", "262", "5", "74"],
+		"requests": [
+			{
+				"itemId": "74",
+				"spritesIds": ["14", "26"]
+			},
+			{
+				"spritesIds": ["14", "10", "26"],
+				"itemId": "154"
+			},
+			{
+				"spritesIds": ["14", "10"],
+				"itemId": "5"
+			},
+			{
+				"itemId": "119",
+				"spritesIds": ["10", "26"]
+			}
+		],
+		"setId": "con-foo-hea",
+		"solution": "74-154-5-119",
+		"valid": true
+	},
+	"18": {
+		"id": "2024-11-26",
+		"type": "comunicação-alienígena",
+		"number": 18,
+		"attributes": [
+			{
+				"itemsIds": ["145", "213", "250"],
+				"description": "borracha, material sintético",
+				"id": "pls",
+				"name": "Plástico",
+				"spriteId": "31"
+			},
+			{
+				"name": "Recipiente",
+				"spriteId": "30",
+				"description": "contém, armazena ou envolve itens ou substâncias",
+				"itemsIds": ["971", "74", "6"],
+				"id": "con"
+			},
+			{
+				"description": "tamanho, magnitude",
+				"id": "big",
+				"spriteId": "14",
+				"name": "Grande",
+				"itemsIds": ["284", "233", "116"]
+			}
+		],
+		"itemsIds": ["194", "52", "212", "226", "71", "235", "154"],
+		"requests": [
+			{
+				"itemId": "52",
+				"spritesIds": ["30", "14"]
+			},
+			{
+				"spritesIds": ["31", "30"],
+				"itemId": "235"
+			},
+			{
+				"spritesIds": ["31", "14"],
+				"itemId": "194"
+			},
+			{
+				"itemId": "154",
+				"spritesIds": ["31", "30", "14"]
+			}
+		],
+		"setId": "big-con-pls",
+		"solution": "52-235-194-154",
+		"valid": true
+	},
+	"19": {
+		"id": "2024-11-27",
+		"type": "comunicação-alienígena",
+		"number": 19,
+		"attributes": [
+			{
+				"name": "Grande",
+				"itemsIds": ["23", "116", "284"],
+				"spriteId": "36",
+				"description": "tamanho, magnitude",
+				"id": "big"
+			},
+			{
+				"id": "fli",
+				"description": "voador, alado",
+				"spriteId": "21",
+				"name": "Vôo",
+				"itemsIds": ["145", "87", "220"]
+			},
+			{
+				"name": "Conhecimento",
+				"spriteId": "13",
+				"description": "sabedoria, inteligência, ideia, dá informação",
+				"itemsIds": ["12", "184", "283"],
+				"id": "kno"
+			}
+		],
+		"itemsIds": ["286", "73", "91", "11", "219"],
+		"requests": [
+			{
+				"spritesIds": ["36", "13"],
+				"itemId": "73"
+			},
+			{
+				"spritesIds": ["36", "21"],
+				"itemId": "219"
+			},
+			{
+				"itemId": "11",
+				"spritesIds": ["13"]
+			},
+			{
+				"spritesIds": ["36"],
+				"itemId": "286"
+			}
+		],
+		"setId": "big-fli-kno",
+		"solution": "73-219-11-286",
+		"valid": true
+	},
+	"20": {
+		"id": "2024-11-28",
+		"type": "comunicação-alienígena",
+		"number": 20,
+		"attributes": [
+			{
+				"name": "Longo",
+				"id": "lon",
+				"spriteId": "34",
+				"description": "alto, comprido",
+				"itemsIds": ["31", "309", "320"]
+			},
+			{
+				"spriteId": "31",
+				"itemsIds": ["137", "130", "83"],
+				"description": "eletrônicos, digital, computador, internet",
+				"name": "Tecnologia",
+				"id": "tec"
+			},
+			{
+				"description": "sólido, firme, rígido, inflexível",
+				"spriteId": "26",
+				"name": "Duro",
+				"itemsIds": ["92", "118", "115"],
+				"id": "har"
+			}
+		],
+		"itemsIds": ["295", "175", "266", "12", "35", "156"],
+		"requests": [
+			{
+				"itemId": "156",
+				"spritesIds": ["34", "26"]
+			},
+			{
+				"itemId": "266",
+				"spritesIds": ["26"]
+			},
+			{
+				"spritesIds": ["34"],
+				"itemId": "295"
+			},
+			{
+				"itemId": "12",
+				"spritesIds": ["31", "26"]
+			}
+		],
+		"setId": "har-lon-tec",
+		"solution": "156-266-295-12",
+		"valid": true
+	},
+	"21": {
+		"id": "2024-11-29",
+		"type": "comunicação-alienígena",
+		"number": 21,
+		"attributes": [
+			{
+				"name": "Afiado",
+				"itemsIds": ["93", "146", "54"],
+				"spriteId": "16",
+				"id": "sha",
+				"description": "pontiagudo, cortante, lâmina"
+			},
+			{
+				"description": "moda, roupas, acessórios",
+				"id": "clo",
+				"spriteId": "6",
+				"name": "Vestimenta",
+				"itemsIds": ["2603", "62"]
+			},
+			{
+				"spriteId": "31",
+				"name": "Defesa",
+				"id": "def",
+				"description": "proteção, cobertura, escudo",
+				"itemsIds": ["278", "266", "56"]
+			}
+		],
+		"itemsIds": ["3", "310", "15", "45", "40"],
+		"requests": [
+			{
+				"spritesIds": ["31"],
+				"itemId": "40"
+			},
+			{
+				"spritesIds": ["16"],
+				"itemId": "3"
+			},
+			{
+				"spritesIds": ["16", "6"],
+				"itemId": "310"
+			},
+			{
+				"spritesIds": ["6", "31"],
+				"itemId": "15"
+			}
+		],
+		"setId": "clo-def-sha",
+		"solution": "40-3-310-15",
+		"valid": true
+	},
+	"22": {
+		"id": "2024-11-30",
+		"type": "comunicação-alienígena",
+		"number": 22,
+		"attributes": [
+			{
+				"id": "bri",
+				"name": "Brilho",
+				"spriteId": "9",
+				"description": "luz, brilhante, reflexivo",
+				"itemsIds": ["158", "73", "293"]
+			},
+			{
+				"description": "perfume, odor, aroma, fedor",
+				"itemsIds": ["343", "302", "201"],
+				"spriteId": "18",
+				"id": "odo",
+				"name": "Cheiro"
+			},
+			{
+				"spriteId": "6",
+				"itemsIds": ["116", "92", "56"],
+				"description": "peso, massa",
+				"id": "hea",
+				"name": "Pesado"
+			}
+		],
+		"itemsIds": ["5", "309", "260", "72", "28", "154", "39"],
+		"requests": [
+			{
+				"itemId": "28",
+				"spritesIds": ["6"]
+			},
+			{
+				"itemId": "39",
+				"spritesIds": ["9"]
+			},
+			{
+				"spritesIds": ["9", "6"],
+				"itemId": "154"
+			},
+			{
+				"itemId": "5",
+				"spritesIds": ["18", "6"]
+			}
+		],
+		"setId": "bri-hea-odo",
+		"solution": "28-39-154-5",
+		"valid": true
+	},
+	"23": {
+		"id": "2024-12-01",
+		"type": "comunicação-alienígena",
+		"number": 23,
+		"attributes": [
+			{
+				"description": "sabedoria, inteligência, ideia, dá informação",
+				"itemsIds": ["69", "138", "279"],
+				"name": "Conhecimento",
+				"id": "kno",
+				"spriteId": "22"
+			},
+			{
+				"id": "lon",
+				"itemsIds": ["133", "100", "97"],
+				"name": "Longo",
+				"spriteId": "27",
+				"description": "alto, comprido"
+			},
+			{
+				"name": "Quente",
+				"itemsIds": ["284", "39"],
+				"spriteId": "37",
+				"id": "war",
+				"description": "calor, aconchegante, temperatura"
+			}
+		],
+		"itemsIds": ["242", "205", "221", "55", "12", "73", "150"],
+		"requests": [
+			{
+				"spritesIds": ["22", "27"],
+				"itemId": "73"
+			},
+			{
+				"itemId": "221",
+				"spritesIds": ["27"]
+			},
+			{
+				"itemId": "242",
+				"spritesIds": ["27", "37"]
+			},
+			{
+				"itemId": "12",
+				"spritesIds": ["22"]
+			}
+		],
+		"setId": "kno-lon-war",
+		"solution": "73-221-242-12",
+		"valid": true
+	},
+	"24": {
+		"id": "2024-12-02",
+		"type": "comunicação-alienígena",
+		"number": 24,
+		"attributes": [
+			{
+				"spriteId": "14",
+				"itemsIds": ["284", "127", "106"],
+				"description": "tamanho, magnitude",
+				"id": "big",
+				"name": "Grande"
+			},
+			{
+				"itemsIds": ["455", "168", "274"],
+				"description": "alto, comprido",
+				"spriteId": "17",
+				"name": "Longo",
+				"id": "lon"
+			},
+			{
+				"spriteId": "26",
+				"itemsIds": ["223", "59", "69"],
+				"name": "Humano",
+				"id": "hum",
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas"
+			}
+		],
+		"itemsIds": ["203", "142", "308", "286", "73"],
+		"requests": [
+			{
+				"spritesIds": ["17", "26"],
+				"itemId": "203"
+			},
+			{
+				"itemId": "73",
+				"spritesIds": ["14", "17"]
+			},
+			{
+				"spritesIds": ["26"],
+				"itemId": "142"
+			},
+			{
+				"spritesIds": ["14"],
+				"itemId": "286"
+			}
+		],
+		"setId": "big-hum-lon",
+		"solution": "203-73-142-286",
+		"valid": true
+	},
+	"25": {
+		"id": "2024-12-03",
+		"type": "comunicação-alienígena",
+		"number": 25,
+		"attributes": [
+			{
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"id": "hum",
+				"itemsIds": ["234", "318", "224"],
+				"spriteId": "1",
+				"name": "Humano"
+			},
+			{
+				"id": "odo",
+				"description": "perfume, odor, aroma, fedor",
+				"itemsIds": ["249", "95", "229"],
+				"spriteId": "17",
+				"name": "Cheiro"
+			},
+			{
+				"description": "poder, energia, eletricidade",
+				"id": "pow",
+				"name": "Força",
+				"itemsIds": ["158", "154", "141"],
+				"spriteId": "19"
+			}
+		],
+		"itemsIds": ["73", "222", "91", "87", "334", "142", "302"],
+		"requests": [
+			{
+				"itemId": "73",
+				"spritesIds": ["19"]
+			},
+			{
+				"itemId": "222",
+				"spritesIds": ["1"]
+			},
+			{
+				"itemId": "302",
+				"spritesIds": ["17"]
+			},
+			{
+				"itemId": "142",
+				"spritesIds": ["1", "17"]
+			}
+		],
+		"setId": "hum-odo-pow",
+		"solution": "73-222-302-142",
+		"valid": true
+	},
+	"26": {
+		"id": "2024-12-04",
+		"type": "comunicação-alienígena",
+		"number": 26,
+		"attributes": [
+			{
+				"id": "war",
+				"name": "Quente",
+				"itemsIds": ["242"],
+				"description": "calor, aconchegante, temperatura",
+				"spriteId": "23"
+			},
+			{
+				"name": "Pequeno",
+				"spriteId": "29",
+				"itemsIds": ["59"],
+				"description": "pequeno, compacto",
+				"id": "sma"
+			},
+			{
+				"id": "pls",
+				"itemsIds": ["159", "297", "285"],
+				"description": "borracha, material sintético",
+				"spriteId": "30",
+				"name": "Plástico"
+			}
+		],
+		"itemsIds": ["39", "205", "58", "2", "227", "114", "254"],
+		"requests": [
+			{
+				"itemId": "58",
+				"spritesIds": ["29", "30"]
+			},
+			{
+				"itemId": "227",
+				"spritesIds": ["23", "30"]
+			},
+			{
+				"itemId": "205",
+				"spritesIds": ["30"]
+			},
+			{
+				"itemId": "39",
+				"spritesIds": ["23"]
+			}
+		],
+		"setId": "pls-sma-war",
+		"solution": "58-227-205-39",
+		"valid": true
+	},
+	"27": {
+		"id": "2024-12-05",
+		"type": "comunicação-alienígena",
+		"number": 27,
+		"attributes": [
+			{
+				"itemsIds": ["1442", "50", "92"],
+				"name": "Instrumento",
+				"description": "utensílio, suporte",
+				"spriteId": "32",
+				"id": "ins"
+			},
+			{
+				"id": "hol",
+				"description": "possui lacunas, perfurações ou aberturas",
+				"name": "Buracos",
+				"spriteId": "1",
+				"itemsIds": ["205", "2273", "180"]
+			},
+			{
+				"spriteId": "26",
+				"itemsIds": ["69", "274", "166"],
+				"id": "def",
+				"description": "proteção, cobertura, escudo",
+				"name": "Defesa"
+			}
+		],
+		"itemsIds": ["193", "312", "18", "340", "301", "277", "40"],
+		"requests": [
+			{
+				"spritesIds": ["32", "1"],
+				"itemId": "193"
+			},
+			{
+				"itemId": "18",
+				"spritesIds": ["32", "26"]
+			},
+			{
+				"spritesIds": ["1", "26"],
+				"itemId": "312"
+			},
+			{
+				"spritesIds": ["32", "1", "26"],
+				"itemId": "40"
+			}
+		],
+		"setId": "def-hol-ins",
+		"solution": "193-18-312-40",
+		"valid": true
+	},
+	"28": {
+		"id": "2024-12-06",
+		"type": "comunicação-alienígena",
+		"number": 28,
+		"attributes": [
+			{
+				"itemsIds": ["118", "322", "316"],
+				"id": "har",
+				"spriteId": "2",
+				"description": "sólido, firme, rígido, inflexível",
+				"name": "Duro"
+			},
+			{
+				"itemsIds": ["232", "83", "196"],
+				"description": "tem engrenagens, usa energia, funciona",
+				"name": "Máquina",
+				"spriteId": "23",
+				"id": "mac"
+			},
+			{
+				"spriteId": "28",
+				"id": "odo",
+				"description": "perfume, odor, aroma, fedor",
+				"itemsIds": ["201", "302", "343"],
+				"name": "Cheiro"
+			}
+		],
+		"itemsIds": ["310", "182", "5", "12", "233", "266"],
+		"requests": [
+			{
+				"itemId": "12",
+				"spritesIds": ["2", "23"]
+			},
+			{
+				"spritesIds": ["23"],
+				"itemId": "310"
+			},
+			{
+				"itemId": "5",
+				"spritesIds": ["28"]
+			},
+			{
+				"itemId": "266",
+				"spritesIds": ["2"]
+			}
+		],
+		"setId": "har-mac-odo",
+		"solution": "12-310-5-266",
+		"valid": true
+	},
+	"29": {
+		"id": "2024-12-07",
+		"type": "comunicação-alienígena",
+		"number": 29,
+		"attributes": [
+			{
+				"name": "Duro",
+				"description": "sólido, firme, rígido, inflexível",
+				"id": "har",
+				"spriteId": "23",
+				"itemsIds": ["322", "266", "115"]
+			},
+			{
+				"itemsIds": ["42", "71", "212"],
+				"spriteId": "10",
+				"description": "comestível, sustento, usado para comer ou cozinhar",
+				"id": "foo",
+				"name": "Comida"
+			},
+			{
+				"itemsIds": ["146", "93", "273"],
+				"description": "pontiagudo, cortante, lâmina",
+				"spriteId": "4",
+				"id": "sha",
+				"name": "Afiado"
+			}
+		],
+		"itemsIds": ["316", "53", "112", "158", "125", "183", "228"],
+		"requests": [
+			{
+				"spritesIds": ["10", "4"],
+				"itemId": "125"
+			},
+			{
+				"spritesIds": ["4"],
+				"itemId": "53"
+			},
+			{
+				"spritesIds": ["23"],
+				"itemId": "316"
+			},
+			{
+				"itemId": "228",
+				"spritesIds": ["10"]
+			}
+		],
+		"setId": "foo-har-sha",
+		"solution": "125-53-316-228",
+		"valid": true
+	},
+	"30": {
+		"id": "2024-12-08",
+		"type": "comunicação-alienígena",
+		"number": 30,
+		"attributes": [
+			{
+				"id": "bri",
+				"spriteId": "37",
+				"description": "luz, brilhante, reflexivo",
+				"name": "Brilho",
+				"itemsIds": ["39", "293", "242"]
+			},
+			{
+				"name": "Planta",
+				"spriteId": "26",
+				"description": "vegetação, flora, verde, madeira",
+				"id": "pla",
+				"itemsIds": ["236", "173", "125"]
+			},
+			{
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"spriteId": "11",
+				"itemsIds": ["35", "182", "52"],
+				"name": "Construção",
+				"id": "bui"
+			}
+		],
+		"itemsIds": ["144", "73", "20", "131", "168", "2280", "291"],
+		"requests": [
+			{
+				"itemId": "20",
+				"spritesIds": ["37", "26"]
+			},
+			{
+				"itemId": "2280",
+				"spritesIds": ["26"]
+			},
+			{
+				"spritesIds": ["37", "11"],
+				"itemId": "73"
+			},
+			{
+				"spritesIds": ["11"],
+				"itemId": "144"
+			}
+		],
+		"setId": "bri-bui-pla",
+		"solution": "20-2280-73-144",
+		"valid": true
+	},
+	"31": {
+		"id": "2024-12-09",
+		"type": "comunicação-alienígena",
+		"number": 31,
+		"attributes": [
+			{
+				"description": "tamanho, magnitude",
+				"spriteId": "27",
+				"id": "big",
+				"itemsIds": ["116", "284", "127"],
+				"name": "Grande"
+			},
+			{
+				"description": "alto, comprido",
+				"spriteId": "31",
+				"name": "Longo",
+				"id": "lon",
+				"itemsIds": ["161", "455", "274"]
+			},
+			{
+				"description": "circular, esfera, oval",
+				"spriteId": "2",
+				"id": "rou",
+				"itemsIds": ["118", "977", "48"],
+				"name": "Redondo"
+			}
+		],
+		"itemsIds": ["275", "106", "169", "194", "23", "150"],
+		"requests": [
+			{
+				"itemId": "194",
+				"spritesIds": ["27", "31", "2"]
+			},
+			{
+				"itemId": "169",
+				"spritesIds": ["31", "2"]
+			},
+			{
+				"spritesIds": ["27", "31"],
+				"itemId": "23"
+			},
+			{
+				"itemId": "106",
+				"spritesIds": ["27", "2"]
+			}
+		],
+		"setId": "big-lon-rou",
+		"solution": "194-169-23-106",
+		"valid": true
+	},
+	"32": {
+		"id": "2024-12-10",
+		"type": "comunicação-alienígena",
+		"number": 32,
+		"attributes": [
+			{
+				"itemsIds": ["28", "154", "92"],
+				"name": "Pesado",
+				"id": "hea",
+				"description": "peso, massa",
+				"spriteId": "23"
+			},
+			{
+				"description": "vida, ser, organismo, animado",
+				"id": "ali",
+				"name": "Vivo",
+				"spriteId": "29",
+				"itemsIds": ["88", "224", "300"]
+			},
+			{
+				"id": "bui",
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"itemsIds": ["127", "107", "35"],
+				"spriteId": "17",
+				"name": "Construção"
+			}
+		],
+		"itemsIds": ["975", "302", "116", "51", "7", "260", "173"],
+		"requests": [
+			{
+				"itemId": "51",
+				"spritesIds": ["23"]
+			},
+			{
+				"itemId": "7",
+				"spritesIds": ["23", "17"]
+			},
+			{
+				"spritesIds": ["23", "29"],
+				"itemId": "116"
+			},
+			{
+				"itemId": "173",
+				"spritesIds": ["29"]
+			}
+		],
+		"setId": "ali-bui-hea",
+		"solution": "51-7-116-173",
+		"valid": true
+	},
+	"33": {
+		"id": "2024-12-11",
+		"type": "comunicação-alienígena",
+		"number": 33,
+		"attributes": [
+			{
+				"id": "wri",
+				"description": "texto, letras ou símbolos usados para comunicação",
+				"itemsIds": ["279", "124", "251"],
+				"spriteId": "19",
+				"name": "Escrita"
+			},
+			{
+				"itemsIds": ["23", "54", "37"],
+				"name": "Instrumento",
+				"id": "ins",
+				"description": "utensílio, suporte",
+				"spriteId": "8"
+			},
+			{
+				"description": "sólido, firme, rígido, inflexível",
+				"spriteId": "21",
+				"id": "har",
+				"name": "Duro",
+				"itemsIds": ["101", "56", "118"]
+			}
+		],
+		"itemsIds": ["184", "316", "11", "28", "90"],
+		"requests": [
+			{
+				"itemId": "184",
+				"spritesIds": ["19", "8"]
+			},
+			{
+				"itemId": "28",
+				"spritesIds": ["8", "21"]
+			},
+			{
+				"itemId": "11",
+				"spritesIds": ["19"]
+			},
+			{
+				"itemId": "316",
+				"spritesIds": ["21"]
+			}
+		],
+		"setId": "har-ins-wri",
+		"solution": "184-28-11-316",
+		"valid": true
+	},
+	"34": {
+		"id": "2024-12-12",
+		"type": "comunicação-alienígena",
+		"number": 34,
+		"attributes": [
+			{
+				"id": "har",
+				"itemsIds": ["101", "115", "92"],
+				"spriteId": "22",
+				"description": "sólido, firme, rígido, inflexível",
+				"name": "Duro"
+			},
+			{
+				"itemsIds": ["75", "198", "82"],
+				"description": "proteção, cobertura, escudo",
+				"id": "def",
+				"name": "Defesa",
+				"spriteId": "24"
+			},
+			{
+				"spriteId": "26",
+				"id": "wri",
+				"name": "Escrita",
+				"description": "texto, letras ou símbolos usados para comunicação",
+				"itemsIds": ["287", "124", "279"]
+			}
+		],
+		"itemsIds": ["278", "284", "324", "78", "40"],
+		"requests": [
+			{
+				"itemId": "40",
+				"spritesIds": ["24", "26"]
+			},
+			{
+				"spritesIds": ["24"],
+				"itemId": "278"
+			},
+			{
+				"itemId": "78",
+				"spritesIds": ["26"]
+			},
+			{
+				"spritesIds": ["22", "24"],
+				"itemId": "324"
+			}
+		],
+		"setId": "def-har-wri",
+		"solution": "40-278-78-324",
+		"valid": true
+	},
+	"35": {
+		"id": "2024-12-13",
+		"type": "comunicação-alienígena",
+		"number": 35,
+		"attributes": [
+			{
+				"itemsIds": ["39", "242"],
+				"description": "calor, aconchegante, temperatura",
+				"spriteId": "3",
+				"name": "Quente",
+				"id": "war"
+			},
+			{
+				"id": "clo",
+				"name": "Vestimenta",
+				"itemsIds": ["214", "343", "126"],
+				"description": "moda, roupas, acessórios",
+				"spriteId": "22"
+			},
+			{
+				"itemsIds": ["77", "263", "270"],
+				"spriteId": "37",
+				"name": "Brinquedo",
+				"id": "toy",
+				"description": "laser, prazer, diversão, para crianças"
+			}
+		],
+		"itemsIds": ["76", "168", "1", "8", "307", "200", "132"],
+		"requests": [
+			{
+				"itemId": "200",
+				"spritesIds": ["37"]
+			},
+			{
+				"spritesIds": ["3", "22"],
+				"itemId": "132"
+			},
+			{
+				"spritesIds": ["22", "37"],
+				"itemId": "8"
+			},
+			{
+				"itemId": "76",
+				"spritesIds": ["22"]
+			}
+		],
+		"setId": "clo-toy-war",
+		"solution": "200-132-8-76",
+		"valid": true
+	},
+	"36": {
+		"id": "2024-12-14",
+		"type": "comunicação-alienígena",
+		"number": 36,
+		"attributes": [
+			{
+				"itemsIds": ["95", "229", "302"],
+				"spriteId": "13",
+				"description": "perfume, odor, aroma, fedor",
+				"id": "odo",
+				"name": "Cheiro"
+			},
+			{
+				"description": "tamanho, magnitude",
+				"spriteId": "8",
+				"name": "Grande",
+				"itemsIds": ["182", "23", "286"],
+				"id": "big"
+			},
+			{
+				"spriteId": "19",
+				"name": "Duro",
+				"itemsIds": ["322", "92", "115"],
+				"id": "har",
+				"description": "sólido, firme, rígido, inflexível"
+			}
+		],
+		"itemsIds": ["186", "316", "127", "54", "201", "35"],
+		"requests": [
+			{
+				"itemId": "316",
+				"spritesIds": ["19"]
+			},
+			{
+				"itemId": "35",
+				"spritesIds": ["13", "8"]
+			},
+			{
+				"itemId": "201",
+				"spritesIds": ["13"]
+			},
+			{
+				"spritesIds": ["8"],
+				"itemId": "127"
+			}
+		],
+		"setId": "big-har-odo",
+		"solution": "316-35-201-127",
+		"valid": true
+	},
+	"37": {
+		"id": "2024-12-15",
+		"type": "comunicação-alienígena",
+		"number": 37,
+		"attributes": [
+			{
+				"spriteId": "32",
+				"itemsIds": ["127", "35", "144"],
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"id": "bui",
+				"name": "Construção"
+			},
+			{
+				"id": "too",
+				"description": "instrumento, dispositivo, implemento",
+				"spriteId": "0",
+				"itemsIds": ["240", "288", "156"],
+				"name": "Ferramenta"
+			},
+			{
+				"itemsIds": ["226", "154", "79"],
+				"name": "Frio",
+				"spriteId": "4",
+				"id": "col",
+				"description": "baixa temperatura, gelado, refrescante"
+			}
+		],
+		"itemsIds": ["170", "298", "291", "327", "205", "265", "182"],
+		"requests": [
+			{
+				"itemId": "298",
+				"spritesIds": ["32", "0"]
+			},
+			{
+				"itemId": "182",
+				"spritesIds": ["32"]
+			},
+			{
+				"spritesIds": ["0"],
+				"itemId": "170"
+			},
+			{
+				"spritesIds": ["0", "4"],
+				"itemId": "327"
+			}
+		],
+		"setId": "bui-col-too",
+		"solution": "298-182-170-327",
+		"valid": true
+	},
+	"38": {
+		"id": "2024-12-16",
+		"type": "comunicação-alienígena",
+		"number": 38,
+		"attributes": [
+			{
+				"name": "Brilho",
+				"id": "bri",
+				"spriteId": "29",
+				"description": "luz, brilhante, reflexivo",
+				"itemsIds": ["39", "177", "293"]
+			},
+			{
+				"spriteId": "26",
+				"id": "fli",
+				"description": "voador, alado",
+				"name": "Vôo",
+				"itemsIds": ["300", "181", "194"]
+			},
+			{
+				"spriteId": "19",
+				"itemsIds": ["201", "210", "302"],
+				"id": "odo",
+				"description": "perfume, odor, aroma, fedor",
+				"name": "Cheiro"
+			}
+		],
+		"itemsIds": ["87", "158", "343", "296", "41", "222", "23"],
+		"requests": [
+			{
+				"spritesIds": ["26"],
+				"itemId": "87"
+			},
+			{
+				"spritesIds": ["29"],
+				"itemId": "158"
+			},
+			{
+				"itemId": "343",
+				"spritesIds": ["19"]
+			},
+			{
+				"spritesIds": ["26", "19"],
+				"itemId": "41"
+			}
+		],
+		"setId": "bri-fli-odo",
+		"solution": "87-158-343-41",
+		"valid": true
+	},
+	"39": {
+		"id": "2024-12-17",
+		"type": "comunicação-alienígena",
+		"number": 39,
+		"attributes": [
+			{
+				"id": "bui",
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"itemsIds": ["107", "73", "127"],
+				"name": "Construção",
+				"spriteId": "6"
+			},
+			{
+				"itemsIds": ["113", "90", "71"],
+				"description": "comestível, sustento, usado para comer ou cozinhar",
+				"spriteId": "34",
+				"id": "foo",
+				"name": "Comida"
+			},
+			{
+				"itemsIds": ["101", "56", "316"],
+				"id": "har",
+				"name": "Duro",
+				"spriteId": "25",
+				"description": "sólido, firme, rígido, inflexível"
+			}
+		],
+		"itemsIds": ["181", "7", "42", "11", "36", "35", "115"],
+		"requests": [
+			{
+				"spritesIds": ["6"],
+				"itemId": "35"
+			},
+			{
+				"itemId": "42",
+				"spritesIds": ["34"]
+			},
+			{
+				"itemId": "7",
+				"spritesIds": ["6", "25"]
+			},
+			{
+				"itemId": "115",
+				"spritesIds": ["25"]
+			}
+		],
+		"setId": "bui-foo-har",
+		"solution": "35-42-7-115",
+		"valid": true
+	},
+	"40": {
+		"id": "2024-12-18",
+		"type": "comunicação-alienígena",
+		"number": 40,
+		"attributes": [
+			{
+				"id": "pla",
+				"description": "vegetação, flora, verde, madeira",
+				"itemsIds": ["99", "173", "106"],
+				"spriteId": "6",
+				"name": "Planta"
+			},
+			{
+				"spriteId": "3",
+				"name": "Escrita",
+				"id": "wri",
+				"description": "texto, letras ou símbolos usados para comunicação",
+				"itemsIds": ["315", "124", "11"]
+			},
+			{
+				"id": "fla",
+				"spriteId": "13",
+				"itemsIds": ["2670", "335", "290"],
+				"description": "superfície, liso, nivelado",
+				"name": "Plano"
+			}
+		],
+		"itemsIds": ["218", "188", "89", "287", "98", "320", "187"],
+		"requests": [
+			{
+				"itemId": "98",
+				"spritesIds": ["13"]
+			},
+			{
+				"spritesIds": ["3", "13"],
+				"itemId": "320"
+			},
+			{
+				"spritesIds": ["3"],
+				"itemId": "287"
+			},
+			{
+				"spritesIds": ["6"],
+				"itemId": "188"
+			}
+		],
+		"setId": "fla-pla-wri",
+		"solution": "98-320-287-188",
+		"valid": true
+	},
+	"41": {
+		"id": "2024-12-19",
+		"type": "comunicação-alienígena",
+		"number": 41,
+		"attributes": [
+			{
+				"name": "Longo",
+				"spriteId": "5",
+				"description": "alto, comprido",
+				"id": "lon",
+				"itemsIds": ["320", "298", "169"]
+			},
+			{
+				"name": "Máquina",
+				"spriteId": "9",
+				"description": "tem engrenagens, usa energia, funciona",
+				"id": "mac",
+				"itemsIds": ["137", "131", "315"]
+			},
+			{
+				"name": "Recipiente",
+				"id": "con",
+				"description": "contém, armazena ou envolve itens ou substâncias",
+				"itemsIds": ["119", "294", "253"],
+				"spriteId": "0"
+			}
+		],
+		"itemsIds": ["133", "73", "154", "228", "162", "230", "153"],
+		"requests": [
+			{
+				"itemId": "228",
+				"spritesIds": ["5", "0"]
+			},
+			{
+				"itemId": "73",
+				"spritesIds": ["5", "9"]
+			},
+			{
+				"itemId": "154",
+				"spritesIds": ["9", "0"]
+			},
+			{
+				"itemId": "133",
+				"spritesIds": ["5", "9", "0"]
+			}
+		],
+		"setId": "con-lon-mac",
+		"solution": "228-73-154-133",
+		"valid": true
+	},
+	"42": {
+		"id": "2024-12-20",
+		"type": "comunicação-alienígena",
+		"number": 42,
+		"attributes": [
+			{
+				"description": "sólido, firme, rígido, inflexível",
+				"spriteId": "20",
+				"name": "Duro",
+				"id": "har",
+				"itemsIds": ["80", "101", "115"]
+			},
+			{
+				"id": "too",
+				"name": "Ferramenta",
+				"description": "instrumento, dispositivo, implemento",
+				"spriteId": "19",
+				"itemsIds": ["66", "329", "170"]
+			},
+			{
+				"name": "Tecnologia",
+				"id": "tec",
+				"description": "eletrônicos, digital, computador, internet",
+				"itemsIds": ["184", "137"],
+				"spriteId": "28"
+			}
+		],
+		"itemsIds": ["7", "281", "316", "89", "232"],
+		"requests": [
+			{
+				"itemId": "89",
+				"spritesIds": ["19"]
+			},
+			{
+				"itemId": "232",
+				"spritesIds": ["19", "28"]
+			},
+			{
+				"spritesIds": ["20", "19"],
+				"itemId": "7"
+			},
+			{
+				"spritesIds": ["20"],
+				"itemId": "316"
+			}
+		],
+		"setId": "har-tec-too",
+		"solution": "89-232-7-316",
+		"valid": true
+	},
+	"43": {
+		"id": "2024-12-21",
+		"type": "comunicação-alienígena",
+		"number": 43,
+		"attributes": [
+			{
+				"name": "Vôo",
+				"itemsIds": ["145", "230", "220"],
+				"description": "voador, alado",
+				"id": "fli",
+				"spriteId": "37"
+			},
+			{
+				"description": "instrumento, dispositivo, implemento",
+				"itemsIds": ["329", "288", "89"],
+				"spriteId": "0",
+				"id": "too",
+				"name": "Ferramenta"
+			},
+			{
+				"spriteId": "12",
+				"itemsIds": ["94", "39", "340"],
+				"name": "Natural",
+				"id": "nat",
+				"description": "encontrado na natureza, não artificial, orgânico"
+			}
+		],
+		"itemsIds": ["194", "156", "115", "300", "239", "167"],
+		"requests": [
+			{
+				"itemId": "115",
+				"spritesIds": ["12"]
+			},
+			{
+				"spritesIds": ["37"],
+				"itemId": "194"
+			},
+			{
+				"itemId": "156",
+				"spritesIds": ["0"]
+			},
+			{
+				"spritesIds": ["37", "12"],
+				"itemId": "300"
+			}
+		],
+		"setId": "fli-nat-too",
+		"solution": "115-194-156-300",
+		"valid": true
+	},
+	"44": {
+		"id": "2024-12-22",
+		"type": "comunicação-alienígena",
+		"number": 44,
+		"attributes": [
+			{
+				"description": "faz som naturalmente ou por design ou interação",
+				"id": "sou",
+				"spriteId": "15",
+				"itemsIds": ["219", "303", "314"],
+				"name": "Som"
+			},
+			{
+				"description": "circular, esfera, oval",
+				"spriteId": "17",
+				"name": "Redondo",
+				"id": "rou",
+				"itemsIds": ["189", "106", "138"]
+			},
+			{
+				"name": "Bonito",
+				"itemsIds": ["182", "101", "31"],
+				"spriteId": "37",
+				"description": "atraente, charmoso, colorido, festivo, decorativo",
+				"id": "bea"
+			}
+		],
+		"itemsIds": ["52", "34", "170", "296", "272", "66", "246"],
+		"requests": [
+			{
+				"itemId": "246",
+				"spritesIds": ["15", "37"]
+			},
+			{
+				"itemId": "296",
+				"spritesIds": ["17", "37"]
+			},
+			{
+				"itemId": "52",
+				"spritesIds": ["15", "17", "37"]
+			},
+			{
+				"itemId": "34",
+				"spritesIds": ["15", "17"]
+			}
+		],
+		"setId": "bea-rou-sou",
+		"solution": "246-296-52-34",
+		"valid": true
+	},
+	"45": {
+		"id": "2024-12-23",
+		"type": "comunicação-alienígena",
+		"number": 45,
+		"attributes": [
+			{
+				"name": "Comida",
+				"itemsIds": ["48", "99", "210"],
+				"description": "comestível, sustento, usado para comer ou cozinhar",
+				"spriteId": "24",
+				"id": "foo"
+			},
+			{
+				"itemsIds": ["232", "279", "69"],
+				"spriteId": "1",
+				"description": "sabedoria, inteligência, ideia, dá informação",
+				"id": "kno",
+				"name": "Conhecimento"
+			},
+			{
+				"spriteId": "16",
+				"name": "Brinquedo",
+				"itemsIds": ["220", "150", "190"],
+				"description": "laser, prazer, diversão, para crianças",
+				"id": "toy"
+			}
+		],
+		"itemsIds": ["146", "77", "100", "47", "29", "281"],
+		"requests": [
+			{
+				"itemId": "47",
+				"spritesIds": ["24"]
+			},
+			{
+				"itemId": "281",
+				"spritesIds": ["24", "1"]
+			},
+			{
+				"itemId": "29",
+				"spritesIds": ["1"]
+			},
+			{
+				"spritesIds": ["1", "16"],
+				"itemId": "77"
+			}
+		],
+		"setId": "foo-kno-toy",
+		"solution": "47-281-29-77",
+		"valid": true
+	},
+	"46": {
+		"id": "2024-12-24",
+		"type": "comunicação-alienígena",
+		"number": 46,
+		"attributes": [
+			{
+				"id": "bri",
+				"description": "luz, brilhante, reflexivo",
+				"itemsIds": ["73", "158", "242"],
+				"name": "Brilho",
+				"spriteId": "16"
+			},
+			{
+				"id": "nat",
+				"description": "encontrado na natureza, não artificial, orgânico",
+				"itemsIds": ["1252", "271", "248"],
+				"name": "Natural",
+				"spriteId": "27"
+			},
+			{
+				"description": "moda, roupas, acessórios",
+				"spriteId": "37",
+				"name": "Vestimenta",
+				"itemsIds": ["216", "126", "214"],
+				"id": "clo"
+			}
+		],
+		"itemsIds": ["226", "230", "273", "47", "2264", "39", "141"],
+		"requests": [
+			{
+				"itemId": "226",
+				"spritesIds": ["27"]
+			},
+			{
+				"spritesIds": ["16", "37"],
+				"itemId": "141"
+			},
+			{
+				"spritesIds": ["16", "27"],
+				"itemId": "39"
+			},
+			{
+				"spritesIds": ["37"],
+				"itemId": "2264"
+			}
+		],
+		"setId": "bri-clo-nat",
+		"solution": "226-141-39-2264",
+		"valid": true
+	},
+	"47": {
+		"id": "2024-12-25",
+		"type": "comunicação-alienígena",
+		"number": 47,
+		"attributes": [
+			{
+				"itemsIds": ["302", "201", "95"],
+				"name": "Cheiro",
+				"description": "perfume, odor, aroma, fedor",
+				"id": "odo",
+				"spriteId": "26"
+			},
+			{
+				"itemsIds": ["322", "199", "93"],
+				"spriteId": "15",
+				"id": "met",
+				"description": "tem partes metálicas brilhantes, feito de metal",
+				"name": "Metal"
+			},
+			{
+				"description": "superfície, liso, nivelado",
+				"spriteId": "7",
+				"id": "fla",
+				"itemsIds": ["311", "247", "98"],
+				"name": "Plano"
+			}
+		],
+		"itemsIds": ["2265", "236", "142", "971", "167", "241", "156"],
+		"requests": [
+			{
+				"spritesIds": ["26"],
+				"itemId": "142"
+			},
+			{
+				"itemId": "241",
+				"spritesIds": ["26", "7"]
+			},
+			{
+				"spritesIds": ["15", "7"],
+				"itemId": "167"
+			},
+			{
+				"spritesIds": ["15"],
+				"itemId": "156"
+			}
+		],
+		"setId": "fla-met-odo",
+		"solution": "142-241-167-156",
+		"valid": true
+	},
+	"48": {
+		"id": "2024-12-26",
+		"type": "comunicação-alienígena",
+		"number": 48,
+		"attributes": [
+			{
+				"itemsIds": ["89", "273", "171"],
+				"description": "pontiagudo, cortante, lâmina",
+				"name": "Afiado",
+				"id": "sha",
+				"spriteId": "4"
+			},
+			{
+				"id": "val",
+				"description": "precioso, raro, dinheiro, valor sentimental",
+				"itemsIds": ["56", "118", "80"],
+				"spriteId": "34",
+				"name": "Valioso"
+			},
+			{
+				"id": "fla",
+				"itemsIds": ["319", "311", "77"],
+				"description": "superfície, liso, nivelado",
+				"spriteId": "36",
+				"name": "Plano"
+			}
+		],
+		"itemsIds": ["20", "112", "3", "95", "52", "146", "184"],
+		"requests": [
+			{
+				"spritesIds": ["4"],
+				"itemId": "146"
+			},
+			{
+				"itemId": "112",
+				"spritesIds": ["34", "36"]
+			},
+			{
+				"itemId": "3",
+				"spritesIds": ["4", "36"]
+			},
+			{
+				"spritesIds": ["36"],
+				"itemId": "184"
+			}
+		],
+		"setId": "fla-sha-val",
+		"solution": "146-112-3-184",
+		"valid": true
+	},
+	"49": {
+		"id": "2024-12-27",
+		"type": "comunicação-alienígena",
+		"number": 49,
+		"attributes": [
+			{
+				"description": "pontiagudo, cortante, lâmina",
+				"id": "sha",
+				"spriteId": "7",
+				"name": "Afiado",
+				"itemsIds": ["146", "53", "89"]
+			},
+			{
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"itemsIds": ["127", "73", "52"],
+				"name": "Construção",
+				"id": "bui",
+				"spriteId": "19"
+			},
+			{
+				"itemsIds": ["135", "230", "300"],
+				"description": "vida, ser, organismo, animado",
+				"id": "ali",
+				"name": "Vivo",
+				"spriteId": "8"
+			}
+		],
+		"itemsIds": ["151", "293", "107", "148", "54"],
+		"requests": [
+			{
+				"itemId": "151",
+				"spritesIds": ["7", "8"]
+			},
+			{
+				"itemId": "107",
+				"spritesIds": ["19"]
+			},
+			{
+				"itemId": "148",
+				"spritesIds": ["8"]
+			},
+			{
+				"spritesIds": ["7"],
+				"itemId": "54"
+			}
+		],
+		"setId": "ali-bui-sha",
+		"solution": "151-107-148-54",
+		"valid": true
+	},
+	"50": {
+		"id": "2024-12-28",
+		"type": "comunicação-alienígena",
+		"number": 50,
+		"attributes": [
+			{
+				"description": "utensílio, suporte",
+				"itemsIds": ["60", "321", "75"],
+				"name": "Instrumento",
+				"id": "ins",
+				"spriteId": "9"
+			},
+			{
+				"id": "val",
+				"itemsIds": ["80", "112", "305"],
+				"name": "Valioso",
+				"spriteId": "29",
+				"description": "precioso, raro, dinheiro, valor sentimental"
+			},
+			{
+				"itemsIds": ["166", "1252", "303"],
+				"name": "Som",
+				"spriteId": "23",
+				"id": "sou",
+				"description": "faz som naturalmente ou por design ou interação"
+			}
+		],
+		"itemsIds": ["337", "23", "87", "308", "130", "314"],
+		"requests": [
+			{
+				"itemId": "130",
+				"spritesIds": ["29", "23"]
+			},
+			{
+				"spritesIds": ["9", "29", "23"],
+				"itemId": "23"
+			},
+			{
+				"spritesIds": ["9", "29"],
+				"itemId": "337"
+			},
+			{
+				"itemId": "314",
+				"spritesIds": ["9", "23"]
+			}
+		],
+		"setId": "ins-sou-val",
+		"solution": "130-23-337-314",
+		"valid": true
+	},
+	"51": {
+		"id": "2024-12-29",
+		"type": "comunicação-alienígena",
+		"number": 51,
+		"attributes": [
+			{
+				"id": "met",
+				"itemsIds": ["120", "4", "305"],
+				"description": "tem partes metálicas brilhantes, feito de metal",
+				"name": "Metal",
+				"spriteId": "16"
+			},
+			{
+				"id": "fli",
+				"name": "Vôo",
+				"description": "voador, alado",
+				"spriteId": "5",
+				"itemsIds": ["87", "230", "194"]
+			},
+			{
+				"itemsIds": ["197", "60", "192"],
+				"name": "Instrumento",
+				"description": "utensílio, suporte",
+				"spriteId": "37",
+				"id": "ins"
+			}
+		],
+		"itemsIds": ["193", "329", "269", "270", "67", "323", "23"],
+		"requests": [
+			{
+				"spritesIds": ["37"],
+				"itemId": "23"
+			},
+			{
+				"itemId": "67",
+				"spritesIds": ["16", "5"]
+			},
+			{
+				"itemId": "193",
+				"spritesIds": ["16", "37"]
+			},
+			{
+				"itemId": "329",
+				"spritesIds": ["16"]
+			}
+		],
+		"setId": "fli-ins-met",
+		"solution": "23-67-193-329",
+		"valid": true
+	},
+	"52": {
+		"id": "2024-12-30",
+		"type": "comunicação-alienígena",
+		"number": 52,
+		"attributes": [
+			{
+				"spriteId": "18",
+				"name": "Construção",
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"id": "bui",
+				"itemsIds": ["144", "127", "107"]
+			},
+			{
+				"name": "Brilho",
+				"description": "luz, brilhante, reflexivo",
+				"itemsIds": ["242", "293", "177"],
+				"spriteId": "19",
+				"id": "bri"
+			},
+			{
+				"spriteId": "21",
+				"itemsIds": ["228", "16", "187"],
+				"description": "comestível, sustento, usado para comer ou cozinhar",
+				"name": "Comida",
+				"id": "foo"
+			}
+		],
+		"itemsIds": ["158", "52", "154", "129", "73", "971"],
+		"requests": [
+			{
+				"itemId": "52",
+				"spritesIds": ["18"]
+			},
+			{
+				"itemId": "73",
+				"spritesIds": ["18", "19"]
+			},
+			{
+				"itemId": "158",
+				"spritesIds": ["19"]
+			},
+			{
+				"itemId": "154",
+				"spritesIds": ["19", "21"]
+			}
+		],
+		"setId": "bri-bui-foo",
+		"solution": "52-73-158-154",
+		"valid": true
+	},
+	"53": {
+		"id": "2024-12-31",
+		"type": "comunicação-alienígena",
+		"number": 53,
+		"attributes": [
+			{
+				"description": "jovem, recente, moderno",
+				"itemsIds": ["963"],
+				"name": "Novo",
+				"spriteId": "29",
+				"id": "new"
+			},
+			{
+				"name": "Longo",
+				"id": "lon",
+				"itemsIds": ["295", "320", "109"],
+				"spriteId": "20",
+				"description": "alto, comprido"
+			},
+			{
+				"name": "Grande",
+				"description": "tamanho, magnitude",
+				"spriteId": "13",
+				"id": "big",
+				"itemsIds": ["284", "106", "286"]
+			}
+		],
+		"itemsIds": ["194", "968", "59", "116", "134"],
+		"requests": [
+			{
+				"spritesIds": ["29"],
+				"itemId": "59"
+			},
+			{
+				"spritesIds": ["20", "13"],
+				"itemId": "194"
+			},
+			{
+				"itemId": "116",
+				"spritesIds": ["13"]
+			},
+			{
+				"spritesIds": ["29", "20"],
+				"itemId": "968"
+			}
+		],
+		"setId": "big-lon-new",
+		"solution": "59-194-116-968",
+		"valid": true
+	},
+	"54": {
+		"id": "2025-01-01",
+		"type": "comunicação-alienígena",
+		"number": 54,
+		"attributes": [
+			{
+				"id": "hea",
+				"spriteId": "21",
+				"name": "Pesado",
+				"description": "peso, massa",
+				"itemsIds": ["219", "51"]
+			},
+			{
+				"spriteId": "34",
+				"description": "sólido, firme, rígido, inflexível",
+				"id": "har",
+				"itemsIds": ["80", "266"],
+				"name": "Duro"
+			},
+			{
+				"id": "war",
+				"name": "Quente",
+				"description": "calor, aconchegante, temperatura",
+				"itemsIds": ["284", "39"],
+				"spriteId": "7"
+			}
+		],
+		"itemsIds": ["28", "242", "157", "116", "118"],
+		"requests": [
+			{
+				"spritesIds": ["21", "34"],
+				"itemId": "28"
+			},
+			{
+				"itemId": "242",
+				"spritesIds": ["7"]
+			},
+			{
+				"itemId": "118",
+				"spritesIds": ["34"]
+			},
+			{
+				"spritesIds": ["21"],
+				"itemId": "116"
+			}
+		],
+		"setId": "har-hea-war",
+		"solution": "28-242-118-116",
+		"valid": true
+	},
+	"55": {
+		"id": "2025-01-02",
+		"type": "comunicação-alienígena",
+		"number": 55,
+		"attributes": [
+			{
+				"itemsIds": ["7"],
+				"description": "instrumento, dispositivo, implemento",
+				"spriteId": "37",
+				"name": "Ferramenta",
+				"id": "too"
+			},
+			{
+				"description": "alto, comprido",
+				"id": "lon",
+				"itemsIds": ["197", "309", "168"],
+				"spriteId": "9",
+				"name": "Longo"
+			},
+			{
+				"id": "kno",
+				"itemsIds": ["11", "69", "279"],
+				"description": "sabedoria, inteligência, ideia, dá informação",
+				"name": "Conhecimento",
+				"spriteId": "19"
+			}
+		],
+		"itemsIds": ["1490", "79", "209", "283", "320", "232"],
+		"requests": [
+			{
+				"itemId": "209",
+				"spritesIds": ["37", "9"]
+			},
+			{
+				"itemId": "283",
+				"spritesIds": ["9", "19"]
+			},
+			{
+				"itemId": "232",
+				"spritesIds": ["37", "19"]
+			},
+			{
+				"itemId": "320",
+				"spritesIds": ["37", "9", "19"]
+			}
+		],
+		"setId": "kno-lon-too",
+		"solution": "209-283-232-320",
+		"valid": true
+	},
+	"56": {
+		"id": "2025-01-03",
+		"type": "comunicação-alienígena",
+		"number": 56,
+		"attributes": [
+			{
+				"id": "war",
+				"name": "Quente",
+				"spriteId": "14",
+				"description": "calor, aconchegante, temperatura",
+				"itemsIds": ["242"]
+			},
+			{
+				"spriteId": "30",
+				"itemsIds": ["179", "145", "219"],
+				"id": "fas",
+				"description": "movimento, velocidade, rapidez",
+				"name": "Rápido"
+			},
+			{
+				"spriteId": "13",
+				"itemsIds": ["115", "248", "340"],
+				"id": "nat",
+				"name": "Natural",
+				"description": "encontrado na natureza, não artificial, orgânico"
+			}
+		],
+		"itemsIds": ["36", "252", "39", "138", "266", "152", "249"],
+		"requests": [
+			{
+				"itemId": "249",
+				"spritesIds": ["14", "13"]
+			},
+			{
+				"itemId": "36",
+				"spritesIds": ["30", "13"]
+			},
+			{
+				"spritesIds": ["14", "30"],
+				"itemId": "152"
+			},
+			{
+				"spritesIds": ["14", "30", "13"],
+				"itemId": "39"
+			}
+		],
+		"setId": "fas-nat-war",
+		"solution": "249-36-152-39",
+		"valid": true
+	},
+	"57": {
+		"id": "2025-01-04",
+		"type": "comunicação-alienígena",
+		"number": 57,
+		"attributes": [
+			{
+				"itemsIds": ["300", "219", "87"],
+				"name": "Vôo",
+				"id": "fli",
+				"spriteId": "4",
+				"description": "voador, alado"
+			},
+			{
+				"itemsIds": ["6", "7", "367"],
+				"name": "Recipiente",
+				"spriteId": "34",
+				"id": "con",
+				"description": "contém, armazena ou envolve itens ou substâncias"
+			},
+			{
+				"name": "Redondo",
+				"description": "circular, esfera, oval",
+				"id": "rou",
+				"spriteId": "37",
+				"itemsIds": ["139", "357", "48"]
+			}
+		],
+		"itemsIds": ["386", "185", "148", "57", "52", "342"],
+		"requests": [
+			{
+				"itemId": "386",
+				"spritesIds": ["4", "37"]
+			},
+			{
+				"spritesIds": ["34", "37"],
+				"itemId": "52"
+			},
+			{
+				"itemId": "57",
+				"spritesIds": ["37"]
+			},
+			{
+				"itemId": "185",
+				"spritesIds": ["34"]
+			}
+		],
+		"setId": "con-fli-rou",
+		"solution": "386-52-57-185",
+		"valid": true
+	},
+	"58": {
+		"id": "2025-01-05",
+		"type": "comunicação-alienígena",
+		"number": 58,
+		"attributes": [
+			{
+				"itemsIds": ["118", "180", "76"],
+				"spriteId": "29",
+				"id": "bea",
+				"name": "Bonito",
+				"description": "atraente, charmoso, colorido, festivo, decorativo"
+			},
+			{
+				"name": "Arma",
+				"description": "artilharia, ofensiva, usado em combate",
+				"spriteId": "23",
+				"itemsIds": ["147", "4", "146"],
+				"id": "wea"
+			},
+			{
+				"spriteId": "20",
+				"description": "contém, armazena ou envolve itens ou substâncias",
+				"id": "con",
+				"name": "Recipiente",
+				"itemsIds": ["6", "74", "7"]
+			}
+		],
+		"itemsIds": ["31", "43", "227", "192", "212", "185", "971"],
+		"requests": [
+			{
+				"spritesIds": ["29", "20"],
+				"itemId": "185"
+			},
+			{
+				"itemId": "43",
+				"spritesIds": ["23", "20"]
+			},
+			{
+				"itemId": "971",
+				"spritesIds": ["20"]
+			},
+			{
+				"spritesIds": ["29"],
+				"itemId": "31"
+			}
+		],
+		"setId": "bea-con-wea",
+		"solution": "185-43-971-31",
+		"valid": true
+	},
+	"59": {
+		"id": "2025-01-06",
+		"type": "comunicação-alienígena",
+		"number": 59,
+		"attributes": [
+			{
+				"name": "Valioso",
+				"spriteId": "23",
+				"id": "val",
+				"description": "precioso, raro, dinheiro, valor sentimental",
+				"itemsIds": ["80", "56", "141"]
+			},
+			{
+				"spriteId": "30",
+				"id": "lon",
+				"description": "alto, comprido",
+				"itemsIds": ["100", "336", "976"],
+				"name": "Longo"
+			},
+			{
+				"itemsIds": ["2678", "343", "201"],
+				"id": "odo",
+				"name": "Cheiro",
+				"description": "perfume, odor, aroma, fedor",
+				"spriteId": "9"
+			}
+		],
+		"itemsIds": ["309", "346", "90", "305", "66", "23"],
+		"requests": [
+			{
+				"itemId": "90",
+				"spritesIds": ["30", "9"]
+			},
+			{
+				"spritesIds": ["23", "30"],
+				"itemId": "23"
+			},
+			{
+				"spritesIds": ["30"],
+				"itemId": "309"
+			},
+			{
+				"spritesIds": ["23"],
+				"itemId": "305"
+			}
+		],
+		"setId": "lon-odo-val",
+		"solution": "90-23-309-305",
+		"valid": true
+	},
+	"60": {
+		"id": "2025-01-07",
+		"type": "comunicação-alienígena",
+		"number": 60,
+		"attributes": [
+			{
+				"itemsIds": ["136", "49"],
+				"spriteId": "18",
+				"id": "acc",
+				"description": "ornamento, anexo, peça adicional",
+				"name": "Acessório"
+			},
+			{
+				"id": "bri",
+				"description": "luz, brilhante, reflexivo",
+				"itemsIds": ["242", "158", "39"],
+				"name": "Brilho",
+				"spriteId": "28"
+			},
+			{
+				"description": "tem engrenagens, usa energia, funciona",
+				"spriteId": "27",
+				"id": "mac",
+				"itemsIds": ["286", "196", "483"],
+				"name": "Máquina"
+			}
+		],
+		"itemsIds": ["51", "100", "109", "141", "83"],
+		"requests": [
+			{
+				"itemId": "51",
+				"spritesIds": ["27"]
+			},
+			{
+				"itemId": "109",
+				"spritesIds": ["18"]
+			},
+			{
+				"spritesIds": ["28", "27"],
+				"itemId": "83"
+			},
+			{
+				"spritesIds": ["18", "28"],
+				"itemId": "141"
+			}
+		],
+		"setId": "acc-bri-mac",
+		"solution": "51-109-83-141",
+		"valid": true
+	},
+	"61": {
+		"id": "2025-01-08",
+		"type": "comunicação-alienígena",
+		"number": 61,
+		"attributes": [
+			{
+				"description": "voador, alado",
+				"name": "Vôo",
+				"itemsIds": ["220", "230", "1808"],
+				"id": "fli",
+				"spriteId": "32"
+			},
+			{
+				"description": "sólido, firme, rígido, inflexível",
+				"spriteId": "0",
+				"name": "Duro",
+				"itemsIds": ["115", "92", "266"],
+				"id": "har"
+			},
+			{
+				"spriteId": "10",
+				"name": "Redondo",
+				"description": "circular, esfera, oval",
+				"itemsIds": ["294", "139", "189"],
+				"id": "rou"
+			}
+		],
+		"itemsIds": ["386", "243", "353", "2670", "267"],
+		"requests": [
+			{
+				"itemId": "386",
+				"spritesIds": ["32", "10"]
+			},
+			{
+				"spritesIds": ["0"],
+				"itemId": "353"
+			},
+			{
+				"itemId": "267",
+				"spritesIds": ["32"]
+			},
+			{
+				"spritesIds": ["0", "10"],
+				"itemId": "2670"
+			}
+		],
+		"setId": "fli-har-rou",
+		"solution": "386-353-267-2670",
+		"valid": true
+	},
+	"62": {
+		"id": "2025-01-09",
+		"type": "comunicação-alienígena",
+		"number": 62,
+		"attributes": [
+			{
+				"name": "Novo",
+				"description": "jovem, recente, moderno",
+				"itemsIds": ["59"],
+				"id": "new",
+				"spriteId": "17"
+			},
+			{
+				"spriteId": "16",
+				"description": "artilharia, ofensiva, usado em combate",
+				"name": "Arma",
+				"id": "wea",
+				"itemsIds": ["147", "273", "146"]
+			},
+			{
+				"spriteId": "4",
+				"itemsIds": ["284"],
+				"id": "war",
+				"name": "Quente",
+				"description": "calor, aconchegante, temperatura"
+			}
+		],
+		"itemsIds": ["963", "39", "188", "186", "60", "41"],
+		"requests": [
+			{
+				"itemId": "963",
+				"spritesIds": ["17"]
+			},
+			{
+				"spritesIds": ["16"],
+				"itemId": "186"
+			},
+			{
+				"itemId": "39",
+				"spritesIds": ["4"]
+			},
+			{
+				"itemId": "60",
+				"spritesIds": ["17", "4"]
+			}
+		],
+		"setId": "new-war-wea",
+		"solution": "963-186-39-60",
+		"valid": true
+	},
+	"63": {
+		"id": "2025-01-10",
+		"type": "comunicação-alienígena",
+		"number": 63,
+		"attributes": [
+			{
+				"itemsIds": ["99", "236", "1019"],
+				"description": "vegetação, flora, verde, madeira",
+				"name": "Planta",
+				"spriteId": "33",
+				"id": "pla"
+			},
+			{
+				"id": "sma",
+				"spriteId": "12",
+				"name": "Pequeno",
+				"itemsIds": ["375", "59", "385"],
+				"description": "pequeno, compacto"
+			},
+			{
+				"itemsIds": ["144", "35", "73"],
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"name": "Construção",
+				"id": "bui",
+				"spriteId": "32"
+			}
+		],
+		"itemsIds": ["270", "107", "220", "378", "14"],
+		"requests": [
+			{
+				"spritesIds": ["33", "12"],
+				"itemId": "14"
+			},
+			{
+				"itemId": "270",
+				"spritesIds": ["12", "32"]
+			},
+			{
+				"itemId": "107",
+				"spritesIds": ["32"]
+			},
+			{
+				"spritesIds": ["12"],
+				"itemId": "378"
+			}
+		],
+		"setId": "bui-pla-sma",
+		"solution": "14-270-107-378",
+		"valid": true
+	},
+	"64": {
+		"id": "2025-01-11",
+		"type": "comunicação-alienígena",
+		"number": 64,
+		"attributes": [
+			{
+				"spriteId": "10",
+				"name": "Vestimenta",
+				"description": "moda, roupas, acessórios",
+				"id": "clo",
+				"itemsIds": ["61", "343", "327"]
+			},
+			{
+				"spriteId": "24",
+				"itemsIds": ["89", "93", "171"],
+				"name": "Afiado",
+				"description": "pontiagudo, cortante, lâmina",
+				"id": "sha"
+			},
+			{
+				"itemsIds": ["81", "219", "145"],
+				"spriteId": "7",
+				"description": "movimento, velocidade, rapidez",
+				"name": "Rápido",
+				"id": "fas"
+			}
+		],
+		"itemsIds": ["126", "166", "151", "181", "273"],
+		"requests": [
+			{
+				"itemId": "166",
+				"spritesIds": ["7"]
+			},
+			{
+				"itemId": "126",
+				"spritesIds": ["10"]
+			},
+			{
+				"itemId": "273",
+				"spritesIds": ["24"]
+			},
+			{
+				"itemId": "151",
+				"spritesIds": ["24", "7"]
+			}
+		],
+		"setId": "clo-fas-sha",
+		"solution": "166-126-273-151",
+		"valid": true
+	},
+	"65": {
+		"id": "2025-01-12",
+		"type": "comunicação-alienígena",
+		"number": 65,
+		"attributes": [
+			{
+				"name": "Força",
+				"description": "poder, energia, eletricidade",
+				"itemsIds": ["306", "307", "397"],
+				"spriteId": "4",
+				"id": "pow"
+			},
+			{
+				"name": "Valioso",
+				"id": "val",
+				"description": "precioso, raro, dinheiro, valor sentimental",
+				"spriteId": "7",
+				"itemsIds": ["120", "305", "13"]
+			},
+			{
+				"id": "hum",
+				"itemsIds": ["222", "318", "59"],
+				"name": "Humano",
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"spriteId": "10"
+			}
+		],
+		"itemsIds": ["130", "1977", "155", "80", "89", "224"],
+		"requests": [
+			{
+				"itemId": "1977",
+				"spritesIds": ["10"]
+			},
+			{
+				"itemId": "224",
+				"spritesIds": ["7", "10"]
+			},
+			{
+				"itemId": "130",
+				"spritesIds": ["4", "7"]
+			},
+			{
+				"itemId": "80",
+				"spritesIds": ["7"]
+			}
+		],
+		"setId": "hum-pow-val",
+		"solution": "1977-224-130-80",
+		"valid": true
+	},
+	"66": {
+		"id": "2025-01-13",
+		"type": "comunicação-alienígena",
+		"number": 66,
+		"attributes": [
+			{
+				"name": "Ferramenta",
+				"itemsIds": ["66", "156", "329"],
+				"description": "instrumento, dispositivo, implemento",
+				"id": "too",
+				"spriteId": "12"
+			},
+			{
+				"id": "liq",
+				"itemsIds": ["43", "1770", "235"],
+				"spriteId": "15",
+				"name": "Líquido",
+				"description": "fluido, aquático"
+			},
+			{
+				"description": "possui lacunas, perfurações ou aberturas",
+				"spriteId": "24",
+				"name": "Buracos",
+				"id": "hol",
+				"itemsIds": ["269", "84", "392"]
+			}
+		],
+		"itemsIds": ["47", "398", "139", "253", "38", "20", "391"],
+		"requests": [
+			{
+				"spritesIds": ["12", "15"],
+				"itemId": "38"
+			},
+			{
+				"spritesIds": ["12", "15", "24"],
+				"itemId": "391"
+			},
+			{
+				"spritesIds": ["12", "24"],
+				"itemId": "398"
+			},
+			{
+				"itemId": "253",
+				"spritesIds": ["15", "24"]
+			}
+		],
+		"setId": "hol-liq-too",
+		"solution": "38-391-398-253",
+		"valid": true
+	},
+	"67": {
+		"id": "2025-01-14",
+		"type": "comunicação-alienígena",
+		"number": 67,
+		"attributes": [
+			{
+				"name": "Arma",
+				"id": "wea",
+				"spriteId": "12",
+				"description": "artilharia, ofensiva, usado em combate",
+				"itemsIds": ["3", "147", "146"]
+			},
+			{
+				"spriteId": "34",
+				"name": "Humano",
+				"id": "hum",
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"itemsIds": ["384", "222", "1977"]
+			},
+			{
+				"spriteId": "4",
+				"id": "def",
+				"name": "Defesa",
+				"itemsIds": ["40", "282", "274"],
+				"description": "proteção, cobertura, escudo"
+			}
+		],
+		"itemsIds": ["247", "262", "142", "976", "356", "273", "275"],
+		"requests": [
+			{
+				"itemId": "356",
+				"spritesIds": ["4"]
+			},
+			{
+				"spritesIds": ["34", "4"],
+				"itemId": "262"
+			},
+			{
+				"spritesIds": ["34"],
+				"itemId": "142"
+			},
+			{
+				"spritesIds": ["12"],
+				"itemId": "273"
+			}
+		],
+		"setId": "def-hum-wea",
+		"solution": "356-262-142-273",
+		"valid": true
+	},
+	"68": {
+		"id": "2025-01-15",
+		"type": "comunicação-alienígena",
+		"number": 68,
+		"attributes": [
+			{
+				"spriteId": "30",
+				"description": "possui lacunas, perfurações ou aberturas",
+				"name": "Buracos",
+				"itemsIds": ["122", "401", "365"],
+				"id": "hol"
+			},
+			{
+				"itemsIds": ["137", "286", "177"],
+				"description": "tem engrenagens, usa energia, funciona",
+				"id": "mac",
+				"name": "Máquina",
+				"spriteId": "26"
+			},
+			{
+				"id": "hum",
+				"name": "Humano",
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"itemsIds": ["318", "69", "142"],
+				"spriteId": "6"
+			}
+		],
+		"itemsIds": ["131", "234", "251", "384", "315"],
+		"requests": [
+			{
+				"spritesIds": ["26"],
+				"itemId": "131"
+			},
+			{
+				"itemId": "315",
+				"spritesIds": ["30", "26"]
+			},
+			{
+				"itemId": "234",
+				"spritesIds": ["6"]
+			},
+			{
+				"itemId": "384",
+				"spritesIds": ["30", "6"]
+			}
+		],
+		"setId": "hol-hum-mac",
+		"solution": "131-315-234-384",
+		"valid": true
+	},
+	"69": {
+		"id": "2025-01-16",
+		"type": "comunicação-alienígena",
+		"number": 69,
+		"attributes": [
+			{
+				"description": "eletrônicos, digital, computador, internet",
+				"name": "Tecnologia",
+				"itemsIds": ["389", "137", "12"],
+				"spriteId": "30",
+				"id": "tec"
+			},
+			{
+				"name": "Afiado",
+				"description": "pontiagudo, cortante, lâmina",
+				"itemsIds": ["375", "374", "146"],
+				"spriteId": "34",
+				"id": "sha"
+			},
+			{
+				"itemsIds": ["112", "50", "279"],
+				"spriteId": "37",
+				"description": "texto, letras ou símbolos usados para comunicação",
+				"name": "Escrita",
+				"id": "wri"
+			}
+		],
+		"itemsIds": ["184", "335", "3", "351", "62"],
+		"requests": [
+			{
+				"itemId": "351",
+				"spritesIds": ["37"]
+			},
+			{
+				"itemId": "335",
+				"spritesIds": ["30"]
+			},
+			{
+				"spritesIds": ["34"],
+				"itemId": "3"
+			},
+			{
+				"itemId": "184",
+				"spritesIds": ["30", "37"]
+			}
+		],
+		"setId": "sha-tec-wri",
+		"solution": "351-335-3-184",
+		"valid": true
+	},
+	"70": {
+		"id": "2025-01-17",
+		"type": "comunicação-alienígena",
+		"number": 70,
+		"attributes": [
+			{
+				"description": "texto, letras ou símbolos usados para comunicação",
+				"name": "Escrita",
+				"spriteId": "12",
+				"itemsIds": ["311", "124", "396"],
+				"id": "wri"
+			},
+			{
+				"name": "Defesa",
+				"itemsIds": ["356", "82", "56"],
+				"id": "def",
+				"description": "proteção, cobertura, escudo",
+				"spriteId": "17"
+			},
+			{
+				"spriteId": "35",
+				"name": "Acessório",
+				"itemsIds": ["55", "237", "696"],
+				"description": "ornamento, anexo, peça adicional",
+				"id": "acc"
+			}
+		],
+		"itemsIds": ["166", "214", "963", "136", "2679"],
+		"requests": [
+			{
+				"itemId": "214",
+				"spritesIds": ["17", "35"]
+			},
+			{
+				"spritesIds": ["12"],
+				"itemId": "963"
+			},
+			{
+				"itemId": "136",
+				"spritesIds": ["35"]
+			},
+			{
+				"itemId": "166",
+				"spritesIds": ["17"]
+			}
+		],
+		"setId": "acc-def-wri",
+		"solution": "214-963-136-166",
+		"valid": true
+	},
+	"71": {
+		"id": "2025-01-18",
+		"type": "comunicação-alienígena",
+		"number": 71,
+		"attributes": [
+			{
+				"spriteId": "10",
+				"description": "possui lacunas, perfurações ou aberturas",
+				"itemsIds": ["206", "392", "1809"],
+				"id": "hol",
+				"name": "Buracos"
+			},
+			{
+				"itemsIds": ["348", "340", "271"],
+				"description": "encontrado na natureza, não artificial, orgânico",
+				"name": "Natural",
+				"id": "nat",
+				"spriteId": "9"
+			},
+			{
+				"name": "Plástico",
+				"description": "borracha, material sintético",
+				"spriteId": "7",
+				"itemsIds": ["197", "19", "301"],
+				"id": "pls"
+			}
+		],
+		"itemsIds": ["59", "352", "277", "221", "159"],
+		"requests": [
+			{
+				"spritesIds": ["10", "9"],
+				"itemId": "59"
+			},
+			{
+				"spritesIds": ["10"],
+				"itemId": "352"
+			},
+			{
+				"itemId": "159",
+				"spritesIds": ["7"]
+			},
+			{
+				"spritesIds": ["10", "7"],
+				"itemId": "221"
+			}
+		],
+		"setId": "hol-nat-pls",
+		"solution": "59-352-159-221",
+		"valid": true
+	},
+	"72": {
+		"id": "2025-01-19",
+		"type": "comunicação-alienígena",
+		"number": 72,
+		"attributes": [
+			{
+				"name": "Escrita",
+				"spriteId": "34",
+				"itemsIds": ["311", "351", "124"],
+				"description": "texto, letras ou símbolos usados para comunicação",
+				"id": "wri"
+			},
+			{
+				"description": "tem partes metálicas brilhantes, feito de metal",
+				"itemsIds": ["368", "381", "67"],
+				"name": "Metal",
+				"id": "met",
+				"spriteId": "9"
+			},
+			{
+				"id": "val",
+				"name": "Valioso",
+				"description": "precioso, raro, dinheiro, valor sentimental",
+				"spriteId": "18",
+				"itemsIds": ["696", "80"]
+			}
+		],
+		"itemsIds": ["972", "183", "112", "315", "290", "392"],
+		"requests": [
+			{
+				"itemId": "315",
+				"spritesIds": ["34", "9"]
+			},
+			{
+				"spritesIds": ["9", "18"],
+				"itemId": "183"
+			},
+			{
+				"itemId": "392",
+				"spritesIds": ["34", "9", "18"]
+			},
+			{
+				"spritesIds": ["34", "18"],
+				"itemId": "112"
+			}
+		],
+		"setId": "met-val-wri",
+		"solution": "315-183-392-112",
+		"valid": true
+	},
+	"73": {
+		"id": "2025-01-20",
+		"type": "comunicação-alienígena",
+		"number": 73,
+		"attributes": [
+			{
+				"description": "sabedoria, inteligência, ideia, dá informação",
+				"itemsIds": ["232", "279", "184"],
+				"id": "kno",
+				"name": "Conhecimento",
+				"spriteId": "33"
+			},
+			{
+				"itemsIds": ["1977", "142", "318"],
+				"spriteId": "12",
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"id": "hum",
+				"name": "Humano"
+			},
+			{
+				"description": "voador, alado",
+				"id": "fli",
+				"itemsIds": ["390", "300", "194"],
+				"name": "Vôo",
+				"spriteId": "28"
+			}
+		],
+		"itemsIds": ["224", "234", "1808", "309", "78"],
+		"requests": [
+			{
+				"spritesIds": ["28"],
+				"itemId": "1808"
+			},
+			{
+				"spritesIds": ["33", "12"],
+				"itemId": "224"
+			},
+			{
+				"spritesIds": ["33"],
+				"itemId": "78"
+			},
+			{
+				"itemId": "234",
+				"spritesIds": ["12"]
+			}
+		],
+		"setId": "fli-hum-kno",
+		"solution": "1808-224-78-234",
+		"valid": true
+	},
+	"74": {
+		"id": "2025-01-21",
+		"type": "comunicação-alienígena",
+		"number": 74,
+		"attributes": [
+			{
+				"spriteId": "33",
+				"description": "possui lacunas, perfurações ou aberturas",
+				"name": "Buracos",
+				"id": "hol",
+				"itemsIds": ["122", "401", "332"]
+			},
+			{
+				"itemsIds": ["137", "232"],
+				"spriteId": "25",
+				"name": "Máquina",
+				"id": "mac",
+				"description": "tem engrenagens, usa energia, funciona"
+			},
+			{
+				"id": "sou",
+				"name": "Som",
+				"spriteId": "22",
+				"itemsIds": ["304", "267", "424"],
+				"description": "faz som naturalmente ou por design ou interação"
+			}
+		],
+		"itemsIds": ["483", "286", "303", "411", "65"],
+		"requests": [
+			{
+				"spritesIds": ["33", "25", "22"],
+				"itemId": "483"
+			},
+			{
+				"spritesIds": ["33", "22"],
+				"itemId": "303"
+			},
+			{
+				"itemId": "286",
+				"spritesIds": ["25", "22"]
+			},
+			{
+				"itemId": "65",
+				"spritesIds": ["33", "25"]
+			}
+		],
+		"setId": "hol-mac-sou",
+		"solution": "483-303-286-65",
+		"valid": true
+	},
+	"75": {
+		"id": "2025-01-22",
+		"type": "comunicação-alienígena",
+		"number": 75,
+		"attributes": [
+			{
+				"name": "Bonito",
+				"id": "bea",
+				"itemsIds": ["180", "246", "20"],
+				"spriteId": "28",
+				"description": "atraente, charmoso, colorido, festivo, decorativo"
+			},
+			{
+				"description": "pessoa, corpo, usado por pessoas, tem características humanas",
+				"name": "Humano",
+				"spriteId": "5",
+				"itemsIds": ["223", "82", "69"],
+				"id": "hum"
+			},
+			{
+				"id": "hea",
+				"spriteId": "10",
+				"name": "Pesado",
+				"itemsIds": ["219", "389", "368"],
+				"description": "peso, massa"
+			}
+		],
+		"itemsIds": ["234", "154", "405", "403", "162"],
+		"requests": [
+			{
+				"spritesIds": ["28", "5"],
+				"itemId": "403"
+			},
+			{
+				"spritesIds": ["10"],
+				"itemId": "154"
+			},
+			{
+				"itemId": "234",
+				"spritesIds": ["5"]
+			},
+			{
+				"spritesIds": ["28", "10"],
+				"itemId": "405"
+			}
+		],
+		"setId": "bea-hea-hum",
+		"solution": "403-154-234-405",
+		"valid": true
+	},
+	"76": {
+		"id": "2025-01-23",
+		"type": "comunicação-alienígena",
+		"number": 76,
+		"attributes": [
+			{
+				"id": "pow",
+				"name": "Força",
+				"description": "poder, energia, eletricidade",
+				"itemsIds": ["219", "144", "405"],
+				"spriteId": "5"
+			},
+			{
+				"spriteId": "16",
+				"itemsIds": ["131", "12"],
+				"description": "tem engrenagens, usa energia, funciona",
+				"id": "mac",
+				"name": "Máquina"
+			},
+			{
+				"spriteId": "4",
+				"id": "clo",
+				"name": "Vestimenta",
+				"itemsIds": ["214", "2603", "76"],
+				"description": "moda, roupas, acessórios"
+			}
+		],
+		"itemsIds": ["156", "158", "347", "343", "362", "141"],
+		"requests": [
+			{
+				"spritesIds": ["5", "4"],
+				"itemId": "141"
+			},
+			{
+				"spritesIds": ["4"],
+				"itemId": "343"
+			},
+			{
+				"itemId": "158",
+				"spritesIds": ["5"]
+			},
+			{
+				"spritesIds": ["5", "16"],
+				"itemId": "347"
+			}
+		],
+		"setId": "clo-mac-pow",
+		"solution": "141-343-158-347",
+		"valid": true
+	},
+	"77": {
+		"id": "2025-01-24",
+		"type": "comunicação-alienígena",
+		"number": 77,
+		"attributes": [
+			{
+				"name": "Afiado",
+				"spriteId": "9",
+				"id": "sha",
+				"itemsIds": ["54", "375", "818"],
+				"description": "pontiagudo, cortante, lâmina"
+			},
+			{
+				"description": "sabedoria, inteligência, ideia, dá informação",
+				"spriteId": "27",
+				"id": "kno",
+				"itemsIds": ["232", "11", "124"],
+				"name": "Conhecimento"
+			},
+			{
+				"description": "vegetação, flora, verde, madeira",
+				"name": "Planta",
+				"spriteId": "35",
+				"id": "pla",
+				"itemsIds": ["236", "225", "20"]
+			}
+		],
+		"itemsIds": ["2", "283", "329", "367", "260", "3"],
+		"requests": [
+			{
+				"spritesIds": ["35"],
+				"itemId": "2"
+			},
+			{
+				"itemId": "283",
+				"spritesIds": ["27"]
+			},
+			{
+				"spritesIds": ["9", "35"],
+				"itemId": "329"
+			},
+			{
+				"spritesIds": ["9"],
+				"itemId": "3"
+			}
+		],
+		"setId": "kno-pla-sha",
+		"solution": "2-283-329-3",
+		"valid": true
+	},
+	"78": {
+		"id": "2025-01-25",
+		"type": "comunicação-alienígena",
+		"number": 78,
+		"attributes": [
+			{
+				"id": "nat",
+				"name": "Natural",
+				"description": "encontrado na natureza, não artificial, orgânico",
+				"spriteId": "16",
+				"itemsIds": ["94", "446"]
+			},
+			{
+				"id": "col",
+				"description": "baixa temperatura, gelado, refrescante",
+				"name": "Frio",
+				"itemsIds": ["154"],
+				"spriteId": "35"
+			},
+			{
+				"name": "Duro",
+				"spriteId": "6",
+				"id": "har",
+				"itemsIds": ["353", "404", "118"],
+				"description": "sólido, firme, rígido, inflexível"
+			}
+		],
+		"itemsIds": ["86", "101", "407", "248", "2259", "133"],
+		"requests": [
+			{
+				"spritesIds": ["16", "6"],
+				"itemId": "86"
+			},
+			{
+				"spritesIds": ["16", "35"],
+				"itemId": "2259"
+			},
+			{
+				"spritesIds": ["6"],
+				"itemId": "101"
+			},
+			{
+				"spritesIds": ["16"],
+				"itemId": "248"
+			}
+		],
+		"setId": "col-har-nat",
+		"solution": "86-2259-101-248",
+		"valid": true
+	},
+	"79": {
+		"id": "2025-01-26",
+		"type": "comunicação-alienígena",
+		"number": 79,
+		"attributes": [
+			{
+				"id": "war",
+				"itemsIds": ["242", "39"],
+				"name": "Quente",
+				"spriteId": "24",
+				"description": "calor, aconchegante, temperatura"
+			},
+			{
+				"id": "mac",
+				"description": "tem engrenagens, usa energia, funciona",
+				"itemsIds": ["232", "137", "131"],
+				"name": "Máquina",
+				"spriteId": "10"
+			},
+			{
+				"description": "laser, prazer, diversão, para crianças",
+				"id": "toy",
+				"spriteId": "6",
+				"itemsIds": ["165", "155", "150"],
+				"name": "Brinquedo"
+			}
+		],
+		"itemsIds": ["347", "227", "510", "392", "280"],
+		"requests": [
+			{
+				"itemId": "227",
+				"spritesIds": ["24", "10"]
+			},
+			{
+				"itemId": "392",
+				"spritesIds": ["10"]
+			},
+			{
+				"spritesIds": ["10", "6"],
+				"itemId": "347"
+			},
+			{
+				"spritesIds": ["6"],
+				"itemId": "280"
+			}
+		],
+		"setId": "mac-toy-war",
+		"solution": "227-392-347-280",
+		"valid": true
+	},
+	"80": {
+		"id": "2025-01-27",
+		"type": "comunicação-alienígena",
+		"number": 80,
+		"attributes": [
+			{
+				"name": "Novo",
+				"itemsIds": ["59"],
+				"spriteId": "18",
+				"id": "new",
+				"description": "jovem, recente, moderno"
+			},
+			{
+				"id": "pla",
+				"description": "vegetação, flora, verde, madeira",
+				"spriteId": "17",
+				"name": "Planta",
+				"itemsIds": ["72", "434", "125"]
+			},
+			{
+				"itemsIds": ["139", "189", "357"],
+				"description": "circular, esfera, oval",
+				"id": "rou",
+				"spriteId": "22",
+				"name": "Redondo"
+			}
+		],
+		"itemsIds": ["95", "180", "693", "118", "58"],
+		"requests": [
+			{
+				"itemId": "693",
+				"spritesIds": ["17"]
+			},
+			{
+				"spritesIds": ["18", "22"],
+				"itemId": "58"
+			},
+			{
+				"spritesIds": ["22"],
+				"itemId": "118"
+			},
+			{
+				"spritesIds": ["17", "22"],
+				"itemId": "180"
+			}
+		],
+		"setId": "new-pla-rou",
+		"solution": "693-58-118-180",
+		"valid": true
+	},
+	"81": {
+		"id": "2025-01-28",
+		"type": "comunicação-alienígena",
+		"number": 81,
+		"attributes": [
+			{
+				"description": "tem engrenagens, usa energia, funciona",
+				"name": "Máquina",
+				"id": "mac",
+				"spriteId": "7",
+				"itemsIds": ["286"]
+			},
+			{
+				"name": "Metal",
+				"spriteId": "10",
+				"itemsIds": ["146", "170", "64"],
+				"id": "met",
+				"description": "tem partes metálicas brilhantes, feito de metal"
+			},
+			{
+				"description": "possui lacunas, perfurações ou aberturas",
+				"name": "Buracos",
+				"itemsIds": ["1809", "269", "683"],
+				"spriteId": "30",
+				"id": "hol"
+			}
+		],
+		"itemsIds": ["313", "134", "483", "112", "130"],
+		"requests": [
+			{
+				"spritesIds": ["7", "10", "30"],
+				"itemId": "483"
+			},
+			{
+				"itemId": "130",
+				"spritesIds": ["7", "10"]
+			},
+			{
+				"spritesIds": ["7", "30"],
+				"itemId": "313"
+			},
+			{
+				"spritesIds": ["10", "30"],
+				"itemId": "134"
+			}
+		],
+		"setId": "hol-mac-met",
+		"solution": "483-130-313-134",
+		"valid": true
+	},
+	"82": {
+		"id": "2025-01-29",
+		"type": "comunicação-alienígena",
+		"number": 82,
+		"attributes": [
+			{
+				"name": "Vôo",
+				"spriteId": "22",
+				"description": "voador, alado",
+				"itemsIds": ["181", "429", "300"],
+				"id": "fli"
+			},
+			{
+				"description": "circular, esfera, oval",
+				"itemsIds": ["2670", "326", "139"],
+				"name": "Redondo",
+				"id": "rou",
+				"spriteId": "19"
+			},
+			{
+				"description": "sabedoria, inteligência, ideia, dá informação",
+				"itemsIds": ["279", "232", "283"],
+				"name": "Conhecimento",
+				"id": "kno",
+				"spriteId": "18"
+			}
+		],
+		"itemsIds": ["336", "51", "133", "219", "386"],
+		"requests": [
+			{
+				"spritesIds": ["22"],
+				"itemId": "219"
+			},
+			{
+				"itemId": "386",
+				"spritesIds": ["22", "19"]
+			},
+			{
+				"itemId": "336",
+				"spritesIds": ["19", "18"]
+			},
+			{
+				"spritesIds": ["19"],
+				"itemId": "51"
+			}
+		],
+		"setId": "fli-kno-rou",
+		"solution": "219-386-336-51",
+		"valid": true
+	},
+	"83": {
+		"id": "2025-01-30",
+		"type": "comunicação-alienígena",
+		"number": 83,
+		"attributes": [
+			{
+				"id": "sma",
+				"name": "Pequeno",
+				"itemsIds": ["375", "462"],
+				"spriteId": "34",
+				"description": "pequeno, compacto"
+			},
+			{
+				"name": "Natural",
+				"spriteId": "36",
+				"itemsIds": ["447", "39", "226"],
+				"description": "encontrado na natureza, não artificial, orgânico",
+				"id": "nat"
+			},
+			{
+				"spriteId": "18",
+				"description": "proteção, cobertura, escudo",
+				"itemsIds": ["198", "260", "443"],
+				"id": "def",
+				"name": "Defesa"
+			}
+		],
+		"itemsIds": ["61", "467", "378", "254", "59", "172"],
+		"requests": [
+			{
+				"itemId": "61",
+				"spritesIds": ["18"]
+			},
+			{
+				"spritesIds": ["34", "36"],
+				"itemId": "59"
+			},
+			{
+				"spritesIds": ["34", "18"],
+				"itemId": "467"
+			},
+			{
+				"itemId": "378",
+				"spritesIds": ["34"]
+			}
+		],
+		"setId": "def-nat-sma",
+		"solution": "61-59-467-378",
+		"valid": true
+	},
+	"84": {
+		"id": "2025-01-31",
+		"type": "comunicação-alienígena",
+		"number": 84,
+		"attributes": [
+			{
+				"itemsIds": ["9", "2245", "262"],
+				"spriteId": "10",
+				"id": "old",
+				"name": "Velho",
+				"description": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
+			},
+			{
+				"spriteId": "24",
+				"description": "sabedoria, inteligência, ideia, dá informação",
+				"name": "Conhecimento",
+				"id": "kno",
+				"itemsIds": ["232", "12"]
+			},
+			{
+				"name": "Redondo",
+				"id": "rou",
+				"itemsIds": ["2670", "48", "180"],
+				"description": "circular, esfera, oval",
+				"spriteId": "32"
+			}
+		],
+		"itemsIds": ["269", "78", "419", "46", "414", "336"],
+		"requests": [
+			{
+				"itemId": "78",
+				"spritesIds": ["10", "24"]
+			},
+			{
+				"itemId": "336",
+				"spritesIds": ["10", "24", "32"]
+			},
+			{
+				"spritesIds": ["10", "32"],
+				"itemId": "414"
+			},
+			{
+				"itemId": "419",
+				"spritesIds": ["24", "32"]
+			}
+		],
+		"setId": "kno-old-rou",
+		"solution": "78-336-414-419",
+		"valid": true
+	},
+	"85": {
+		"id": "2025-02-01",
+		"type": "comunicação-alienígena",
+		"number": 85,
+		"attributes": [
+			{
+				"spriteId": "16",
+				"id": "dan",
+				"description": "risco, ameaça",
+				"name": "Perigo",
+				"itemsIds": ["244", "88", "449"]
+			},
+			{
+				"name": "Mole",
+				"description": "gentil, suave, macio, pegajoso, flexível",
+				"spriteId": "35",
+				"itemsIds": ["24", "169", "683"],
+				"id": "sof"
+			},
+			{
+				"description": "proteção, cobertura, escudo",
+				"spriteId": "2",
+				"id": "def",
+				"itemsIds": ["282", "166", "465"],
+				"name": "Defesa"
+			}
+		],
+		"itemsIds": ["347", "91", "162", "406", "421", "99", "331"],
+		"requests": [
+			{
+				"spritesIds": ["16", "35"],
+				"itemId": "91"
+			},
+			{
+				"itemId": "162",
+				"spritesIds": ["35"]
+			},
+			{
+				"spritesIds": ["16"],
+				"itemId": "331"
+			},
+			{
+				"spritesIds": ["35", "2"],
+				"itemId": "406"
+			}
+		],
+		"setId": "dan-def-sof",
+		"solution": "91-162-331-406",
+		"valid": true
+	},
+	"86": {
+		"id": "2025-02-02",
+		"type": "comunicação-alienígena",
+		"number": 86,
+		"attributes": [
+			{
+				"name": "Afiado",
+				"id": "sha",
+				"description": "pontiagudo, cortante, lâmina",
+				"itemsIds": ["273", "53", "3"],
+				"spriteId": "35"
+			},
+			{
+				"itemsIds": ["78", "396", "337"],
+				"description": "texto, letras ou símbolos usados para comunicação",
+				"spriteId": "34",
+				"id": "wri",
+				"name": "Escrita"
+			},
+			{
+				"id": "har",
+				"description": "sólido, firme, rígido, inflexível",
+				"spriteId": "12",
+				"name": "Duro",
+				"itemsIds": ["353", "266", "80"]
+			}
+		],
+		"itemsIds": ["135", "54", "398", "11", "294", "351", "170"],
+		"requests": [
+			{
+				"spritesIds": ["34"],
+				"itemId": "11"
+			},
+			{
+				"itemId": "54",
+				"spritesIds": ["35"]
+			},
+			{
+				"spritesIds": ["35", "12"],
+				"itemId": "398"
+			},
+			{
+				"itemId": "351",
+				"spritesIds": ["34", "12"]
+			}
+		],
+		"setId": "har-sha-wri",
+		"solution": "11-54-398-351",
+		"valid": true
+	},
+	"87": {
+		"id": "2025-02-03",
+		"type": "comunicação-alienígena",
+		"number": 87,
+		"attributes": [
+			{
+				"description": "moda, roupas, acessórios",
+				"name": "Vestimenta",
+				"spriteId": "19",
+				"itemsIds": ["555", "22", "216"],
+				"id": "clo"
+			},
+			{
+				"id": "ins",
+				"name": "Instrumento",
+				"description": "utensílio, suporte",
+				"itemsIds": ["64", "191", "988"],
+				"spriteId": "8"
+			},
+			{
+				"spriteId": "32",
+				"id": "odo",
+				"itemsIds": ["201", "210", "796"],
+				"name": "Cheiro",
+				"description": "perfume, odor, aroma, fedor"
+			}
+		],
+		"itemsIds": ["123", "358", "343", "364", "420"],
+		"requests": [
+			{
+				"spritesIds": ["19"],
+				"itemId": "123"
+			},
+			{
+				"spritesIds": ["8", "32"],
+				"itemId": "358"
+			},
+			{
+				"spritesIds": ["32"],
+				"itemId": "420"
+			},
+			{
+				"itemId": "343",
+				"spritesIds": ["19", "32"]
+			}
+		],
+		"setId": "clo-ins-odo",
+		"solution": "123-358-420-343",
+		"valid": true
+	},
+	"88": {
+		"id": "2025-02-04",
+		"type": "comunicação-alienígena",
+		"number": 88,
+		"attributes": [
+			{
+				"name": "Velho",
+				"id": "old",
+				"spriteId": "21",
+				"itemsIds": ["814", "2245", "262"],
+				"description": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
+			},
+			{
+				"spriteId": "13",
+				"name": "Metal",
+				"description": "tem partes metálicas brilhantes, feito de metal",
+				"itemsIds": ["67", "368", "329"],
+				"id": "met"
+			},
+			{
+				"description": "gentil, suave, macio, pegajoso, flexível",
+				"itemsIds": ["155", "22", "150"],
+				"name": "Mole",
+				"spriteId": "37",
+				"id": "sof"
+			}
+		],
+		"itemsIds": ["144", "355", "343", "463", "336", "420", "80"],
+		"requests": [
+			{
+				"itemId": "336",
+				"spritesIds": ["21", "13"]
+			},
+			{
+				"itemId": "80",
+				"spritesIds": ["21", "37"]
+			},
+			{
+				"spritesIds": ["13"],
+				"itemId": "144"
+			},
+			{
+				"itemId": "463",
+				"spritesIds": ["37"]
+			}
+		],
+		"setId": "met-old-sof",
+		"solution": "336-80-144-463",
+		"valid": true
+	},
+	"89": {
+		"id": "2025-02-05",
+		"type": "comunicação-alienígena",
+		"number": 89,
+		"attributes": [
+			{
+				"spriteId": "3",
+				"itemsIds": ["398", "401", "356"],
+				"name": "Metal",
+				"id": "met",
+				"description": "tem partes metálicas brilhantes, feito de metal"
+			},
+			{
+				"name": "Arma",
+				"itemsIds": ["186", "273"],
+				"spriteId": "11",
+				"id": "wea",
+				"description": "artilharia, ofensiva, usado em combate"
+			},
+			{
+				"itemsIds": ["182", "52", "403"],
+				"spriteId": "34",
+				"description": "atraente, charmoso, colorido, festivo, decorativo",
+				"id": "bea",
+				"name": "Bonito"
+			}
+		],
+		"itemsIds": ["353", "405", "363", "76", "54", "128", "2525"],
+		"requests": [
+			{
+				"itemId": "54",
+				"spritesIds": ["3", "11"]
+			},
+			{
+				"spritesIds": ["3"],
+				"itemId": "353"
+			},
+			{
+				"itemId": "76",
+				"spritesIds": ["34"]
+			},
+			{
+				"itemId": "405",
+				"spritesIds": ["3", "34"]
+			}
+		],
+		"setId": "bea-met-wea",
+		"solution": "54-353-76-405",
+		"valid": true
+	},
+	"90": {
+		"id": "2025-02-06",
+		"type": "comunicação-alienígena",
+		"number": 90,
+		"attributes": [
+			{
+				"spriteId": "5",
+				"name": "Valioso",
+				"id": "val",
+				"itemsIds": ["337", "12", "305"],
+				"description": "precioso, raro, dinheiro, valor sentimental"
+			},
+			{
+				"name": "Grande",
+				"itemsIds": ["194", "116", "286"],
+				"spriteId": "26",
+				"description": "tamanho, magnitude",
+				"id": "big"
+			},
+			{
+				"id": "col",
+				"spriteId": "31",
+				"description": "baixa temperatura, gelado, refrescante",
+				"name": "Frio",
+				"itemsIds": ["349", "79", "226"]
+			}
+		],
+		"itemsIds": ["154", "392", "75", "404", "80"],
+		"requests": [
+			{
+				"spritesIds": ["5", "26"],
+				"itemId": "392"
+			},
+			{
+				"itemId": "80",
+				"spritesIds": ["5"]
+			},
+			{
+				"itemId": "404",
+				"spritesIds": ["26"]
+			},
+			{
+				"itemId": "154",
+				"spritesIds": ["26", "31"]
+			}
+		],
+		"setId": "big-col-val",
+		"solution": "392-80-404-154",
+		"valid": true
+	},
+	"91": {
+		"id": "2025-02-07",
+		"type": "comunicação-alienígena",
+		"number": 91,
+		"attributes": [
+			{
+				"spriteId": "8",
+				"name": "Quente",
+				"id": "war",
+				"description": "calor, aconchegante, temperatura",
+				"itemsIds": ["242", "39"]
+			},
+			{
+				"spriteId": "36",
+				"itemsIds": ["48", "138", "57"],
+				"id": "rou",
+				"name": "Redondo",
+				"description": "circular, esfera, oval"
+			},
+			{
+				"spriteId": "3",
+				"description": "jovem, recente, moderno",
+				"itemsIds": ["963", "59"],
+				"id": "new",
+				"name": "Novo"
+			}
+		],
+		"itemsIds": ["441", "284", "158", "51", "58"],
+		"requests": [
+			{
+				"itemId": "284",
+				"spritesIds": ["8"]
+			},
+			{
+				"itemId": "58",
+				"spritesIds": ["36", "3"]
+			},
+			{
+				"spritesIds": ["36"],
+				"itemId": "51"
+			},
+			{
+				"itemId": "158",
+				"spritesIds": ["8", "36"]
+			}
+		],
+		"setId": "new-rou-war",
+		"solution": "284-58-51-158",
+		"valid": true
+	},
+	"92": {
+		"id": "2025-02-08",
+		"type": "comunicação-alienígena",
+		"number": 92,
+		"attributes": [
+			{
+				"name": "Brinquedo",
+				"itemsIds": ["277", "1489", "77"],
+				"spriteId": "16",
+				"id": "toy",
+				"description": "laser, prazer, diversão, para crianças"
+			},
+			{
+				"description": "tem partes metálicas brilhantes, feito de metal",
+				"itemsIds": ["356", "170", "4"],
+				"name": "Metal",
+				"id": "met",
+				"spriteId": "2"
+			},
+			{
+				"itemsIds": ["450", "127", "489"],
+				"name": "Grande",
+				"description": "tamanho, magnitude",
+				"spriteId": "40",
+				"id": "big"
+			}
+		],
+		"itemsIds": ["486", "195", "286", "429", "238"],
+		"requests": [
+			{
+				"itemId": "486",
+				"spritesIds": ["16", "2", "40"]
+			},
+			{
+				"spritesIds": ["2", "40"],
+				"itemId": "195"
+			},
+			{
+				"spritesIds": ["16", "40"],
+				"itemId": "286"
+			},
+			{
+				"itemId": "429",
+				"spritesIds": ["16", "2"]
+			}
+		],
+		"setId": "big-met-toy",
+		"solution": "486-195-286-429",
+		"valid": true
+	},
+	"93": {
+		"id": "2025-02-09",
+		"type": "comunicação-alienígena",
+		"number": 93,
+		"attributes": [
+			{
+				"description": "Lugar, região, área",
+				"id": "loc",
+				"name": "Local",
+				"itemsIds": ["73", "521", "450"],
+				"spriteId": "15"
+			},
+			{
+				"name": "Afiado",
+				"spriteId": "17",
+				"itemsIds": ["53", "93", "374"],
+				"id": "sha",
+				"description": "pontiagudo, cortante, lâmina"
+			},
+			{
+				"description": "vida, ser, organismo, animado",
+				"itemsIds": ["458", "30", "361"],
+				"spriteId": "19",
+				"name": "Vivo",
+				"id": "ali"
+			}
+		],
+		"itemsIds": ["432", "537", "146", "325", "179", "328", "412"],
+		"requests": [
+			{
+				"itemId": "432",
+				"spritesIds": ["15"]
+			},
+			{
+				"itemId": "325",
+				"spritesIds": ["17", "19"]
+			},
+			{
+				"spritesIds": ["19"],
+				"itemId": "412"
+			},
+			{
+				"itemId": "146",
+				"spritesIds": ["17"]
+			}
+		],
+		"setId": "ali-loc-sha",
+		"solution": "432-325-412-146",
+		"valid": true
+	},
+	"94": {
+		"id": "2025-02-10",
+		"type": "comunicação-alienígena",
+		"number": 94,
+		"attributes": [
+			{
+				"id": "too",
+				"description": "instrumento, dispositivo, implemento",
+				"name": "Ferramenta",
+				"itemsIds": ["66", "374", "329"],
+				"spriteId": "11"
+			},
+			{
+				"name": "Cheiro",
+				"id": "odo",
+				"spriteId": "26",
+				"itemsIds": ["201", "1943", "487"],
+				"description": "perfume, odor, aroma, fedor"
+			},
+			{
+				"itemsIds": ["538", "432", "371"],
+				"id": "loc",
+				"spriteId": "30",
+				"description": "Lugar, região, área",
+				"name": "Local"
+			}
+		],
+		"itemsIds": ["450", "3", "86", "35", "343", "296", "53"],
+		"requests": [
+			{
+				"spritesIds": ["26", "30"],
+				"itemId": "35"
+			},
+			{
+				"spritesIds": ["26"],
+				"itemId": "343"
+			},
+			{
+				"spritesIds": ["30"],
+				"itemId": "450"
+			},
+			{
+				"itemId": "53",
+				"spritesIds": ["11"]
+			}
+		],
+		"setId": "loc-odo-too",
+		"solution": "35-343-450-53",
+		"valid": true
+	},
+	"95": {
+		"id": "2025-02-11",
+		"type": "comunicação-alienígena",
+		"number": 95,
+		"attributes": [
+			{
+				"itemsIds": ["489", "370", "452"],
+				"name": "Construção",
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"id": "bui",
+				"spriteId": "39"
+			},
+			{
+				"description": "luz, brilhante, reflexivo",
+				"name": "Brilho",
+				"itemsIds": ["293", "1488", "158"],
+				"id": "bri",
+				"spriteId": "11"
+			},
+			{
+				"description": "eletrônicos, digital, computador, internet",
+				"id": "tec",
+				"name": "Tecnologia",
+				"itemsIds": ["481", "429", "184"],
+				"spriteId": "48"
+			}
+		],
+		"itemsIds": ["39", "1756", "31", "73", "243", "177", "119"],
+		"requests": [
+			{
+				"spritesIds": ["11"],
+				"itemId": "39"
+			},
+			{
+				"itemId": "73",
+				"spritesIds": ["39", "11"]
+			},
+			{
+				"itemId": "1756",
+				"spritesIds": ["48"]
+			},
+			{
+				"itemId": "177",
+				"spritesIds": ["11", "48"]
+			}
+		],
+		"setId": "bri-bui-tec",
+		"solution": "39-73-1756-177",
+		"valid": true
+	},
+	"96": {
+		"id": "2025-02-12",
+		"type": "comunicação-alienígena",
+		"number": 96,
+		"attributes": [
+			{
+				"id": "old",
+				"spriteId": "22",
+				"name": "Velho",
+				"itemsIds": ["124", "262", "223"],
+				"description": "idoso, envelhecido, fora de moda, antigo, ultrapassado"
+			},
+			{
+				"itemsIds": ["73", "144", "538"],
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"spriteId": "47",
+				"id": "bui",
+				"name": "Construção"
+			},
+			{
+				"itemsIds": ["30", "24", "150"],
+				"id": "sof",
+				"description": "gentil, suave, macio, pegajoso, flexível",
+				"name": "Mole",
+				"spriteId": "8"
+			}
+		],
+		"itemsIds": ["182", "162", "372", "80", "175", "568"],
+		"requests": [
+			{
+				"spritesIds": ["22", "47"],
+				"itemId": "182"
+			},
+			{
+				"itemId": "80",
+				"spritesIds": ["22", "8"]
+			},
+			{
+				"spritesIds": ["47"],
+				"itemId": "372"
+			},
+			{
+				"spritesIds": ["8"],
+				"itemId": "162"
+			}
+		],
+		"setId": "bui-old-sof",
+		"solution": "182-80-372-162",
+		"valid": true
+	},
+	"97": {
+		"id": "2025-02-13",
+		"type": "comunicação-alienígena",
+		"number": 97,
+		"attributes": [
+			{
+				"id": "hea",
+				"description": "peso, massa",
+				"spriteId": "38",
+				"name": "Pesado",
+				"itemsIds": ["56", "28", "92"]
+			},
+			{
+				"itemsIds": ["424", "83", "365"],
+				"id": "sou",
+				"spriteId": "24",
+				"name": "Som",
+				"description": "faz som naturalmente ou por design ou interação"
+			},
+			{
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"itemsIds": ["370", "35", "73"],
+				"id": "bui",
+				"spriteId": "27",
+				"name": "Construção"
+			}
+		],
+		"itemsIds": ["388", "455", "368", "275", "210", "1943"],
+		"requests": [
+			{
+				"itemId": "455",
+				"spritesIds": ["38", "27"]
+			},
+			{
+				"itemId": "368",
+				"spritesIds": ["38", "24"]
+			},
+			{
+				"spritesIds": ["38", "24", "27"],
+				"itemId": "275"
+			},
+			{
+				"spritesIds": ["24", "27"],
+				"itemId": "388"
+			}
+		],
+		"setId": "bui-hea-sou",
+		"solution": "455-368-275-388",
+		"valid": true
+	},
+	"98": {
+		"id": "2025-02-14",
+		"type": "comunicação-alienígena",
+		"number": 98,
+		"attributes": [
+			{
+				"spriteId": "39",
+				"id": "sma",
+				"description": "pequeno, compacto",
+				"itemsIds": ["544", "462", "385"],
+				"name": "Pequeno"
+			},
+			{
+				"spriteId": "40",
+				"description": "artilharia, ofensiva, usado em combate",
+				"itemsIds": ["273", "4", "186"],
+				"name": "Arma",
+				"id": "wea"
+			},
+			{
+				"description": "prédios, estrutura, arquitetura, habitação",
+				"id": "bui",
+				"itemsIds": ["452", "372", "144"],
+				"spriteId": "22",
+				"name": "Construção"
+			}
+		],
+		"itemsIds": ["53", "488", "414", "35", "270"],
+		"requests": [
+			{
+				"itemId": "53",
+				"spritesIds": ["39", "40"]
+			},
+			{
+				"itemId": "35",
+				"spritesIds": ["22"]
+			},
+			{
+				"spritesIds": ["39", "22"],
+				"itemId": "270"
+			},
+			{
+				"itemId": "488",
+				"spritesIds": ["40"]
+			}
+		],
+		"setId": "bui-sma-wea",
+		"solution": "53-35-270-488",
+		"valid": true
+	},
+	"99": {
+		"id": "2025-02-15",
+		"type": "comunicação-alienígena",
+		"number": 99,
+		"attributes": [
+			{
+				"id": "odo",
+				"spriteId": "22",
+				"name": "Cheiro",
+				"itemsIds": ["1943", "229", "210"],
+				"description": "perfume, odor, aroma, fedor"
+			},
+			{
+				"spriteId": "7",
+				"description": "censurado, controverso, estigmatizado, banido, adulto, antiético, secreto.",
+				"itemsIds": ["32", "209", "234"],
+				"name": "Tabu",
+				"id": "tab"
+			},
+			{
+				"description": "pontiagudo, cortante, lâmina",
+				"id": "sha",
+				"spriteId": "30",
+				"itemsIds": ["375", "146", "374"],
+				"name": "Afiado"
+			}
+		],
+		"itemsIds": ["302", "343", "1756", "321", "444", "391", "537"],
+		"requests": [
+			{
+				"itemId": "343",
+				"spritesIds": ["22", "7"]
+			},
+			{
+				"spritesIds": ["30"],
+				"itemId": "444"
+			},
+			{
+				"itemId": "1756",
+				"spritesIds": ["7"]
+			},
+			{
+				"spritesIds": ["22"],
+				"itemId": "302"
+			}
+		],
+		"setId": "odo-sha-tab",
+		"solution": "343-444-1756-302",
+		"valid": true
+	},
+	"100": {
+		"id": "2025-02-16",
+		"type": "comunicação-alienígena",
+		"number": 100,
+		"attributes": [
+			{
+				"itemsIds": ["460", "351", "92"],
+				"name": "Pesado",
+				"spriteId": "9",
+				"description": "peso, massa",
+				"id": "hea"
+			},
+			{
+				"spriteId": "23",
+				"description": "poder, energia, eletricidade",
+				"itemsIds": ["446", "158", "480"],
+				"name": "Força",
+				"id": "pow"
+			},
+			{
+				"name": "Plástico",
+				"itemsIds": ["367", "91", "208"],
+				"id": "pls",
+				"spriteId": "25",
+				"description": "borracha, material sintético"
+			}
+		],
+		"itemsIds": ["335", "154", "166", "355", "416", "498", "169"],
+		"requests": [
+			{
+				"itemId": "416",
+				"spritesIds": ["9", "25"]
+			},
+			{
+				"itemId": "166",
+				"spritesIds": ["9", "23"]
+			},
+			{
+				"spritesIds": ["23", "25"],
+				"itemId": "335"
+			},
+			{
+				"itemId": "154",
+				"spritesIds": ["9", "23", "25"]
+			}
+		],
+		"setId": "hea-pls-pow",
+		"solution": "416-166-335-154",
+		"valid": true
+	}
+}
