@@ -25708,6 +25708,18 @@
       "en": "scalability",
       "pt": "escalabilidade"
     },
+    "aliasesEn": [
+      "big",
+      "grow",
+      "size",
+      "small"
+    ],
+    "aliasesPt": [
+      "crescer",
+      "grande",
+      "pequeno",
+      "tamanho"
+    ],
     "decks": [
       "symbol"
     ]
@@ -39073,6 +39085,95 @@
       "age5",
       "alien",
       "thing"
+    ],
+    "groups": []
+  },
+  "3129": {
+    "id": "3129",
+    "name": {
+      "en": "Pilates tower",
+      "pt": "torre de Pilates"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "3130": {
+    "id": "3130",
+    "name": {
+      "en": "corset",
+      "pt": "espartilho"
+    },
+    "aliasesPt": [
+      "corpete"
+    ],
+    "decks": [
+      "age2",
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "3131": {
+    "id": "3131",
+    "name": {
+      "en": "yoga",
+      "pt": "yoga"
+    },
+    "aliasesPt": [
+      "ioga"
+    ],
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3132": {
+    "id": "3132",
+    "name": {
+      "en": "Flaviane mug",
+      "pt": "Xícara Flaviane"
+    },
+    "aliasesPt": [
+      "xícara"
+    ],
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": [],
+    "nsfw": true
+  },
+  "3133": {
+    "id": "3133",
+    "name": {
+      "en": "mother",
+      "pt": "mãe"
+    },
+    "aliasesEn": [
+      "mom"
+    ],
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "3134": {
+    "id": "3134",
+    "name": {
+      "en": "father",
+      "pt": "pai"
+    },
+    "aliasesEn": [
+      "dad"
+    ],
+    "decks": [
+      "alien",
+      "suspect"
     ],
     "groups": []
   }
