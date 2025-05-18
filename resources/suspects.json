@@ -669,8 +669,8 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "21-30",
-    "height": "L",
-    "build": "S",
+    "height": "tall",
+    "build": "average",
     "features": [
       "blondeHair",
       "shortHair",
@@ -687,8 +687,8 @@
     "gender": "male",
     "ethnicity": "middle-eastern",
     "age": "60-70",
-    "height": "M",
-    "build": "M",
+    "height": "medium",
+    "build": "average",
     "features": [
       "shortHair",
       "greyHair",
@@ -704,10 +704,10 @@
       "pt": "Madalena Y."
     },
     "gender": "female",
-    "ethnicity": "caucasian",
+    "ethnicity": "asian",
     "age": "60-70",
-    "height": "M",
-    "build": "S",
+    "height": "medium",
+    "build": "thin",
     "features": [
       "greyHair",
       "shortHair",
@@ -725,8 +725,8 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "50-60",
-    "height": "M",
-    "build": "L",
+    "height": "medium",
+    "build": "fat",
     "features": [
       "shortHair",
       "blondeHair",
@@ -743,8 +743,8 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "60-70",
-    "height": "S",
-    "build": "M",
+    "height": "short",
+    "build": "average",
     "features": [
       "bald",
       "greyHair"
@@ -759,8 +759,8 @@
     "gender": "female",
     "ethnicity": "caucasian",
     "age": "30-40",
-    "height": "S",
-    "build": "S",
+    "height": "medium",
+    "build": "thin",
     "features": [
       "longHair",
       "redHair",
@@ -777,8 +777,8 @@
     "gender": "male",
     "ethnicity": "black",
     "age": "21-30",
-    "height": "L",
-    "build": "M",
+    "height": "medium",
+    "build": "average",
     "features": [
       "shortHair",
       "brownHair",
@@ -795,8 +795,8 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "40-50",
-    "height": "L",
-    "build": "M",
+    "height": "tall",
+    "build": "average",
     "features": [
       "blondeHair",
       "shortHair",
@@ -812,8 +812,8 @@
     "gender": "female",
     "ethnicity": "caucasian",
     "age": "21-30",
-    "height": "L",
-    "build": "S",
+    "height": "tall",
+    "build": "thin",
     "features": [
       "longHair",
       "blondeHair",
@@ -831,8 +831,8 @@
     "gender": "female",
     "ethnicity": "caucasian",
     "age": "21-30",
-    "height": "L",
-    "build": "S",
+    "height": "tall",
+    "build": "thin",
     "features": [
       "shortHair",
       "coloredHair",
@@ -849,8 +849,8 @@
     "gender": "male",
     "ethnicity": "latino",
     "age": "40-50",
-    "height": "L",
-    "build": "M",
+    "height": "tall",
+    "build": "average",
     "features": [
       "mustache",
       "blackHair",
@@ -867,8 +867,8 @@
     "gender": "male",
     "ethnicity": "black",
     "age": "30-40",
-    "height": "L",
-    "build": "L",
+    "height": "tall",
+    "build": "muscular",
     "features": [
       "bald",
       "brownHair",
@@ -884,8 +884,8 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "30-40",
-    "height": "L",
-    "build": "M",
+    "height": "medium",
+    "build": "average",
     "features": [
       "shortHair",
       "blackHair",
@@ -901,8 +901,8 @@
     "gender": "male",
     "ethnicity": "asian",
     "age": "21-30",
-    "height": "L",
-    "build": "S",
+    "height": "tall",
+    "build": "thin",
     "features": [
       "shortHair",
       "blackHair",
@@ -919,8 +919,8 @@
     "gender": "male",
     "ethnicity": "black",
     "age": "21-30",
-    "height": "M",
-    "build": "S",
+    "height": "medium",
+    "build": "thin",
     "features": [
       "hat",
       "necklace",
@@ -959,8 +959,8 @@
     "gender": "female",
     "ethnicity": "caucasian",
     "age": "30-40",
-    "height": "M",
-    "build": "M",
+    "height": "medium",
+    "build": "average",
     "features": [
       "longHair",
       "blondeHair",
@@ -1710,8 +1710,8 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "50-60",
-    "height": "L",
-    "build": "M",
+    "height": "medium",
+    "build": "fat",
     "features": [
       "hat",
       "blackHair",
@@ -1728,8 +1728,13 @@
     "gender": "male",
     "ethnicity": "mixed",
     "age": "40-50",
-    "height": "",
-    "build": ""
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "blackHair",
+      "shortHair",
+      "hoodie"
+    ]
   },
   "us-84": {
     "id": "us-84",
@@ -1740,8 +1745,8 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "30-40",
-    "height": "",
-    "build": "",
+    "height": "medium",
+    "build": "average",
     "features": [
       "brownHair",
       "shortHair",
@@ -1757,8 +1762,8 @@
     "gender": "female",
     "ethnicity": "black",
     "age": "18-21",
-    "height": "",
-    "build": ""
+    "height": "medium",
+    "build": "thin"
   },
   "us-86": {
     "id": "us-86",
