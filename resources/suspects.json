@@ -204,8 +204,8 @@
     "gender": "male",
     "ethnicity": "asian",
     "age": "30-40",
-    "height": "",
-    "build": "",
+    "height": "medium",
+    "build": "average",
     "features": [
       "hat",
       "glasses",
@@ -223,7 +223,7 @@
     "ethnicity": "caucasian",
     "age": "60-70",
     "height": "tall",
-    "build": "L",
+    "build": "average",
     "features": [
       "longHair",
       "glasses",
@@ -370,8 +370,8 @@
     "build": "average",
     "features": [
       "beard",
-      "longHair",
-      "brownHair"
+      "brownHair",
+      "mediumHair"
     ]
   },
   "us-110": {
@@ -623,9 +623,9 @@
     "features": [
       "necklace",
       "glasses",
-      "longHair",
       "redHair",
-      "lipstick"
+      "lipstick",
+      "mediumHair"
     ]
   },
   "us-21": {
@@ -978,7 +978,7 @@
     "ethnicity": "black",
     "age": "30-40",
     "height": "medium",
-    "build": "L",
+    "build": "large",
     "features": [
       "lipstick",
       "glasses",
@@ -1231,7 +1231,7 @@
     "ethnicity": "caucasian",
     "age": "21-30",
     "height": "tall",
-    "build": "L",
+    "build": "muscular",
     "features": [
       "shortHair",
       "blondeHair",
@@ -1247,8 +1247,13 @@
     "gender": "female",
     "ethnicity": "caucasian",
     "age": "30-40",
-    "height": "",
-    "build": ""
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "longHair",
+      "coloredHair",
+      "lipstick"
+    ]
   },
   "us-56": {
     "id": "us-56",
@@ -1403,7 +1408,7 @@
     "ethnicity": "caucasian",
     "age": "40-50",
     "height": "medium",
-    "build": "L",
+    "build": "large",
     "features": [
       "longHair",
       "brownHair",
@@ -1438,7 +1443,7 @@
     "ethnicity": "caucasian",
     "age": "21-30",
     "height": "tall",
-    "build": "L",
+    "build": "large",
     "features": [
       "redHair",
       "shortHair",
@@ -1456,7 +1461,7 @@
     "ethnicity": "caucasian",
     "age": "50-60",
     "height": "medium",
-    "build": "L",
+    "build": "large",
     "features": [
       "goatee",
       "brownHair",
@@ -1618,10 +1623,10 @@
     "build": "large",
     "features": [
       "blackHair",
-      "shortHair",
       "glasses",
       "lipstick",
-      "earrings"
+      "earrings",
+      "mediumHair"
     ]
   },
   "us-77": {
@@ -1651,8 +1656,13 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "21-30",
-    "height": "",
-    "build": ""
+    "height": "tall",
+    "build": "muscular",
+    "features": [
+      "blackHair",
+      "shortHair",
+      "hat"
+    ]
   },
   "us-79": {
     "id": "us-79",
@@ -1681,8 +1691,12 @@
     "gender": "female",
     "ethnicity": "black",
     "age": "30-40",
-    "height": "",
-    "build": ""
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "brownHair",
+      "mediumHair"
+    ]
   },
   "us-81": {
     "id": "us-81",
@@ -1693,8 +1707,8 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "60-70",
-    "height": "",
-    "build": "",
+    "height": "tall",
+    "build": "average",
     "features": [
       "shortHair",
       "greyHair",
@@ -1763,7 +1777,11 @@
     "ethnicity": "black",
     "age": "18-21",
     "height": "medium",
-    "build": "thin"
+    "build": "thin",
+    "features": [
+      "brownHair",
+      "glasses"
+    ]
   },
   "us-86": {
     "id": "us-86",
@@ -1810,8 +1828,12 @@
     "gender": "male",
     "ethnicity": "caucasian",
     "age": "18-21",
-    "height": "",
-    "build": ""
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "shortHair",
+      "brownHair"
+    ]
   },
   "us-89": {
     "id": "us-89",
@@ -1822,8 +1844,8 @@
     "gender": "female",
     "ethnicity": "black",
     "age": "30-40",
-    "height": "",
-    "build": "",
+    "height": "medium",
+    "build": "average",
     "features": [
       "earrings",
       "necklace",
@@ -1994,8 +2016,8 @@
     "gender": "female",
     "ethnicity": "black",
     "age": "21-30",
-    "height": "",
-    "build": "",
+    "height": "medium",
+    "build": "muscular",
     "features": [
       "brownHair",
       "shortHair",
