@@ -291,7 +291,7 @@
 		"id": "ddr-37-pt",
 		"title": "tem acento",
 		"level": 1,
-		"type": "grammar",
+		"type": "contains",
 		"method": "auto",
 		"updatedAt": 1724369455795
 	},
@@ -534,5 +534,29 @@
 		"type": "contains",
 		"method": "auto",
 		"updatedAt": 1740176800426
+	},
+	"ddr-68-pt": {
+		"id": "ddr-68-pt",
+		"title": "tem 3 letras na primeira sílaba",
+		"level": 2,
+		"type": "count",
+		"method": "dependency",
+		"updatedAt": 1747755528115
+	},
+	"ddr-69-pt": {
+		"id": "ddr-69-pt",
+		"title": "tem 1 letra na primeira sílaba",
+		"level": 2,
+		"type": "count",
+		"method": "dependency",
+		"updatedAt": 1747755528115
+	},
+	"ddr-70-pt": {
+		"id": "ddr-70-pt",
+		"title": "a última letra se repete na palavra (ex: ele, águia)",
+		"level": 2,
+		"type": "repetition",
+		"method": "auto",
+		"updatedAt": 1747755528115
 	}
 }
