@@ -305,7 +305,7 @@
 			"en": "Superman",
 			"pt": "Super-homem"
 		},
-		"decks": ["comics", "comics"],
+		"decks": ["base", "comics"],
 		"description": {
 			"en": "A fictional superhero appearing in American comic books published by DC Comics.",
 			"pt": "Um super-herói fictício que aparece em quadrinhos americanos publicados pela DC Comics."
@@ -425,7 +425,7 @@
 			"en": "Yoda",
 			"pt": "Yoda"
 		},
-		"decks": ["movies"],
+		"decks": ["base"],
 		"description": {
 			"en": "A fictional character in the Star Wars universe.",
 			"pt": "Um personagem fictício no universo de Star Wars."
@@ -1976,7 +1976,7 @@
 			"en": "Daniel (San) LaRusso",
 			"pt": "Daniel (San) LaRusso"
 		},
-		"decks": ["base", "movies"],
+		"decks": ["movies"],
 		"description": {
 			"en": "A fictional character in the Karate Kid film series.",
 			"pt": "Um personagem fictício na série de filmes Karate Kid."
@@ -3134,7 +3134,7 @@
 			"en": "Gloria Pritchett",
 			"pt": "Gloria Pritchett"
 		},
-		"decks": ["base", "television"],
+		"decks": ["television"],
 		"description": {
 			"en": "A character from the TV show Modern Family.",
 			"pt": "Um personagem da série de televisão Modern Family."
@@ -4037,7 +4037,7 @@
 		},
 		"decks": ["special-td-bg"],
 		"description": {
-			"en": "A sexy teacher from San Jose, CA, Queen of the Raccoons.",
+			"en": "A teacher from San Jose, CA, Queen of the Raccoons.",
 			"pt": "Uma professora de San Jose, CA."
 		},
 		"exclusivity": "en"
@@ -4989,7 +4989,7 @@
 			"en": "Loch Ness Monster",
 			"pt": "Monstro do Lago Ness"
 		},
-		"decks": ["mythology"],
+		"decks": ["base"],
 		"description": {
 			"en": "A creature said to inhabit Loch Ness in the Scottish Highlands.",
 			"pt": "Uma criatura que se diz habitar o Lago Ness nas Terras Altas Escocesas."
@@ -5001,7 +5001,7 @@
 			"en": "Lois Lane",
 			"pt": "Lois Lane"
 		},
-		"decks": ["comics", "television"],
+		"decks": ["television"],
 		"description": {
 			"en": "A fictional character and the love interest of Superman in DC Comics.",
 			"pt": "Um personagem fictício e o interesse amoroso do Superman nos quadrinhos da DC."
@@ -5135,7 +5135,7 @@
 			"en": "Moses",
 			"pt": "Moises"
 		},
-		"decks": ["mythology"],
+		"decks": ["base"],
 		"description": {
 			"en": "A prophet in the Abrahamic religions who led the Israelites out of Egypt.",
 			"pt": "Um profeta nas religiões abraâmicas que liderou os israelitas para fora do Egito."
