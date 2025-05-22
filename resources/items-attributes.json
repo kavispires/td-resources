@@ -175,7 +175,7 @@
 			"en": "custom, values, local, regional, traditional, regional, religious",
 			"pt": "personalizado, valores, local, regional, tradicional, regional, religioso"
 		},
-		"priority": 42,
+		"priority": 43,
 		"level": 3,
 		"spriteId": "sign-50",
 		"relatedId": "kno",
@@ -424,7 +424,7 @@
 			"en": "wisdom, smarts, idea, gives information",
 			"pt": "sabedoria, inteligência, ideia, dá informação"
 		},
-		"priority": 42,
+		"priority": 44,
 		"level": 4,
 		"spriteId": "sign-16",
 		"default": true,
@@ -543,6 +543,7 @@
 		"level": 3,
 		"spriteId": "sign-54",
 		"relatedId": "kno",
+		"oppositeId": "sci",
 		"default": false,
 		"limited": false,
 		"specific": true,
@@ -577,7 +578,7 @@
 		},
 		"priority": 102,
 		"level": 2,
-		"spriteId": "sign-48",
+		"spriteId": "sign-60",
 		"oppositeId": "old",
 		"default": false,
 		"keywords": "new young recent fresh modern novo jovem recente moderno tempo idade"
@@ -713,6 +714,23 @@
 		"default": true,
 		"keywords": "round circular sphere oval redondo esfera"
 	},
+	"sci": {
+		"id": "sci",
+		"name": {
+			"en": "Science",
+			"pt": "Ciência"
+		},
+		"description": {
+			"en": "scientific, chemistry, biology, physics, research, experiment, study",
+			"pt": "científico, química, biologia, física, pesquisa, experimento, estudo"
+		},
+		"priority": 41,
+		"level": 3,
+		"spriteId": "sign-48",
+		"oppositeId": "myt",
+		"specific": true,
+		"keywords": "science scientific research experiment study química biologia física pesquisa experimento estudo"
+	},
 	"sha": {
 		"id": "sha",
 		"name": {
@@ -789,7 +807,7 @@
 			"en": "polemic, censored, controversial, stigmatized, banned, adult.",
 			"pt": "polêmico, censurado, controverso, estigmatizado, banido, adulto."
 		},
-		"priority": 41,
+		"priority": 42,
 		"level": 3,
 		"spriteId": "sign-56",
 		"relatedId": "kno",
