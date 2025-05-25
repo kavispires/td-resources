@@ -14100,6 +14100,12 @@
       "en": "allergies",
       "pt": "alergias"
     },
+    "aliasesEn": [
+      "rash"
+    ],
+    "aliasesPt": [
+      "assaduras"
+    ],
     "decks": [
       "dream",
       "weapon"
@@ -36178,6 +36184,14 @@
       "en": "anonymous",
       "pt": "anônimo"
     },
+    "aliasesEn": [
+      "somebody",
+      "who"
+    ],
+    "aliasesPt": [
+      "alguém",
+      "quem"
+    ],
     "decks": [
       "dream"
     ],
@@ -39181,6 +39195,498 @@
     "decks": [
       "alien",
       "suspect"
+    ],
+    "groups": []
+  },
+  "3135": {
+    "id": "3135",
+    "name": {
+      "en": "sports team",
+      "pt": "equipe esportiva"
+    },
+    "aliasesEn": [
+      "team"
+    ],
+    "aliasesPt": [
+      "equipe"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3136": {
+    "id": "3136",
+    "name": {
+      "en": "gym bro",
+      "pt": "sarado"
+    },
+    "aliasesEn": [
+      "wrestler"
+    ],
+    "aliasesPt": [
+      "malhado"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3137": {
+    "id": "3137",
+    "name": {
+      "en": "cough syrup",
+      "pt": "xarope"
+    },
+    "decks": [
+      "age4"
+    ],
+    "groups": []
+  },
+  "3138": {
+    "id": "3138",
+    "name": {
+      "en": "mess",
+      "pt": "bagunça"
+    },
+    "decks": [
+      "meta",
+      "symbol"
+    ],
+    "groups": []
+  },
+  "3139": {
+    "id": "3139",
+    "name": {
+      "en": "justice",
+      "pt": "justiça"
+    },
+    "decks": [
+      "meta",
+      "thing"
+    ],
+    "groups": []
+  },
+  "3140": {
+    "id": "3140",
+    "name": {
+      "en": "jury",
+      "pt": "júri"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3141": {
+    "id": "3141",
+    "name": {
+      "en": "delivery box",
+      "pt": "baú de motoboy"
+    },
+    "decks": [
+      "alien",
+      "manufactured",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3142": {
+    "id": "3142",
+    "name": {
+      "en": "bubbles",
+      "pt": "bolhas"
+    },
+    "decks": [
+      "age1",
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3143": {
+    "id": "3143",
+    "name": {
+      "en": "microplastic",
+      "pt": "microplástico"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3144": {
+    "id": "3144",
+    "name": {
+      "en": "hunchback",
+      "pt": "corcunda"
+    },
+    "aliasesEn": [
+      "quasimodo"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3145": {
+    "id": "3145",
+    "name": {
+      "en": "anarchist",
+      "pt": "anarquista"
+    },
+    "aliasesEn": [
+      "Guy Fawkes mask",
+      "anonymous",
+      "hacker"
+    ],
+    "aliasesPt": [
+      "hacker",
+      "máscara de Guy Fawkes"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3146": {
+    "id": "3146",
+    "name": {
+      "en": "pig leg",
+      "pt": "perna de porco"
+    },
+    "aliasesPt": [
+      "pernil de porco"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3147": {
+    "id": "3147",
+    "name": {
+      "en": "feminism",
+      "pt": "feminismo"
+    },
+    "decks": [
+      "age4",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3148": {
+    "id": "3148",
+    "name": {
+      "en": "chicken wings",
+      "pt": "asinhas"
+    },
+    "aliasesEn": [
+      "wings"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3149": {
+    "id": "3149",
+    "name": {
+      "en": "pipe clog",
+      "pt": "cano entupido"
+    },
+    "aliasesEn": [
+      "clog"
+    ],
+    "aliasesPt": [
+      "entupimento"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3150": {
+    "id": "3150",
+    "name": {
+      "en": "unorganized",
+      "pt": "desorganizada"
+    },
+    "aliasesEn": [
+      "messy"
+    ],
+    "aliasesPt": [
+      "barunceira"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3151": {
+    "id": "3151",
+    "name": {
+      "en": "inappropriate",
+      "pt": "inapropriado"
+    },
+    "aliasesEn": [
+      "bully"
+    ],
+    "aliasesPt": [
+      "bully"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3152": {
+    "id": "3152",
+    "name": {
+      "en": "hyperactivity",
+      "pt": "hiperatividade"
+    },
+    "aliasesEn": [
+      "panic"
+    ],
+    "aliasesPt": [
+      "pânico"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3153": {
+    "id": "3153",
+    "name": {
+      "en": "clumsy",
+      "pt": "desastrado"
+    },
+    "aliasesEn": [
+      "careless"
+    ],
+    "aliasesPt": [
+      "descuidado"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3154": {
+    "id": "3154",
+    "name": {
+      "en": "ADHD",
+      "pt": "TDAH"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3155": {
+    "id": "3155",
+    "name": {
+      "en": "indian woman",
+      "pt": "indiana"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "suspect"
+    ],
+    "groups": []
+  },
+  "3156": {
+    "id": "3156",
+    "name": {
+      "en": "reco-reco",
+      "pt": "reco-reco"
+    },
+    "aliasesEn": [
+      "guiro"
+    ],
+    "aliasesPt": [
+      "raspador"
+    ],
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3157": {
+    "id": "3157",
+    "name": {
+      "en": "dry lips",
+      "pt": "lábios secos"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3158": {
+    "id": "3158",
+    "name": {
+      "en": "lip balm",
+      "pt": "manteiga de cacau"
+    },
+    "aliasesEn": [
+      "chapstick"
+    ],
+    "aliasesPt": [
+      "protetor labial"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3159": {
+    "id": "3159",
+    "name": {
+      "en": "pollen",
+      "pt": "pólen"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3160": {
+    "id": "3160",
+    "name": {
+      "en": "pollen allergy",
+      "pt": "alergia"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3161": {
+    "id": "3161",
+    "name": {
+      "en": "sneeze",
+      "pt": "espirro"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3162": {
+    "id": "3162",
+    "name": {
+      "en": "cough",
+      "pt": "tosse"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3163": {
+    "id": "3163",
+    "name": {
+      "en": "clog",
+      "pt": "tamanco sueco"
+    },
+    "aliasesPt": [
+      "tamanco"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3164": {
+    "id": "3164",
+    "name": {
+      "en": "thunder",
+      "pt": "trovão"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "3165": {
+    "id": "3165",
+    "name": {
+      "en": "fountain drink dispenser",
+      "pt": "máquina de refrigerante"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ],
+    "groups": []
+  },
+  "3166": {
+    "id": "3166",
+    "name": {
+      "en": "infographic bubbles",
+      "pt": "bolhas de infográfico"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3167": {
+    "id": "3167",
+    "name": {
+      "en": "weight loss",
+      "pt": "emagrecer"
+    },
+    "aliasesEn": [
+      "skinny"
+    ],
+    "aliasesPt": [
+      "magro"
+    ],
+    "decks": [
+      "meta",
+      "thing"
+    ],
+    "groups": []
+  },
+  "3168": {
+    "id": "3168",
+    "name": {
+      "en": "health",
+      "pt": "saúde"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3169": {
+    "id": "3169",
+    "name": {
+      "en": "moodboard",
+      "pt": "painel de inspiração"
+    },
+    "aliasesEn": [
+      "vision board"
+    ],
+    "aliasesPt": [
+      "moodboard"
+    ],
+    "decks": [
+      "alien",
+      "evidence"
     ],
     "groups": []
   }
