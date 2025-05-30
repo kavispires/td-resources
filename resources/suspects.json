@@ -17,7 +17,8 @@
       "brownHair",
       "shortHair",
       "beard"
-    ]
+    ],
+    "note": ""
   },
   "us-02": {
     "id": "us-02",
@@ -34,7 +35,8 @@
       "shortHair",
       "brownHair",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-03": {
     "id": "us-03",
@@ -53,7 +55,8 @@
       "beard",
       "blondeHair",
       "longHair"
-    ]
+    ],
+    "note": ""
   },
   "us-04": {
     "id": "us-04",
@@ -71,7 +74,8 @@
       "bald",
       "mustache",
       "goatee"
-    ]
+    ],
+    "note": ""
   },
   "us-05": {
     "id": "us-05",
@@ -87,7 +91,8 @@
     "features": [
       "shortHair",
       "blondeHair"
-    ]
+    ],
+    "note": ""
   },
   "us-06": {
     "id": "us-06",
@@ -103,7 +108,8 @@
     "features": [
       "blackHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-07": {
     "id": "us-07",
@@ -120,7 +126,8 @@
       "shortHair",
       "brownHair",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-08": {
     "id": "us-08",
@@ -139,7 +146,8 @@
       "beard",
       "greyHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-09": {
     "id": "us-09",
@@ -156,7 +164,8 @@
       "hoodie",
       "longHair",
       "greyHair"
-    ]
+    ],
+    "note": ""
   },
   "us-10": {
     "id": "us-10",
@@ -175,7 +184,8 @@
       "beard",
       "hat",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-100": {
     "id": "us-100",
@@ -193,7 +203,8 @@
       "longHair",
       "brownHair",
       "goatee"
-    ]
+    ],
+    "note": ""
   },
   "us-101": {
     "id": "us-101",
@@ -211,7 +222,8 @@
       "glasses",
       "shortHair",
       "blackHair"
-    ]
+    ],
+    "note": ""
   },
   "us-102": {
     "id": "us-102",
@@ -230,7 +242,8 @@
       "hat",
       "beard",
       "greyHair"
-    ]
+    ],
+    "note": ""
   },
   "us-103": {
     "id": "us-103",
@@ -249,7 +262,8 @@
       "shortHair",
       "hat",
       "brownHair"
-    ]
+    ],
+    "note": ""
   },
   "us-104": {
     "id": "us-104",
@@ -266,7 +280,8 @@
       "shortHair",
       "brownHair",
       "beard"
-    ]
+    ],
+    "note": ""
   },
   "us-105": {
     "id": "us-105",
@@ -285,7 +300,8 @@
       "glasses",
       "earrings",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-106": {
     "id": "us-106",
@@ -304,7 +320,8 @@
       "brownHair",
       "longHair",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-107": {
     "id": "us-107",
@@ -321,7 +338,8 @@
       "greyHair",
       "mustache",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-108": {
     "id": "us-108",
@@ -338,7 +356,8 @@
       "earrings",
       "brownHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-109": {
     "id": "us-109",
@@ -355,7 +374,8 @@
       "blackHair",
       "hat",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-11": {
     "id": "us-11",
@@ -372,7 +392,8 @@
       "beard",
       "brownHair",
       "mediumHair"
-    ]
+    ],
+    "note": ""
   },
   "us-110": {
     "id": "us-110",
@@ -391,7 +412,8 @@
       "greyHair",
       "shortHair",
       "headscarf"
-    ]
+    ],
+    "note": ""
   },
   "us-111": {
     "id": "us-111",
@@ -410,7 +432,8 @@
       "longHair",
       "earrings",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-112": {
     "id": "us-112",
@@ -429,7 +452,8 @@
       "longHair",
       "goatee",
       "mustache"
-    ]
+    ],
+    "note": ""
   },
   "us-113": {
     "id": "us-113",
@@ -445,7 +469,8 @@
     "features": [
       "shortHair",
       "brownHair"
-    ]
+    ],
+    "note": ""
   },
   "us-114": {
     "id": "us-114",
@@ -463,7 +488,8 @@
       "brownHair",
       "beard",
       "hat"
-    ]
+    ],
+    "note": ""
   },
   "us-115": {
     "id": "us-115",
@@ -472,12 +498,17 @@
       "pt": "Kai V"
     },
     "gender": "male",
-    "ethnicity": "asian",
+    "ethnicity": "other",
     "age": "18-21",
     "height": "short",
     "build": "muscular",
-    "features": [],
-    "gbExclusive": true
+    "features": [
+      "blackHair",
+      "shortHair",
+      "necklace"
+    ],
+    "gbExclusive": true,
+    "note": ""
   },
   "us-116": {
     "id": "us-116",
@@ -490,8 +521,14 @@
     "age": "21-30",
     "height": "medium",
     "build": "thin",
-    "features": [],
-    "gbExclusive": true
+    "features": [
+      "necklace",
+      "lipstick",
+      "shortHair",
+      "brownHair"
+    ],
+    "gbExclusive": true,
+    "note": ""
   },
   "us-117": {
     "id": "us-117",
@@ -500,40 +537,54 @@
       "pt": "aaa"
     },
     "gender": "male",
-    "ethnicity": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "gbExclusive": true
+    "ethnicity": "asian",
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "glasses",
+      "shortHair",
+      "blackHair"
+    ],
+    "gbExclusive": true,
+    "note": ""
   },
   "us-118": {
     "id": "us-118",
     "name": {
-      "en": "aaa",
-      "pt": "aaa"
+      "en": "Jacky",
+      "pt": "Jaqueline"
     },
     "gender": "male",
-    "ethnicity": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "gbExclusive": true
+    "ethnicity": "caucasian",
+    "age": "30-40",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "longHair",
+      "blondeHair"
+    ],
+    "gbExclusive": true,
+    "note": ""
   },
   "us-119": {
     "id": "us-119",
     "name": {
-      "en": "aaa",
-      "pt": "aaa"
+      "en": "Hassan",
+      "pt": "Hassan"
     },
     "gender": "male",
-    "ethnicity": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "gbExclusive": true
+    "ethnicity": "indian",
+    "age": "21-30",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "shortHair",
+      "blackHair",
+      "mustache"
+    ],
+    "gbExclusive": true,
+    "note": ""
   },
   "us-12": {
     "id": "us-12",
@@ -550,35 +601,48 @@
       "longHair",
       "brownHair",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-120": {
     "id": "us-120",
     "name": {
-      "en": "aaa",
-      "pt": "aaa"
+      "en": "Lisa",
+      "pt": "Lisa"
     },
     "gender": "male",
-    "ethnicity": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "gbExclusive": true
+    "ethnicity": "asian",
+    "age": "18-21",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "longHair",
+      "coloredHair",
+      "lipstick",
+      "earrings",
+      "necklace"
+    ],
+    "gbExclusive": true,
+    "note": ""
   },
   "us-121": {
     "id": "us-121",
     "name": {
-      "en": "aaa",
-      "pt": "aaa"
+      "en": "Carmen",
+      "pt": "Carmen"
     },
     "gender": "male",
-    "ethnicity": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "gbExclusive": true
+    "ethnicity": "latino",
+    "age": "50-60",
+    "height": "short",
+    "build": "large",
+    "features": [
+      "brownHair",
+      "shortHair",
+      "earrings"
+    ],
+    "gbExclusive": true,
+    "note": ""
   },
   "us-122": {
     "id": "us-122",
@@ -592,7 +656,8 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
   },
   "us-123": {
     "id": "us-123",
@@ -606,7 +671,8 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
   },
   "us-124": {
     "id": "us-124",
@@ -620,7 +686,8 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
   },
   "us-125": {
     "id": "us-125",
@@ -634,7 +701,8 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
   },
   "us-126": {
     "id": "us-126",
@@ -648,7 +716,8 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
   },
   "us-127": {
     "id": "us-127",
@@ -662,7 +731,8 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
   },
   "us-128": {
     "id": "us-128",
@@ -676,7 +746,8 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
   },
   "us-129": {
     "id": "us-129",
@@ -690,7 +761,8 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
   },
   "us-13": {
     "id": "us-13",
@@ -710,7 +782,8 @@
       "shortHair",
       "lipstick",
       "necklace"
-    ]
+    ],
+    "note": ""
   },
   "us-130": {
     "id": "us-130",
@@ -724,7 +797,38 @@
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true
+    "gbExclusive": true,
+    "note": ""
+  },
+  "us-131": {
+    "id": "us-131",
+    "name": {
+      "en": "aaa",
+      "pt": "aaa"
+    },
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "18-21",
+    "height": "short",
+    "build": "muscular",
+    "features": [],
+    "gbExclusive": true,
+    "note": ""
+  },
+  "us-132": {
+    "id": "us-132",
+    "name": {
+      "en": "aaa",
+      "pt": "aaa"
+    },
+    "gender": "male",
+    "ethnicity": "white",
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [],
+    "gbExclusive": true,
+    "note": ""
   },
   "us-14": {
     "id": "us-14",
@@ -742,7 +846,8 @@
       "piercings",
       "blondeHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-15": {
     "id": "us-15",
@@ -760,7 +865,8 @@
       "shortHair",
       "beard",
       "scarf"
-    ]
+    ],
+    "note": ""
   },
   "us-16": {
     "id": "us-16",
@@ -779,7 +885,8 @@
       "earrings",
       "piercings",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-17": {
     "id": "us-17",
@@ -795,7 +902,8 @@
     "features": [
       "brownHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-18": {
     "id": "us-18",
@@ -813,7 +921,8 @@
       "mustache",
       "shortHair",
       "hat"
-    ]
+    ],
+    "note": ""
   },
   "us-19": {
     "id": "us-19",
@@ -831,7 +940,8 @@
       "greyHair",
       "mustache",
       "goatee"
-    ]
+    ],
+    "note": ""
   },
   "us-20": {
     "id": "us-20",
@@ -850,7 +960,8 @@
       "redHair",
       "lipstick",
       "mediumHair"
-    ]
+    ],
+    "note": ""
   },
   "us-21": {
     "id": "us-21",
@@ -865,7 +976,8 @@
     "build": "large",
     "features": [
       "headscarf"
-    ]
+    ],
+    "note": ""
   },
   "us-22": {
     "id": "us-22",
@@ -882,7 +994,8 @@
       "longHair",
       "brownHair",
       "earrings"
-    ]
+    ],
+    "note": ""
   },
   "us-23": {
     "id": "us-23",
@@ -900,7 +1013,8 @@
       "shortHair",
       "beard",
       "hat"
-    ]
+    ],
+    "note": ""
   },
   "us-24": {
     "id": "us-24",
@@ -919,7 +1033,8 @@
       "hat",
       "beard",
       "headscarf"
-    ]
+    ],
+    "note": ""
   },
   "us-25": {
     "id": "us-25",
@@ -938,7 +1053,8 @@
       "necklace",
       "earrings",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-26": {
     "id": "us-26",
@@ -956,7 +1072,8 @@
       "blondeHair",
       "mustache",
       "hat"
-    ]
+    ],
+    "note": ""
   },
   "us-27": {
     "id": "us-27",
@@ -972,7 +1089,8 @@
     "features": [
       "bald",
       "greyHair"
-    ]
+    ],
+    "note": ""
   },
   "us-28": {
     "id": "us-28",
@@ -990,7 +1108,8 @@
       "redHair",
       "lipstick",
       "necklace"
-    ]
+    ],
+    "note": ""
   },
   "us-29": {
     "id": "us-29",
@@ -1002,13 +1121,14 @@
     "ethnicity": "black",
     "age": "21-30",
     "height": "medium",
-    "build": "average",
+    "build": "large",
     "features": [
       "shortHair",
       "brownHair",
       "goatee",
       "scarf"
-    ]
+    ],
+    "note": ""
   },
   "us-30": {
     "id": "us-30",
@@ -1025,7 +1145,8 @@
       "blondeHair",
       "shortHair",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-31": {
     "id": "us-31",
@@ -1044,7 +1165,8 @@
       "earrings",
       "hat",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-32": {
     "id": "us-32",
@@ -1062,7 +1184,8 @@
       "coloredHair",
       "earrings",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-33": {
     "id": "us-33",
@@ -1080,7 +1203,8 @@
       "blackHair",
       "shortHair",
       "scarf"
-    ]
+    ],
+    "note": ""
   },
   "us-34": {
     "id": "us-34",
@@ -1097,7 +1221,8 @@
       "bald",
       "brownHair",
       "beard"
-    ]
+    ],
+    "note": ""
   },
   "us-35": {
     "id": "us-35",
@@ -1114,7 +1239,8 @@
       "shortHair",
       "blackHair",
       "bald"
-    ]
+    ],
+    "note": ""
   },
   "us-36": {
     "id": "us-36",
@@ -1132,7 +1258,8 @@
       "blackHair",
       "glasses",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-37": {
     "id": "us-37",
@@ -1152,7 +1279,8 @@
       "glasses",
       "blackHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-38": {
     "id": "us-38",
@@ -1172,7 +1300,8 @@
       "hat",
       "earrings",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-39": {
     "id": "us-39",
@@ -1190,7 +1319,8 @@
       "blondeHair",
       "lipstick",
       "earrings"
-    ]
+    ],
+    "note": ""
   },
   "us-40": {
     "id": "us-40",
@@ -1209,7 +1339,8 @@
       "headscarf",
       "scarf",
       "earrings"
-    ]
+    ],
+    "note": ""
   },
   "us-41": {
     "id": "us-41",
@@ -1228,7 +1359,8 @@
       "beard",
       "shortHair",
       "brownHair"
-    ]
+    ],
+    "note": ""
   },
   "us-42": {
     "id": "us-42",
@@ -1246,7 +1378,8 @@
       "blondeHair",
       "lipstick",
       "earrings"
-    ]
+    ],
+    "note": ""
   },
   "us-43": {
     "id": "us-43",
@@ -1263,7 +1396,8 @@
       "longHair",
       "brownHair",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-44": {
     "id": "us-44",
@@ -1281,7 +1415,8 @@
       "greyHair",
       "beard",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-45": {
     "id": "us-45",
@@ -1301,7 +1436,8 @@
       "necklace",
       "earrings",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-46": {
     "id": "us-46",
@@ -1318,7 +1454,8 @@
       "shortHair",
       "blackHair",
       "mustache"
-    ]
+    ],
+    "note": ""
   },
   "us-47": {
     "id": "us-47",
@@ -1336,7 +1473,8 @@
       "glasses",
       "headscarf",
       "necklace"
-    ]
+    ],
+    "note": ""
   },
   "us-48": {
     "id": "us-48",
@@ -1353,7 +1491,8 @@
       "necklace",
       "longHair",
       "blackHair"
-    ]
+    ],
+    "note": ""
   },
   "us-49": {
     "id": "us-49",
@@ -1371,7 +1510,8 @@
       "blondeHair",
       "earrings",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-50": {
     "id": "us-50",
@@ -1388,7 +1528,8 @@
       "beard",
       "brownHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-51": {
     "id": "us-51",
@@ -1406,7 +1547,8 @@
       "longHair",
       "blondeHair",
       "mustache"
-    ]
+    ],
+    "note": ""
   },
   "us-52": {
     "id": "us-52",
@@ -1426,7 +1568,8 @@
       "mustache",
       "necklace",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-53": {
     "id": "us-53",
@@ -1443,7 +1586,8 @@
       "scarf",
       "blackHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-54": {
     "id": "us-54",
@@ -1460,7 +1604,8 @@
       "shortHair",
       "blondeHair",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-55": {
     "id": "us-55",
@@ -1477,7 +1622,8 @@
       "longHair",
       "coloredHair",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-56": {
     "id": "us-56",
@@ -1494,7 +1640,8 @@
       "bald",
       "blackHair",
       "earrings"
-    ]
+    ],
+    "note": ""
   },
   "us-57": {
     "id": "us-57",
@@ -1512,7 +1659,8 @@
       "glasses",
       "blackHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-58": {
     "id": "us-58",
@@ -1531,7 +1679,8 @@
       "mustache",
       "hat",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-59": {
     "id": "us-59",
@@ -1549,7 +1698,8 @@
       "greyHair",
       "beard",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-60": {
     "id": "us-60",
@@ -1567,7 +1717,8 @@
       "brownHair",
       "shortHair",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-61": {
     "id": "us-61",
@@ -1586,7 +1737,8 @@
       "beard",
       "necklace",
       "earrings"
-    ]
+    ],
+    "note": ""
   },
   "us-62": {
     "id": "us-62",
@@ -1603,7 +1755,8 @@
       "shortHair",
       "blackHair",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-63": {
     "id": "us-63",
@@ -1620,7 +1773,8 @@
       "brownHair",
       "shortHair",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-64": {
     "id": "us-64",
@@ -1639,7 +1793,8 @@
       "piercings",
       "earrings",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-65": {
     "id": "us-65",
@@ -1655,7 +1810,8 @@
     "features": [
       "shortHair",
       "brownHair"
-    ]
+    ],
+    "note": ""
   },
   "us-66": {
     "id": "us-66",
@@ -1673,7 +1829,8 @@
       "shortHair",
       "beard",
       "hat"
-    ]
+    ],
+    "note": ""
   },
   "us-67": {
     "id": "us-67",
@@ -1692,7 +1849,8 @@
       "shortHair",
       "hat",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-68": {
     "id": "us-68",
@@ -1709,7 +1867,8 @@
       "longHair",
       "blackHair",
       "necklace"
-    ]
+    ],
+    "note": ""
   },
   "us-69": {
     "id": "us-69",
@@ -1727,7 +1886,8 @@
       "earrings",
       "brownHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-70": {
     "id": "us-70",
@@ -1744,7 +1904,8 @@
       "greyHair",
       "earrings",
       "headscarf"
-    ]
+    ],
+    "note": ""
   },
   "us-71": {
     "id": "us-71",
@@ -1762,7 +1923,8 @@
       "brownHair",
       "mustache",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-72": {
     "id": "us-72",
@@ -1778,7 +1940,8 @@
     "features": [
       "shortHair",
       "brownHair"
-    ]
+    ],
+    "note": ""
   },
   "us-73": {
     "id": "us-73",
@@ -1795,7 +1958,8 @@
       "redHair",
       "shortHair",
       "lipstick"
-    ]
+    ],
+    "note": ""
   },
   "us-74": {
     "id": "us-74",
@@ -1813,7 +1977,8 @@
       "shortHair",
       "beard",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-75": {
     "id": "us-75",
@@ -1832,7 +1997,8 @@
       "lipstick",
       "necklace",
       "headscarf"
-    ]
+    ],
+    "note": ""
   },
   "us-76": {
     "id": "us-76",
@@ -1851,7 +2017,8 @@
       "lipstick",
       "earrings",
       "mediumHair"
-    ]
+    ],
+    "note": ""
   },
   "us-77": {
     "id": "us-77",
@@ -1869,7 +2036,8 @@
       "blackHair",
       "glasses",
       "hat"
-    ]
+    ],
+    "note": ""
   },
   "us-78": {
     "id": "us-78",
@@ -1886,7 +2054,8 @@
       "blackHair",
       "shortHair",
       "hat"
-    ]
+    ],
+    "note": ""
   },
   "us-79": {
     "id": "us-79",
@@ -1904,7 +2073,8 @@
       "lipstick",
       "glasses",
       "blackHair"
-    ]
+    ],
+    "note": ""
   },
   "us-80": {
     "id": "us-80",
@@ -1920,7 +2090,8 @@
     "features": [
       "brownHair",
       "mediumHair"
-    ]
+    ],
+    "note": ""
   },
   "us-81": {
     "id": "us-81",
@@ -1937,7 +2108,8 @@
       "shortHair",
       "greyHair",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-82": {
     "id": "us-82",
@@ -1955,7 +2127,8 @@
       "blackHair",
       "shortHair",
       "tie"
-    ]
+    ],
+    "note": ""
   },
   "us-83": {
     "id": "us-83",
@@ -1972,7 +2145,8 @@
       "blackHair",
       "shortHair",
       "hoodie"
-    ]
+    ],
+    "note": ""
   },
   "us-84": {
     "id": "us-84",
@@ -1989,7 +2163,8 @@
       "brownHair",
       "shortHair",
       "beard"
-    ]
+    ],
+    "note": ""
   },
   "us-85": {
     "id": "us-85",
@@ -2005,7 +2180,8 @@
     "features": [
       "brownHair",
       "glasses"
-    ]
+    ],
+    "note": ""
   },
   "us-86": {
     "id": "us-86",
@@ -2022,7 +2198,8 @@
       "blackHair",
       "earrings",
       "longHair"
-    ]
+    ],
+    "note": ""
   },
   "us-87": {
     "id": "us-87",
@@ -2041,7 +2218,8 @@
       "longHair",
       "lipstick",
       "earrings"
-    ]
+    ],
+    "note": ""
   },
   "us-88": {
     "id": "us-88",
@@ -2057,7 +2235,8 @@
     "features": [
       "shortHair",
       "brownHair"
-    ]
+    ],
+    "note": ""
   },
   "us-89": {
     "id": "us-89",
@@ -2076,7 +2255,8 @@
       "lipstick",
       "blackHair",
       "longHair"
-    ]
+    ],
+    "note": ""
   },
   "us-90": {
     "id": "us-90",
@@ -2093,7 +2273,8 @@
       "lipstick",
       "longHair",
       "redHair"
-    ]
+    ],
+    "note": ""
   },
   "us-91": {
     "id": "us-91",
@@ -2109,7 +2290,8 @@
     "features": [
       "shortHair",
       "blackHair"
-    ]
+    ],
+    "note": ""
   },
   "us-92": {
     "id": "us-92",
@@ -2128,7 +2310,8 @@
       "glasses",
       "earrings",
       "necklace"
-    ]
+    ],
+    "note": ""
   },
   "us-93": {
     "id": "us-93",
@@ -2144,7 +2327,8 @@
     "features": [
       "redHair",
       "shortHair"
-    ]
+    ],
+    "note": ""
   },
   "us-94": {
     "id": "us-94",
@@ -2161,7 +2345,8 @@
       "shortHair",
       "brownHair",
       "beard"
-    ]
+    ],
+    "note": ""
   },
   "us-95": {
     "id": "us-95",
@@ -2178,7 +2363,8 @@
       "shortHair",
       "beard",
       "brownHair"
-    ]
+    ],
+    "note": ""
   },
   "us-96": {
     "id": "us-96",
@@ -2196,7 +2382,8 @@
       "hat",
       "redHair",
       "beard"
-    ]
+    ],
+    "note": ""
   },
   "us-97": {
     "id": "us-97",
@@ -2212,7 +2399,8 @@
     "features": [
       "earrings",
       "bald"
-    ]
+    ],
+    "note": ""
   },
   "us-98": {
     "id": "us-98",
@@ -2229,7 +2417,8 @@
       "brownHair",
       "shortHair",
       "beard"
-    ]
+    ],
+    "note": ""
   },
   "us-99": {
     "id": "us-99",
@@ -2247,6 +2436,7 @@
       "shortHair",
       "earrings",
       "necklace"
-    ]
+    ],
+    "note": ""
   }
 }
