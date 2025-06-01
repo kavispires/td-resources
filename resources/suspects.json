@@ -87,7 +87,8 @@
     "features": [
       "shortHair",
       "blondeHair"
-    ]
+    ],
+    "note": "snowboarder"
   },
   "us-06": {
     "id": "us-06",
@@ -192,7 +193,8 @@
       "bald",
       "longHair",
       "brownHair",
-      "goatee"
+      "goatee",
+      "noAccessories"
     ]
   },
   "us-101": {
@@ -265,7 +267,8 @@
     "features": [
       "shortHair",
       "brownHair",
-      "beard"
+      "beard",
+      "noAccessories"
     ]
   },
   "us-105": {
@@ -354,7 +357,8 @@
     "features": [
       "blackHair",
       "hat",
-      "lipstick"
+      "lipstick",
+      "headscarf"
     ]
   },
   "us-11": {
@@ -444,7 +448,8 @@
     "build": "thin",
     "features": [
       "shortHair",
-      "brownHair"
+      "brownHair",
+      "noAccessories"
     ]
   },
   "us-114": {
@@ -570,7 +575,8 @@
     "features": [
       "longHair",
       "brownHair",
-      "lipstick"
+      "lipstick",
+      "noAccessories"
     ]
   },
   "us-120": {
@@ -662,7 +668,8 @@
     "features": [
       "blackHair",
       "longHair",
-      "lipstick"
+      "lipstick",
+      "noAccessories"
     ],
     "gbExclusive": true
   },
@@ -680,7 +687,8 @@
     "features": [
       "mediumHair",
       "brownHair",
-      "beard"
+      "beard",
+      "noAccessories"
     ],
     "gbExclusive": true
   },
@@ -715,7 +723,8 @@
     "build": "thin",
     "features": [
       "bald",
-      "lipstick"
+      "lipstick",
+      "noAccessories"
     ],
     "gbExclusive": true
   },
@@ -776,7 +785,8 @@
       "shortHair",
       "lipstick",
       "necklace"
-    ]
+    ],
+    "note": "zen girl"
   },
   "us-130": {
     "id": "us-130",
@@ -811,7 +821,8 @@
     "features": [
       "shortHair",
       "blondeHair",
-      "lipstick"
+      "lipstick",
+      "noAccessories"
     ],
     "gbExclusive": true,
     "note": ""
@@ -830,10 +841,137 @@
     "features": [
       "mediumHair",
       "bald",
-      "coloredHair"
+      "coloredHair",
+      "noAccessories"
     ],
     "gbExclusive": true,
     "note": ""
+  },
+  "us-133": {
+    "id": "us-133",
+    "name": {
+      "en": "Bao",
+      "pt": "Bao"
+    },
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "50-60",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "bald",
+      "greyHair",
+      "noAccessories"
+    ],
+    "note": "monk"
+  },
+  "us-134": {
+    "id": "us-134",
+    "name": {
+      "en": "Thales",
+      "pt": "Tyler"
+    },
+    "gender": "male",
+    "ethnicity": "white",
+    "age": "18-21",
+    "height": "medium",
+    "build": "muscular",
+    "features": [
+      "brownHair",
+      "shortHair",
+      "tie"
+    ],
+    "note": "heir"
+  },
+  "us-135": {
+    "id": "us-135",
+    "name": {
+      "en": "Chaz",
+      "pt": "Cássio"
+    },
+    "gender": "male",
+    "ethnicity": "white",
+    "age": "30-40",
+    "height": "medium",
+    "build": "muscular",
+    "features": [
+      "shortHair",
+      "blondeHair",
+      "noAccessories"
+    ],
+    "note": "bodybuilder"
+  },
+  "us-136": {
+    "id": "us-136",
+    "name": {
+      "en": "Melissa",
+      "pt": "Melissa"
+    },
+    "gender": "female",
+    "ethnicity": "white",
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "bald",
+      "earrings",
+      "piercings"
+    ],
+    "note": "bald piercing girl"
+  },
+  "us-137": {
+    "id": "us-137",
+    "name": {
+      "en": "Márcia",
+      "pt": "Karen"
+    },
+    "gender": "female",
+    "ethnicity": "white",
+    "age": "40-50",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "shortHair",
+      "blondeHair",
+      "earrings"
+    ],
+    "note": "karen"
+  },
+  "us-138": {
+    "id": "us-138",
+    "name": {
+      "en": "Ana Maria",
+      "pt": "Maria"
+    },
+    "gender": "female",
+    "ethnicity": "latina",
+    "age": "30-40",
+    "height": "short",
+    "build": "average",
+    "features": [
+      "brownHair",
+      "mediumHair",
+      "earrings"
+    ],
+    "note": "disney adult"
+  },
+  "us-139": {
+    "id": "us-139",
+    "name": {
+      "en": "Marlon",
+      "pt": "Marlon"
+    },
+    "gender": "male",
+    "ethnicity": "white",
+    "age": "30-40",
+    "height": "short",
+    "build": "average",
+    "features": [
+      "shortHair",
+      "blondeHair",
+      "noAccessories"
+    ],
+    "note": "dwarf"
   },
   "us-14": {
     "id": "us-14",
@@ -852,6 +990,26 @@
       "blondeHair",
       "shortHair"
     ]
+  },
+  "us-140": {
+    "id": "us-140",
+    "name": {
+      "en": "Ray",
+      "pt": "Raimundo"
+    },
+    "gender": "male",
+    "ethnicity": "white",
+    "age": "40-50",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "shortHair",
+      "brownHair",
+      "mustache",
+      "beard",
+      "noAccessories"
+    ],
+    "note": "creepy janitor"
   },
   "us-15": {
     "id": "us-15",
@@ -903,7 +1061,8 @@
     "build": "large",
     "features": [
       "brownHair",
-      "shortHair"
+      "shortHair",
+      "noAccessories"
     ]
   },
   "us-18": {
@@ -922,7 +1081,8 @@
       "mustache",
       "shortHair",
       "hat"
-    ]
+    ],
+    "note": "landowner"
   },
   "us-19": {
     "id": "us-19",
@@ -973,7 +1133,8 @@
     "height": "short",
     "build": "large",
     "features": [
-      "headscarf"
+      "headscarf",
+      "lipstick"
     ]
   },
   "us-22": {
@@ -1079,7 +1240,8 @@
     "build": "average",
     "features": [
       "bald",
-      "greyHair"
+      "greyHair",
+      "noAccessories"
     ]
   },
   "us-28": {
@@ -1204,7 +1366,8 @@
     "features": [
       "bald",
       "brownHair",
-      "beard"
+      "beard",
+      "noAccessories"
     ]
   },
   "us-35": {
@@ -1221,7 +1384,8 @@
     "features": [
       "shortHair",
       "blackHair",
-      "bald"
+      "bald",
+      "noAccessories"
     ]
   },
   "us-36": {
@@ -1370,7 +1534,8 @@
     "features": [
       "longHair",
       "brownHair",
-      "lipstick"
+      "lipstick",
+      "noAccessories"
     ]
   },
   "us-44": {
@@ -1425,7 +1590,8 @@
     "features": [
       "shortHair",
       "blackHair",
-      "mustache"
+      "mustache",
+      "noAccessories"
     ]
   },
   "us-47": {
@@ -1495,7 +1661,8 @@
     "features": [
       "beard",
       "brownHair",
-      "shortHair"
+      "shortHair",
+      "noAccessories"
     ]
   },
   "us-51": {
@@ -1584,7 +1751,8 @@
     "features": [
       "longHair",
       "coloredHair",
-      "lipstick"
+      "lipstick",
+      "noAccessories"
     ]
   },
   "us-56": {
@@ -1762,7 +1930,8 @@
     "build": "average",
     "features": [
       "shortHair",
-      "brownHair"
+      "brownHair",
+      "noAccessories"
     ]
   },
   "us-66": {
@@ -1885,7 +2054,8 @@
     "build": "thin",
     "features": [
       "shortHair",
-      "brownHair"
+      "brownHair",
+      "noAccessories"
     ]
   },
   "us-73": {
@@ -1902,7 +2072,8 @@
     "features": [
       "redHair",
       "shortHair",
-      "lipstick"
+      "lipstick",
+      "noAccessories"
     ]
   },
   "us-74": {
@@ -2096,7 +2267,8 @@
     "features": [
       "brownHair",
       "shortHair",
-      "beard"
+      "beard",
+      "hoodie"
     ]
   },
   "us-85": {
@@ -2164,7 +2336,8 @@
     "build": "thin",
     "features": [
       "shortHair",
-      "brownHair"
+      "brownHair",
+      "noAccessories"
     ]
   },
   "us-89": {
@@ -2200,7 +2373,8 @@
     "features": [
       "lipstick",
       "longHair",
-      "redHair"
+      "redHair",
+      "noAccessories"
     ]
   },
   "us-91": {
@@ -2216,7 +2390,8 @@
     "build": "muscular",
     "features": [
       "shortHair",
-      "blackHair"
+      "blackHair",
+      "noAccessories"
     ]
   },
   "us-92": {
@@ -2251,7 +2426,8 @@
     "build": "large",
     "features": [
       "redHair",
-      "shortHair"
+      "shortHair",
+      "noAccessories"
     ]
   },
   "us-94": {
@@ -2268,7 +2444,8 @@
     "features": [
       "shortHair",
       "brownHair",
-      "beard"
+      "beard",
+      "noAccessories"
     ]
   },
   "us-95": {
@@ -2285,7 +2462,8 @@
     "features": [
       "shortHair",
       "beard",
-      "brownHair"
+      "brownHair",
+      "noAccessories"
     ]
   },
   "us-96": {
@@ -2336,7 +2514,8 @@
     "features": [
       "brownHair",
       "shortHair",
-      "beard"
+      "beard",
+      "noAccessories"
     ]
   },
   "us-99": {
@@ -2356,117 +2535,5 @@
       "earrings",
       "necklace"
     ]
-  },
-  "us-133": {
-    "id": "us-133",
-    "name": {
-      "en": "aaa",
-      "pt": "aaa"
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "note": "monk"
-  },
-  "us-134": {
-    "id": "us-134",
-    "name": {
-      "en": "aaa",
-      "pt": "aaa"
-    },
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "note": "heir"
-  },
-  "us-135": {
-    "id": "us-135",
-    "name": {
-      "en": "aaa",
-      "pt": "aaa"
-    },
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "note": "bodybuilder"
-  },
-  "us-136": {
-    "id": "us-136",
-    "name": {
-      "en": "aaa",
-      "pt": "aaa"
-    },
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "note": "bald piercing girl"
-  },
-  "us-137": {
-    "id": "us-137",
-    "name": {
-      "en": "aaa",
-      "pt": "aaa"
-    },
-    "gender": "female",
-    "ethnicity": "white",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "note": "karen"
-  },
-  "us-138": {
-    "id": "us-138",
-    "name": {
-      "en": "aaa",
-      "pt": "aaa"
-    },
-    "gender": "female",
-    "ethnicity": "latina",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "note": "disney adult"
-  },
-  "us-139": {
-    "id": "us-139",
-    "name": {
-      "en": "aaa",
-      "pt": "aaa"
-    },
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "note": "dwarf"
-  },
-  "us-140": {
-    "id": "us-140",
-    "name": {
-      "en": "aaa",
-      "pt": "aaa"
-    },
-    "gender": "male",
-    "ethnicity": "white",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
-    "note": "creepy janitor"
   }
 }
