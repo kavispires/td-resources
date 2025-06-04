@@ -263,11 +263,12 @@
       "1285",
       "2771"
     ],
-    "level": 3
+    "level": 4
   },
   "037eb": {
     "id": "037eb",
     "title": "Harry Potter",
+    "type": "thematic",
     "itemsIds": [
       "151",
       "446",
@@ -291,6 +292,7 @@
   "03cdc": {
     "id": "03cdc",
     "title": "Relaxar",
+    "type": "general",
     "itemsIds": [
       "1",
       "442",
@@ -316,6 +318,7 @@
   "040b2": {
     "id": "040b2",
     "title": "Catástrofes",
+    "type": "general",
     "itemsIds": [
       "1414",
       "1415",
@@ -378,6 +381,7 @@
   "05a13": {
     "id": "05a13",
     "title": "México",
+    "type": "thematic",
     "itemsIds": [
       "57",
       "173",
@@ -422,6 +426,7 @@
   "08636": {
     "id": "08636",
     "title": "Pássaros",
+    "type": "general",
     "itemsIds": [
       "117",
       "230",
@@ -442,7 +447,8 @@
       "88",
       "151",
       "667",
-      "757"
+      "757",
+      "2950"
     ],
     "level": 2
   },
@@ -484,6 +490,16 @@
       "492"
     ],
     "level": 2
+  },
+  "0b09c": {
+    "id": "0b09c",
+    "title": "Coisas de Pobre",
+    "type": "thematic",
+    "itemsIds": [
+      "3003",
+      "3062"
+    ],
+    "level": 0
   },
   "0b55e": {
     "id": "0b55e",
@@ -1414,6 +1430,26 @@
       "661",
       "673",
       "674"
+    ],
+    "level": 1
+  },
+  "40e5c": {
+    "id": "40e5c",
+    "title": "TV",
+    "type": "attribute",
+    "itemsIds": [
+      "2962",
+      "1679",
+      "1949",
+      "1498",
+      "1321",
+      "177",
+      "130",
+      "2734",
+      "1125",
+      "2733",
+      "2732",
+      "2367"
     ],
     "level": 1
   },
@@ -4443,6 +4479,7 @@
   "f851f": {
     "id": "f851f",
     "title": "Membros coporais",
+    "type": "general",
     "itemsIds": [
       "203",
       "530",
