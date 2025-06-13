@@ -360,7 +360,7 @@
 			"pt": "Téo"
 		},
 		"gender": "male",
-		"ethnicity": "white",
+		"ethnicity": "caucasian",
 		"age": "21-30",
 		"height": "medium",
 		"build": "thin",
@@ -646,20 +646,22 @@
 		"height": "short",
 		"build": "thin",
 		"features": ["bald", "greyHair", "noAccessories"],
+		"gbExclusive": true,
 		"note": "monk"
 	},
 	"us-134": {
 		"id": "us-134",
 		"name": {
 			"en": "Tyler",
-			"pt": "Thales"
+			"pt": "Tháles"
 		},
 		"gender": "male",
-		"ethnicity": "white",
+		"ethnicity": "caucasian",
 		"age": "18-21",
 		"height": "medium",
 		"build": "muscular",
 		"features": ["brownHair", "shortHair", "tie"],
+		"gbExclusive": true,
 		"note": "heir"
 	},
 	"us-135": {
@@ -669,11 +671,12 @@
 			"pt": "Cássio"
 		},
 		"gender": "male",
-		"ethnicity": "white",
+		"ethnicity": "caucasian",
 		"age": "30-40",
 		"height": "medium",
 		"build": "muscular",
 		"features": ["shortHair", "blondeHair", "noAccessories"],
+		"gbExclusive": true,
 		"note": "bodybuilder"
 	},
 	"us-136": {
@@ -683,32 +686,34 @@
 			"pt": "Melissa"
 		},
 		"gender": "female",
-		"ethnicity": "white",
+		"ethnicity": "caucasian",
 		"age": "21-30",
 		"height": "medium",
 		"build": "thin",
 		"features": ["bald", "earrings", "piercings"],
+		"gbExclusive": true,
 		"note": "bald piercing girl"
 	},
 	"us-137": {
 		"id": "us-137",
 		"name": {
-			"en": "Márcia",
-			"pt": "Karen"
+			"en": "Karen",
+			"pt": "Márcia"
 		},
 		"gender": "female",
-		"ethnicity": "white",
+		"ethnicity": "caucasian",
 		"age": "40-50",
 		"height": "medium",
 		"build": "average",
 		"features": ["shortHair", "blondeHair", "earrings"],
+		"gbExclusive": true,
 		"note": "karen"
 	},
 	"us-138": {
 		"id": "us-138",
 		"name": {
-			"en": "Ana Maria",
-			"pt": "Maria"
+			"en": "Maria",
+			"pt": "Ana Maria"
 		},
 		"gender": "female",
 		"ethnicity": "latino",
@@ -716,6 +721,7 @@
 		"height": "short",
 		"build": "average",
 		"features": ["brownHair", "mediumHair", "earrings"],
+		"gbExclusive": true,
 		"note": "the disney adult"
 	},
 	"us-139": {
@@ -725,11 +731,12 @@
 			"pt": "Marlon"
 		},
 		"gender": "male",
-		"ethnicity": "white",
+		"ethnicity": "caucasian",
 		"age": "30-40",
 		"height": "short",
 		"build": "average",
 		"features": ["shortHair", "blondeHair", "noAccessories"],
+		"gbExclusive": true,
 		"note": "dwarf"
 	},
 	"us-14": {
@@ -749,11 +756,11 @@
 	"us-140": {
 		"id": "us-140",
 		"name": {
-			"en": "Ray",
+			"en": "Raymond",
 			"pt": "Raimundo"
 		},
 		"gender": "male",
-		"ethnicity": "white",
+		"ethnicity": "caucasian",
 		"age": "40-50",
 		"height": "tall",
 		"build": "average",
@@ -764,7 +771,143 @@
 			"beard",
 			"noAccessories"
 		],
+		"gbExclusive": true,
 		"note": "creepy janitor"
+	},
+	"us-141": {
+		"id": "us-141",
+		"name": {
+			"en": "Howard",
+			"pt": "Horácio"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "large",
+		"features": ["bald", "shortHair", "brownHair", "glasses"],
+		"gbExclusive": true,
+		"note": "the pervert nerd"
+	},
+	"us-142": {
+		"id": "us-142",
+		"name": {
+			"en": "Salma",
+			"pt": "Suellen"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "21-30",
+		"height": "short",
+		"build": "average",
+		"features": ["lipstick", "blackHair", "longHair", "earrings", "necklace"],
+		"gbExclusive": true,
+		"note": "the chola"
+	},
+	"us-143": {
+		"id": "us-143",
+		"name": {
+			"en": "Peter",
+			"pt": "Pedro"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "tall",
+		"build": "thin",
+		"features": ["mediumHair", "blackHair", "piercings"],
+		"gbExclusive": true,
+		"note": "the emo"
+	},
+	"us-144": {
+		"id": "us-144",
+		"name": {
+			"en": "",
+			"pt": "Diogo"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "muscular",
+		"features": ["bald", "goatee"],
+		"gbExclusive": true,
+		"note": "the excon"
+	},
+	"us-145": {
+		"id": "us-145",
+		"name": {
+			"en": "Selena",
+			"pt": "Selena"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "short",
+		"build": "average",
+		"features": ["mediumHair", "blackHair"],
+		"gbExclusive": true,
+		"note": "the clerk"
+	},
+	"us-146": {
+		"id": "us-146",
+		"name": {
+			"en": "Linda",
+			"pt": "Lurdes"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "medium",
+		"build": "thin",
+		"features": ["glasses", "brownHair", "longHair", "necklace"],
+		"gbExclusive": true,
+		"note": "the young old lady"
+	},
+	"us-147": {
+		"id": "us-147",
+		"name": {
+			"en": "Ronald",
+			"pt": "Ronaldo"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "thin",
+		"features": ["blondeHair", "shortHair", "noAccessories"],
+		"gbExclusive": true,
+		"note": "the addict"
+	},
+	"us-148": {
+		"id": "us-148",
+		"name": {
+			"en": "Felix",
+			"pt": "Félix"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": ["noAccessories"],
+		"gbExclusive": true,
+		"note": "the albino"
+	},
+	"us-149": {
+		"id": "us-149",
+		"name": {
+			"en": "Kaya",
+			"pt": "Kala"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": ["longHair", "blackHair"],
+		"gbExclusive": true,
+		"note": "the native girl"
 	},
 	"us-15": {
 		"id": "us-15",
@@ -778,6 +921,21 @@
 		"height": "medium",
 		"build": "average",
 		"features": ["blondeHair", "shortHair", "beard", "scarf"]
+	},
+	"us-150": {
+		"id": "us-150",
+		"name": {
+			"en": "Mistress Raven",
+			"pt": "Madame Corvina"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "muscular",
+		"features": ["mediumHair", "blackHair", "lipstick"],
+		"gbExclusive": true,
+		"note": "the dominatrix"
 	},
 	"us-16": {
 		"id": "us-16",
@@ -1488,7 +1646,7 @@
 	"us-68": {
 		"id": "us-68",
 		"name": {
-			"en": "Peter",
+			"en": "Powa",
 			"pt": "Pequi"
 		},
 		"gender": "male",
@@ -1787,8 +1945,8 @@
 	"us-91": {
 		"id": "us-91",
 		"name": {
-			"en": "Maeda",
-			"pt": "Maeda"
+			"en": "Takeshi",
+			"pt": "Takeshi"
 		},
 		"gender": "male",
 		"ethnicity": "asian",
@@ -1900,135 +2058,5 @@
 		"height": "medium",
 		"build": "muscular",
 		"features": ["brownHair", "shortHair", "earrings", "necklace"]
-	},
-	"us-141": {
-		"id": "us-141",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-142": {
-		"id": "us-142",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-143": {
-		"id": "us-143",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-144": {
-		"id": "us-144",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-145": {
-		"id": "us-145",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-146": {
-		"id": "us-146",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-147": {
-		"id": "us-147",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-148": {
-		"id": "us-148",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-149": {
-		"id": "us-149",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
-	},
-	"us-150": {
-		"id": "us-150",
-		"name": {
-			"en": "",
-			"pt": ""
-		},
-		"gender": "male",
-		"ethnicity": "caucasian",
-		"age": "",
-		"height": "",
-		"build": "",
-		"features": []
 	}
 }
