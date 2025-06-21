@@ -293,6 +293,7 @@
   "039be": {
     "id": "039be",
     "title": "Muitos",
+    "type": "visual",
     "itemsIds": [
       "270",
       "350",
@@ -359,16 +360,19 @@
   "04478": {
     "id": "04478",
     "title": "Trancado",
+    "type": "general",
     "itemsIds": [
       "56",
       "266",
-      "482"
+      "482",
+      "1242"
     ],
-    "level": 0
+    "level": 1
   },
   "044f9": {
     "id": "044f9",
     "title": "Sistema imunológico",
+    "type": "general",
     "itemsIds": [
       "68",
       "208",
@@ -494,6 +498,7 @@
   "0a543": {
     "id": "0a543",
     "title": "Gira",
+    "type": "attribute",
     "itemsIds": [
       "51",
       "138",
@@ -509,18 +514,21 @@
     "type": "thematic",
     "itemsIds": [
       "3003",
-      "3062"
+      "3062",
+      "2550"
     ],
     "level": 0
   },
   "0b55e": {
     "id": "0b55e",
     "title": "Notas musicais",
+    "type": "visual",
     "itemsIds": [
       "143",
       "789",
       "1497",
-      "1605"
+      "1605",
+      "3177"
     ],
     "level": 1
   },
@@ -603,13 +611,14 @@
   "1126f": {
     "id": "1126f",
     "title": "Vamos salvar vidas",
+    "type": "general",
     "itemsIds": [
       "69",
       "224",
       "282",
       "354"
     ],
-    "level": 0
+    "level": 3
   },
   "123da": {
     "id": "123da",
