@@ -96,6 +96,7 @@
       "envelope"
     ],
     "decks": [
+      "age3",
       "alien",
       "evidence",
       "manufactured"
@@ -402,6 +403,7 @@
       "pt": "bicicleta"
     },
     "decks": [
+      "age3",
       "alien",
       "dream",
       "evidence",
@@ -415,6 +417,7 @@
       "pt": "haltere"
     },
     "decks": [
+      "age4",
       "alien",
       "dream",
       "manufactured",
@@ -3170,9 +3173,13 @@
   "229": {
     "id": "229",
     "name": {
-      "en": "trash",
-      "pt": "lixo"
+      "en": "trash can",
+      "pt": "lixeira"
     },
+    "aliasesPt": [
+      "cesto de lixo",
+      "lixo"
+    ],
     "decks": [
       "age3",
       "alien",
@@ -20549,6 +20556,7 @@
       "pt": "beija-flor"
     },
     "decks": [
+      "age1",
       "alien",
       "dream",
       "thing"
@@ -20924,6 +20932,7 @@
       "pt": "runas"
     },
     "decks": [
+      "age2",
       "alien",
       "dream",
       "evidence"
@@ -21011,6 +21020,7 @@
       "pt": "absorvente interno"
     },
     "decks": [
+      "age4",
       "alien",
       "dream",
       "evidence",
@@ -24603,6 +24613,9 @@
       "en": "mitre",
       "pt": "mitra"
     },
+    "aliasesEn": [
+      "bishop hat"
+    ],
     "decks": [
       "age2",
       "alien",
@@ -28070,9 +28083,15 @@
   "2233": {
     "id": "2233",
     "name": {
-      "en": "dizzy/crazy",
-      "pt": "tonto/doido"
+      "en": "dizzy",
+      "pt": "tonto"
     },
+    "aliasesEn": [
+      "crazy"
+    ],
+    "aliasesPt": [
+      "doido"
+    ],
     "decks": [
       "meta",
       "symbol"
@@ -37949,6 +37968,9 @@
       "en": "stole",
       "pt": "estola"
     },
+    "aliasesEn": [
+      "priest scarf"
+    ],
     "decks": [
       "age2",
       "alien",
@@ -40311,6 +40333,276 @@
     "decks": [
       "alien",
       "evidence"
+    ],
+    "groups": []
+  },
+  "3170": {
+    "id": "3170",
+    "name": {
+      "en": "utopia",
+      "pt": "utopia"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3171": {
+    "id": "3171",
+    "name": {
+      "en": "biography",
+      "pt": "biografia"
+    },
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3172": {
+    "id": "3172",
+    "name": {
+      "en": "flower essence",
+      "pt": "floral"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3173": {
+    "id": "3173",
+    "name": {
+      "en": "global warming",
+      "pt": "aquecimento global"
+    },
+    "aliasesEn": [
+      "climate change"
+    ],
+    "aliasesPt": [
+      "mudança climática"
+    ],
+    "decks": [
+      "age5"
+    ],
+    "groups": []
+  },
+  "3174": {
+    "id": "3174",
+    "name": {
+      "en": "Inhalants",
+      "pt": "inalantes"
+    },
+    "aliasesPt": [
+      "cola",
+      "loló"
+    ],
+    "decks": [
+      "weapon"
+    ],
+    "groups": []
+  },
+  "3175": {
+    "id": "3175",
+    "name": {
+      "en": "glass of water",
+      "pt": " copo d'água"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3176": {
+    "id": "3176",
+    "name": {
+      "en": "acid rain",
+      "pt": "chuva ácida"
+    },
+    "decks": [
+      "alien",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "3177": {
+    "id": "3177",
+    "name": {
+      "en": "sound system",
+      "pt": "microsystem"
+    },
+    "aliasesPt": [
+      "aparelho de som"
+    ],
+    "decks": [
+      "alien"
+    ],
+    "groups": []
+  },
+  "3178": {
+    "id": "3178",
+    "name": {
+      "en": "bleeding",
+      "pt": "sangramento"
+    },
+    "aliasesEn": [
+      "laceration"
+    ],
+    "aliasesPt": [
+      "laceração"
+    ],
+    "decks": [
+      "dream",
+      "weapon"
+    ],
+    "groups": []
+  },
+  "3179": {
+    "id": "3179",
+    "name": {
+      "en": "pension",
+      "pt": "aposentadoria"
+    },
+    "aliasesEn": [
+      "retirement"
+    ],
+    "aliasesPt": [
+      "pensão"
+    ],
+    "decks": [
+      "dream"
+    ],
+    "groups": []
+  },
+  "3180": {
+    "id": "3180",
+    "name": {
+      "en": "resources",
+      "pt": "recursos"
+    },
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3181": {
+    "id": "3181",
+    "name": {
+      "en": "stone wheel",
+      "pt": "roda de pedra"
+    },
+    "aliasesEn": [
+      "wheel"
+    ],
+    "aliasesPt": [
+      "roda"
+    ],
+    "decks": [
+      "age1",
+      "meta"
+    ],
+    "groups": []
+  },
+  "3182": {
+    "id": "3182",
+    "name": {
+      "en": "ruins",
+      "pt": "ruínas"
+    },
+    "aliasesEn": [
+      "destruction"
+    ],
+    "aliasesPt": [
+      "destruição"
+    ],
+    "decks": [
+      "dream",
+      "location"
+    ],
+    "groups": []
+  },
+  "3183": {
+    "id": "3183",
+    "name": {
+      "en": "balcony",
+      "pt": "sacada"
+    },
+    "aliasesPt": [
+      "varanda"
+    ],
+    "decks": [
+      "alien",
+      "location"
+    ],
+    "groups": []
+  },
+  "3184": {
+    "id": "3184",
+    "name": {
+      "en": "step",
+      "pt": "degrau"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3185": {
+    "id": "3185",
+    "name": {
+      "en": "null",
+      "pt": "nulo"
+    },
+    "aliasesEn": [
+      "empty",
+      "nothing"
+    ],
+    "aliasesPt": [
+      "nada",
+      "vazio"
+    ],
+    "decks": [
+      "meta"
+    ],
+    "groups": []
+  },
+  "3186": {
+    "id": "3186",
+    "name": {
+      "en": "mug",
+      "pt": "caneca"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "thing"
+    ],
+    "groups": []
+  },
+  "3187": {
+    "id": "3187",
+    "name": {
+      "en": "trash",
+      "pt": "lixo"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ],
+    "groups": []
+  },
+  "3188": {
+    "id": "3188",
+    "name": {
+      "en": "matchbox",
+      "pt": "caixa de fósforos"
+    },
+    "decks": [
+      "age4",
+      "alien",
+      "dream"
     ],
     "groups": []
   }
