@@ -23,6 +23,7 @@
 			"patternedShirt",
 			"yellowClothes"
 		],
+		"note": "the poet",
 		"prompt": "28-year-old black man"
 	},
 	"us-02": {
@@ -255,9 +256,10 @@
 		"gender": "male",
 		"ethnicity": "asian",
 		"age": "30-40",
-		"height": "medium",
+		"height": "short",
 		"build": "average",
 		"features": ["hat", "glasses", "shortHair", "blackHair", "avoidingCamera"],
+		"note": "",
 		"prompt": "34  year-old Chinese man"
 	},
 	"us-102": {
@@ -540,7 +542,7 @@
 		"gender": "male",
 		"ethnicity": "asian",
 		"age": "18-21",
-		"height": "medium",
+		"height": "tall",
 		"build": "thin",
 		"features": [
 			"shortHair",
@@ -549,6 +551,7 @@
 			"whiteShirt",
 			"blueClothes"
 		],
+		"note": "the korean boy",
 		"prompt": "20 year-old Korean guy"
 	},
 	"us-114": {
@@ -1081,7 +1084,7 @@
 		"features": ["shortHair", "blondeHair", "noAccessories"],
 		"gbExclusive": true,
 		"note": "the bodybuilder",
-		"prompt": "37-year-old white bodybuilder"
+		"prompt": "37-year-old white bodybuilder with oiled torso"
 	},
 	"us-136": {
 		"id": "us-136",
@@ -2426,6 +2429,7 @@
 		"height": "short",
 		"build": "average",
 		"features": ["shortHair", "blackHair", "tie", "buttonShirt", "blueClothes"],
+		"note": "the peruvian guy",
 		"prompt": "30 year-old dark latino man"
 	},
 	"us-63": {
@@ -3120,7 +3124,7 @@
 			"noAccessories",
 			"blackClothes"
 		],
-		"prompt": "42 year-old white man"
+		"prompt": "42 year-old mixed race latino man"
 	},
 	"us-99": {
 		"id": "us-99",
