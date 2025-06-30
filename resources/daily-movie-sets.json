@@ -146,7 +146,12 @@
   "dms-112-pt": {
     "id": "dms-112-pt",
     "title": "Ave, César!",
-    "itemsIds": [],
+    "itemsIds": [
+      "1492",
+      "2577",
+      "2101",
+      "2181"
+    ],
     "year": 2016
   },
   "dms-113-pt": {
@@ -1509,7 +1514,14 @@
   "dms-249-pt": {
     "id": "dms-249-pt",
     "title": "Mad Max: Estrada da Fúria",
-    "itemsIds": [],
+    "itemsIds": [
+      "2426",
+      "1517",
+      "1225",
+      "2183",
+      "1891",
+      "2073"
+    ],
     "year": 2015
   },
   "dms-25-pt": {
@@ -2027,7 +2039,10 @@
   "dms-300-pt": {
     "id": "dms-300-pt",
     "title": "O Corcunda de Notre Dame",
-    "itemsIds": [],
+    "itemsIds": [
+      "1775",
+      "3144"
+    ],
     "year": 1996
   },
   "dms-301-pt": {
@@ -2354,7 +2369,11 @@
   "dms-335-pt": {
     "id": "dms-335-pt",
     "title": "O Irlandês",
-    "itemsIds": [],
+    "itemsIds": [
+      "1734",
+      "2101",
+      "188"
+    ],
     "year": 2019
   },
   "dms-336-pt": {
@@ -2592,7 +2611,10 @@
   "dms-36-pt": {
     "id": "dms-36-pt",
     "title": "A Casa da Mãe Joana",
-    "itemsIds": [],
+    "itemsIds": [
+      "107",
+      "3133"
+    ],
     "year": 2000
   },
   "dms-360-pt": {
@@ -2917,7 +2939,11 @@
   "dms-392-pt": {
     "id": "dms-392-pt",
     "title": "Os Infiltrados",
-    "itemsIds": [],
+    "itemsIds": [
+      "2101",
+      "2237",
+      "995"
+    ],
     "year": 2006
   },
   "dms-393-pt": {
@@ -3107,7 +3133,10 @@
   "dms-410-pt": {
     "id": "dms-410-pt",
     "title": "Pixels",
-    "itemsIds": [],
+    "itemsIds": [
+      "3102",
+      "3102"
+    ],
     "year": 2015
   },
   "dms-411-pt": {
@@ -3403,7 +3432,10 @@
   "dms-440-pt": {
     "id": "dms-440-pt",
     "title": "Soul - Uma Aventura com Alma",
-    "itemsIds": [],
+    "itemsIds": [
+      "2418",
+      "1431"
+    ],
     "year": 2020
   },
   "dms-441-pt": {
@@ -3812,13 +3844,21 @@
   "dms-481-pt": {
     "id": "dms-481-pt",
     "title": "Up: Altas Aventuras",
-    "itemsIds": [],
+    "itemsIds": [
+      "2097",
+      "812",
+      "107",
+      "1431",
+      "148"
+    ],
     "year": 2009
   },
   "dms-482-pt": {
     "id": "dms-482-pt",
     "title": "V de Vingança",
-    "itemsIds": [],
+    "itemsIds": [
+      "3145"
+    ],
     "year": 2005
   },
   "dms-483-pt": {
@@ -3895,9 +3935,17 @@
   },
   "dms-491-pt": {
     "id": "dms-491-pt",
-    "title": "Vivo",
-    "itemsIds": [],
-    "year": 2021
+    "title": "Guerreiras do Kpop",
+    "itemsIds": [
+      "2919",
+      "1267",
+      "2238",
+      "2236",
+      "2100",
+      "273",
+      "143"
+    ],
+    "year": 2025
   },
   "dms-492-pt": {
     "id": "dms-492-pt",
@@ -3943,6 +3991,35 @@
     ],
     "year": 2016
   },
+  "dms-497-pt": {
+    "id": "dms-497-pt",
+    "title": "Código Preto",
+    "itemsIds": [
+      "1484",
+      "2059"
+    ],
+    "year": 2025
+  },
+  "dms-498-pt": {
+    "id": "dms-498-pt",
+    "title": "O Último Suspiro",
+    "itemsIds": [
+      "3161",
+      "1346"
+    ],
+    "year": 2025
+  },
+  "dms-499-pt": {
+    "id": "dms-499-pt",
+    "title": "Bailarina",
+    "itemsIds": [
+      "1244",
+      "2478",
+      "2018",
+      "2025"
+    ],
+    "year": 2025
+  },
   "dms-5-pt": {
     "id": "dms-5-pt",
     "title": "007 - O Espião que me Amava",
@@ -3962,6 +4039,45 @@
       "854"
     ],
     "year": 1996
+  },
+  "dms-500-pt": {
+    "id": "dms-500-pt",
+    "title": "Premonição 6: Laços de Sangue",
+    "itemsIds": [
+      "611",
+      "136",
+      "2185"
+    ],
+    "year": 2025
+  },
+  "dms-501-pt": {
+    "id": "dms-501-pt",
+    "title": "Acompanhante Perfeita",
+    "itemsIds": [
+      "3031"
+    ],
+    "year": 2025
+  },
+  "dms-502-pt": {
+    "id": "dms-502-pt",
+    "title": "Tempo de Guerra",
+    "itemsIds": [
+      "1967",
+      "368"
+    ],
+    "year": 2025
+  },
+  "dms-503-pt": {
+    "id": "dms-503-pt",
+    "title": "Pecadores",
+    "itemsIds": [
+      "2015",
+      "2015",
+      "2426",
+      "2424",
+      "2425"
+    ],
+    "year": 2025
   },
   "dms-51-pt": {
     "id": "dms-51-pt",
@@ -4160,9 +4276,13 @@
   },
   "dms-72-pt": {
     "id": "dms-72-pt",
-    "title": "A Possessão de Deborah Logan",
-    "itemsIds": [],
-    "year": 2014
+    "title": "Novocaine: À Prova de Dor",
+    "itemsIds": [
+      "1258",
+      "2765",
+      "2461"
+    ],
+    "year": 2025
   },
   "dms-73-pt": {
     "id": "dms-73-pt",
