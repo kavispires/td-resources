@@ -1,13 +1,12 @@
 {
   "29949": {
     "id": "29949",
-    "title": "Veículos",
+    "title": "Com a carinha de um bebezinho",
+    "type": "visual",
     "itemsIds": [
-      "10",
-      "166",
-      "179",
-      "195",
-      "509"
+      "2111",
+      "2196",
+      "2558"
     ],
     "level": 1
   },
@@ -45,7 +44,9 @@
       "55",
       "768",
       "730",
-      "1272"
+      "1272",
+      "2249",
+      "258"
     ],
     "level": 1
   },
@@ -81,6 +82,7 @@
   "42482": {
     "id": "42482",
     "title": "Caixas",
+    "type": "attribute",
     "itemsIds": [
       "7",
       "289",
@@ -93,6 +95,7 @@
   "43907": {
     "id": "43907",
     "title": "Cozinheiro",
+    "type": "thematic",
     "itemsIds": [
       "281",
       "290",
@@ -113,9 +116,22 @@
     ],
     "level": 2
   },
+  "48372": {
+    "id": "48372",
+    "title": "Coisas que estouram",
+    "type": "general",
+    "itemsIds": [
+      "812",
+      "677",
+      "239",
+      "201"
+    ],
+    "level": 3
+  },
   "48410": {
     "id": "48410",
     "title": "Parabéns pra você",
+    "type": "thematic",
     "itemsIds": [
       "8",
       "71",
@@ -126,14 +142,17 @@
   },
   "51036": {
     "id": "51036",
-    "title": "Portas",
+    "title": "Eletrodomésticos com portas",
     "type": "attribute",
     "itemsIds": [
-      "107",
       "152",
       "154",
       "475",
-      "509"
+      "918",
+      "1564",
+      "2464",
+      "606",
+      "1687"
     ],
     "level": 2
   },
@@ -161,6 +180,46 @@
       "2408"
     ],
     "level": 1
+  },
+  "57091": {
+    "id": "57091",
+    "title": "Numa arena esportiva",
+    "type": "thematic",
+    "itemsIds": [
+      "2864",
+      "1356",
+      "914",
+      "1186",
+      "1419"
+    ],
+    "level": 1
+  },
+  "59157": {
+    "id": "59157",
+    "title": "Acessível",
+    "type": "general",
+    "itemsIds": [
+      "3081",
+      "3027",
+      "3026",
+      "3049"
+    ],
+    "level": 2
+  },
+  "60994": {
+    "id": "60994",
+    "title": "Tem um X",
+    "type": "visual",
+    "itemsIds": [
+      "2991",
+      "2987",
+      "2863",
+      "1709",
+      "3091",
+      "1722",
+      "1321"
+    ],
+    "level": 2
   },
   "64444": {
     "id": "64444",
@@ -224,6 +283,26 @@
     ],
     "level": 1
   },
+  "87852": {
+    "id": "87852",
+    "title": "Com as canelas de fora",
+    "type": "general",
+    "itemsIds": [
+      "660",
+      "2763",
+      "1962"
+    ],
+    "level": 1
+  },
+  "90947": {
+    "id": "90947",
+    "title": "Porção Individual",
+    "type": "general",
+    "itemsIds": [
+      "1382"
+    ],
+    "level": 0
+  },
   "91162": {
     "id": "91162",
     "title": "No pulso",
@@ -248,6 +327,31 @@
       "2190"
     ],
     "level": 2
+  },
+  "94449": {
+    "id": "94449",
+    "title": "Lugares pra comprar comida",
+    "type": "general",
+    "itemsIds": [
+      "1824",
+      "1823",
+      "2880",
+      "2722",
+      "1618",
+      "1557"
+    ],
+    "level": 1
+  },
+  "96464": {
+    "id": "96464",
+    "title": "Xícaras",
+    "type": "general",
+    "itemsIds": [
+      "3132",
+      "569",
+      "3186"
+    ],
+    "level": 0
   },
   "96999": {
     "id": "96999",
@@ -318,6 +422,7 @@
     "id": "039be",
     "title": "Muitos",
     "type": "visual",
+    "flagged": true,
     "itemsIds": [
       "270",
       "350",
@@ -389,7 +494,8 @@
       "56",
       "266",
       "482",
-      "1242"
+      "1242",
+      "2263"
     ],
     "level": 1
   },
@@ -407,14 +513,16 @@
   },
   "0578d": {
     "id": "0578d",
-    "title": "Esportes",
+    "title": "Exclamação",
+    "type": "visual",
     "itemsIds": [
-      "64",
-      "189",
-      "303",
-      "328",
-      "536",
-      "592"
+      "3173",
+      "3153",
+      "3078",
+      "2082",
+      "2944",
+      "1574",
+      "2074"
     ],
     "level": 1
   },
@@ -435,6 +543,19 @@
       "1539"
     ],
     "level": 1
+  },
+  "05b63": {
+    "id": "05b63",
+    "title": "Café da manhã americano",
+    "type": "thematic",
+    "itemsIds": [
+      "796",
+      "1460",
+      "1467",
+      "42",
+      "2454"
+    ],
+    "level": 2
   },
   "05bf0": {
     "id": "05bf0",
@@ -466,11 +587,14 @@
   "06843": {
     "id": "06843",
     "title": "Cinco pessoas",
+    "type": "visual",
     "itemsIds": [
       "1014",
-      "3140"
+      "3140",
+      "1547",
+      "1589"
     ],
-    "level": 0
+    "level": 3
   },
   "08636": {
     "id": "08636",
@@ -491,6 +615,7 @@
   "08dba": {
     "id": "08dba",
     "title": "Animais perigosos",
+    "type": "general",
     "itemsIds": [
       "81",
       "88",
@@ -504,6 +629,7 @@
   "0916a": {
     "id": "0916a",
     "title": "Costureira",
+    "type": "thematic",
     "itemsIds": [
       "169",
       "202",
@@ -514,9 +640,22 @@
     ],
     "level": 2
   },
+  "09d50": {
+    "id": "09d50",
+    "title": "Fumante",
+    "type": "general",
+    "itemsIds": [
+      "95",
+      "803",
+      "2499",
+      "1203"
+    ],
+    "level": 1
+  },
   "09f58": {
     "id": "09f58",
     "title": "Continentes",
+    "type": "general",
     "itemsIds": [
       "2241",
       "2242",
@@ -537,7 +676,9 @@
       "138",
       "286",
       "475",
-      "492"
+      "492",
+      "2378",
+      "615"
     ],
     "level": 2
   },
@@ -561,7 +702,10 @@
       "789",
       "1497",
       "1605",
-      "3177"
+      "3177",
+      "2982",
+      "2361",
+      "2362"
     ],
     "level": 1
   },
@@ -590,9 +734,22 @@
     ],
     "level": 2
   },
+  "0d639": {
+    "id": "0d639",
+    "title": "Vestir na praia",
+    "type": "thematic",
+    "itemsIds": [
+      "554",
+      "2446",
+      "1962",
+      "1742"
+    ],
+    "level": 1
+  },
   "0dd1c": {
     "id": "0dd1c",
     "title": "Na mesa do escritório",
+    "type": "general",
     "itemsIds": [
       "50",
       "65",
@@ -628,28 +785,57 @@
     ],
     "level": 2
   },
-  "0ff5c": {
-    "id": "0ff5c",
-    "title": "Leitura",
+  "0f4fa": {
+    "id": "0f4fa",
+    "title": "Internet",
+    "type": "general",
     "itemsIds": [
-      "11",
-      "78",
-      "681",
-      "907",
-      "1124",
-      "1540"
+      "3051",
+      "3052",
+      "3086",
+      "1165",
+      "2727",
+      "2886",
+      "2889",
+      "1061"
     ],
     "level": 1
   },
+  "0fd03": {
+    "id": "0fd03",
+    "title": "Instrumentos Musicais de Sopro",
+    "type": "general",
+    "itemsIds": [
+      "314",
+      "365",
+      "783",
+      "848",
+      "944",
+      "932",
+      "1907",
+      "1908"
+    ],
+    "level": 1
+  },
+  "0ff5c": {
+    "id": "0ff5c",
+    "title": "Justiça",
+    "type": "thematic",
+    "itemsIds": [
+      "1197",
+      "3139",
+      "3147",
+      "2935"
+    ],
+    "level": 4
+  },
   "1097d": {
     "id": "1097d",
-    "title": "Plantas",
+    "title": "Interrogação",
+    "type": "visual",
     "itemsIds": [
-      "72",
-      "308",
-      "511",
-      "532",
-      "622"
+      "2912",
+      "2077"
     ],
     "level": 1
   },
@@ -664,6 +850,18 @@
       "354"
     ],
     "level": 3
+  },
+  "11d9f": {
+    "id": "11d9f",
+    "title": "Metade humano, metade outra",
+    "type": "thematic",
+    "itemsIds": [
+      "1106",
+      "1318",
+      "2341",
+      "1735"
+    ],
+    "level": 1
   },
   "123da": {
     "id": "123da",
@@ -680,6 +878,7 @@
   "1431b": {
     "id": "1431b",
     "title": "Armazenamento de dados",
+    "type": "general",
     "itemsIds": [
       "25",
       "184",
@@ -691,6 +890,7 @@
   "14a29": {
     "id": "14a29",
     "title": "Vôo",
+    "type": "attribute",
     "itemsIds": [
       "87",
       "219",
@@ -705,6 +905,7 @@
   "1649b": {
     "id": "1649b",
     "title": "Comendo porcaria",
+    "type": "general",
     "itemsIds": [
       "47",
       "79",
@@ -719,6 +920,7 @@
   "16b22": {
     "id": "16b22",
     "title": "Neve",
+    "type": "attribute",
     "itemsIds": [
       "294",
       "348",
@@ -727,13 +929,15 @@
       "1525",
       "1435",
       "2739",
-      "2707"
+      "2707",
+      "1436"
     ],
     "level": 1
   },
   "17b2b": {
     "id": "17b2b",
     "title": "Coisas para chamar atenção",
+    "type": "general",
     "itemsIds": [
       "303",
       "313",
@@ -757,6 +961,7 @@
   "18e2e": {
     "id": "18e2e",
     "title": "Alto mar",
+    "type": "thematic",
     "itemsIds": [
       "91",
       "243",
@@ -769,29 +974,36 @@
   "19d2f": {
     "id": "19d2f",
     "title": "Gelado",
+    "type": "attribute",
     "itemsIds": [
       "79",
       "226",
       "452",
-      "1565"
+      "1565",
+      "2802",
+      "752"
     ],
     "level": 1
   },
   "19e3a": {
     "id": "19e3a",
     "title": "Pagamento",
+    "type": "general",
     "itemsIds": [
       "112",
       "337",
       "397",
       "1137",
-      "1464"
+      "1464",
+      "2800",
+      "809"
     ],
     "level": 1
   },
   "1a245": {
     "id": "1a245",
     "title": "Lanchonete",
+    "type": "attribute",
     "itemsIds": [
       "134",
       "228",
@@ -800,6 +1012,40 @@
       "518",
       "666",
       "678"
+    ],
+    "level": 2
+  },
+  "1c6b0": {
+    "id": "1c6b0",
+    "title": "Personagens da Pixar",
+    "type": "thematic",
+    "itemsIds": [
+      "2258",
+      "1368",
+      "526",
+      "1745"
+    ],
+    "level": 3
+  },
+  "1cc41": {
+    "id": "1cc41",
+    "title": "Coisa que caem em cima de você no desenho",
+    "type": "thematic",
+    "itemsIds": [
+      "92",
+      "23",
+      "115",
+      "56"
+    ],
+    "level": 4
+  },
+  "1cd62": {
+    "id": "1cd62",
+    "title": "Tá Osso",
+    "type": "visual",
+    "itemsIds": [
+      "2683",
+      "278"
     ],
     "level": 2
   },
@@ -818,6 +1064,7 @@
   "1dd27": {
     "id": "1dd27",
     "title": "Contém água",
+    "type": "general",
     "itemsIds": [
       "367",
       "371",
@@ -830,12 +1077,25 @@
   "1e8c8": {
     "id": "1e8c8",
     "title": "Guerra",
+    "type": "general",
     "itemsIds": [
       "4",
       "103",
       "368",
       "531",
       "545"
+    ],
+    "level": 1
+  },
+  "1ec77": {
+    "id": "1ec77",
+    "title": "Atividades na Festa Junina",
+    "type": "thematic",
+    "itemsIds": [
+      "2223",
+      "2224",
+      "2225",
+      "1766"
     ],
     "level": 1
   },
@@ -917,6 +1177,19 @@
     ],
     "level": 1
   },
+  "21e56": {
+    "id": "21e56",
+    "title": "Telefone",
+    "type": "attribute",
+    "itemsIds": [
+      "1680",
+      "421",
+      "2064",
+      "83",
+      "2638"
+    ],
+    "level": 1
+  },
   "2399c": {
     "id": "2399c",
     "title": "Um pé do calçado",
@@ -928,6 +1201,18 @@
       "2336",
       "2335",
       "2330"
+    ],
+    "level": 1
+  },
+  "23b7e": {
+    "id": "23b7e",
+    "title": "Torcida",
+    "type": "thematic",
+    "itemsIds": [
+      "2450",
+      "932",
+      "747",
+      "2761"
     ],
     "level": 1
   },
@@ -962,6 +1247,18 @@
     ],
     "level": 1
   },
+  "23f97": {
+    "id": "23f97",
+    "title": "Coisas que se sacode",
+    "type": "general",
+    "itemsIds": [
+      "18",
+      "666",
+      "2298",
+      "462"
+    ],
+    "level": 3
+  },
   "246b0": {
     "id": "246b0",
     "title": "Bovinos",
@@ -977,6 +1274,7 @@
   "24bc6": {
     "id": "24bc6",
     "title": "Higiene pessoal",
+    "type": "thematic",
     "itemsIds": [
       "508",
       "585",
@@ -986,20 +1284,54 @@
     ],
     "level": 1
   },
+  "250cc": {
+    "id": "250cc",
+    "title": "O Olho que Tudo Vê",
+    "type": "visual",
+    "itemsIds": [
+      "2185",
+      "2885",
+      "3057",
+      "85",
+      "2978",
+      "2915",
+      "2186",
+      "3051",
+      "1784"
+    ],
+    "level": 2
+  },
   "25f52": {
     "id": "25f52",
-    "title": "Instrumentos musicais",
+    "title": "Instrumentos Musicais Percursão",
+    "type": "attribute",
     "itemsIds": [
-      "23",
-      "192",
-      "314",
       "425",
-      "426",
       "676",
-      "766",
-      "1571"
+      "1560",
+      "2554",
+      "1727",
+      "2848",
+      "204",
+      "191",
+      "847",
+      "1729",
+      "2571",
+      "1422"
     ],
     "level": 1
+  },
+  "26ac1": {
+    "id": "26ac1",
+    "title": "Pedaço de Pano",
+    "itemsIds": [
+      "2720",
+      "2715",
+      "1128",
+      "439",
+      "1764"
+    ],
+    "level": 0
   },
   "26b5e": {
     "id": "26b5e",
@@ -1079,6 +1411,15 @@
     ],
     "level": 2
   },
+  "28d88": {
+    "id": "28d88",
+    "title": "Na Tela do Celular",
+    "type": "general",
+    "itemsIds": [
+      "1655"
+    ],
+    "level": 1
+  },
   "29b60": {
     "id": "29b60",
     "title": "Anos 90",
@@ -1094,6 +1435,7 @@
   "29cf5": {
     "id": "29cf5",
     "title": "Material Escolar",
+    "type": "thematic",
     "itemsIds": [
       "299",
       "320",
@@ -1129,6 +1471,20 @@
     ],
     "level": 2
   },
+  "2a9f0": {
+    "id": "2a9f0",
+    "title": "Sobremesas Geladas",
+    "type": "general",
+    "itemsIds": [
+      "79",
+      "1565",
+      "1846",
+      "2300",
+      "2436",
+      "2140"
+    ],
+    "level": 1
+  },
   "2afc5": {
     "id": "2afc5",
     "title": "Moradia da realeza",
@@ -1143,33 +1499,32 @@
   },
   "2b16a": {
     "id": "2b16a",
-    "title": "Bebidas",
-    "type": "general",
+    "title": "Com símbolos de gêneros",
+    "type": "visual",
     "itemsIds": [
-      "134",
-      "172",
-      "307",
-      "355",
-      "367"
+      "3147",
+      "2398",
+      "2076"
     ],
-    "level": 1
+    "level": 2
   },
   "2b7bc": {
     "id": "2b7bc",
-    "title": "Que frio!",
+    "title": "Roupas de inverno",
+    "type": "thematic",
     "itemsIds": [
       "132",
-      "226",
       "327",
       "339",
-      "348",
-      "1429"
+      "1429",
+      "2417"
     ],
     "level": 1
   },
   "2cb36": {
     "id": "2cb36",
     "title": "No fundo do mar",
+    "type": "general",
     "itemsIds": [
       "16",
       "80",
@@ -1185,6 +1540,33 @@
     ],
     "level": 2
   },
+  "2d153": {
+    "id": "2d153",
+    "title": "Chapéus de 1900",
+    "type": "attribute",
+    "itemsIds": [
+      "559",
+      "1212",
+      "2149",
+      "3076"
+    ],
+    "level": 1
+  },
+  "2d889": {
+    "id": "2d889",
+    "title": "Flutuante",
+    "type": "general",
+    "itemsIds": [
+      "1288",
+      "2860",
+      "2859",
+      "734",
+      "1249",
+      "354",
+      "2569"
+    ],
+    "level": 1
+  },
   "2dc8b": {
     "id": "2dc8b",
     "title": "Pecados Capitais",
@@ -1197,6 +1579,20 @@
       "2424",
       "2425",
       "2426"
+    ],
+    "level": 1
+  },
+  "2f364": {
+    "id": "2f364",
+    "title": "Jarros",
+    "type": "attribute",
+    "itemsIds": [
+      "2382",
+      "2394",
+      "2645",
+      "1305",
+      "3037",
+      "3038"
     ],
     "level": 1
   },
@@ -1214,29 +1610,65 @@
   },
   "2ff52": {
     "id": "2ff52",
-    "title": "Vestimenta",
+    "title": "Picadura",
+    "type": "attribute",
     "itemsIds": [
-      "121",
-      "132",
-      "202"
+      "209",
+      "2546",
+      "2954",
+      "1178",
+      "1776"
     ],
-    "level": 0
+    "level": 2
   },
   "30a1d": {
     "id": "30a1d",
     "title": "Transporte público",
+    "type": "general",
     "itemsIds": [
-      "509",
       "550",
       "551",
       "851",
-      "1932"
+      "1932",
+      "2698"
+    ],
+    "level": 1
+  },
+  "30d19": {
+    "id": "30d19",
+    "title": "Tempo",
+    "type": "thematic",
+    "itemsIds": [
+      "287",
+      "1967",
+      "546",
+      "1256",
+      "49",
+      "1434",
+      "131",
+      "595",
+      "2218",
+      "1445",
+      "1946"
+    ],
+    "level": 1
+  },
+  "321ca": {
+    "id": "321ca",
+    "title": "Aero",
+    "type": "general",
+    "itemsIds": [
+      "1771",
+      "219",
+      "2998",
+      "2605"
     ],
     "level": 1
   },
   "321f3": {
     "id": "321f3",
     "title": "Lugares para fazer cocô",
+    "type": "thematic",
     "itemsIds": [
       "275",
       "622",
@@ -1264,7 +1696,11 @@
       "402",
       "2814",
       "1347",
-      "2665"
+      "2665",
+      "2779",
+      "2375",
+      "1779",
+      "29"
     ],
     "level": 1
   },
@@ -1275,8 +1711,8 @@
     "itemsIds": [
       "67",
       "144",
-      "152",
-      "512"
+      "512",
+      "3176"
     ],
     "level": 2
   },
@@ -1313,25 +1749,26 @@
   },
   "3677f": {
     "id": "3677f",
-    "title": "Aves",
+    "title": "Tinta",
     "type": "general",
     "itemsIds": [
-      "230",
-      "458",
-      "472",
-      "484",
-      "665"
+      "1699",
+      "358",
+      "1301",
+      "2039",
+      "993"
     ],
     "level": 1
   },
   "36f51": {
     "id": "36f51",
     "title": "Refrescante",
+    "type": "general",
     "itemsIds": [
       "128",
       "134",
-      "226",
-      "367"
+      "367",
+      "1201"
     ],
     "level": 1
   },
@@ -1349,9 +1786,34 @@
     ],
     "level": 1
   },
+  "3761c": {
+    "id": "3761c",
+    "title": "Supermercado",
+    "type": "general",
+    "itemsIds": [
+      "2355",
+      "2730",
+      "2731",
+      "397"
+    ],
+    "level": 1
+  },
+  "3870c": {
+    "id": "3870c",
+    "title": "Morte em praça púbica",
+    "type": "thematic",
+    "itemsIds": [
+      "1338",
+      "1324",
+      "805",
+      "2580"
+    ],
+    "level": 1
+  },
   "3882e": {
     "id": "3882e",
     "title": "Condimentos",
+    "type": "thematic",
     "itemsIds": [
       "228",
       "1305",
@@ -1363,6 +1825,7 @@
   "39f3f": {
     "id": "39f3f",
     "title": "No banheiro",
+    "type": "general",
     "itemsIds": [
       "160",
       "171",
@@ -1390,6 +1853,17 @@
     ],
     "level": 3
   },
+  "3bd16": {
+    "id": "3bd16",
+    "title": "Dentro do Computador",
+    "type": "general",
+    "itemsIds": [
+      "481",
+      "1526",
+      "2434"
+    ],
+    "level": 1
+  },
   "3bf4d": {
     "id": "3bf4d",
     "title": "Brilhinhos",
@@ -1401,13 +1875,17 @@
       "447",
       "772",
       "774",
-      "1984"
+      "1984",
+      "2175",
+      "2136",
+      "2200"
     ],
     "level": 3
   },
   "3c3e9": {
     "id": "3c3e9",
     "title": "Velho rico e refinado",
+    "type": "thematic",
     "itemsIds": [
       "112",
       "558",
@@ -1431,6 +1909,7 @@
   "3c718": {
     "id": "3c718",
     "title": "Roupa de mulher",
+    "type": "attribute",
     "itemsIds": [
       "22",
       "76",
@@ -1452,6 +1931,16 @@
       "2383"
     ],
     "level": 2
+  },
+  "3d480": {
+    "id": "3d480",
+    "title": "Num hotel",
+    "itemsIds": [
+      "1437",
+      "876",
+      "756"
+    ],
+    "level": 0
   },
   "3df11": {
     "id": "3df11",
@@ -1479,14 +1968,28 @@
   },
   "3e46d": {
     "id": "3e46d",
-    "title": "Vegetais",
-    "flagged": true,
+    "title": "Cifrão",
+    "type": "visual",
     "itemsIds": [
-      "543",
-      "607",
-      "693"
+      "1548",
+      "2002",
+      "1254",
+      "3180",
+      "2493"
     ],
-    "level": 0
+    "level": 2
+  },
+  "3ec32": {
+    "id": "3ec32",
+    "title": "Capacetes de Proteção",
+    "type": "attribute",
+    "itemsIds": [
+      "260",
+      "791",
+      "316",
+      "771"
+    ],
+    "level": 1
   },
   "3fc83": {
     "id": "3fc83",
@@ -1496,13 +1999,16 @@
       "488",
       "726",
       "2294",
-      "558"
+      "558",
+      "2293",
+      "2207"
     ],
-    "level": 0
+    "level": 2
   },
   "3ff0d": {
     "id": "3ff0d",
     "title": "Robô",
+    "type": "thematic",
     "itemsIds": [
       "12",
       "661",
@@ -1534,13 +2040,15 @@
   "40ef9": {
     "id": "40ef9",
     "title": "Natal",
+    "type": "thematic",
     "itemsIds": [
       "20",
       "180",
       "185",
       "507",
       "579",
-      "1335"
+      "1335",
+      "2690"
     ],
     "level": 1
   },
@@ -1570,10 +2078,16 @@
   },
   "41f05": {
     "id": "41f05",
-    "title": "Tetas de fora",
-    "flagged": true,
+    "title": "Insetos Verdes",
+    "type": "visual",
     "itemsIds": [
-      "1330"
+      "1747",
+      "935",
+      "1928",
+      "2717",
+      "1943",
+      "668",
+      "651"
     ],
     "level": 0
   },
@@ -1625,14 +2139,33 @@
     ],
     "level": 3
   },
+  "457fd": {
+    "id": "457fd",
+    "title": "Microorganismos",
+    "type": "general",
+    "itemsIds": [
+      "2406",
+      "1315",
+      "1586",
+      "2714",
+      "1073",
+      "1265",
+      "2563",
+      "2299",
+      "1072"
+    ],
+    "level": 1
+  },
   "4819e": {
     "id": "4819e",
-    "title": "Ferramenta",
+    "title": "Na caixa de ferramentas",
+    "type": "attribute",
     "itemsIds": [
       "66",
       "156",
       "170",
-      "490"
+      "490",
+      "1430"
     ],
     "level": 1
   },
@@ -1644,13 +2177,15 @@
       "2438",
       "2439",
       "1380",
-      "1588"
+      "1588",
+      "2615"
     ],
     "level": 1
   },
   "4987a": {
     "id": "4987a",
     "title": "Hospital",
+    "type": "thematic",
     "itemsIds": [
       "174",
       "224",
@@ -1664,6 +2199,7 @@
   "4996f": {
     "id": "4996f",
     "title": "Onde fica o que",
+    "type": "thematic",
     "itemsIds": [
       "283",
       "382",
@@ -1685,6 +2221,18 @@
     ],
     "level": 1
   },
+  "4c039": {
+    "id": "4c039",
+    "title": "Cobrindo os joelhos",
+    "type": "general",
+    "itemsIds": [
+      "345",
+      "1667",
+      "1743",
+      "2823"
+    ],
+    "level": 1
+  },
   "4c18b": {
     "id": "4c18b",
     "title": "Coisas que podem voar",
@@ -1693,7 +2241,8 @@
       "131",
       "276",
       "439",
-      "474"
+      "474",
+      "2136"
     ],
     "level": 2
   },
@@ -1797,6 +2346,7 @@
   "4de61": {
     "id": "4de61",
     "title": "Arte",
+    "type": "general",
     "itemsIds": [
       "38",
       "403",
@@ -1822,6 +2372,7 @@
   "4f41e": {
     "id": "4f41e",
     "title": "Ingredientes de vinagrete",
+    "type": "thematic",
     "itemsIds": [
       "548",
       "1308",
@@ -1829,6 +2380,28 @@
       "1740"
     ],
     "level": 3
+  },
+  "4ffce": {
+    "id": "4ffce",
+    "title": "Alvo",
+    "itemsIds": [
+      "717",
+      "1476",
+      "2476"
+    ],
+    "level": 0
+  },
+  "51cdc": {
+    "id": "51cdc",
+    "title": "Proteja seu pertence",
+    "type": "attribute",
+    "itemsIds": [
+      "2591",
+      "2641",
+      "2649",
+      "2642"
+    ],
+    "level": 2
   },
   "52b69": {
     "id": "52b69",
@@ -1897,6 +2470,17 @@
     ],
     "level": 2
   },
+  "557ca": {
+    "id": "557ca",
+    "title": "Tem carinhas",
+    "type": "visual",
+    "itemsIds": [
+      "3197",
+      "3179",
+      "3171"
+    ],
+    "level": 0
+  },
   "55c86": {
     "id": "55c86",
     "title": "Coisas que seguram coisas",
@@ -1935,16 +2519,35 @@
     ],
     "level": 1
   },
+  "591c5": {
+    "id": "591c5",
+    "title": "Portas",
+    "type": "general",
+    "itemsIds": [
+      "1194",
+      "2159",
+      "510",
+      "3008",
+      "1202",
+      "3006",
+      "3007",
+      "2444",
+      "1786"
+    ],
+    "level": 1
+  },
   "5c8c8": {
     "id": "5c8c8",
-    "title": "Instrumentos de metal",
+    "title": "Instrumentos Musicais De Metal",
     "type": "attribute",
     "itemsIds": [
       "191",
       "424",
       "425",
       "314",
-      "206"
+      "206",
+      "844",
+      "2611"
     ],
     "level": 1
   },
@@ -1970,13 +2573,15 @@
       "655",
       "2061",
       "933",
-      "654"
+      "654",
+      "2621"
     ],
     "level": 1
   },
   "5e1f7": {
     "id": "5e1f7",
     "title": "Redondo com buraco no meio",
+    "type": "visual",
     "itemsIds": [
       "48",
       "118",
@@ -1988,6 +2593,32 @@
       "1170"
     ],
     "level": 2
+  },
+  "5ea50": {
+    "id": "5ea50",
+    "title": "Chapéus Culturais",
+    "type": "general",
+    "itemsIds": [
+      "2354",
+      "2150",
+      "899",
+      "57",
+      "2144",
+      "2151",
+      "2152"
+    ],
+    "level": 2
+  },
+  "5ec26": {
+    "id": "5ec26",
+    "title": "Lugares Religiosos",
+    "type": "general",
+    "itemsIds": [
+      "372",
+      "1775",
+      "2381"
+    ],
+    "level": 1
   },
   "5f410": {
     "id": "5f410",
@@ -2048,9 +2679,22 @@
   "613a2": {
     "id": "613a2",
     "title": "Parte Externa do Corpo",
-    "flagged": true,
-    "itemsIds": [],
-    "level": 0
+    "type": "general",
+    "itemsIds": [
+      "2412",
+      "1897",
+      "1933",
+      "203",
+      "1705",
+      "2461",
+      "2677",
+      "530",
+      "529",
+      "2678",
+      "2582",
+      "1578"
+    ],
+    "level": 1
   },
   "61b90": {
     "id": "61b90",
@@ -2065,9 +2709,22 @@
     ],
     "level": 2
   },
+  "643e4": {
+    "id": "643e4",
+    "title": "Reservatórios",
+    "type": "general",
+    "itemsIds": [
+      "2607",
+      "2830",
+      "2625",
+      "1290"
+    ],
+    "level": 1
+  },
   "65c43": {
     "id": "65c43",
     "title": "Aves que não voam",
+    "type": "attribute",
     "itemsIds": [
       "41",
       "386",
@@ -2079,11 +2736,13 @@
   "66ff4": {
     "id": "66ff4",
     "title": "Lugares para dormir",
+    "type": "general",
     "itemsIds": [
       "442",
       "823",
       "912",
-      "915"
+      "915",
+      "1310"
     ],
     "level": 1
   },
@@ -2121,7 +2780,8 @@
       "293",
       "396",
       "637",
-      "738"
+      "738",
+      "3124"
     ],
     "level": 1
   },
@@ -2140,6 +2800,18 @@
       "498"
     ],
     "level": 2
+  },
+  "69b98": {
+    "id": "69b98",
+    "title": "Almofadas",
+    "type": "attribute",
+    "itemsIds": [
+      "360",
+      "2857",
+      "2776",
+      "744"
+    ],
+    "level": 1
   },
   "6ad61": {
     "id": "6ad61",
@@ -2169,9 +2841,12 @@
       "163",
       "790",
       "832",
-      "900"
+      "900",
+      "2940",
+      "2935",
+      "1530"
     ],
-    "level": 3
+    "level": 4
   },
   "6d44b": {
     "id": "6d44b",
@@ -2187,18 +2862,43 @@
       "928",
       "1223",
       "1260",
-      "1537"
+      "1537",
+      "3168",
+      "3073",
+      "2996",
+      "2996",
+      "3100",
+      "2933",
+      "2804",
+      "2805",
+      "776",
+      "1118",
+      "2660",
+      "2662"
     ],
-    "level": 1
+    "level": 3
   },
   "6e614": {
     "id": "6e614",
-    "title": "Visão",
+    "title": "Deuses",
+    "type": "general",
     "itemsIds": [
-      "55",
-      "85",
-      "258",
-      "357"
+      "1901",
+      "3114",
+      "1573",
+      "2877"
+    ],
+    "level": 1
+  },
+  "6e8b6": {
+    "id": "6e8b6",
+    "title": "Ouvindo música sozinho",
+    "type": "general",
+    "itemsIds": [
+      "974",
+      "2918",
+      "1769",
+      "164"
     ],
     "level": 1
   },
@@ -2210,7 +2910,34 @@
       "196",
       "819",
       "1558",
-      "1606"
+      "1606",
+      "1835",
+      "938",
+      "2474",
+      "2475",
+      "1701"
+    ],
+    "level": 1
+  },
+  "6f83e": {
+    "id": "6f83e",
+    "title": "Folclore Asiático",
+    "type": "thematic",
+    "itemsIds": [
+      "2427",
+      "2969"
+    ],
+    "level": 0
+  },
+  "6f91a": {
+    "id": "6f91a",
+    "title": "Corpos d'água",
+    "type": "attribute",
+    "itemsIds": [
+      "1685",
+      "1816",
+      "1519",
+      "1490"
     ],
     "level": 1
   },
@@ -2229,6 +2956,7 @@
   "7034d": {
     "id": "7034d",
     "title": "Formato de Pirâmide",
+    "type": "visual",
     "itemsIds": [
       "127",
       "479",
@@ -2237,16 +2965,34 @@
     ],
     "level": 3
   },
+  "707b7": {
+    "id": "707b7",
+    "title": "O É o Tchan ensinou a pegar",
+    "type": "thematic",
+    "itemsIds": [
+      "888",
+      "804",
+      "384",
+      "2413"
+    ],
+    "level": 4
+  },
   "723a9": {
     "id": "723a9",
-    "title": "Pessoa de Cor",
-    "flagged": true,
-    "itemsIds": [],
-    "level": 0
+    "title": "Motos ou praticamente pontos",
+    "type": "general",
+    "itemsIds": [
+      "2707",
+      "179",
+      "1421",
+      "954"
+    ],
+    "level": 3
   },
   "727a2": {
     "id": "727a2",
     "title": "Passado",
+    "type": "thematic",
     "itemsIds": [
       "124",
       "499",
@@ -2258,6 +3004,7 @@
   "7383d": {
     "id": "7383d",
     "title": "Rima com \"taco\" (macaco, buraco, saco, barraco)",
+    "type": "word",
     "itemsIds": [
       "552",
       "1587",
@@ -2310,6 +3057,7 @@
   "769eb": {
     "id": "769eb",
     "title": "Energia",
+    "type": "attribute",
     "itemsIds": [
       "306",
       "441",
@@ -2325,12 +3073,9 @@
     "title": "Eletrodomésticos",
     "type": "attribute",
     "itemsIds": [
-      "152",
-      "154",
       "307",
       "395",
-      "606",
-      "918"
+      "2356"
     ],
     "level": 1
   },
@@ -2366,11 +3111,12 @@
   "7b2cf": {
     "id": "7b2cf",
     "title": "Sopro",
+    "type": "general",
     "itemsIds": [
-      "206",
       "303",
-      "314",
-      "365"
+      "764",
+      "242",
+      "812"
     ],
     "level": 1
   },
@@ -2379,12 +3125,25 @@
     "title": "Símbolo de raio",
     "type": "visual",
     "itemsIds": [
-      "446",
       "710",
       "1468",
-      "1849"
+      "1849",
+      "3164",
+      "1184"
     ],
     "level": 3
+  },
+  "7b8b7": {
+    "id": "7b8b7",
+    "title": "Gravando a voz",
+    "type": "general",
+    "itemsIds": [
+      "2953",
+      "2495",
+      "2492",
+      "143"
+    ],
+    "level": 2
   },
   "7ba80": {
     "id": "7ba80",
@@ -2402,6 +3161,7 @@
   "7c608": {
     "id": "7c608",
     "title": "Coisas de empurrar",
+    "type": "general",
     "itemsIds": [
       "17",
       "174",
@@ -2413,6 +3173,7 @@
   "7cd83": {
     "id": "7cd83",
     "title": "E o vento soprou...",
+    "type": "general",
     "itemsIds": [
       "409",
       "470",
@@ -2431,7 +3192,7 @@
       "2883",
       "803"
     ],
-    "level": 0
+    "level": 2
   },
   "7f785": {
     "id": "7f785",
@@ -2460,6 +3221,7 @@
   "802ca": {
     "id": "802ca",
     "title": "Casino",
+    "type": "general",
     "itemsIds": [
       "188",
       "311",
@@ -2482,14 +3244,16 @@
   },
   "8160a": {
     "id": "8160a",
-    "title": "Lugares",
-    "flagged": true,
+    "title": "Carros ___",
+    "type": "general",
     "itemsIds": [
-      "450",
-      "513",
-      "538"
+      "10",
+      "2774",
+      "1849",
+      "1383",
+      "2661"
     ],
-    "level": 0
+    "level": 1
   },
   "8163b": {
     "id": "8163b",
@@ -2499,7 +3263,9 @@
       "227",
       "589",
       "1036",
-      "947"
+      "947",
+      "2401",
+      "2724"
     ],
     "level": 2
   },
@@ -2552,6 +3318,46 @@
     ],
     "level": 2
   },
+  "845f4": {
+    "id": "845f4",
+    "title": "Tem uma seta",
+    "type": "visual",
+    "itemsIds": [
+      "3081",
+      "3067",
+      "3052"
+    ],
+    "level": 4
+  },
+  "849ef": {
+    "id": "849ef",
+    "title": "Televisão",
+    "type": "general",
+    "itemsIds": [
+      "1949",
+      "177",
+      "2367",
+      "2762",
+      "2732",
+      "2734",
+      "2733",
+      "1552"
+    ],
+    "level": 1
+  },
+  "84bc5": {
+    "id": "84bc5",
+    "title": "Engrenagens",
+    "type": "visual",
+    "itemsIds": [
+      "2948",
+      "3180",
+      "2903",
+      "1228",
+      "2868"
+    ],
+    "level": 3
+  },
   "8942f": {
     "id": "8942f",
     "title": "Triângulos",
@@ -2562,7 +3368,8 @@
       "182",
       "285",
       "371",
-      "425"
+      "425",
+      "3105"
     ],
     "level": 3
   },
@@ -2631,6 +3438,18 @@
     ],
     "level": 1
   },
+  "8c459": {
+    "id": "8c459",
+    "title": "Jaquetas/Casacos",
+    "type": "general",
+    "itemsIds": [
+      "840",
+      "1345",
+      "1726",
+      "1429"
+    ],
+    "level": 1
+  },
   "8c8cc": {
     "id": "8c8cc",
     "title": "Derretendo...",
@@ -2646,16 +3465,29 @@
   },
   "8d634": {
     "id": "8d634",
-    "title": "Veículos aquáticos",
+    "title": "Veículos aquáticos motorizados",
+    "type": "thematic",
+    "itemsIds": [
+      "572",
+      "1506",
+      "1612",
+      "1866",
+      "3014"
+    ],
+    "level": 1
+  },
+  "8d697": {
+    "id": "8d697",
+    "title": "Veículos Aquáticos não-motorizados",
     "type": "thematic",
     "itemsIds": [
       "91",
       "168",
-      "572",
+      "2622",
       "762",
-      "1506",
-      "1612",
-      "1866"
+      "2304",
+      "2269",
+      "1331"
     ],
     "level": 1
   },
@@ -2680,7 +3512,10 @@
       "212",
       "331",
       "420",
-      "698"
+      "698",
+      "1119",
+      "3174",
+      "1122"
     ],
     "level": 1
   },
@@ -2710,9 +3545,22 @@
     ],
     "level": 3
   },
+  "8f361": {
+    "id": "8f361",
+    "title": "Folhas de salada",
+    "type": "thematic",
+    "itemsIds": [
+      "1307",
+      "2803",
+      "3035",
+      "2750"
+    ],
+    "level": 1
+  },
   "91d4f": {
     "id": "91d4f",
     "title": "Peças",
+    "type": "general",
     "itemsIds": [
       "165",
       "270",
@@ -2723,11 +3571,27 @@
   },
   "93a99": {
     "id": "93a99",
-    "title": "Precisa de 2",
+    "title": "Deixando o ambiente cheiroso",
+    "type": "attribute",
     "itemsIds": [
-      "280"
+      "1890",
+      "2949",
+      "565",
+      "1717"
     ],
-    "level": 0
+    "level": 2
+  },
+  "93aef": {
+    "id": "93aef",
+    "title": "Móveis que se guarda coisas",
+    "type": "general",
+    "itemsIds": [
+      "872",
+      "971",
+      "972",
+      "2685"
+    ],
+    "level": 1
   },
   "93e38": {
     "id": "93e38",
@@ -2737,24 +3601,31 @@
       "3162",
       "3161",
       "1109",
-      "1973"
+      "1973",
+      "2931"
     ],
     "level": 1
   },
   "940af": {
     "id": "940af",
     "title": "Partes da Face",
+    "type": "general",
     "itemsIds": [
       "85",
       "700",
       "1712",
-      "2429"
+      "2429",
+      "994",
+      "63",
+      "3057",
+      "3056"
     ],
     "level": 1
   },
   "9431b": {
     "id": "9431b",
     "title": "Jogos e Atividades",
+    "type": "general",
     "itemsIds": [
       "1390",
       "1407",
@@ -2779,13 +3650,20 @@
   "9504c": {
     "id": "9504c",
     "title": "Caveiras",
-    "flagged": true,
+    "type": "visual",
     "itemsIds": [
       "2187",
       "352",
       "2211",
       "2539",
-      "1350"
+      "1350",
+      "3052",
+      "2922",
+      "2156",
+      "2154",
+      "2032",
+      "2028",
+      "1501"
     ],
     "level": 2
   },
@@ -2805,6 +3683,7 @@
   "9763b": {
     "id": "9763b",
     "title": "Coisas para contar",
+    "type": "general",
     "itemsIds": [
       "232",
       "317",
@@ -2854,13 +3733,14 @@
   "9919f": {
     "id": "9919f",
     "title": "Devagar",
+    "type": "thematic",
     "itemsIds": [
       "51",
       "110",
       "500",
       "2460"
     ],
-    "level": 2
+    "level": 3
   },
   "9a47a": {
     "id": "9a47a",
@@ -2892,18 +3772,21 @@
   "9ab56": {
     "id": "9ab56",
     "title": "Polícia",
+    "type": "general",
     "itemsIds": [
       "147",
       "176",
       "282",
       "376",
-      "831"
+      "831",
+      "1289"
     ],
     "level": 1
   },
   "9b54f": {
     "id": "9b54f",
     "title": "Quadrado amarelo",
+    "type": "visual",
     "itemsIds": [
       "77",
       "78",
@@ -2916,6 +3799,7 @@
   "9b681": {
     "id": "9b681",
     "title": "Artes marciais",
+    "type": "general",
     "itemsIds": [
       "146",
       "216",
@@ -2928,6 +3812,7 @@
   "9b92a": {
     "id": "9b92a",
     "title": "Com florzinhas",
+    "type": "visual",
     "itemsIds": [
       "1717",
       "1890",
@@ -2951,6 +3836,7 @@
   "9d202": {
     "id": "9d202",
     "title": "Símbolos fálicos",
+    "type": "visual",
     "itemsIds": [
       "217",
       "376",
@@ -2963,17 +3849,20 @@
   "9d92a": {
     "id": "9d92a",
     "title": "Mensagem",
+    "type": "general",
     "itemsIds": [
       "6",
       "83",
       "681",
-      "695"
+      "695",
+      "2383"
     ],
     "level": 1
   },
   "9e6f5": {
     "id": "9e6f5",
     "title": "França",
+    "type": "thematic",
     "itemsIds": [
       "111",
       "405",
@@ -3024,14 +3913,39 @@
     ],
     "level": 3
   },
+  "a03ca": {
+    "id": "a03ca",
+    "title": "Exercícios",
+    "type": "general",
+    "itemsIds": [
+      "1631",
+      "3131",
+      "3136"
+    ],
+    "level": 0
+  },
   "a060f": {
     "id": "a060f",
     "title": "Privacidade",
+    "type": "general",
     "itemsIds": [
       "274",
       "510",
       "756",
       "875"
+    ],
+    "level": 2
+  },
+  "a151c": {
+    "id": "a151c",
+    "title": "Símbolo de Peixe",
+    "type": "visual",
+    "itemsIds": [
+      "1974",
+      "2416",
+      "2682",
+      "1090",
+      "2655"
     ],
     "level": 2
   },
@@ -3073,6 +3987,18 @@
     ],
     "level": 1
   },
+  "a36a9": {
+    "id": "a36a9",
+    "title": "Escola de Samba",
+    "type": "thematic",
+    "itemsIds": [
+      "3156",
+      "2794",
+      "1727",
+      "303"
+    ],
+    "level": 1
+  },
   "a4bcd": {
     "id": "a4bcd",
     "title": "Coisas com cabos",
@@ -3108,6 +4034,8 @@
   "a5afd": {
     "id": "a5afd",
     "title": "Descer o cacete",
+    "type": "thematic",
+    "flagged": true,
     "itemsIds": [
       "217",
       "291",
@@ -3116,36 +4044,36 @@
       "600",
       "109"
     ],
-    "level": 0
+    "level": 2
   },
   "a5b1f": {
     "id": "a5b1f",
     "title": "Cordas",
+    "type": "attribute",
     "itemsIds": [
       "100",
       "457",
       "594",
       "612"
     ],
-    "level": 0
+    "level": 2
   },
   "a5bb2": {
     "id": "a5bb2",
-    "title": "No pé",
+    "title": "Frutas que são bolinhas",
+    "type": "attribute",
     "itemsIds": [
-      "213",
-      "214",
-      "215",
-      "417",
-      "540",
-      "854",
-      "2201"
+      "570",
+      "1912",
+      "1895",
+      "1896"
     ],
-    "level": 0
+    "level": 1
   },
   "a6132": {
     "id": "a6132",
     "title": "Geometria 3D",
+    "type": "general",
     "itemsIds": [
       "2116",
       "2117",
@@ -3157,6 +4085,7 @@
   "a6378": {
     "id": "a6378",
     "title": "Bichos de estimação",
+    "type": "general",
     "itemsIds": [
       "148",
       "162",
@@ -3181,6 +4110,7 @@
   "a74ba": {
     "id": "a74ba",
     "title": "Contos de fadas",
+    "type": "general",
     "itemsIds": [
       "11",
       "440",
@@ -3193,6 +4123,7 @@
   "a80f6": {
     "id": "a80f6",
     "title": "LGBTQ+",
+    "type": "general",
     "itemsIds": [
       "32",
       "854",
@@ -3219,14 +4150,11 @@
   },
   "a90a5": {
     "id": "a90a5",
-    "title": "Rodas",
+    "title": "Pomadas e Tubos",
     "itemsIds": [
-      "437",
-      "438",
-      "550",
-      "710",
-      "724",
-      "736"
+      "1778",
+      "2457",
+      "826"
     ],
     "level": 2
   },
@@ -3249,18 +4177,18 @@
   },
   "aafa8": {
     "id": "aafa8",
-    "title": "Crime",
+    "title": "Máscaras de Terror",
     "itemsIds": [
-      "54",
       "234",
-      "611",
-      "658"
+      "658",
+      "883"
     ],
     "level": 2
   },
   "ab350": {
     "id": "ab350",
     "title": "Mãos",
+    "type": "general",
     "itemsIds": [
       "257",
       "530",
@@ -3269,14 +4197,28 @@
     ],
     "level": 1
   },
+  "abfd6": {
+    "id": "abfd6",
+    "title": "Planeta Terra",
+    "type": "visual",
+    "itemsIds": [
+      "1055",
+      "2597",
+      "3173",
+      "2506"
+    ],
+    "level": 1
+  },
   "ac2af": {
     "id": "ac2af",
     "title": "Utensílios esportivos",
+    "type": "general",
     "itemsIds": [
       "217",
       "259",
       "656",
-      "1471"
+      "1471",
+      "592"
     ],
     "level": 1
   },
@@ -3302,11 +4244,12 @@
       "588",
       "1454"
     ],
-    "level": 0
+    "level": 2
   },
   "ad1e5": {
     "id": "ad1e5",
     "title": "Vamos caçar",
+    "type": "general",
     "itemsIds": [
       "186",
       "273",
@@ -3318,6 +4261,7 @@
   "ae32a": {
     "id": "ae32a",
     "title": "Equinos",
+    "type": "attribute",
     "itemsIds": [
       "36",
       "866",
@@ -3329,24 +4273,27 @@
   },
   "aef3e": {
     "id": "aef3e",
-    "title": "Brasil",
+    "title": "Desfile da Escola de Samba",
+    "type": "thematic",
     "itemsIds": [
-      "384",
-      "426",
-      "645",
+      "2087",
       "675",
-      "678"
+      "2792",
+      "2793"
     ],
     "level": 1
   },
   "af275": {
     "id": "af275",
     "title": "Fazendo uma fogueira",
+    "type": "general",
     "itemsIds": [
       "39",
       "94",
       "534",
-      "1033"
+      "1033",
+      "1019",
+      "3188"
     ],
     "level": 2
   },
@@ -3377,17 +4324,22 @@
   "b0290": {
     "id": "b0290",
     "title": "Escrevendo e desenhando",
+    "type": "attribute",
     "itemsIds": [
       "50",
       "427",
-      "581",
-      "1505"
+      "1505",
+      "1963",
+      "1083",
+      "2265",
+      "2567"
     ],
     "level": 1
   },
   "b0775": {
     "id": "b0775",
     "title": "Elenco do Bob Esponja",
+    "type": "thematic",
     "itemsIds": [
       "361",
       "859",
@@ -3399,18 +4351,21 @@
   "b09c9": {
     "id": "b09c9",
     "title": "Bandeiras",
+    "type": "general",
     "itemsIds": [
       "31",
       "32",
       "261",
       "413",
-      "798"
+      "798",
+      "2190"
     ],
     "level": 1
   },
   "b1e4e": {
     "id": "b1e4e",
     "title": "Por um fio",
+    "type": "visual",
     "itemsIds": [
       "186",
       "390",
@@ -3419,38 +4374,84 @@
     ],
     "level": 2
   },
+  "b219b": {
+    "id": "b219b",
+    "title": "Instrumentos Musicais com teclas",
+    "type": "general",
+    "itemsIds": [
+      "766",
+      "23",
+      "998",
+      "1440",
+      "988"
+    ],
+    "level": 1
+  },
   "b26a1": {
     "id": "b26a1",
     "title": "Coisas que você monta em cima",
+    "type": "general",
     "itemsIds": [
       "36",
       "114",
       "286",
-      "312"
+      "312",
+      "1421"
     ],
     "level": 2
   },
   "b31e9": {
     "id": "b31e9",
     "title": "Identificação",
+    "type": "general",
     "itemsIds": [
       "477",
       "699",
       "726",
       "811",
       "1376",
-      "2103"
+      "2103",
+      "831",
+      "2694"
     ],
     "level": 1
   },
   "b3a33": {
     "id": "b3a33",
     "title": "Comemoração",
+    "type": "general",
     "itemsIds": [
       "246",
       "378",
       "748",
       "764"
+    ],
+    "level": 1
+  },
+  "b3e33": {
+    "id": "b3e33",
+    "title": "Uma folha de papel",
+    "type": "attribute",
+    "itemsIds": [
+      "2036",
+      "2041",
+      "1223",
+      "2892",
+      "2002",
+      "1635"
+    ],
+    "level": 2
+  },
+  "b5260": {
+    "id": "b5260",
+    "title": "Espelho",
+    "type": "general",
+    "itemsIds": [
+      "373",
+      "2587",
+      "2194",
+      "2195",
+      "2296"
     ],
     "level": 1
   },
@@ -3485,6 +4486,7 @@
   "b6c7d": {
     "id": "b6c7d",
     "title": "Música",
+    "type": "general",
     "itemsIds": [
       "205",
       "231",
@@ -3499,12 +4501,13 @@
   },
   "b7630": {
     "id": "b7630",
-    "title": "Explosão",
+    "title": "Causa Explosão",
+    "type": "attribute",
     "itemsIds": [
       "67",
       "304",
       "593",
-      "2206"
+      "2453"
     ],
     "level": 1
   },
@@ -3523,6 +4526,7 @@
   "b7dbc": {
     "id": "b7dbc",
     "title": "Calavos",
+    "type": "general",
     "itemsIds": [
       "34",
       "35",
@@ -3533,60 +4537,82 @@
   },
   "b8624": {
     "id": "b8624",
-    "title": "Insetos",
+    "title": "Insetos Com Asas",
+    "type": "attribute",
     "itemsIds": [
-      "135",
       "181",
       "267",
-      "526",
       "651",
-      "668",
-      "728"
+      "728",
+      "87",
+      "1634",
+      "1886",
+      "1843",
+      "1927",
+      "2286"
     ],
     "level": 1
   },
   "b8796": {
     "id": "b8796",
-    "title": "Comer frio",
+    "title": "Comidas asiáticas",
+    "type": "thematic",
     "itemsIds": [
-      "79",
-      "236",
+      "2879",
       "491",
-      "2436"
+      "1610",
+      "1092"
     ],
-    "level": 0
+    "level": 1
+  },
+  "ba55a": {
+    "id": "ba55a",
+    "title": "Café",
+    "type": "general",
+    "itemsIds": [
+      "172",
+      "1720",
+      "1432",
+      "2370"
+    ],
+    "level": 1
   },
   "bafda": {
     "id": "bafda",
     "title": "Danças",
+    "type": "general",
     "itemsIds": [
       "1409",
       "1410",
       "1411",
-      "1412"
+      "1412",
+      "1631"
     ],
     "level": 1
   },
   "bb662": {
     "id": "bb662",
     "title": "Machuquei",
+    "type": "general",
     "itemsIds": [
-      "208",
       "272",
       "330",
-      "501"
+      "501",
+      "174"
     ],
     "level": 1
   },
   "bd8ff": {
     "id": "bd8ff",
     "title": "Viagem",
+    "type": "thematic",
     "itemsIds": [
       "219",
       "245",
       "477",
       "485",
-      "681"
+      "681",
+      "2857"
     ],
     "level": 1
   },
@@ -3604,24 +4630,23 @@
   },
   "be0b2": {
     "id": "be0b2",
-    "title": "Papel",
+    "title": "Papel Dobrado",
     "type": "attribute",
     "itemsIds": [
-      "124",
       "220",
       "263",
       "379",
       "382",
       "415",
-      "581",
       "599",
-      "618"
+      "2704"
     ],
     "level": 2
   },
   "be87c": {
     "id": "be87c",
     "title": "Gugu dada",
+    "type": "thematic",
     "itemsIds": [
       "58",
       "60",
@@ -3633,9 +4658,21 @@
     ],
     "level": 1
   },
+  "bed8a": {
+    "id": "bed8a",
+    "title": "Muitos docinhos",
+    "type": "general",
+    "itemsIds": [
+      "1600",
+      "2906",
+      "1646"
+    ],
+    "level": 1
+  },
   "bf8fc": {
     "id": "bf8fc",
     "title": "Tem coração",
+    "type": "visual",
     "itemsIds": [
       "539",
       "583",
@@ -3644,9 +4681,38 @@
       "1037",
       "1155",
       "1267",
-      "1737"
+      "1737",
+      "3020",
+      "3021",
+      "2974",
+      "2899",
+      "2861",
+      "2862",
+      "2875",
+      "2709",
+      "2710",
+      "2581",
+      "1174",
+      "1144",
+      "2132"
     ],
-    "level": 3
+    "level": 4
+  },
+  "bfbeb": {
+    "id": "bfbeb",
+    "title": "Balão de fala",
+    "type": "visual",
+    "itemsIds": [
+      "3140",
+      "3068",
+      "2944",
+      "1121",
+      "2987",
+      "2026",
+      "1616",
+      "1592"
+    ],
+    "level": 2
   },
   "bfbfb": {
     "id": "bfbfb",
@@ -3678,17 +4744,15 @@
   },
   "c1471": {
     "id": "c1471",
-    "title": "Identificação",
-    "type": "general",
+    "title": "Porta-alguma-coisa",
+    "type": "word",
     "itemsIds": [
-      "2103",
-      "699",
-      "1376",
-      "811",
-      "726",
-      "831"
+      "2443",
+      "1135",
+      "2649",
+      "2435"
     ],
-    "level": 1
+    "level": 3
   },
   "c1609": {
     "id": "c1609",
@@ -3716,6 +4780,7 @@
   "c2e4d": {
     "id": "c2e4d",
     "title": "Vencedor",
+    "type": "general",
     "itemsIds": [
       "141",
       "183",
@@ -3729,6 +4794,7 @@
   "c3099": {
     "id": "c3099",
     "title": "Guarde aqui!",
+    "type": "attribute",
     "itemsIds": [
       "408",
       "523",
@@ -3742,13 +4808,16 @@
   "c3c0b": {
     "id": "c3c0b",
     "title": "No carro",
+    "type": "thematic",
     "itemsIds": [
       "251",
       "252",
       "492",
       "806",
       "1113",
-      "1363"
+      "1363",
+      "1644",
+      "1953"
     ],
     "level": 1
   },
@@ -3794,7 +4863,8 @@
   },
   "c5076": {
     "id": "c5076",
-    "title": "Construção",
+    "title": "Na construção",
+    "type": "general",
     "itemsIds": [
       "21",
       "38",
@@ -3802,9 +4872,23 @@
       "316",
       "494",
       "502",
-      "629"
+      "629",
+      "662",
+      "1758"
     ],
     "level": 1
+  },
+  "c8ec7": {
+    "id": "c8ec7",
+    "title": "Pão",
+    "type": "general",
+    "itemsIds": [
+      "2623",
+      "111",
+      "366",
+      "3064"
+    ],
+    "level": 2
   },
   "c9801": {
     "id": "c9801",
@@ -3821,6 +4905,7 @@
   "c9bc4": {
     "id": "c9bc4",
     "title": "Aniversário de Criança",
+    "type": "general",
     "itemsIds": [
       "8",
       "71",
@@ -3850,9 +4935,41 @@
   },
   "ca372": {
     "id": "ca372",
-    "title": "Fogo",
-    "itemsIds": [],
-    "level": 0
+    "title": "Assentos pra mais de um",
+    "type": "general",
+    "itemsIds": [
+      "463",
+      "713",
+      "852",
+      "2995"
+    ],
+    "level": 2
+  },
+  "ca575": {
+    "id": "ca575",
+    "title": "Maquinário na Construção",
+    "type": "general",
+    "itemsIds": [
+      "1067",
+      "2466",
+      "736",
+      "195",
+      "2834"
+    ],
+    "level": 1
+  },
+  "cb307": {
+    "id": "cb307",
+    "title": "Ruas e Vias",
+    "type": "general",
+    "itemsIds": [
+      "2192",
+      "1517",
+      "2826",
+      "1952",
+      "2697"
+    ],
+    "level": 1
   },
   "cb728": {
     "id": "cb728",
@@ -3867,6 +4984,18 @@
     ],
     "level": 3
   },
+  "cb826": {
+    "id": "cb826",
+    "title": "Coisas que batem",
+    "type": "thematic",
+    "itemsIds": [
+      "129",
+      "2271",
+      "535",
+      "156"
+    ],
+    "level": 4
+  },
   "cb8b6": {
     "id": "cb8b6",
     "title": "Mistério?",
@@ -3879,9 +5008,30 @@
     ],
     "level": 3
   },
+  "cc0ea": {
+    "id": "cc0ea",
+    "title": "Instrumentos Musicais de Cordas",
+    "type": "general",
+    "itemsIds": [
+      "884",
+      "2281",
+      "192",
+      "1675",
+      "2692",
+      "192",
+      "1086",
+      "2691",
+      "1255",
+      "2946",
+      "2794",
+      "2657"
+    ],
+    "level": 1
+  },
   "ccbd3": {
     "id": "ccbd3",
     "title": "Coisas transparentes",
+    "type": "visual",
     "itemsIds": [
       "84",
       "175",
@@ -3889,7 +5039,7 @@
       "341",
       "350"
     ],
-    "level": 1
+    "level": 3
   },
   "ce0ea": {
     "id": "ce0ea",
@@ -3905,14 +5055,20 @@
   },
   "cf614": {
     "id": "cf614",
-    "title": "Na cozinha",
-    "flagged": true,
+    "title": "Setinhas",
+    "type": "visual",
     "itemsIds": [
-      "152",
-      "154",
-      "395"
+      "3082",
+      "3107",
+      "3045",
+      "2920",
+      "2777",
+      "2219",
+      "2892",
+      "2893",
+      "1413"
     ],
-    "level": 1
+    "level": 2
   },
   "cf988": {
     "id": "cf988",
@@ -3945,12 +5101,16 @@
   "cfade": {
     "id": "cfade",
     "title": "Cabelo",
+    "type": "general",
     "itemsIds": [
       "19",
       "527",
       "562",
       "704",
-      "1151"
+      "1151",
+      "1725",
+      "1391",
+      "1392"
     ],
     "level": 1
   },
@@ -3981,6 +5141,18 @@
     ],
     "level": 1
   },
+  "d09e7": {
+    "id": "d09e7",
+    "title": "Prisão",
+    "type": "general",
+    "itemsIds": [
+      "401",
+      "1242",
+      "1760",
+      "482"
+    ],
+    "level": 2
+  },
   "d0daa": {
     "id": "d0daa",
     "title": "Contém números",
@@ -3994,13 +5166,29 @@
       "747",
       "1186",
       "1403",
-      "1556"
+      "1556",
+      "1407",
+      "985",
+      "1256",
+      "2971",
+      "1483",
+      "1361",
+      "1872",
+      "1160",
+      "1120",
+      "1065",
+      "3086",
+      "1885",
+      "1115",
+      "2939",
+      "1064"
     ],
     "level": 3
   },
   "d1be5": {
     "id": "d1be5",
     "title": "Eu que mando!",
+    "type": "thematic",
     "itemsIds": [
       "141",
       "237",
@@ -4012,6 +5200,7 @@
   "d3c76": {
     "id": "d3c76",
     "title": "Decoração",
+    "type": "general",
     "itemsIds": [
       "31",
       "101",
@@ -4019,7 +5208,8 @@
       "139",
       "180",
       "296",
-      "409"
+      "409",
+      "3120"
     ],
     "level": 3
   },
@@ -4032,24 +5222,28 @@
       "2768",
       "2769",
       "2772",
-      "2770"
+      "2770",
+      "3096",
+      "3097"
     ],
     "level": 1
   },
   "d4ea3": {
     "id": "d4ea3",
     "title": "Coisas que queimam",
+    "type": "thematic",
     "itemsIds": [
-      "39",
       "95",
       "227",
-      "284"
+      "284",
+      "48"
     ],
     "level": 1
   },
   "d5f11": {
     "id": "d5f11",
     "title": "Formato de U",
+    "type": "visual",
     "itemsIds": [
       "33",
       "34",
@@ -4071,6 +5265,19 @@
     ],
     "level": 2
   },
+  "d7209": {
+    "id": "d7209",
+    "title": "Comida para se servir",
+    "type": "general",
+    "itemsIds": [
+      "2366",
+      "1690",
+      "1603",
+      "2651",
+      "2663"
+    ],
+    "level": 1
+  },
   "d74fc": {
     "id": "d74fc",
     "title": "Oração",
@@ -4086,6 +5293,7 @@
   "d7aea": {
     "id": "d7aea",
     "title": "Cabos",
+    "type": "visual",
     "itemsIds": [
       "1136",
       "1154",
@@ -4108,6 +5316,7 @@
   "d869b": {
     "id": "d869b",
     "title": "Com cordas",
+    "type": "visual",
     "itemsIds": [
       "454",
       "457",
@@ -4125,6 +5334,45 @@
       "885"
     ],
     "level": 0
+  },
+  "d97b1": {
+    "id": "d97b1",
+    "title": "Saias",
+    "itemsIds": [
+      "123",
+      "2673",
+      "2535"
+    ],
+    "level": 0
+  },
+  "d99fe": {
+    "id": "d99fe",
+    "title": "Países",
+    "type": "general",
+    "itemsIds": [
+      "1527",
+      "1982",
+      "2835",
+      "2836",
+      "2837",
+      "2838"
+    ],
+    "level": 1
+  },
+  "d9bc3": {
+    "id": "d9bc3",
+    "title": "Smiley Face",
+    "type": "visual",
+    "itemsIds": [
+      "2732",
+      "2902",
+      "2876",
+      "2862",
+      "2856",
+      "1955",
+      "2886"
+    ],
+    "level": 1
   },
   "d9da2": {
     "id": "d9da2",
@@ -4145,7 +5393,9 @@
       "916",
       "938",
       "1640",
-      "1663"
+      "1663",
+      "2489",
+      "2134"
     ],
     "level": 3
   },
@@ -4171,7 +5421,8 @@
       "636",
       "1694",
       "2699",
-      "1334"
+      "1334",
+      "996"
     ],
     "level": 1
   },
@@ -4203,13 +5454,13 @@
   },
   "dbee2": {
     "id": "dbee2",
-    "title": "Acessórios da moda",
+    "title": "Conchas",
+    "type": "general",
     "itemsIds": [
-      "109",
-      "339",
-      "422",
-      "520",
-      "767"
+      "2024",
+      "670",
+      "80",
+      "950"
     ],
     "level": 1
   },
@@ -4241,6 +5492,7 @@
   "dd461": {
     "id": "dd461",
     "title": "Esfera",
+    "type": "visual",
     "itemsIds": [
       "138",
       "139",
@@ -4263,6 +5515,7 @@
   "e07da": {
     "id": "e07da",
     "title": "Geometria Plana",
+    "type": "general",
     "itemsIds": [
       "2113",
       "2114",
@@ -4320,9 +5573,34 @@
     ],
     "level": 2
   },
+  "e35c1": {
+    "id": "e35c1",
+    "title": "Ventilação",
+    "type": "general",
+    "itemsIds": [
+      "2374",
+      "2599",
+      "691",
+      "1199"
+    ],
+    "level": 1
+  },
+  "e3bca": {
+    "id": "e3bca",
+    "title": "Deficiência",
+    "type": "general",
+    "itemsIds": [
+      "3028",
+      "3024",
+      "3025",
+      "3023"
+    ],
+    "level": 1
+  },
   "e3d01": {
     "id": "e3d01",
     "title": "Frutos do mar",
+    "type": "general",
     "itemsIds": [
       "16",
       "325",
@@ -4330,6 +5608,19 @@
       "2259"
     ],
     "level": 2
+  },
+  "e3d08": {
+    "id": "e3d08",
+    "title": "Pistas",
+    "type": "general",
+    "itemsIds": [
+      "1158",
+      "1159",
+      "1160",
+      "1179",
+      "860"
+    ],
+    "level": 1
   },
   "e4c0e": {
     "id": "e4c0e",
@@ -4386,6 +5677,7 @@
   "e91e9": {
     "id": "e91e9",
     "title": "Coisas que espetam",
+    "type": "attribute",
     "itemsIds": [
       "273",
       "356",
@@ -4410,6 +5702,7 @@
   "e9aa1": {
     "id": "e9aa1",
     "title": "Botões",
+    "type": "general",
     "itemsIds": [
       "177",
       "200",
@@ -4431,9 +5724,22 @@
     ],
     "level": 2
   },
+  "e9e40": {
+    "id": "e9e40",
+    "title": "Capacete de Batalha",
+    "type": "thematic",
+    "itemsIds": [
+      "771",
+      "324",
+      "1332",
+      "2178"
+    ],
+    "level": 2
+  },
   "ea1b0": {
     "id": "ea1b0",
     "title": "Cercado",
+    "type": "general",
     "itemsIds": [
       "107",
       "456",
@@ -4441,6 +5747,17 @@
       "356"
     ],
     "level": 1
+  },
+  "eb435": {
+    "id": "eb435",
+    "title": "Termômetro",
+    "type": "general",
+    "itemsIds": [
+      "516",
+      "790",
+      "3173"
+    ],
+    "level": 2
   },
   "ebde5": {
     "id": "ebde5",
@@ -4504,6 +5821,7 @@
   "ef995": {
     "id": "ef995",
     "title": "Gostosuras",
+    "type": "general",
     "itemsIds": [
       "24",
       "48",
@@ -4540,6 +5858,7 @@
   "f1cdc": {
     "id": "f1cdc",
     "title": "Frutas  Tropicais",
+    "type": "general",
     "itemsIds": [
       "90",
       "106",
@@ -4554,11 +5873,11 @@
     "title": "Na praia",
     "itemsIds": [
       "2",
-      "197",
       "364",
-      "554",
       "753",
-      "826"
+      "826",
+      "979",
+      "1225"
     ],
     "level": 1
   },
@@ -4600,7 +5919,21 @@
       "396",
       "521",
       "588",
-      "127"
+      "127",
+      "3173"
+    ],
+    "level": 3
+  },
+  "f404a": {
+    "id": "f404a",
+    "title": "Faixas",
+    "type": "attribute",
+    "itemsIds": [
+      "634",
+      "2448",
+      "501",
+      "262",
+      "2192"
     ],
     "level": 3
   },
@@ -4664,6 +5997,35 @@
     ],
     "level": 3
   },
+  "f79e7": {
+    "id": "f79e7",
+    "title": "Sorria, você está sendo filmado",
+    "type": "general",
+    "itemsIds": [
+      "1499",
+      "196",
+      "2475",
+      "1728",
+      "684"
+    ],
+    "level": 1
+  },
+  "f7bfc": {
+    "id": "f7bfc",
+    "title": "Remédios",
+    "type": "general",
+    "itemsIds": [
+      "3050",
+      "467",
+      "1032",
+      "2042",
+      "208",
+      "3137",
+      "2538",
+      "2398"
+    ],
+    "level": 1
+  },
   "f7fc6": {
     "id": "f7fc6",
     "title": "Crianças",
@@ -4699,6 +6061,18 @@
       "486",
       "571",
       "887"
+    ],
+    "level": 1
+  },
+  "f949c": {
+    "id": "f949c",
+    "title": "Laços e Fitas",
+    "type": "general",
+    "itemsIds": [
+      "2435",
+      "185",
+      "957",
+      "136"
     ],
     "level": 1
   },
