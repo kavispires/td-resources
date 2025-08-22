@@ -57,11 +57,11 @@
 	},
 	"ddr-8-pt": {
 		"id": "ddr-8-pt",
-		"title": "tem 4 ou menos letras",
+		"title": "tem 4 letras",
 		"level": 1,
 		"type": "count",
 		"method": "auto",
-		"updatedAt": 1724690007256
+		"updatedAt": 1755880532444
 	},
 	"ddr-9-pt": {
 		"id": "ddr-9-pt",
@@ -89,11 +89,11 @@
 	},
 	"ddr-12-pt": {
 		"id": "ddr-12-pt",
-		"title": "tem 8 ou mais letras",
+		"title": "tem 8 letras",
 		"level": 2,
 		"type": "count",
 		"method": "auto",
-		"updatedAt": 1724690007256
+		"updatedAt": 1755880532444
 	},
 	"ddr-13-pt": {
 		"id": "ddr-13-pt",
@@ -558,5 +558,53 @@
 		"type": "repetition",
 		"method": "auto",
 		"updatedAt": 1747755528115
+	},
+	"ddr-71-pt": {
+		"id": "ddr-71-pt",
+		"title": "tem 4 sílabas",
+		"level": 2,
+		"type": "count",
+		"method": "dependency",
+		"updatedAt": 1755880532444
+	},
+	"ddr-72-pt": {
+		"id": "ddr-72-pt",
+		"title": "tem 3 letras",
+		"level": 1,
+		"type": "count",
+		"method": "auto",
+		"updatedAt": 1755880532444
+	},
+	"ddr-73-pt": {
+		"id": "ddr-73-pt",
+		"title": "tem 9 letras",
+		"level": 2,
+		"type": "count",
+		"method": "auto",
+		"updatedAt": 1755880532444
+	},
+	"ddr-74-pt": {
+		"id": "ddr-74-pt",
+		"title": "tem 10 letras",
+		"level": 2,
+		"type": "count",
+		"method": "auto",
+		"updatedAt": 1755880532444
+	},
+	"ddr-75-pt": {
+		"id": "ddr-75-pt",
+		"title": "tem mais de 10 letras",
+		"level": 2,
+		"type": "count",
+		"method": "auto",
+		"updatedAt": 1755880532444
+	},
+	"ddr-76-pt": {
+		"id": "ddr-76-pt",
+		"title": "uma consoante repete 3 vezes ou mais",
+		"level": 3,
+		"type": "repetition",
+		"method": "auto",
+		"updatedAt": 1755880532444
 	}
 }
