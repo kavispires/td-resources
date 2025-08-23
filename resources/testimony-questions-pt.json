@@ -272,8 +272,8 @@
 	},
 	"t-55-pt": {
 		"id": "t-55-pt",
-		"question": "Ele(a) mora na zona sul (área rica)?",
-		"answer": "Mora na zona sul (área rica)"
+		"question": "Ele(a) mora em um condomínio de luxo?",
+		"answer": "Mora em um condomínio de luxo"
 	},
 	"t-56-pt": {
 		"id": "t-56-pt",
@@ -441,8 +441,8 @@
 	},
 	"t-88-pt": {
 		"id": "t-88-pt",
-		"question": "Ele(a) coloca o celular no bolso?",
-		"answer": "Coloca o celular no bolso"
+		"question": "Ele(a) guarda o celular no bolso?",
+		"answer": "Guarda o celular no bolso"
 	},
 	"t-89-pt": {
 		"id": "t-89-pt",
@@ -667,8 +667,8 @@
 	},
 	"t-131-pt": {
 		"id": "t-131-pt",
-		"question": "Ele(a) é gostoso(a)?",
-		"answer": "É gostoso(a)",
+		"question": "Ele(a) é considerado(a) gostoso(a) pela sociedade?",
+		"answer": "É considerado(a) gostoso(a) pela sociedade",
 		"nsfw": true
 	},
 	"t-132-pt": {
@@ -679,8 +679,8 @@
 	},
 	"t-133-pt": {
 		"id": "t-133-pt",
-		"question": "Ele(a) tem sotaque?",
-		"answer": "Tem sotaque"
+		"question": "Ele(a) tem sotaque carregado?",
+		"answer": "Tem sotaque carregado"
 	},
 	"t-134-pt": {
 		"id": "t-134-pt",
@@ -1168,8 +1168,8 @@
 	},
 	"t-228-pt": {
 		"id": "t-228-pt",
-		"question": "Ele(a) está fazendo uma detox de redes sociais?",
-		"answer": "Está fazendo uma detox de redes sociais"
+		"question": "Ele(a) faz detox de redes sociais de tempos em tempos?",
+		"answer": "Faz detox de redes sociais de tempos em tempos"
 	},
 	"t-229-pt": {
 		"id": "t-229-pt",
@@ -1218,8 +1218,8 @@
 	},
 	"t-238-pt": {
 		"id": "t-238-pt",
-		"question": "Ele(a) tem medo de fazer ligações telefônicas e prefere mandar mensagem?",
-		"answer": "Tem medo de fazer ligações telefônicas e prefere mandar mensagem"
+		"question": "Ele(a) prefere mandar mensagem a fazer ligações telefônicas?",
+		"answer": "Prefere mandar mensagem a fazer ligações telefônicas"
 	},
 	"t-239-pt": {
 		"id": "t-239-pt",
@@ -1265,5 +1265,11 @@
 		"id": "t-247-pt",
 		"question": "Ele(a) está em relacionamento virtual com o Chat GPT?",
 		"answer": "Está em relacionamento virtual com o Chat GPT"
+	},
+	"t-248-pt": {
+		"id": "t-248-pt",
+		"question": "Ele(a) acha que homem que chora é gay?",
+		"answer": "Acha que homem que chora é gay",
+		"nsfw": true
 	}
 }
