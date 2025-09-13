@@ -1,3207 +1,5585 @@
 {
-	"10543": {
-		"id": "10543",
-		"imageCardsIds": ["td-d12-182"],
-		"passcode": ["polvo", "tentáculos", "invertebrado"]
-	},
-	"10782": {
-		"id": "10782",
-		"imageCardsIds": ["td-d8-170", "td-d10-238"],
-		"passcode": ["galhos"]
-	},
-	"13763": {
-		"id": "13763",
-		"imageCardsIds": [
-			"td-d1-244",
-			"td-d1-241",
-			"td-d1-67",
-			"td-d9-131",
-			"td-d6-179",
-			"td-d7-121"
-		],
-		"passcode": ["alienígena", "alien", "extraterrestre", "marciano"]
-	},
-	"14149": {
-		"id": "14149",
-		"imageCardsIds": ["td-d12-99"],
-		"passcode": ["meteoro", "asteroide"]
-	},
-	"14328": {
-		"id": "14328",
-		"imageCardsIds": ["td-d3-202"],
-		"passcode": ["brinquedo", "imaginário", "diversão"]
-	},
-	"19902": {
-		"id": "19902",
-		"imageCardsIds": ["td-d9-190"],
-		"passcode": ["pirulito", "doce", "doces", "açúcar"]
-	},
-	"20645": {
-		"id": "20645",
-		"imageCardsIds": ["td-d2-124"],
-		"passcode": ["forno", "fornalha", "calor", "assar", "convecção"]
-	},
-	"22819": {
-		"id": "22819",
-		"imageCardsIds": ["td-d1-27", "td-d5-65"],
-		"passcode": [
-			"flor",
-			"flores",
-			"pétala",
-			"perfume",
-			"jardim",
-			"primavera",
-			"polinização"
-		]
-	},
-	"24163": {
-		"id": "24163",
-		"imageCardsIds": [
-			"td-d1-203",
-			"td-d6-212",
-			"td-d5-134",
-			"td-d5-01",
-			"td-d9-214",
-			"td-d6-179",
-			"td-d4-126",
-			"td-d7-142",
-			"td-d7-226",
-			"td-d9-96"
-		],
-		"passcode": ["multidão", "povo", "galera", "pessoas", "população"]
-	},
-	"24615": {
-		"id": "24615",
-		"imageCardsIds": [
-			"td-d1-38",
-			"td-d6-67",
-			"td-d2-238",
-			"td-d4-03",
-			"td-d11-47"
-		],
-		"passcode": [
-			"idosa",
-			"vovozinha",
-			"aposentada",
-			"anciã",
-			"experiente",
-			"rugas",
-			"sabedoria",
-			"memórias",
-			"serenidade"
-		]
-	},
-	"25312": {
-		"id": "25312",
-		"imageCardsIds": ["td-d11-227"],
-		"passcode": ["morango"]
-	},
-	"27335": {
-		"id": "27335",
-		"imageCardsIds": ["td-d12-182"],
-		"passcode": [
-			"tênis",
-			"calçado",
-			"palmilha",
-			"cadarço",
-			"couro",
-			"pisar",
-			"amortecimento",
-			"sola"
-		]
-	},
-	"27580": {
-		"id": "27580",
-		"imageCardsIds": ["td-d12-68"],
-		"passcode": ["loja", "vitrine", "vender", "promoção", "vendas"]
-	},
-	"31245": {
-		"id": "31245",
-		"imageCardsIds": ["td-d3-16", "td-d6-241"],
-		"passcode": ["supermercado", "compras"]
-	},
-	"31887": {
-		"id": "31887",
-		"imageCardsIds": ["td-d10-163"],
-		"passcode": ["churrasco"]
-	},
-	"37386": {
-		"id": "37386",
-		"imageCardsIds": ["td-d8-32"],
-		"passcode": ["golfinho"]
-	},
-	"37620": {
-		"id": "37620",
-		"imageCardsIds": ["td-d7-46"],
-		"passcode": ["história"]
-	},
-	"39478": {
-		"id": "39478",
-		"imageCardsIds": ["td-d8-63", "td-d2-42"],
-		"passcode": ["abajur", "iluminação"]
-	},
-	"42073": {
-		"id": "42073",
-		"imageCardsIds": [
-			"td-d1-203",
-			"td-d2-100",
-			"td-d8-40",
-			"td-d9-214",
-			"td-d8-133",
-			"td-d7-125"
-		],
-		"passcode": [
-			"fantasia",
-			"heroico",
-			"herói",
-			"coragem",
-			"justiceiro",
-			"salvamento",
-			"altruísmo"
-		]
-	},
-	"42776": {
-		"id": "42776",
-		"imageCardsIds": [
-			"td-d6-124",
-			"td-d8-242",
-			"td-d3-05",
-			"td-d7-153",
-			"td-d5-92",
-			"td-d10-211",
-			"td-d10-239"
-		],
-		"passcode": ["porta", "entrada", "dobradiça", "maçaneta", "saída"]
-	},
-	"46796": {
-		"id": "46796",
-		"imageCardsIds": ["td-d7-221", "td-d4-141"],
-		"passcode": ["ruiva"]
-	},
-	"47245": {
-		"id": "47245",
-		"imageCardsIds": [
-			"td-d1-216",
-			"td-d1-240",
-			"td-d4-155",
-			"td-d3-16",
-			"td-d5-183"
-		],
-		"passcode": ["frutas", "frutífero", "fruteira"]
-	},
-	"48075": {
-		"id": "48075",
-		"imageCardsIds": ["td-d7-20", "td-d6-158"],
-		"passcode": ["escada", "escadaria", "subir"]
-	},
-	"48728": {
-		"id": "48728",
-		"imageCardsIds": ["td-d10-238", "td-d5-42"],
-		"passcode": ["quadro"]
-	},
-	"51622": {
-		"id": "51622",
-		"imageCardsIds": ["td-d1-150"],
-		"passcode": [
-			"vírus",
-			"infecção",
-			"contágio",
-			"microrganismo",
-			"propagação",
-			"anticorpo",
-			"epidemia",
-			"mutação",
-			"imunidade"
-		]
-	},
-	"51870": {
-		"id": "51870",
-		"imageCardsIds": ["td-d4-155"],
-		"passcode": ["monociclo", "roda"]
-	},
-	"55413": {
-		"id": "55413",
-		"imageCardsIds": [
-			"td-d8-89",
-			"td-d3-183",
-			"td-d3-244",
-			"td-d4-129",
-			"td-d8-87"
-		],
-		"passcode": [
-			"sorvete",
-			"sorveteria",
-			"casquinha",
-			"gelado",
-			"derretido",
-			"milkshake",
-			"napolitano"
-		]
-	},
-	"57192": {
-		"id": "57192",
-		"imageCardsIds": ["td-d12-49"],
-		"passcode": ["trovão", "relâmpago", "estrondo"]
-	},
-	"64508": {
-		"id": "64508",
-		"imageCardsIds": ["td-d8-51"],
-		"passcode": ["fatia", "fatias"]
-	},
-	"67817": {
-		"id": "67817",
-		"imageCardsIds": ["td-d1-25", "td-d10-77"],
-		"passcode": ["vinil", "disco"]
-	},
-	"70349": {
-		"id": "70349",
-		"imageCardsIds": ["td-d12-111", "td-d11-49", "td-d4-125"],
-		"passcode": ["abóbora"]
-	},
-	"71818": {
-		"id": "71818",
-		"imageCardsIds": ["td-d3-110"],
-		"passcode": ["delícia"]
-	},
-	"73637": {
-		"id": "73637",
-		"imageCardsIds": ["td-d8-170", "td-d6-239"],
-		"passcode": ["faca"]
-	},
-	"78601": {
-		"id": "78601",
-		"imageCardsIds": ["td-d8-212", "td-d1-103", "td-d8-140"],
-		"passcode": ["dragão"]
-	},
-	"79792": {
-		"id": "79792",
-		"imageCardsIds": ["td-d2-216", "td-d5-23"],
-		"passcode": ["fones"]
-	},
-	"81033": {
-		"id": "81033",
-		"imageCardsIds": ["td-d1-81"],
-		"passcode": ["garrafa"]
-	},
-	"83082": {
-		"id": "83082",
-		"imageCardsIds": ["td-d3-67"],
-		"passcode": ["tinta"]
-	},
-	"83406": {
-		"id": "83406",
-		"imageCardsIds": [
-			"td-d1-19",
-			"td-d12-52",
-			"td-d6-174",
-			"td-d12-220",
-			"td-d11-49",
-			"td-d12-99",
-			"td-d12-162",
-			"td-d2-60"
-		],
-		"passcode": ["fogo", "incêndio"]
-	},
-	"86185": {
-		"id": "86185",
-		"imageCardsIds": ["td-d5-183"],
-		"passcode": ["fusca"]
-	},
-	"87288": {
-		"id": "87288",
-		"imageCardsIds": ["td-d1-223", "td-d1-221", "td-d2-240", "td-d10-239"],
-		"passcode": ["aquático", "profundidade", "profundezas"]
-	},
-	"88992": {
-		"id": "88992",
-		"imageCardsIds": [
-			"td-d2-249",
-			"td-d12-33",
-			"td-d5-97",
-			"td-d9-182",
-			"td-d12-220",
-			"td-d1-162",
-			"td-d2-209",
-			"td-d4-112"
-		],
-		"passcode": ["mulher", "feminino", "fêmea"]
-	},
-	"93881": {
-		"id": "93881",
-		"imageCardsIds": ["td-d5-42"],
-		"passcode": ["conspiração"]
-	},
-	"97842": {
-		"id": "97842",
-		"imageCardsIds": ["td-d11-58"],
-		"passcode": ["ring"]
-	},
-	"0042c": {
-		"id": "0042c",
-		"imageCardsIds": ["td-d4-215", "td-d8-63", "td-d11-223"],
-		"passcode": ["quarto", "aposento"]
-	},
-	"00e9e": {
-		"id": "00e9e",
-		"imageCardsIds": ["td-d4-42"],
-		"passcode": ["taco", "bastão", "tacada"]
-	},
-	"014b4": {
-		"id": "014b4",
-		"imageCardsIds": ["td-d10-33"],
-		"passcode": ["gorda", "obesa", "obesidade"]
-	},
-	"020c1": {
-		"id": "020c1",
-		"imageCardsIds": ["td-d10-180"],
-		"passcode": ["androide"]
-	},
-	"0250f": {
-		"id": "0250f",
-		"imageCardsIds": ["td-d2-240"],
-		"passcode": ["gelo", "geleira"]
-	},
-	"02876": {
-		"id": "02876",
-		"imageCardsIds": ["td-d10-112"],
-		"passcode": ["comer", "comilaça", "comida", "engolir"]
-	},
-	"02acc": {
-		"id": "02acc",
-		"imageCardsIds": ["td-d5-158"],
-		"passcode": ["inferno", "infernal"]
-	},
-	"03084": {
-		"id": "03084",
-		"imageCardsIds": ["td-d1-190", "td-d3-232"],
-		"passcode": ["donut", "rosquinha"]
-	},
-	"04be3": {
-		"id": "04be3",
-		"imageCardsIds": ["td-d4-139"],
-		"passcode": ["fada", "fadas"]
-	},
-	"055f3": {
-		"id": "055f3",
-		"imageCardsIds": ["td-d11-54"],
-		"passcode": ["helicóptero", "sobrevoar", "hélice", "fuselagem"]
-	},
-	"059e8": {
-		"id": "059e8",
-		"imageCardsIds": ["td-d8-151", "td-d1-232", "td-d9-165", "td-d11-58"],
-		"passcode": ["luta", "briga", "confusão"]
-	},
-	"06cc4": {
-		"id": "06cc4",
-		"imageCardsIds": ["td-d6-112"],
-		"passcode": ["nave"]
-	},
-	"07203": {
-		"id": "07203",
-		"imageCardsIds": ["td-d4-233"],
-		"passcode": ["boi", "bovino"]
-	},
-	"07d9f": {
-		"id": "07d9f",
-		"imageCardsIds": ["td-d10-206"],
-		"passcode": [
-			"guerra",
-			"batalha",
-			"exército",
-			"bombardeio",
-			"soltado",
-			"derrota"
-		]
-	},
-	"088d1": {
-		"id": "088d1",
-		"imageCardsIds": ["td-d3-75"],
-		"passcode": ["aranha", "aracnídeo"]
-	},
-	"096c7": {
-		"id": "096c7",
-		"imageCardsIds": ["td-d3-164"],
-		"passcode": ["lançamento"]
-	},
-	"09c18": {
-		"id": "09c18",
-		"imageCardsIds": ["td-d8-87"],
-		"passcode": ["limão", "cítrico"]
-	},
-	"09c94": {
-		"id": "09c94",
-		"imageCardsIds": ["td-d1-72"],
-		"passcode": [
-			"anjo",
-			"querubim",
-			"angelical",
-			"serafim",
-			"arcanjo",
-			"divino",
-			"celestial",
-			"guardião",
-			"mensageiro"
-		]
-	},
-	"0a78c": {
-		"id": "0a78c",
-		"imageCardsIds": ["td-d4-47"],
-		"passcode": ["moléculas"]
-	},
-	"0b049": {
-		"id": "0b049",
-		"imageCardsIds": ["td-d12-111"],
-		"passcode": [
-			"crime",
-			"latrocínio",
-			"roubo",
-			"assassinato",
-			"homicídio",
-			"furto"
-		]
-	},
-	"0b39d": {
-		"id": "0b39d",
-		"imageCardsIds": ["td-d1-165"],
-		"passcode": ["coruja", "noturna", "penugem"]
-	},
-	"0b7c5": {
-		"id": "0b7c5",
-		"imageCardsIds": ["td-d3-251", "td-d10-238", "td-d8-226"],
-		"passcode": ["árvore", "arbóreo"]
-	},
-	"0bc1a": {
-		"id": "0bc1a",
-		"imageCardsIds": ["td-d12-134", "td-d3-244"],
-		"passcode": ["cacto"]
-	},
-	"0be78": {
-		"id": "0be78",
-		"imageCardsIds": ["td-d7-221"],
-		"passcode": ["guerreira", "amazona"]
-	},
-	"0c13a": {
-		"id": "0c13a",
-		"imageCardsIds": ["td-d1-65", "td-d7-153", "td-d3-251"],
-		"passcode": [
-			"direções",
-			"sinais",
-			"placas",
-			"sinalização",
-			"advertência",
-			"direção",
-			"indicação",
-			"informação"
-		]
-	},
-	"0c77e": {
-		"id": "0c77e",
-		"imageCardsIds": ["td-d8-151"],
-		"passcode": [
-			"boxeador",
-			"lutador",
-			"ringue",
-			"gancho",
-			"nocaute",
-			"treinamento",
-			"golpe"
-		]
-	},
-	"0c818": {
-		"id": "0c818",
-		"imageCardsIds": ["td-d10-223", "td-d9-72"],
-		"passcode": ["pratos", "porcelana", "cerâmica", "fundo", "raso"]
-	},
-	"0cea0": {
-		"id": "0cea0",
-		"imageCardsIds": [
-			"td-d6-100",
-			"td-d7-74",
-			"td-d9-214",
-			"td-d7-137",
-			"td-d5-183"
-		],
-		"passcode": ["carro", "carros", "veículos", "motorizado", "rodas"]
-	},
-	"0d063": {
-		"id": "0d063",
-		"imageCardsIds": ["td-d11-149"],
-		"passcode": [
-			"panela",
-			"antiaderente",
-			"inox",
-			"caçarola",
-			"fritadeira",
-			"teflon",
-			"alça",
-			"pressão"
-		]
-	},
-	"0e4aa": {
-		"id": "0e4aa",
-		"imageCardsIds": ["td-d6-215"],
-		"passcode": ["tronco"]
-	},
-	"11d33": {
-		"id": "11d33",
-		"imageCardsIds": ["td-d12-49", "td-d3-67"],
-		"passcode": ["molhado", "encharcado"]
-	},
-	"120d3": {
-		"id": "120d3",
-		"imageCardsIds": [
-			"td-d1-48",
-			"td-d1-127",
-			"td-d8-39",
-			"td-d7-120",
-			"td-d8-67",
-			"td-d2-06",
-			"td-d3-179",
-			"td-d1-76"
-		],
-		"passcode": ["lâmpada", "iluminação", "luz"]
-	},
-	"1224a": {
-		"id": "1224a",
-		"imageCardsIds": ["td-d2-241"],
-		"passcode": [
-			"assombrado",
-			"assombrada",
-			"assustador",
-			"tenebroso",
-			"terror"
-		]
-	},
-	"12a49": {
-		"id": "12a49",
-		"imageCardsIds": ["td-d6-29", "td-d7-47"],
-		"passcode": ["sofá", "assento", "mobiliário", "poltrona", "divã"]
-	},
-	"134a5": {
-		"id": "134a5",
-		"imageCardsIds": ["td-d11-160", "td-d11-149", "td-d1-234"],
-		"passcode": ["janela"]
-	},
-	"1399c": {
-		"id": "1399c",
-		"imageCardsIds": ["td-d8-197"],
-		"passcode": [
-			"metrô",
-			"vagão",
-			"estação",
-			"plataforma",
-			"catraca",
-			"subterrâneo"
-		]
-	},
-	"145cb": {
-		"id": "145cb",
-		"imageCardsIds": ["td-d1-04", "td-d7-153"],
-		"passcode": ["quadros", "moldura", "retrato", "arte"]
-	},
-	"146ba": {
-		"id": "146ba",
-		"imageCardsIds": ["td-d6-241"],
-		"passcode": ["sacola"]
-	},
-	"14b72": {
-		"id": "14b72",
-		"imageCardsIds": ["td-d3-158", "td-d8-199", "td-d9-148"],
-		"passcode": ["cientista", "inventor"]
-	},
-	"1651f": {
-		"id": "1651f",
-		"imageCardsIds": [
-			"td-d4-114",
-			"td-d1-22",
-			"td-d7-43",
-			"td-d4-129",
-			"td-d2-106",
-			"td-d3-100",
-			"td-d4-158"
-		],
-		"passcode": [
-			"chifre",
-			"pontiagudo",
-			"ponta",
-			"pontudo",
-			"chifrudo",
-			"galhada"
-		]
-	},
-	"1691d": {
-		"id": "1691d",
-		"imageCardsIds": ["td-d7-217"],
-		"passcode": [
-			"pijama",
-			"conforto",
-			"dormir",
-			"dormindo",
-			"sono",
-			"preguiça",
-			"sonhar",
-			"sonâmbulo"
-		]
-	},
-	"16f3d": {
-		"id": "16f3d",
-		"imageCardsIds": ["td-d11-200"],
-		"passcode": ["ampulheta"]
-	},
-	"172f0": {
-		"id": "172f0",
-		"imageCardsIds": ["td-d8-240"],
-		"passcode": ["capa"]
-	},
-	"174e0": {
-		"id": "174e0",
-		"imageCardsIds": [
-			"td-d2-249",
-			"td-d12-134",
-			"td-d8-197",
-			"td-d3-36",
-			"td-d9-235"
-		],
-		"passcode": ["pássaro", "penas", "plumagem", "migratório", "penugem"]
-	},
-	"17b13": {
-		"id": "17b13",
-		"imageCardsIds": ["td-d5-158", "td-d7-12", "td-d1-41"],
-		"passcode": ["vilão", "maldade", "inimigo", "malvado", "maldoso"]
-	},
-	"19e15": {
-		"id": "19e15",
-		"imageCardsIds": ["td-d5-30"],
-		"passcode": ["festa", "alegria", "diversão", "confraternização"]
-	},
-	"1a49c": {
-		"id": "1a49c",
-		"imageCardsIds": ["td-d3-225", "td-d11-233"],
-		"passcode": ["fumaça", "névoa", "cinzas", "chaminé", "poluição"]
-	},
-	"1a6fc": {
-		"id": "1a6fc",
-		"imageCardsIds": ["td-d1-05", "td-d3-44", "td-d5-92"],
-		"passcode": ["sapo", "anfíbio", "sapos", "anfíbios"]
-	},
-	"1a938": {
-		"id": "1a938",
-		"imageCardsIds": ["td-d1-153"],
-		"passcode": ["leme", "direção", "navegação"]
-	},
-	"1aaaa": {
-		"id": "1aaaa",
-		"imageCardsIds": ["td-d2-249", "td-d3-26", "td-d5-29", "td-d8-140"],
-		"passcode": ["mesa", "madeira", "superfície", "tablado"]
-	},
-	"1ab41": {
-		"id": "1ab41",
-		"imageCardsIds": ["td-d5-242"],
-		"passcode": ["geladeira", "refrigerador"]
-	},
-	"1b749": {
-		"id": "1b749",
-		"imageCardsIds": ["td-d4-140"],
-		"passcode": ["vidro", "transparente", "frágil", "quebradiço", "garrafa"]
-	},
-	"1b970": {
-		"id": "1b970",
-		"imageCardsIds": ["td-d3-149", "td-d6-176", "td-d2-106"],
-		"passcode": [
-			"circo",
-			"picadeiro",
-			"trapézio",
-			"malabarismo",
-			"equilibrista",
-			"tenta",
-			"domador",
-			"acrobacia"
-		]
-	},
-	"1dc84": {
-		"id": "1dc84",
-		"imageCardsIds": ["td-d10-77"],
-		"passcode": ["vitrola", "toca-discos", "fonógrafo", "radiola"]
-	},
-	"1dfe0": {
-		"id": "1dfe0",
-		"imageCardsIds": ["td-d12-05"],
-		"passcode": ["futebol"]
-	},
-	"1e43c": {
-		"id": "1e43c",
-		"imageCardsIds": ["td-d1-48", "td-d2-06"],
-		"passcode": [
-			"escuro",
-			"escuridão",
-			"trevas",
-			"sombra",
-			"penumbra",
-			"obscuro",
-			"obscuridade"
-		]
-	},
-	"1e4ab": {
-		"id": "1e4ab",
-		"imageCardsIds": ["td-d1-171", "td-d8-108"],
-		"passcode": [
-			"estresse",
-			"tensão",
-			"ansiedade",
-			"pressão",
-			"cansaço",
-			"colapso",
-			"sobrecarga"
-		]
-	},
-	"1e720": {
-		"id": "1e720",
-		"imageCardsIds": [
-			"td-d7-228",
-			"td-d7-110",
-			"td-d1-01",
-			"td-d1-07",
-			"td-d1-141",
-			"td-d7-111",
-			"td-d4-114",
-			"td-d4-202"
-		],
-		"passcode": ["navio", "embarcação", "barco", "navegar"]
-	},
-	"1f447": {
-		"id": "1f447",
-		"imageCardsIds": ["td-d8-151", "td-d10-215", "td-d5-238"],
-		"passcode": ["coelho", "páscoa", "saltitante"]
-	},
-	"2020f": {
-		"id": "2020f",
-		"imageCardsIds": ["td-d10-206", "td-d2-29"],
-		"passcode": [
-			"destruição",
-			"ruína",
-			"colapso",
-			"caos",
-			"devastação",
-			"demolição",
-			"catástrofe"
-		]
-	},
-	"210d7": {
-		"id": "210d7",
-		"imageCardsIds": ["td-d7-45"],
-		"passcode": [
-			"obra",
-			"construção",
-			"projeto",
-			"concreto",
-			"arquitetura",
-			"engenheiro",
-			"reforma"
-		]
-	},
-	"219c4": {
-		"id": "219c4",
-		"imageCardsIds": ["td-d10-214"],
-		"passcode": [
-			"mágica",
-			"magia",
-			"ilusão",
-			"truque",
-			"encantamento",
-			"abracadabra"
-		]
-	},
-	"23b58": {
-		"id": "23b58",
-		"imageCardsIds": [
-			"td-d6-100",
-			"td-d9-214",
-			"td-d6-237",
-			"td-d7-137",
-			"td-d10-127",
-			"td-d11-227"
-		],
-		"passcode": [
-			"rua",
-			"calçada",
-			"asfalto",
-			"esquina",
-			"trânsito",
-			"cruzamento"
-		]
-	},
-	"24a53": {
-		"id": "24a53",
-		"imageCardsIds": ["td-d11-198"],
-		"passcode": ["boneca", "roupinha", "bonecas"]
-	},
-	"253ce": {
-		"id": "253ce",
-		"imageCardsIds": ["td-d2-249", "td-d2-121", "td-d3-100", "td-d9-43"],
-		"passcode": [
-			"televisão",
-			"canal",
-			"tela",
-			"novela",
-			"antena",
-			"transmissão",
-			"programação",
-			"programa",
-			"imagem",
-			"vídeo"
-		]
-	},
-	"265fb": {
-		"id": "265fb",
-		"imageCardsIds": ["td-d4-139", "td-d6-164", "td-d10-214"],
-		"passcode": ["floresta", "folhagem", "raízes"]
-	},
-	"268f5": {
-		"id": "268f5",
-		"imageCardsIds": ["td-d2-198"],
-		"passcode": ["oceano", "mar", "atlântico", "pacífico"]
-	},
-	"279a9": {
-		"id": "279a9",
-		"imageCardsIds": ["td-d4-42", "td-d4-62"],
-		"passcode": [
-			"jogo",
-			"torcida",
-			"equipe",
-			"competição",
-			"esporte",
-			"placar",
-			"treinamento",
-			"arbitragem",
-			"vitória"
-		]
-	},
-	"27afd": {
-		"id": "27afd",
-		"imageCardsIds": [
-			"td-d2-06",
-			"td-d1-96",
-			"td-d6-13",
-			"td-d6-67",
-			"td-d2-45",
-			"td-d4-47",
-			"td-d3-129"
-		],
-		"passcode": [
-			"idoso",
-			"velho",
-			"senhor",
-			"experiência",
-			"longevidade",
-			"vovô"
-		]
-	},
-	"286eb": {
-		"id": "286eb",
-		"imageCardsIds": [
-			"td-d1-95",
-			"td-d1-127",
-			"td-d11-105",
-			"td-d2-42",
-			"td-d8-228"
-		],
-		"passcode": [
-			"caveiras",
-			"crânio",
-			"esqueleto",
-			"osso",
-			"ossos",
-			"morte",
-			"passagem"
-		]
-	},
-	"294ec": {
-		"id": "294ec",
-		"imageCardsIds": ["td-d11-159"],
-		"passcode": ["cavalete"]
-	},
-	"29f21": {
-		"id": "29f21",
-		"imageCardsIds": ["td-d1-103"],
-		"passcode": ["princesa", "realeza", "tiara", "herdeira", "encantada"]
-	},
-	"2a60a": {
-		"id": "2a60a",
-		"imageCardsIds": ["td-d10-193"],
-		"passcode": ["corrente", "elo", "ferro", "acorrentado", "preso"]
-	},
-	"2b0ee": {
-		"id": "2b0ee",
-		"imageCardsIds": ["td-d4-155"],
-		"passcode": ["apresentação", "palco", "conteúdo", "exposição"]
-	},
-	"2b4bf": {
-		"id": "2b4bf",
-		"imageCardsIds": ["td-d7-192"],
-		"passcode": ["esquiador"]
-	},
-	"2bcb0": {
-		"id": "2bcb0",
-		"imageCardsIds": ["td-d12-134", "td-d5-97"],
-		"passcode": [
-			"relógio",
-			"ponteiro",
-			"cronômetro",
-			"tic-tac",
-			"alarme",
-			"tempo",
-			"temporal",
-			"horário",
-			"hora"
-		]
-	},
-	"2c4c1": {
-		"id": "2c4c1",
-		"imageCardsIds": ["td-d1-216"],
-		"passcode": ["cítrico", "azedo", "tropical"]
-	},
-	"2d5b3": {
-		"id": "2d5b3",
-		"imageCardsIds": ["td-d11-198", "td-d12-220"],
-		"passcode": ["parede", "reboco", "textura", "divisória", "concreto"]
-	},
-	"2d9c9": {
-		"id": "2d9c9",
-		"imageCardsIds": ["td-d5-61"],
-		"passcode": ["biblioteca", "livraria"]
-	},
-	"2e6d9": {
-		"id": "2e6d9",
-		"imageCardsIds": ["td-d4-221"],
-		"passcode": ["teclado"]
-	},
-	"2f837": {
-		"id": "2f837",
-		"imageCardsIds": ["td-d10-239"],
-		"passcode": ["aquário"]
-	},
-	"30e4b": {
-		"id": "30e4b",
-		"imageCardsIds": ["td-d11-227"],
-		"passcode": ["solitária"]
-	},
-	"316cd": {
-		"id": "316cd",
-		"imageCardsIds": ["td-d10-93"],
-		"passcode": ["pedaços"]
-	},
-	"31fa0": {
-		"id": "31fa0",
-		"imageCardsIds": ["td-d12-99"],
-		"passcode": ["sala"]
-	},
-	"31fb3": {
-		"id": "31fb3",
-		"imageCardsIds": ["td-d12-107"],
-		"passcode": ["ferramentas"]
-	},
-	"320fa": {
-		"id": "320fa",
-		"imageCardsIds": ["td-d1-174", "td-d4-22"],
-		"passcode": ["mão", "segurar", "pegar"]
-	},
-	"323f3": {
-		"id": "323f3",
-		"imageCardsIds": ["td-d11-84"],
-		"passcode": ["pavão"]
-	},
-	"32b89": {
-		"id": "32b89",
-		"imageCardsIds": [
-			"td-d1-72",
-			"td-d9-190",
-			"td-d3-19",
-			"td-d4-129",
-			"td-d12-30"
-		],
-		"passcode": ["bolo", "bolos", "confeitaria", "confeição"]
-	},
-	"33f95": {
-		"id": "33f95",
-		"imageCardsIds": ["td-d7-20"],
-		"passcode": ["instrumento", "musical"]
-	},
-	"3511a": {
-		"id": "3511a",
-		"imageCardsIds": ["td-d8-85"],
-		"passcode": ["torcedor"]
-	},
-	"3580d": {
-		"id": "3580d",
-		"imageCardsIds": ["td-d8-93", "td-d3-239"],
-		"passcode": ["mochila", "compartimento", "bolsa"]
-	},
-	"35d89": {
-		"id": "35d89",
-		"imageCardsIds": ["td-d6-111", "td-d1-22", "td-d10-223"],
-		"passcode": ["veado"]
-	},
-	"35f4c": {
-		"id": "35f4c",
-		"imageCardsIds": ["td-d1-161"],
-		"passcode": ["luzes"]
-	},
-	"37a6f": {
-		"id": "37a6f",
-		"imageCardsIds": [
-			"td-d1-115",
-			"td-d1-119",
-			"td-d3-169",
-			"td-d3-149",
-			"td-d6-176"
-		],
-		"passcode": ["palhaço", "palhaçada"]
-	},
-	"37e28": {
-		"id": "37e28",
-		"imageCardsIds": ["td-d6-88"],
-		"passcode": ["catco"]
-	},
-	"38a99": {
-		"id": "38a99",
-		"imageCardsIds": ["td-d7-121"],
-		"passcode": [
-			"cérebro",
-			"neurônio",
-			"sinapse",
-			"memória",
-			"raciocínio",
-			"cognição",
-			"hipocampo",
-			"inteligência"
-		]
-	},
-	"3907d": {
-		"id": "3907d",
-		"imageCardsIds": ["td-d2-29"],
-		"passcode": ["quadriculado"]
-	},
-	"39aaa": {
-		"id": "39aaa",
-		"imageCardsIds": ["td-d5-145", "td-d1-162"],
-		"passcode": ["festa", "festejar", "comemoração"]
-	},
-	"39fd7": {
-		"id": "39fd7",
-		"imageCardsIds": ["td-d4-141"],
-		"passcode": ["influenciadora"]
-	},
-	"3a55f": {
-		"id": "3a55f",
-		"imageCardsIds": ["td-d3-94"],
-		"passcode": ["esgoto"]
-	},
-	"3ae0f": {
-		"id": "3ae0f",
-		"imageCardsIds": ["td-d12-33"],
-		"passcode": ["cabelo"]
-	},
-	"3afac": {
-		"id": "3afac",
-		"imageCardsIds": ["td-d1-191"],
-		"passcode": ["construção"]
-	},
-	"3b10c": {
-		"id": "3b10c",
-		"imageCardsIds": ["td-d8-240"],
-		"passcode": ["dente"]
-	},
-	"3b2f3": {
-		"id": "3b2f3",
-		"imageCardsIds": [
-			"td-d1-57",
-			"td-d1-61",
-			"td-d1-77",
-			"td-d1-60",
-			"td-d1-33"
-		],
-		"passcode": ["pirâmide", "triangular"]
-	},
-	"3c6f9": {
-		"id": "3c6f9",
-		"imageCardsIds": ["td-d3-225"],
-		"passcode": ["fábrica", "indústria", "produção", "máquinas", "operário"]
-	},
-	"3d4c0": {
-		"id": "3d4c0",
-		"imageCardsIds": ["td-d3-99", "td-d4-158", "td-d1-78", "td-d10-127"],
-		"passcode": ["negro"]
-	},
-	"3dd6e": {
-		"id": "3dd6e",
-		"imageCardsIds": ["td-d4-250"],
-		"passcode": ["arquivos"]
-	},
-	"3dded": {
-		"id": "3dded",
-		"imageCardsIds": ["td-d8-85"],
-		"passcode": ["camisa"]
-	},
-	"3e887": {
-		"id": "3e887",
-		"imageCardsIds": ["td-d1-61"],
-		"passcode": ["nublado", "neblina", "melancolia"]
-	},
-	"3ef04": {
-		"id": "3ef04",
-		"imageCardsIds": ["td-d7-110"],
-		"passcode": ["desastre"]
-	},
-	"3efc3": {
-		"id": "3efc3",
-		"imageCardsIds": ["td-d8-41", "td-d10-184", "td-d7-192"],
-		"passcode": ["cavalo"]
-	},
-	"3f057": {
-		"id": "3f057",
-		"imageCardsIds": ["td-d2-249"],
-		"passcode": ["telefone"]
-	},
-	"3f4f0": {
-		"id": "3f4f0",
-		"imageCardsIds": ["td-d1-141"],
-		"passcode": ["queijo"]
-	},
-	"3f50f": {
-		"id": "3f50f",
-		"imageCardsIds": ["td-d1-70", "td-d3-129"],
-		"passcode": ["plantas"]
-	},
-	"3f7ff": {
-		"id": "3f7ff",
-		"imageCardsIds": ["td-d1-153", "td-d7-20", "td-d8-124", "td-d5-95"],
-		"passcode": ["arco"]
-	},
-	"3fb96": {
-		"id": "3fb96",
-		"imageCardsIds": ["td-d12-33", "td-d7-120", "td-d3-248"],
-		"passcode": ["vestido"]
-	},
-	"4011f": {
-		"id": "4011f",
-		"imageCardsIds": ["td-d1-02", "td-d1-103", "td-d9-21"],
-		"passcode": ["espada"]
-	},
-	"4058c": {
-		"id": "4058c",
-		"imageCardsIds": [
-			"td-d4-241",
-			"td-d6-17",
-			"td-d8-93",
-			"td-d12-30",
-			"td-d3-202"
-		],
-		"passcode": ["vitrine", "exposição", "mostruário"]
-	},
-	"40d13": {
-		"id": "40d13",
-		"imageCardsIds": ["td-d1-70"],
-		"passcode": ["escritório", "trabalho", "trampo"]
-	},
-	"421bc": {
-		"id": "421bc",
-		"imageCardsIds": ["td-d8-228"],
-		"passcode": ["Halloween"]
-	},
-	"431df": {
-		"id": "431df",
-		"imageCardsIds": ["td-d3-26", "td-d1-234"],
-		"passcode": [
-			"estudante",
-			"aprendiz",
-			"aprendizado",
-			"saber",
-			"aprender",
-			"uniforme"
-		]
-	},
-	"44cd6": {
-		"id": "44cd6",
-		"imageCardsIds": ["td-d1-76"],
-		"passcode": ["gordo"]
-	},
-	"455c0": {
-		"id": "455c0",
-		"imageCardsIds": ["td-d2-40"],
-		"passcode": [
-			"prisão",
-			"cela",
-			"grades",
-			"detento",
-			"sentença",
-			"carcereiro",
-			"penitenciária",
-			"condenação"
-		]
-	},
-	"4570b": {
-		"id": "4570b",
-		"imageCardsIds": ["td-d8-238", "td-d11-47"],
-		"passcode": ["pintura", "tela", "aquarela", "tinta", "artista"]
-	},
-	"45d4f": {
-		"id": "45d4f",
-		"imageCardsIds": ["td-d3-110"],
-		"passcode": ["vela"]
-	},
-	"45e17": {
-		"id": "45e17",
-		"imageCardsIds": ["td-d5-127"],
-		"passcode": ["agulhas"]
-	},
-	"463f1": {
-		"id": "463f1",
-		"imageCardsIds": ["td-d1-71"],
-		"passcode": ["surpresa", "inesperado", "emoção", "espanto", "revelação"]
-	},
-	"46f4a": {
-		"id": "46f4a",
-		"imageCardsIds": ["td-d11-245", "td-d4-112"],
-		"passcode": ["cortina", "privacidade"]
-	},
-	"48bbb": {
-		"id": "48bbb",
-		"imageCardsIds": [
-			"td-d1-17",
-			"td-d1-192",
-			"td-d1-211",
-			"td-d1-05",
-			"td-d8-63",
-			"td-d2-216",
-			"td-d7-23",
-			"td-d8-67",
-			"td-d6-158",
-			"td-d10-148",
-			"td-d4-03",
-			"td-d7-247",
-			"td-d2-05"
-		],
-		"passcode": ["livros", "leitura", "livro"]
-	},
-	"48f2e": {
-		"id": "48f2e",
-		"imageCardsIds": ["td-d10-93"],
-		"passcode": ["shorts"]
-	},
-	"4930a": {
-		"id": "4930a",
-		"imageCardsIds": ["td-d9-115", "td-d6-18"],
-		"passcode": ["roupas", "vestimentas"]
-	},
-	"49d28": {
-		"id": "49d28",
-		"imageCardsIds": ["td-d1-41"],
-		"passcode": ["capetinha"]
-	},
-	"4a891": {
-		"id": "4a891",
-		"imageCardsIds": ["td-d9-104", "td-d8-228"],
-		"passcode": ["cemitério"]
-	},
-	"4aa90": {
-		"id": "4aa90",
-		"imageCardsIds": [
-			"td-d1-01",
-			"td-d2-103",
-			"td-d7-210",
-			"td-d5-162",
-			"td-d1-78"
-		],
-		"passcode": ["guarda-chuva", "sombrinha"]
-	},
-	"4ac6c": {
-		"id": "4ac6c",
-		"imageCardsIds": ["td-d1-238", "td-d2-40"],
-		"passcode": ["dinossauro", "jurássico", "réptil", "extinção"]
-	},
-	"4ad7b": {
-		"id": "4ad7b",
-		"imageCardsIds": ["td-d9-119"],
-		"passcode": ["alquimista", "transmutação", "experimento"]
-	},
-	"4b09b": {
-		"id": "4b09b",
-		"imageCardsIds": ["td-d1-174"],
-		"passcode": ["rio", "correnteza", "margem", "córrego", "leito", "nascente"]
-	},
-	"4b921": {
-		"id": "4b921",
-		"imageCardsIds": [
-			"td-d7-97",
-			"td-d4-224",
-			"td-d7-111",
-			"td-d4-114",
-			"td-d5-238",
-			"td-d9-235"
-		],
-		"passcode": ["céu", "horizonte", "atmosfera", "imensidão"]
-	},
-	"4bc03": {
-		"id": "4bc03",
-		"imageCardsIds": [
-			"td-d12-182",
-			"td-d4-221",
-			"td-d5-29",
-			"td-d9-116",
-			"td-d2-155"
-		],
-		"passcode": ["tentáculos"]
-	},
-	"4c349": {
-		"id": "4c349",
-		"imageCardsIds": ["td-d4-62"],
-		"passcode": ["tabuleiro"]
-	},
-	"4c70b": {
-		"id": "4c70b",
-		"imageCardsIds": ["td-d5-01"],
-		"passcode": ["boné"]
-	},
-	"4c866": {
-		"id": "4c866",
-		"imageCardsIds": ["td-d1-216", "td-d10-178"],
-		"passcode": ["abacaxi"]
-	},
-	"4cbef": {
-		"id": "4cbef",
-		"imageCardsIds": [
-			"td-d1-220",
-			"td-d10-132",
-			"td-d2-142",
-			"td-d6-149",
-			"td-d5-234",
-			"td-d5-65",
-			"td-d10-180",
-			"td-d3-67",
-			"td-d1-196",
-			"td-d7-140",
-			"td-d5-129"
-		],
-		"passcode": ["robótica", "robô", "robôs"]
-	},
-	"4cc8e": {
-		"id": "4cc8e",
-		"imageCardsIds": ["td-d9-92"],
-		"passcode": ["galpão", "armazém", "estoque", "depósito"]
-	},
-	"4e030": {
-		"id": "4e030",
-		"imageCardsIds": ["td-d9-173"],
-		"passcode": ["azulado"]
-	},
-	"4e1f5": {
-		"id": "4e1f5",
-		"imageCardsIds": [
-			"td-d1-190",
-			"td-d7-23",
-			"td-d12-30",
-			"td-d2-45",
-			"td-d3-202",
-			"td-d10-93",
-			"td-d2-05",
-			"td-d12-162"
-		],
-		"passcode": ["menino", "pestinha", "criança"]
-	},
-	"4e492": {
-		"id": "4e492",
-		"imageCardsIds": ["td-d11-149"],
-		"passcode": ["alarme"]
-	},
-	"4e6fd": {
-		"id": "4e6fd",
-		"imageCardsIds": ["td-d8-140", "td-d4-67"],
-		"passcode": ["papel"]
-	},
-	"4eee1": {
-		"id": "4eee1",
-		"imageCardsIds": ["td-d8-208", "td-d6-212", "td-d6-113"],
-		"passcode": ["fonte"]
-	},
-	"4f3f8": {
-		"id": "4f3f8",
-		"imageCardsIds": ["td-d9-154"],
-		"passcode": ["astecas"]
-	},
-	"4faef": {
-		"id": "4faef",
-		"imageCardsIds": ["td-d9-187", "td-d10-148", "td-d5-162"],
-		"passcode": [
-			"terno",
-			"paletó",
-			"lapela",
-			"alfaiate",
-			"elegância",
-			"executivo",
-			"advogado"
-		]
-	},
-	"50de9": {
-		"id": "50de9",
-		"imageCardsIds": ["td-d7-140", "td-d1-161"],
-		"passcode": ["futuro", "tecnologia", "amanhã", "evolução", "futurismo"]
-	},
-	"514e8": {
-		"id": "514e8",
-		"imageCardsIds": ["td-d3-158", "td-d1-165", "td-d12-52"],
-		"passcode": ["eletricidade", "elétrico"]
-	},
-	"52fd1": {
-		"id": "52fd1",
-		"imageCardsIds": ["td-d5-158", "td-d7-43"],
-		"passcode": ["diabo", "tentação", "maldição", "inferno", "pacto"]
-	},
-	"53dec": {
-		"id": "53dec",
-		"imageCardsIds": ["td-d11-82"],
-		"passcode": ["moinho"]
-	},
-	"5491a": {
-		"id": "5491a",
-		"imageCardsIds": ["td-d6-239"],
-		"passcode": ["tigre"]
-	},
-	"555b9": {
-		"id": "555b9",
-		"imageCardsIds": ["td-d4-215"],
-		"passcode": ["video-game"]
-	},
-	"5595a": {
-		"id": "5595a",
-		"imageCardsIds": [
-			"td-d7-97",
-			"td-d7-74",
-			"td-d11-160",
-			"td-d12-135",
-			"td-d7-69",
-			"td-d6-131",
-			"td-d1-11",
-			"td-d11-61",
-			"td-d2-169",
-			"td-d1-16",
-			"td-d6-90",
-			"td-d9-182",
-			"td-d11-159",
-			"td-d5-238"
-		],
-		"passcode": ["nuvem", "nuvens"]
-	},
-	"55f75": {
-		"id": "55f75",
-		"imageCardsIds": ["td-d1-04", "td-d3-55", "td-d6-29"],
-		"passcode": ["poster", "retrato", "moldura"]
-	},
-	"591ca": {
-		"id": "591ca",
-		"imageCardsIds": ["td-d1-19"],
-		"passcode": ["guindaste", "engrenagem", "carga", "levantar"]
-	},
-	"59acc": {
-		"id": "59acc",
-		"imageCardsIds": ["td-d3-141", "td-d5-179", "td-d8-85"],
-		"passcode": ["bola", "bolas", "esférico", "chute", "inflável", "quicar"]
-	},
-	"5ad6c": {
-		"id": "5ad6c",
-		"imageCardsIds": ["td-d10-79"],
-		"passcode": ["grito"]
-	},
-	"5b8e2": {
-		"id": "5b8e2",
-		"imageCardsIds": ["td-d1-15"],
-		"passcode": ["macarrão", "macarronada", "massa", "espaguete"]
-	},
-	"5c391": {
-		"id": "5c391",
-		"imageCardsIds": [
-			"td-d8-121",
-			"td-d4-141",
-			"td-d6-241",
-			"td-d11-47",
-			"td-d8-85"
-		],
-		"passcode": [
-			"celular",
-			"aplicativo",
-			"notificação",
-			"comunicação",
-			"telefone",
-			"conexão"
-		]
-	},
-	"5c481": {
-		"id": "5c481",
-		"imageCardsIds": ["td-d8-191"],
-		"passcode": ["bugigangas", "dispositivos"]
-	},
-	"5cb55": {
-		"id": "5cb55",
-		"imageCardsIds": [
-			"td-d1-29",
-			"td-d3-46",
-			"td-d6-124",
-			"td-d7-141",
-			"td-d12-190",
-			"td-d5-242",
-			"td-d1-234",
-			"td-d3-129",
-			"td-d7-231"
-		],
-		"passcode": ["borboleta", "borboletas"]
-	},
-	"5d11f": {
-		"id": "5d11f",
-		"imageCardsIds": ["td-d12-129"],
-		"passcode": ["outono", "equinócio"]
-	},
-	"5dcfc": {
-		"id": "5dcfc",
-		"imageCardsIds": ["td-d10-151", "td-d1-101", "td-d7-251"],
-		"passcode": ["ninja", "agilidade", "camuflagem"]
-	},
-	"5e429": {
-		"id": "5e429",
-		"imageCardsIds": ["td-d8-10", "td-d5-22"],
-		"passcode": ["labirinto", "enigma", "perdido", "intrincado", "passagens"]
-	},
-	"5e433": {
-		"id": "5e433",
-		"imageCardsIds": ["td-d3-239", "td-d6-112"],
-		"passcode": ["astronauta"]
-	},
-	"5e4e6": {
-		"id": "5e4e6",
-		"imageCardsIds": ["td-d3-141", "td-d3-138"],
-		"passcode": [
-			"agressivo",
-			"violento",
-			"violência",
-			"feroz",
-			"intenso",
-			"hostil",
-			"ofensivo"
-		]
-	},
-	"5ea04": {
-		"id": "5ea04",
-		"imageCardsIds": [
-			"td-d9-190",
-			"td-d2-169",
-			"td-d4-129",
-			"td-d3-207",
-			"td-d2-198"
-		],
-		"passcode": ["arco-íris", "colorido"]
-	},
-	"5f538": {
-		"id": "5f538",
-		"imageCardsIds": ["td-d9-26"],
-		"passcode": ["ciência"]
-	},
-	"60a30": {
-		"id": "60a30",
-		"imageCardsIds": ["td-d1-174", "td-d10-151", "td-d2-62"],
-		"passcode": ["tartaruga"]
-	},
-	"62a15": {
-		"id": "62a15",
-		"imageCardsIds": [
-			"td-d1-236",
-			"td-d1-217",
-			"td-d1-237",
-			"td-d7-120",
-			"td-d3-149",
-			"td-d2-106",
-			"td-d7-137",
-			"td-d6-239"
-		],
-		"passcode": ["listrado", "listras"]
-	},
-	"63a89": {
-		"id": "63a89",
-		"imageCardsIds": ["td-d9-148"],
-		"passcode": ["laboratório"]
-	},
-	"63cc6": {
-		"id": "63cc6",
-		"imageCardsIds": ["td-d7-08"],
-		"passcode": ["submergido"]
-	},
-	"643ae": {
-		"id": "643ae",
-		"imageCardsIds": ["td-d9-217"],
-		"passcode": ["controle"]
-	},
-	"6465f": {
-		"id": "6465f",
-		"imageCardsIds": ["td-d9-187"],
-		"passcode": ["linguiça", "salsicha"]
-	},
-	"650fa": {
-		"id": "650fa",
-		"imageCardsIds": ["td-d9-217"],
-		"passcode": ["cerveja"]
-	},
-	"65ad9": {
-		"id": "65ad9",
-		"imageCardsIds": ["td-d10-25"],
-		"passcode": ["áfrica", "africano", "savana", "tribal", "safari"]
-	},
-	"65b2e": {
-		"id": "65b2e",
-		"imageCardsIds": ["td-d1-25", "td-d2-62"],
-		"passcode": ["discoteca", "boate", "danceteria"]
-	},
-	"65e8d": {
-		"id": "65e8d",
-		"imageCardsIds": ["td-d7-111", "td-d8-32", "td-d11-82"],
-		"passcode": ["estrela", "estrelar", "constelação"]
-	},
-	"678e5": {
-		"id": "678e5",
-		"imageCardsIds": ["td-d7-140"],
-		"passcode": ["skate"]
-	},
-	"679a7": {
-		"id": "679a7",
-		"imageCardsIds": [
-			"td-d1-52",
-			"td-d7-147",
-			"td-d8-63",
-			"td-d9-19",
-			"td-d2-193",
-			"td-d7-23",
-			"td-d7-251",
-			"td-d5-162",
-			"td-d10-93"
-		],
-		"passcode": ["óculos"]
-	},
-	"67c13": {
-		"id": "67c13",
-		"imageCardsIds": ["td-d9-217"],
-		"passcode": ["geleira"]
-	},
-	"68cba": {
-		"id": "68cba",
-		"imageCardsIds": ["td-d9-119", "td-d10-213", "td-d6-38"],
-		"passcode": ["colorido"]
-	},
-	"69f0e": {
-		"id": "69f0e",
-		"imageCardsIds": ["td-d5-139"],
-		"passcode": ["cultural"]
-	},
-	"6a13e": {
-		"id": "6a13e",
-		"imageCardsIds": ["td-d7-45"],
-		"passcode": ["barata"]
-	},
-	"6a75c": {
-		"id": "6a75c",
-		"imageCardsIds": ["td-d5-60", "td-d9-116", "td-d2-45"],
-		"passcode": ["verde"]
-	},
-	"6ab33": {
-		"id": "6ab33",
-		"imageCardsIds": ["td-d5-242", "td-d1-141"],
-		"passcode": ["amarelo"]
-	},
-	"6b134": {
-		"id": "6b134",
-		"imageCardsIds": ["td-d4-155", "td-d7-141", "td-d6-237"],
-		"passcode": ["gravata"]
-	},
-	"6b492": {
-		"id": "6b492",
-		"imageCardsIds": ["td-d7-141"],
-		"passcode": ["bigode"]
-	},
-	"6b54c": {
-		"id": "6b54c",
-		"imageCardsIds": ["td-d1-31", "td-d9-96"],
-		"passcode": ["avião", "aviação", "aeronave"]
-	},
-	"6b55d": {
-		"id": "6b55d",
-		"imageCardsIds": ["td-d9-43"],
-		"passcode": ["ruivo"]
-	},
-	"6c3d0": {
-		"id": "6c3d0",
-		"imageCardsIds": ["td-d11-11"],
-		"passcode": ["abandono"]
-	},
-	"6c81d": {
-		"id": "6c81d",
-		"imageCardsIds": ["td-d2-37"],
-		"passcode": ["polícia"]
-	},
-	"6c8ef": {
-		"id": "6c8ef",
-		"imageCardsIds": ["td-d4-250"],
-		"passcode": ["disquete"]
-	},
-	"6d4ab": {
-		"id": "6d4ab",
-		"imageCardsIds": ["td-d1-238", "td-d9-187", "td-d1-232"],
-		"passcode": ["trabalho", "trabalhador"]
-	},
-	"6d5c5": {
-		"id": "6d5c5",
-		"imageCardsIds": ["td-d11-160", "td-d11-159"],
-		"passcode": ["pneu"]
-	},
-	"6d624": {
-		"id": "6d624",
-		"imageCardsIds": ["td-d2-249", "td-d9-217"],
-		"passcode": ["pinguim"]
-	},
-	"6e60e": {
-		"id": "6e60e",
-		"imageCardsIds": ["td-d1-52", "td-d8-124"],
-		"passcode": ["rochedos", "rochas", "pedras"]
-	},
-	"6e94a": {
-		"id": "6e94a",
-		"imageCardsIds": ["td-d4-62"],
-		"passcode": ["diversidade"]
-	},
-	"6e9dc": {
-		"id": "6e9dc",
-		"imageCardsIds": ["td-d2-142", "td-d9-154"],
-		"passcode": ["estratégia"]
-	},
-	"6eb24": {
-		"id": "6eb24",
-		"imageCardsIds": ["td-d7-163"],
-		"passcode": ["peça"]
-	},
-	"6ff29": {
-		"id": "6ff29",
-		"imageCardsIds": ["td-d8-208"],
-		"passcode": ["balança"]
-	},
-	"703dd": {
-		"id": "703dd",
-		"imageCardsIds": ["td-d4-241"],
-		"passcode": ["guaxinim"]
-	},
-	"70b62": {
-		"id": "70b62",
-		"imageCardsIds": ["td-d3-248"],
-		"passcode": ["lustre"]
-	},
-	"714e7": {
-		"id": "714e7",
-		"imageCardsIds": ["td-d9-69"],
-		"passcode": ["possuído"]
-	},
-	"72fdb": {
-		"id": "72fdb",
-		"imageCardsIds": ["td-d9-115"],
-		"passcode": ["moletom"]
-	},
-	"73a7f": {
-		"id": "73a7f",
-		"imageCardsIds": ["td-d5-145", "td-d7-28"],
-		"passcode": ["balão"]
-	},
-	"744ec": {
-		"id": "744ec",
-		"imageCardsIds": ["td-d7-210", "td-d1-41", "td-d11-200"],
-		"passcode": ["vermelho", "escarlate"]
-	},
-	"74c16": {
-		"id": "74c16",
-		"imageCardsIds": ["td-d9-119", "td-d11-11"],
-		"passcode": ["cachorro", "canino"]
-	},
-	"74c32": {
-		"id": "74c32",
-		"imageCardsIds": ["td-d2-98", "td-d5-129"],
-		"passcode": ["cidade", "metrópole", "município", "metropolitano"]
-	},
-	"750e5": {
-		"id": "750e5",
-		"imageCardsIds": ["td-d11-59"],
-		"passcode": ["cesta"]
-	},
-	"752e4": {
-		"id": "752e4",
-		"imageCardsIds": ["td-d4-224", "td-d7-217", "td-d12-203", "td-d5-64"],
-		"passcode": ["xícara", "porcelana"]
-	},
-	"775c6": {
-		"id": "775c6",
-		"imageCardsIds": ["td-d11-11", "td-d6-215"],
-		"passcode": ["planta"]
-	},
-	"780ab": {
-		"id": "780ab",
-		"imageCardsIds": ["td-d6-111", "td-d11-153"],
-		"passcode": ["privada", "vaso sanitário"]
-	},
-	"787da": {
-		"id": "787da",
-		"imageCardsIds": ["td-d7-217", "td-d5-61"],
-		"passcode": ["panda"]
-	},
-	"7915e": {
-		"id": "7915e",
-		"imageCardsIds": ["td-d5-79"],
-		"passcode": ["lata"]
-	},
-	"7940f": {
-		"id": "7940f",
-		"imageCardsIds": [
-			"td-d5-250",
-			"td-d7-89",
-			"td-d5-01",
-			"td-d1-127",
-			"td-d5-22",
-			"td-d4-125"
-		],
-		"passcode": ["chapéu"]
-	},
-	"79d12": {
-		"id": "79d12",
-		"imageCardsIds": ["td-d2-05"],
-		"passcode": ["imaginação"]
-	},
-	"7a3e0": {
-		"id": "7a3e0",
-		"imageCardsIds": ["td-d4-224"],
-		"passcode": ["saxofone"]
-	},
-	"7b29a": {
-		"id": "7b29a",
-		"imageCardsIds": ["td-d10-93"],
-		"passcode": ["afro"]
-	},
-	"7b2ce": {
-		"id": "7b2ce",
-		"imageCardsIds": ["td-d10-211"],
-		"passcode": ["fruta", "frutífero", "fruto"]
-	},
-	"7bbc0": {
-		"id": "7bbc0",
-		"imageCardsIds": [
-			"td-d1-33",
-			"td-d1-26",
-			"td-d7-74",
-			"td-d7-89",
-			"td-d1-99",
-			"td-d10-226",
-			"td-d4-79",
-			"td-d8-40",
-			"td-d4-74",
-			"td-d2-124",
-			"td-d9-72",
-			"td-d10-93"
-		],
-		"passcode": ["pizza", "pizzaria"]
-	},
-	"7ca2f": {
-		"id": "7ca2f",
-		"imageCardsIds": ["td-d1-48"],
-		"passcode": ["careca", "calvície"]
-	},
-	"7cd42": {
-		"id": "7cd42",
-		"imageCardsIds": ["td-d8-151"],
-		"passcode": ["cinto", "cinturão"]
-	},
-	"7d48d": {
-		"id": "7d48d",
-		"imageCardsIds": [
-			"td-d5-250",
-			"td-d4-155",
-			"td-d5-134",
-			"td-d10-119",
-			"td-d1-127",
-			"td-d5-158",
-			"td-d3-149",
-			"td-d10-184",
-			"td-d7-104"
-		],
-		"passcode": ["cartola"]
-	},
-	"7fe39": {
-		"id": "7fe39",
-		"imageCardsIds": ["td-d2-249", "td-d10-238"],
-		"passcode": ["cadeira", "assento"]
-	},
-	"80a5b": {
-		"id": "80a5b",
-		"imageCardsIds": ["td-d11-105"],
-		"passcode": ["semáforo"]
-	},
-	"81dbc": {
-		"id": "81dbc",
-		"imageCardsIds": ["td-d10-112"],
-		"passcode": ["garfo"]
-	},
-	"856a7": {
-		"id": "856a7",
-		"imageCardsIds": [
-			"td-d4-215",
-			"td-d10-223",
-			"td-d1-171",
-			"td-d3-179",
-			"td-d6-38"
-		],
-		"passcode": ["linhas", "tiras", "fitas"]
-	},
-	"85c05": {
-		"id": "85c05",
-		"imageCardsIds": ["td-d12-21"],
-		"passcode": ["acampamento"]
-	},
-	"8640f": {
-		"id": "8640f",
-		"imageCardsIds": ["td-d1-127"],
-		"passcode": ["malvado"]
-	},
-	"86ab5": {
-		"id": "86ab5",
-		"imageCardsIds": ["td-d5-127"],
-		"passcode": ["espaço"]
-	},
-	"86b41": {
-		"id": "86b41",
-		"imageCardsIds": ["td-d7-247"],
-		"passcode": ["manto"]
-	},
-	"88f51": {
-		"id": "88f51",
-		"imageCardsIds": ["td-d1-153"],
-		"passcode": ["roda"]
-	},
-	"8a3f4": {
-		"id": "8a3f4",
-		"imageCardsIds": ["td-d7-162", "td-d2-120"],
-		"passcode": ["psicodélico"]
-	},
-	"8b854": {
-		"id": "8b854",
-		"imageCardsIds": ["td-d6-153"],
-		"passcode": ["cobertor", "manta"]
-	},
-	"8bad3": {
-		"id": "8bad3",
-		"imageCardsIds": ["td-d4-22"],
-		"passcode": ["dinheiro"]
-	},
-	"8cd9a": {
-		"id": "8cd9a",
-		"imageCardsIds": ["td-d7-228"],
-		"passcode": ["sol"]
-	},
-	"8d0d9": {
-		"id": "8d0d9",
-		"imageCardsIds": ["td-d11-82"],
-		"passcode": ["cone"]
-	},
-	"8d61c": {
-		"id": "8d61c",
-		"imageCardsIds": ["td-d6-90", "td-d7-251"],
-		"passcode": ["ilha"]
-	},
-	"8d929": {
-		"id": "8d929",
-		"imageCardsIds": ["td-d7-20", "td-d5-58", "td-d2-209"],
-		"passcode": ["piano"]
-	},
-	"8d931": {
-		"id": "8d931",
-		"imageCardsIds": [
-			"td-d1-84",
-			"td-d1-198",
-			"td-d5-134",
-			"td-d11-119",
-			"td-d2-225",
-			"td-d7-123",
-			"td-d7-221",
-			"td-d10-127"
-		],
-		"passcode": ["amor", "paixão", "coração", "sentimento"]
-	},
-	"8e1d9": {
-		"id": "8e1d9",
-		"imageCardsIds": ["td-d1-153"],
-		"passcode": ["engrenagens"]
-	},
-	"8ea5b": {
-		"id": "8ea5b",
-		"imageCardsIds": ["td-d11-153"],
-		"passcode": ["santa"]
-	},
-	"8f590": {
-		"id": "8f590",
-		"imageCardsIds": ["td-d1-01"],
-		"passcode": ["remo"]
-	},
-	"8f929": {
-		"id": "8f929",
-		"imageCardsIds": ["td-d12-248", "td-d3-61", "td-d12-68"],
-		"passcode": ["lego"]
-	},
-	"90f65": {
-		"id": "90f65",
-		"imageCardsIds": ["td-d10-183", "td-d2-42", "td-d4-123", "td-d11-11"],
-		"passcode": ["cartas", "carteado", "carta", "baralho"]
-	},
-	"925ad": {
-		"id": "925ad",
-		"imageCardsIds": ["td-d1-07", "td-d6-111", "td-d10-215", "td-d2-138"],
-		"passcode": ["animais"]
-	},
-	"92e97": {
-		"id": "92e97",
-		"imageCardsIds": ["td-d4-125"],
-		"passcode": ["espantalho"]
-	},
-	"9306c": {
-		"id": "9306c",
-		"imageCardsIds": ["td-d1-05", "td-d10-215", "td-d3-43"],
-		"passcode": ["pássaros"]
-	},
-	"9412c": {
-		"id": "9412c",
-		"imageCardsIds": ["td-d11-28"],
-		"passcode": ["submersão"]
-	},
-	"94bf0": {
-		"id": "94bf0",
-		"imageCardsIds": ["td-d7-163"],
-		"passcode": ["plateia"]
-	},
-	"94fcf": {
-		"id": "94fcf",
-		"imageCardsIds": ["td-d1-208"],
-		"passcode": ["experimento", "experiência", "científico"]
-	},
-	"96b40": {
-		"id": "96b40",
-		"imageCardsIds": ["td-d4-223"],
-		"passcode": ["xícaras"]
-	},
-	"96e40": {
-		"id": "96e40",
-		"imageCardsIds": ["td-d7-217", "td-d6-241"],
-		"passcode": ["papagaio"]
-	},
-	"973d6": {
-		"id": "973d6",
-		"imageCardsIds": ["td-d9-164", "td-d5-96"],
-		"passcode": ["mapa"]
-	},
-	"9872b": {
-		"id": "9872b",
-		"imageCardsIds": ["td-d1-234"],
-		"passcode": ["escola"]
-	},
-	"98c4b": {
-		"id": "98c4b",
-		"imageCardsIds": ["td-d7-182", "td-d2-169"],
-		"passcode": ["bicicleta"]
-	},
-	"9be13": {
-		"id": "9be13",
-		"imageCardsIds": ["td-d11-66"],
-		"passcode": ["joias"]
-	},
-	"9c56a": {
-		"id": "9c56a",
-		"imageCardsIds": ["td-d2-240"],
-		"passcode": ["guitarra"]
-	},
-	"9d6a5": {
-		"id": "9d6a5",
-		"imageCardsIds": ["td-d4-112"],
-		"passcode": ["lembrança"]
-	},
-	"9e83d": {
-		"id": "9e83d",
-		"imageCardsIds": ["td-d5-95", "td-d11-159", "td-d7-192"],
-		"passcode": ["neve"]
-	},
-	"a0d85": {
-		"id": "a0d85",
-		"imageCardsIds": [
-			"td-d1-104",
-			"td-d5-227",
-			"td-d8-243",
-			"td-d2-193",
-			"td-d7-28",
-			"td-d8-67",
-			"td-d10-25",
-			"td-d7-08"
-		],
-		"passcode": ["elefante"]
-	},
-	"a1906": {
-		"id": "a1906",
-		"imageCardsIds": ["td-d1-78", "td-d5-42"],
-		"passcode": ["triângulo"]
-	},
-	"a1c2a": {
-		"id": "a1c2a",
-		"imageCardsIds": ["td-d1-196", "td-d4-233", "td-d6-88"],
-		"passcode": ["deserto"]
-	},
-	"a2201": {
-		"id": "a2201",
-		"imageCardsIds": ["td-d8-108"],
-		"passcode": ["escolhas"]
-	},
-	"a2634": {
-		"id": "a2634",
-		"imageCardsIds": ["td-d1-01", "td-d1-07"],
-		"passcode": ["embarcação"]
-	},
-	"a3185": {
-		"id": "a3185",
-		"imageCardsIds": ["td-d1-241", "td-d5-29", "td-d3-110"],
-		"passcode": ["jantar", "refeição", "almoço"]
-	},
-	"a4a1c": {
-		"id": "a4a1c",
-		"imageCardsIds": ["td-d1-235"],
-		"passcode": ["realeza", "monarquia"]
-	},
-	"a4db2": {
-		"id": "a4db2",
-		"imageCardsIds": ["td-d1-214", "td-d3-16"],
-		"passcode": ["carrinho"]
-	},
-	"a4e4a": {
-		"id": "a4e4a",
-		"imageCardsIds": ["td-d1-41"],
-		"passcode": ["capeta"]
-	},
-	"a4f53": {
-		"id": "a4f53",
-		"imageCardsIds": ["td-d1-191"],
-		"passcode": ["tijolos"]
-	},
-	"a5062": {
-		"id": "a5062",
-		"imageCardsIds": ["td-d9-164", "td-d7-142"],
-		"passcode": ["mundo"]
-	},
-	"a5373": {
-		"id": "a5373",
-		"imageCardsIds": ["td-d1-207", "td-d1-232", "td-d3-99", "td-d2-29"],
-		"passcode": ["fúria", "raiva"]
-	},
-	"a5c7a": {
-		"id": "a5c7a",
-		"imageCardsIds": ["td-d6-215", "td-d11-153"],
-		"passcode": ["vaso"]
-	},
-	"a66f8": {
-		"id": "a66f8",
-		"imageCardsIds": ["td-d4-169", "td-d10-77"],
-		"passcode": ["música"]
-	},
-	"a6e0d": {
-		"id": "a6e0d",
-		"imageCardsIds": ["td-d9-115"],
-		"passcode": ["armário"]
-	},
-	"a813e": {
-		"id": "a813e",
-		"imageCardsIds": ["td-d7-163"],
-		"passcode": ["espetáculo", "espetacular"]
-	},
-	"a86e0": {
-		"id": "a86e0",
-		"imageCardsIds": [
-			"td-d1-84",
-			"td-d7-162",
-			"td-d12-49",
-			"td-d4-223",
-			"td-d2-100",
-			"td-d8-210",
-			"td-d5-22",
-			"td-d3-179",
-			"td-d11-49"
-		],
-		"passcode": ["gato", "gatos"]
-	},
-	"a905a": {
-		"id": "a905a",
-		"imageCardsIds": ["td-d6-18"],
-		"passcode": ["prédio"]
-	},
-	"a9705": {
-		"id": "a9705",
-		"imageCardsIds": ["td-d3-164"],
-		"passcode": ["foguete"]
-	},
-	"a97bd": {
-		"id": "a97bd",
-		"imageCardsIds": ["td-d9-61", "td-d11-153"],
-		"passcode": ["estátua"]
-	},
-	"a9d68": {
-		"id": "a9d68",
-		"imageCardsIds": [
-			"td-d1-26",
-			"td-d3-155",
-			"td-d12-92",
-			"td-d4-221",
-			"td-d5-42"
-		],
-		"passcode": ["olho", "observação", "olhar", "visão"]
-	},
-	"abfa0": {
-		"id": "abfa0",
-		"imageCardsIds": ["td-d5-39"],
-		"passcode": ["aventura"]
-	},
-	"ad8dc": {
-		"id": "ad8dc",
-		"imageCardsIds": ["td-d6-113"],
-		"passcode": ["majestoso"]
-	},
-	"addae": {
-		"id": "addae",
-		"imageCardsIds": ["td-d4-224"],
-		"passcode": ["cookie"]
-	},
-	"ae2ac": {
-		"id": "ae2ac",
-		"imageCardsIds": [
-			"td-d1-09",
-			"td-d10-129",
-			"td-d5-165",
-			"td-d2-100",
-			"td-d6-164",
-			"td-d8-133",
-			"td-d7-125"
-		],
-		"passcode": ["máscaras", "máscara", "mascarado"]
-	},
-	"ae4f7": {
-		"id": "ae4f7",
-		"imageCardsIds": [
-			"td-d12-49",
-			"td-d2-103",
-			"td-d11-125",
-			"td-d12-194",
-			"td-d12-52",
-			"td-d9-182",
-			"td-d4-202",
-			"td-d5-162",
-			"td-d1-78",
-			"td-d4-112"
-		],
-		"passcode": ["chuva"]
-	},
-	"ae857": {
-		"id": "ae857",
-		"imageCardsIds": ["td-d2-29"],
-		"passcode": ["face"]
-	},
-	"afb96": {
-		"id": "afb96",
-		"imageCardsIds": ["td-d1-171", "td-d6-239"],
-		"passcode": ["computador"]
-	},
-	"aff5c": {
-		"id": "aff5c",
-		"imageCardsIds": ["td-d3-43"],
-		"passcode": ["escoteiro"]
-	},
-	"b097e": {
-		"id": "b097e",
-		"imageCardsIds": ["td-d6-164", "td-d8-226"],
-		"passcode": ["noite"]
-	},
-	"b0b0d": {
-		"id": "b0b0d",
-		"imageCardsIds": ["td-d8-191"],
-		"passcode": ["espionagem"]
-	},
-	"b1158": {
-		"id": "b1158",
-		"imageCardsIds": ["td-d11-160"],
-		"passcode": ["algodão"]
-	},
-	"b1545": {
-		"id": "b1545",
-		"imageCardsIds": ["td-d3-244"],
-		"passcode": ["picolé"]
-	},
-	"b2223": {
-		"id": "b2223",
-		"imageCardsIds": ["td-d1-217"],
-		"passcode": ["equino"]
-	},
-	"b2b6b": {
-		"id": "b2b6b",
-		"imageCardsIds": ["td-d3-44", "td-d8-242", "td-d3-36", "td-d4-03"],
-		"passcode": ["crianças"]
-	},
-	"b3028": {
-		"id": "b3028",
-		"imageCardsIds": ["td-d7-89"],
-		"passcode": ["rinoceronte"]
-	},
-	"b3dc5": {
-		"id": "b3dc5",
-		"imageCardsIds": ["td-d8-226"],
-		"passcode": ["raposa"]
-	},
-	"b4c7e": {
-		"id": "b4c7e",
-		"imageCardsIds": ["td-d8-191"],
-		"passcode": ["coisas"]
-	},
-	"b4e93": {
-		"id": "b4e93",
-		"imageCardsIds": ["td-d7-120", "td-d1-162", "td-d2-62"],
-		"passcode": ["dança"]
-	},
-	"b5212": {
-		"id": "b5212",
-		"imageCardsIds": ["td-d10-178"],
-		"passcode": ["remédio"]
-	},
-	"b5af3": {
-		"id": "b5af3",
-		"imageCardsIds": ["td-d4-158"],
-		"passcode": ["preto e branco"]
-	},
-	"b5bfc": {
-		"id": "b5bfc",
-		"imageCardsIds": ["td-d9-72", "td-d11-84", "td-d3-75"],
-		"passcode": ["caixa"]
-	},
-	"b5ed7": {
-		"id": "b5ed7",
-		"imageCardsIds": ["td-d10-180", "td-d9-168"],
-		"passcode": ["abelha"]
-	},
-	"b6c90": {
-		"id": "b6c90",
-		"imageCardsIds": ["td-d7-89", "td-d4-129"],
-		"passcode": ["aniversário"]
-	},
-	"b7721": {
-		"id": "b7721",
-		"imageCardsIds": ["td-d6-153"],
-		"passcode": ["lagarto"]
-	},
-	"b7767": {
-		"id": "b7767",
-		"imageCardsIds": ["td-d6-186", "td-d3-207"],
-		"passcode": ["violão"]
-	},
-	"b78af": {
-		"id": "b78af",
-		"imageCardsIds": ["td-d12-170"],
-		"passcode": ["gigante"]
-	},
-	"b7900": {
-		"id": "b7900",
-		"imageCardsIds": ["td-d9-217"],
-		"passcode": ["paraquedas"]
-	},
-	"b7a59": {
-		"id": "b7a59",
-		"imageCardsIds": ["td-d4-162"],
-		"passcode": ["vídeo game"]
-	},
-	"b7c2f": {
-		"id": "b7c2f",
-		"imageCardsIds": ["td-d4-67"],
-		"passcode": ["bagunça"]
-	},
-	"b9c0c": {
-		"id": "b9c0c",
-		"imageCardsIds": ["td-d10-119", "td-d4-126", "td-d9-133"],
-		"passcode": ["político"]
-	},
-	"b9dcd": {
-		"id": "b9dcd",
-		"imageCardsIds": [
-			"td-d5-227",
-			"td-d11-54",
-			"td-d4-221",
-			"td-d3-207",
-			"td-d6-239",
-			"td-d2-198"
-		],
-		"passcode": ["praia"]
-	},
-	"bb04e": {
-		"id": "bb04e",
-		"imageCardsIds": ["td-d5-215", "td-d5-162", "td-d4-112"],
-		"passcode": ["depressão"]
-	},
-	"bb4fc": {
-		"id": "bb4fc",
-		"imageCardsIds": ["td-d6-38"],
-		"passcode": ["laços"]
-	},
-	"bcc2b": {
-		"id": "bcc2b",
-		"imageCardsIds": ["td-d1-72"],
-		"passcode": ["descamisado"]
-	},
-	"bd4e5": {
-		"id": "bd4e5",
-		"imageCardsIds": ["td-d1-19"],
-		"passcode": ["cisne"]
-	},
-	"bdd02": {
-		"id": "bdd02",
-		"imageCardsIds": ["td-d12-134", "td-d12-135", "td-d8-108"],
-		"passcode": ["interrogação", "questionamento", "pergunta", "dúvida"]
-	},
-	"be2c9": {
-		"id": "be2c9",
-		"imageCardsIds": ["td-d2-103"],
-		"passcode": ["suco"]
-	},
-	"bf4b9": {
-		"id": "bf4b9",
-		"imageCardsIds": ["td-d12-21"],
-		"passcode": ["mapas"]
-	},
-	"c0582": {
-		"id": "c0582",
-		"imageCardsIds": ["td-d1-211"],
-		"passcode": ["aula"]
-	},
-	"c2cab": {
-		"id": "c2cab",
-		"imageCardsIds": ["td-d4-129", "td-d2-106"],
-		"passcode": ["parque"]
-	},
-	"c3484": {
-		"id": "c3484",
-		"imageCardsIds": [
-			"td-d1-01",
-			"td-d1-02",
-			"td-d1-174",
-			"td-d6-212",
-			"td-d11-84",
-			"td-d6-113",
-			"td-d10-239"
-		],
-		"passcode": ["água"]
-	},
-	"c5209": {
-		"id": "c5209",
-		"imageCardsIds": ["td-d7-47"],
-		"passcode": ["pão"]
-	},
-	"c57ed": {
-		"id": "c57ed",
-		"imageCardsIds": ["td-d1-72", "td-d8-41", "td-d7-221"],
-		"passcode": ["asas"]
-	},
-	"c5a6e": {
-		"id": "c5a6e",
-		"imageCardsIds": ["td-d11-153"],
-		"passcode": ["fita"]
-	},
-	"c78d1": {
-		"id": "c78d1",
-		"imageCardsIds": ["td-d9-119", "td-d9-26"],
-		"passcode": ["poções"]
-	},
-	"c78de": {
-		"id": "c78de",
-		"imageCardsIds": ["td-d4-125"],
-		"passcode": ["palha"]
-	},
-	"c8271": {
-		"id": "c8271",
-		"imageCardsIds": ["td-d1-115", "td-d9-165", "td-d11-149"],
-		"passcode": ["cozinha"]
-	},
-	"ca369": {
-		"id": "ca369",
-		"imageCardsIds": ["td-d5-58"],
-		"passcode": ["comida"]
-	},
-	"cb19f": {
-		"id": "cb19f",
-		"imageCardsIds": ["td-d7-251"],
-		"passcode": ["coqueiro"]
-	},
-	"cb80f": {
-		"id": "cb80f",
-		"imageCardsIds": [
-			"td-d5-134",
-			"td-d11-105",
-			"td-d8-243",
-			"td-d8-212",
-			"td-d3-248",
-			"td-d9-116",
-			"td-d2-37"
-		],
-		"passcode": ["casamento"]
-	},
-	"cbd31": {
-		"id": "cbd31",
-		"imageCardsIds": ["td-d9-116"],
-		"passcode": ["noiva"]
-	},
-	"cc380": {
-		"id": "cc380",
-		"imageCardsIds": [
-			"td-d2-100",
-			"td-d10-180",
-			"td-d9-92",
-			"td-d8-41",
-			"td-d9-115",
-			"td-d8-107",
-			"td-d8-87",
-			"td-d10-213"
-		],
-		"passcode": ["menina"]
-	},
-	"ce68a": {
-		"id": "ce68a",
-		"imageCardsIds": ["td-d8-34", "td-d2-138"],
-		"passcode": ["caminhão"]
-	},
-	"cf2b6": {
-		"id": "cf2b6",
-		"imageCardsIds": ["td-d12-116"],
-		"passcode": ["língua"]
-	},
-	"cf80e": {
-		"id": "cf80e",
-		"imageCardsIds": ["td-d3-110"],
-		"passcode": ["sobremesa"]
-	},
-	"cfc74": {
-		"id": "cfc74",
-		"imageCardsIds": ["td-d1-38", "td-d9-113", "td-d2-91"],
-		"passcode": ["planetas", "planetário"]
-	},
-	"cfd56": {
-		"id": "cfd56",
-		"imageCardsIds": ["td-d4-224", "td-d3-43", "td-d8-85"],
-		"passcode": ["homem"]
-	},
-	"cfd6d": {
-		"id": "cfd6d",
-		"imageCardsIds": ["td-d12-162"],
-		"passcode": ["antigo"]
-	},
-	"d05dd": {
-		"id": "d05dd",
-		"imageCardsIds": ["td-d9-173"],
-		"passcode": ["pássado"]
-	},
-	"d19bd": {
-		"id": "d19bd",
-		"imageCardsIds": ["td-d3-232"],
-		"passcode": ["adolescentes"]
-	},
-	"d1f02": {
-		"id": "d1f02",
-		"imageCardsIds": ["td-d6-158", "td-d5-79"],
-		"passcode": ["prateleira"]
-	},
-	"d2060": {
-		"id": "d2060",
-		"imageCardsIds": [
-			"td-d4-224",
-			"td-d1-115",
-			"td-d10-169",
-			"td-d10-163",
-			"td-d6-239"
-		],
-		"passcode": ["chef", "cozinheiro", "gourmet"]
-	},
-	"d2921": {
-		"id": "d2921",
-		"imageCardsIds": ["td-d1-212"],
-		"passcode": ["reunião"]
-	},
-	"d293c": {
-		"id": "d293c",
-		"imageCardsIds": ["td-d3-61"],
-		"passcode": ["travesseiro"]
-	},
-	"d2bca": {
-		"id": "d2bca",
-		"imageCardsIds": ["td-d5-60", "td-d3-94", "td-d3-180"],
-		"passcode": ["encanador"]
-	},
-	"d3716": {
-		"id": "d3716",
-		"imageCardsIds": ["td-d1-227", "td-d4-140", "td-d7-12"],
-		"passcode": [
-			"bruxa",
-			"bruxaria",
-			"feiticeira",
-			"feitiçaria",
-			"feitiço",
-			"magos",
-			"magia"
-		]
-	},
-	"d4407": {
-		"id": "d4407",
-		"imageCardsIds": ["td-d1-48"],
-		"passcode": ["barba", "barbudo"]
-	},
-	"d4b6c": {
-		"id": "d4b6c",
-		"imageCardsIds": [
-			"td-d2-241",
-			"td-d8-242",
-			"td-d10-193",
-			"td-d8-228",
-			"td-d11-153"
-		],
-		"passcode": ["fantasma", "fantasmagórico", "alma", "almas", "assombração"]
-	},
-	"d4bbb": {
-		"id": "d4bbb",
-		"imageCardsIds": ["td-d9-154", "td-d12-162"],
-		"passcode": ["selva"]
-	},
-	"d5621": {
-		"id": "d5621",
-		"imageCardsIds": ["td-d2-240"],
-		"passcode": ["microfone"]
-	},
-	"d5b1b": {
-		"id": "d5b1b",
-		"imageCardsIds": ["td-d1-96"],
-		"passcode": ["natal"]
-	},
-	"d5cbf": {
-		"id": "d5cbf",
-		"imageCardsIds": ["td-d10-169"],
-		"passcode": ["flamingo"]
-	},
-	"d612f": {
-		"id": "d612f",
-		"imageCardsIds": ["td-d6-164"],
-		"passcode": ["morcego"]
-	},
-	"d6143": {
-		"id": "d6143",
-		"imageCardsIds": ["td-d4-223"],
-		"passcode": ["pilha"]
-	},
-	"d663e": {
-		"id": "d663e",
-		"imageCardsIds": ["td-d6-38"],
-		"passcode": ["pato"]
-	},
-	"d6759": {
-		"id": "d6759",
-		"imageCardsIds": ["td-d7-163"],
-		"passcode": ["cortinas"]
-	},
-	"d7ad5": {
-		"id": "d7ad5",
-		"imageCardsIds": ["td-d1-53", "td-d7-20", "td-d8-229", "td-d9-154"],
-		"passcode": ["xadrez"]
-	},
-	"d8631": {
-		"id": "d8631",
-		"imageCardsIds": ["td-d10-206", "td-d9-83", "td-d9-217"],
-		"passcode": ["soldado"]
-	},
-	"d8d31": {
-		"id": "d8d31",
-		"imageCardsIds": ["td-d7-20", "td-d9-119"],
-		"passcode": ["piso"]
-	},
-	"d8e4d": {
-		"id": "d8e4d",
-		"imageCardsIds": ["td-d1-216"],
-		"passcode": ["roxo"]
-	},
-	"d9a33": {
-		"id": "d9a33",
-		"imageCardsIds": ["td-d5-201"],
-		"passcode": ["monstros"]
-	},
-	"daf3f": {
-		"id": "daf3f",
-		"imageCardsIds": [
-			"td-d8-124",
-			"td-d10-42",
-			"td-d2-120",
-			"td-d2-45",
-			"td-d8-191",
-			"td-d10-238",
-			"td-d4-47"
-		],
-		"passcode": ["portal"]
-	},
-	"dc1cd": {
-		"id": "dc1cd",
-		"imageCardsIds": ["td-d7-08"],
-		"passcode": ["dourado"]
-	},
-	"dc1df": {
-		"id": "dc1df",
-		"imageCardsIds": [
-			"td-d1-11",
-			"td-d1-74",
-			"td-d9-25",
-			"td-d9-104",
-			"td-d5-238"
-		],
-		"passcode": ["castelo"]
-	},
-	"dc452": {
-		"id": "dc452",
-		"imageCardsIds": ["td-d3-94", "td-d5-64"],
-		"passcode": ["rato"]
-	},
-	"dcc63": {
-		"id": "dcc63",
-		"imageCardsIds": ["td-d10-25"],
-		"passcode": ["girafa"]
-	},
-	"de164": {
-		"id": "de164",
-		"imageCardsIds": ["td-d7-47"],
-		"passcode": ["almofada"]
-	},
-	"de755": {
-		"id": "de755",
-		"imageCardsIds": ["td-d3-158", "td-d4-114", "td-d3-100", "td-d4-158"],
-		"passcode": ["vaca"]
-	},
-	"dec54": {
-		"id": "dec54",
-		"imageCardsIds": ["td-d4-202", "td-d4-112", "td-d10-238"],
-		"passcode": ["solidão"]
-	},
-	"df222": {
-		"id": "df222",
-		"imageCardsIds": ["td-d3-202", "td-d9-235", "td-d7-247", "td-d6-215"],
-		"passcode": ["urso"]
-	},
-	"e14e6": {
-		"id": "e14e6",
-		"imageCardsIds": ["td-d1-217"],
-		"passcode": ["zebra"]
-	},
-	"e18fb": {
-		"id": "e18fb",
-		"imageCardsIds": ["td-d7-23", "td-d8-108", "td-d4-112"],
-		"passcode": ["pensamento"]
-	},
-	"e1a77": {
-		"id": "e1a77",
-		"imageCardsIds": ["td-d1-203", "td-d5-30"],
-		"passcode": ["confete", "celebração"]
-	},
-	"e1dfe": {
-		"id": "e1dfe",
-		"imageCardsIds": ["td-d9-104"],
-		"passcode": ["cetro"]
-	},
-	"e1e35": {
-		"id": "e1e35",
-		"imageCardsIds": ["td-d6-111"],
-		"passcode": ["árvores"]
-	},
-	"e24c4": {
-		"id": "e24c4",
-		"imageCardsIds": ["td-d5-30"],
-		"passcode": ["nuvens"]
-	},
-	"e2b97": {
-		"id": "e2b97",
-		"imageCardsIds": ["td-d2-249", "td-d8-93", "td-d9-04"],
-		"passcode": ["hamburger"]
-	},
-	"e32c6": {
-		"id": "e32c6",
-		"imageCardsIds": ["td-d8-63", "td-d6-29", "td-d10-163"],
-		"passcode": ["porco"]
-	},
-	"e34ff": {
-		"id": "e34ff",
-		"imageCardsIds": ["td-d2-37"],
-		"passcode": ["correr"]
-	},
-	"e3c71": {
-		"id": "e3c71",
-		"imageCardsIds": ["td-d9-83"],
-		"passcode": ["zumbi"]
-	},
-	"e414a": {
-		"id": "e414a",
-		"imageCardsIds": ["td-d5-39"],
-		"passcode": ["montanha"]
-	},
-	"e4536": {
-		"id": "e4536",
-		"imageCardsIds": ["td-d7-121"],
-		"passcode": ["corpo"]
-	},
-	"e4d11": {
-		"id": "e4d11",
-		"imageCardsIds": ["td-d11-77"],
-		"passcode": ["iceberg"]
-	},
-	"e5623": {
-		"id": "e5623",
-		"imageCardsIds": ["td-d2-193", "td-d9-96"],
-		"passcode": ["turista"]
-	},
-	"e5ade": {
-		"id": "e5ade",
-		"imageCardsIds": ["td-d11-153"],
-		"passcode": ["números"]
-	},
-	"e5cf4": {
-		"id": "e5cf4",
-		"imageCardsIds": ["td-d9-235"],
-		"passcode": ["tranquilidade"]
-	},
-	"e602e": {
-		"id": "e602e",
-		"imageCardsIds": ["td-d12-170"],
-		"passcode": ["torre"]
-	},
-	"e6c8a": {
-		"id": "e6c8a",
-		"imageCardsIds": ["td-d5-39"],
-		"passcode": ["trilha"]
-	},
-	"e7485": {
-		"id": "e7485",
-		"imageCardsIds": ["td-d1-07", "td-d6-174", "td-d7-251"],
-		"passcode": ["bichinhos"]
-	},
-	"e8d57": {
-		"id": "e8d57",
-		"imageCardsIds": ["td-d1-141"],
-		"passcode": ["creme"]
-	},
-	"e9343": {
-		"id": "e9343",
-		"imageCardsIds": ["td-d6-17"],
-		"passcode": ["armas"]
-	},
-	"e96d6": {
-		"id": "e96d6",
-		"imageCardsIds": ["td-d2-155", "td-d3-75", "td-d11-153"],
-		"passcode": ["caverna"]
-	},
-	"ea8bc": {
-		"id": "ea8bc",
-		"imageCardsIds": ["td-d8-32"],
-		"passcode": ["biscoito"]
-	},
-	"eaa16": {
-		"id": "eaa16",
-		"imageCardsIds": ["td-d10-214"],
-		"passcode": ["poção"]
-	},
-	"ebd2e": {
-		"id": "ebd2e",
-		"imageCardsIds": [
-			"td-d12-107",
-			"td-d7-147",
-			"td-d4-155",
-			"td-d3-47",
-			"td-d6-237",
-			"td-d7-104"
-		],
-		"passcode": ["macaco"]
-	},
-	"ec487": {
-		"id": "ec487",
-		"imageCardsIds": ["td-d6-113"],
-		"passcode": ["deuses"]
-	},
-	"ecc8e": {
-		"id": "ecc8e",
-		"imageCardsIds": ["td-d1-211"],
-		"passcode": ["estudantes"]
-	},
-	"ed02f": {
-		"id": "ed02f",
-		"imageCardsIds": ["td-d4-233", "td-d6-88"],
-		"passcode": ["caveira"]
-	},
-	"ed2d9": {
-		"id": "ed2d9",
-		"imageCardsIds": ["td-d11-54", "td-d3-232"],
-		"passcode": ["bebida"]
-	},
-	"ed796": {
-		"id": "ed796",
-		"imageCardsIds": ["td-d1-211"],
-		"passcode": ["professor"]
-	},
-	"eda9a": {
-		"id": "eda9a",
-		"imageCardsIds": ["td-d10-33"],
-		"passcode": ["pernas"]
-	},
-	"edb95": {
-		"id": "edb95",
-		"imageCardsIds": ["td-d9-43"],
-		"passcode": ["apartamento"]
-	},
-	"ee766": {
-		"id": "ee766",
-		"imageCardsIds": ["td-d1-36", "td-d1-71"],
-		"passcode": ["presente"]
-	},
-	"eef1c": {
-		"id": "eef1c",
-		"imageCardsIds": ["td-d5-250", "td-d12-182", "td-d2-06", "td-d7-247"],
-		"passcode": ["velas"]
-	},
-	"ef254": {
-		"id": "ef254",
-		"imageCardsIds": ["td-d4-42"],
-		"passcode": ["esporte"]
-	},
-	"ef2a6": {
-		"id": "ef2a6",
-		"imageCardsIds": ["td-d6-100", "td-d1-165"],
-		"passcode": ["cruz"]
-	},
-	"ef544": {
-		"id": "ef544",
-		"imageCardsIds": ["td-d1-04", "td-d1-174"],
-		"passcode": ["peixe"]
-	},
-	"ef714": {
-		"id": "ef714",
-		"imageCardsIds": ["td-d1-214"],
-		"passcode": ["dados"]
-	},
-	"efa99": {
-		"id": "efa99",
-		"imageCardsIds": ["td-d5-127"],
-		"passcode": ["estrelas"]
-	},
-	"f03ef": {
-		"id": "f03ef",
-		"imageCardsIds": ["td-d11-59"],
-		"passcode": ["sangue"]
-	},
-	"f06c4": {
-		"id": "f06c4",
-		"imageCardsIds": ["td-d1-76"],
-		"passcode": ["barriga"]
-	},
-	"f085b": {
-		"id": "f085b",
-		"imageCardsIds": ["td-d10-238"],
-		"passcode": ["reflexo"]
-	},
-	"f0c96": {
-		"id": "f0c96",
-		"imageCardsIds": ["td-d10-239"],
-		"passcode": ["peixes"]
-	},
-	"f16a5": {
-		"id": "f16a5",
-		"imageCardsIds": ["td-d3-61", "td-d6-174", "td-d10-213"],
-		"passcode": ["cogumelo"]
-	},
-	"f1769": {
-		"id": "f1769",
-		"imageCardsIds": ["td-d10-213"],
-		"passcode": ["grandiosidade"]
-	},
-	"f3481": {
-		"id": "f3481",
-		"imageCardsIds": ["td-d11-245"],
-		"passcode": ["hospital"]
-	},
-	"f357e": {
-		"id": "f357e",
-		"imageCardsIds": ["td-d12-194", "td-d5-64"],
-		"passcode": ["chá"]
-	},
-	"f3d0a": {
-		"id": "f3d0a",
-		"imageCardsIds": ["td-d12-220"],
-		"passcode": ["megafone"]
-	},
-	"f43b4": {
-		"id": "f43b4",
-		"imageCardsIds": ["td-d7-163"],
-		"passcode": ["teatro", "teatral"]
-	},
-	"f4ba6": {
-		"id": "f4ba6",
-		"imageCardsIds": ["td-d4-74", "td-d1-72", "td-d4-74"],
-		"passcode": ["sarado", "músculos", "fisiculturista", "tanquinho"]
-	},
-	"f54e6": {
-		"id": "f54e6",
-		"imageCardsIds": ["td-d3-149", "td-d10-184", "td-d7-104"],
-		"passcode": ["balões"]
-	},
-	"f55f7": {
-		"id": "f55f7",
-		"imageCardsIds": ["td-d10-23"],
-		"passcode": ["baleia"]
-	},
-	"f5f08": {
-		"id": "f5f08",
-		"imageCardsIds": ["td-d8-107"],
-		"passcode": ["gosma", "gosmento"]
-	},
-	"f704c": {
-		"id": "f704c",
-		"imageCardsIds": ["td-d8-87", "td-d11-200"],
-		"passcode": ["loira"]
-	},
-	"f72c3": {
-		"id": "f72c3",
-		"imageCardsIds": ["td-d7-142"],
-		"passcode": ["ásia", "asiático"]
-	},
-	"f74c7": {
-		"id": "f74c7",
-		"imageCardsIds": ["td-d12-178"],
-		"passcode": ["paris", "parisiense", "francês"]
-	},
-	"f8246": {
-		"id": "f8246",
-		"imageCardsIds": ["td-d8-34", "td-d4-169"],
-		"passcode": ["emo"]
-	},
-	"f854c": {
-		"id": "f854c",
-		"imageCardsIds": ["td-d1-81", "td-d1-84"],
-		"passcode": ["ratos", "ratazanas", "camundongos"]
-	},
-	"f8da6": {
-		"id": "f8da6",
-		"imageCardsIds": [
-			"td-d1-82",
-			"td-d9-114",
-			"td-d7-69",
-			"td-d4-56",
-			"td-d7-90",
-			"td-d3-46"
-		],
-		"passcode": ["bolha", "bolhas", "borbulhas"]
-	},
-	"f8dd1": {
-		"id": "f8dd1",
-		"imageCardsIds": ["td-d7-97", "td-d6-176"],
-		"passcode": ["balão"]
-	},
-	"f8fe1": {
-		"id": "f8fe1",
-		"imageCardsIds": [
-			"td-d2-241",
-			"td-d7-111",
-			"td-d8-226",
-			"td-d5-39",
-			"td-d9-182",
-			"td-d9-104",
-			"td-d8-228"
-		],
-		"passcode": ["lua", "luar", "lunar"]
-	},
-	"f92bc": {
-		"id": "f92bc",
-		"imageCardsIds": ["td-d8-63", "td-d4-112"],
-		"passcode": ["cama"]
-	},
-	"f93ca": {
-		"id": "f93ca",
-		"imageCardsIds": ["td-d9-182", "td-d10-79"],
-		"passcode": ["onda"]
-	},
-	"f9dd4": {
-		"id": "f9dd4",
-		"imageCardsIds": ["td-d5-92", "td-d4-126"],
-		"passcode": ["tapete"]
-	},
-	"fa117": {
-		"id": "fa117",
-		"imageCardsIds": ["td-d1-17"],
-		"passcode": ["submarino"]
-	},
-	"fa224": {
-		"id": "fa224",
-		"imageCardsIds": ["td-d11-200"],
-		"passcode": ["corneta"]
-	},
-	"fab5f": {
-		"id": "fab5f",
-		"imageCardsIds": ["td-d11-149"],
-		"passcode": ["gorila"]
-	},
-	"fadd8": {
-		"id": "fadd8",
-		"imageCardsIds": ["td-d10-178", "td-d8-191"],
-		"passcode": ["maleta", "mala", "bagagem"]
-	},
-	"fb099": {
-		"id": "fb099",
-		"imageCardsIds": ["td-d11-82"],
-		"passcode": ["grama"]
-	},
-	"fd3a1": {
-		"id": "fd3a1",
-		"imageCardsIds": [
-			"td-d10-211",
-			"td-d12-190",
-			"td-d5-129",
-			"td-d9-168",
-			"td-d5-183"
-		],
-		"passcode": ["inseto"]
-	},
-	"fd87b": {
-		"id": "fd87b",
-		"imageCardsIds": ["td-d4-155", "td-d9-92", "td-d8-107"],
-		"passcode": ["laranja"]
-	},
-	"fe0ca": {
-		"id": "fe0ca",
-		"imageCardsIds": [
-			"td-d1-250",
-			"td-d5-30",
-			"td-d4-215",
-			"td-d3-55",
-			"td-d5-29",
-			"td-d4-129",
-			"td-d2-155",
-			"td-d10-148"
-		],
-		"passcode": ["monstro", "monstruosidade", "besta", "bicho", "monstros"]
-	},
-	"feee8": {
-		"id": "feee8",
-		"imageCardsIds": ["td-d1-84"],
-		"passcode": ["felino"]
-	},
-	"fef59": {
-		"id": "fef59",
-		"imageCardsIds": ["td-d11-59"],
-		"passcode": ["basquete"]
-	}
+  "10543": {
+    "id": "10543",
+    "imageCardsIds": [
+      "td-d12-182"
+    ],
+    "passcode": [
+      "polvo",
+      "tentáculos",
+      "invertebrado"
+    ]
+  },
+  "10782": {
+    "id": "10782",
+    "imageCardsIds": [
+      "td-d8-170",
+      "td-d10-238"
+    ],
+    "passcode": [
+      "galhos"
+    ]
+  },
+  "13763": {
+    "id": "13763",
+    "imageCardsIds": [
+      "td-d1-244",
+      "td-d1-241",
+      "td-d1-67",
+      "td-d9-131",
+      "td-d6-179",
+      "td-d7-121"
+    ],
+    "passcode": [
+      "alienígena",
+      "alien",
+      "extraterrestre",
+      "marciano"
+    ]
+  },
+  "14149": {
+    "id": "14149",
+    "imageCardsIds": [
+      "td-d12-99"
+    ],
+    "passcode": [
+      "meteoro",
+      "asteroide"
+    ]
+  },
+  "14328": {
+    "id": "14328",
+    "imageCardsIds": [
+      "td-d3-202"
+    ],
+    "passcode": [
+      "brinquedo",
+      "imaginário",
+      "diversão"
+    ]
+  },
+  "19902": {
+    "id": "19902",
+    "imageCardsIds": [
+      "td-d9-190"
+    ],
+    "passcode": [
+      "pirulito",
+      "doce",
+      "doces",
+      "açúcar"
+    ]
+  },
+  "20645": {
+    "id": "20645",
+    "imageCardsIds": [
+      "td-d2-124"
+    ],
+    "passcode": [
+      "forno",
+      "fornalha",
+      "calor",
+      "assar",
+      "convecção"
+    ]
+  },
+  "22819": {
+    "id": "22819",
+    "imageCardsIds": [
+      "td-d1-27",
+      "td-d5-65"
+    ],
+    "passcode": [
+      "flor",
+      "flores",
+      "pétala",
+      "perfume",
+      "jardim",
+      "primavera",
+      "polinização"
+    ]
+  },
+  "24163": {
+    "id": "24163",
+    "imageCardsIds": [
+      "td-d1-203",
+      "td-d6-212",
+      "td-d5-134",
+      "td-d5-01",
+      "td-d9-214",
+      "td-d6-179",
+      "td-d4-126",
+      "td-d7-142",
+      "td-d7-226",
+      "td-d9-96"
+    ],
+    "passcode": [
+      "multidão",
+      "povo",
+      "galera",
+      "pessoas",
+      "população"
+    ]
+  },
+  "24615": {
+    "id": "24615",
+    "imageCardsIds": [
+      "td-d1-38",
+      "td-d6-67",
+      "td-d2-238",
+      "td-d4-03",
+      "td-d11-47"
+    ],
+    "passcode": [
+      "idosa",
+      "vovozinha",
+      "aposentada",
+      "anciã",
+      "experiente",
+      "rugas",
+      "sabedoria",
+      "memórias",
+      "serenidade"
+    ]
+  },
+  "25312": {
+    "id": "25312",
+    "imageCardsIds": [
+      "td-d11-227"
+    ],
+    "passcode": [
+      "morango"
+    ]
+  },
+  "27335": {
+    "id": "27335",
+    "imageCardsIds": [
+      "td-d12-182"
+    ],
+    "passcode": [
+      "tênis",
+      "calçado",
+      "palmilha",
+      "cadarço",
+      "couro",
+      "pisar",
+      "amortecimento",
+      "sola"
+    ]
+  },
+  "27580": {
+    "id": "27580",
+    "imageCardsIds": [
+      "td-d12-68"
+    ],
+    "passcode": [
+      "loja",
+      "vitrine",
+      "vender",
+      "promoção",
+      "vendas"
+    ]
+  },
+  "31245": {
+    "id": "31245",
+    "imageCardsIds": [
+      "td-d3-16",
+      "td-d6-241"
+    ],
+    "passcode": [
+      "supermercado",
+      "compras"
+    ]
+  },
+  "31887": {
+    "id": "31887",
+    "imageCardsIds": [
+      "td-d10-163"
+    ],
+    "passcode": [
+      "churrasco"
+    ]
+  },
+  "37386": {
+    "id": "37386",
+    "imageCardsIds": [
+      "td-d8-32"
+    ],
+    "passcode": [
+      "golfinho"
+    ]
+  },
+  "37620": {
+    "id": "37620",
+    "imageCardsIds": [
+      "td-d7-46"
+    ],
+    "passcode": [
+      "história"
+    ]
+  },
+  "39478": {
+    "id": "39478",
+    "imageCardsIds": [
+      "td-d8-63",
+      "td-d2-42"
+    ],
+    "passcode": [
+      "abajur",
+      "iluminação"
+    ]
+  },
+  "42073": {
+    "id": "42073",
+    "imageCardsIds": [
+      "td-d1-203",
+      "td-d2-100",
+      "td-d8-40",
+      "td-d9-214",
+      "td-d8-133",
+      "td-d7-125"
+    ],
+    "passcode": [
+      "fantasia",
+      "heroico",
+      "herói",
+      "coragem",
+      "justiceiro",
+      "salvamento",
+      "altruísmo"
+    ]
+  },
+  "42776": {
+    "id": "42776",
+    "imageCardsIds": [
+      "td-d6-124",
+      "td-d8-242",
+      "td-d3-05",
+      "td-d7-153",
+      "td-d5-92",
+      "td-d10-211",
+      "td-d10-239"
+    ],
+    "passcode": [
+      "porta",
+      "entrada",
+      "dobradiça",
+      "maçaneta",
+      "saída"
+    ]
+  },
+  "46796": {
+    "id": "46796",
+    "imageCardsIds": [
+      "td-d7-221",
+      "td-d4-141"
+    ],
+    "passcode": [
+      "ruiva"
+    ]
+  },
+  "47245": {
+    "id": "47245",
+    "imageCardsIds": [
+      "td-d1-216",
+      "td-d1-240",
+      "td-d4-155",
+      "td-d3-16",
+      "td-d5-183"
+    ],
+    "passcode": [
+      "frutas",
+      "frutífero",
+      "fruteira"
+    ]
+  },
+  "48075": {
+    "id": "48075",
+    "imageCardsIds": [
+      "td-d7-20",
+      "td-d6-158"
+    ],
+    "passcode": [
+      "escada",
+      "escadaria",
+      "subir"
+    ]
+  },
+  "48728": {
+    "id": "48728",
+    "imageCardsIds": [
+      "td-d10-238",
+      "td-d5-42"
+    ],
+    "passcode": [
+      "quadro"
+    ]
+  },
+  "51622": {
+    "id": "51622",
+    "imageCardsIds": [
+      "td-d1-150"
+    ],
+    "passcode": [
+      "vírus",
+      "infecção",
+      "contágio",
+      "microrganismo",
+      "propagação",
+      "anticorpo",
+      "epidemia",
+      "mutação",
+      "imunidade"
+    ]
+  },
+  "51870": {
+    "id": "51870",
+    "imageCardsIds": [
+      "td-d4-155"
+    ],
+    "passcode": [
+      "monociclo",
+      "roda"
+    ]
+  },
+  "55413": {
+    "id": "55413",
+    "imageCardsIds": [
+      "td-d8-89",
+      "td-d3-183",
+      "td-d3-244",
+      "td-d4-129",
+      "td-d8-87"
+    ],
+    "passcode": [
+      "sorvete",
+      "sorveteria",
+      "casquinha",
+      "gelado",
+      "derretido",
+      "milkshake",
+      "napolitano"
+    ]
+  },
+  "57192": {
+    "id": "57192",
+    "imageCardsIds": [
+      "td-d12-49"
+    ],
+    "passcode": [
+      "trovão",
+      "relâmpago",
+      "estrondo"
+    ]
+  },
+  "64508": {
+    "id": "64508",
+    "imageCardsIds": [
+      "td-d8-51"
+    ],
+    "passcode": [
+      "fatia",
+      "fatias"
+    ]
+  },
+  "67817": {
+    "id": "67817",
+    "imageCardsIds": [
+      "td-d1-25",
+      "td-d10-77"
+    ],
+    "passcode": [
+      "vinil",
+      "disco"
+    ]
+  },
+  "70349": {
+    "id": "70349",
+    "imageCardsIds": [
+      "td-d12-111",
+      "td-d11-49",
+      "td-d4-125"
+    ],
+    "passcode": [
+      "abóbora"
+    ]
+  },
+  "71818": {
+    "id": "71818",
+    "imageCardsIds": [
+      "td-d3-110"
+    ],
+    "passcode": [
+      "delícia"
+    ]
+  },
+  "73637": {
+    "id": "73637",
+    "imageCardsIds": [
+      "td-d8-170",
+      "td-d6-239"
+    ],
+    "passcode": [
+      "faca"
+    ]
+  },
+  "78601": {
+    "id": "78601",
+    "imageCardsIds": [
+      "td-d8-212",
+      "td-d1-103",
+      "td-d8-140"
+    ],
+    "passcode": [
+      "dragão"
+    ]
+  },
+  "79792": {
+    "id": "79792",
+    "imageCardsIds": [
+      "td-d2-216",
+      "td-d5-23"
+    ],
+    "passcode": [
+      "fones"
+    ]
+  },
+  "81033": {
+    "id": "81033",
+    "imageCardsIds": [
+      "td-d1-81"
+    ],
+    "passcode": [
+      "garrafa"
+    ]
+  },
+  "83082": {
+    "id": "83082",
+    "imageCardsIds": [
+      "td-d3-67"
+    ],
+    "passcode": [
+      "tinta"
+    ]
+  },
+  "83406": {
+    "id": "83406",
+    "imageCardsIds": [
+      "td-d1-19",
+      "td-d12-52",
+      "td-d6-174",
+      "td-d12-220",
+      "td-d11-49",
+      "td-d12-99",
+      "td-d12-162",
+      "td-d2-60"
+    ],
+    "passcode": [
+      "fogo",
+      "incêndio"
+    ]
+  },
+  "86185": {
+    "id": "86185",
+    "imageCardsIds": [
+      "td-d5-183"
+    ],
+    "passcode": [
+      "fusca"
+    ]
+  },
+  "87288": {
+    "id": "87288",
+    "imageCardsIds": [
+      "td-d1-223",
+      "td-d1-221",
+      "td-d2-240",
+      "td-d10-239"
+    ],
+    "passcode": [
+      "aquático",
+      "profundidade",
+      "profundezas"
+    ]
+  },
+  "88992": {
+    "id": "88992",
+    "imageCardsIds": [
+      "td-d2-249",
+      "td-d12-33",
+      "td-d5-97",
+      "td-d9-182",
+      "td-d12-220",
+      "td-d1-162",
+      "td-d2-209",
+      "td-d4-112"
+    ],
+    "passcode": [
+      "mulher",
+      "feminino",
+      "fêmea"
+    ]
+  },
+  "93881": {
+    "id": "93881",
+    "imageCardsIds": [
+      "td-d5-42"
+    ],
+    "passcode": [
+      "conspiração"
+    ]
+  },
+  "97842": {
+    "id": "97842",
+    "imageCardsIds": [
+      "td-d11-58"
+    ],
+    "passcode": [
+      "ring"
+    ]
+  },
+  "0042c": {
+    "id": "0042c",
+    "imageCardsIds": [
+      "td-d4-215",
+      "td-d8-63",
+      "td-d11-223"
+    ],
+    "passcode": [
+      "quarto",
+      "aposento"
+    ]
+  },
+  "00e9e": {
+    "id": "00e9e",
+    "imageCardsIds": [
+      "td-d4-42"
+    ],
+    "passcode": [
+      "taco",
+      "bastão",
+      "tacada"
+    ]
+  },
+  "014b4": {
+    "id": "014b4",
+    "imageCardsIds": [
+      "td-d10-33"
+    ],
+    "passcode": [
+      "gorda",
+      "obesa",
+      "obesidade"
+    ]
+  },
+  "020c1": {
+    "id": "020c1",
+    "imageCardsIds": [
+      "td-d10-180"
+    ],
+    "passcode": [
+      "androide"
+    ]
+  },
+  "0250f": {
+    "id": "0250f",
+    "imageCardsIds": [
+      "td-d2-240"
+    ],
+    "passcode": [
+      "gelo",
+      "geleira"
+    ]
+  },
+  "02876": {
+    "id": "02876",
+    "imageCardsIds": [
+      "td-d10-112"
+    ],
+    "passcode": [
+      "comer",
+      "comilaça",
+      "comida",
+      "engolir"
+    ]
+  },
+  "02acc": {
+    "id": "02acc",
+    "imageCardsIds": [
+      "td-d5-158"
+    ],
+    "passcode": [
+      "inferno",
+      "infernal"
+    ]
+  },
+  "03084": {
+    "id": "03084",
+    "imageCardsIds": [
+      "td-d1-190",
+      "td-d3-232"
+    ],
+    "passcode": [
+      "donut",
+      "rosquinha"
+    ]
+  },
+  "04be3": {
+    "id": "04be3",
+    "imageCardsIds": [
+      "td-d4-139"
+    ],
+    "passcode": [
+      "fada",
+      "fadas"
+    ]
+  },
+  "055f3": {
+    "id": "055f3",
+    "imageCardsIds": [
+      "td-d11-54"
+    ],
+    "passcode": [
+      "helicóptero",
+      "sobrevoar",
+      "hélice",
+      "fuselagem"
+    ]
+  },
+  "059e8": {
+    "id": "059e8",
+    "imageCardsIds": [
+      "td-d8-151",
+      "td-d1-232",
+      "td-d9-165",
+      "td-d11-58"
+    ],
+    "passcode": [
+      "luta",
+      "briga",
+      "confusão"
+    ]
+  },
+  "06cc4": {
+    "id": "06cc4",
+    "imageCardsIds": [
+      "td-d6-112"
+    ],
+    "passcode": [
+      "nave"
+    ]
+  },
+  "07203": {
+    "id": "07203",
+    "imageCardsIds": [
+      "td-d4-233"
+    ],
+    "passcode": [
+      "boi",
+      "bovino"
+    ]
+  },
+  "07d9f": {
+    "id": "07d9f",
+    "imageCardsIds": [
+      "td-d10-206"
+    ],
+    "passcode": [
+      "guerra",
+      "batalha",
+      "exército",
+      "bombardeio",
+      "soltado",
+      "derrota"
+    ]
+  },
+  "088d1": {
+    "id": "088d1",
+    "imageCardsIds": [
+      "td-d3-75"
+    ],
+    "passcode": [
+      "aranha",
+      "aracnídeo"
+    ]
+  },
+  "096c7": {
+    "id": "096c7",
+    "imageCardsIds": [
+      "td-d3-164"
+    ],
+    "passcode": [
+      "lançamento"
+    ]
+  },
+  "09c18": {
+    "id": "09c18",
+    "imageCardsIds": [
+      "td-d8-87"
+    ],
+    "passcode": [
+      "limão",
+      "cítrico"
+    ]
+  },
+  "09c94": {
+    "id": "09c94",
+    "imageCardsIds": [
+      "td-d1-72"
+    ],
+    "passcode": [
+      "anjo",
+      "querubim",
+      "angelical",
+      "serafim",
+      "arcanjo",
+      "divino",
+      "celestial",
+      "guardião",
+      "mensageiro"
+    ]
+  },
+  "0a78c": {
+    "id": "0a78c",
+    "imageCardsIds": [
+      "td-d4-47"
+    ],
+    "passcode": [
+      "moléculas"
+    ]
+  },
+  "0b049": {
+    "id": "0b049",
+    "imageCardsIds": [
+      "td-d12-111"
+    ],
+    "passcode": [
+      "crime",
+      "latrocínio",
+      "roubo",
+      "assassinato",
+      "homicídio",
+      "furto"
+    ]
+  },
+  "0b39d": {
+    "id": "0b39d",
+    "imageCardsIds": [
+      "td-d1-165"
+    ],
+    "passcode": [
+      "coruja",
+      "noturna",
+      "penugem"
+    ]
+  },
+  "0b7c5": {
+    "id": "0b7c5",
+    "imageCardsIds": [
+      "td-d3-251",
+      "td-d10-238",
+      "td-d8-226"
+    ],
+    "passcode": [
+      "árvore",
+      "arbóreo"
+    ]
+  },
+  "0bc1a": {
+    "id": "0bc1a",
+    "imageCardsIds": [
+      "td-d12-134",
+      "td-d3-244"
+    ],
+    "passcode": [
+      "cacto"
+    ]
+  },
+  "0be78": {
+    "id": "0be78",
+    "imageCardsIds": [
+      "td-d7-221"
+    ],
+    "passcode": [
+      "guerreira",
+      "amazona"
+    ]
+  },
+  "0c13a": {
+    "id": "0c13a",
+    "imageCardsIds": [
+      "td-d1-65",
+      "td-d7-153",
+      "td-d3-251"
+    ],
+    "passcode": [
+      "direções",
+      "sinais",
+      "placas",
+      "sinalização",
+      "advertência",
+      "direção",
+      "indicação",
+      "informação"
+    ]
+  },
+  "0c77e": {
+    "id": "0c77e",
+    "imageCardsIds": [
+      "td-d8-151"
+    ],
+    "passcode": [
+      "boxeador",
+      "lutador",
+      "ringue",
+      "gancho",
+      "nocaute",
+      "treinamento",
+      "golpe"
+    ]
+  },
+  "0c818": {
+    "id": "0c818",
+    "imageCardsIds": [
+      "td-d10-223",
+      "td-d9-72"
+    ],
+    "passcode": [
+      "pratos",
+      "porcelana",
+      "cerâmica",
+      "fundo",
+      "raso"
+    ]
+  },
+  "0cea0": {
+    "id": "0cea0",
+    "imageCardsIds": [
+      "td-d6-100",
+      "td-d7-74",
+      "td-d9-214",
+      "td-d7-137",
+      "td-d5-183"
+    ],
+    "passcode": [
+      "carro",
+      "carros",
+      "veículos",
+      "motorizado",
+      "rodas"
+    ]
+  },
+  "0d063": {
+    "id": "0d063",
+    "imageCardsIds": [
+      "td-d11-149"
+    ],
+    "passcode": [
+      "panela",
+      "antiaderente",
+      "inox",
+      "caçarola",
+      "fritadeira",
+      "teflon",
+      "alça",
+      "pressão"
+    ]
+  },
+  "0e4aa": {
+    "id": "0e4aa",
+    "imageCardsIds": [
+      "td-d6-215"
+    ],
+    "passcode": [
+      "tronco"
+    ]
+  },
+  "11d33": {
+    "id": "11d33",
+    "imageCardsIds": [
+      "td-d12-49",
+      "td-d3-67"
+    ],
+    "passcode": [
+      "molhado",
+      "encharcado"
+    ]
+  },
+  "120d3": {
+    "id": "120d3",
+    "imageCardsIds": [
+      "td-d1-48",
+      "td-d1-127",
+      "td-d8-39",
+      "td-d7-120",
+      "td-d8-67",
+      "td-d2-06",
+      "td-d3-179",
+      "td-d1-76"
+    ],
+    "passcode": [
+      "lâmpada",
+      "iluminação",
+      "luz"
+    ]
+  },
+  "1224a": {
+    "id": "1224a",
+    "imageCardsIds": [
+      "td-d2-241"
+    ],
+    "passcode": [
+      "assombrado",
+      "assombrada",
+      "assustador",
+      "tenebroso",
+      "terror"
+    ]
+  },
+  "12a49": {
+    "id": "12a49",
+    "imageCardsIds": [
+      "td-d6-29",
+      "td-d7-47"
+    ],
+    "passcode": [
+      "sofá",
+      "assento",
+      "mobiliário",
+      "poltrona",
+      "divã"
+    ]
+  },
+  "134a5": {
+    "id": "134a5",
+    "imageCardsIds": [
+      "td-d11-160",
+      "td-d11-149",
+      "td-d1-234"
+    ],
+    "passcode": [
+      "janela"
+    ]
+  },
+  "1399c": {
+    "id": "1399c",
+    "imageCardsIds": [
+      "td-d8-197"
+    ],
+    "passcode": [
+      "metrô",
+      "vagão",
+      "estação",
+      "plataforma",
+      "catraca",
+      "subterrâneo"
+    ]
+  },
+  "145cb": {
+    "id": "145cb",
+    "imageCardsIds": [
+      "td-d1-04",
+      "td-d7-153"
+    ],
+    "passcode": [
+      "quadros",
+      "moldura",
+      "retrato",
+      "arte"
+    ]
+  },
+  "146ba": {
+    "id": "146ba",
+    "imageCardsIds": [
+      "td-d6-241"
+    ],
+    "passcode": [
+      "sacola"
+    ]
+  },
+  "14b72": {
+    "id": "14b72",
+    "imageCardsIds": [
+      "td-d3-158",
+      "td-d8-199",
+      "td-d9-148"
+    ],
+    "passcode": [
+      "cientista",
+      "inventor"
+    ]
+  },
+  "1651f": {
+    "id": "1651f",
+    "imageCardsIds": [
+      "td-d4-114",
+      "td-d1-22",
+      "td-d7-43",
+      "td-d4-129",
+      "td-d2-106",
+      "td-d3-100",
+      "td-d4-158"
+    ],
+    "passcode": [
+      "chifre",
+      "pontiagudo",
+      "ponta",
+      "pontudo",
+      "chifrudo",
+      "galhada"
+    ]
+  },
+  "1691d": {
+    "id": "1691d",
+    "imageCardsIds": [
+      "td-d7-217"
+    ],
+    "passcode": [
+      "pijama",
+      "conforto",
+      "dormir",
+      "dormindo",
+      "sono",
+      "preguiça",
+      "sonhar",
+      "sonâmbulo"
+    ]
+  },
+  "16f3d": {
+    "id": "16f3d",
+    "imageCardsIds": [
+      "td-d11-200"
+    ],
+    "passcode": [
+      "ampulheta"
+    ]
+  },
+  "172f0": {
+    "id": "172f0",
+    "imageCardsIds": [
+      "td-d8-240"
+    ],
+    "passcode": [
+      "capa"
+    ]
+  },
+  "174e0": {
+    "id": "174e0",
+    "imageCardsIds": [
+      "td-d2-249",
+      "td-d12-134",
+      "td-d8-197",
+      "td-d3-36",
+      "td-d9-235"
+    ],
+    "passcode": [
+      "pássaro",
+      "penas",
+      "plumagem",
+      "migratório",
+      "penugem"
+    ]
+  },
+  "17b13": {
+    "id": "17b13",
+    "imageCardsIds": [
+      "td-d5-158",
+      "td-d7-12",
+      "td-d1-41"
+    ],
+    "passcode": [
+      "vilão",
+      "maldade",
+      "inimigo",
+      "malvado",
+      "maldoso"
+    ]
+  },
+  "19e15": {
+    "id": "19e15",
+    "imageCardsIds": [
+      "td-d5-30"
+    ],
+    "passcode": [
+      "festa",
+      "alegria",
+      "diversão",
+      "confraternização"
+    ]
+  },
+  "1a49c": {
+    "id": "1a49c",
+    "imageCardsIds": [
+      "td-d3-225",
+      "td-d11-233"
+    ],
+    "passcode": [
+      "fumaça",
+      "névoa",
+      "cinzas",
+      "chaminé",
+      "poluição"
+    ]
+  },
+  "1a6fc": {
+    "id": "1a6fc",
+    "imageCardsIds": [
+      "td-d1-05",
+      "td-d3-44",
+      "td-d5-92"
+    ],
+    "passcode": [
+      "sapo",
+      "anfíbio",
+      "sapos",
+      "anfíbios"
+    ]
+  },
+  "1a938": {
+    "id": "1a938",
+    "imageCardsIds": [
+      "td-d1-153"
+    ],
+    "passcode": [
+      "leme",
+      "direção",
+      "navegação"
+    ]
+  },
+  "1aaaa": {
+    "id": "1aaaa",
+    "imageCardsIds": [
+      "td-d2-249",
+      "td-d3-26",
+      "td-d5-29",
+      "td-d8-140"
+    ],
+    "passcode": [
+      "mesa",
+      "madeira",
+      "superfície",
+      "tablado"
+    ]
+  },
+  "1ab41": {
+    "id": "1ab41",
+    "imageCardsIds": [
+      "td-d5-242"
+    ],
+    "passcode": [
+      "geladeira",
+      "refrigerador"
+    ]
+  },
+  "1b749": {
+    "id": "1b749",
+    "imageCardsIds": [
+      "td-d4-140"
+    ],
+    "passcode": [
+      "vidro",
+      "transparente",
+      "frágil",
+      "quebradiço",
+      "garrafa"
+    ]
+  },
+  "1b970": {
+    "id": "1b970",
+    "imageCardsIds": [
+      "td-d3-149",
+      "td-d6-176",
+      "td-d2-106"
+    ],
+    "passcode": [
+      "circo",
+      "picadeiro",
+      "trapézio",
+      "malabarismo",
+      "equilibrista",
+      "tenta",
+      "domador",
+      "acrobacia"
+    ]
+  },
+  "1dc84": {
+    "id": "1dc84",
+    "imageCardsIds": [
+      "td-d10-77"
+    ],
+    "passcode": [
+      "vitrola",
+      "toca-discos",
+      "fonógrafo",
+      "radiola"
+    ]
+  },
+  "1dfe0": {
+    "id": "1dfe0",
+    "imageCardsIds": [
+      "td-d12-05"
+    ],
+    "passcode": [
+      "futebol"
+    ]
+  },
+  "1e43c": {
+    "id": "1e43c",
+    "imageCardsIds": [
+      "td-d1-48",
+      "td-d2-06"
+    ],
+    "passcode": [
+      "escuro",
+      "escuridão",
+      "trevas",
+      "sombra",
+      "penumbra",
+      "obscuro",
+      "obscuridade"
+    ]
+  },
+  "1e4ab": {
+    "id": "1e4ab",
+    "imageCardsIds": [
+      "td-d1-171",
+      "td-d8-108"
+    ],
+    "passcode": [
+      "estresse",
+      "tensão",
+      "ansiedade",
+      "pressão",
+      "cansaço",
+      "colapso",
+      "sobrecarga"
+    ]
+  },
+  "1e720": {
+    "id": "1e720",
+    "imageCardsIds": [
+      "td-d7-228",
+      "td-d7-110",
+      "td-d1-01",
+      "td-d1-07",
+      "td-d1-141",
+      "td-d7-111",
+      "td-d4-114",
+      "td-d4-202"
+    ],
+    "passcode": [
+      "navio",
+      "embarcação",
+      "barco",
+      "navegar"
+    ]
+  },
+  "1f447": {
+    "id": "1f447",
+    "imageCardsIds": [
+      "td-d8-151",
+      "td-d10-215",
+      "td-d5-238"
+    ],
+    "passcode": [
+      "coelho",
+      "páscoa",
+      "saltitante"
+    ]
+  },
+  "2020f": {
+    "id": "2020f",
+    "imageCardsIds": [
+      "td-d10-206",
+      "td-d2-29"
+    ],
+    "passcode": [
+      "destruição",
+      "ruína",
+      "colapso",
+      "caos",
+      "devastação",
+      "demolição",
+      "catástrofe"
+    ]
+  },
+  "210d7": {
+    "id": "210d7",
+    "imageCardsIds": [
+      "td-d7-45"
+    ],
+    "passcode": [
+      "obra",
+      "construção",
+      "projeto",
+      "concreto",
+      "arquitetura",
+      "engenheiro",
+      "reforma"
+    ]
+  },
+  "219c4": {
+    "id": "219c4",
+    "imageCardsIds": [
+      "td-d10-214"
+    ],
+    "passcode": [
+      "mágica",
+      "magia",
+      "ilusão",
+      "truque",
+      "encantamento",
+      "abracadabra"
+    ]
+  },
+  "23b58": {
+    "id": "23b58",
+    "imageCardsIds": [
+      "td-d6-100",
+      "td-d9-214",
+      "td-d6-237",
+      "td-d7-137",
+      "td-d10-127",
+      "td-d11-227"
+    ],
+    "passcode": [
+      "rua",
+      "calçada",
+      "asfalto",
+      "esquina",
+      "trânsito",
+      "cruzamento"
+    ]
+  },
+  "24a53": {
+    "id": "24a53",
+    "imageCardsIds": [
+      "td-d11-198"
+    ],
+    "passcode": [
+      "boneca",
+      "roupinha",
+      "bonecas"
+    ]
+  },
+  "253ce": {
+    "id": "253ce",
+    "imageCardsIds": [
+      "td-d2-249",
+      "td-d2-121",
+      "td-d3-100",
+      "td-d9-43"
+    ],
+    "passcode": [
+      "televisão",
+      "canal",
+      "tela",
+      "novela",
+      "antena",
+      "transmissão",
+      "programação",
+      "programa",
+      "imagem",
+      "vídeo"
+    ]
+  },
+  "265fb": {
+    "id": "265fb",
+    "imageCardsIds": [
+      "td-d4-139",
+      "td-d6-164",
+      "td-d10-214"
+    ],
+    "passcode": [
+      "floresta",
+      "folhagem",
+      "raízes"
+    ]
+  },
+  "268f5": {
+    "id": "268f5",
+    "imageCardsIds": [
+      "td-d2-198"
+    ],
+    "passcode": [
+      "oceano",
+      "mar",
+      "atlântico",
+      "pacífico"
+    ]
+  },
+  "279a9": {
+    "id": "279a9",
+    "imageCardsIds": [
+      "td-d4-42",
+      "td-d4-62"
+    ],
+    "passcode": [
+      "jogo",
+      "torcida",
+      "equipe",
+      "competição",
+      "esporte",
+      "placar",
+      "treinamento",
+      "arbitragem",
+      "vitória"
+    ]
+  },
+  "27afd": {
+    "id": "27afd",
+    "imageCardsIds": [
+      "td-d2-06",
+      "td-d1-96",
+      "td-d6-13",
+      "td-d6-67",
+      "td-d2-45",
+      "td-d4-47",
+      "td-d3-129"
+    ],
+    "passcode": [
+      "idoso",
+      "velho",
+      "senhor",
+      "experiência",
+      "longevidade",
+      "vovô"
+    ]
+  },
+  "286eb": {
+    "id": "286eb",
+    "imageCardsIds": [
+      "td-d1-95",
+      "td-d1-127",
+      "td-d11-105",
+      "td-d2-42",
+      "td-d8-228"
+    ],
+    "passcode": [
+      "caveiras",
+      "crânio",
+      "esqueleto",
+      "osso",
+      "ossos",
+      "morte",
+      "passagem"
+    ]
+  },
+  "294ec": {
+    "id": "294ec",
+    "imageCardsIds": [
+      "td-d11-159"
+    ],
+    "passcode": [
+      "cavalete"
+    ]
+  },
+  "29f21": {
+    "id": "29f21",
+    "imageCardsIds": [
+      "td-d1-103"
+    ],
+    "passcode": [
+      "princesa",
+      "realeza",
+      "tiara",
+      "herdeira",
+      "encantada"
+    ]
+  },
+  "2a60a": {
+    "id": "2a60a",
+    "imageCardsIds": [
+      "td-d10-193"
+    ],
+    "passcode": [
+      "corrente",
+      "elo",
+      "ferro",
+      "acorrentado",
+      "preso"
+    ]
+  },
+  "2b0ee": {
+    "id": "2b0ee",
+    "imageCardsIds": [
+      "td-d4-155"
+    ],
+    "passcode": [
+      "apresentação",
+      "palco",
+      "conteúdo",
+      "exposição"
+    ]
+  },
+  "2b4bf": {
+    "id": "2b4bf",
+    "imageCardsIds": [
+      "td-d7-192"
+    ],
+    "passcode": [
+      "esquiador"
+    ]
+  },
+  "2bcb0": {
+    "id": "2bcb0",
+    "imageCardsIds": [
+      "td-d12-134",
+      "td-d5-97"
+    ],
+    "passcode": [
+      "relógio",
+      "ponteiro",
+      "cronômetro",
+      "tic-tac",
+      "alarme",
+      "tempo",
+      "temporal",
+      "horário",
+      "hora"
+    ]
+  },
+  "2c4c1": {
+    "id": "2c4c1",
+    "imageCardsIds": [
+      "td-d1-216"
+    ],
+    "passcode": [
+      "cítrico",
+      "azedo",
+      "tropical"
+    ]
+  },
+  "2d5b3": {
+    "id": "2d5b3",
+    "imageCardsIds": [
+      "td-d11-198",
+      "td-d12-220"
+    ],
+    "passcode": [
+      "parede",
+      "reboco",
+      "textura",
+      "divisória",
+      "concreto"
+    ]
+  },
+  "2d9c9": {
+    "id": "2d9c9",
+    "imageCardsIds": [
+      "td-d5-61"
+    ],
+    "passcode": [
+      "biblioteca",
+      "livraria"
+    ]
+  },
+  "2e6d9": {
+    "id": "2e6d9",
+    "imageCardsIds": [
+      "td-d4-221"
+    ],
+    "passcode": [
+      "teclado"
+    ]
+  },
+  "2f837": {
+    "id": "2f837",
+    "imageCardsIds": [
+      "td-d10-239"
+    ],
+    "passcode": [
+      "aquário"
+    ]
+  },
+  "30e4b": {
+    "id": "30e4b",
+    "imageCardsIds": [
+      "td-d11-227"
+    ],
+    "passcode": [
+      "solitária"
+    ]
+  },
+  "316cd": {
+    "id": "316cd",
+    "imageCardsIds": [
+      "td-d10-93"
+    ],
+    "passcode": [
+      "pedaços"
+    ]
+  },
+  "31fa0": {
+    "id": "31fa0",
+    "imageCardsIds": [
+      "td-d12-99"
+    ],
+    "passcode": [
+      "sala"
+    ]
+  },
+  "31fb3": {
+    "id": "31fb3",
+    "imageCardsIds": [
+      "td-d12-107"
+    ],
+    "passcode": [
+      "ferramentas"
+    ]
+  },
+  "320fa": {
+    "id": "320fa",
+    "imageCardsIds": [
+      "td-d1-174",
+      "td-d4-22"
+    ],
+    "passcode": [
+      "mão",
+      "segurar",
+      "pegar"
+    ]
+  },
+  "323f3": {
+    "id": "323f3",
+    "imageCardsIds": [
+      "td-d11-84"
+    ],
+    "passcode": [
+      "pavão"
+    ]
+  },
+  "32b89": {
+    "id": "32b89",
+    "imageCardsIds": [
+      "td-d1-72",
+      "td-d9-190",
+      "td-d3-19",
+      "td-d4-129",
+      "td-d12-30"
+    ],
+    "passcode": [
+      "bolo",
+      "bolos",
+      "confeitaria",
+      "confeição"
+    ]
+  },
+  "33f95": {
+    "id": "33f95",
+    "imageCardsIds": [
+      "td-d7-20"
+    ],
+    "passcode": [
+      "instrumento",
+      "musical"
+    ]
+  },
+  "3511a": {
+    "id": "3511a",
+    "imageCardsIds": [
+      "td-d8-85"
+    ],
+    "passcode": [
+      "torcedor"
+    ]
+  },
+  "3580d": {
+    "id": "3580d",
+    "imageCardsIds": [
+      "td-d8-93",
+      "td-d3-239"
+    ],
+    "passcode": [
+      "mochila",
+      "compartimento",
+      "bolsa"
+    ]
+  },
+  "35d89": {
+    "id": "35d89",
+    "imageCardsIds": [
+      "td-d6-111",
+      "td-d1-22",
+      "td-d10-223"
+    ],
+    "passcode": [
+      "veado"
+    ]
+  },
+  "35f4c": {
+    "id": "35f4c",
+    "imageCardsIds": [
+      "td-d1-161"
+    ],
+    "passcode": [
+      "luzes"
+    ]
+  },
+  "37a6f": {
+    "id": "37a6f",
+    "imageCardsIds": [
+      "td-d1-115",
+      "td-d1-119",
+      "td-d3-169",
+      "td-d3-149",
+      "td-d6-176"
+    ],
+    "passcode": [
+      "palhaço",
+      "palhaçada"
+    ]
+  },
+  "37e28": {
+    "id": "37e28",
+    "imageCardsIds": [
+      "td-d6-88"
+    ],
+    "passcode": [
+      "catco"
+    ]
+  },
+  "38a99": {
+    "id": "38a99",
+    "imageCardsIds": [
+      "td-d7-121"
+    ],
+    "passcode": [
+      "cérebro",
+      "neurônio",
+      "sinapse",
+      "memória",
+      "raciocínio",
+      "cognição",
+      "hipocampo",
+      "inteligência"
+    ]
+  },
+  "3907d": {
+    "id": "3907d",
+    "imageCardsIds": [
+      "td-d2-29"
+    ],
+    "passcode": [
+      "quadriculado"
+    ]
+  },
+  "39aaa": {
+    "id": "39aaa",
+    "imageCardsIds": [
+      "td-d5-145",
+      "td-d1-162"
+    ],
+    "passcode": [
+      "festa",
+      "festejar",
+      "comemoração"
+    ]
+  },
+  "39fd7": {
+    "id": "39fd7",
+    "imageCardsIds": [
+      "td-d4-141"
+    ],
+    "passcode": [
+      "influenciadora"
+    ]
+  },
+  "3a55f": {
+    "id": "3a55f",
+    "imageCardsIds": [
+      "td-d3-94"
+    ],
+    "passcode": [
+      "esgoto"
+    ]
+  },
+  "3ae0f": {
+    "id": "3ae0f",
+    "imageCardsIds": [
+      "td-d12-33"
+    ],
+    "passcode": [
+      "cabelo"
+    ]
+  },
+  "3afac": {
+    "id": "3afac",
+    "imageCardsIds": [
+      "td-d1-191"
+    ],
+    "passcode": [
+      "construção"
+    ]
+  },
+  "3b10c": {
+    "id": "3b10c",
+    "imageCardsIds": [
+      "td-d8-240"
+    ],
+    "passcode": [
+      "dente"
+    ]
+  },
+  "3b2f3": {
+    "id": "3b2f3",
+    "imageCardsIds": [
+      "td-d1-57",
+      "td-d1-61",
+      "td-d1-77",
+      "td-d1-60",
+      "td-d1-33"
+    ],
+    "passcode": [
+      "pirâmide",
+      "triangular"
+    ]
+  },
+  "3c6f9": {
+    "id": "3c6f9",
+    "imageCardsIds": [
+      "td-d3-225"
+    ],
+    "passcode": [
+      "fábrica",
+      "indústria",
+      "produção",
+      "máquinas",
+      "operário"
+    ]
+  },
+  "3d4c0": {
+    "id": "3d4c0",
+    "imageCardsIds": [
+      "td-d3-99",
+      "td-d4-158",
+      "td-d1-78",
+      "td-d10-127"
+    ],
+    "passcode": [
+      "negro"
+    ]
+  },
+  "3dd6e": {
+    "id": "3dd6e",
+    "imageCardsIds": [
+      "td-d4-250"
+    ],
+    "passcode": [
+      "arquivos"
+    ]
+  },
+  "3dded": {
+    "id": "3dded",
+    "imageCardsIds": [
+      "td-d8-85"
+    ],
+    "passcode": [
+      "camisa"
+    ]
+  },
+  "3e887": {
+    "id": "3e887",
+    "imageCardsIds": [
+      "td-d1-61"
+    ],
+    "passcode": [
+      "nublado",
+      "neblina",
+      "melancolia"
+    ]
+  },
+  "3ef04": {
+    "id": "3ef04",
+    "imageCardsIds": [
+      "td-d7-110"
+    ],
+    "passcode": [
+      "desastre"
+    ]
+  },
+  "3efc3": {
+    "id": "3efc3",
+    "imageCardsIds": [
+      "td-d8-41",
+      "td-d10-184",
+      "td-d7-192"
+    ],
+    "passcode": [
+      "cavalo"
+    ]
+  },
+  "3f057": {
+    "id": "3f057",
+    "imageCardsIds": [
+      "td-d2-249"
+    ],
+    "passcode": [
+      "telefone"
+    ]
+  },
+  "3f4f0": {
+    "id": "3f4f0",
+    "imageCardsIds": [
+      "td-d1-141"
+    ],
+    "passcode": [
+      "queijo"
+    ]
+  },
+  "3f50f": {
+    "id": "3f50f",
+    "imageCardsIds": [
+      "td-d1-70",
+      "td-d3-129"
+    ],
+    "passcode": [
+      "plantas"
+    ]
+  },
+  "3f7ff": {
+    "id": "3f7ff",
+    "imageCardsIds": [
+      "td-d1-153",
+      "td-d7-20",
+      "td-d8-124",
+      "td-d5-95"
+    ],
+    "passcode": [
+      "arco"
+    ]
+  },
+  "3fb96": {
+    "id": "3fb96",
+    "imageCardsIds": [
+      "td-d12-33",
+      "td-d7-120",
+      "td-d3-248"
+    ],
+    "passcode": [
+      "vestido"
+    ]
+  },
+  "4011f": {
+    "id": "4011f",
+    "imageCardsIds": [
+      "td-d1-02",
+      "td-d1-103",
+      "td-d9-21"
+    ],
+    "passcode": [
+      "espada"
+    ]
+  },
+  "4058c": {
+    "id": "4058c",
+    "imageCardsIds": [
+      "td-d4-241",
+      "td-d6-17",
+      "td-d8-93",
+      "td-d12-30",
+      "td-d3-202"
+    ],
+    "passcode": [
+      "vitrine",
+      "exposição",
+      "mostruário"
+    ]
+  },
+  "40d13": {
+    "id": "40d13",
+    "imageCardsIds": [
+      "td-d1-70"
+    ],
+    "passcode": [
+      "escritório",
+      "trabalho",
+      "trampo"
+    ]
+  },
+  "421bc": {
+    "id": "421bc",
+    "imageCardsIds": [
+      "td-d8-228"
+    ],
+    "passcode": [
+      "Halloween"
+    ]
+  },
+  "431df": {
+    "id": "431df",
+    "imageCardsIds": [
+      "td-d3-26",
+      "td-d1-234"
+    ],
+    "passcode": [
+      "estudante",
+      "aprendiz",
+      "aprendizado",
+      "saber",
+      "aprender",
+      "uniforme"
+    ]
+  },
+  "44cd6": {
+    "id": "44cd6",
+    "imageCardsIds": [
+      "td-d1-76"
+    ],
+    "passcode": [
+      "gordo"
+    ]
+  },
+  "455c0": {
+    "id": "455c0",
+    "imageCardsIds": [
+      "td-d2-40"
+    ],
+    "passcode": [
+      "prisão",
+      "cela",
+      "grades",
+      "detento",
+      "sentença",
+      "carcereiro",
+      "penitenciária",
+      "condenação"
+    ]
+  },
+  "4570b": {
+    "id": "4570b",
+    "imageCardsIds": [
+      "td-d8-238",
+      "td-d11-47"
+    ],
+    "passcode": [
+      "pintura",
+      "tela",
+      "aquarela",
+      "tinta",
+      "artista"
+    ]
+  },
+  "45d4f": {
+    "id": "45d4f",
+    "imageCardsIds": [
+      "td-d3-110"
+    ],
+    "passcode": [
+      "vela"
+    ]
+  },
+  "45e17": {
+    "id": "45e17",
+    "imageCardsIds": [
+      "td-d5-127"
+    ],
+    "passcode": [
+      "agulhas"
+    ]
+  },
+  "463f1": {
+    "id": "463f1",
+    "imageCardsIds": [
+      "td-d1-71"
+    ],
+    "passcode": [
+      "surpresa",
+      "inesperado",
+      "emoção",
+      "espanto",
+      "revelação"
+    ]
+  },
+  "46f4a": {
+    "id": "46f4a",
+    "imageCardsIds": [
+      "td-d11-245",
+      "td-d4-112"
+    ],
+    "passcode": [
+      "cortina",
+      "privacidade"
+    ]
+  },
+  "48bbb": {
+    "id": "48bbb",
+    "imageCardsIds": [
+      "td-d1-17",
+      "td-d1-192",
+      "td-d1-211",
+      "td-d1-05",
+      "td-d8-63",
+      "td-d2-216",
+      "td-d7-23",
+      "td-d8-67",
+      "td-d6-158",
+      "td-d10-148",
+      "td-d4-03",
+      "td-d7-247",
+      "td-d2-05"
+    ],
+    "passcode": [
+      "livros",
+      "leitura",
+      "livro"
+    ]
+  },
+  "48f2e": {
+    "id": "48f2e",
+    "imageCardsIds": [
+      "td-d10-93"
+    ],
+    "passcode": [
+      "shorts"
+    ]
+  },
+  "4930a": {
+    "id": "4930a",
+    "imageCardsIds": [
+      "td-d9-115",
+      "td-d6-18"
+    ],
+    "passcode": [
+      "roupas",
+      "vestimentas"
+    ]
+  },
+  "49d28": {
+    "id": "49d28",
+    "imageCardsIds": [
+      "td-d1-41"
+    ],
+    "passcode": [
+      "capetinha"
+    ]
+  },
+  "4a891": {
+    "id": "4a891",
+    "imageCardsIds": [
+      "td-d9-104",
+      "td-d8-228"
+    ],
+    "passcode": [
+      "cemitério"
+    ]
+  },
+  "4aa90": {
+    "id": "4aa90",
+    "imageCardsIds": [
+      "td-d1-01",
+      "td-d2-103",
+      "td-d7-210",
+      "td-d5-162",
+      "td-d1-78"
+    ],
+    "passcode": [
+      "guarda-chuva",
+      "sombrinha"
+    ]
+  },
+  "4ac6c": {
+    "id": "4ac6c",
+    "imageCardsIds": [
+      "td-d1-238",
+      "td-d2-40"
+    ],
+    "passcode": [
+      "dinossauro",
+      "jurássico",
+      "réptil",
+      "extinção"
+    ]
+  },
+  "4ad7b": {
+    "id": "4ad7b",
+    "imageCardsIds": [
+      "td-d9-119"
+    ],
+    "passcode": [
+      "alquimista",
+      "transmutação",
+      "experimento"
+    ]
+  },
+  "4b09b": {
+    "id": "4b09b",
+    "imageCardsIds": [
+      "td-d1-174"
+    ],
+    "passcode": [
+      "rio",
+      "correnteza",
+      "margem",
+      "córrego",
+      "leito",
+      "nascente"
+    ]
+  },
+  "4b921": {
+    "id": "4b921",
+    "imageCardsIds": [
+      "td-d7-97",
+      "td-d4-224",
+      "td-d7-111",
+      "td-d4-114",
+      "td-d5-238",
+      "td-d9-235"
+    ],
+    "passcode": [
+      "céu",
+      "horizonte",
+      "atmosfera",
+      "imensidão"
+    ]
+  },
+  "4bc03": {
+    "id": "4bc03",
+    "imageCardsIds": [
+      "td-d12-182",
+      "td-d4-221",
+      "td-d5-29",
+      "td-d9-116",
+      "td-d2-155"
+    ],
+    "passcode": [
+      "tentáculos"
+    ]
+  },
+  "4c349": {
+    "id": "4c349",
+    "imageCardsIds": [
+      "td-d4-62"
+    ],
+    "passcode": [
+      "tabuleiro"
+    ]
+  },
+  "4c70b": {
+    "id": "4c70b",
+    "imageCardsIds": [
+      "td-d5-01"
+    ],
+    "passcode": [
+      "boné"
+    ]
+  },
+  "4c866": {
+    "id": "4c866",
+    "imageCardsIds": [
+      "td-d1-216",
+      "td-d10-178"
+    ],
+    "passcode": [
+      "abacaxi"
+    ]
+  },
+  "4cbef": {
+    "id": "4cbef",
+    "imageCardsIds": [
+      "td-d1-220",
+      "td-d10-132",
+      "td-d2-142",
+      "td-d6-149",
+      "td-d5-234",
+      "td-d5-65",
+      "td-d10-180",
+      "td-d3-67",
+      "td-d1-196",
+      "td-d7-140",
+      "td-d5-129"
+    ],
+    "passcode": [
+      "robótica",
+      "robô",
+      "robôs"
+    ]
+  },
+  "4cc8e": {
+    "id": "4cc8e",
+    "imageCardsIds": [
+      "td-d9-92"
+    ],
+    "passcode": [
+      "galpão",
+      "armazém",
+      "estoque",
+      "depósito"
+    ]
+  },
+  "4e030": {
+    "id": "4e030",
+    "imageCardsIds": [
+      "td-d9-173"
+    ],
+    "passcode": [
+      "azulado"
+    ]
+  },
+  "4e1f5": {
+    "id": "4e1f5",
+    "imageCardsIds": [
+      "td-d1-190",
+      "td-d7-23",
+      "td-d12-30",
+      "td-d2-45",
+      "td-d3-202",
+      "td-d10-93",
+      "td-d2-05",
+      "td-d12-162"
+    ],
+    "passcode": [
+      "menino",
+      "pestinha",
+      "criança"
+    ]
+  },
+  "4e492": {
+    "id": "4e492",
+    "imageCardsIds": [
+      "td-d11-149"
+    ],
+    "passcode": [
+      "alarme"
+    ]
+  },
+  "4e6fd": {
+    "id": "4e6fd",
+    "imageCardsIds": [
+      "td-d8-140",
+      "td-d4-67"
+    ],
+    "passcode": [
+      "papel"
+    ]
+  },
+  "4eee1": {
+    "id": "4eee1",
+    "imageCardsIds": [
+      "td-d8-208",
+      "td-d6-212",
+      "td-d6-113"
+    ],
+    "passcode": [
+      "fonte"
+    ]
+  },
+  "4f3f8": {
+    "id": "4f3f8",
+    "imageCardsIds": [
+      "td-d9-154"
+    ],
+    "passcode": [
+      "astecas"
+    ]
+  },
+  "4faef": {
+    "id": "4faef",
+    "imageCardsIds": [
+      "td-d9-187",
+      "td-d10-148",
+      "td-d5-162"
+    ],
+    "passcode": [
+      "terno",
+      "paletó",
+      "lapela",
+      "alfaiate",
+      "elegância",
+      "executivo",
+      "advogado"
+    ]
+  },
+  "50de9": {
+    "id": "50de9",
+    "imageCardsIds": [
+      "td-d7-140",
+      "td-d1-161"
+    ],
+    "passcode": [
+      "futuro",
+      "tecnologia",
+      "amanhã",
+      "evolução",
+      "futurismo"
+    ]
+  },
+  "514e8": {
+    "id": "514e8",
+    "imageCardsIds": [
+      "td-d3-158",
+      "td-d1-165",
+      "td-d12-52"
+    ],
+    "passcode": [
+      "eletricidade",
+      "elétrico"
+    ]
+  },
+  "52fd1": {
+    "id": "52fd1",
+    "imageCardsIds": [
+      "td-d5-158",
+      "td-d7-43"
+    ],
+    "passcode": [
+      "diabo",
+      "tentação",
+      "maldição",
+      "inferno",
+      "pacto"
+    ]
+  },
+  "53dec": {
+    "id": "53dec",
+    "imageCardsIds": [
+      "td-d11-82"
+    ],
+    "passcode": [
+      "moinho"
+    ]
+  },
+  "5491a": {
+    "id": "5491a",
+    "imageCardsIds": [
+      "td-d6-239"
+    ],
+    "passcode": [
+      "tigre"
+    ]
+  },
+  "555b9": {
+    "id": "555b9",
+    "imageCardsIds": [
+      "td-d4-215"
+    ],
+    "passcode": [
+      "video-game"
+    ]
+  },
+  "5595a": {
+    "id": "5595a",
+    "imageCardsIds": [
+      "td-d7-97",
+      "td-d7-74",
+      "td-d11-160",
+      "td-d12-135",
+      "td-d7-69",
+      "td-d6-131",
+      "td-d1-11",
+      "td-d11-61",
+      "td-d2-169",
+      "td-d1-16",
+      "td-d6-90",
+      "td-d9-182",
+      "td-d11-159",
+      "td-d5-238"
+    ],
+    "passcode": [
+      "nuvem",
+      "nuvens"
+    ]
+  },
+  "55f75": {
+    "id": "55f75",
+    "imageCardsIds": [
+      "td-d1-04",
+      "td-d3-55",
+      "td-d6-29"
+    ],
+    "passcode": [
+      "poster",
+      "retrato",
+      "moldura"
+    ]
+  },
+  "591ca": {
+    "id": "591ca",
+    "imageCardsIds": [
+      "td-d1-19"
+    ],
+    "passcode": [
+      "guindaste",
+      "engrenagem",
+      "carga",
+      "levantar"
+    ]
+  },
+  "59acc": {
+    "id": "59acc",
+    "imageCardsIds": [
+      "td-d3-141",
+      "td-d5-179",
+      "td-d8-85"
+    ],
+    "passcode": [
+      "bola",
+      "bolas",
+      "esférico",
+      "chute",
+      "inflável",
+      "quicar"
+    ]
+  },
+  "5ad6c": {
+    "id": "5ad6c",
+    "imageCardsIds": [
+      "td-d10-79"
+    ],
+    "passcode": [
+      "grito"
+    ]
+  },
+  "5b8e2": {
+    "id": "5b8e2",
+    "imageCardsIds": [
+      "td-d1-15"
+    ],
+    "passcode": [
+      "macarrão",
+      "macarronada",
+      "massa",
+      "espaguete"
+    ]
+  },
+  "5c391": {
+    "id": "5c391",
+    "imageCardsIds": [
+      "td-d8-121",
+      "td-d4-141",
+      "td-d6-241",
+      "td-d11-47",
+      "td-d8-85"
+    ],
+    "passcode": [
+      "celular",
+      "aplicativo",
+      "notificação",
+      "comunicação",
+      "telefone",
+      "conexão"
+    ]
+  },
+  "5c481": {
+    "id": "5c481",
+    "imageCardsIds": [
+      "td-d8-191"
+    ],
+    "passcode": [
+      "bugigangas",
+      "dispositivos"
+    ]
+  },
+  "5cb55": {
+    "id": "5cb55",
+    "imageCardsIds": [
+      "td-d1-29",
+      "td-d3-46",
+      "td-d6-124",
+      "td-d7-141",
+      "td-d12-190",
+      "td-d5-242",
+      "td-d1-234",
+      "td-d3-129",
+      "td-d7-231"
+    ],
+    "passcode": [
+      "borboleta",
+      "borboletas"
+    ]
+  },
+  "5d11f": {
+    "id": "5d11f",
+    "imageCardsIds": [
+      "td-d12-129"
+    ],
+    "passcode": [
+      "outono",
+      "equinócio"
+    ]
+  },
+  "5dcfc": {
+    "id": "5dcfc",
+    "imageCardsIds": [
+      "td-d10-151",
+      "td-d1-101",
+      "td-d7-251"
+    ],
+    "passcode": [
+      "ninja",
+      "agilidade",
+      "camuflagem"
+    ]
+  },
+  "5e429": {
+    "id": "5e429",
+    "imageCardsIds": [
+      "td-d8-10",
+      "td-d5-22"
+    ],
+    "passcode": [
+      "labirinto",
+      "enigma",
+      "perdido",
+      "intrincado",
+      "passagens"
+    ]
+  },
+  "5e433": {
+    "id": "5e433",
+    "imageCardsIds": [
+      "td-d3-239",
+      "td-d6-112"
+    ],
+    "passcode": [
+      "astronauta"
+    ]
+  },
+  "5e4e6": {
+    "id": "5e4e6",
+    "imageCardsIds": [
+      "td-d3-141",
+      "td-d3-138"
+    ],
+    "passcode": [
+      "agressivo",
+      "violento",
+      "violência",
+      "feroz",
+      "intenso",
+      "hostil",
+      "ofensivo"
+    ]
+  },
+  "5ea04": {
+    "id": "5ea04",
+    "imageCardsIds": [
+      "td-d9-190",
+      "td-d2-169",
+      "td-d4-129",
+      "td-d3-207",
+      "td-d2-198"
+    ],
+    "passcode": [
+      "arco-íris",
+      "colorido"
+    ]
+  },
+  "5f538": {
+    "id": "5f538",
+    "imageCardsIds": [
+      "td-d9-26"
+    ],
+    "passcode": [
+      "ciência"
+    ]
+  },
+  "60a30": {
+    "id": "60a30",
+    "imageCardsIds": [
+      "td-d1-174",
+      "td-d10-151",
+      "td-d2-62"
+    ],
+    "passcode": [
+      "tartaruga"
+    ]
+  },
+  "62a15": {
+    "id": "62a15",
+    "imageCardsIds": [
+      "td-d1-236",
+      "td-d1-217",
+      "td-d1-237",
+      "td-d7-120",
+      "td-d3-149",
+      "td-d2-106",
+      "td-d7-137",
+      "td-d6-239"
+    ],
+    "passcode": [
+      "listrado",
+      "listras"
+    ]
+  },
+  "63a89": {
+    "id": "63a89",
+    "imageCardsIds": [
+      "td-d9-148"
+    ],
+    "passcode": [
+      "laboratório"
+    ]
+  },
+  "63cc6": {
+    "id": "63cc6",
+    "imageCardsIds": [
+      "td-d7-08"
+    ],
+    "passcode": [
+      "submergido"
+    ]
+  },
+  "643ae": {
+    "id": "643ae",
+    "imageCardsIds": [
+      "td-d9-217"
+    ],
+    "passcode": [
+      "controle"
+    ]
+  },
+  "6465f": {
+    "id": "6465f",
+    "imageCardsIds": [
+      "td-d9-187"
+    ],
+    "passcode": [
+      "linguiça",
+      "salsicha"
+    ]
+  },
+  "650fa": {
+    "id": "650fa",
+    "imageCardsIds": [
+      "td-d9-217"
+    ],
+    "passcode": [
+      "cerveja"
+    ]
+  },
+  "65ad9": {
+    "id": "65ad9",
+    "imageCardsIds": [
+      "td-d10-25"
+    ],
+    "passcode": [
+      "áfrica",
+      "africano",
+      "savana",
+      "tribal",
+      "safari"
+    ]
+  },
+  "65b2e": {
+    "id": "65b2e",
+    "imageCardsIds": [
+      "td-d1-25",
+      "td-d2-62"
+    ],
+    "passcode": [
+      "discoteca",
+      "boate",
+      "danceteria"
+    ]
+  },
+  "65e8d": {
+    "id": "65e8d",
+    "imageCardsIds": [
+      "td-d7-111",
+      "td-d8-32",
+      "td-d11-82"
+    ],
+    "passcode": [
+      "estrela",
+      "estrelar",
+      "constelação"
+    ]
+  },
+  "678e5": {
+    "id": "678e5",
+    "imageCardsIds": [
+      "td-d7-140"
+    ],
+    "passcode": [
+      "skate"
+    ]
+  },
+  "679a7": {
+    "id": "679a7",
+    "imageCardsIds": [
+      "td-d1-52",
+      "td-d7-147",
+      "td-d8-63",
+      "td-d9-19",
+      "td-d2-193",
+      "td-d7-23",
+      "td-d7-251",
+      "td-d5-162",
+      "td-d10-93"
+    ],
+    "passcode": [
+      "óculos"
+    ]
+  },
+  "67c13": {
+    "id": "67c13",
+    "imageCardsIds": [
+      "td-d9-217"
+    ],
+    "passcode": [
+      "geleira"
+    ]
+  },
+  "68cba": {
+    "id": "68cba",
+    "imageCardsIds": [
+      "td-d9-119",
+      "td-d10-213",
+      "td-d6-38"
+    ],
+    "passcode": [
+      "colorido"
+    ]
+  },
+  "69f0e": {
+    "id": "69f0e",
+    "imageCardsIds": [
+      "td-d5-139"
+    ],
+    "passcode": [
+      "cultural"
+    ]
+  },
+  "6a13e": {
+    "id": "6a13e",
+    "imageCardsIds": [
+      "td-d7-45"
+    ],
+    "passcode": [
+      "barata"
+    ]
+  },
+  "6a75c": {
+    "id": "6a75c",
+    "imageCardsIds": [
+      "td-d5-60",
+      "td-d9-116",
+      "td-d2-45"
+    ],
+    "passcode": [
+      "verde"
+    ]
+  },
+  "6ab33": {
+    "id": "6ab33",
+    "imageCardsIds": [
+      "td-d5-242",
+      "td-d1-141"
+    ],
+    "passcode": [
+      "amarelo"
+    ]
+  },
+  "6b134": {
+    "id": "6b134",
+    "imageCardsIds": [
+      "td-d4-155",
+      "td-d7-141",
+      "td-d6-237"
+    ],
+    "passcode": [
+      "gravata"
+    ]
+  },
+  "6b492": {
+    "id": "6b492",
+    "imageCardsIds": [
+      "td-d7-141"
+    ],
+    "passcode": [
+      "bigode"
+    ]
+  },
+  "6b54c": {
+    "id": "6b54c",
+    "imageCardsIds": [
+      "td-d1-31",
+      "td-d9-96"
+    ],
+    "passcode": [
+      "avião",
+      "aviação",
+      "aeronave"
+    ]
+  },
+  "6b55d": {
+    "id": "6b55d",
+    "imageCardsIds": [
+      "td-d9-43"
+    ],
+    "passcode": [
+      "ruivo"
+    ]
+  },
+  "6c3d0": {
+    "id": "6c3d0",
+    "imageCardsIds": [
+      "td-d11-11"
+    ],
+    "passcode": [
+      "abandono"
+    ]
+  },
+  "6c81d": {
+    "id": "6c81d",
+    "imageCardsIds": [
+      "td-d2-37"
+    ],
+    "passcode": [
+      "polícia"
+    ]
+  },
+  "6c8ef": {
+    "id": "6c8ef",
+    "imageCardsIds": [
+      "td-d4-250"
+    ],
+    "passcode": [
+      "disquete"
+    ]
+  },
+  "6d4ab": {
+    "id": "6d4ab",
+    "imageCardsIds": [
+      "td-d1-238",
+      "td-d9-187",
+      "td-d1-232"
+    ],
+    "passcode": [
+      "trabalho",
+      "trabalhador"
+    ]
+  },
+  "6d5c5": {
+    "id": "6d5c5",
+    "imageCardsIds": [
+      "td-d11-160",
+      "td-d11-159"
+    ],
+    "passcode": [
+      "pneu"
+    ]
+  },
+  "6d624": {
+    "id": "6d624",
+    "imageCardsIds": [
+      "td-d2-249",
+      "td-d9-217"
+    ],
+    "passcode": [
+      "pinguim"
+    ]
+  },
+  "6e60e": {
+    "id": "6e60e",
+    "imageCardsIds": [
+      "td-d1-52",
+      "td-d8-124"
+    ],
+    "passcode": [
+      "rochedos",
+      "rochas",
+      "pedras"
+    ]
+  },
+  "6e94a": {
+    "id": "6e94a",
+    "imageCardsIds": [
+      "td-d4-62"
+    ],
+    "passcode": [
+      "diversidade"
+    ]
+  },
+  "6e9dc": {
+    "id": "6e9dc",
+    "imageCardsIds": [
+      "td-d2-142",
+      "td-d9-154"
+    ],
+    "passcode": [
+      "estratégia"
+    ]
+  },
+  "6eb24": {
+    "id": "6eb24",
+    "imageCardsIds": [
+      "td-d7-163"
+    ],
+    "passcode": [
+      "peça"
+    ]
+  },
+  "6ff29": {
+    "id": "6ff29",
+    "imageCardsIds": [
+      "td-d8-208"
+    ],
+    "passcode": [
+      "balança"
+    ]
+  },
+  "703dd": {
+    "id": "703dd",
+    "imageCardsIds": [
+      "td-d4-241"
+    ],
+    "passcode": [
+      "guaxinim"
+    ]
+  },
+  "70b62": {
+    "id": "70b62",
+    "imageCardsIds": [
+      "td-d3-248"
+    ],
+    "passcode": [
+      "lustre"
+    ]
+  },
+  "714e7": {
+    "id": "714e7",
+    "imageCardsIds": [
+      "td-d9-69"
+    ],
+    "passcode": [
+      "possuído"
+    ]
+  },
+  "72fdb": {
+    "id": "72fdb",
+    "imageCardsIds": [
+      "td-d9-115"
+    ],
+    "passcode": [
+      "moletom"
+    ]
+  },
+  "73a7f": {
+    "id": "73a7f",
+    "imageCardsIds": [
+      "td-d5-145",
+      "td-d7-28"
+    ],
+    "passcode": [
+      "balão"
+    ]
+  },
+  "744ec": {
+    "id": "744ec",
+    "imageCardsIds": [
+      "td-d7-210",
+      "td-d1-41",
+      "td-d11-200"
+    ],
+    "passcode": [
+      "vermelho",
+      "escarlate"
+    ]
+  },
+  "74c16": {
+    "id": "74c16",
+    "imageCardsIds": [
+      "td-d9-119",
+      "td-d11-11"
+    ],
+    "passcode": [
+      "cachorro",
+      "canino"
+    ]
+  },
+  "74c32": {
+    "id": "74c32",
+    "imageCardsIds": [
+      "td-d2-98",
+      "td-d5-129"
+    ],
+    "passcode": [
+      "cidade",
+      "metrópole",
+      "município",
+      "metropolitano"
+    ]
+  },
+  "750e5": {
+    "id": "750e5",
+    "imageCardsIds": [
+      "td-d11-59"
+    ],
+    "passcode": [
+      "cesta"
+    ]
+  },
+  "752e4": {
+    "id": "752e4",
+    "imageCardsIds": [
+      "td-d4-224",
+      "td-d7-217",
+      "td-d12-203",
+      "td-d5-64"
+    ],
+    "passcode": [
+      "xícara",
+      "porcelana"
+    ]
+  },
+  "775c6": {
+    "id": "775c6",
+    "imageCardsIds": [
+      "td-d11-11",
+      "td-d6-215"
+    ],
+    "passcode": [
+      "planta"
+    ]
+  },
+  "780ab": {
+    "id": "780ab",
+    "imageCardsIds": [
+      "td-d6-111",
+      "td-d11-153"
+    ],
+    "passcode": [
+      "privada",
+      "vaso sanitário"
+    ]
+  },
+  "787da": {
+    "id": "787da",
+    "imageCardsIds": [
+      "td-d7-217",
+      "td-d5-61"
+    ],
+    "passcode": [
+      "panda"
+    ]
+  },
+  "7915e": {
+    "id": "7915e",
+    "imageCardsIds": [
+      "td-d5-79"
+    ],
+    "passcode": [
+      "lata"
+    ]
+  },
+  "7940f": {
+    "id": "7940f",
+    "imageCardsIds": [
+      "td-d5-250",
+      "td-d7-89",
+      "td-d5-01",
+      "td-d1-127",
+      "td-d5-22",
+      "td-d4-125"
+    ],
+    "passcode": [
+      "chapéu"
+    ]
+  },
+  "79d12": {
+    "id": "79d12",
+    "imageCardsIds": [
+      "td-d2-05"
+    ],
+    "passcode": [
+      "imaginação"
+    ]
+  },
+  "7a3e0": {
+    "id": "7a3e0",
+    "imageCardsIds": [
+      "td-d4-224"
+    ],
+    "passcode": [
+      "saxofone"
+    ]
+  },
+  "7b29a": {
+    "id": "7b29a",
+    "imageCardsIds": [
+      "td-d10-93"
+    ],
+    "passcode": [
+      "afro"
+    ]
+  },
+  "7b2ce": {
+    "id": "7b2ce",
+    "imageCardsIds": [
+      "td-d10-211"
+    ],
+    "passcode": [
+      "fruta",
+      "frutífero",
+      "fruto"
+    ]
+  },
+  "7bbc0": {
+    "id": "7bbc0",
+    "imageCardsIds": [
+      "td-d1-33",
+      "td-d1-26",
+      "td-d7-74",
+      "td-d7-89",
+      "td-d1-99",
+      "td-d10-226",
+      "td-d4-79",
+      "td-d8-40",
+      "td-d4-74",
+      "td-d2-124",
+      "td-d9-72",
+      "td-d10-93"
+    ],
+    "passcode": [
+      "pizza",
+      "pizzaria"
+    ]
+  },
+  "7ca2f": {
+    "id": "7ca2f",
+    "imageCardsIds": [
+      "td-d1-48"
+    ],
+    "passcode": [
+      "careca",
+      "calvície"
+    ]
+  },
+  "7cd42": {
+    "id": "7cd42",
+    "imageCardsIds": [
+      "td-d8-151"
+    ],
+    "passcode": [
+      "cinto",
+      "cinturão"
+    ]
+  },
+  "7d48d": {
+    "id": "7d48d",
+    "imageCardsIds": [
+      "td-d5-250",
+      "td-d4-155",
+      "td-d5-134",
+      "td-d10-119",
+      "td-d1-127",
+      "td-d5-158",
+      "td-d3-149",
+      "td-d10-184",
+      "td-d7-104"
+    ],
+    "passcode": [
+      "cartola"
+    ]
+  },
+  "7fe39": {
+    "id": "7fe39",
+    "imageCardsIds": [
+      "td-d2-249",
+      "td-d10-238"
+    ],
+    "passcode": [
+      "cadeira",
+      "assento"
+    ]
+  },
+  "80a5b": {
+    "id": "80a5b",
+    "imageCardsIds": [
+      "td-d11-105"
+    ],
+    "passcode": [
+      "semáforo"
+    ]
+  },
+  "81dbc": {
+    "id": "81dbc",
+    "imageCardsIds": [
+      "td-d10-112"
+    ],
+    "passcode": [
+      "garfo"
+    ]
+  },
+  "856a7": {
+    "id": "856a7",
+    "imageCardsIds": [
+      "td-d4-215",
+      "td-d10-223",
+      "td-d1-171",
+      "td-d3-179",
+      "td-d6-38"
+    ],
+    "passcode": [
+      "linhas",
+      "tiras",
+      "fitas"
+    ]
+  },
+  "85c05": {
+    "id": "85c05",
+    "imageCardsIds": [
+      "td-d12-21"
+    ],
+    "passcode": [
+      "acampamento"
+    ]
+  },
+  "8640f": {
+    "id": "8640f",
+    "imageCardsIds": [
+      "td-d1-127"
+    ],
+    "passcode": [
+      "malvado"
+    ]
+  },
+  "86ab5": {
+    "id": "86ab5",
+    "imageCardsIds": [
+      "td-d5-127"
+    ],
+    "passcode": [
+      "espaço"
+    ]
+  },
+  "86b41": {
+    "id": "86b41",
+    "imageCardsIds": [
+      "td-d7-247"
+    ],
+    "passcode": [
+      "manto"
+    ]
+  },
+  "88f51": {
+    "id": "88f51",
+    "imageCardsIds": [
+      "td-d1-153"
+    ],
+    "passcode": [
+      "roda"
+    ]
+  },
+  "8a3f4": {
+    "id": "8a3f4",
+    "imageCardsIds": [
+      "td-d7-162",
+      "td-d2-120"
+    ],
+    "passcode": [
+      "psicodélico"
+    ]
+  },
+  "8b854": {
+    "id": "8b854",
+    "imageCardsIds": [
+      "td-d6-153"
+    ],
+    "passcode": [
+      "cobertor",
+      "manta"
+    ]
+  },
+  "8bad3": {
+    "id": "8bad3",
+    "imageCardsIds": [
+      "td-d4-22"
+    ],
+    "passcode": [
+      "dinheiro"
+    ]
+  },
+  "8cd9a": {
+    "id": "8cd9a",
+    "imageCardsIds": [
+      "td-d7-228"
+    ],
+    "passcode": [
+      "sol"
+    ]
+  },
+  "8d0d9": {
+    "id": "8d0d9",
+    "imageCardsIds": [
+      "td-d11-82"
+    ],
+    "passcode": [
+      "cone"
+    ]
+  },
+  "8d61c": {
+    "id": "8d61c",
+    "imageCardsIds": [
+      "td-d6-90",
+      "td-d7-251"
+    ],
+    "passcode": [
+      "ilha"
+    ]
+  },
+  "8d929": {
+    "id": "8d929",
+    "imageCardsIds": [
+      "td-d7-20",
+      "td-d5-58",
+      "td-d2-209"
+    ],
+    "passcode": [
+      "piano"
+    ]
+  },
+  "8d931": {
+    "id": "8d931",
+    "imageCardsIds": [
+      "td-d1-84",
+      "td-d1-198",
+      "td-d5-134",
+      "td-d11-119",
+      "td-d2-225",
+      "td-d7-123",
+      "td-d7-221",
+      "td-d10-127"
+    ],
+    "passcode": [
+      "amor",
+      "paixão",
+      "coração",
+      "sentimento"
+    ]
+  },
+  "8e1d9": {
+    "id": "8e1d9",
+    "imageCardsIds": [
+      "td-d1-153"
+    ],
+    "passcode": [
+      "engrenagens"
+    ]
+  },
+  "8ea5b": {
+    "id": "8ea5b",
+    "imageCardsIds": [
+      "td-d11-153"
+    ],
+    "passcode": [
+      "santa"
+    ]
+  },
+  "8f590": {
+    "id": "8f590",
+    "imageCardsIds": [
+      "td-d1-01"
+    ],
+    "passcode": [
+      "remo"
+    ]
+  },
+  "8f929": {
+    "id": "8f929",
+    "imageCardsIds": [
+      "td-d12-248",
+      "td-d3-61",
+      "td-d12-68"
+    ],
+    "passcode": [
+      "lego"
+    ]
+  },
+  "90f65": {
+    "id": "90f65",
+    "imageCardsIds": [
+      "td-d10-183",
+      "td-d2-42",
+      "td-d4-123",
+      "td-d11-11"
+    ],
+    "passcode": [
+      "cartas",
+      "carteado",
+      "carta",
+      "baralho"
+    ]
+  },
+  "925ad": {
+    "id": "925ad",
+    "imageCardsIds": [
+      "td-d1-07",
+      "td-d6-111",
+      "td-d10-215",
+      "td-d2-138"
+    ],
+    "passcode": [
+      "animais"
+    ]
+  },
+  "92e97": {
+    "id": "92e97",
+    "imageCardsIds": [
+      "td-d4-125"
+    ],
+    "passcode": [
+      "espantalho"
+    ]
+  },
+  "9306c": {
+    "id": "9306c",
+    "imageCardsIds": [
+      "td-d1-05",
+      "td-d10-215",
+      "td-d3-43"
+    ],
+    "passcode": [
+      "pássaros"
+    ]
+  },
+  "9412c": {
+    "id": "9412c",
+    "imageCardsIds": [
+      "td-d11-28"
+    ],
+    "passcode": [
+      "submersão"
+    ]
+  },
+  "94bf0": {
+    "id": "94bf0",
+    "imageCardsIds": [
+      "td-d7-163"
+    ],
+    "passcode": [
+      "plateia"
+    ]
+  },
+  "94fcf": {
+    "id": "94fcf",
+    "imageCardsIds": [
+      "td-d1-208"
+    ],
+    "passcode": [
+      "experimento",
+      "experiência",
+      "científico"
+    ]
+  },
+  "96b40": {
+    "id": "96b40",
+    "imageCardsIds": [
+      "td-d4-223"
+    ],
+    "passcode": [
+      "xícaras"
+    ]
+  },
+  "96e40": {
+    "id": "96e40",
+    "imageCardsIds": [
+      "td-d7-217",
+      "td-d6-241"
+    ],
+    "passcode": [
+      "papagaio"
+    ]
+  },
+  "973d6": {
+    "id": "973d6",
+    "imageCardsIds": [
+      "td-d9-164",
+      "td-d5-96"
+    ],
+    "passcode": [
+      "mapa"
+    ]
+  },
+  "9872b": {
+    "id": "9872b",
+    "imageCardsIds": [
+      "td-d1-234"
+    ],
+    "passcode": [
+      "escola"
+    ]
+  },
+  "98c4b": {
+    "id": "98c4b",
+    "imageCardsIds": [
+      "td-d7-182",
+      "td-d2-169"
+    ],
+    "passcode": [
+      "bicicleta"
+    ]
+  },
+  "9be13": {
+    "id": "9be13",
+    "imageCardsIds": [
+      "td-d11-66"
+    ],
+    "passcode": [
+      "joias"
+    ]
+  },
+  "9c56a": {
+    "id": "9c56a",
+    "imageCardsIds": [
+      "td-d2-240"
+    ],
+    "passcode": [
+      "guitarra"
+    ]
+  },
+  "9d6a5": {
+    "id": "9d6a5",
+    "imageCardsIds": [
+      "td-d4-112"
+    ],
+    "passcode": [
+      "lembrança"
+    ]
+  },
+  "9e83d": {
+    "id": "9e83d",
+    "imageCardsIds": [
+      "td-d5-95",
+      "td-d11-159",
+      "td-d7-192"
+    ],
+    "passcode": [
+      "neve"
+    ]
+  },
+  "a0d85": {
+    "id": "a0d85",
+    "imageCardsIds": [
+      "td-d1-104",
+      "td-d5-227",
+      "td-d8-243",
+      "td-d2-193",
+      "td-d7-28",
+      "td-d8-67",
+      "td-d10-25",
+      "td-d7-08"
+    ],
+    "passcode": [
+      "elefante"
+    ]
+  },
+  "a1906": {
+    "id": "a1906",
+    "imageCardsIds": [
+      "td-d1-78",
+      "td-d5-42"
+    ],
+    "passcode": [
+      "triângulo"
+    ]
+  },
+  "a1c2a": {
+    "id": "a1c2a",
+    "imageCardsIds": [
+      "td-d1-196",
+      "td-d4-233",
+      "td-d6-88"
+    ],
+    "passcode": [
+      "deserto"
+    ]
+  },
+  "a2201": {
+    "id": "a2201",
+    "imageCardsIds": [
+      "td-d8-108"
+    ],
+    "passcode": [
+      "escolhas"
+    ]
+  },
+  "a2634": {
+    "id": "a2634",
+    "imageCardsIds": [
+      "td-d1-01",
+      "td-d1-07"
+    ],
+    "passcode": [
+      "embarcação"
+    ]
+  },
+  "a3185": {
+    "id": "a3185",
+    "imageCardsIds": [
+      "td-d1-241",
+      "td-d5-29",
+      "td-d3-110"
+    ],
+    "passcode": [
+      "jantar",
+      "refeição",
+      "almoço"
+    ]
+  },
+  "a4a1c": {
+    "id": "a4a1c",
+    "imageCardsIds": [
+      "td-d1-235"
+    ],
+    "passcode": [
+      "realeza",
+      "monarquia"
+    ]
+  },
+  "a4db2": {
+    "id": "a4db2",
+    "imageCardsIds": [
+      "td-d1-214",
+      "td-d3-16"
+    ],
+    "passcode": [
+      "carrinho"
+    ]
+  },
+  "a4e4a": {
+    "id": "a4e4a",
+    "imageCardsIds": [
+      "td-d1-41"
+    ],
+    "passcode": [
+      "capeta"
+    ]
+  },
+  "a4f53": {
+    "id": "a4f53",
+    "imageCardsIds": [
+      "td-d1-191"
+    ],
+    "passcode": [
+      "tijolos"
+    ]
+  },
+  "a5062": {
+    "id": "a5062",
+    "imageCardsIds": [
+      "td-d9-164",
+      "td-d7-142"
+    ],
+    "passcode": [
+      "mundo"
+    ]
+  },
+  "a5373": {
+    "id": "a5373",
+    "imageCardsIds": [
+      "td-d1-207",
+      "td-d1-232",
+      "td-d3-99",
+      "td-d2-29"
+    ],
+    "passcode": [
+      "fúria",
+      "raiva"
+    ]
+  },
+  "a5c7a": {
+    "id": "a5c7a",
+    "imageCardsIds": [
+      "td-d6-215",
+      "td-d11-153"
+    ],
+    "passcode": [
+      "vaso"
+    ]
+  },
+  "a66f8": {
+    "id": "a66f8",
+    "imageCardsIds": [
+      "td-d4-169",
+      "td-d10-77"
+    ],
+    "passcode": [
+      "música"
+    ]
+  },
+  "a6e0d": {
+    "id": "a6e0d",
+    "imageCardsIds": [
+      "td-d9-115"
+    ],
+    "passcode": [
+      "armário"
+    ]
+  },
+  "a813e": {
+    "id": "a813e",
+    "imageCardsIds": [
+      "td-d7-163"
+    ],
+    "passcode": [
+      "espetáculo",
+      "espetacular"
+    ]
+  },
+  "a86e0": {
+    "id": "a86e0",
+    "imageCardsIds": [
+      "td-d1-84",
+      "td-d7-162",
+      "td-d12-49",
+      "td-d4-223",
+      "td-d2-100",
+      "td-d8-210",
+      "td-d5-22",
+      "td-d3-179",
+      "td-d11-49"
+    ],
+    "passcode": [
+      "gato",
+      "gatos"
+    ]
+  },
+  "a905a": {
+    "id": "a905a",
+    "imageCardsIds": [
+      "td-d6-18"
+    ],
+    "passcode": [
+      "prédio"
+    ]
+  },
+  "a9705": {
+    "id": "a9705",
+    "imageCardsIds": [
+      "td-d3-164"
+    ],
+    "passcode": [
+      "foguete"
+    ]
+  },
+  "a97bd": {
+    "id": "a97bd",
+    "imageCardsIds": [
+      "td-d9-61",
+      "td-d11-153"
+    ],
+    "passcode": [
+      "estátua"
+    ]
+  },
+  "a9d68": {
+    "id": "a9d68",
+    "imageCardsIds": [
+      "td-d1-26",
+      "td-d3-155",
+      "td-d12-92",
+      "td-d4-221",
+      "td-d5-42"
+    ],
+    "passcode": [
+      "olho",
+      "observação",
+      "olhar",
+      "visão"
+    ]
+  },
+  "abfa0": {
+    "id": "abfa0",
+    "imageCardsIds": [
+      "td-d5-39"
+    ],
+    "passcode": [
+      "aventura"
+    ]
+  },
+  "ad8dc": {
+    "id": "ad8dc",
+    "imageCardsIds": [
+      "td-d6-113"
+    ],
+    "passcode": [
+      "majestoso"
+    ]
+  },
+  "addae": {
+    "id": "addae",
+    "imageCardsIds": [
+      "td-d4-224"
+    ],
+    "passcode": [
+      "cookie"
+    ]
+  },
+  "ae2ac": {
+    "id": "ae2ac",
+    "imageCardsIds": [
+      "td-d1-09",
+      "td-d10-129",
+      "td-d5-165",
+      "td-d2-100",
+      "td-d6-164",
+      "td-d8-133",
+      "td-d7-125"
+    ],
+    "passcode": [
+      "máscaras",
+      "máscara",
+      "mascarado"
+    ]
+  },
+  "ae4f7": {
+    "id": "ae4f7",
+    "imageCardsIds": [
+      "td-d12-49",
+      "td-d2-103",
+      "td-d11-125",
+      "td-d12-194",
+      "td-d12-52",
+      "td-d9-182",
+      "td-d4-202",
+      "td-d5-162",
+      "td-d1-78",
+      "td-d4-112"
+    ],
+    "passcode": [
+      "chuva"
+    ]
+  },
+  "ae857": {
+    "id": "ae857",
+    "imageCardsIds": [
+      "td-d2-29"
+    ],
+    "passcode": [
+      "face"
+    ]
+  },
+  "afb96": {
+    "id": "afb96",
+    "imageCardsIds": [
+      "td-d1-171",
+      "td-d6-239"
+    ],
+    "passcode": [
+      "computador"
+    ]
+  },
+  "aff5c": {
+    "id": "aff5c",
+    "imageCardsIds": [
+      "td-d3-43"
+    ],
+    "passcode": [
+      "escoteiro"
+    ]
+  },
+  "b097e": {
+    "id": "b097e",
+    "imageCardsIds": [
+      "td-d6-164",
+      "td-d8-226"
+    ],
+    "passcode": [
+      "noite"
+    ]
+  },
+  "b0b0d": {
+    "id": "b0b0d",
+    "imageCardsIds": [
+      "td-d8-191"
+    ],
+    "passcode": [
+      "espionagem"
+    ]
+  },
+  "b1158": {
+    "id": "b1158",
+    "imageCardsIds": [
+      "td-d11-160"
+    ],
+    "passcode": [
+      "algodão"
+    ]
+  },
+  "b1545": {
+    "id": "b1545",
+    "imageCardsIds": [
+      "td-d3-244"
+    ],
+    "passcode": [
+      "picolé"
+    ]
+  },
+  "b2223": {
+    "id": "b2223",
+    "imageCardsIds": [
+      "td-d1-217"
+    ],
+    "passcode": [
+      "equino"
+    ]
+  },
+  "b2b6b": {
+    "id": "b2b6b",
+    "imageCardsIds": [
+      "td-d3-44",
+      "td-d8-242",
+      "td-d3-36",
+      "td-d4-03"
+    ],
+    "passcode": [
+      "crianças"
+    ]
+  },
+  "b3028": {
+    "id": "b3028",
+    "imageCardsIds": [
+      "td-d7-89"
+    ],
+    "passcode": [
+      "rinoceronte"
+    ]
+  },
+  "b3dc5": {
+    "id": "b3dc5",
+    "imageCardsIds": [
+      "td-d8-226"
+    ],
+    "passcode": [
+      "raposa"
+    ]
+  },
+  "b4c7e": {
+    "id": "b4c7e",
+    "imageCardsIds": [
+      "td-d8-191"
+    ],
+    "passcode": [
+      "coisas"
+    ]
+  },
+  "b4e93": {
+    "id": "b4e93",
+    "imageCardsIds": [
+      "td-d7-120",
+      "td-d1-162",
+      "td-d2-62"
+    ],
+    "passcode": [
+      "dança"
+    ]
+  },
+  "b5212": {
+    "id": "b5212",
+    "imageCardsIds": [
+      "td-d10-178"
+    ],
+    "passcode": [
+      "remédio"
+    ]
+  },
+  "b5af3": {
+    "id": "b5af3",
+    "imageCardsIds": [
+      "td-d4-158"
+    ],
+    "passcode": [
+      "preto e branco"
+    ]
+  },
+  "b5bfc": {
+    "id": "b5bfc",
+    "imageCardsIds": [
+      "td-d9-72",
+      "td-d11-84",
+      "td-d3-75"
+    ],
+    "passcode": [
+      "caixa"
+    ]
+  },
+  "b5ed7": {
+    "id": "b5ed7",
+    "imageCardsIds": [
+      "td-d10-180",
+      "td-d9-168"
+    ],
+    "passcode": [
+      "abelha"
+    ]
+  },
+  "b6c90": {
+    "id": "b6c90",
+    "imageCardsIds": [
+      "td-d7-89",
+      "td-d4-129"
+    ],
+    "passcode": [
+      "aniversário"
+    ]
+  },
+  "b7721": {
+    "id": "b7721",
+    "imageCardsIds": [
+      "td-d6-153"
+    ],
+    "passcode": [
+      "lagarto"
+    ]
+  },
+  "b7767": {
+    "id": "b7767",
+    "imageCardsIds": [
+      "td-d6-186",
+      "td-d3-207"
+    ],
+    "passcode": [
+      "violão"
+    ]
+  },
+  "b78af": {
+    "id": "b78af",
+    "imageCardsIds": [
+      "td-d12-170"
+    ],
+    "passcode": [
+      "gigante"
+    ]
+  },
+  "b7900": {
+    "id": "b7900",
+    "imageCardsIds": [
+      "td-d9-217"
+    ],
+    "passcode": [
+      "paraquedas"
+    ]
+  },
+  "b7a59": {
+    "id": "b7a59",
+    "imageCardsIds": [
+      "td-d4-162"
+    ],
+    "passcode": [
+      "vídeo game"
+    ]
+  },
+  "b7c2f": {
+    "id": "b7c2f",
+    "imageCardsIds": [
+      "td-d4-67"
+    ],
+    "passcode": [
+      "bagunça"
+    ]
+  },
+  "b9c0c": {
+    "id": "b9c0c",
+    "imageCardsIds": [
+      "td-d10-119",
+      "td-d4-126",
+      "td-d9-133"
+    ],
+    "passcode": [
+      "político"
+    ]
+  },
+  "b9dcd": {
+    "id": "b9dcd",
+    "imageCardsIds": [
+      "td-d5-227",
+      "td-d11-54",
+      "td-d4-221",
+      "td-d3-207",
+      "td-d6-239",
+      "td-d2-198"
+    ],
+    "passcode": [
+      "praia"
+    ]
+  },
+  "bb04e": {
+    "id": "bb04e",
+    "imageCardsIds": [
+      "td-d5-215",
+      "td-d5-162",
+      "td-d4-112"
+    ],
+    "passcode": [
+      "depressão"
+    ]
+  },
+  "bb4fc": {
+    "id": "bb4fc",
+    "imageCardsIds": [
+      "td-d6-38"
+    ],
+    "passcode": [
+      "laços"
+    ]
+  },
+  "bcc2b": {
+    "id": "bcc2b",
+    "imageCardsIds": [
+      "td-d1-72"
+    ],
+    "passcode": [
+      "descamisado"
+    ]
+  },
+  "bd4e5": {
+    "id": "bd4e5",
+    "imageCardsIds": [
+      "td-d1-19"
+    ],
+    "passcode": [
+      "cisne"
+    ]
+  },
+  "bdd02": {
+    "id": "bdd02",
+    "imageCardsIds": [
+      "td-d12-134",
+      "td-d12-135",
+      "td-d8-108"
+    ],
+    "passcode": [
+      "interrogação",
+      "questionamento",
+      "pergunta",
+      "dúvida"
+    ]
+  },
+  "be2c9": {
+    "id": "be2c9",
+    "imageCardsIds": [
+      "td-d2-103"
+    ],
+    "passcode": [
+      "suco"
+    ]
+  },
+  "bf4b9": {
+    "id": "bf4b9",
+    "imageCardsIds": [
+      "td-d12-21"
+    ],
+    "passcode": [
+      "mapas"
+    ]
+  },
+  "c0582": {
+    "id": "c0582",
+    "imageCardsIds": [
+      "td-d1-211"
+    ],
+    "passcode": [
+      "aula"
+    ]
+  },
+  "c2cab": {
+    "id": "c2cab",
+    "imageCardsIds": [
+      "td-d4-129",
+      "td-d2-106"
+    ],
+    "passcode": [
+      "parque"
+    ]
+  },
+  "c3484": {
+    "id": "c3484",
+    "imageCardsIds": [
+      "td-d1-01",
+      "td-d1-02",
+      "td-d1-174",
+      "td-d6-212",
+      "td-d11-84",
+      "td-d6-113",
+      "td-d10-239"
+    ],
+    "passcode": [
+      "água"
+    ]
+  },
+  "c5209": {
+    "id": "c5209",
+    "imageCardsIds": [
+      "td-d7-47"
+    ],
+    "passcode": [
+      "pão"
+    ]
+  },
+  "c57ed": {
+    "id": "c57ed",
+    "imageCardsIds": [
+      "td-d1-72",
+      "td-d8-41",
+      "td-d7-221"
+    ],
+    "passcode": [
+      "asas"
+    ]
+  },
+  "c5a6e": {
+    "id": "c5a6e",
+    "imageCardsIds": [
+      "td-d11-153"
+    ],
+    "passcode": [
+      "fita"
+    ]
+  },
+  "c78d1": {
+    "id": "c78d1",
+    "imageCardsIds": [
+      "td-d9-119",
+      "td-d9-26"
+    ],
+    "passcode": [
+      "poções"
+    ]
+  },
+  "c78de": {
+    "id": "c78de",
+    "imageCardsIds": [
+      "td-d4-125"
+    ],
+    "passcode": [
+      "palha"
+    ]
+  },
+  "c8271": {
+    "id": "c8271",
+    "imageCardsIds": [
+      "td-d1-115",
+      "td-d9-165",
+      "td-d11-149"
+    ],
+    "passcode": [
+      "cozinha"
+    ]
+  },
+  "ca369": {
+    "id": "ca369",
+    "imageCardsIds": [
+      "td-d5-58"
+    ],
+    "passcode": [
+      "comida"
+    ]
+  },
+  "cb19f": {
+    "id": "cb19f",
+    "imageCardsIds": [
+      "td-d7-251"
+    ],
+    "passcode": [
+      "coqueiro"
+    ]
+  },
+  "cb80f": {
+    "id": "cb80f",
+    "imageCardsIds": [
+      "td-d5-134",
+      "td-d11-105",
+      "td-d8-243",
+      "td-d8-212",
+      "td-d3-248",
+      "td-d9-116",
+      "td-d2-37"
+    ],
+    "passcode": [
+      "casamento"
+    ]
+  },
+  "cbd31": {
+    "id": "cbd31",
+    "imageCardsIds": [
+      "td-d9-116"
+    ],
+    "passcode": [
+      "noiva"
+    ]
+  },
+  "cc380": {
+    "id": "cc380",
+    "imageCardsIds": [
+      "td-d2-100",
+      "td-d10-180",
+      "td-d9-92",
+      "td-d8-41",
+      "td-d9-115",
+      "td-d8-107",
+      "td-d8-87",
+      "td-d10-213"
+    ],
+    "passcode": [
+      "menina"
+    ]
+  },
+  "ce68a": {
+    "id": "ce68a",
+    "imageCardsIds": [
+      "td-d8-34",
+      "td-d2-138"
+    ],
+    "passcode": [
+      "caminhão"
+    ]
+  },
+  "cf2b6": {
+    "id": "cf2b6",
+    "imageCardsIds": [
+      "td-d12-116"
+    ],
+    "passcode": [
+      "língua"
+    ]
+  },
+  "cf80e": {
+    "id": "cf80e",
+    "imageCardsIds": [
+      "td-d3-110"
+    ],
+    "passcode": [
+      "sobremesa"
+    ]
+  },
+  "cfc74": {
+    "id": "cfc74",
+    "imageCardsIds": [
+      "td-d1-38",
+      "td-d9-113",
+      "td-d2-91"
+    ],
+    "passcode": [
+      "planetas",
+      "planetário"
+    ]
+  },
+  "cfd56": {
+    "id": "cfd56",
+    "imageCardsIds": [
+      "td-d4-224",
+      "td-d3-43",
+      "td-d8-85"
+    ],
+    "passcode": [
+      "homem"
+    ]
+  },
+  "cfd6d": {
+    "id": "cfd6d",
+    "imageCardsIds": [
+      "td-d12-162"
+    ],
+    "passcode": [
+      "antigo"
+    ]
+  },
+  "d05dd": {
+    "id": "d05dd",
+    "imageCardsIds": [
+      "td-d9-173"
+    ],
+    "passcode": [
+      "pássado"
+    ]
+  },
+  "d19bd": {
+    "id": "d19bd",
+    "imageCardsIds": [
+      "td-d3-232"
+    ],
+    "passcode": [
+      "adolescentes"
+    ]
+  },
+  "d1f02": {
+    "id": "d1f02",
+    "imageCardsIds": [
+      "td-d6-158",
+      "td-d5-79"
+    ],
+    "passcode": [
+      "prateleira"
+    ]
+  },
+  "d2060": {
+    "id": "d2060",
+    "imageCardsIds": [
+      "td-d4-224",
+      "td-d1-115",
+      "td-d10-169",
+      "td-d10-163",
+      "td-d6-239"
+    ],
+    "passcode": [
+      "chef",
+      "cozinheiro",
+      "gourmet"
+    ]
+  },
+  "d2921": {
+    "id": "d2921",
+    "imageCardsIds": [
+      "td-d1-212"
+    ],
+    "passcode": [
+      "reunião"
+    ]
+  },
+  "d293c": {
+    "id": "d293c",
+    "imageCardsIds": [
+      "td-d3-61"
+    ],
+    "passcode": [
+      "travesseiro"
+    ]
+  },
+  "d2bca": {
+    "id": "d2bca",
+    "imageCardsIds": [
+      "td-d5-60",
+      "td-d3-94",
+      "td-d3-180"
+    ],
+    "passcode": [
+      "encanador"
+    ]
+  },
+  "d3716": {
+    "id": "d3716",
+    "imageCardsIds": [
+      "td-d1-227",
+      "td-d4-140",
+      "td-d7-12"
+    ],
+    "passcode": [
+      "bruxa",
+      "bruxaria",
+      "feiticeira",
+      "feitiçaria",
+      "feitiço",
+      "magos",
+      "magia"
+    ]
+  },
+  "d4407": {
+    "id": "d4407",
+    "imageCardsIds": [
+      "td-d1-48"
+    ],
+    "passcode": [
+      "barba",
+      "barbudo"
+    ]
+  },
+  "d4b6c": {
+    "id": "d4b6c",
+    "imageCardsIds": [
+      "td-d2-241",
+      "td-d8-242",
+      "td-d10-193",
+      "td-d8-228",
+      "td-d11-153"
+    ],
+    "passcode": [
+      "fantasma",
+      "fantasmagórico",
+      "alma",
+      "almas",
+      "assombração"
+    ]
+  },
+  "d4bbb": {
+    "id": "d4bbb",
+    "imageCardsIds": [
+      "td-d9-154",
+      "td-d12-162"
+    ],
+    "passcode": [
+      "selva"
+    ]
+  },
+  "d5621": {
+    "id": "d5621",
+    "imageCardsIds": [
+      "td-d2-240"
+    ],
+    "passcode": [
+      "microfone"
+    ]
+  },
+  "d5b1b": {
+    "id": "d5b1b",
+    "imageCardsIds": [
+      "td-d1-96"
+    ],
+    "passcode": [
+      "natal"
+    ]
+  },
+  "d5cbf": {
+    "id": "d5cbf",
+    "imageCardsIds": [
+      "td-d10-169"
+    ],
+    "passcode": [
+      "flamingo"
+    ]
+  },
+  "d612f": {
+    "id": "d612f",
+    "imageCardsIds": [
+      "td-d6-164"
+    ],
+    "passcode": [
+      "morcego"
+    ]
+  },
+  "d6143": {
+    "id": "d6143",
+    "imageCardsIds": [
+      "td-d4-223"
+    ],
+    "passcode": [
+      "pilha"
+    ]
+  },
+  "d663e": {
+    "id": "d663e",
+    "imageCardsIds": [
+      "td-d6-38"
+    ],
+    "passcode": [
+      "pato"
+    ]
+  },
+  "d6759": {
+    "id": "d6759",
+    "imageCardsIds": [
+      "td-d7-163"
+    ],
+    "passcode": [
+      "cortinas"
+    ]
+  },
+  "d7ad5": {
+    "id": "d7ad5",
+    "imageCardsIds": [
+      "td-d1-53",
+      "td-d7-20",
+      "td-d8-229",
+      "td-d9-154"
+    ],
+    "passcode": [
+      "xadrez"
+    ]
+  },
+  "d8631": {
+    "id": "d8631",
+    "imageCardsIds": [
+      "td-d10-206",
+      "td-d9-83",
+      "td-d9-217"
+    ],
+    "passcode": [
+      "soldado"
+    ]
+  },
+  "d8d31": {
+    "id": "d8d31",
+    "imageCardsIds": [
+      "td-d7-20",
+      "td-d9-119"
+    ],
+    "passcode": [
+      "piso"
+    ]
+  },
+  "d8e4d": {
+    "id": "d8e4d",
+    "imageCardsIds": [
+      "td-d1-216"
+    ],
+    "passcode": [
+      "roxo"
+    ]
+  },
+  "d9a33": {
+    "id": "d9a33",
+    "imageCardsIds": [
+      "td-d5-201"
+    ],
+    "passcode": [
+      "monstros"
+    ]
+  },
+  "daf3f": {
+    "id": "daf3f",
+    "imageCardsIds": [
+      "td-d8-124",
+      "td-d10-42",
+      "td-d2-120",
+      "td-d2-45",
+      "td-d8-191",
+      "td-d10-238",
+      "td-d4-47"
+    ],
+    "passcode": [
+      "portal"
+    ]
+  },
+  "dc1cd": {
+    "id": "dc1cd",
+    "imageCardsIds": [
+      "td-d7-08"
+    ],
+    "passcode": [
+      "dourado"
+    ]
+  },
+  "dc1df": {
+    "id": "dc1df",
+    "imageCardsIds": [
+      "td-d1-11",
+      "td-d1-74",
+      "td-d9-25",
+      "td-d9-104",
+      "td-d5-238"
+    ],
+    "passcode": [
+      "castelo"
+    ]
+  },
+  "dc452": {
+    "id": "dc452",
+    "imageCardsIds": [
+      "td-d3-94",
+      "td-d5-64"
+    ],
+    "passcode": [
+      "rato"
+    ]
+  },
+  "dcc63": {
+    "id": "dcc63",
+    "imageCardsIds": [
+      "td-d10-25"
+    ],
+    "passcode": [
+      "girafa"
+    ]
+  },
+  "de164": {
+    "id": "de164",
+    "imageCardsIds": [
+      "td-d7-47"
+    ],
+    "passcode": [
+      "almofada"
+    ]
+  },
+  "de755": {
+    "id": "de755",
+    "imageCardsIds": [
+      "td-d3-158",
+      "td-d4-114",
+      "td-d3-100",
+      "td-d4-158"
+    ],
+    "passcode": [
+      "vaca"
+    ]
+  },
+  "dec54": {
+    "id": "dec54",
+    "imageCardsIds": [
+      "td-d4-202",
+      "td-d4-112",
+      "td-d10-238"
+    ],
+    "passcode": [
+      "solidão"
+    ]
+  },
+  "df222": {
+    "id": "df222",
+    "imageCardsIds": [
+      "td-d3-202",
+      "td-d9-235",
+      "td-d7-247",
+      "td-d6-215"
+    ],
+    "passcode": [
+      "urso"
+    ]
+  },
+  "e14e6": {
+    "id": "e14e6",
+    "imageCardsIds": [
+      "td-d1-217"
+    ],
+    "passcode": [
+      "zebra"
+    ]
+  },
+  "e18fb": {
+    "id": "e18fb",
+    "imageCardsIds": [
+      "td-d7-23",
+      "td-d8-108",
+      "td-d4-112"
+    ],
+    "passcode": [
+      "pensamento"
+    ]
+  },
+  "e1a77": {
+    "id": "e1a77",
+    "imageCardsIds": [
+      "td-d1-203",
+      "td-d5-30"
+    ],
+    "passcode": [
+      "confete",
+      "celebração"
+    ]
+  },
+  "e1dfe": {
+    "id": "e1dfe",
+    "imageCardsIds": [
+      "td-d9-104"
+    ],
+    "passcode": [
+      "cetro"
+    ]
+  },
+  "e1e35": {
+    "id": "e1e35",
+    "imageCardsIds": [
+      "td-d6-111"
+    ],
+    "passcode": [
+      "árvores"
+    ]
+  },
+  "e24c4": {
+    "id": "e24c4",
+    "imageCardsIds": [
+      "td-d5-30"
+    ],
+    "passcode": [
+      "nuvens"
+    ]
+  },
+  "e2b97": {
+    "id": "e2b97",
+    "imageCardsIds": [
+      "td-d2-249",
+      "td-d8-93",
+      "td-d9-04"
+    ],
+    "passcode": [
+      "hamburger"
+    ]
+  },
+  "e32c6": {
+    "id": "e32c6",
+    "imageCardsIds": [
+      "td-d8-63",
+      "td-d6-29",
+      "td-d10-163"
+    ],
+    "passcode": [
+      "porco"
+    ]
+  },
+  "e34ff": {
+    "id": "e34ff",
+    "imageCardsIds": [
+      "td-d2-37"
+    ],
+    "passcode": [
+      "correr"
+    ]
+  },
+  "e3c71": {
+    "id": "e3c71",
+    "imageCardsIds": [
+      "td-d9-83"
+    ],
+    "passcode": [
+      "zumbi"
+    ]
+  },
+  "e414a": {
+    "id": "e414a",
+    "imageCardsIds": [
+      "td-d5-39"
+    ],
+    "passcode": [
+      "montanha"
+    ]
+  },
+  "e4536": {
+    "id": "e4536",
+    "imageCardsIds": [
+      "td-d7-121"
+    ],
+    "passcode": [
+      "corpo"
+    ]
+  },
+  "e4d11": {
+    "id": "e4d11",
+    "imageCardsIds": [
+      "td-d11-77"
+    ],
+    "passcode": [
+      "iceberg"
+    ]
+  },
+  "e5623": {
+    "id": "e5623",
+    "imageCardsIds": [
+      "td-d2-193",
+      "td-d9-96"
+    ],
+    "passcode": [
+      "turista"
+    ]
+  },
+  "e5ade": {
+    "id": "e5ade",
+    "imageCardsIds": [
+      "td-d11-153"
+    ],
+    "passcode": [
+      "números"
+    ]
+  },
+  "e5cf4": {
+    "id": "e5cf4",
+    "imageCardsIds": [
+      "td-d9-235"
+    ],
+    "passcode": [
+      "tranquilidade"
+    ]
+  },
+  "e602e": {
+    "id": "e602e",
+    "imageCardsIds": [
+      "td-d12-170"
+    ],
+    "passcode": [
+      "torre"
+    ]
+  },
+  "e6c8a": {
+    "id": "e6c8a",
+    "imageCardsIds": [
+      "td-d5-39"
+    ],
+    "passcode": [
+      "trilha"
+    ]
+  },
+  "e7485": {
+    "id": "e7485",
+    "imageCardsIds": [
+      "td-d1-07",
+      "td-d6-174",
+      "td-d7-251"
+    ],
+    "passcode": [
+      "bichinhos"
+    ]
+  },
+  "e8d57": {
+    "id": "e8d57",
+    "imageCardsIds": [
+      "td-d1-141"
+    ],
+    "passcode": [
+      "creme"
+    ]
+  },
+  "e9343": {
+    "id": "e9343",
+    "imageCardsIds": [
+      "td-d6-17"
+    ],
+    "passcode": [
+      "armas",
+      "artilharia"
+    ]
+  },
+  "e96d6": {
+    "id": "e96d6",
+    "imageCardsIds": [
+      "td-d2-155",
+      "td-d3-75",
+      "td-d11-153"
+    ],
+    "passcode": [
+      "caverna",
+      "gruta"
+    ]
+  },
+  "ea8bc": {
+    "id": "ea8bc",
+    "imageCardsIds": [
+      "td-d8-32"
+    ],
+    "passcode": [
+      "biscoito"
+    ]
+  },
+  "eaa16": {
+    "id": "eaa16",
+    "imageCardsIds": [
+      "td-d10-214"
+    ],
+    "passcode": [
+      "poção"
+    ]
+  },
+  "ebd2e": {
+    "id": "ebd2e",
+    "imageCardsIds": [
+      "td-d12-107",
+      "td-d7-147",
+      "td-d4-155",
+      "td-d3-47",
+      "td-d6-237",
+      "td-d7-104"
+    ],
+    "passcode": [
+      "macaco"
+    ]
+  },
+  "ec487": {
+    "id": "ec487",
+    "imageCardsIds": [
+      "td-d6-113"
+    ],
+    "passcode": [
+      "deuses"
+    ]
+  },
+  "ecc8e": {
+    "id": "ecc8e",
+    "imageCardsIds": [
+      "td-d1-211"
+    ],
+    "passcode": [
+      "estudantes"
+    ]
+  },
+  "ed02f": {
+    "id": "ed02f",
+    "imageCardsIds": [
+      "td-d4-233",
+      "td-d6-88"
+    ],
+    "passcode": [
+      "caveira"
+    ]
+  },
+  "ed2d9": {
+    "id": "ed2d9",
+    "imageCardsIds": [
+      "td-d11-54",
+      "td-d3-232"
+    ],
+    "passcode": [
+      "bebida"
+    ]
+  },
+  "ed796": {
+    "id": "ed796",
+    "imageCardsIds": [
+      "td-d1-211"
+    ],
+    "passcode": [
+      "professor",
+      "escolar"
+    ]
+  },
+  "eda9a": {
+    "id": "eda9a",
+    "imageCardsIds": [
+      "td-d10-33"
+    ],
+    "passcode": [
+      "pernas"
+    ]
+  },
+  "edb95": {
+    "id": "edb95",
+    "imageCardsIds": [
+      "td-d9-43"
+    ],
+    "passcode": [
+      "apartamento"
+    ]
+  },
+  "ee766": {
+    "id": "ee766",
+    "imageCardsIds": [
+      "td-d1-36",
+      "td-d1-71"
+    ],
+    "passcode": [
+      "presente",
+      "lembrancinha"
+    ]
+  },
+  "eef1c": {
+    "id": "eef1c",
+    "imageCardsIds": [
+      "td-d5-250",
+      "td-d12-182",
+      "td-d2-06",
+      "td-d7-247"
+    ],
+    "passcode": [
+      "velas"
+    ]
+  },
+  "ef254": {
+    "id": "ef254",
+    "imageCardsIds": [
+      "td-d4-42"
+    ],
+    "passcode": [
+      "esporte"
+    ]
+  },
+  "ef2a6": {
+    "id": "ef2a6",
+    "imageCardsIds": [
+      "td-d6-100",
+      "td-d1-165"
+    ],
+    "passcode": [
+      "cruz"
+    ]
+  },
+  "ef544": {
+    "id": "ef544",
+    "imageCardsIds": [
+      "td-d1-04",
+      "td-d1-174"
+    ],
+    "passcode": [
+      "peixe"
+    ]
+  },
+  "ef714": {
+    "id": "ef714",
+    "imageCardsIds": [
+      "td-d1-214"
+    ],
+    "passcode": [
+      "dados"
+    ]
+  },
+  "efa99": {
+    "id": "efa99",
+    "imageCardsIds": [
+      "td-d5-127"
+    ],
+    "passcode": [
+      "estrelas"
+    ]
+  },
+  "f03ef": {
+    "id": "f03ef",
+    "imageCardsIds": [
+      "td-d11-59"
+    ],
+    "passcode": [
+      "sangue",
+      "sanguinário"
+    ]
+  },
+  "f06c4": {
+    "id": "f06c4",
+    "imageCardsIds": [
+      "td-d1-76"
+    ],
+    "passcode": [
+      "barriga",
+      "barrigudo",
+      "pança"
+    ]
+  },
+  "f085b": {
+    "id": "f085b",
+    "imageCardsIds": [
+      "td-d10-238"
+    ],
+    "passcode": [
+      "reflexo"
+    ]
+  },
+  "f0c96": {
+    "id": "f0c96",
+    "imageCardsIds": [
+      "td-d10-239"
+    ],
+    "passcode": [
+      "peixes"
+    ]
+  },
+  "f16a5": {
+    "id": "f16a5",
+    "imageCardsIds": [
+      "td-d3-61",
+      "td-d6-174",
+      "td-d10-213"
+    ],
+    "passcode": [
+      "cogumelo"
+    ]
+  },
+  "f1769": {
+    "id": "f1769",
+    "imageCardsIds": [
+      "td-d10-213"
+    ],
+    "passcode": [
+      "grandiosidade"
+    ]
+  },
+  "f3481": {
+    "id": "f3481",
+    "imageCardsIds": [
+      "td-d11-245"
+    ],
+    "passcode": [
+      "hospital"
+    ]
+  },
+  "f357e": {
+    "id": "f357e",
+    "imageCardsIds": [
+      "td-d12-194",
+      "td-d5-64"
+    ],
+    "passcode": [
+      "chá"
+    ]
+  },
+  "f3d0a": {
+    "id": "f3d0a",
+    "imageCardsIds": [
+      "td-d12-220"
+    ],
+    "passcode": [
+      "megafone"
+    ]
+  },
+  "f43b4": {
+    "id": "f43b4",
+    "imageCardsIds": [
+      "td-d7-163"
+    ],
+    "passcode": [
+      "teatro",
+      "teatral"
+    ]
+  },
+  "f4ba6": {
+    "id": "f4ba6",
+    "imageCardsIds": [
+      "td-d4-74",
+      "td-d1-72",
+      "td-d4-74"
+    ],
+    "passcode": [
+      "sarado",
+      "músculos",
+      "fisiculturista",
+      "tanquinho"
+    ]
+  },
+  "f54e6": {
+    "id": "f54e6",
+    "imageCardsIds": [
+      "td-d3-149",
+      "td-d10-184",
+      "td-d7-104"
+    ],
+    "passcode": [
+      "balões"
+    ]
+  },
+  "f55f7": {
+    "id": "f55f7",
+    "imageCardsIds": [
+      "td-d10-23"
+    ],
+    "passcode": [
+      "baleia"
+    ]
+  },
+  "f5f08": {
+    "id": "f5f08",
+    "imageCardsIds": [
+      "td-d8-107"
+    ],
+    "passcode": [
+      "gosma",
+      "gosmento"
+    ]
+  },
+  "f704c": {
+    "id": "f704c",
+    "imageCardsIds": [
+      "td-d8-87",
+      "td-d11-200"
+    ],
+    "passcode": [
+      "loira"
+    ]
+  },
+  "f72c3": {
+    "id": "f72c3",
+    "imageCardsIds": [
+      "td-d7-142"
+    ],
+    "passcode": [
+      "ásia",
+      "asiático"
+    ]
+  },
+  "f74c7": {
+    "id": "f74c7",
+    "imageCardsIds": [
+      "td-d12-178"
+    ],
+    "passcode": [
+      "paris",
+      "parisiense",
+      "francês"
+    ]
+  },
+  "f8246": {
+    "id": "f8246",
+    "imageCardsIds": [
+      "td-d8-34",
+      "td-d4-169"
+    ],
+    "passcode": [
+      "emo"
+    ]
+  },
+  "f854c": {
+    "id": "f854c",
+    "imageCardsIds": [
+      "td-d1-81",
+      "td-d1-84"
+    ],
+    "passcode": [
+      "ratos",
+      "ratazanas",
+      "camundongos"
+    ]
+  },
+  "f8da6": {
+    "id": "f8da6",
+    "imageCardsIds": [
+      "td-d1-82",
+      "td-d9-114",
+      "td-d7-69",
+      "td-d4-56",
+      "td-d7-90",
+      "td-d3-46"
+    ],
+    "passcode": [
+      "bolha",
+      "bolhas",
+      "borbulhas"
+    ]
+  },
+  "f8dd1": {
+    "id": "f8dd1",
+    "imageCardsIds": [
+      "td-d7-97",
+      "td-d6-176"
+    ],
+    "passcode": [
+      "balão"
+    ]
+  },
+  "f8fe1": {
+    "id": "f8fe1",
+    "imageCardsIds": [
+      "td-d2-241",
+      "td-d7-111",
+      "td-d8-226",
+      "td-d5-39",
+      "td-d9-182",
+      "td-d9-104",
+      "td-d8-228"
+    ],
+    "passcode": [
+      "lua",
+      "luar",
+      "lunar"
+    ]
+  },
+  "f92bc": {
+    "id": "f92bc",
+    "imageCardsIds": [
+      "td-d8-63",
+      "td-d4-112"
+    ],
+    "passcode": [
+      "cama",
+      "acamado"
+    ]
+  },
+  "f93ca": {
+    "id": "f93ca",
+    "imageCardsIds": [
+      "td-d9-182",
+      "td-d10-79"
+    ],
+    "passcode": [
+      "onda",
+      "ondulado"
+    ]
+  },
+  "f9dd4": {
+    "id": "f9dd4",
+    "imageCardsIds": [
+      "td-d5-92",
+      "td-d4-126"
+    ],
+    "passcode": [
+      "tapete",
+      "carpete"
+    ]
+  },
+  "fa117": {
+    "id": "fa117",
+    "imageCardsIds": [
+      "td-d1-17"
+    ],
+    "passcode": [
+      "submarino"
+    ]
+  },
+  "fa224": {
+    "id": "fa224",
+    "imageCardsIds": [
+      "td-d11-200"
+    ],
+    "passcode": [
+      "corneta"
+    ]
+  },
+  "fab5f": {
+    "id": "fab5f",
+    "imageCardsIds": [
+      "td-d11-149"
+    ],
+    "passcode": [
+      "gorila"
+    ]
+  },
+  "fadd8": {
+    "id": "fadd8",
+    "imageCardsIds": [
+      "td-d10-178",
+      "td-d8-191"
+    ],
+    "passcode": [
+      "maleta",
+      "mala",
+      "bagagem"
+    ]
+  },
+  "fb099": {
+    "id": "fb099",
+    "imageCardsIds": [
+      "td-d11-82"
+    ],
+    "passcode": [
+      "grama",
+      "gramado"
+    ]
+  },
+  "fd3a1": {
+    "id": "fd3a1",
+    "imageCardsIds": [
+      "td-d10-211",
+      "td-d12-190",
+      "td-d5-129",
+      "td-d9-168",
+      "td-d5-183"
+    ],
+    "passcode": [
+      "inseto",
+      "praga",
+      "artrópode"
+    ]
+  },
+  "fd87b": {
+    "id": "fd87b",
+    "imageCardsIds": [
+      "td-d4-155",
+      "td-d9-92",
+      "td-d8-107"
+    ],
+    "passcode": [
+      "laranja",
+      "laranjada"
+    ]
+  },
+  "fe0ca": {
+    "id": "fe0ca",
+    "imageCardsIds": [
+      "td-d1-250",
+      "td-d5-30",
+      "td-d4-215",
+      "td-d3-55",
+      "td-d5-29",
+      "td-d4-129",
+      "td-d2-155",
+      "td-d10-148"
+    ],
+    "passcode": [
+      "monstro",
+      "monstruosidade",
+      "besta",
+      "bicho",
+      "monstros"
+    ]
+  },
+  "feee8": {
+    "id": "feee8",
+    "imageCardsIds": [
+      "td-d1-84"
+    ],
+    "passcode": [
+      "felino"
+    ]
+  },
+  "fef59": {
+    "id": "fef59",
+    "imageCardsIds": [
+      "td-d11-59"
+    ],
+    "passcode": [
+      "basquete"
+    ]
+  }
 }
