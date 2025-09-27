@@ -92,7 +92,8 @@
       "showTeeth",
       "wearingStripes",
       "brownClothes",
-      "greenClothes"
+      "greenClothes",
+      "shortHair"
     ],
     "note": "",
     "prompt": "50-year-old bald man"
@@ -251,6 +252,7 @@
       "blueClothes",
       "blackClothes"
     ],
+    "note": "",
     "prompt": "36-year-old white man"
   },
   "us-101": {
@@ -908,6 +910,7 @@
       "yellowClothes"
     ],
     "gbExclusive": true,
+    "note": "the black bald model",
     "prompt": "23-year-old very beautiful black woman"
   },
   "us-128": {
@@ -1027,7 +1030,7 @@
       "noAccessories"
     ],
     "gbExclusive": true,
-    "note": "",
+    "note": "the plastic surgery doll",
     "prompt": "33-year-old woman with exaggerated lip-injections"
   },
   "us-132": {
@@ -1745,8 +1748,10 @@
       "noAccessories",
       "avoidingCamera",
       "whiteShirt",
-      "blueClothes"
+      "blueClothes",
+      "shortHair"
     ],
+    "note": "",
     "prompt": "64-year-old white man"
   },
   "us-28": {
@@ -1911,11 +1916,11 @@
     "features": [
       "shortHair",
       "blackHair",
-      "bald",
       "noAccessories",
       "showTeeth",
       "blueClothes"
     ],
+    "note": "",
     "prompt": "39-year-old white man"
   },
   "us-36": {
@@ -2185,7 +2190,8 @@
       "headscarf",
       "necklace",
       "brownClothes",
-      "hairyChest"
+      "hairyChest",
+      "longHair"
     ],
     "note": "the biker",
     "prompt": "33-year-old white man"
@@ -2431,8 +2437,10 @@
       "greyHair",
       "buttonShirt",
       "blueClothes",
-      "redClothes"
+      "redClothes",
+      "bald"
     ],
+    "note": "",
     "prompt": "58-year-old black man"
   },
   "us-59": {
@@ -2453,8 +2461,10 @@
       "glasses",
       "buttonShirt",
       "blueClothes",
-      "hairyChest"
+      "hairyChest",
+      "shortHair"
     ],
+    "note": "",
     "prompt": "54-year-old white man"
   },
   "us-60": {
