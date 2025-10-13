@@ -1,4 +1,17 @@
 {
 	"missionSets": [],
-	"cards": {"er-com-ms":{"id":"er-com-ms","type":"complete-mission","doc":"complete mission card","content":[]},"er-ms-hp":{"id":"er-ms-hp","type":"help","doc":"help card","content":[]}}
+	"cards": {
+		"er-default-cm": {
+			"id": "er-default-cm",
+			"type": "complete-mission",
+			"doc": "complete mission card",
+			"content": []
+		},
+		"er-default-hp": {
+			"id": "er-default-hp",
+			"type": "help",
+			"doc": "help card",
+			"content": []
+		}
+	}
 }
