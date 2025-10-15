@@ -8,15 +8,12 @@
 			"background": "er/bg/completeMission.jpg",
 			"content": {
 				"title": {
-					"value": { "en": "Mission Complete", "pt": "Completar Missão" },
+					"value": "Completar Missão",
 					"position": 1,
 					"color": "white"
 				},
 				"subtitle": {
-					"value": {
-						"en": "When you believe a mission is complete, play this card.",
-						"pt": "Quando vocês acharem que uma missão está completa, use esta carta."
-					},
+					"value": "Quando vocês acharem que uma missão está completa, use esta carta.",
 					"position": 5,
 					"color": "white"
 				}
@@ -29,15 +26,12 @@
 			"background": "er/bg/help.jpg",
 			"content": {
 				"title": {
-					"value": { "en": "Help", "pt": "Ajuda" },
+					"value": "Ajuda",
 					"position": 1,
 					"color": "white"
 				},
 				"subtitle": {
-					"value": {
-						"en": "When played, this card will tell you how many cards are needed to complete the mission and if any played is wrong, without losing a life.",
-						"pt": "Está carta dirá quantas cartas são necessárias para completar a missão e se alguma usada está errada, sem que percam uma vida."
-					},
+					"value": "Quando jogada, esta carta dirá quantas cartas são necessárias para completar a missão e se alguma usada está errada, sem que percam uma vida.",
 					"position": 5,
 					"color": "white"
 				}
