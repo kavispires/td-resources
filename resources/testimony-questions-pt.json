@@ -3,25 +3,29 @@
 		"id": "t-1-pt",
 		"question": "Ele(a) já foi para um jogo em um estádio?",
 		"answer": "Assiste jogos em estádio",
-		"level": 1
+		"level": 1,
+		"mbti": ["E"]
 	},
 	"t-2-pt": {
 		"id": "t-2-pt",
 		"question": "Ele(a) gosta de música clássica?",
 		"answer": "Gosta de música clássica",
-		"level": 1
+		"level": 1,
+		"mbti": ["N"]
 	},
 	"t-3-pt": {
 		"id": "t-3-pt",
 		"question": "Ele(a) acredita em alienígenas?",
 		"answer": "Acredita em alienígenas",
-		"level": 3
+		"level": 3,
+		"mbti": ["N"]
 	},
 	"t-4-pt": {
 		"id": "t-4-pt",
 		"question": "Ele(a) tem uma caminhonete?",
 		"answer": "Tem uma caminhonete",
-		"level": 1
+		"level": 1,
+		"mbti": ["S"]
 	},
 	"t-5-pt": {
 		"id": "t-5-pt",
@@ -39,25 +43,29 @@
 		"id": "t-7-pt",
 		"question": "Ele(a) recicla seu lixo?",
 		"answer": "Recicla seu lixo",
-		"level": 2
+		"level": 2,
+		"mbti": ["F", "J"]
 	},
 	"t-8-pt": {
 		"id": "t-8-pt",
 		"question": "Ele(a) gosta de acampar?",
 		"answer": "Gosta de acampar",
-		"level": 2
+		"level": 2,
+		"mbti": ["S"]
 	},
 	"t-9-pt": {
 		"id": "t-9-pt",
 		"question": "Ele(a) tem muitos adesivos no carro?",
 		"answer": "Tem muitos adesivos no carro",
-		"level": 2
+		"level": 2,
+		"mbti": ["S"]
 	},
 	"t-10-pt": {
 		"id": "t-10-pt",
 		"question": "Ele(a) já participou de um protesto?",
 		"answer": "Já participou de um protesto",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-11-pt": {
 		"id": "t-11-pt",
@@ -75,7 +83,8 @@
 		"id": "t-13-pt",
 		"question": "Ele(a) gosta de arte moderna?",
 		"answer": "Gosta de arte moderna",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-14-pt": {
 		"id": "t-14-pt",
@@ -87,13 +96,15 @@
 		"id": "t-15-pt",
 		"question": "Ele(a) é um fã da Apple?",
 		"answer": "É um fã da Apple",
-		"level": 1
+		"level": 1,
+		"mbti": ["T"]
 	},
 	"t-16-pt": {
 		"id": "t-16-pt",
 		"question": "Ele(a) cumprimenta seus vizinhos?",
 		"answer": "Cumprimenta seus vizinhos",
-		"level": 2
+		"level": 2,
+		"mbti": ["E", "F"]
 	},
 	"t-17-pt": {
 		"id": "t-17-pt",
@@ -111,7 +122,8 @@
 		"id": "t-19-pt",
 		"question": "Ele(a) é fã de ficção científica?",
 		"answer": "É fã de ficção científica",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-20-pt": {
 		"id": "t-20-pt",
@@ -123,25 +135,29 @@
 		"id": "t-21-pt",
 		"question": "Ele(a) já recebeu muitas multas de trânsito?",
 		"answer": "Já recebeu multas de trânsito",
-		"level": 2
+		"level": 2,
+		"mbti": ["P"]
 	},
 	"t-22-pt": {
 		"id": "t-22-pt",
 		"question": "Ele(a) serviu no exército?",
 		"answer": "Serviu no exército",
-		"level": 1
+		"level": 1,
+		"mbti": ["J", "S"]
 	},
 	"t-23-pt": {
 		"id": "t-23-pt",
 		"question": "Ele(a) fala mais de um idioma?",
 		"answer": "Fala mais de um idioma",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-24-pt": {
 		"id": "t-24-pt",
 		"question": "Ele(a) faz trabalho voluntário?",
 		"answer": "Faz trabalho voluntário",
-		"level": 2
+		"level": 2,
+		"mbti": ["E", "F"]
 	},
 	"t-25-pt": {
 		"id": "t-25-pt",
@@ -159,7 +175,8 @@
 		"id": "t-27-pt",
 		"question": "Ele(a) foi um escoteiro(a)?",
 		"answer": "Foi um escoteiro(a)",
-		"level": 1
+		"level": 1,
+		"mbti": ["S"]
 	},
 	"t-28-pt": {
 		"id": "t-28-pt",
@@ -171,25 +188,29 @@
 		"id": "t-29-pt",
 		"question": "Ele(a) vai pra casa dos pais no Réveillon?",
 		"answer": "Vai pra casa dos pais no Réveillon",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-30-pt": {
 		"id": "t-30-pt",
 		"question": "Ele(a) mora com os pais?",
 		"answer": "Mora com os pais",
-		"level": 1
+		"level": 1,
+		"mbti": ["F"]
 	},
 	"t-31-pt": {
 		"id": "t-31-pt",
 		"question": "Ele(a) tem um grande círculo social?",
 		"answer": "Tem um grande círculo social",
-		"level": 2
+		"level": 2,
+		"mbti": ["E"]
 	},
 	"t-32-pt": {
 		"id": "t-32-pt",
 		"question": "Ele(a) é proprietário de um imóvel?",
 		"answer": "É proprietário de um imóvel",
-		"level": 2
+		"level": 2,
+		"mbti": ["S", "J"]
 	},
 	"t-33-pt": {
 		"id": "t-33-pt",
@@ -214,73 +235,85 @@
 		"id": "t-36-pt",
 		"question": "Ele(a) faz/fez faculdade?",
 		"answer": "Faz/fez faculdade",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-37-pt": {
 		"id": "t-37-pt",
 		"question": "Ele(a) é romântico(a)?",
 		"answer": "É romântico(a)",
-		"level": 1
+		"level": 1,
+		"mbti": ["F"]
 	},
 	"t-38-pt": {
 		"id": "t-38-pt",
 		"question": "Ele(a) se dá bem com seus colegas de trabalho?",
 		"answer": "Se dá bem com seus colegas de trabalho",
-		"level": 2
+		"level": 2,
+		"mbti": ["E"]
 	},
 	"t-39-pt": {
 		"id": "t-39-pt",
 		"question": "Ele(a) passa muito tempo no banheiro?",
 		"answer": "Passa muito tempo no banheiro",
-		"level": 2
+		"level": 2,
+		"mbti": ["I"]
 	},
 	"t-40-pt": {
 		"id": "t-40-pt",
 		"question": "Ele(a) assiste filmes clássicos?",
 		"answer": "Assiste filmes clássicos",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-41-pt": {
 		"id": "t-41-pt",
 		"question": "Ele(a) gosta de crianças?",
 		"answer": "Gosta de crianças",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-42-pt": {
 		"id": "t-42-pt",
 		"question": "Ele(a) gosta de musicais da Broadway?",
 		"answer": "Gosta de musicais da Broadway",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-43-pt": {
 		"id": "t-43-pt",
 		"question": "Ele(a) lê romances?",
 		"answer": "Lê romances",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-44-pt": {
 		"id": "t-44-pt",
 		"question": "Ele(a) vai a boates?",
 		"answer": "Vai a boates",
-		"level": 2
+		"level": 2,
+		"mbti": ["E"]
 	},
 	"t-45-pt": {
 		"id": "t-45-pt",
 		"question": "Ele(a) dá os 10% do garçom sem contestar?",
 		"answer": "Dá os 10% do garçom sem contestar",
-		"level": 3
+		"level": 3,
+		"mbti": ["F"]
 	},
 	"t-46-pt": {
 		"id": "t-46-pt",
 		"question": "Ele(a) costuma pular refeições?",
 		"answer": "Costuma pular refeições",
-		"level": 3
+		"level": 3,
+		"mbti": ["P"]
 	},
 	"t-47-pt": {
 		"id": "t-47-pt",
 		"question": "Ele(a) pratica algum esporte?",
 		"answer": "Pratica algum esporte",
-		"level": 1
+		"level": 1,
+		"mbti": ["S"]
 	},
 	"t-48-pt": {
 		"id": "t-48-pt",
@@ -304,7 +337,8 @@
 		"id": "t-51-pt",
 		"question": "Ele(a) consegue economizar dinheiro?",
 		"answer": "Consegue economizar dinheiro",
-		"level": 3
+		"level": 3,
+		"mbti": ["J"]
 	},
 	"t-52-pt": {
 		"id": "t-52-pt",
@@ -334,7 +368,8 @@
 		"id": "t-56-pt",
 		"question": "Ele(a) é artístico(a)?",
 		"answer": "É artístico(a)",
-		"level": 3
+		"level": 3,
+		"mbti": ["N"]
 	},
 	"t-57-pt": {
 		"id": "t-57-pt",
@@ -353,19 +388,22 @@
 		"id": "t-59-pt",
 		"question": "Ele(a) faz ioga?",
 		"answer": "Faz ioga",
-		"level": 2
+		"level": 2,
+		"mbti": ["S"]
 	},
 	"t-60-pt": {
 		"id": "t-60-pt",
 		"question": "Ele(a) usa a arte asiática de organização feng shui em casa?",
 		"answer": "Usa o feng shui em casa",
-		"level": 2
+		"level": 2,
+		"mbti": ["J"]
 	},
 	"t-61-pt": {
 		"id": "t-61-pt",
 		"question": "Ele(a) sempre paga seus impostos?",
 		"answer": "Sempre paga seus impostos",
-		"level": 3
+		"level": 3,
+		"mbti": ["J", "T"]
 	},
 	"t-62-pt": {
 		"id": "t-62-pt",
@@ -396,7 +434,8 @@
 		"question": "Ele(a) gosta de discutir política?",
 		"answer": "Gosta de discutir política",
 		"nsfw": true,
-		"level": 2
+		"level": 2,
+		"mbti": ["T"]
 	},
 	"t-67-pt": {
 		"id": "t-67-pt",
@@ -427,13 +466,15 @@
 		"id": "t-71-pt",
 		"question": "Ele(a) gosta de cozinhar?",
 		"answer": "Gosta de cozinhar",
-		"level": 2
+		"level": 2,
+		"mbti": ["S"]
 	},
 	"t-72-pt": {
 		"id": "t-72-pt",
 		"question": "Ele(a) é supersticioso(a)?",
 		"answer": "É supersticioso(a)",
-		"level": 3
+		"level": 3,
+		"mbti": ["N"]
 	},
 	"t-73-pt": {
 		"id": "t-73-pt",
@@ -445,7 +486,8 @@
 		"id": "t-74-pt",
 		"question": "Ele(a) lê revista quadrinhos?",
 		"answer": "Lê revista quadrinhos",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-75-pt": {
 		"id": "t-75-pt",
@@ -457,7 +499,8 @@
 		"id": "t-76-pt",
 		"question": "Ele(a) é vegetariano(a)?",
 		"answer": "É vegetariano(a)",
-		"level": 2
+		"level": 2,
+		"mbti": ["S"]
 	},
 	"t-77-pt": {
 		"id": "t-77-pt",
@@ -469,13 +512,15 @@
 		"id": "t-78-pt",
 		"question": "Ele(a) sabe tocar um instrumento musical?",
 		"answer": "Sabe tocar um instrumento musical",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-79-pt": {
 		"id": "t-79-pt",
 		"question": "Ele(a) participa de eventos de caridade?",
 		"answer": "Participa de eventos de caridade",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-80-pt": {
 		"id": "t-80-pt",
@@ -493,7 +538,8 @@
 		"id": "t-82-pt",
 		"question": "Ele(a) possui um pau de selfie?",
 		"answer": "Possui um pau de selfie",
-		"level": 1
+		"level": 1,
+		"mbti": ["N"]
 	},
 	"t-83-pt": {
 		"id": "t-83-pt",
@@ -517,7 +563,8 @@
 		"id": "t-86-pt",
 		"question": "Ele(a) é uma pessoa espiritualizada?",
 		"answer": "É uma pessoa espiritualizada",
-		"level": 3
+		"level": 3,
+		"mbti": ["N"]
 	},
 	"t-87-pt": {
 		"id": "t-87-pt",
@@ -561,19 +608,22 @@
 		"id": "t-93-pt",
 		"question": "Ele(a) joga videogames?",
 		"answer": "Joga videogames",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-94-pt": {
 		"id": "t-94-pt",
 		"question": "Ele(a) acredita em reencarnação?",
 		"answer": "Acredita em reencarnação",
-		"level": 3
+		"level": 3,
+		"mbti": ["N"]
 	},
 	"t-95-pt": {
 		"id": "t-95-pt",
 		"question": "Ele(a) gosta de abraçar?",
 		"answer": "Gosta de abraçar",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-96-pt": {
 		"id": "t-96-pt",
@@ -591,7 +641,8 @@
 		"id": "t-98-pt",
 		"question": "Ele(a) frequenta uma academia?",
 		"answer": "Frequenta uma academia",
-		"level": 2
+		"level": 2,
+		"mbti": ["S"]
 	},
 	"t-99-pt": {
 		"id": "t-99-pt",
@@ -603,7 +654,8 @@
 		"id": "t-100-pt",
 		"question": "Ele(a) comemora o Dia dos Namorados?",
 		"answer": "Comemora o Dia dos Namorados",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-101-pt": {
 		"id": "t-101-pt",
@@ -616,7 +668,8 @@
 		"id": "t-102-pt",
 		"question": "Ele(a) acredita em signos e astrologia?",
 		"answer": "Acredita em signos e astrologia",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-103-pt": {
 		"id": "t-103-pt",
@@ -635,7 +688,8 @@
 		"id": "t-105-pt",
 		"question": "Ele(a) pechincha muito?",
 		"answer": "Pechincha muito",
-		"level": 2
+		"level": 2,
+		"mbti": ["J"]
 	},
 	"t-106-pt": {
 		"id": "t-106-pt",
@@ -679,7 +733,8 @@
 		"id": "t-112-pt",
 		"question": "Ele(a) teve um Tamagochi quando criança?",
 		"answer": "Teve um Tamagochi quando criança",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-113-pt": {
 		"id": "t-113-pt",
@@ -692,13 +747,15 @@
 		"id": "t-114-pt",
 		"question": "Ele(a) é uma pessoa pontual?",
 		"answer": "É uma pessoa pontual",
-		"level": 2
+		"level": 2,
+		"mbti": ["J", "T"]
 	},
 	"t-115-pt": {
 		"id": "t-115-pt",
 		"question": "Ele(a) colecionava figurinhas do Campeonato Brasileiro quando criança?",
 		"answer": "Colecionava figurinhas do Campeonato Brasileiro quando criança",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-116-pt": {
 		"id": "t-116-pt",
@@ -743,7 +800,8 @@
 		"id": "t-122-pt",
 		"question": "Os pais são orgulhosos dele(a)?",
 		"answer": "Os pais são orgulhosos dele(a)",
-		"level": 3
+		"level": 3,
+		"mbti": ["F"]
 	},
 	"t-123-pt": {
 		"id": "t-123-pt",
@@ -780,13 +838,15 @@
 		"id": "t-128-pt",
 		"question": "Ele(a) já doou para o Criança Esperança?",
 		"answer": "Já doou para o Criança Esperança",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-129-pt": {
 		"id": "t-129-pt",
 		"question": "Ele(a) sabe dançar uma coreografia do É o Tchan?",
 		"answer": "Sabe dançar uma coreografia do É o Tchan",
-		"level": 2
+		"level": 2,
+		"mbti": ["E"]
 	},
 	"t-130-pt": {
 		"id": "t-130-pt",
@@ -831,7 +891,8 @@
 		"id": "t-136-pt",
 		"question": "Ele(a) participaria do Big Brother?",
 		"answer": "Participaria do Big Brother",
-		"level": 2
+		"level": 2,
+		"mbti": ["E"]
 	},
 	"t-137-pt": {
 		"id": "t-137-pt",
@@ -868,7 +929,8 @@
 		"id": "t-142-pt",
 		"question": "Ele(a) é tímido?",
 		"answer": "É tímido",
-		"level": 3
+		"level": 3,
+		"mbti": ["I"]
 	},
 	"t-143-pt": {
 		"id": "t-143-pt",
@@ -905,7 +967,8 @@
 		"id": "t-148-pt",
 		"question": "Ele(a) entende de computador?",
 		"answer": "Entende de computador",
-		"level": 2
+		"level": 2,
+		"mbti": ["T"]
 	},
 	"t-149-pt": {
 		"id": "t-149-pt",
@@ -965,25 +1028,29 @@
 		"id": "t-158-pt",
 		"question": "Ele(a) é muito competitivo(a)?",
 		"answer": "É muito competitivo(a)",
-		"level": 2
+		"level": 2,
+		"mbti": ["T"]
 	},
 	"t-159-pt": {
 		"id": "t-159-pt",
 		"question": "Ele(a) é muito preguiçoso(a)?",
 		"answer": "É muito preguiçoso(a)",
-		"level": 2
+		"level": 2,
+		"mbti": ["P"]
 	},
 	"t-160-pt": {
 		"id": "t-160-pt",
 		"question": "Ele(a) é muito desorganizado(a)?",
 		"answer": "É muito desorganizado(a)",
-		"level": 2
+		"level": 2,
+		"mbti": ["J"]
 	},
 	"t-161-pt": {
 		"id": "t-161-pt",
 		"question": "Ele(a) é muito indeciso(a)?",
 		"answer": "É muito indeciso(a)",
-		"level": 3
+		"level": 3,
+		"mbti": ["P"]
 	},
 	"t-162-pt": {
 		"id": "t-162-pt",
@@ -1001,19 +1068,22 @@
 		"id": "t-164-pt",
 		"question": "Ele(a) dança bem?",
 		"answer": "Dança bem",
-		"level": 2
+		"level": 2,
+		"mbti": ["E"]
 	},
 	"t-165-pt": {
 		"id": "t-165-pt",
 		"question": "Ele(a) é extrovertido(a)?",
 		"answer": "É extrovertido(a)",
-		"level": 3
+		"level": 3,
+		"mbti": ["E"]
 	},
 	"t-166-pt": {
 		"id": "t-166-pt",
 		"question": "Ele(a) é carinhoso(a)?",
 		"answer": "É carinhoso(a)",
-		"level": 3
+		"level": 3,
+		"mbti": ["F"]
 	},
 	"t-167-pt": {
 		"id": "t-167-pt",
@@ -1044,7 +1114,8 @@
 		"id": "t-171-pt",
 		"question": "Ele(a) odeia horário de verão?",
 		"answer": "Odeia horário de verão",
-		"level": 2
+		"level": 2,
+		"mbti": ["J"]
 	},
 	"t-172-pt": {
 		"id": "t-172-pt",
@@ -1081,7 +1152,8 @@
 		"id": "t-177-pt",
 		"question": "Ele(a) faz(fez) curso de comunicação porque se acha muito comunicativo(a)?",
 		"answer": "Faz(fez) curso de comunicação porque se acha muito comunicativo(a)",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-178-pt": {
 		"id": "t-178-pt",
@@ -1099,7 +1171,8 @@
 		"id": "t-180-pt",
 		"question": "Ele(a) se sente desconfortável na presença de palhaços?",
 		"answer": "Se sente desconfortável na presença de palhaços",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-181-pt": {
 		"id": "t-181-pt",
@@ -1160,7 +1233,8 @@
 		"id": "t-190-pt",
 		"question": "Ele(a) é sedentário?",
 		"answer": "É sedentário",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-191-pt": {
 		"id": "t-191-pt",
@@ -1223,7 +1297,8 @@
 		"id": "t-200-pt",
 		"question": "Ele(a) tem o potencial para ser um(a) influenciador(a) digital?",
 		"answer": "Tem o potencial para ser um(a) influenciador(a) digital",
-		"level": 2
+		"level": 2,
+		"mbti": ["E"]
 	},
 	"t-201-pt": {
 		"id": "t-201-pt",
@@ -1247,7 +1322,8 @@
 		"id": "t-204-pt",
 		"question": "Ele(a) é muito prestativo(a)?",
 		"answer": "É muito prestativo(a)",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-205-pt": {
 		"id": "t-205-pt",
@@ -1265,13 +1341,15 @@
 		"id": "t-207-pt",
 		"question": "Ele(a) já caiu no meio da rua e fingiu que estava dançando?",
 		"answer": "Já caiu no meio da rua e fingiu que estava dançando",
-		"level": 3
+		"level": 3,
+		"mbti": ["E"]
 	},
 	"t-208-pt": {
 		"id": "t-208-pt",
 		"question": "Ele(a) dorme assistindo série para não se sentir sozinho(a)?",
 		"answer": "Dorme assistindo série para não se sentir sozinho(a)",
-		"level": 2
+		"level": 2,
+		"mbti": ["I", "N"]
 	},
 	"t-209-pt": {
 		"id": "t-209-pt",
@@ -1289,13 +1367,15 @@
 		"id": "t-211-pt",
 		"question": "Ele(a) gosta de Taylor Swift?",
 		"answer": "Gosta de Taylor Swift",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-212-pt": {
 		"id": "t-212-pt",
 		"question": "Ele(a) acredita em amor à primeira vista?",
 		"answer": "Acredita em amor à primeira vista",
-		"level": 3
+		"level": 3,
+		"mbti": ["F"]
 	},
 	"t-213-pt": {
 		"id": "t-213-pt",
@@ -1336,7 +1416,8 @@
 		"id": "t-218-pt",
 		"question": "Ele(a) usa a calculadora para fazer contas simples de adição?",
 		"answer": "Usa a calculadora para fazer contas simples de adição",
-		"level": 2
+		"level": 2,
+		"mbti": ["T"]
 	},
 	"t-219-pt": {
 		"id": "t-219-pt",
@@ -1354,7 +1435,8 @@
 		"id": "t-221-pt",
 		"question": "Ele(a) faz terapia?",
 		"answer": "Faz terapia",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-222-pt": {
 		"id": "t-222-pt",
@@ -1409,7 +1491,8 @@
 		"id": "t-230-pt",
 		"question": "Ele(a) tem o QI bem elevado?",
 		"answer": "Tem o QI bem elevado",
-		"level": 3
+		"level": 3,
+		"mbti": ["T"]
 	},
 	"t-231-pt": {
 		"id": "t-231-pt",
@@ -1421,13 +1504,15 @@
 		"id": "t-232-pt",
 		"question": "Ele(a) gosta de escrever poesias?",
 		"answer": "Gosta de escrever poesias",
-		"level": 2
+		"level": 2,
+		"mbti": ["N"]
 	},
 	"t-233-pt": {
 		"id": "t-233-pt",
 		"question": "Ele(a) seria um(a) ótimo(a) babá?",
 		"answer": "Seria um(a) ótimo(a) babá",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-234-pt": {
 		"id": "t-234-pt",
@@ -1457,7 +1542,8 @@
 		"id": "t-238-pt",
 		"question": "Ele(a) prefere mandar mensagem a fazer ligações telefônicas?",
 		"answer": "Prefere mandar mensagem a fazer ligações telefônicas",
-		"level": 2
+		"level": 2,
+		"mbti": ["I"]
 	},
 	"t-239-pt": {
 		"id": "t-239-pt",
@@ -1475,7 +1561,8 @@
 		"id": "t-241-pt",
 		"question": "Ele(a) compartilha gifs de Bom dia com glitter?",
 		"answer": "Compartilha gifs de Bom dia com glitter",
-		"level": 1
+		"level": 1,
+		"mbti": ["F"]
 	},
 	"t-242-pt": {
 		"id": "t-242-pt",
@@ -1493,13 +1580,15 @@
 		"id": "t-244-pt",
 		"question": "Ele(a) chora todas as manhãs antes de ir trabalhar?",
 		"answer": "Chora todas as manhãs antes de ir trabalhar",
-		"level": 3
+		"level": 3,
+		"mbti": ["F"]
 	},
 	"t-245-pt": {
 		"id": "t-245-pt",
 		"question": "Ele(a) já fingiu ser um especialista em algo que não entende absolutamente nada só para impressionar alguém?",
 		"answer": "Já fingiu ser um especialista em algo que não entende absolutamente nada só para impressionar alguém",
-		"level": 3
+		"level": 3,
+		"mbti": ["J", "S"]
 	},
 	"t-246-pt": {
 		"id": "t-246-pt",
@@ -1518,7 +1607,8 @@
 		"question": "Ele(a) acha que homem que chora é boiola?",
 		"answer": "Acha que homem que chora é boiola",
 		"nsfw": true,
-		"level": 3
+		"level": 3,
+		"mbti": ["F"]
 	},
 	"t-249-pt": {
 		"id": "t-249-pt",
@@ -1542,7 +1632,8 @@
 		"id": "t-252-pt",
 		"question": "Ele(a) chora com notícias de tragédias?",
 		"answer": "Chora com notícias de tragédias",
-		"level": 2
+		"level": 2,
+		"mbti": ["F"]
 	},
 	"t-253-pt": {
 		"id": "t-253-pt",
@@ -1554,7 +1645,8 @@
 		"id": "t-254-pt",
 		"question": "Ele(a) já fez terapia de casal?",
 		"answer": "Já fez terapia de casal",
-		"level": 3
+		"level": 3,
+		"mbti": ["F"]
 	},
 	"t-255-pt": {
 		"id": "t-255-pt",
@@ -1578,7 +1670,8 @@
 		"id": "t-258-pt",
 		"question": "Ele(a) sabe sambar?",
 		"answer": "Sabe sambar",
-		"level": 2
+		"level": 2,
+		"mbti": ["E"]
 	},
 	"t-259-pt": {
 		"id": "t-259-pt",
@@ -1603,6 +1696,91 @@
 		"id": "t-262-pt",
 		"question": "Ele(a) já foi demitido(a) por justa causa?",
 		"answer": "Já foi demitido(a) por justa causa",
+		"level": 2
+	},
+	"t-263-pt": {
+		"id": "t-263-pt",
+		"question": "Ele(a) puxa papo com pessoa no banheiro da balada?",
+		"answer": "Puxa papo com pessoa no banheiro da balada",
+		"level": 1
+	},
+	"t-264-pt": {
+		"id": "t-264-pt",
+		"question": "Ele(a) fala sozinho(a) quando está entediado(a)?",
+		"answer": "Fala sozinho(a) quando está entediado(a)",
+		"level": 2
+	},
+	"t-265-pt": {
+		"id": "t-265-pt",
+		"question": "Ele(a) finge atender o celular pra evitar conversa no elevador?",
+		"answer": "Finge atender o celular pra evitar conversa no elevador",
+		"level": 2,
+		"mbti": ["I"]
+	},
+	"t-266-pt": {
+		"id": "t-266-pt",
+		"question": "Ele(a) ensaia mentalmente o que vai dizer antes de pedir algo num restaurante?",
+		"answer": "Ensaia mentalmente o que vai dizer antes de pedir algo num restaurante",
+		"level": 2,
+		"mbti": ["I"]
+	},
+	"t-267-pt": {
+		"id": "t-267-pt",
+		"question": "Ele(a) acredita que coincidências são mensagens do universo?",
+		"answer": "Acredita que coincidências são mensagens do universo",
+		"level": 2,
+		"mbti": ["N"]
+	},
+	"t-268-pt": {
+		"id": "t-268-pt",
+		"question": "Ele(a) é muito paranoico(a)?",
+		"answer": "É muito paranoico(a)",
+		"level": 2
+	},
+	"t-269-pt": {
+		"id": "t-269-pt",
+		"question": "Ele(a) já achou que o(a) atendente do supermercado estava a fim dele só por ter sido simpática(o)?",
+		"answer": "Já achou que o(a) atendente do supermercado estava a fim dele só por ter sido simpática(o)",
+		"level": 2
+	},
+	"t-270-pt": {
+		"id": "t-270-pt",
+		"question": "Ele(a) evita discussões só pra não deixar o clima pesado?",
+		"answer": "Evita discussões só pra não deixar o clima pesado",
+		"level": 2,
+		"mbti": ["F"]
+	},
+	"t-271-pt": {
+		"id": "t-271-pt",
+		"question": "Ele(a) corrige erros de português no WhatsApp?",
+		"answer": "Corrige erros de português no WhatsApp",
+		"level": 2,
+		"mbti": ["T"]
+	},
+	"t-272-pt": {
+		"id": "t-272-pt",
+		"question": "Ele(a) chega no aeroporto com 4 horas de antecedência?",
+		"answer": "Chega no aeroporto com 4 horas de antecedência",
+		"level": 1,
+		"mbti": ["J"]
+	},
+	"t-273-pt": {
+		"id": "t-273-pt",
+		"question": "Ele(a) fica tentando convencer todos os amigos que qualquer ideia pode ser um empreendimento de sucesso?",
+		"answer": "Fica tentando convencer todos os amigos que qualquer ideia pode ser um empreendimento de sucesso",
+		"level": 2
+	},
+	"t-274-pt": {
+		"id": "t-274-pt",
+		"question": "Ele(a) tem um caderninho só de sonhos e teorias conspiratórias próprias?",
+		"answer": "Tem um caderninho só de sonhos e teorias conspiratórias próprias",
+		"level": 2,
+		"mbti": ["N"]
+	},
+	"t-275-pt": {
+		"id": "t-275-pt",
+		"question": "Ele(a) já terminou um namoro usando Power Point?",
+		"answer": "Já terminou um namoro usando Power Point",
 		"level": 2
 	}
 }
