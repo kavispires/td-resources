@@ -1,9 +1,9 @@
-{
-	"E": {
+[
+	{
 		"id": "E",
-		"name": "Extrovertido",
-		"description": "ganha energia em interação social, ação e novidade; procura experiências e pessoas.",
-		"testimonyIds": [
+		"name": "Extroversão",
+		"description": "Ganha energia com gente, ação e novidade; busca eventos, palcos e interação frequente.",
+		"relatedTestimonyIds": [
 			"t-1-pt",
 			"t-10-pt",
 			"t-11-pt",
@@ -11,8 +11,10 @@
 			"t-29-pt",
 			"t-31-pt",
 			"t-44-pt",
+			"t-47-pt",
+			"t-65-pt",
 			"t-75-pt",
-			"t-79-pt",
+			"t-80-pt",
 			"t-81-pt",
 			"t-92-pt",
 			"t-100-pt",
@@ -25,47 +27,81 @@
 			"t-183-pt",
 			"t-200-pt",
 			"t-207-pt",
-			"t-227-pt",
 			"t-235-pt",
+			"t-243-pt",
 			"t-258-pt"
-		]
-	},
-	"I": {
-		"id": "I",
-		"name": "Introvertido",
-		"description": "recarrega na solitude, prefere profundidade, rotina e atividades individuais.",
-		"testimonyIds": [
-			"t-30-pt",
+		],
+		"unrelatedTestimonyIds": [
 			"t-40-pt",
 			"t-43-pt",
-			"t-51-pt",
-			"t-54-pt",
 			"t-59-pt",
-			"t-60-pt",
-			"t-67-pt",
 			"t-71-pt",
-			"t-75-pt",
 			"t-84-pt",
 			"t-93-pt",
-			"t-95-pt",
-			"t-98-pt",
 			"t-99-pt",
-			"t-114-pt",
-			"t-132-pt",
 			"t-139-pt",
 			"t-142-pt",
-			"t-209-pt",
+			"t-190-pt",
+			"t-208-pt",
 			"t-221-pt",
 			"t-232-pt",
 			"t-238-pt",
 			"t-253-pt"
 		]
 	},
-	"N": {
+	{
+		"id": "I",
+		"name": "Introversão",
+		"description": "Recarrega na solitude; prefere profundidade, rotina e atividades individuais.",
+		"relatedTestimonyIds": [
+			"t-2-pt",
+			"t-40-pt",
+			"t-43-pt",
+			"t-59-pt",
+			"t-60-pt",
+			"t-67-pt",
+			"t-71-pt",
+			"t-84-pt",
+			"t-93-pt",
+			"t-95-pt",
+			"t-98-pt",
+			"t-99-pt",
+			"t-114-pt",
+			"t-139-pt",
+			"t-142-pt",
+			"t-190-pt",
+			"t-208-pt",
+			"t-221-pt",
+			"t-232-pt",
+			"t-238-pt",
+			"t-253-pt"
+		],
+		"unrelatedTestimonyIds": [
+			"t-16-pt",
+			"t-31-pt",
+			"t-44-pt",
+			"t-47-pt",
+			"t-75-pt",
+			"t-100-pt",
+			"t-129-pt",
+			"t-136-pt",
+			"t-141-pt",
+			"t-144-pt",
+			"t-164-pt",
+			"t-165-pt",
+			"t-183-pt",
+			"t-200-pt",
+			"t-207-pt",
+			"t-235-pt",
+			"t-243-pt",
+			"t-258-pt"
+		]
+	},
+	{
 		"id": "N",
 		"name": "Intuição",
-		"description": "foca em ideias, padrões e possibilidades; aprecia o abstrato e o simbólico.",
-		"testimonyIds": [
+		"description": "Vê padrões e possibilidades; gosta do abstrato, simbólico e do ‘e se...’.",
+		"relatedTestimonyIds": [
 			"t-3-pt",
 			"t-13-pt",
 			"t-19-pt",
@@ -75,17 +111,14 @@
 			"t-94-pt",
 			"t-102-pt",
 			"t-150-pt",
+			"t-151-pt",
+			"t-169-pt",
 			"t-186-pt",
 			"t-212-pt",
 			"t-232-pt",
 			"t-235-pt"
-		]
-	},
-	"S": {
-		"id": "S",
-		"name": "Sensação",
-		"description": "foca em fatos concretos, detalhes e experiências práticas do dia a dia.",
-		"testimonyIds": [
+		],
+		"unrelatedTestimonyIds": [
 			"t-4-pt",
 			"t-6-pt",
 			"t-21-pt",
@@ -101,7 +134,6 @@
 			"t-73-pt",
 			"t-80-pt",
 			"t-88-pt",
-			"t-92-pt",
 			"t-116-pt",
 			"t-123-pt",
 			"t-170-pt",
@@ -109,50 +141,76 @@
 			"t-243-pt"
 		]
 	},
-	"F": {
+	{
+		"id": "S",
+		"name": "Sensação",
+		"description": "Foca em fatos, detalhes e experiências concretas do dia a dia.",
+		"relatedTestimonyIds": [
+			"t-4-pt",
+			"t-6-pt",
+			"t-21-pt",
+			"t-25-pt",
+			"t-32-pt",
+			"t-49-pt",
+			"t-57-pt",
+			"t-61-pt",
+			"t-67-pt",
+			"t-68-pt",
+			"t-69-pt",
+			"t-71-pt",
+			"t-73-pt",
+			"t-80-pt",
+			"t-88-pt",
+			"t-116-pt",
+			"t-123-pt",
+			"t-170-pt",
+			"t-237-pt",
+			"t-243-pt"
+		],
+		"unrelatedTestimonyIds": [
+			"t-3-pt",
+			"t-13-pt",
+			"t-19-pt",
+			"t-56-pt",
+			"t-72-pt",
+			"t-86-pt",
+			"t-94-pt",
+			"t-102-pt",
+			"t-150-pt",
+			"t-151-pt",
+			"t-169-pt",
+			"t-186-pt",
+			"t-212-pt",
+			"t-232-pt",
+			"t-235-pt"
+		]
+	},
+	{
 		"id": "F",
 		"name": "Sentimento",
-		"description": "decide com base em valores e empatia; prioriza harmonia e vínculos.",
-		"testimonyIds": [
+		"description": "Decide por valores e empatia; busca harmonia e cuida das relações.",
+		"relatedTestimonyIds": [
 			"t-24-pt",
 			"t-37-pt",
 			"t-41-pt",
 			"t-79-pt",
-			"t-83-pt",
 			"t-95-pt",
 			"t-100-pt",
-			"t-114-pt",
 			"t-120-pt",
 			"t-122-pt",
-			"t-125-pt",
-			"t-131-pt",
-			"t-132-pt",
-			"t-139-pt",
-			"t-142-pt",
-			"t-152-pt",
-			"t-153-pt",
-			"t-154-pt",
 			"t-166-pt",
-			"t-171-pt",
-			"t-180-pt",
-			"t-220-pt",
+			"t-204-pt",
+			"t-212-pt",
+			"t-221-pt",
 			"t-233-pt",
-			"t-241-pt",
-			"t-244-pt",
-			"t-248-pt",
 			"t-252-pt",
+			"t-253-pt",
 			"t-254-pt",
 			"t-255-pt"
-		]
-	},
-	"T": {
-		"id": "T",
-		"name": "Pensamento",
-		"description": "decide com base em lógica e critérios; prioriza objetividade e eficácia.",
-		"testimonyIds": [
+		],
+		"unrelatedTestimonyIds": [
 			"t-32-pt",
 			"t-51-pt",
-			"t-60-pt",
 			"t-61-pt",
 			"t-66-pt",
 			"t-91-pt",
@@ -161,44 +219,75 @@
 			"t-186-pt",
 			"t-218-pt",
 			"t-230-pt",
-			"t-237-pt"
+			"t-237-pt",
+			"t-99-pt"
 		]
 	},
-	"J": {
+	{
+		"id": "T",
+		"name": "Pensamento",
+		"description": "Decide por lógica e critérios; prioriza objetividade, competência e eficácia.",
+		"relatedTestimonyIds": [
+			"t-32-pt",
+			"t-36-pt",
+			"t-51-pt",
+			"t-61-pt",
+			"t-66-pt",
+			"t-91-pt",
+			"t-98-pt",
+			"t-99-pt",
+			"t-105-pt",
+			"t-148-pt",
+			"t-171-pt",
+			"t-186-pt",
+			"t-218-pt",
+			"t-230-pt",
+			"t-237-pt"
+		],
+		"unrelatedTestimonyIds": [
+			"t-37-pt",
+			"t-41-pt",
+			"t-95-pt",
+			"t-100-pt",
+			"t-120-pt",
+			"t-166-pt",
+			"t-204-pt",
+			"t-212-pt",
+			"t-221-pt",
+			"t-233-pt",
+			"t-252-pt",
+			"t-255-pt"
+		]
+	},
+	{
 		"id": "J",
 		"name": "Julgamento",
-		"description": "estruturado, planejado, gosta de previsibilidade e fechamento.",
-		"testimonyIds": [
+		"description": "Estruturado e planejador; gosta de rotina, previsibilidade e fechamento.",
+		"relatedTestimonyIds": [
 			"t-7-pt",
+			"t-16-pt",
 			"t-24-pt",
 			"t-32-pt",
 			"t-36-pt",
 			"t-48-pt",
 			"t-51-pt",
 			"t-57-pt",
+			"t-59-pt",
 			"t-60-pt",
 			"t-61-pt",
 			"t-67-pt",
 			"t-71-pt",
 			"t-80-pt",
+			"t-98-pt",
 			"t-100-pt",
 			"t-114-pt",
 			"t-221-pt",
-			"t-228-pt",
-			"t-237-pt",
-			"t-254-pt"
-		]
-	},
-	"P": {
-		"id": "P",
-		"name": "Percepção",
-		"description": "flexível, espontâneo, gosta de manter opções abertas e explorar.",
-		"testimonyIds": [
-			"t-8-pt",
+			"t-237-pt"
+		],
+		"unrelatedTestimonyIds": [
 			"t-11-pt",
 			"t-14-pt",
 			"t-26-pt",
-			"t-44-pt",
 			"t-46-pt",
 			"t-58-pt",
 			"t-69-pt",
@@ -210,11 +299,62 @@
 			"t-145-pt",
 			"t-159-pt",
 			"t-160-pt",
-			"t-164-pt",
-			"t-165-pt",
+			"t-169-pt",
+			"t-205-pt",
 			"t-207-pt",
 			"t-209-pt",
-			"t-227-pt"
+			"t-228-pt"
+		]
+	},
+	{
+		"id": "P",
+		"name": "Percepção",
+		"description": "Flexível e espontâneo; prefere manter opções abertas e explorar.",
+		"relatedTestimonyIds": [
+			"t-8-pt",
+			"t-11-pt",
+			"t-14-pt",
+			"t-26-pt",
+			"t-44-pt",
+			"t-46-pt",
+			"t-58-pt",
+			"t-69-pt",
+			"t-73-pt",
+			"t-75-pt",
+			"t-77-pt",
+			"t-96-pt",
+			"t-110-pt",
+			"t-129-pt",
+			"t-145-pt",
+			"t-159-pt",
+			"t-160-pt",
+			"t-164-pt",
+			"t-165-pt",
+			"t-169-pt",
+			"t-205-pt",
+			"t-207-pt",
+			"t-209-pt",
+			"t-228-pt"
+		],
+		"unrelatedTestimonyIds": [
+			"t-7-pt",
+			"t-24-pt",
+			"t-32-pt",
+			"t-36-pt",
+			"t-48-pt",
+			"t-51-pt",
+			"t-57-pt",
+			"t-59-pt",
+			"t-60-pt",
+			"t-61-pt",
+			"t-67-pt",
+			"t-71-pt",
+			"t-80-pt",
+			"t-98-pt",
+			"t-100-pt",
+			"t-114-pt",
+			"t-221-pt",
+			"t-237-pt"
 		]
 	}
-}
+]
