@@ -1910,7 +1910,8 @@
       "blondeHair",
       "scarf",
       "longHair",
-      "showTeeth"
+      "showTeeth",
+      "hairTie"
     ],
     "gbExclusive": true,
     "prompt": "a extra joyful 22-year-old girl scout troop leader",
@@ -2268,7 +2269,8 @@
       "earrings",
       "necklace",
       "greenClothes",
-      "longHair"
+      "longHair",
+      "hairTie"
     ],
     "gbExclusive": true,
     "prompt": "34 year old rich asian woman",
@@ -2629,8 +2631,8 @@
   "us-181": {
     "id": "us-181",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Herbert",
+      "pt": "Heriberto"
     },
     "persona": {
       "en": "the curator",
@@ -2641,7 +2643,14 @@
     "age": "70-80",
     "height": "tall",
     "build": "average",
-    "features": [],
+    "features": [
+      "greenClothes",
+      "greyHair",
+      "scarf",
+      "buttonShirt",
+      "whiteShirt",
+      "mediumHair"
+    ],
     "gbExclusive": true,
     "prompt": "70 year old eccentric white man",
     "animal": ""
@@ -2649,8 +2658,8 @@
   "us-182": {
     "id": "us-182",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Sophie",
+      "pt": "Sofia"
     },
     "persona": {
       "en": "the masseuse",
@@ -2661,7 +2670,13 @@
     "age": "21-30",
     "height": "short",
     "build": "thin",
-    "features": [],
+    "features": [
+      "hairTie",
+      "pinkClothes",
+      "lipstick",
+      "blackHair",
+      "longHair"
+    ],
     "gbExclusive": true,
     "prompt": "22 year old asian masseuse",
     "animal": ""
@@ -2669,8 +2684,8 @@
   "us-183": {
     "id": "us-183",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Claudia",
+      "pt": "Cláudia"
     },
     "persona": {
       "en": "the beggar",
@@ -2681,7 +2696,12 @@
     "age": "40-50",
     "height": "medium",
     "build": "thin",
-    "features": [],
+    "features": [
+      "necklace",
+      "brownClothes",
+      "brownHair",
+      "longHair"
+    ],
     "gbExclusive": true,
     "prompt": "45 year old brown skin latina dirty homeless woman",
     "animal": ""
@@ -2689,19 +2709,26 @@
   "us-184": {
     "id": "us-184",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Matthew",
+      "pt": "Márcio"
     },
     "persona": {
       "en": "the stripper",
       "pt": "o stripper"
     },
-    "gender": "female",
+    "gender": "male",
     "ethnicity": "caucasian",
     "age": "21-30",
     "height": "tall",
     "build": "muscular",
-    "features": [],
+    "features": [
+      "glasses",
+      "hat",
+      "blueClothes",
+      "blackHair",
+      "shortHair",
+      "shirtless"
+    ],
     "gbExclusive": true,
     "prompt": "28 male stripper",
     "animal": ""
@@ -2709,8 +2736,8 @@
   "us-185": {
     "id": "us-185",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Jesus",
+      "pt": "Josué"
     },
     "persona": {
       "en": "the truck driver",
@@ -2721,7 +2748,14 @@
     "age": "50-60",
     "height": "medium",
     "build": "average",
-    "features": [],
+    "features": [
+      "necklace",
+      "whiteShirt",
+      "goatee",
+      "mustache",
+      "greyHair",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "prompt": "55 brown latino truck driver",
     "animal": ""
@@ -2729,8 +2763,8 @@
   "us-186": {
     "id": "us-186",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Rodney",
+      "pt": "Robson"
     },
     "persona": {
       "en": "the foodie",
@@ -2741,7 +2775,13 @@
     "age": "30-40",
     "height": "medium",
     "build": "large",
-    "features": [],
+    "features": [
+      "patternedShirt",
+      "whiteShirt",
+      "mustache",
+      "blackHair",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "prompt": "32 year old fat black guy looking hungry",
     "animal": ""
@@ -2749,8 +2789,8 @@
   "us-187": {
     "id": "us-187",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Chantelle",
+      "pt": "Chandyellen"
     },
     "persona": {
       "en": "the tiktop diva",
@@ -2761,7 +2801,15 @@
     "age": "21-30",
     "height": "short",
     "build": "average",
-    "features": [],
+    "features": [
+      "earrings",
+      "hairTie",
+      "blackClothes",
+      "lipstick",
+      "blackHair",
+      "mediumHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "prompt": "22 year old black woman showing off her nails with lots of attitude",
     "animal": ""
@@ -2769,8 +2817,8 @@
   "us-188": {
     "id": "us-188",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Rosa",
+      "pt": "Rosa"
     },
     "persona": {
       "en": "the maid",
@@ -2781,7 +2829,14 @@
     "age": "30-40",
     "height": "medium",
     "build": "average",
-    "features": [],
+    "features": [
+      "hat",
+      "blackClothes",
+      "lipstick",
+      "blackHair",
+      "longHair",
+      "hairTie"
+    ],
     "gbExclusive": true,
     "prompt": "36 year old brown latina woman",
     "animal": ""
@@ -2789,8 +2844,8 @@
   "us-189": {
     "id": "us-189",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Shaniqua",
+      "pt": "Soraia"
     },
     "persona": {
       "en": "the big beautiful black woman",
@@ -2801,7 +2856,12 @@
     "age": "21-30",
     "height": "medium",
     "build": "large",
-    "features": [],
+    "features": [
+      "blackClothes",
+      "lipstick",
+      "blackHair",
+      "mediumHair"
+    ],
     "gbExclusive": true,
     "prompt": "28 year old big black woman",
     "animal": ""
@@ -2835,8 +2895,8 @@
   "us-190": {
     "id": "us-190",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Valerie",
+      "pt": "Valentina"
     },
     "persona": {
       "en": "the awkward lesbian",
@@ -2844,10 +2904,17 @@
     },
     "gender": "female",
     "ethnicity": "asian",
-    "age": "",
+    "age": "30-40",
     "height": "medium",
     "build": "average",
-    "features": [],
+    "features": [
+      "glasses",
+      "blueClothes",
+      "buttonShirt",
+      "blackHair",
+      "mediumHair",
+      "showTeeth"
+    ],
     "gbExclusive": true,
     "prompt": "32 year old awkward lesbian asian woman",
     "animal": ""
@@ -2855,8 +2922,8 @@
   "us-191": {
     "id": "us-191",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Willow",
+      "pt": "Wânia"
     },
     "persona": {
       "en": "the wiccan",
@@ -2867,7 +2934,14 @@
     "age": "50-60",
     "height": "medium",
     "build": "thin",
-    "features": [],
+    "features": [
+      "earrings",
+      "necklace",
+      "whiteShirt",
+      "greyHair",
+      "mediumHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "prompt": "50 year old white woman who is wiccan",
     "animal": ""
@@ -2875,8 +2949,8 @@
   "us-192": {
     "id": "us-192",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Tameka",
+      "pt": "Tainá"
     },
     "persona": {
       "en": "the voodoo witch doctor",
@@ -2887,7 +2961,15 @@
     "age": "30-40",
     "height": "medium",
     "build": "average",
-    "features": [],
+    "features": [
+      "earrings",
+      "hat",
+      "necklace",
+      "piercings",
+      "blackClothes",
+      "brownHair",
+      "mediumHair"
+    ],
     "gbExclusive": true,
     "prompt": "34 year old black voodoo witch",
     "animal": ""
@@ -2895,8 +2977,8 @@
   "us-193": {
     "id": "us-193",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Isla",
+      "pt": "Ísis"
     },
     "persona": {
       "en": "the Scottish girl",
@@ -2907,7 +2989,14 @@
     "age": "21-30",
     "height": "short",
     "build": "average",
-    "features": [],
+    "features": [
+      "scarf",
+      "greenClothes",
+      "lipstick",
+      "redHair",
+      "longHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "prompt": "27 year old Scottish woman with many freckles",
     "animal": ""
@@ -2915,8 +3004,8 @@
   "us-194": {
     "id": "us-194",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Miguel",
+      "pt": "Miguel"
     },
     "persona": {
       "en": "the acne boy",
@@ -2927,7 +3016,15 @@
     "age": "18-21",
     "height": "short",
     "build": "average",
-    "features": [],
+    "features": [
+      "hat",
+      "hoodie",
+      "purpleClothes",
+      "whiteShirt",
+      "mustache",
+      "blackHair",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "prompt": "18-year-old light brown latino boy with a thin mustache and his face covered in acne",
     "animal": ""
@@ -2935,8 +3032,8 @@
   "us-195": {
     "id": "us-195",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Vladimir",
+      "pt": "Vladimir"
     },
     "persona": {
       "en": "the Russian henchman",
@@ -2947,7 +3044,13 @@
     "age": "40-50",
     "height": "tall",
     "build": "muscular",
-    "features": [],
+    "features": [
+      "necklace",
+      "blackClothes",
+      "beard",
+      "blondeHair",
+      "bald"
+    ],
     "gbExclusive": true,
     "prompt": "45 year old russian henchman",
     "animal": ""
@@ -3528,7 +3631,8 @@
       "shortHair",
       "brownHair",
       "avoidingCamera",
-      "redClothes"
+      "redClothes",
+      "blueClothes"
     ],
     "prompt": "28-year-old black man",
     "animal": ""
