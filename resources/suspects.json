@@ -1,5159 +1,5071 @@
 {
-  "us-01": {
-    "id": "us-01",
-    "name": {
-      "en": "Arthur",
-      "pt": "Artur"
-    },
-    "persona": {
-      "en": "the poet",
-      "pt": "o poeta"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "hat",
-      "tie",
-      "glasses",
-      "brownHair",
-      "shortHair",
-      "beard",
-      "buttonShirt",
-      "greenClothes",
-      "bow",
-      "patternedShirt",
-      "yellowClothes"
-    ],
-    "prompt": "28-year-old black man",
-    "animal": ""
-  },
-  "us-02": {
-    "id": "us-02",
-    "name": {
-      "en": "Prince",
-      "pt": "Pedro"
-    },
-    "persona": {
-      "en": "the accountant",
-      "pt": "o contador"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "tie",
-      "avoidingCamera",
-      "buttonShirt",
-      "whiteShirt",
-      "brownClothes"
-    ],
-    "prompt": "25-year-old black man",
-    "animal": ""
-  },
-  "us-03": {
-    "id": "us-03",
-    "name": {
-      "en": "Cameron",
-      "pt": "Conrado"
-    },
-    "persona": {
-      "en": "the hipster",
-      "pt": "o hipster"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "hat",
-      "scarf",
-      "beard",
-      "blondeHair",
-      "longHair",
-      "avoidingCamera",
-      "blueClothes"
-    ],
-    "prompt": "30-year-old blond man",
-    "animal": ""
-  },
-  "us-04": {
-    "id": "us-04",
-    "name": {
-      "en": "Paul",
-      "pt": "Paulo"
-    },
-    "persona": {
-      "en": "the creepy neighbor",
-      "pt": "o vizinho estranho"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "greyHair",
-      "bald",
-      "mustache",
-      "goatee",
-      "avoidingCamera",
-      "buttonShirt",
-      "showTeeth",
-      "wearingStripes",
-      "brownClothes",
-      "greenClothes",
-      "shortHair"
-    ],
-    "prompt": "50-year-old bald man",
-    "animal": ""
-  },
-  "us-05": {
-    "id": "us-05",
-    "name": {
-      "en": "Jesse",
-      "pt": "Jéferson"
-    },
-    "persona": {
-      "en": "the snowboarder",
-      "pt": "o snowboarder"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blondeHair",
-      "showTeeth",
-      "blueClothes"
-    ],
-    "prompt": "18-year-old snowboarder",
-    "animal": ""
-  },
-  "us-06": {
-    "id": "us-06",
-    "name": {
-      "en": "Fredrick",
-      "pt": "Frederico"
-    },
-    "persona": {
-      "en": "the jock",
-      "pt": "o atleta"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "blackHair",
-      "shortHair",
-      "avoidingCamera",
-      "showTeeth",
-      "wearingStripes",
-      "whiteShirt",
-      "blueClothes"
-    ],
-    "prompt": "26-year-old white jock",
-    "animal": ""
-  },
-  "us-07": {
-    "id": "us-07",
-    "name": {
-      "en": "Roger",
-      "pt": "Rogério"
-    },
-    "persona": {
-      "en": "the nerd",
-      "pt": "o nerd"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "glasses",
-      "buttonShirt",
-      "whiteShirt",
-      "greenClothes"
-    ],
-    "prompt": "18-year-old white nerd",
-    "animal": ""
-  },
-  "us-08": {
-    "id": "us-08",
-    "name": {
-      "en": "Raymond",
-      "pt": "Raimundo"
-    },
-    "persona": {
-      "en": "the retired amateur chess player",
-      "pt": "o aposentador jogador de xadrez"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "50-60",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "scarf",
-      "hat",
-      "beard",
-      "greyHair",
-      "shortHair",
-      "wearingStripes",
-      "brownClothes"
-    ],
-    "prompt": "55-year-old black man",
-    "animal": ""
-  },
-  "us-09": {
-    "id": "us-09",
-    "name": {
-      "en": "Janine",
-      "pt": "Janine"
-    },
-    "persona": {
-      "en": "the witch",
-      "pt": "a bruxa"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "80-90",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "hoodie",
-      "longHair",
-      "greyHair",
-      "blueClothes",
-      "greenClothes"
-    ],
-    "prompt": "90-year-old white woman",
-    "animal": ""
-  },
-  "us-10": {
-    "id": "us-10",
-    "name": {
-      "en": "Levi",
-      "pt": "Levi"
-    },
-    "persona": {
-      "en": "the amish",
-      "pt": "o amish"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "beard",
-      "hat",
-      "glasses",
-      "buttonShirt",
-      "whiteShirt",
-      "blackClothes"
-    ],
-    "prompt": "55-year-old Amish man",
-    "animal": ""
-  },
-  "us-100": {
-    "id": "us-100",
-    "name": {
-      "en": "Easton",
-      "pt": "Ericlécio"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "bald",
-      "longHair",
-      "brownHair",
-      "goatee",
-      "noAccessories",
-      "buttonShirt",
-      "blueClothes",
-      "blackClothes"
-    ],
-    "prompt": "36-year-old white man",
-    "animal": ""
-  },
-  "us-101": {
-    "id": "us-101",
-    "name": {
-      "en": "Josiah",
-      "pt": "Jaci"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "30-40",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "hat",
-      "glasses",
-      "shortHair",
-      "blackHair",
-      "avoidingCamera"
-    ],
-    "prompt": "34 -year-old Chinese man",
-    "animal": ""
-  },
-  "us-102": {
-    "id": "us-102",
-    "name": {
-      "en": "Giovanni",
-      "pt": "Giovani"
-    },
-    "persona": {
-      "en": "the fisher hobbiest",
-      "pt": "o pescador amador"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "longHair",
-      "glasses",
-      "hat",
-      "beard",
-      "greyHair",
-      "buttonShirt",
-      "wearingStripes",
-      "blueClothes",
-      "patternedShirt"
-    ],
-    "prompt": "61-year-old white man",
-    "animal": ""
-  },
-  "us-103": {
-    "id": "us-103",
-    "name": {
-      "en": "Farley",
-      "pt": "Fábio"
-    },
-    "persona": {
-      "en": "the jewish man",
-      "pt": "o judeu"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "glasses",
-      "beard",
-      "shortHair",
-      "hat",
-      "brownHair",
-      "brownClothes"
-    ],
-    "prompt": "41-year-old Jewish man",
-    "animal": ""
-  },
-  "us-104": {
-    "id": "us-104",
-    "name": {
-      "en": "Zachary",
-      "pt": "Zacarias"
-    },
-    "persona": {
-      "en": "the priest",
-      "pt": "o padre"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "beard",
-      "noAccessories",
-      "blackClothes"
-    ],
-    "prompt": "27-year-old white priest",
-    "animal": ""
-  },
-  "us-105": {
-    "id": "us-105",
-    "name": {
-      "en": "Margaret",
-      "pt": "Margarete"
-    },
-    "persona": {
-      "en": "the librarian",
-      "pt": "a bibliotecária"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "longHair",
-      "brownHair",
-      "glasses",
-      "earrings",
-      "lipstick",
-      "wearingStripes",
-      "blueClothes",
-      "hairTie",
-      "patternedShirt"
-    ],
-    "prompt": "32-year-old white woman",
-    "animal": ""
-  },
-  "us-106": {
-    "id": "us-106",
-    "name": {
-      "en": "Denise",
-      "pt": "Denise"
-    },
-    "persona": {
-      "en": "a candidata",
-      "pt": "a candidata"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "necklace",
-      "earrings",
-      "brownHair",
-      "longHair",
-      "lipstick",
-      "blueClothes"
-    ],
-    "prompt": "45-year-old black woman",
-    "animal": ""
-  },
-  "us-107": {
-    "id": "us-107",
-    "name": {
-      "en": "Charles",
-      "pt": "Clóvis"
-    },
-    "persona": {
-      "en": "the professor",
-      "pt": "o professor"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "greyHair",
-      "mustache",
-      "tie",
-      "buttonShirt",
-      "whiteShirt",
-      "purpleClothes",
-      "bow"
-    ],
-    "prompt": "68-year-old white man",
-    "animal": ""
-  },
-  "us-108": {
-    "id": "us-108",
-    "name": {
-      "en": "Clayton",
-      "pt": "Cleiton"
-    },
-    "persona": {
-      "en": "the soccer player",
-      "pt": "o jogador de futebol"
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "21-30",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "earrings",
-      "brownHair",
-      "shortHair",
-      "showTeeth",
-      "yellowClothes"
-    ],
-    "prompt": "24-year-old light brown skin Brazilian man",
-    "animal": ""
-  },
-  "us-109": {
-    "id": "us-109",
-    "name": {
-      "en": "Shirley",
-      "pt": "Shirley"
-    },
-    "persona": {
-      "en": "the nun",
-      "pt": "a freira"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "blackHair",
-      "hat",
-      "lipstick",
-      "headscarf",
-      "avoidingCamera",
-      "blackClothes"
-    ],
-    "prompt": "28-year-old white nun",
-    "animal": ""
-  },
-  "us-11": {
-    "id": "us-11",
-    "name": {
-      "en": "Norton",
-      "pt": "Nelson"
-    },
-    "persona": {
-      "en": "the absent husband",
-      "pt": "o marido ausente"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "beard",
-      "brownHair",
-      "mediumHair",
-      "avoidingCamera",
-      "buttonShirt",
-      "orangeClothes",
-      "patternedShirt"
-    ],
-    "prompt": "47-year-old man with brown hair",
-    "animal": ""
-  },
-  "us-110": {
-    "id": "us-110",
-    "name": {
-      "en": "Nassim",
-      "pt": "Nassim"
-    },
-    "persona": {
-      "en": "the muslin",
-      "pt": "o muçulmano"
-    },
-    "gender": "male",
-    "ethnicity": "middle-eastern",
-    "age": "50-60",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "hat",
-      "mustache",
-      "greyHair",
-      "shortHair",
-      "headscarf",
-      "buttonShirt",
-      "showTeeth",
-      "whiteShirt",
-      "noHairInfo"
-    ],
-    "prompt": "55-year-old middle-eastern man",
-    "animal": ""
-  },
-  "us-111": {
-    "id": "us-111",
-    "name": {
-      "en": "Monique",
-      "pt": "Monique"
-    },
-    "persona": {
-      "en": "the drag queen",
-      "pt": "a drag queen"
-    },
-    "gender": "other",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "necklace",
-      "redHair",
-      "longHair",
-      "earrings",
-      "lipstick",
-      "wearingFlowers",
-      "pinkClothes"
-    ],
-    "prompt": "25-year-old white drag queen",
-    "animal": ""
-  },
-  "us-112": {
-    "id": "us-112",
-    "name": {
-      "en": "Nolan",
-      "pt": "Nestor"
-    },
-    "persona": {
-      "en": "the Jamaican",
-      "pt": "o jamaicano"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "30-40",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "hat",
-      "brownHair",
-      "longHair",
-      "goatee",
-      "mustache",
-      "greenClothes"
-    ],
-    "prompt": "32-year-old Jamaican man",
-    "animal": ""
-  },
-  "us-113": {
-    "id": "us-113",
-    "name": {
-      "en": "Chris",
-      "pt": "Cris"
-    },
-    "persona": {
-      "en": "the korean boy",
-      "pt": "o menino coreano"
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "18-21",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "noAccessories",
-      "whiteShirt",
-      "blueClothes"
-    ],
-    "prompt": "20-year-old Korean guy",
-    "animal": ""
-  },
-  "us-114": {
-    "id": "us-114",
-    "name": {
-      "en": "Isaiah",
-      "pt": "Isaías"
-    },
-    "persona": {
-      "en": "the indiana jones",
-      "pt": "o indiana jones"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "beard",
-      "hat",
-      "buttonShirt",
-      "whiteShirt",
-      "brownClothes"
-    ],
-    "prompt": "38-year-old white man",
-    "animal": ""
-  },
-  "us-115": {
-    "id": "us-115",
-    "name": {
-      "en": "Kai",
-      "pt": "Kai"
-    },
-    "persona": {
-      "en": "the hawaiian boy",
-      "pt": "o havaiano"
-    },
-    "gender": "male",
-    "ethnicity": "mixed",
-    "age": "18-21",
-    "height": "short",
-    "build": "muscular",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "necklace",
-      "showTeeth",
-      "wearingFlowers",
-      "orangeClothes"
-    ],
-    "prompt": "20-year-old tanned Hawaiian guy",
-    "animal": ""
-  },
-  "us-116": {
-    "id": "us-116",
-    "name": {
-      "en": "Theo",
-      "pt": "Téo"
-    },
-    "persona": {
-      "en": "the flamboyant gay",
-      "pt": "o gay espalhafatoso"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "lipstick",
-      "necklace",
-      "showTeeth",
-      "wearingFlowers",
-      "blueClothes",
-      "patternedShirt"
-    ],
-    "prompt": "26-year-old flamboyant guy",
-    "animal": ""
-  },
-  "us-117": {
-    "id": "us-117",
-    "name": {
-      "en": "Elijah",
-      "pt": "Elias"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "glasses",
-      "shortHair",
-      "blackHair",
-      "avoidingCamera",
-      "patternedShirt"
-    ],
-    "prompt": "24-year-old chinese guy",
-    "animal": ""
-  },
-  "us-118": {
-    "id": "us-118",
-    "name": {
-      "en": "Jacky",
-      "pt": "Jaqueline"
-    },
-    "persona": {
-      "en": "the white trash",
-      "pt": "a pobre branca"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "longHair",
-      "blondeHair",
-      "wearingStripes",
-      "whiteShirt",
-      "greenClothes",
-      "blueClothes",
-      "redClothes",
-      "hairTie",
-      "patternedShirt",
-      "yellowClothes"
-    ],
-    "prompt": "34-year-old fat white woman",
-    "animal": ""
-  },
-  "us-119": {
-    "id": "us-119",
-    "name": {
-      "en": "Hassam",
-      "pt": "Hassam"
-    },
-    "persona": {
-      "en": "the indian boy",
-      "pt": "o menino indiano"
-    },
-    "gender": "male",
-    "ethnicity": "indian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "mustache",
-      "glasses",
-      "orangeClothes",
-      "patternedShirt"
-    ],
-    "prompt": "22-year-old Indian man",
-    "animal": ""
-  },
-  "us-12": {
-    "id": "us-12",
-    "name": {
-      "en": "Rosanne",
-      "pt": "Rosana"
-    },
-    "persona": {
-      "en": "the loving auntie",
-      "pt": "a tia querida"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "40-50",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "longHair",
-      "brownHair",
-      "lipstick",
-      "noAccessories",
-      "pinkClothes"
-    ],
-    "prompt": "48-year-old black woman",
-    "animal": ""
-  },
-  "us-120": {
-    "id": "us-120",
-    "name": {
-      "en": "Lisa",
-      "pt": "Lisa"
-    },
-    "persona": {
-      "en": "the k-popper",
-      "pt": "a menina k-pop"
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "18-21",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "longHair",
-      "coloredHair",
-      "lipstick",
-      "earrings",
-      "necklace",
-      "showTeeth",
-      "pinkClothes",
-      "yellowClothes"
-    ],
-    "prompt": "18-year-old Korean girl",
-    "animal": ""
-  },
-  "us-121": {
-    "id": "us-121",
-    "name": {
-      "en": "Carmen",
-      "pt": "Carmen"
-    },
-    "persona": {
-      "en": "the mexican mom",
-      "pt": "a tia mexicana"
-    },
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "50-60",
-    "height": "short",
-    "build": "large",
-    "features": [
-      "brownHair",
-      "shortHair",
-      "earrings",
-      "patternedShirt"
-    ],
-    "prompt": "50-year-old Mexican woman",
-    "animal": ""
-  },
-  "us-122": {
-    "id": "us-122",
-    "name": {
-      "en": "Simon",
-      "pt": "Simão"
-    },
-    "persona": {
-      "en": "the superhero",
-      "pt": "o super-herói"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "bald",
-      "glasses",
-      "brownHair",
-      "blueClothes",
-      "redClothes",
-      "patternedShirt"
-    ],
-    "prompt": "42-year-old white man",
-    "animal": ""
-  },
-  "us-123": {
-    "id": "us-123",
-    "name": {
-      "en": "Stella",
-      "pt": "Estela"
-    },
-    "persona": {
-      "en": "the tiger mom",
-      "pt": "a mãe tigresa"
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "longHair",
-      "blackHair",
-      "necklace",
-      "buttonShirt",
-      "whiteShirt",
-      "hairTie"
-    ],
-    "prompt": "34-year-old Chinese woman",
-    "animal": ""
-  },
-  "us-124": {
-    "id": "us-124",
-    "name": {
-      "en": "Joanne",
-      "pt": "Joana"
-    },
-    "persona": {
-      "en": "the goth girl",
-      "pt": "a gótica"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "blackHair",
-      "longHair",
-      "lipstick",
-      "noAccessories",
-      "blackClothes"
-    ],
-    "prompt": "19-year-old goth girl",
-    "animal": ""
-  },
-  "us-125": {
-    "id": "us-125",
-    "name": {
-      "en": "Niko",
-      "pt": "Niko"
-    },
-    "persona": {
-      "en": "the greek",
-      "pt": "o grego"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "large",
-    "features": [
-      "mediumHair",
-      "brownHair",
-      "beard",
-      "noAccessories",
-      "avoidingCamera",
-      "buttonShirt",
-      "whiteShirt",
-      "pinkClothes",
-      "hairyChest"
-    ],
-    "prompt": "35-year-old greek man",
-    "animal": ""
-  },
-  "us-126": {
-    "id": "us-126",
-    "name": {
-      "en": "Tyrese",
-      "pt": "Tiago"
-    },
-    "persona": {
-      "en": "the model",
-      "pt": "o modelo"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "glasses",
-      "buttonShirt",
-      "blueClothes",
-      "hairyChest"
-    ],
-    "prompt": "24-year-old very handsome slick black man",
-    "animal": ""
-  },
-  "us-127": {
-    "id": "us-127",
-    "name": {
-      "en": "Letitia",
-      "pt": "Letícia"
-    },
-    "persona": {
-      "en": "the black bald model",
-      "pt": "a modelo negra careca"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "bald",
-      "lipstick",
-      "noAccessories",
-      "yellowClothes"
-    ],
-    "prompt": "23-year-old very beautiful black woman",
-    "animal": ""
-  },
-  "us-128": {
-    "id": "us-128",
-    "name": {
-      "en": "Dani",
-      "pt": "Dani"
-    },
-    "persona": {
-      "en": "the non-binary",
-      "pt": "o não-binário"
-    },
-    "gender": "non-binary",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "glasses",
-      "piercings",
-      "earrings",
-      "necklace",
-      "buttonShirt",
-      "blueClothes",
-      "greenClothes",
-      "yellowClothes",
-      "pinkClothes",
-      "blackClothes",
-      "patternedShirt"
-    ],
-    "prompt": "25-year-old non-binary person",
-    "animal": ""
-  },
-  "us-129": {
-    "id": "us-129",
-    "name": {
-      "en": "Nivea",
-      "pt": "Nívea"
-    },
-    "persona": {
-      "en": "the vitiligo girl",
-      "pt": "a menina com vitiligo"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "mediumHair",
-      "blackHair",
-      "earrings",
-      "buttonShirt",
-      "whiteShirt"
-    ],
-    "prompt": "26-year-old black woman with vitiligo",
-    "animal": ""
-  },
-  "us-13": {
-    "id": "us-13",
-    "name": {
-      "en": "Megan",
-      "pt": "Marta"
-    },
-    "persona": {
-      "en": "the zen girl",
-      "pt": "a menina zen"
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "scarf",
-      "piercings",
-      "coloredHair",
-      "shortHair",
-      "lipstick",
-      "necklace",
-      "avoidingCamera",
-      "blueClothes"
-    ],
-    "prompt": "27-year-old asian woman",
-    "animal": ""
-  },
-  "us-130": {
-    "id": "us-130",
-    "name": {
-      "en": "McWillWin",
-      "pt": "McGui"
-    },
-    "persona": {
-      "en": "the white rapper",
-      "pt": "o rapper branco"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "mediumHair",
-      "blackHair",
-      "blondeHair",
-      "necklace",
-      "showTeeth",
-      "whiteShirt",
-      "blackClothes"
-    ],
-    "prompt": "27-year-old white man with golden teeth",
-    "animal": ""
-  },
-  "us-131": {
-    "id": "us-131",
-    "name": {
-      "en": "Lorraine",
-      "pt": "Lorena"
-    },
-    "persona": {
-      "en": "the plastic surgery doll",
-      "pt": "a boneca de cirurgia plástica"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "blondeHair",
-      "lipstick",
-      "noAccessories",
-      "shirtless"
-    ],
-    "prompt": "33-year-old woman with exaggerated lip-injections",
-    "animal": ""
-  },
-  "us-132": {
-    "id": "us-132",
-    "name": {
-      "en": "Hugh",
-      "pt": "Humberto"
-    },
-    "persona": {
-      "en": "the hooligan",
-      "pt": "o hooligan"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "mediumHair",
-      "bald",
-      "coloredHair",
-      "noAccessories",
-      "whiteShirt"
-    ],
-    "prompt": "38-year-old white man",
-    "animal": ""
-  },
-  "us-133": {
-    "id": "us-133",
-    "name": {
-      "en": "Bao",
-      "pt": "Bao"
-    },
-    "persona": {
-      "en": "the monk",
-      "pt": "o monge"
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "50-60",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "bald",
-      "greyHair",
-      "noAccessories",
-      "avoidingCamera",
-      "brownClothes"
-    ],
-    "prompt": "57-year-old Thai monk",
-    "animal": ""
-  },
-  "us-134": {
-    "id": "us-134",
-    "name": {
-      "en": "Tyler",
-      "pt": "Tháles"
-    },
-    "persona": {
-      "en": "the heir",
-      "pt": "o herdeiro"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "medium",
-    "build": "muscular",
-    "features": [
-      "brownHair",
-      "shortHair",
-      "tie",
-      "buttonShirt",
-      "whiteShirt",
-      "blueClothes"
-    ],
-    "prompt": "19-year-old entitled white boy",
-    "animal": ""
-  },
-  "us-135": {
-    "id": "us-135",
-    "name": {
-      "en": "Chaz",
-      "pt": "Cássio"
-    },
-    "persona": {
-      "en": "the bodybuilder",
-      "pt": "o fisiculturista"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "muscular",
-    "features": [
-      "shortHair",
-      "blondeHair",
-      "noAccessories",
-      "shirtless"
-    ],
-    "prompt": "37-year-old white bodybuilder with oiled torso",
-    "animal": ""
-  },
-  "us-136": {
-    "id": "us-136",
-    "name": {
-      "en": "Melissa",
-      "pt": "Melissa"
-    },
-    "persona": {
-      "en": "bald piercing girl",
-      "pt": "a menina careca com piercings"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "bald",
-      "earrings",
-      "piercings"
-    ],
-    "prompt": "23-year-old white woman with piercings",
-    "animal": ""
-  },
-  "us-137": {
-    "id": "us-137",
-    "name": {
-      "en": "Karen",
-      "pt": "Márcia"
-    },
-    "persona": {
-      "en": "karen",
-      "pt": "a barraqueira"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blondeHair",
-      "earrings",
-      "wearingStripes",
-      "patternedShirt"
-    ],
-    "prompt": "43-year-old white woman with a bob haircut",
-    "animal": ""
-  },
-  "us-138": {
-    "id": "us-138",
-    "name": {
-      "en": "Maria",
-      "pt": "Ana Maria"
-    },
-    "persona": {
-      "en": "the disney adult",
-      "pt": "a adulta da disney"
-    },
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "brownHair",
-      "mediumHair",
-      "earrings",
-      "showTeeth",
-      "pinkClothes",
-      "bow",
-      "patternedShirt"
-    ],
-    "prompt": "36-year-old latina woman",
-    "animal": ""
-  },
-  "us-139": {
-    "id": "us-139",
-    "name": {
-      "en": "Marlon",
-      "pt": "Marlon"
-    },
-    "persona": {
-      "en": "the dwarf",
-      "pt": "o anão"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blondeHair",
-      "noAccessories",
-      "showTeeth",
-      "blueClothes"
-    ],
-    "prompt": "32-year-old dwarf man",
-    "animal": ""
-  },
-  "us-14": {
-    "id": "us-14",
-    "name": {
-      "en": "Nathaniel",
-      "pt": "Nataniel"
-    },
-    "persona": {
-      "en": "the silent troubled boy",
-      "pt": "o menino silencioso e problemático"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "hoodie",
-      "piercings",
-      "blondeHair",
-      "shortHair",
-      "greenClothes"
-    ],
-    "prompt": "22-year-old guy with blonde hair",
-    "animal": ""
-  },
-  "us-140": {
-    "id": "us-140",
-    "name": {
-      "en": "Raymond",
-      "pt": "Raimundo"
-    },
-    "persona": {
-      "en": "the creepy janitor",
-      "pt": "o zelador esquisito"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "mustache",
-      "beard",
-      "noAccessories",
-      "buttonShirt"
-    ],
-    "prompt": "43-year-old white man",
-    "animal": ""
-  },
-  "us-141": {
-    "id": "us-141",
-    "name": {
-      "en": "Howard",
-      "pt": "Horácio"
-    },
-    "persona": {
-      "en": "the pervert incel",
-      "pt": "o incel tarado nojento"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "bald",
-      "shortHair",
-      "brownHair",
-      "glasses",
-      "hairyChest",
-      "shirtless"
-    ],
-    "prompt": "34-year-old white man",
-    "animal": ""
-  },
-  "us-142": {
-    "id": "us-142",
-    "name": {
-      "en": "Salma",
-      "pt": "Suellen"
-    },
-    "persona": {
-      "en": "the chola",
-      "pt": "a chola mexicana"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "lipstick",
-      "blackHair",
-      "longHair",
-      "earrings",
-      "necklace",
-      "avoidingCamera",
-      "purpleClothes",
-      "hairTie",
-      "patternedShirt"
-    ],
-    "prompt": "26-year-old latina chola woman",
-    "animal": ""
-  },
-  "us-143": {
-    "id": "us-143",
-    "name": {
-      "en": "Peter",
-      "pt": "Pedro"
-    },
-    "persona": {
-      "en": "the emo",
-      "pt": "o emo"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "mediumHair",
-      "blackHair",
-      "piercings",
-      "avoidingCamera",
-      "blackClothes"
-    ],
-    "prompt": "20-year-old emo guy",
-    "animal": ""
-  },
-  "us-144": {
-    "id": "us-144",
-    "name": {
-      "en": "David",
-      "pt": "Diogo"
-    },
-    "persona": {
-      "en": "the ex-con",
-      "pt": "o ex-presidiário"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "bald",
-      "goatee",
-      "whiteShirt"
-    ],
-    "prompt": "43-year-old ex-con white man",
-    "animal": ""
-  },
-  "us-145": {
-    "id": "us-145",
-    "name": {
-      "en": "Selena",
-      "pt": "Selena"
-    },
-    "persona": {
-      "en": "the clerk",
-      "pt": "a balconista"
-    },
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "mediumHair",
-      "blackHair",
-      "buttonShirt",
-      "whiteShirt",
-      "blueClothes"
-    ],
-    "prompt": "32-year-old latino woman",
-    "animal": ""
-  },
-  "us-146": {
-    "id": "us-146",
-    "name": {
-      "en": "Linda",
-      "pt": "Lurdes"
-    },
-    "persona": {
-      "en": "the young old lady",
-      "pt": "a xóvem senhora idosa"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "glasses",
-      "brownHair",
-      "longHair",
-      "necklace",
-      "blueClothes",
-      "pinkClothes",
-      "headscarf",
-      "hairTie"
-    ],
-    "prompt": "58-year-old white woman dressed as a young girl",
-    "animal": ""
-  },
-  "us-147": {
-    "id": "us-147",
-    "name": {
-      "en": "Ronald",
-      "pt": "Ronaldo"
-    },
-    "persona": {
-      "en": "the addict",
-      "pt": "o viciado"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "blondeHair",
-      "shortHair",
-      "noAccessories",
-      "showTeeth"
-    ],
-    "prompt": "32-year-old white meth head",
-    "animal": ""
-  },
-  "us-148": {
-    "id": "us-148",
-    "name": {
-      "en": "Felix",
-      "pt": "Félix"
-    },
-    "persona": {
-      "en": "the albino",
-      "pt": "o albino"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "noAccessories",
-      "blackClothes"
-    ],
-    "prompt": "25-year-old albino man",
-    "animal": ""
-  },
-  "us-149": {
-    "id": "us-149",
-    "name": {
-      "en": "Kaya",
-      "pt": "Kala"
-    },
-    "persona": {
-      "en": "the native girl",
-      "pt": "a índia"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "longHair",
-      "blackHair",
-      "patternedShirt"
-    ],
-    "prompt": "26-year-old native American woman",
-    "animal": ""
-  },
-  "us-15": {
-    "id": "us-15",
-    "name": {
-      "en": "John",
-      "pt": "Júlio"
-    },
-    "persona": {
-      "en": "the depressive widower",
-      "pt": "o viúvo depressivo"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "blondeHair",
-      "greyHair",
-      "shortHair",
-      "beard",
-      "scarf",
-      "avoidingCamera",
-      "greenClothes"
-    ],
-    "prompt": "56-year-old man",
-    "animal": ""
-  },
-  "us-150": {
-    "id": "us-150",
-    "name": {
-      "en": "Mistress Raven",
-      "pt": "Madame Corvina"
-    },
-    "persona": {
-      "en": "the dominatrix",
-      "pt": "a sadomasoquista"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "muscular",
-    "features": [
-      "mediumHair",
-      "blackHair",
-      "lipstick",
-      "blackClothes"
-    ],
-    "prompt": "28-year-old white woman",
-    "animal": ""
-  },
-  "us-151": {
-    "id": "us-151",
-    "name": {
-      "en": "Darius",
-      "pt": "Dario"
-    },
-    "persona": {
-      "en": "the bouncer",
-      "pt": "o segurança"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "30-40",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "beard",
-      "blackClothes",
-      "buttonShirt"
-    ],
-    "gbExclusive": true,
-    "prompt": "35 year old black muscular bouncer",
-    "animal": ""
-  },
-  "us-152": {
-    "id": "us-152",
-    "name": {
-      "en": "Owen",
-      "pt": "Orlando"
-    },
-    "persona": {
-      "en": "the furry",
-      "pt": "o furry"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "longHair",
-      "brownHair",
-      "whiteShirt",
-      "pinkClothes",
-      "hat"
-    ],
-    "gbExclusive": true,
-    "prompt": "30 year old white man in a pink fox furry costume",
-    "animal": "Sheep"
-  },
-  "us-153": {
-    "id": "us-153",
-    "name": {
-      "en": "Lin",
-      "pt": "Lin"
-    },
-    "persona": {
-      "en": "the chinese rice farmer",
-      "pt": "o chinezinho"
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "80-90",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "greyHair",
-      "shortHair",
-      "bald",
-      "showTeeth",
-      "blueClothes",
-      "hat",
-      "buttonShirt"
-    ],
-    "gbExclusive": true,
-    "prompt": "90-year-old chinese man with a straw hat",
-    "animal": ""
-  },
-  "us-154": {
-    "id": "us-154",
-    "name": {
-      "en": "Toby",
-      "pt": "Túlio"
-    },
-    "persona": {
-      "en": "the down syndrome boy",
-      "pt": "o menino com síndrome de down"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "blueClothes",
-      "noAccessories",
-      "buttonShirt",
-      "avoidingCamera"
-    ],
-    "gbExclusive": true,
-    "prompt": "25-year-old white man with down syndrome. Make it very clear he has down syndrome",
-    "animal": ""
-  },
-  "us-155": {
-    "id": "us-155",
-    "name": {
-      "en": "Martha",
-      "pt": "Marilda"
-    },
-    "persona": {
-      "en": "the housewife",
-      "pt": "a dona-de-casa"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "blueClothes",
-      "mediumHair",
-      "lipstick",
-      "longHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "36-year-old of a 40 year housewife with curlers in a bad mood",
-    "animal": ""
-  },
-  "us-156": {
-    "id": "us-156",
-    "name": {
-      "en": "Miriam",
-      "pt": "Mãe Miriam"
-    },
-    "persona": {
-      "en": "the mãe de santo",
-      "pt": "a mãe de santo"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "60-70",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "avoidingCamera",
-      "headscarf",
-      "necklace",
-      "whiteShirt",
-      "noHairInfo"
-    ],
-    "gbExclusive": true,
-    "prompt": "60 year old black woman \"mãe de santo\" from afrian religions",
-    "animal": ""
-  },
-  "us-157": {
-    "id": "us-157",
-    "name": {
-      "en": "Érica",
-      "pt": "Erica"
-    },
-    "persona": {
-      "en": "girls scout troop leader",
-      "pt": "a escoteira"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "short",
-    "build": "muscular",
-    "features": [
-      "blondeHair",
-      "scarf",
-      "longHair",
-      "showTeeth",
-      "hairTie"
-    ],
-    "gbExclusive": true,
-    "prompt": "a extra joyful 22-year-old girl scout troop leader",
-    "animal": ""
-  },
-  "us-158": {
-    "id": "us-158",
-    "name": {
-      "en": "Clarice",
-      "pt": "Clarice"
-    },
-    "persona": {
-      "en": "the nerd with braces",
-      "pt": "a nerd de aparelho"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "brownClothes",
-      "glasses",
-      "headscarf",
-      "buttonShirt",
-      "patternedShirt",
-      "brownHair",
-      "mediumHair",
-      "showTeeth"
-    ],
-    "gbExclusive": true,
-    "prompt": "18 year old white girl with braces around her head, very very nerdy and shy with pimples, smiling, average looking",
-    "animal": ""
-  },
-  "us-159": {
-    "id": "us-159",
-    "name": {
-      "en": "Shonda",
-      "pt": "Sheila"
-    },
-    "persona": {
-      "en": "the sassy black lady",
-      "pt": "a negra atrevida"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "earrings",
-      "hoodie",
-      "greenClothes",
-      "lipstick",
-      "brownHair",
-      "mediumHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "40 year old black woman in a tracksuit looking sassy",
-    "animal": ""
-  },
-  "us-16": {
-    "id": "us-16",
-    "name": {
-      "en": "Prisca",
-      "pt": "Priscila"
-    },
-    "persona": {
-      "en": "the Indian girl",
-      "pt": "a indiana"
-    },
-    "gender": "female",
-    "ethnicity": "indian",
-    "age": "21-30",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "earrings",
-      "piercings",
-      "lipstick",
-      "wearingFlowers",
-      "greenClothes",
-      "orangeClothes",
-      "patternedShirt"
-    ],
-    "prompt": "26-year-old Indian woman",
-    "animal": "elephant"
-  },
-  "us-160": {
-    "id": "us-160",
-    "name": {
-      "en": "Han",
-      "pt": "Hugo"
-    },
-    "persona": {
-      "en": "the fat chinese guy",
-      "pt": "o gorducho chinês"
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "avoidingCamera",
-      "blackHair",
-      "noAccessories",
-      "greenClothes",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "27 year old very fat chinese guy",
-    "animal": ""
-  },
-  "us-161": {
-    "id": "us-161",
-    "name": {
-      "en": "Kora",
-      "pt": "Karla"
-    },
-    "persona": {
-      "en": "the thai lady boy",
-      "pt": "a trans tailandesa"
-    },
-    "gender": "other",
-    "ethnicity": "asian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "blackClothes",
-      "earrings",
-      "necklace",
-      "brownHair",
-      "longHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "25-year-old trans thai woman, make sure it has an adam's apple.",
-    "animal": ""
-  },
-  "us-162": {
-    "id": "us-162",
-    "name": {
-      "en": "Clara & Lara",
-      "pt": "Clara & Lara"
-    },
-    "persona": {
-      "en": "the conjoined twins",
-      "pt": "as irmãs siamesas"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "avoidingCamera",
-      "blondeHair",
-      "noAccessories",
-      "patternedShirt",
-      "longHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "26 year old conjoined twins",
-    "animal": ""
-  },
-  "us-163": {
-    "id": "us-163",
-    "name": {
-      "en": "Glen",
-      "pt": "Guto"
-    },
-    "persona": {
-      "en": "gay boy",
-      "pt": "gayzinha poc"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "blackClothes",
-      "brownHair",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "18 year old young little gay boy with a mesh tank top",
-    "animal": ""
-  },
-  "us-164": {
-    "id": "us-164",
-    "name": {
-      "en": "Crystal",
-      "pt": "Cristal"
-    },
-    "persona": {
-      "en": "the call girl",
-      "pt": "a garota de programa"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "blondeHair",
-      "brownClothes",
-      "earrings",
-      "necklace",
-      "lipstick",
-      "mediumHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "24 year old woman with a fur coat",
-    "animal": ""
-  },
-  "us-165": {
-    "id": "us-165",
-    "name": {
-      "en": "Dorian",
-      "pt": "Dener"
-    },
-    "persona": {
-      "en": "the clothing designer",
-      "pt": "o estilista"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "beard",
-      "earrings",
-      "glasses",
-      "necklace",
-      "patternedShirt",
-      "pinkClothes",
-      "greyHair",
-      "shortHair",
-      "showTeeth",
-      "yellowClothes",
-      "redClothes",
-      "wearingStripes"
-    ],
-    "gbExclusive": true,
-    "prompt": "47 year old gay flamboyant designer",
-    "animal": ""
-  },
-  "us-166": {
-    "id": "us-166",
-    "name": {
-      "en": "Lúcia",
-      "pt": "Lucia"
-    },
-    "persona": {
-      "en": "the hot headed latina",
-      "pt": "a latina esquentada"
-    },
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "avoidingCamera",
-      "earrings",
-      "buttonShirt",
-      "orangeClothes",
-      "patternedShirt",
-      "purpleClothes",
-      "brownHair",
-      "longHair",
-      "showTeeth"
-    ],
-    "gbExclusive": true,
-    "prompt": "38 year old jealous brown latina woman",
-    "animal": ""
-  },
-  "us-167": {
-    "id": "us-167",
-    "name": {
-      "en": "Samir",
-      "pt": "Samir"
-    },
-    "persona": {
-      "en": "the arab sheik",
-      "pt": "o sheik árabe"
-    },
-    "gender": "male",
-    "ethnicity": "middle-eastern",
-    "age": "30-40",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "avoidingCamera",
-      "beard",
-      "blackHair",
-      "hat",
-      "headscarf",
-      "whiteShirt",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "34 year old arab sheik with a smirk",
-    "animal": ""
-  },
-  "us-168": {
-    "id": "us-168",
-    "name": {
-      "en": "Gerard",
-      "pt": "Gilberto"
-    },
-    "persona": {
-      "en": "the politician",
-      "pt": "o político"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "avoidingCamera",
-      "blueClothes",
-      "tie",
-      "buttonShirt",
-      "greyHair",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "60 year old politician with money hidden everywhere on a dark blue suit",
-    "animal": ""
-  },
-  "us-169": {
-    "id": "us-169",
-    "name": {
-      "en": "Marina",
-      "pt": "Mina"
-    },
-    "persona": {
-      "en": "the crazy rich asian",
-      "pt": "a asiática ricaça"
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "30-40",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "blackHair",
-      "earrings",
-      "necklace",
-      "greenClothes",
-      "longHair",
-      "hairTie"
-    ],
-    "gbExclusive": true,
-    "prompt": "34 year old rich asian woman",
-    "animal": ""
-  },
-  "us-17": {
-    "id": "us-17",
-    "name": {
-      "en": "Flick",
-      "pt": "Fagner"
-    },
-    "persona": {
-      "en": "the grandma's boy",
-      "pt": "o menino criado pela avó"
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "21-30",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "brownHair",
-      "shortHair",
-      "noAccessories",
-      "buttonShirt",
-      "orangeClothes"
-    ],
-    "prompt": "24-year-old latino guy",
-    "animal": ""
-  },
-  "us-170": {
-    "id": "us-170",
-    "name": {
-      "en": "Amina",
-      "pt": "Amina"
-    },
-    "persona": {
-      "en": "the burqa woman",
-      "pt": "a mulher de burca"
-    },
-    "gender": "female",
-    "ethnicity": "middle-eastern",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "avoidingCamera",
-      "blackClothes",
-      "headscarf",
-      "noHairInfo"
-    ],
-    "gbExclusive": true,
-    "prompt": "27 year old middle eastern woman wearing a burqa looking mysterious",
-    "animal": ""
-  },
-  "us-171": {
-    "id": "us-171",
-    "name": {
-      "en": "Arman",
-      "pt": "Aderbal"
-    },
-    "persona": {
-      "en": "the armenian guy",
-      "pt": "o armeno"
-    },
-    "gender": "male",
-    "ethnicity": "other",
-    "age": "50-60",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "hairyChest",
-      "yellowClothes",
-      "redClothes",
-      "blueClothes",
-      "beard",
-      "bald",
-      "blackHair",
-      "wearingStripes",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "56 year old Armenian man with a hairy body wearing a red and yellow tank top",
-    "animal": ""
-  },
-  "us-172": {
-    "id": "us-172",
-    "name": {
-      "en": "Joe",
-      "pt": "José"
-    },
-    "persona": {
-      "en": "the bricklayer",
-      "pt": "o pedreiro"
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "avoidingCamera",
-      "blackHair",
-      "brownClothes",
-      "hat",
-      "buttonShirt",
-      "whiteShirt",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "42 year old poor latino bricklayer man",
-    "animal": ""
-  },
-  "us-173": {
-    "id": "us-173",
-    "name": {
-      "en": "Brittany",
-      "pt": "Bruna"
-    },
-    "persona": {
-      "en": "the drunk party girl",
-      "pt": "a bêbada festeira"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "pinkClothes",
-      "lipstick",
-      "redHair",
-      "mediumHair",
-      "showTeeth"
-    ],
-    "gbExclusive": true,
-    "prompt": "28 year old party girl with a drunk expression on her face",
-    "animal": ""
-  },
-  "us-174": {
-    "id": "us-174",
-    "name": {
-      "en": "Vince",
-      "pt": "Valdir"
-    },
-    "persona": {
-      "en": "the sleazy guy",
-      "pt": "o cara seboso"
-    },
-    "gender": "male",
-    "ethnicity": "other",
-    "age": "30-40",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "blackHair",
-      "blueClothes",
-      "necklace",
-      "buttonShirt",
-      "pinkClothes",
-      "yellowClothes",
-      "patternedShirt",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "38-year-old sleazy italian man with thick lips, gel hair, looking smug",
-    "animal": ""
-  },
-  "us-175": {
-    "id": "us-175",
-    "name": {
-      "en": "Neide",
-      "pt": "Norma"
-    },
-    "persona": {
-      "en": "the aunt",
-      "pt": "a tia"
-    },
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "earrings",
-      "necklace",
-      "whiteShirt",
-      "brownHair",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "36 year old brazilian aunt in a mood",
-    "animal": ""
-  },
-  "us-176": {
-    "id": "us-176",
-    "name": {
-      "en": "Lamar",
-      "pt": "Luciano"
-    },
-    "persona": {
-      "en": "the afro dude",
-      "pt": "o black power"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "beard",
-      "glasses",
-      "necklace",
-      "buttonShirt",
-      "patternedShirt",
-      "brownHair",
-      "mediumHair",
-      "showTeeth"
-    ],
-    "gbExclusive": true,
-    "prompt": "a 28 year old black man with a big afro with 70s clothes",
-    "animal": ""
-  },
-  "us-177": {
-    "id": "us-177",
-    "name": {
-      "en": "Frank",
-      "pt": "Felipe"
-    },
-    "persona": {
-      "en": "the firefighter",
-      "pt": "o bombeiro"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "large",
-    "features": [
-      "beard",
-      "blackClothes",
-      "blondeHair",
-      "brownClothes",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "37 year old nice guy overweight fire fighter",
-    "animal": ""
-  },
-  "us-178": {
-    "id": "us-178",
-    "name": {
-      "en": "Taisha",
-      "pt": "Talita"
-    },
-    "persona": {
-      "en": "the hip hop artist",
-      "pt": "a artista"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "earrings",
-      "hat",
-      "blackHair",
-      "shortHair",
-      "necklace",
-      "patternedShirt",
-      "coloredHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "25 year old black woman pop star with a plastic sculptural hair",
-    "animal": ""
-  },
-  "us-179": {
-    "id": "us-179",
-    "name": {
-      "en": "Keiko",
-      "pt": "Keiko"
-    },
-    "persona": {
-      "en": "the gamer girl",
-      "pt": "a gamer"
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "18-21",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "blueClothes",
-      "hoodie",
-      "brownHair",
-      "longHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "18 year old japanese asian gamer girl",
-    "animal": ""
-  },
-  "us-18": {
-    "id": "us-18",
-    "name": {
-      "en": "Randall",
-      "pt": "Ramon"
-    },
-    "persona": {
-      "en": "the landowner",
-      "pt": "o fazendeiro"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "greyHair",
-      "mustache",
-      "shortHair",
-      "hat",
-      "buttonShirt",
-      "greenClothes"
-    ],
-    "prompt": "64-year-old white man",
-    "animal": "the walrus"
-  },
-  "us-180": {
-    "id": "us-180",
-    "name": {
-      "en": "Paolo",
-      "pt": "Paolo"
-    },
-    "persona": {
-      "en": "the salsa dancer",
-      "pt": "o dançarino"
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "21-30",
-    "height": "medium",
-    "build": "muscular",
-    "features": [
-      "avoidingCamera",
-      "blackClothes",
-      "necklace",
-      "wearingFlowers",
-      "patternedShirt",
-      "brownHair",
-      "shortHair",
-      "showTeeth"
-    ],
-    "gbExclusive": true,
-    "prompt": "28 year old brown latino salsa dancer",
-    "animal": ""
-  },
-  "us-181": {
-    "id": "us-181",
-    "name": {
-      "en": "Herbert",
-      "pt": "Heriberto"
-    },
-    "persona": {
-      "en": "the curator",
-      "pt": "o curador"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "70-80",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "greenClothes",
-      "greyHair",
-      "scarf",
-      "buttonShirt",
-      "whiteShirt",
-      "mediumHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "70 year old eccentric white man",
-    "animal": ""
-  },
-  "us-182": {
-    "id": "us-182",
-    "name": {
-      "en": "Sophie",
-      "pt": "Sofia"
-    },
-    "persona": {
-      "en": "the masseuse",
-      "pt": "a massagista"
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "21-30",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "hairTie",
-      "pinkClothes",
-      "lipstick",
-      "blackHair",
-      "longHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "22 year old asian masseuse",
-    "animal": ""
-  },
-  "us-183": {
-    "id": "us-183",
-    "name": {
-      "en": "Claudia",
-      "pt": "Cláudia"
-    },
-    "persona": {
-      "en": "the beggar",
-      "pt": "a mendiga"
-    },
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "40-50",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "necklace",
-      "brownClothes",
-      "brownHair",
-      "longHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "45 year old brown skin latina dirty homeless woman",
-    "animal": ""
-  },
-  "us-184": {
-    "id": "us-184",
-    "name": {
-      "en": "Matthew",
-      "pt": "Márcio"
-    },
-    "persona": {
-      "en": "the stripper",
-      "pt": "o stripper"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "glasses",
-      "hat",
-      "blueClothes",
-      "blackHair",
-      "shortHair",
-      "shirtless"
-    ],
-    "gbExclusive": true,
-    "prompt": "28 male stripper",
-    "animal": ""
-  },
-  "us-185": {
-    "id": "us-185",
-    "name": {
-      "en": "Jesus",
-      "pt": "Josué"
-    },
-    "persona": {
-      "en": "the truck driver",
-      "pt": "o caminhoneiro"
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "50-60",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "necklace",
-      "whiteShirt",
-      "goatee",
-      "mustache",
-      "greyHair",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "55 brown latino truck driver",
-    "animal": ""
-  },
-  "us-186": {
-    "id": "us-186",
-    "name": {
-      "en": "Rodney",
-      "pt": "Robson"
-    },
-    "persona": {
-      "en": "the foodie",
-      "pt": "o comilão"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "30-40",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "patternedShirt",
-      "whiteShirt",
-      "mustache",
-      "blackHair",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "32 year old fat black guy looking hungry",
-    "animal": ""
-  },
-  "us-187": {
-    "id": "us-187",
-    "name": {
-      "en": "Chantelle",
-      "pt": "Chandyellen"
-    },
-    "persona": {
-      "en": "the tiktop diva",
-      "pt": "a diva do tiktop"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "earrings",
-      "hairTie",
-      "blackClothes",
-      "lipstick",
-      "blackHair",
-      "mediumHair",
-      "avoidingCamera"
-    ],
-    "gbExclusive": true,
-    "prompt": "22 year old black woman showing off her nails with lots of attitude",
-    "animal": ""
-  },
-  "us-188": {
-    "id": "us-188",
-    "name": {
-      "en": "Rosa",
-      "pt": "Rosa"
-    },
-    "persona": {
-      "en": "the maid",
-      "pt": "a empregada"
-    },
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "hat",
-      "blackClothes",
-      "lipstick",
-      "blackHair",
-      "longHair",
-      "hairTie"
-    ],
-    "gbExclusive": true,
-    "prompt": "36 year old brown latina woman",
-    "animal": ""
-  },
-  "us-189": {
-    "id": "us-189",
-    "name": {
-      "en": "Shaniqua",
-      "pt": "Soraia"
-    },
-    "persona": {
-      "en": "the big beautiful black woman",
-      "pt": "a negra grande e bonita"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "blackClothes",
-      "lipstick",
-      "blackHair",
-      "mediumHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "28 year old big black woman",
-    "animal": ""
-  },
-  "us-19": {
-    "id": "us-19",
-    "name": {
-      "en": "Vincent",
-      "pt": "Vicente"
-    },
-    "persona": {
-      "en": "the charming business man",
-      "pt": "o empresário charmoso"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "greyHair",
-      "mustache",
-      "goatee",
-      "buttonShirt",
-      "pinkClothes"
-    ],
-    "prompt": "54-year-old handsome white man",
-    "animal": ""
-  },
-  "us-190": {
-    "id": "us-190",
-    "name": {
-      "en": "Valerie",
-      "pt": "Valentina"
-    },
-    "persona": {
-      "en": "the awkward lesbian",
-      "pt": "a lésbica desajeitada"
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "glasses",
-      "blueClothes",
-      "buttonShirt",
-      "blackHair",
-      "mediumHair",
-      "showTeeth"
-    ],
-    "gbExclusive": true,
-    "prompt": "32 year old awkward lesbian asian woman",
-    "animal": ""
-  },
-  "us-191": {
-    "id": "us-191",
-    "name": {
-      "en": "Willow",
-      "pt": "Wânia"
-    },
-    "persona": {
-      "en": "the wiccan",
-      "pt": "a bruxa"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "earrings",
-      "necklace",
-      "whiteShirt",
-      "greyHair",
-      "mediumHair",
-      "avoidingCamera"
-    ],
-    "gbExclusive": true,
-    "prompt": "50 year old white woman who is wiccan",
-    "animal": ""
-  },
-  "us-192": {
-    "id": "us-192",
-    "name": {
-      "en": "Tameka",
-      "pt": "Tainá"
-    },
-    "persona": {
-      "en": "the voodoo witch doctor",
-      "pt": "a médica de vodu"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "earrings",
-      "hat",
-      "necklace",
-      "piercings",
-      "blackClothes",
-      "brownHair",
-      "mediumHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "34 year old black voodoo witch",
-    "animal": ""
-  },
-  "us-193": {
-    "id": "us-193",
-    "name": {
-      "en": "Isla",
-      "pt": "Ísis"
-    },
-    "persona": {
-      "en": "the Scottish girl",
-      "pt": "a escocesa"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "scarf",
-      "greenClothes",
-      "lipstick",
-      "redHair",
-      "longHair",
-      "avoidingCamera"
-    ],
-    "gbExclusive": true,
-    "prompt": "27 year old Scottish woman with many freckles",
-    "animal": ""
-  },
-  "us-194": {
-    "id": "us-194",
-    "name": {
-      "en": "Miguel",
-      "pt": "Miguel"
-    },
-    "persona": {
-      "en": "the acne boy",
-      "pt": "o garoto com acne"
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "18-21",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "hat",
-      "hoodie",
-      "purpleClothes",
-      "whiteShirt",
-      "mustache",
-      "blackHair",
-      "shortHair"
-    ],
-    "gbExclusive": true,
-    "prompt": "18-year-old light brown latino boy with a thin mustache and his face covered in acne",
-    "animal": ""
-  },
-  "us-195": {
-    "id": "us-195",
-    "name": {
-      "en": "Vladimir",
-      "pt": "Vladimir"
-    },
-    "persona": {
-      "en": "the Russian henchman",
-      "pt": "o capanga russo"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "necklace",
-      "blackClothes",
-      "beard",
-      "blondeHair",
-      "bald"
-    ],
-    "gbExclusive": true,
-    "prompt": "45 year old russian henchman",
-    "animal": ""
-  },
-  "us-20": {
-    "id": "us-20",
-    "name": {
-      "en": "Tonya",
-      "pt": "Tânia"
-    },
-    "persona": {
-      "en": "the chain-smoking aunt",
-      "pt": "a tia fumante"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "short",
-    "build": "large",
-    "features": [
-      "necklace",
-      "glasses",
-      "redHair",
-      "lipstick",
-      "mediumHair",
-      "blueClothes",
-      "greenClothes"
-    ],
-    "prompt": "64-year-old white woman",
-    "animal": ""
-  },
-  "us-21": {
-    "id": "us-21",
-    "name": {
-      "en": "Una",
-      "pt": "Úrsula"
-    },
-    "persona": {
-      "en": "the muslin woman",
-      "pt": "a mulher muçulmana"
-    },
-    "gender": "female",
-    "ethnicity": "middle-eastern",
-    "age": "30-40",
-    "height": "short",
-    "build": "large",
-    "features": [
-      "headscarf",
-      "lipstick",
-      "showTeeth",
-      "blueClothes",
-      "redClothes",
-      "noHairInfo"
-    ],
-    "prompt": "31-year-old muslin woman",
-    "animal": ""
-  },
-  "us-22": {
-    "id": "us-22",
-    "name": {
-      "en": "Jocelyn",
-      "pt": "Jesilene"
-    },
-    "persona": {
-      "en": "the troublemaker",
-      "pt": "a encrenqueira"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "short",
-    "build": "large",
-    "features": [
-      "longHair",
-      "brownHair",
-      "earrings",
-      "pinkClothes",
-      "hairTie"
-    ],
-    "prompt": "25-year-old black woman",
-    "animal": ""
-  },
-  "us-23": {
-    "id": "us-23",
-    "name": {
-      "en": "Brian",
-      "pt": "Benedito"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "blondeHair",
-      "shortHair",
-      "beard",
-      "hat",
-      "buttonShirt",
-      "brownClothes",
-      "hairyChest"
-    ],
-    "prompt": "28-year-old white man",
-    "animal": ""
-  },
-  "us-24": {
-    "id": "us-24",
-    "name": {
-      "en": "Bassam",
-      "pt": "Basílio"
-    },
-    "persona": {
-      "en": "the Indian guy",
-      "pt": "o indiano"
-    },
-    "gender": "male",
-    "ethnicity": "indian",
-    "age": "60-70",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "greyHair",
-      "beard",
-      "headscarf",
-      "buttonShirt",
-      "orangeClothes"
-    ],
-    "prompt": "67-year-old indian man",
-    "animal": ""
-  },
-  "us-25": {
-    "id": "us-25",
-    "name": {
-      "en": "Madeline",
-      "pt": "Madalena"
-    },
-    "persona": {
-      "en": "the rich lady",
-      "pt": "a ricaça"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "greyHair",
-      "shortHair",
-      "necklace",
-      "earrings",
-      "lipstick",
-      "redClothes"
-    ],
-    "prompt": "66-year-old white woman",
-    "animal": ""
-  },
-  "us-26": {
-    "id": "us-26",
-    "name": {
-      "en": "Coach",
-      "pt": "Adamastor"
-    },
-    "persona": {
-      "en": "the coach",
-      "pt": "o treinador"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "shortHair",
-      "blondeHair",
-      "mustache",
-      "hat",
-      "buttonShirt",
-      "showTeeth",
-      "orangeClothes"
-    ],
-    "prompt": "53-year-old man",
-    "animal": ""
-  },
-  "us-27": {
-    "id": "us-27",
-    "name": {
-      "en": "Anthony",
-      "pt": "Antônio"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "bald",
-      "greyHair",
-      "noAccessories",
-      "avoidingCamera",
-      "whiteShirt",
-      "blueClothes",
-      "shortHair"
-    ],
-    "prompt": "64-year-old white man",
-    "animal": ""
-  },
-  "us-28": {
-    "id": "us-28",
-    "name": {
-      "en": "Amanda",
-      "pt": "Amanda"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "longHair",
-      "redHair",
-      "lipstick",
-      "necklace",
-      "purpleClothes"
-    ],
-    "prompt": "30-year-old white woman with red hair",
-    "animal": ""
-  },
-  "us-29": {
-    "id": "us-29",
-    "name": {
-      "en": "Andre",
-      "pt": "André"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "goatee",
-      "scarf",
-      "orangeClothes"
-    ],
-    "prompt": "24-year-old black guy",
-    "animal": ""
-  },
-  "us-30": {
-    "id": "us-30",
-    "name": {
-      "en": "Hector",
-      "pt": "Heitor"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "blondeHair",
-      "shortHair",
-      "tie",
-      "buttonShirt",
-      "whiteShirt",
-      "brownClothes"
-    ],
-    "prompt": "49-year-old white man",
-    "animal": ""
-  },
-  "us-31": {
-    "id": "us-31",
-    "name": {
-      "en": "Stephanie",
-      "pt": "Estefânia"
-    },
-    "persona": {
-      "en": "the flight attendant",
-      "pt": "a aeromoça"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "longHair",
-      "blondeHair",
-      "earrings",
-      "hat",
-      "lipstick",
-      "wearingFlowers",
-      "blueClothes"
-    ],
-    "prompt": "25-year-old white woman",
-    "animal": ""
-  },
-  "us-32": {
-    "id": "us-32",
-    "name": {
-      "en": "Valentina",
-      "pt": "Valentina"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "coloredHair",
-      "earrings",
-      "lipstick",
-      "avoidingCamera",
-      "greenClothes"
-    ],
-    "prompt": "28-year-old white woman",
-    "animal": ""
-  },
-  "us-33": {
-    "id": "us-33",
-    "name": {
-      "en": "Gary",
-      "pt": "Geraldo"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "mustache",
-      "blackHair",
-      "shortHair",
-      "scarf",
-      "greenClothes"
-    ],
-    "prompt": "44-year-old latino man",
-    "animal": ""
-  },
-  "us-34": {
-    "id": "us-34",
-    "name": {
-      "en": "Sean",
-      "pt": "Sérgio"
-    },
-    "persona": {
-      "en": "the mechanic",
-      "pt": "o mecânico"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "30-40",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "bald",
-      "brownHair",
-      "beard",
-      "noAccessories",
-      "showTeeth",
-      "blueClothes",
-      "hairyChest"
-    ],
-    "prompt": "32-year-old black man",
-    "animal": ""
-  },
-  "us-35": {
-    "id": "us-35",
-    "name": {
-      "en": "Robert",
-      "pt": "Roberto"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "noAccessories",
-      "showTeeth",
-      "blueClothes"
-    ],
-    "prompt": "39-year-old white man",
-    "animal": ""
-  },
-  "us-36": {
-    "id": "us-36",
-    "name": {
-      "en": "Jeremiah",
-      "pt": "Jeremias"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "glasses",
-      "tie",
-      "avoidingCamera",
-      "buttonShirt",
-      "redClothes"
-    ],
-    "prompt": "28-year-old asian man",
-    "animal": ""
-  },
-  "us-37": {
-    "id": "us-37",
-    "name": {
-      "en": "Snoopy",
-      "pt": "Josenildo"
-    },
-    "persona": {
-      "en": "the rapper",
-      "pt": "o rapper"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "hat",
-      "necklace",
-      "earrings",
-      "glasses",
-      "blackHair",
-      "shortHair",
-      "showTeeth",
-      "wearingStripes",
-      "blueClothes",
-      "redClothes"
-    ],
-    "prompt": "24-year-old black man",
-    "animal": ""
-  },
-  "us-38": {
-    "id": "us-38",
-    "name": {
-      "en": "Lia",
-      "pt": "Lia"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "40-50",
-    "height": "short",
-    "build": "large",
-    "features": [
-      "blackHair",
-      "shortHair",
-      "scarf",
-      "hat",
-      "earrings",
-      "lipstick",
-      "purpleClothes"
-    ],
-    "prompt": "42-year-old chinese woman",
-    "animal": ""
-  },
-  "us-39": {
-    "id": "us-39",
-    "name": {
-      "en": "Solange",
-      "pt": "Solange"
-    },
-    "persona": {
-      "en": "the depressed woman",
-      "pt": "a mulher depressiva"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "longHair",
-      "blondeHair",
-      "lipstick",
-      "earrings",
-      "avoidingCamera",
-      "redClothes"
-    ],
-    "prompt": "37-year-old white woman",
-    "animal": ""
-  },
-  "us-40": {
-    "id": "us-40",
-    "name": {
-      "en": "Patricia",
-      "pt": "Patrícia"
-    },
-    "persona": {
-      "en": "the church lady",
-      "pt": "a tia da igreja"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "50-60",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "lipstick",
-      "glasses",
-      "headscarf",
-      "scarf",
-      "earrings",
-      "showTeeth",
-      "purpleClothes"
-    ],
-    "prompt": "57-year-old black woman",
-    "animal": ""
-  },
-  "us-41": {
-    "id": "us-41",
-    "name": {
-      "en": "Alexander",
-      "pt": "Alexandre"
-    },
-    "persona": {
-      "en": "the dealer",
-      "pt": "o traficante"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "hat",
-      "hoodie",
-      "beard",
-      "shortHair",
-      "brownHair",
-      "avoidingCamera",
-      "redClothes",
-      "blueClothes"
-    ],
-    "prompt": "28-year-old black man",
-    "animal": ""
-  },
-  "us-42": {
-    "id": "us-42",
-    "name": {
-      "en": "Katherine",
-      "pt": "Catarina"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blondeHair",
-      "lipstick",
-      "earrings",
-      "avoidingCamera",
-      "showTeeth",
-      "orangeClothes",
-      "patternedShirt"
-    ],
-    "prompt": "42-year-old white woman",
-    "animal": ""
-  },
-  "us-43": {
-    "id": "us-43",
-    "name": {
-      "en": "Felicia",
-      "pt": "Felicia"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "longHair",
-      "brownHair",
-      "lipstick",
-      "noAccessories",
-      "avoidingCamera",
-      "greenClothes"
-    ],
-    "prompt": "32-year-old latina woman",
-    "animal": ""
-  },
-  "us-44": {
-    "id": "us-44",
-    "name": {
-      "en": "Roy",
-      "pt": "Rômulo"
-    },
-    "persona": {
-      "en": "the geppetto lookalike",
-      "pt": "o sósia do Geppetto"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "greyHair",
-      "beard",
-      "glasses",
-      "avoidingCamera",
-      "buttonShirt",
-      "brownClothes"
-    ],
-    "prompt": "55-year-old white man",
-    "animal": ""
-  },
-  "us-45": {
-    "id": "us-45",
-    "name": {
-      "en": "Marlene",
-      "pt": "Marlene"
-    },
-    "persona": {
-      "en": "the grandma",
-      "pt": "a vovó"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "tall",
-    "build": "large",
-    "features": [
-      "shortHair",
-      "greyHair",
-      "lipstick",
-      "necklace",
-      "earrings",
-      "glasses",
-      "showTeeth",
-      "redClothes",
-      "blueClothes"
-    ],
-    "prompt": "65-year-old white woman",
-    "animal": ""
-  },
-  "us-46": {
-    "id": "us-46",
-    "name": {
-      "en": "Ricardo",
-      "pt": "Ricardo"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "mustache",
-      "noAccessories",
-      "greenClothes",
-      "hairyChest"
-    ],
-    "prompt": "24-year-old latino man",
-    "animal": ""
-  },
-  "us-47": {
-    "id": "us-47",
-    "name": {
-      "en": "Barry",
-      "pt": "Bartolomeu"
-    },
-    "persona": {
-      "en": "the biker",
-      "pt": "o motociclista"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "large",
-    "features": [
-      "beard",
-      "glasses",
-      "headscarf",
-      "necklace",
-      "brownClothes",
-      "hairyChest",
-      "longHair"
-    ],
-    "prompt": "33-year-old white man",
-    "animal": ""
-  },
-  "us-48": {
-    "id": "us-48",
-    "name": {
-      "en": "Janice",
-      "pt": "Janice"
-    },
-    "persona": {
-      "en": "the human rights activist",
-      "pt": "a ativista dos direitos humanos"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "necklace",
-      "longHair",
-      "blackHair",
-      "avoidingCamera",
-      "showTeeth",
-      "orangeClothes",
-      "yellowClothes"
-    ],
-    "prompt": "25-year-old black woman",
-    "animal": ""
-  },
-  "us-49": {
-    "id": "us-49",
-    "name": {
-      "en": "Kristen",
-      "pt": "Cristina"
-    },
-    "persona": {
-      "en": "the socialite",
-      "pt": "a socialite"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "longHair",
-      "blondeHair",
-      "earrings",
-      "lipstick",
-      "yellowClothes"
-    ],
-    "prompt": "52-year-old white woman",
-    "animal": ""
-  },
-  "us-50": {
-    "id": "us-50",
-    "name": {
-      "en": "Benjamin",
-      "pt": "Bernardo"
-    },
-    "persona": {
-      "en": "the gay bear",
-      "pt": "o urso gay"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "beard",
-      "brownHair",
-      "shortHair",
-      "noAccessories",
-      "whiteShirt",
-      "hairyChest",
-      "patternedShirt"
-    ],
-    "prompt": "35-year-old white man",
-    "animal": ""
-  },
-  "us-51": {
-    "id": "us-51",
-    "name": {
-      "en": "Edgard",
-      "pt": "Edgar"
-    },
-    "persona": {
-      "en": "the rock-and-roller",
-      "pt": "o roqueiro"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "earrings",
-      "longHair",
-      "blondeHair",
-      "mustache",
-      "avoidingCamera",
-      "blueClothes",
-      "hairyChest"
-    ],
-    "prompt": "48-year-old white man",
-    "animal": ""
-  },
-  "us-52": {
-    "id": "us-52",
-    "name": {
-      "en": "Ernest",
-      "pt": "Ernesto"
-    },
-    "persona": {
-      "en": "the pagode musician",
-      "pt": "o pagodeiro"
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "beard",
-      "mustache",
-      "necklace",
-      "glasses",
-      "avoidingCamera",
-      "blueClothes",
-      "hairyChest"
-    ],
-    "prompt": "31-year-old latino man",
-    "animal": ""
-  },
-  "us-53": {
-    "id": "us-53",
-    "name": {
-      "en": "Sebastian",
-      "pt": "Sebastião"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "scarf",
-      "blackHair",
-      "shortHair",
-      "avoidingCamera",
-      "wearingStripes",
-      "blueClothes"
-    ],
-    "prompt": "32-year-old chinese man",
-    "animal": ""
-  },
-  "us-54": {
-    "id": "us-54",
-    "name": {
-      "en": "Christian",
-      "pt": "Cristiano"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "shortHair",
-      "blondeHair",
-      "glasses",
-      "showTeeth",
-      "greenClothes",
-      "hairyChest",
-      "yellowClothes"
-    ],
-    "prompt": "27-year-old handsome blond white man",
-    "animal": ""
-  },
-  "us-55": {
-    "id": "us-55",
-    "name": {
-      "en": "Suzanne",
-      "pt": "Suzana"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "longHair",
-      "coloredHair",
-      "lipstick",
-      "noAccessories",
-      "blueClothes",
-      "patternedShirt"
-    ],
-    "prompt": "36-year-old white woman with pink hair",
-    "animal": ""
-  },
-  "us-56": {
-    "id": "us-56",
-    "name": {
-      "en": "Natalie",
-      "pt": "Natália"
-    },
-    "persona": {
-      "en": "the soccer mom",
-      "pt": "a mãe de atleta"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "blackHair",
-      "earrings",
-      "showTeeth",
-      "blueClothes",
-      "hairTie",
-      "longHair"
-    ],
-    "prompt": "42-year-old white woman",
-    "animal": ""
-  },
-  "us-57": {
-    "id": "us-57",
-    "name": {
-      "en": "Wilma",
-      "pt": "Velma"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "hat",
-      "glasses",
-      "blackHair",
-      "shortHair",
-      "wearingFlowers",
-      "blueClothes",
-      "pinkClothes",
-      "patternedShirt"
-    ],
-    "prompt": "62-year-old white woman",
-    "animal": ""
-  },
-  "us-58": {
-    "id": "us-58",
-    "name": {
-      "en": "Francis",
-      "pt": "Francisco"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "50-60",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "mustache",
-      "hat",
-      "tie",
-      "greyHair",
-      "buttonShirt",
-      "blueClothes",
-      "redClothes",
-      "bald"
-    ],
-    "prompt": "58-year-old black man",
-    "animal": ""
-  },
-  "us-59": {
-    "id": "us-59",
-    "name": {
-      "en": "George",
-      "pt": "Jorge"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "bald",
-      "greyHair",
-      "beard",
-      "glasses",
-      "buttonShirt",
-      "blueClothes",
-      "hairyChest",
-      "shortHair"
-    ],
-    "prompt": "54-year-old white man",
-    "animal": ""
-  },
-  "us-60": {
-    "id": "us-60",
-    "name": {
-      "en": "James",
-      "pt": "Jair"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "earrings",
-      "brownHair",
-      "shortHair",
-      "glasses",
-      "orangeClothes",
-      "yellowClothes"
-    ],
-    "prompt": "33-year-old white man with brown hair",
-    "animal": ""
-  },
-  "us-61": {
-    "id": "us-61",
-    "name": {
-      "en": "Samuel",
-      "pt": "Sandoval"
-    },
-    "persona": {
-      "en": "the hippie",
-      "pt": "o hippie"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "thin",
-    "features": [
-      "longHair",
-      "blondeHair",
-      "beard",
-      "necklace",
-      "earrings",
-      "wearingFlowers",
-      "greenClothes",
-      "hairyChest",
-      "patternedShirt"
-    ],
-    "prompt": "46-year-old white hippie man",
-    "animal": ""
-  },
-  "us-62": {
-    "id": "us-62",
-    "name": {
-      "en": "Mateo",
-      "pt": "Manuel"
-    },
-    "persona": {
-      "en": "the peruvian guy",
-      "pt": "o peruano"
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "30-40",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "tie",
-      "buttonShirt",
-      "blueClothes"
-    ],
-    "prompt": "30-year-old dark latino man",
-    "animal": ""
-  },
-  "us-63": {
-    "id": "us-63",
-    "name": {
-      "en": "Louis",
-      "pt": "Luís"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "brownHair",
-      "shortHair",
-      "glasses",
-      "buttonShirt",
-      "blueClothes"
-    ],
-    "prompt": "26-year-old white man",
-    "animal": ""
-  },
-  "us-64": {
-    "id": "us-64",
-    "name": {
-      "en": "Sandra",
-      "pt": "Sandra"
-    },
-    "persona": {
-      "en": "the metalhead",
-      "pt": "a roqueira"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "longHair",
-      "brownHair",
-      "piercings",
-      "earrings",
-      "lipstick",
-      "blueClothes",
-      "redClothes",
-      "patternedShirt"
-    ],
-    "prompt": "46-year-old white woman",
-    "animal": ""
-  },
-  "us-65": {
-    "id": "us-65",
-    "name": {
-      "en": "Carl",
-      "pt": "Carlos"
-    },
-    "persona": {
-      "en": "the filipino",
-      "pt": "o filipino"
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "noAccessories",
-      "brownClothes"
-    ],
-    "prompt": "25-year-old filipino man",
-    "animal": ""
-  },
-  "us-66": {
-    "id": "us-66",
-    "name": {
-      "en": "Ben",
-      "pt": "Bruno"
-    },
-    "persona": {
-      "en": "the lumberjack",
-      "pt": "o lenhador"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "large",
-    "features": [
-      "redHair",
-      "shortHair",
-      "beard",
-      "hat",
-      "buttonShirt",
-      "wearingStripes",
-      "redClothes",
-      "patternedShirt"
-    ],
-    "prompt": "27-year-old white man",
-    "animal": ""
-  },
-  "us-67": {
-    "id": "us-67",
-    "name": {
-      "en": "Walter",
-      "pt": "Walter"
-    },
-    "persona": {
-      "en": "the policeman",
-      "pt": "o policial"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "goatee",
-      "brownHair",
-      "shortHair",
-      "hat",
-      "tie",
-      "avoidingCamera",
-      "buttonShirt",
-      "blackClothes",
-      "blueClothes"
-    ],
-    "prompt": "52-year-old white man",
-    "animal": ""
-  },
-  "us-68": {
-    "id": "us-68",
-    "name": {
-      "en": "Powa",
-      "pt": "Pequi"
-    },
-    "persona": {
-      "en": "the native chief",
-      "pt": "o chefe da tribo"
-    },
-    "gender": "male",
-    "ethnicity": "indigenous",
-    "age": "50-60",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "longHair",
-      "blackHair",
-      "necklace",
-      "brownClothes",
-      "patternedShirt"
-    ],
-    "prompt": "58-year-old native American man",
-    "animal": ""
-  },
-  "us-69": {
-    "id": "us-69",
-    "name": {
-      "en": "Percy",
-      "pt": "Percival"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "hat",
-      "earrings",
-      "brownHair",
-      "shortHair",
-      "showTeeth",
-      "orangeClothes"
-    ],
-    "prompt": "7-year-old white man",
-    "animal": ""
-  },
-  "us-70": {
-    "id": "us-70",
-    "name": {
-      "en": "Deborah",
-      "pt": "Dulce"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "80-90",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "greyHair",
-      "earrings",
-      "headscarf",
-      "purpleClothes"
-    ],
-    "prompt": "82-year-old white woman",
-    "animal": ""
-  },
-  "us-71": {
-    "id": "us-71",
-    "name": {
-      "en": "Gabriel",
-      "pt": "Gabriel"
-    },
-    "persona": {
-      "en": "the detective",
-      "pt": "o detetive"
-    },
-    "gender": "male",
-    "ethnicity": "black",
-    "age": "40-50",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "mustache",
-      "tie",
-      "avoidingCamera",
-      "buttonShirt",
-      "blackClothes",
-      "brownClothes",
-      "whiteShirt"
-    ],
-    "prompt": "42-year-old black man",
-    "animal": ""
-  },
-  "us-72": {
-    "id": "us-72",
-    "name": {
-      "en": "Devon",
-      "pt": "Denílson"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "mixed",
-    "age": "30-40",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "noAccessories",
-      "greenClothes"
-    ],
-    "prompt": "28-year-old mixed asian-black man",
-    "animal": ""
-  },
-  "us-73": {
-    "id": "us-73",
-    "name": {
-      "en": "Eve",
-      "pt": "Eva"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "redHair",
-      "shortHair",
-      "lipstick",
-      "noAccessories",
-      "redClothes"
-    ],
-    "prompt": "24-year-old white woman",
-    "animal": ""
-  },
-  "us-74": {
-    "id": "us-74",
-    "name": {
-      "en": "Trevor",
-      "pt": "Tarcísio"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "redHair",
-      "shortHair",
-      "beard",
-      "glasses",
-      "blueClothes"
-    ],
-    "prompt": "28-year-old white man",
-    "animal": ""
-  },
-  "us-75": {
-    "id": "us-75",
-    "name": {
-      "en": "Ivone",
-      "pt": "Ivone"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "lipstick",
-      "necklace",
-      "headscarf",
-      "wearingStripes",
-      "redClothes",
-      "noHairInfo"
-    ],
-    "prompt": "37-year-old black woman",
-    "animal": ""
-  },
-  "us-76": {
-    "id": "us-76",
-    "name": {
-      "en": "Abigail",
-      "pt": "Abigail"
-    },
-    "persona": {
-      "en": "the amateur baker",
-      "pt": "a confeiteira"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "short",
-    "build": "large",
-    "features": [
-      "blackHair",
-      "glasses",
-      "lipstick",
-      "earrings",
-      "mediumHair",
-      "whiteShirt"
-    ],
-    "prompt": "27-year-old white woman",
-    "animal": ""
-  },
-  "us-77": {
-    "id": "us-77",
-    "name": {
-      "en": "Tanaka",
-      "pt": "Tanaka"
-    },
-    "persona": {
-      "en": "the chef",
-      "pt": "o cozinheiro"
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "glasses",
-      "hat",
-      "avoidingCamera",
-      "buttonShirt",
-      "whiteShirt"
-    ],
-    "prompt": "55-year-old japanese man",
-    "animal": ""
-  },
-  "us-78": {
-    "id": "us-78",
-    "name": {
-      "en": "Kyle",
-      "pt": "Caio"
-    },
-    "persona": {
-      "en": "the marine",
-      "pt": "o fuzileiro naval"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "muscular",
-    "features": [
-      "blackHair",
-      "shortHair",
-      "hat",
-      "buttonShirt",
-      "blueClothes",
-      "avoidingCamera"
-    ],
-    "prompt": "26-year-old white man",
-    "animal": ""
-  },
-  "us-79": {
-    "id": "us-79",
-    "name": {
-      "en": "Mo",
-      "pt": "Márcia"
-    },
-    "persona": {
-      "en": "the lesbian",
-      "pt": "a sapatona"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "large",
-    "features": [
-      "shortHair",
-      "lipstick",
-      "glasses",
-      "blackHair",
-      "whiteShirt"
-    ],
-    "prompt": "43-year-old white woman",
-    "animal": ""
-  },
-  "us-80": {
-    "id": "us-80",
-    "name": {
-      "en": "Anisha",
-      "pt": "Ana"
-    },
-    "persona": {
-      "en": "the doctor",
-      "pt": "a médica"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "30-40",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "brownHair",
-      "mediumHair",
-      "blueClothes"
-    ],
-    "prompt": "34-year-old black doctor woman",
-    "animal": ""
-  },
-  "us-81": {
-    "id": "us-81",
-    "name": {
-      "en": "Jean",
-      "pt": "Claudimiro"
-    },
-    "persona": {
-      "en": "the vampire",
-      "pt": "o vampiro"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "60-70",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "shortHair",
-      "greyHair",
-      "tie",
-      "buttonShirt",
-      "blackClothes",
-      "bow",
-      "whiteShirt"
-    ],
-    "prompt": "68-year-old eccentric white man",
-    "animal": ""
-  },
-  "us-82": {
-    "id": "us-82",
-    "name": {
-      "en": "Mortimer",
-      "pt": "Murilo"
-    },
-    "persona": {
-      "en": "the mafia boss",
-      "pt": "o mafioso"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "hat",
-      "blackHair",
-      "shortHair",
-      "tie",
-      "buttonShirt",
-      "whiteShirt",
-      "blackClothes"
-    ],
-    "prompt": "47-year-old Italian man",
-    "animal": ""
-  },
-  "us-83": {
-    "id": "us-83",
-    "name": {
-      "en": "Eru",
-      "pt": "Eru"
-    },
-    "persona": {
-      "en": "the Eskimo",
-      "pt": "o esquimó"
-    },
-    "gender": "male",
-    "ethnicity": "mixed",
-    "age": "50-60",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "blackHair",
-      "shortHair",
-      "hoodie",
-      "orangeClothes",
-      "bow"
-    ],
-    "prompt": "52-year-old Eskimo man",
-    "animal": ""
-  },
-  "us-84": {
-    "id": "us-84",
-    "name": {
-      "en": "Doug",
-      "pt": "Douglas"
-    },
-    "persona": {
-      "en": "the golden retriever boyfriend",
-      "pt": "o namorado bom moço"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "brownHair",
-      "shortHair",
-      "beard",
-      "hoodie",
-      "showTeeth",
-      "greenClothes"
-    ],
-    "prompt": "26-year-old white man with brown hair",
-    "animal": ""
-  },
-  "us-85": {
-    "id": "us-85",
-    "name": {
-      "en": "Gabrielle",
-      "pt": "Gabriela"
-    },
-    "persona": {
-      "en": "the student",
-      "pt": "a estudante"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "18-21",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "brownHair",
-      "glasses",
-      "pinkClothes",
-      "redClothes"
-    ],
-    "prompt": "18-year-old black student girl",
-    "animal": ""
-  },
-  "us-86": {
-    "id": "us-86",
-    "name": {
-      "en": "Hariko",
-      "pt": "Hariko"
-    },
-    "persona": {
-      "en": "the geisha",
-      "pt": "a gueisha"
-    },
-    "gender": "female",
-    "ethnicity": "asian",
-    "age": "21-30",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "blackHair",
-      "earrings",
-      "longHair",
-      "wearingFlowers",
-      "brownClothes"
-    ],
-    "prompt": "22-year-old geisha",
-    "animal": ""
-  },
-  "us-87": {
-    "id": "us-87",
-    "name": {
-      "en": "Pamela",
-      "pt": "Pâmela"
-    },
-    "persona": {
-      "en": "the emily in paris",
-      "pt": "a estudante de intercâmbio"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "hat",
-      "redHair",
-      "longHair",
-      "lipstick",
-      "earrings",
-      "showTeeth",
-      "necklace",
-      "redClothes"
-    ],
-    "prompt": "23-year-old average-looking woman",
-    "animal": ""
-  },
-  "us-88": {
-    "id": "us-88",
-    "name": {
-      "en": "Ethan",
-      "pt": "Enzo"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "18-21",
-    "height": "short",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "noAccessories",
-      "blueClothes"
-    ],
-    "prompt": "19-year-old boy with brown hair",
-    "animal": ""
-  },
-  "us-89": {
-    "id": "us-89",
-    "name": {
-      "en": "Camilla",
-      "pt": "Camila"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "earrings",
-      "necklace",
-      "lipstick",
-      "blackHair",
-      "longHair",
-      "blueClothes"
-    ],
-    "prompt": "30-year-old black woman",
-    "animal": ""
-  },
-  "us-90": {
-    "id": "us-90",
-    "name": {
-      "en": "Kathleen",
-      "pt": "Kelly"
-    },
-    "persona": {
-      "en": "the bombshell",
-      "pt": "a ruiva deslumbrante"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "21-30",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "lipstick",
-      "longHair",
-      "redHair",
-      "noAccessories",
-      "showTeeth",
-      "redClothes"
-    ],
-    "prompt": "23-year-old bombshell red headed woman",
-    "animal": ""
-  },
-  "us-91": {
-    "id": "us-91",
-    "name": {
-      "en": "Takeshi",
-      "pt": "Takeshi"
-    },
-    "persona": {
-      "en": "the karate master",
-      "pt": "o mestre de karatê"
-    },
-    "gender": "male",
-    "ethnicity": "asian",
-    "age": "50-60",
-    "height": "medium",
-    "build": "muscular",
-    "features": [
-      "shortHair",
-      "blackHair",
-      "noAccessories"
-    ],
-    "prompt": "55-year-old Japanese karate master",
-    "animal": ""
-  },
-  "us-92": {
-    "id": "us-92",
-    "name": {
-      "en": "Amelia",
-      "pt": "Amélia"
-    },
-    "persona": {
-      "en": "a government worker",
-      "pt": "a funcionária pública"
-    },
-    "gender": "female",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "short",
-    "build": "average",
-    "features": [
-      "longHair",
-      "brownHair",
-      "glasses",
-      "earrings",
-      "necklace",
-      "greenClothes"
-    ],
-    "prompt": "37-year-old Jewish woman",
-    "animal": ""
-  },
-  "us-93": {
-    "id": "us-93",
-    "name": {
-      "en": "Owen",
-      "pt": "Otaviano"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "tall",
-    "build": "large",
-    "features": [
-      "redHair",
-      "shortHair",
-      "noAccessories",
-      "showTeeth",
-      "blueClothes"
-    ],
-    "prompt": "32-year-old white man",
-    "animal": ""
-  },
-  "us-94": {
-    "id": "us-94",
-    "name": {
-      "en": "Mark",
-      "pt": "Marcos"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "large",
-    "features": [
-      "shortHair",
-      "brownHair",
-      "beard",
-      "noAccessories"
-    ],
-    "prompt": "34-year-old white man",
-    "animal": ""
-  },
-  "us-95": {
-    "id": "us-95",
-    "name": {
-      "en": "Quentin",
-      "pt": "Quércio"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "thin",
-    "features": [
-      "shortHair",
-      "beard",
-      "brownHair",
-      "noAccessories",
-      "orangeClothes"
-    ],
-    "prompt": "27-year-old white man",
-    "animal": ""
-  },
-  "us-96": {
-    "id": "us-96",
-    "name": {
-      "en": "Stanley",
-      "pt": "Saulo"
-    },
-    "persona": {
-      "en": "the sailor",
-      "pt": "o marinheiro"
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "40-50",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "hat",
-      "redHair",
-      "beard",
-      "showTeeth",
-      "whiteShirt",
-      "wearingStripes",
-      "blueClothes",
-      "patternedShirt",
-      "shortHair",
-      "bald"
-    ],
-    "prompt": "46-year-old white man who is a red head sailor",
-    "animal": ""
-  },
-  "us-97": {
-    "id": "us-97",
-    "name": {
-      "en": "Paxton",
-      "pt": "Péricles"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "caucasian",
-    "age": "30-40",
-    "height": "medium",
-    "build": "average",
-    "features": [
-      "earrings",
-      "bald",
-      "blackClothes"
-    ],
-    "prompt": "28-year-old white man",
-    "animal": ""
-  },
-  "us-98": {
-    "id": "us-98",
-    "name": {
-      "en": "Graham",
-      "pt": "Gerson"
-    },
-    "persona": {
-      "en": "",
-      "pt": ""
-    },
-    "gender": "male",
-    "ethnicity": "latino",
-    "age": "40-50",
-    "height": "tall",
-    "build": "average",
-    "features": [
-      "brownHair",
-      "shortHair",
-      "beard",
-      "noAccessories",
-      "blackClothes"
-    ],
-    "prompt": "42-year-old mixed race latino man",
-    "animal": ""
-  },
-  "us-99": {
-    "id": "us-99",
-    "name": {
-      "en": "Vanessa",
-      "pt": "Valesca"
-    },
-    "persona": {
-      "en": "the samba girl",
-      "pt": "a passista"
-    },
-    "gender": "female",
-    "ethnicity": "black",
-    "age": "21-30",
-    "height": "medium",
-    "build": "muscular",
-    "features": [
-      "brownHair",
-      "shortHair",
-      "earrings",
-      "necklace",
-      "showTeeth",
-      "patternedShirt"
-    ],
-    "prompt": "23-year-old beautiful black woman",
-    "animal": ""
-  }
+	"us-01": {
+		"id": "us-01",
+		"name": {
+			"en": "Arthur",
+			"pt": "Artur"
+		},
+		"persona": {
+			"en": "the poet",
+			"pt": "o poeta"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"hat",
+			"tie",
+			"glasses",
+			"brownHair",
+			"shortHair",
+			"beard",
+			"buttonShirt",
+			"greenClothes",
+			"bow",
+			"patternedShirt",
+			"yellowClothes"
+		],
+		"prompt": "28-year-old black man",
+		"animal": ""
+	},
+	"us-02": {
+		"id": "us-02",
+		"name": {
+			"en": "Prince",
+			"pt": "Pedro"
+		},
+		"persona": {
+			"en": "the accountant",
+			"pt": "o contador"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"tie",
+			"avoidingCamera",
+			"buttonShirt",
+			"whiteShirt",
+			"brownClothes"
+		],
+		"prompt": "25-year-old black man",
+		"animal": ""
+	},
+	"us-03": {
+		"id": "us-03",
+		"name": {
+			"en": "Cameron",
+			"pt": "Conrado"
+		},
+		"persona": {
+			"en": "the hipster",
+			"pt": "o hipster"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"hat",
+			"scarf",
+			"beard",
+			"blondeHair",
+			"longHair",
+			"avoidingCamera",
+			"blueClothes"
+		],
+		"prompt": "30-year-old blond man",
+		"animal": ""
+	},
+	"us-04": {
+		"id": "us-04",
+		"name": {
+			"en": "Paul",
+			"pt": "Paulo"
+		},
+		"persona": {
+			"en": "the creepy neighbor",
+			"pt": "o vizinho estranho"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"greyHair",
+			"bald",
+			"mustache",
+			"goatee",
+			"avoidingCamera",
+			"buttonShirt",
+			"showTeeth",
+			"wearingStripes",
+			"brownClothes",
+			"greenClothes",
+			"shortHair"
+		],
+		"prompt": "50-year-old bald man",
+		"animal": ""
+	},
+	"us-05": {
+		"id": "us-05",
+		"name": {
+			"en": "Jesse",
+			"pt": "Jéferson"
+		},
+		"persona": {
+			"en": "the snowboarder",
+			"pt": "o snowboarder"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "medium",
+		"build": "average",
+		"features": ["shortHair", "blondeHair", "showTeeth", "blueClothes"],
+		"prompt": "18-year-old snowboarder",
+		"animal": ""
+	},
+	"us-06": {
+		"id": "us-06",
+		"name": {
+			"en": "Fredrick",
+			"pt": "Frederico"
+		},
+		"persona": {
+			"en": "the jock",
+			"pt": "o atleta"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"blackHair",
+			"shortHair",
+			"avoidingCamera",
+			"showTeeth",
+			"wearingStripes",
+			"whiteShirt",
+			"blueClothes"
+		],
+		"prompt": "26-year-old white jock",
+		"animal": ""
+	},
+	"us-07": {
+		"id": "us-07",
+		"name": {
+			"en": "Roger",
+			"pt": "Rogério"
+		},
+		"persona": {
+			"en": "the nerd",
+			"pt": "o nerd"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"glasses",
+			"buttonShirt",
+			"whiteShirt",
+			"greenClothes"
+		],
+		"prompt": "18-year-old white nerd",
+		"animal": ""
+	},
+	"us-08": {
+		"id": "us-08",
+		"name": {
+			"en": "Raymond",
+			"pt": "Raimundo"
+		},
+		"persona": {
+			"en": "the retired amateur chess player",
+			"pt": "o aposentador jogador de xadrez"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "50-60",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"scarf",
+			"hat",
+			"beard",
+			"greyHair",
+			"shortHair",
+			"wearingStripes",
+			"brownClothes"
+		],
+		"prompt": "55-year-old black man",
+		"animal": ""
+	},
+	"us-09": {
+		"id": "us-09",
+		"name": {
+			"en": "Janine",
+			"pt": "Janine"
+		},
+		"persona": {
+			"en": "the witch",
+			"pt": "a bruxa"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "80-90",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"hoodie",
+			"longHair",
+			"greyHair",
+			"blueClothes",
+			"greenClothes"
+		],
+		"prompt": "90-year-old white woman",
+		"animal": ""
+	},
+	"us-10": {
+		"id": "us-10",
+		"name": {
+			"en": "Levi",
+			"pt": "Levi"
+		},
+		"persona": {
+			"en": "the amish",
+			"pt": "o amish"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"beard",
+			"hat",
+			"glasses",
+			"buttonShirt",
+			"whiteShirt",
+			"blackClothes"
+		],
+		"prompt": "55-year-old Amish man",
+		"animal": ""
+	},
+	"us-100": {
+		"id": "us-100",
+		"name": {
+			"en": "Easton",
+			"pt": "Ericlécio"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"bald",
+			"longHair",
+			"brownHair",
+			"goatee",
+			"noAccessories",
+			"buttonShirt",
+			"blueClothes",
+			"blackClothes"
+		],
+		"prompt": "36-year-old white man",
+		"animal": ""
+	},
+	"us-101": {
+		"id": "us-101",
+		"name": {
+			"en": "Josiah",
+			"pt": "Jaci"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "30-40",
+		"height": "short",
+		"build": "average",
+		"features": ["hat", "glasses", "shortHair", "blackHair", "avoidingCamera"],
+		"prompt": "34 -year-old Chinese man",
+		"animal": ""
+	},
+	"us-102": {
+		"id": "us-102",
+		"name": {
+			"en": "Giovanni",
+			"pt": "Giovani"
+		},
+		"persona": {
+			"en": "the fisher hobbiest",
+			"pt": "o pescador amador"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"longHair",
+			"glasses",
+			"hat",
+			"beard",
+			"greyHair",
+			"buttonShirt",
+			"wearingStripes",
+			"blueClothes",
+			"patternedShirt"
+		],
+		"prompt": "61-year-old white man",
+		"animal": ""
+	},
+	"us-103": {
+		"id": "us-103",
+		"name": {
+			"en": "Farley",
+			"pt": "Fábio"
+		},
+		"persona": {
+			"en": "the jewish man",
+			"pt": "o judeu"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"glasses",
+			"beard",
+			"shortHair",
+			"hat",
+			"brownHair",
+			"brownClothes"
+		],
+		"prompt": "41-year-old Jewish man",
+		"animal": ""
+	},
+	"us-104": {
+		"id": "us-104",
+		"name": {
+			"en": "Zachary",
+			"pt": "Zacarias"
+		},
+		"persona": {
+			"en": "the priest",
+			"pt": "o padre"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"beard",
+			"noAccessories",
+			"blackClothes"
+		],
+		"prompt": "27-year-old white priest",
+		"animal": ""
+	},
+	"us-105": {
+		"id": "us-105",
+		"name": {
+			"en": "Margaret",
+			"pt": "Margarete"
+		},
+		"persona": {
+			"en": "the librarian",
+			"pt": "a bibliotecária"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"longHair",
+			"brownHair",
+			"glasses",
+			"earrings",
+			"lipstick",
+			"wearingStripes",
+			"blueClothes",
+			"hairTie",
+			"patternedShirt"
+		],
+		"prompt": "32-year-old white woman",
+		"animal": ""
+	},
+	"us-106": {
+		"id": "us-106",
+		"name": {
+			"en": "Denise",
+			"pt": "Denise"
+		},
+		"persona": {
+			"en": "a candidata",
+			"pt": "a candidata"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"necklace",
+			"earrings",
+			"brownHair",
+			"longHair",
+			"lipstick",
+			"blueClothes"
+		],
+		"prompt": "45-year-old black woman",
+		"animal": ""
+	},
+	"us-107": {
+		"id": "us-107",
+		"name": {
+			"en": "Charles",
+			"pt": "Clóvis"
+		},
+		"persona": {
+			"en": "the professor",
+			"pt": "o professor"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"greyHair",
+			"mustache",
+			"tie",
+			"buttonShirt",
+			"whiteShirt",
+			"purpleClothes",
+			"bow"
+		],
+		"prompt": "68-year-old white man",
+		"animal": ""
+	},
+	"us-108": {
+		"id": "us-108",
+		"name": {
+			"en": "Clayton",
+			"pt": "Cleiton"
+		},
+		"persona": {
+			"en": "the soccer player",
+			"pt": "o jogador de futebol"
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "21-30",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"earrings",
+			"brownHair",
+			"shortHair",
+			"showTeeth",
+			"yellowClothes"
+		],
+		"prompt": "24-year-old light brown skin Brazilian man",
+		"animal": ""
+	},
+	"us-109": {
+		"id": "us-109",
+		"name": {
+			"en": "Shirley",
+			"pt": "Shirley"
+		},
+		"persona": {
+			"en": "the nun",
+			"pt": "a freira"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"blackHair",
+			"hat",
+			"lipstick",
+			"headscarf",
+			"avoidingCamera",
+			"blackClothes"
+		],
+		"prompt": "28-year-old white nun",
+		"animal": ""
+	},
+	"us-11": {
+		"id": "us-11",
+		"name": {
+			"en": "Norton",
+			"pt": "Nelson"
+		},
+		"persona": {
+			"en": "the absent husband",
+			"pt": "o marido ausente"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"beard",
+			"brownHair",
+			"mediumHair",
+			"avoidingCamera",
+			"buttonShirt",
+			"orangeClothes",
+			"patternedShirt"
+		],
+		"prompt": "47-year-old man with brown hair",
+		"animal": ""
+	},
+	"us-110": {
+		"id": "us-110",
+		"name": {
+			"en": "Nassim",
+			"pt": "Nassim"
+		},
+		"persona": {
+			"en": "the muslin",
+			"pt": "o muçulmano"
+		},
+		"gender": "male",
+		"ethnicity": "middle-eastern",
+		"age": "50-60",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"hat",
+			"mustache",
+			"greyHair",
+			"shortHair",
+			"headscarf",
+			"buttonShirt",
+			"showTeeth",
+			"whiteShirt",
+			"noHairInfo"
+		],
+		"prompt": "55-year-old middle-eastern man",
+		"animal": ""
+	},
+	"us-111": {
+		"id": "us-111",
+		"name": {
+			"en": "Monique",
+			"pt": "Monique"
+		},
+		"persona": {
+			"en": "the drag queen",
+			"pt": "a drag queen"
+		},
+		"gender": "other",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"necklace",
+			"redHair",
+			"longHair",
+			"earrings",
+			"lipstick",
+			"wearingFlowers",
+			"pinkClothes"
+		],
+		"prompt": "25-year-old white drag queen",
+		"animal": ""
+	},
+	"us-112": {
+		"id": "us-112",
+		"name": {
+			"en": "Nolan",
+			"pt": "Nestor"
+		},
+		"persona": {
+			"en": "the Jamaican",
+			"pt": "o jamaicano"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "30-40",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"hat",
+			"brownHair",
+			"longHair",
+			"goatee",
+			"mustache",
+			"greenClothes"
+		],
+		"prompt": "32-year-old Jamaican man",
+		"animal": ""
+	},
+	"us-113": {
+		"id": "us-113",
+		"name": {
+			"en": "Chris",
+			"pt": "Cris"
+		},
+		"persona": {
+			"en": "the korean boy",
+			"pt": "o menino coreano"
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "18-21",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"noAccessories",
+			"whiteShirt",
+			"blueClothes"
+		],
+		"prompt": "20-year-old Korean guy",
+		"animal": ""
+	},
+	"us-114": {
+		"id": "us-114",
+		"name": {
+			"en": "Isaiah",
+			"pt": "Isaías"
+		},
+		"persona": {
+			"en": "the indiana jones",
+			"pt": "o indiana jones"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"beard",
+			"hat",
+			"buttonShirt",
+			"whiteShirt",
+			"brownClothes"
+		],
+		"prompt": "38-year-old white man",
+		"animal": ""
+	},
+	"us-115": {
+		"id": "us-115",
+		"name": {
+			"en": "Kai",
+			"pt": "Kai"
+		},
+		"persona": {
+			"en": "the hawaiian boy",
+			"pt": "o havaiano"
+		},
+		"gender": "male",
+		"ethnicity": "mixed",
+		"age": "18-21",
+		"height": "short",
+		"build": "muscular",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"necklace",
+			"showTeeth",
+			"wearingFlowers",
+			"orangeClothes"
+		],
+		"prompt": "20-year-old tanned Hawaiian guy",
+		"animal": ""
+	},
+	"us-116": {
+		"id": "us-116",
+		"name": {
+			"en": "Theo",
+			"pt": "Téo"
+		},
+		"persona": {
+			"en": "the flamboyant gay",
+			"pt": "o gay espalhafatoso"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"lipstick",
+			"necklace",
+			"showTeeth",
+			"wearingFlowers",
+			"blueClothes",
+			"patternedShirt"
+		],
+		"prompt": "26-year-old flamboyant guy",
+		"animal": ""
+	},
+	"us-117": {
+		"id": "us-117",
+		"name": {
+			"en": "Elijah",
+			"pt": "Elias"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"glasses",
+			"shortHair",
+			"blackHair",
+			"avoidingCamera",
+			"patternedShirt"
+		],
+		"prompt": "24-year-old chinese guy",
+		"animal": ""
+	},
+	"us-118": {
+		"id": "us-118",
+		"name": {
+			"en": "Jacky",
+			"pt": "Jaqueline"
+		},
+		"persona": {
+			"en": "the white trash",
+			"pt": "a pobre branca"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"longHair",
+			"blondeHair",
+			"wearingStripes",
+			"whiteShirt",
+			"greenClothes",
+			"blueClothes",
+			"redClothes",
+			"hairTie",
+			"patternedShirt",
+			"yellowClothes"
+		],
+		"prompt": "34-year-old fat white woman",
+		"animal": ""
+	},
+	"us-119": {
+		"id": "us-119",
+		"name": {
+			"en": "Hassam",
+			"pt": "Hassam"
+		},
+		"persona": {
+			"en": "the indian boy",
+			"pt": "o menino indiano"
+		},
+		"gender": "male",
+		"ethnicity": "indian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"blackHair",
+			"mustache",
+			"glasses",
+			"orangeClothes",
+			"patternedShirt"
+		],
+		"prompt": "22-year-old Indian man",
+		"animal": ""
+	},
+	"us-12": {
+		"id": "us-12",
+		"name": {
+			"en": "Rosanne",
+			"pt": "Rosana"
+		},
+		"persona": {
+			"en": "the loving auntie",
+			"pt": "a tia querida"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "40-50",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"longHair",
+			"brownHair",
+			"lipstick",
+			"noAccessories",
+			"pinkClothes"
+		],
+		"prompt": "48-year-old black woman",
+		"animal": ""
+	},
+	"us-120": {
+		"id": "us-120",
+		"name": {
+			"en": "Lisa",
+			"pt": "Lisa"
+		},
+		"persona": {
+			"en": "the k-popper",
+			"pt": "a menina k-pop"
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "18-21",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"longHair",
+			"coloredHair",
+			"lipstick",
+			"earrings",
+			"necklace",
+			"showTeeth",
+			"pinkClothes",
+			"yellowClothes"
+		],
+		"prompt": "18-year-old Korean girl",
+		"animal": ""
+	},
+	"us-121": {
+		"id": "us-121",
+		"name": {
+			"en": "Carmen",
+			"pt": "Carmen"
+		},
+		"persona": {
+			"en": "the mexican mom",
+			"pt": "a tia mexicana"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "50-60",
+		"height": "short",
+		"build": "large",
+		"features": ["brownHair", "shortHair", "earrings", "patternedShirt"],
+		"prompt": "50-year-old Mexican woman",
+		"animal": ""
+	},
+	"us-122": {
+		"id": "us-122",
+		"name": {
+			"en": "Simon",
+			"pt": "Simão"
+		},
+		"persona": {
+			"en": "the superhero",
+			"pt": "o super-herói"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"bald",
+			"glasses",
+			"brownHair",
+			"blueClothes",
+			"redClothes",
+			"patternedShirt"
+		],
+		"prompt": "42-year-old white man",
+		"animal": ""
+	},
+	"us-123": {
+		"id": "us-123",
+		"name": {
+			"en": "Stella",
+			"pt": "Estela"
+		},
+		"persona": {
+			"en": "the tiger mom",
+			"pt": "a mãe tigresa"
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"longHair",
+			"blackHair",
+			"necklace",
+			"buttonShirt",
+			"whiteShirt",
+			"hairTie"
+		],
+		"prompt": "34-year-old Chinese woman",
+		"animal": ""
+	},
+	"us-124": {
+		"id": "us-124",
+		"name": {
+			"en": "Joanne",
+			"pt": "Joana"
+		},
+		"persona": {
+			"en": "the goth girl",
+			"pt": "a gótica"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"blackHair",
+			"longHair",
+			"lipstick",
+			"noAccessories",
+			"blackClothes"
+		],
+		"prompt": "19-year-old goth girl",
+		"animal": ""
+	},
+	"us-125": {
+		"id": "us-125",
+		"name": {
+			"en": "Niko",
+			"pt": "Niko"
+		},
+		"persona": {
+			"en": "the greek",
+			"pt": "o grego"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "large",
+		"features": [
+			"mediumHair",
+			"brownHair",
+			"beard",
+			"noAccessories",
+			"avoidingCamera",
+			"buttonShirt",
+			"whiteShirt",
+			"pinkClothes",
+			"hairyChest"
+		],
+		"prompt": "35-year-old greek man",
+		"animal": ""
+	},
+	"us-126": {
+		"id": "us-126",
+		"name": {
+			"en": "Tyrese",
+			"pt": "Tiago"
+		},
+		"persona": {
+			"en": "the model",
+			"pt": "o modelo"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"shortHair",
+			"blackHair",
+			"glasses",
+			"buttonShirt",
+			"blueClothes",
+			"hairyChest"
+		],
+		"prompt": "24-year-old very handsome slick black man",
+		"animal": ""
+	},
+	"us-127": {
+		"id": "us-127",
+		"name": {
+			"en": "Letitia",
+			"pt": "Letícia"
+		},
+		"persona": {
+			"en": "the black bald model",
+			"pt": "a modelo negra careca"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "tall",
+		"build": "thin",
+		"features": ["bald", "lipstick", "noAccessories", "yellowClothes"],
+		"prompt": "23-year-old very beautiful black woman",
+		"animal": ""
+	},
+	"us-128": {
+		"id": "us-128",
+		"name": {
+			"en": "Dani",
+			"pt": "Dani"
+		},
+		"persona": {
+			"en": "the non-binary",
+			"pt": "o não-binário"
+		},
+		"gender": "non-binary",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"glasses",
+			"piercings",
+			"earrings",
+			"necklace",
+			"buttonShirt",
+			"blueClothes",
+			"greenClothes",
+			"yellowClothes",
+			"pinkClothes",
+			"blackClothes",
+			"patternedShirt"
+		],
+		"prompt": "25-year-old non-binary person",
+		"animal": ""
+	},
+	"us-129": {
+		"id": "us-129",
+		"name": {
+			"en": "Nivea",
+			"pt": "Nívea"
+		},
+		"persona": {
+			"en": "the vitiligo girl",
+			"pt": "a menina com vitiligo"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"mediumHair",
+			"blackHair",
+			"earrings",
+			"buttonShirt",
+			"whiteShirt"
+		],
+		"prompt": "26-year-old black woman with vitiligo",
+		"animal": ""
+	},
+	"us-13": {
+		"id": "us-13",
+		"name": {
+			"en": "Megan",
+			"pt": "Marta"
+		},
+		"persona": {
+			"en": "the zen girl",
+			"pt": "a menina zen"
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"scarf",
+			"piercings",
+			"coloredHair",
+			"shortHair",
+			"lipstick",
+			"necklace",
+			"avoidingCamera",
+			"blueClothes"
+		],
+		"prompt": "27-year-old asian woman",
+		"animal": ""
+	},
+	"us-130": {
+		"id": "us-130",
+		"name": {
+			"en": "McWillWin",
+			"pt": "McGui"
+		},
+		"persona": {
+			"en": "the white rapper",
+			"pt": "o rapper branco"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"mediumHair",
+			"blackHair",
+			"blondeHair",
+			"necklace",
+			"showTeeth",
+			"whiteShirt",
+			"blackClothes"
+		],
+		"prompt": "27-year-old white man with golden teeth",
+		"animal": ""
+	},
+	"us-131": {
+		"id": "us-131",
+		"name": {
+			"en": "Lorraine",
+			"pt": "Lorena"
+		},
+		"persona": {
+			"en": "the plastic surgery doll",
+			"pt": "a boneca de cirurgia plástica"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"blondeHair",
+			"lipstick",
+			"noAccessories",
+			"shirtless"
+		],
+		"prompt": "33-year-old woman with exaggerated lip-injections",
+		"animal": ""
+	},
+	"us-132": {
+		"id": "us-132",
+		"name": {
+			"en": "Hugh",
+			"pt": "Humberto"
+		},
+		"persona": {
+			"en": "the hooligan",
+			"pt": "o hooligan"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"mediumHair",
+			"bald",
+			"coloredHair",
+			"noAccessories",
+			"whiteShirt"
+		],
+		"prompt": "38-year-old white man",
+		"animal": ""
+	},
+	"us-133": {
+		"id": "us-133",
+		"name": {
+			"en": "Bao",
+			"pt": "Bao"
+		},
+		"persona": {
+			"en": "the monk",
+			"pt": "o monge"
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "50-60",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"bald",
+			"greyHair",
+			"noAccessories",
+			"avoidingCamera",
+			"brownClothes"
+		],
+		"prompt": "57-year-old Thai monk",
+		"animal": ""
+	},
+	"us-134": {
+		"id": "us-134",
+		"name": {
+			"en": "Tyler",
+			"pt": "Tháles"
+		},
+		"persona": {
+			"en": "the heir",
+			"pt": "o herdeiro"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "medium",
+		"build": "muscular",
+		"features": [
+			"brownHair",
+			"shortHair",
+			"tie",
+			"buttonShirt",
+			"whiteShirt",
+			"blueClothes"
+		],
+		"prompt": "19-year-old entitled white boy",
+		"animal": ""
+	},
+	"us-135": {
+		"id": "us-135",
+		"name": {
+			"en": "Chaz",
+			"pt": "Cássio"
+		},
+		"persona": {
+			"en": "the bodybuilder",
+			"pt": "o fisiculturista"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "muscular",
+		"features": ["shortHair", "blondeHair", "noAccessories", "shirtless"],
+		"prompt": "37-year-old white bodybuilder with oiled torso",
+		"animal": ""
+	},
+	"us-136": {
+		"id": "us-136",
+		"name": {
+			"en": "Melissa",
+			"pt": "Melissa"
+		},
+		"persona": {
+			"en": "bald piercing girl",
+			"pt": "a menina careca com piercings"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": ["bald", "earrings", "piercings"],
+		"prompt": "23-year-old white woman with piercings",
+		"animal": ""
+	},
+	"us-137": {
+		"id": "us-137",
+		"name": {
+			"en": "Karen",
+			"pt": "Márcia"
+		},
+		"persona": {
+			"en": "karen",
+			"pt": "a barraqueira"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"blondeHair",
+			"earrings",
+			"wearingStripes",
+			"patternedShirt"
+		],
+		"prompt": "43-year-old white woman with a bob haircut",
+		"animal": ""
+	},
+	"us-138": {
+		"id": "us-138",
+		"name": {
+			"en": "Maria",
+			"pt": "Ana Maria"
+		},
+		"persona": {
+			"en": "the disney adult",
+			"pt": "a adulta da disney"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"brownHair",
+			"mediumHair",
+			"earrings",
+			"showTeeth",
+			"pinkClothes",
+			"bow",
+			"patternedShirt"
+		],
+		"prompt": "36-year-old latina woman",
+		"animal": ""
+	},
+	"us-139": {
+		"id": "us-139",
+		"name": {
+			"en": "Marlon",
+			"pt": "Marlon"
+		},
+		"persona": {
+			"en": "the dwarf",
+			"pt": "o anão"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"blondeHair",
+			"noAccessories",
+			"showTeeth",
+			"blueClothes"
+		],
+		"prompt": "32-year-old dwarf man",
+		"animal": ""
+	},
+	"us-14": {
+		"id": "us-14",
+		"name": {
+			"en": "Nathaniel",
+			"pt": "Nataniel"
+		},
+		"persona": {
+			"en": "the silent troubled boy",
+			"pt": "o menino silencioso e problemático"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"hoodie",
+			"piercings",
+			"blondeHair",
+			"shortHair",
+			"greenClothes"
+		],
+		"prompt": "22-year-old guy with blonde hair",
+		"animal": ""
+	},
+	"us-140": {
+		"id": "us-140",
+		"name": {
+			"en": "Raymond",
+			"pt": "Raimundo"
+		},
+		"persona": {
+			"en": "the creepy janitor",
+			"pt": "o zelador esquisito"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"mustache",
+			"beard",
+			"noAccessories",
+			"buttonShirt"
+		],
+		"prompt": "43-year-old white man",
+		"animal": ""
+	},
+	"us-141": {
+		"id": "us-141",
+		"name": {
+			"en": "Howard",
+			"pt": "Horácio"
+		},
+		"persona": {
+			"en": "the pervert incel",
+			"pt": "o incel tarado nojento"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"bald",
+			"shortHair",
+			"brownHair",
+			"glasses",
+			"hairyChest",
+			"shirtless"
+		],
+		"prompt": "34-year-old white man",
+		"animal": ""
+	},
+	"us-142": {
+		"id": "us-142",
+		"name": {
+			"en": "Salma",
+			"pt": "Suellen"
+		},
+		"persona": {
+			"en": "the chola",
+			"pt": "a chola mexicana"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"lipstick",
+			"blackHair",
+			"longHair",
+			"earrings",
+			"necklace",
+			"avoidingCamera",
+			"purpleClothes",
+			"hairTie",
+			"patternedShirt"
+		],
+		"prompt": "26-year-old latina chola woman",
+		"animal": ""
+	},
+	"us-143": {
+		"id": "us-143",
+		"name": {
+			"en": "Peter",
+			"pt": "Pedro"
+		},
+		"persona": {
+			"en": "the emo",
+			"pt": "o emo"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"mediumHair",
+			"blackHair",
+			"piercings",
+			"avoidingCamera",
+			"blackClothes"
+		],
+		"prompt": "20-year-old emo guy",
+		"animal": ""
+	},
+	"us-144": {
+		"id": "us-144",
+		"name": {
+			"en": "David",
+			"pt": "Diogo"
+		},
+		"persona": {
+			"en": "the ex-con",
+			"pt": "o ex-presidiário"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "muscular",
+		"features": ["bald", "goatee", "whiteShirt"],
+		"prompt": "43-year-old ex-con white man",
+		"animal": ""
+	},
+	"us-145": {
+		"id": "us-145",
+		"name": {
+			"en": "Selena",
+			"pt": "Selena"
+		},
+		"persona": {
+			"en": "the clerk",
+			"pt": "a balconista"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"mediumHair",
+			"blackHair",
+			"buttonShirt",
+			"whiteShirt",
+			"blueClothes"
+		],
+		"prompt": "32-year-old latino woman",
+		"animal": ""
+	},
+	"us-146": {
+		"id": "us-146",
+		"name": {
+			"en": "Linda",
+			"pt": "Lurdes"
+		},
+		"persona": {
+			"en": "the young old lady",
+			"pt": "a xóvem senhora idosa"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"glasses",
+			"brownHair",
+			"longHair",
+			"necklace",
+			"blueClothes",
+			"pinkClothes",
+			"headscarf",
+			"hairTie"
+		],
+		"prompt": "58-year-old white woman dressed as a young girl",
+		"animal": ""
+	},
+	"us-147": {
+		"id": "us-147",
+		"name": {
+			"en": "Ronald",
+			"pt": "Ronaldo"
+		},
+		"persona": {
+			"en": "the addict",
+			"pt": "o viciado"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "thin",
+		"features": ["blondeHair", "shortHair", "noAccessories", "showTeeth"],
+		"prompt": "32-year-old white meth head",
+		"animal": ""
+	},
+	"us-148": {
+		"id": "us-148",
+		"name": {
+			"en": "Felix",
+			"pt": "Félix"
+		},
+		"persona": {
+			"en": "the albino",
+			"pt": "o albino"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": ["noAccessories", "blackClothes"],
+		"prompt": "25-year-old albino man",
+		"animal": ""
+	},
+	"us-149": {
+		"id": "us-149",
+		"name": {
+			"en": "Kaya",
+			"pt": "Kala"
+		},
+		"persona": {
+			"en": "the native girl",
+			"pt": "a índia"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": ["longHair", "blackHair", "patternedShirt"],
+		"prompt": "26-year-old native American woman",
+		"animal": ""
+	},
+	"us-15": {
+		"id": "us-15",
+		"name": {
+			"en": "John",
+			"pt": "Júlio"
+		},
+		"persona": {
+			"en": "the depressive widower",
+			"pt": "o viúvo depressivo"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"blondeHair",
+			"greyHair",
+			"shortHair",
+			"beard",
+			"scarf",
+			"avoidingCamera",
+			"greenClothes"
+		],
+		"prompt": "56-year-old man",
+		"animal": ""
+	},
+	"us-150": {
+		"id": "us-150",
+		"name": {
+			"en": "Mistress Raven",
+			"pt": "Madame Corvina"
+		},
+		"persona": {
+			"en": "the dominatrix",
+			"pt": "a sadomasoquista"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "muscular",
+		"features": ["mediumHair", "blackHair", "lipstick", "blackClothes"],
+		"prompt": "28-year-old white woman",
+		"animal": ""
+	},
+	"us-151": {
+		"id": "us-151",
+		"name": {
+			"en": "Darius",
+			"pt": "Dario"
+		},
+		"persona": {
+			"en": "the bouncer",
+			"pt": "o segurança"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "30-40",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"shortHair",
+			"blackHair",
+			"beard",
+			"blackClothes",
+			"buttonShirt"
+		],
+		"gbExclusive": true,
+		"prompt": "35 year old black muscular bouncer",
+		"animal": ""
+	},
+	"us-152": {
+		"id": "us-152",
+		"name": {
+			"en": "Owen",
+			"pt": "Orlando"
+		},
+		"persona": {
+			"en": "the furry",
+			"pt": "o furry"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": ["longHair", "brownHair", "whiteShirt", "pinkClothes", "hat"],
+		"gbExclusive": true,
+		"prompt": "30 year old white man in a pink fox furry costume",
+		"animal": "Sheep"
+	},
+	"us-153": {
+		"id": "us-153",
+		"name": {
+			"en": "Lin",
+			"pt": "Lin"
+		},
+		"persona": {
+			"en": "the chinese rice farmer",
+			"pt": "o chinezinho"
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "80-90",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"greyHair",
+			"shortHair",
+			"bald",
+			"showTeeth",
+			"blueClothes",
+			"hat",
+			"buttonShirt"
+		],
+		"gbExclusive": true,
+		"prompt": "90-year-old chinese man with a straw hat",
+		"animal": ""
+	},
+	"us-154": {
+		"id": "us-154",
+		"name": {
+			"en": "Toby",
+			"pt": "Túlio"
+		},
+		"persona": {
+			"en": "the down syndrome boy",
+			"pt": "o menino com síndrome de down"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"blueClothes",
+			"noAccessories",
+			"buttonShirt",
+			"avoidingCamera"
+		],
+		"gbExclusive": true,
+		"prompt": "25-year-old white man with down syndrome. Make it very clear he has down syndrome",
+		"animal": ""
+	},
+	"us-155": {
+		"id": "us-155",
+		"name": {
+			"en": "Martha",
+			"pt": "Marilda"
+		},
+		"persona": {
+			"en": "the housewife",
+			"pt": "a dona-de-casa"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "large",
+		"features": ["blueClothes", "mediumHair", "lipstick", "longHair"],
+		"gbExclusive": true,
+		"prompt": "36-year-old of a 40 year housewife with curlers in a bad mood",
+		"animal": ""
+	},
+	"us-156": {
+		"id": "us-156",
+		"name": {
+			"en": "Miriam",
+			"pt": "Mãe Miriam"
+		},
+		"persona": {
+			"en": "the mãe de santo",
+			"pt": "a mãe de santo"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "60-70",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"avoidingCamera",
+			"headscarf",
+			"necklace",
+			"whiteShirt",
+			"noHairInfo"
+		],
+		"gbExclusive": true,
+		"prompt": "60 year old black woman \"mãe de santo\" from afrian religions",
+		"animal": ""
+	},
+	"us-157": {
+		"id": "us-157",
+		"name": {
+			"en": "Érica",
+			"pt": "Erica"
+		},
+		"persona": {
+			"en": "girls scout troop leader",
+			"pt": "a escoteira"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "short",
+		"build": "muscular",
+		"features": ["blondeHair", "scarf", "longHair", "showTeeth", "hairTie"],
+		"gbExclusive": true,
+		"prompt": "a extra joyful 22-year-old girl scout troop leader",
+		"animal": ""
+	},
+	"us-158": {
+		"id": "us-158",
+		"name": {
+			"en": "Clarice",
+			"pt": "Clarice"
+		},
+		"persona": {
+			"en": "the nerd with braces",
+			"pt": "a nerd de aparelho"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"brownClothes",
+			"glasses",
+			"headscarf",
+			"buttonShirt",
+			"patternedShirt",
+			"brownHair",
+			"mediumHair",
+			"showTeeth"
+		],
+		"gbExclusive": true,
+		"prompt": "18 year old white girl with braces around her head, very very nerdy and shy with pimples, smiling, average looking",
+		"animal": ""
+	},
+	"us-159": {
+		"id": "us-159",
+		"name": {
+			"en": "Shonda",
+			"pt": "Sheila"
+		},
+		"persona": {
+			"en": "the sassy black lady",
+			"pt": "a negra atrevida"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"earrings",
+			"hoodie",
+			"greenClothes",
+			"lipstick",
+			"brownHair",
+			"mediumHair"
+		],
+		"gbExclusive": true,
+		"prompt": "40 year old black woman in a tracksuit looking sassy",
+		"animal": ""
+	},
+	"us-16": {
+		"id": "us-16",
+		"name": {
+			"en": "Prisca",
+			"pt": "Priscila"
+		},
+		"persona": {
+			"en": "the Indian girl",
+			"pt": "a indiana"
+		},
+		"gender": "female",
+		"ethnicity": "indian",
+		"age": "21-30",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"blackHair",
+			"earrings",
+			"piercings",
+			"lipstick",
+			"wearingFlowers",
+			"greenClothes",
+			"orangeClothes",
+			"patternedShirt"
+		],
+		"prompt": "26-year-old Indian woman",
+		"animal": "elephant"
+	},
+	"us-160": {
+		"id": "us-160",
+		"name": {
+			"en": "Han",
+			"pt": "Hugo"
+		},
+		"persona": {
+			"en": "the fat chinese guy",
+			"pt": "o gorducho chinês"
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"avoidingCamera",
+			"blackHair",
+			"noAccessories",
+			"greenClothes",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "27 year old very fat chinese guy",
+		"animal": ""
+	},
+	"us-161": {
+		"id": "us-161",
+		"name": {
+			"en": "Kora",
+			"pt": "Karla"
+		},
+		"persona": {
+			"en": "the thai lady boy",
+			"pt": "a trans tailandesa"
+		},
+		"gender": "other",
+		"ethnicity": "asian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"blackClothes",
+			"earrings",
+			"necklace",
+			"brownHair",
+			"longHair"
+		],
+		"gbExclusive": true,
+		"prompt": "25-year-old trans thai woman, make sure it has an adam's apple.",
+		"animal": ""
+	},
+	"us-162": {
+		"id": "us-162",
+		"name": {
+			"en": "Clara & Lara",
+			"pt": "Clara & Lara"
+		},
+		"persona": {
+			"en": "the conjoined twins",
+			"pt": "as irmãs siamesas"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"avoidingCamera",
+			"blondeHair",
+			"noAccessories",
+			"patternedShirt",
+			"longHair"
+		],
+		"gbExclusive": true,
+		"prompt": "26 year old conjoined twins",
+		"animal": ""
+	},
+	"us-163": {
+		"id": "us-163",
+		"name": {
+			"en": "Glen",
+			"pt": "Guto"
+		},
+		"persona": {
+			"en": "gay boy",
+			"pt": "gayzinha poc"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "medium",
+		"build": "thin",
+		"features": ["blackClothes", "brownHair", "shortHair"],
+		"gbExclusive": true,
+		"prompt": "18 year old young little gay boy with a mesh tank top",
+		"animal": ""
+	},
+	"us-164": {
+		"id": "us-164",
+		"name": {
+			"en": "Crystal",
+			"pt": "Cristal"
+		},
+		"persona": {
+			"en": "the call girl",
+			"pt": "a garota de programa"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"blondeHair",
+			"brownClothes",
+			"earrings",
+			"necklace",
+			"lipstick",
+			"mediumHair"
+		],
+		"gbExclusive": true,
+		"prompt": "24 year old woman with a fur coat",
+		"animal": ""
+	},
+	"us-165": {
+		"id": "us-165",
+		"name": {
+			"en": "Dorian",
+			"pt": "Dener"
+		},
+		"persona": {
+			"en": "the clothing designer",
+			"pt": "o estilista"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"beard",
+			"earrings",
+			"glasses",
+			"necklace",
+			"patternedShirt",
+			"pinkClothes",
+			"greyHair",
+			"shortHair",
+			"showTeeth",
+			"yellowClothes",
+			"redClothes",
+			"wearingStripes"
+		],
+		"gbExclusive": true,
+		"prompt": "47 year old gay flamboyant designer",
+		"animal": ""
+	},
+	"us-166": {
+		"id": "us-166",
+		"name": {
+			"en": "Lúcia",
+			"pt": "Lucia"
+		},
+		"persona": {
+			"en": "the hot headed latina",
+			"pt": "a latina esquentada"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"avoidingCamera",
+			"earrings",
+			"buttonShirt",
+			"orangeClothes",
+			"patternedShirt",
+			"purpleClothes",
+			"brownHair",
+			"longHair",
+			"showTeeth"
+		],
+		"gbExclusive": true,
+		"prompt": "38 year old jealous brown latina woman",
+		"animal": ""
+	},
+	"us-167": {
+		"id": "us-167",
+		"name": {
+			"en": "Samir",
+			"pt": "Samir"
+		},
+		"persona": {
+			"en": "the arab sheik",
+			"pt": "o sheik árabe"
+		},
+		"gender": "male",
+		"ethnicity": "middle-eastern",
+		"age": "30-40",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"avoidingCamera",
+			"beard",
+			"blackHair",
+			"hat",
+			"headscarf",
+			"whiteShirt",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "34 year old arab sheik with a smirk",
+		"animal": ""
+	},
+	"us-168": {
+		"id": "us-168",
+		"name": {
+			"en": "Gerard",
+			"pt": "Gilberto"
+		},
+		"persona": {
+			"en": "the politician",
+			"pt": "o político"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"avoidingCamera",
+			"blueClothes",
+			"tie",
+			"buttonShirt",
+			"greyHair",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "60 year old politician with money hidden everywhere on a dark blue suit",
+		"animal": ""
+	},
+	"us-169": {
+		"id": "us-169",
+		"name": {
+			"en": "Marina",
+			"pt": "Mina"
+		},
+		"persona": {
+			"en": "the crazy rich asian",
+			"pt": "a asiática ricaça"
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "30-40",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"blackHair",
+			"earrings",
+			"necklace",
+			"greenClothes",
+			"longHair",
+			"hairTie"
+		],
+		"gbExclusive": true,
+		"prompt": "34 year old rich asian woman",
+		"animal": ""
+	},
+	"us-17": {
+		"id": "us-17",
+		"name": {
+			"en": "Flick",
+			"pt": "Fagner"
+		},
+		"persona": {
+			"en": "the grandma's boy",
+			"pt": "o menino criado pela avó"
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "21-30",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"brownHair",
+			"shortHair",
+			"noAccessories",
+			"buttonShirt",
+			"orangeClothes"
+		],
+		"prompt": "24-year-old latino guy",
+		"animal": ""
+	},
+	"us-170": {
+		"id": "us-170",
+		"name": {
+			"en": "Amina",
+			"pt": "Amina"
+		},
+		"persona": {
+			"en": "the burqa woman",
+			"pt": "a mulher de burca"
+		},
+		"gender": "female",
+		"ethnicity": "middle-eastern",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": ["avoidingCamera", "blackClothes", "headscarf", "noHairInfo"],
+		"gbExclusive": true,
+		"prompt": "27 year old middle eastern woman wearing a burqa looking mysterious",
+		"animal": ""
+	},
+	"us-171": {
+		"id": "us-171",
+		"name": {
+			"en": "Arman",
+			"pt": "Aderbal"
+		},
+		"persona": {
+			"en": "the armenian guy",
+			"pt": "o armeno"
+		},
+		"gender": "male",
+		"ethnicity": "other",
+		"age": "50-60",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"hairyChest",
+			"yellowClothes",
+			"redClothes",
+			"blueClothes",
+			"beard",
+			"bald",
+			"blackHair",
+			"wearingStripes",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "56 year old Armenian man with a hairy body wearing a red and yellow tank top",
+		"animal": ""
+	},
+	"us-172": {
+		"id": "us-172",
+		"name": {
+			"en": "Joe",
+			"pt": "José"
+		},
+		"persona": {
+			"en": "the bricklayer",
+			"pt": "o pedreiro"
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"avoidingCamera",
+			"blackHair",
+			"brownClothes",
+			"hat",
+			"buttonShirt",
+			"whiteShirt",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "42 year old poor latino bricklayer man",
+		"animal": ""
+	},
+	"us-173": {
+		"id": "us-173",
+		"name": {
+			"en": "Brittany",
+			"pt": "Bruna"
+		},
+		"persona": {
+			"en": "the drunk party girl",
+			"pt": "a bêbada festeira"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"pinkClothes",
+			"lipstick",
+			"redHair",
+			"mediumHair",
+			"showTeeth"
+		],
+		"gbExclusive": true,
+		"prompt": "28 year old party girl with a drunk expression on her face",
+		"animal": ""
+	},
+	"us-174": {
+		"id": "us-174",
+		"name": {
+			"en": "Vince",
+			"pt": "Valdir"
+		},
+		"persona": {
+			"en": "the sleazy guy",
+			"pt": "o cara seboso"
+		},
+		"gender": "male",
+		"ethnicity": "other",
+		"age": "30-40",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"blackHair",
+			"blueClothes",
+			"necklace",
+			"buttonShirt",
+			"pinkClothes",
+			"yellowClothes",
+			"patternedShirt",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "38-year-old sleazy italian man with thick lips, gel hair, looking smug",
+		"animal": ""
+	},
+	"us-175": {
+		"id": "us-175",
+		"name": {
+			"en": "Neide",
+			"pt": "Norma"
+		},
+		"persona": {
+			"en": "the aunt",
+			"pt": "a tia"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"earrings",
+			"necklace",
+			"whiteShirt",
+			"brownHair",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "36 year old brazilian aunt in a mood",
+		"animal": ""
+	},
+	"us-176": {
+		"id": "us-176",
+		"name": {
+			"en": "Lamar",
+			"pt": "Luciano"
+		},
+		"persona": {
+			"en": "the afro dude",
+			"pt": "o black power"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"beard",
+			"glasses",
+			"necklace",
+			"buttonShirt",
+			"patternedShirt",
+			"brownHair",
+			"mediumHair",
+			"showTeeth"
+		],
+		"gbExclusive": true,
+		"prompt": "a 28 year old black man with a big afro with 70s clothes",
+		"animal": ""
+	},
+	"us-177": {
+		"id": "us-177",
+		"name": {
+			"en": "Frank",
+			"pt": "Felipe"
+		},
+		"persona": {
+			"en": "the firefighter",
+			"pt": "o bombeiro"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "large",
+		"features": [
+			"beard",
+			"blackClothes",
+			"blondeHair",
+			"brownClothes",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "37 year old nice guy overweight fire fighter",
+		"animal": ""
+	},
+	"us-178": {
+		"id": "us-178",
+		"name": {
+			"en": "Taisha",
+			"pt": "Talita"
+		},
+		"persona": {
+			"en": "the hip hop artist",
+			"pt": "a artista"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"earrings",
+			"hat",
+			"blackHair",
+			"shortHair",
+			"necklace",
+			"patternedShirt",
+			"coloredHair"
+		],
+		"gbExclusive": true,
+		"prompt": "25 year old black woman pop star with a plastic sculptural hair",
+		"animal": ""
+	},
+	"us-179": {
+		"id": "us-179",
+		"name": {
+			"en": "Keiko",
+			"pt": "Keiko"
+		},
+		"persona": {
+			"en": "the gamer girl",
+			"pt": "a gamer"
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "18-21",
+		"height": "short",
+		"build": "thin",
+		"features": ["blueClothes", "hoodie", "brownHair", "longHair"],
+		"gbExclusive": true,
+		"prompt": "18 year old japanese asian gamer girl",
+		"animal": ""
+	},
+	"us-18": {
+		"id": "us-18",
+		"name": {
+			"en": "Randall",
+			"pt": "Ramon"
+		},
+		"persona": {
+			"en": "the landowner",
+			"pt": "o fazendeiro"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"greyHair",
+			"mustache",
+			"shortHair",
+			"hat",
+			"buttonShirt",
+			"greenClothes"
+		],
+		"prompt": "64-year-old white man",
+		"animal": "the walrus"
+	},
+	"us-180": {
+		"id": "us-180",
+		"name": {
+			"en": "Paolo",
+			"pt": "Paolo"
+		},
+		"persona": {
+			"en": "the salsa dancer",
+			"pt": "o dançarino"
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "21-30",
+		"height": "medium",
+		"build": "muscular",
+		"features": [
+			"avoidingCamera",
+			"blackClothes",
+			"necklace",
+			"wearingFlowers",
+			"patternedShirt",
+			"brownHair",
+			"shortHair",
+			"showTeeth"
+		],
+		"gbExclusive": true,
+		"prompt": "28 year old brown latino salsa dancer",
+		"animal": ""
+	},
+	"us-181": {
+		"id": "us-181",
+		"name": {
+			"en": "Herbert",
+			"pt": "Heriberto"
+		},
+		"persona": {
+			"en": "the curator",
+			"pt": "o curador"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "70-80",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"greenClothes",
+			"greyHair",
+			"scarf",
+			"buttonShirt",
+			"whiteShirt",
+			"mediumHair"
+		],
+		"gbExclusive": true,
+		"prompt": "70 year old eccentric white man",
+		"animal": ""
+	},
+	"us-182": {
+		"id": "us-182",
+		"name": {
+			"en": "Sophie",
+			"pt": "Sofia"
+		},
+		"persona": {
+			"en": "the masseuse",
+			"pt": "a massagista"
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "21-30",
+		"height": "short",
+		"build": "thin",
+		"features": ["hairTie", "pinkClothes", "lipstick", "blackHair", "longHair"],
+		"gbExclusive": true,
+		"prompt": "22 year old asian masseuse",
+		"animal": ""
+	},
+	"us-183": {
+		"id": "us-183",
+		"name": {
+			"en": "Claudia",
+			"pt": "Cláudia"
+		},
+		"persona": {
+			"en": "the beggar",
+			"pt": "a mendiga"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "40-50",
+		"height": "medium",
+		"build": "thin",
+		"features": ["necklace", "brownClothes", "brownHair", "longHair"],
+		"gbExclusive": true,
+		"prompt": "45 year old brown skin latina dirty homeless woman",
+		"animal": ""
+	},
+	"us-184": {
+		"id": "us-184",
+		"name": {
+			"en": "Matthew",
+			"pt": "Márcio"
+		},
+		"persona": {
+			"en": "the stripper",
+			"pt": "o stripper"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"glasses",
+			"hat",
+			"blueClothes",
+			"blackHair",
+			"shortHair",
+			"shirtless"
+		],
+		"gbExclusive": true,
+		"prompt": "28 male stripper",
+		"animal": ""
+	},
+	"us-185": {
+		"id": "us-185",
+		"name": {
+			"en": "Jesus",
+			"pt": "Josué"
+		},
+		"persona": {
+			"en": "the truck driver",
+			"pt": "o caminhoneiro"
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "50-60",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"necklace",
+			"whiteShirt",
+			"goatee",
+			"mustache",
+			"greyHair",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "55 brown latino truck driver",
+		"animal": ""
+	},
+	"us-186": {
+		"id": "us-186",
+		"name": {
+			"en": "Rodney",
+			"pt": "Robson"
+		},
+		"persona": {
+			"en": "the foodie",
+			"pt": "o comilão"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "30-40",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"patternedShirt",
+			"whiteShirt",
+			"mustache",
+			"blackHair",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "32 year old fat black guy looking hungry",
+		"animal": ""
+	},
+	"us-187": {
+		"id": "us-187",
+		"name": {
+			"en": "Chantelle",
+			"pt": "Chandyellen"
+		},
+		"persona": {
+			"en": "the tiktop diva",
+			"pt": "a diva do tiktop"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"earrings",
+			"hairTie",
+			"blackClothes",
+			"lipstick",
+			"blackHair",
+			"mediumHair",
+			"avoidingCamera"
+		],
+		"gbExclusive": true,
+		"prompt": "22 year old black woman showing off her nails with lots of attitude",
+		"animal": ""
+	},
+	"us-188": {
+		"id": "us-188",
+		"name": {
+			"en": "Rosa",
+			"pt": "Rosa"
+		},
+		"persona": {
+			"en": "the maid",
+			"pt": "a empregada"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"hat",
+			"blackClothes",
+			"lipstick",
+			"blackHair",
+			"longHair",
+			"hairTie"
+		],
+		"gbExclusive": true,
+		"prompt": "36 year old brown latina woman",
+		"animal": ""
+	},
+	"us-189": {
+		"id": "us-189",
+		"name": {
+			"en": "Shaniqua",
+			"pt": "Soraia"
+		},
+		"persona": {
+			"en": "the big beautiful black woman",
+			"pt": "a negra grande e bonita"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "medium",
+		"build": "large",
+		"features": ["blackClothes", "lipstick", "blackHair", "mediumHair"],
+		"gbExclusive": true,
+		"prompt": "28 year old big black woman",
+		"animal": ""
+	},
+	"us-19": {
+		"id": "us-19",
+		"name": {
+			"en": "Vincent",
+			"pt": "Vicente"
+		},
+		"persona": {
+			"en": "the charming business man",
+			"pt": "o empresário charmoso"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"greyHair",
+			"mustache",
+			"goatee",
+			"buttonShirt",
+			"pinkClothes"
+		],
+		"prompt": "54-year-old handsome white man",
+		"animal": ""
+	},
+	"us-190": {
+		"id": "us-190",
+		"name": {
+			"en": "Valerie",
+			"pt": "Valentina"
+		},
+		"persona": {
+			"en": "the awkward lesbian",
+			"pt": "a lésbica desajeitada"
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"glasses",
+			"blueClothes",
+			"buttonShirt",
+			"blackHair",
+			"mediumHair",
+			"showTeeth"
+		],
+		"gbExclusive": true,
+		"prompt": "32 year old awkward lesbian asian woman",
+		"animal": ""
+	},
+	"us-191": {
+		"id": "us-191",
+		"name": {
+			"en": "Willow",
+			"pt": "Wânia"
+		},
+		"persona": {
+			"en": "the wiccan",
+			"pt": "a bruxa"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"earrings",
+			"necklace",
+			"whiteShirt",
+			"greyHair",
+			"mediumHair",
+			"avoidingCamera"
+		],
+		"gbExclusive": true,
+		"prompt": "50 year old white woman who is wiccan",
+		"animal": ""
+	},
+	"us-192": {
+		"id": "us-192",
+		"name": {
+			"en": "Tameka",
+			"pt": "Tainá"
+		},
+		"persona": {
+			"en": "the voodoo witch doctor",
+			"pt": "a médica de vodu"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"earrings",
+			"hat",
+			"necklace",
+			"piercings",
+			"blackClothes",
+			"brownHair",
+			"mediumHair"
+		],
+		"gbExclusive": true,
+		"prompt": "34 year old black voodoo witch",
+		"animal": ""
+	},
+	"us-193": {
+		"id": "us-193",
+		"name": {
+			"en": "Isla",
+			"pt": "Ísis"
+		},
+		"persona": {
+			"en": "the Scottish girl",
+			"pt": "a escocesa"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"scarf",
+			"greenClothes",
+			"lipstick",
+			"redHair",
+			"longHair",
+			"avoidingCamera"
+		],
+		"gbExclusive": true,
+		"prompt": "27 year old Scottish woman with many freckles",
+		"animal": ""
+	},
+	"us-194": {
+		"id": "us-194",
+		"name": {
+			"en": "Miguel",
+			"pt": "Miguel"
+		},
+		"persona": {
+			"en": "the acne boy",
+			"pt": "o garoto com acne"
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "18-21",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"hat",
+			"hoodie",
+			"purpleClothes",
+			"whiteShirt",
+			"mustache",
+			"blackHair",
+			"shortHair"
+		],
+		"gbExclusive": true,
+		"prompt": "18-year-old light brown latino boy with a thin mustache and his face covered in acne",
+		"animal": ""
+	},
+	"us-195": {
+		"id": "us-195",
+		"name": {
+			"en": "Vladimir",
+			"pt": "Vladimir"
+		},
+		"persona": {
+			"en": "the Russian henchman",
+			"pt": "o capanga russo"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "muscular",
+		"features": ["necklace", "blackClothes", "beard", "blondeHair", "bald"],
+		"gbExclusive": true,
+		"prompt": "45 year old russian henchman",
+		"animal": ""
+	},
+	"us-196": {
+		"id": "us-196",
+		"name": {
+			"en": "",
+			"pt": ""
+		},
+		"persona": {
+			"en": "the cancer survivor",
+			"pt": "a sobrevivente de câncer"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "",
+		"height": "",
+		"build": "",
+		"features": [],
+		"gbExclusive": true,
+		"prompt": "",
+		"animal": ""
+	},
+	"us-197": {
+		"id": "us-197",
+		"name": {
+			"en": "",
+			"pt": ""
+		},
+		"persona": {
+			"en": "the asian mathlete",
+			"pt": "a nerd asiático"
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "",
+		"height": "",
+		"build": "",
+		"features": [],
+		"gbExclusive": true,
+		"prompt": "",
+		"animal": ""
+	},
+	"us-198": {
+		"id": "us-198",
+		"name": {
+			"en": "",
+			"pt": ""
+		},
+		"persona": {
+			"en": "the devoted believer",
+			"pt": "a beata"
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "",
+		"height": "",
+		"build": "",
+		"features": [],
+		"gbExclusive": true,
+		"prompt": "",
+		"animal": ""
+	},
+	"us-199": {
+		"id": "us-199",
+		"name": {
+			"en": "",
+			"pt": ""
+		},
+		"persona": {
+			"en": "the cosplayer",
+			"pt": "o cosplayer"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "",
+		"height": "",
+		"build": "",
+		"features": [],
+		"gbExclusive": true,
+		"prompt": "",
+		"animal": ""
+	},
+	"us-20": {
+		"id": "us-20",
+		"name": {
+			"en": "Tonya",
+			"pt": "Tânia"
+		},
+		"persona": {
+			"en": "the chain-smoking aunt",
+			"pt": "a tia fumante"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "short",
+		"build": "large",
+		"features": [
+			"necklace",
+			"glasses",
+			"redHair",
+			"lipstick",
+			"mediumHair",
+			"blueClothes",
+			"greenClothes"
+		],
+		"prompt": "64-year-old white woman",
+		"animal": ""
+	},
+	"us-200": {
+		"id": "us-200",
+		"name": {
+			"en": "",
+			"pt": ""
+		},
+		"persona": {
+			"en": "the feminist",
+			"pt": "a feminista"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "",
+		"height": "",
+		"build": "",
+		"features": [],
+		"gbExclusive": true,
+		"prompt": "",
+		"animal": ""
+	},
+	"us-21": {
+		"id": "us-21",
+		"name": {
+			"en": "Una",
+			"pt": "Úrsula"
+		},
+		"persona": {
+			"en": "the muslin woman",
+			"pt": "a mulher muçulmana"
+		},
+		"gender": "female",
+		"ethnicity": "middle-eastern",
+		"age": "30-40",
+		"height": "short",
+		"build": "large",
+		"features": [
+			"headscarf",
+			"lipstick",
+			"showTeeth",
+			"blueClothes",
+			"redClothes",
+			"noHairInfo"
+		],
+		"prompt": "31-year-old muslin woman",
+		"animal": ""
+	},
+	"us-22": {
+		"id": "us-22",
+		"name": {
+			"en": "Jocelyn",
+			"pt": "Jesilene"
+		},
+		"persona": {
+			"en": "the troublemaker",
+			"pt": "a encrenqueira"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "short",
+		"build": "large",
+		"features": ["longHair", "brownHair", "earrings", "pinkClothes", "hairTie"],
+		"prompt": "25-year-old black woman",
+		"animal": ""
+	},
+	"us-23": {
+		"id": "us-23",
+		"name": {
+			"en": "Brian",
+			"pt": "Benedito"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"blondeHair",
+			"shortHair",
+			"beard",
+			"hat",
+			"buttonShirt",
+			"brownClothes",
+			"hairyChest"
+		],
+		"prompt": "28-year-old white man",
+		"animal": ""
+	},
+	"us-24": {
+		"id": "us-24",
+		"name": {
+			"en": "Bassam",
+			"pt": "Basílio"
+		},
+		"persona": {
+			"en": "the Indian guy",
+			"pt": "o indiano"
+		},
+		"gender": "male",
+		"ethnicity": "indian",
+		"age": "60-70",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"greyHair",
+			"beard",
+			"headscarf",
+			"buttonShirt",
+			"orangeClothes"
+		],
+		"prompt": "67-year-old indian man",
+		"animal": ""
+	},
+	"us-25": {
+		"id": "us-25",
+		"name": {
+			"en": "Madeline",
+			"pt": "Madalena"
+		},
+		"persona": {
+			"en": "the rich lady",
+			"pt": "a ricaça"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"greyHair",
+			"shortHair",
+			"necklace",
+			"earrings",
+			"lipstick",
+			"redClothes"
+		],
+		"prompt": "66-year-old white woman",
+		"animal": ""
+	},
+	"us-26": {
+		"id": "us-26",
+		"name": {
+			"en": "Coach",
+			"pt": "Adamastor"
+		},
+		"persona": {
+			"en": "the coach",
+			"pt": "o treinador"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"shortHair",
+			"blondeHair",
+			"mustache",
+			"hat",
+			"buttonShirt",
+			"showTeeth",
+			"orangeClothes"
+		],
+		"prompt": "53-year-old man",
+		"animal": ""
+	},
+	"us-27": {
+		"id": "us-27",
+		"name": {
+			"en": "Anthony",
+			"pt": "Antônio"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"bald",
+			"greyHair",
+			"noAccessories",
+			"avoidingCamera",
+			"whiteShirt",
+			"blueClothes",
+			"shortHair"
+		],
+		"prompt": "64-year-old white man",
+		"animal": ""
+	},
+	"us-28": {
+		"id": "us-28",
+		"name": {
+			"en": "Amanda",
+			"pt": "Amanda"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"longHair",
+			"redHair",
+			"lipstick",
+			"necklace",
+			"purpleClothes"
+		],
+		"prompt": "30-year-old white woman with red hair",
+		"animal": ""
+	},
+	"us-29": {
+		"id": "us-29",
+		"name": {
+			"en": "Andre",
+			"pt": "André"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "medium",
+		"build": "large",
+		"features": ["shortHair", "brownHair", "goatee", "scarf", "orangeClothes"],
+		"prompt": "24-year-old black guy",
+		"animal": ""
+	},
+	"us-30": {
+		"id": "us-30",
+		"name": {
+			"en": "Hector",
+			"pt": "Heitor"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"blondeHair",
+			"shortHair",
+			"tie",
+			"buttonShirt",
+			"whiteShirt",
+			"brownClothes"
+		],
+		"prompt": "49-year-old white man",
+		"animal": ""
+	},
+	"us-31": {
+		"id": "us-31",
+		"name": {
+			"en": "Stephanie",
+			"pt": "Estefânia"
+		},
+		"persona": {
+			"en": "the flight attendant",
+			"pt": "a aeromoça"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"longHair",
+			"blondeHair",
+			"earrings",
+			"hat",
+			"lipstick",
+			"wearingFlowers",
+			"blueClothes"
+		],
+		"prompt": "25-year-old white woman",
+		"animal": ""
+	},
+	"us-32": {
+		"id": "us-32",
+		"name": {
+			"en": "Valentina",
+			"pt": "Valentina"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"coloredHair",
+			"earrings",
+			"lipstick",
+			"avoidingCamera",
+			"greenClothes"
+		],
+		"prompt": "28-year-old white woman",
+		"animal": ""
+	},
+	"us-33": {
+		"id": "us-33",
+		"name": {
+			"en": "Gary",
+			"pt": "Geraldo"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": ["mustache", "blackHair", "shortHair", "scarf", "greenClothes"],
+		"prompt": "44-year-old latino man",
+		"animal": ""
+	},
+	"us-34": {
+		"id": "us-34",
+		"name": {
+			"en": "Sean",
+			"pt": "Sérgio"
+		},
+		"persona": {
+			"en": "the mechanic",
+			"pt": "o mecânico"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "30-40",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"bald",
+			"brownHair",
+			"beard",
+			"noAccessories",
+			"showTeeth",
+			"blueClothes",
+			"hairyChest"
+		],
+		"prompt": "32-year-old black man",
+		"animal": ""
+	},
+	"us-35": {
+		"id": "us-35",
+		"name": {
+			"en": "Robert",
+			"pt": "Roberto"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"blackHair",
+			"noAccessories",
+			"showTeeth",
+			"blueClothes"
+		],
+		"prompt": "39-year-old white man",
+		"animal": ""
+	},
+	"us-36": {
+		"id": "us-36",
+		"name": {
+			"en": "Jeremiah",
+			"pt": "Jeremias"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"blackHair",
+			"glasses",
+			"tie",
+			"avoidingCamera",
+			"buttonShirt",
+			"redClothes"
+		],
+		"prompt": "28-year-old asian man",
+		"animal": ""
+	},
+	"us-37": {
+		"id": "us-37",
+		"name": {
+			"en": "Snoopy",
+			"pt": "Josenildo"
+		},
+		"persona": {
+			"en": "the rapper",
+			"pt": "o rapper"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"hat",
+			"necklace",
+			"earrings",
+			"glasses",
+			"blackHair",
+			"shortHair",
+			"showTeeth",
+			"wearingStripes",
+			"blueClothes",
+			"redClothes"
+		],
+		"prompt": "24-year-old black man",
+		"animal": ""
+	},
+	"us-38": {
+		"id": "us-38",
+		"name": {
+			"en": "Lia",
+			"pt": "Lia"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "40-50",
+		"height": "short",
+		"build": "large",
+		"features": [
+			"blackHair",
+			"shortHair",
+			"scarf",
+			"hat",
+			"earrings",
+			"lipstick",
+			"purpleClothes"
+		],
+		"prompt": "42-year-old chinese woman",
+		"animal": ""
+	},
+	"us-39": {
+		"id": "us-39",
+		"name": {
+			"en": "Solange",
+			"pt": "Solange"
+		},
+		"persona": {
+			"en": "the depressed woman",
+			"pt": "a mulher depressiva"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"longHair",
+			"blondeHair",
+			"lipstick",
+			"earrings",
+			"avoidingCamera",
+			"redClothes"
+		],
+		"prompt": "37-year-old white woman",
+		"animal": ""
+	},
+	"us-40": {
+		"id": "us-40",
+		"name": {
+			"en": "Patricia",
+			"pt": "Patrícia"
+		},
+		"persona": {
+			"en": "the church lady",
+			"pt": "a tia da igreja"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "50-60",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"lipstick",
+			"glasses",
+			"headscarf",
+			"scarf",
+			"earrings",
+			"showTeeth",
+			"purpleClothes"
+		],
+		"prompt": "57-year-old black woman",
+		"animal": ""
+	},
+	"us-41": {
+		"id": "us-41",
+		"name": {
+			"en": "Alexander",
+			"pt": "Alexandre"
+		},
+		"persona": {
+			"en": "the dealer",
+			"pt": "o traficante"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"hat",
+			"hoodie",
+			"beard",
+			"shortHair",
+			"brownHair",
+			"avoidingCamera",
+			"redClothes",
+			"blueClothes"
+		],
+		"prompt": "28-year-old black man",
+		"animal": ""
+	},
+	"us-42": {
+		"id": "us-42",
+		"name": {
+			"en": "Katherine",
+			"pt": "Catarina"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"blondeHair",
+			"lipstick",
+			"earrings",
+			"avoidingCamera",
+			"showTeeth",
+			"orangeClothes",
+			"patternedShirt"
+		],
+		"prompt": "42-year-old white woman",
+		"animal": ""
+	},
+	"us-43": {
+		"id": "us-43",
+		"name": {
+			"en": "Felicia",
+			"pt": "Felicia"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"longHair",
+			"brownHair",
+			"lipstick",
+			"noAccessories",
+			"avoidingCamera",
+			"greenClothes"
+		],
+		"prompt": "32-year-old latina woman",
+		"animal": ""
+	},
+	"us-44": {
+		"id": "us-44",
+		"name": {
+			"en": "Roy",
+			"pt": "Rômulo"
+		},
+		"persona": {
+			"en": "the geppetto lookalike",
+			"pt": "o sósia do Geppetto"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"greyHair",
+			"beard",
+			"glasses",
+			"avoidingCamera",
+			"buttonShirt",
+			"brownClothes"
+		],
+		"prompt": "55-year-old white man",
+		"animal": ""
+	},
+	"us-45": {
+		"id": "us-45",
+		"name": {
+			"en": "Marlene",
+			"pt": "Marlene"
+		},
+		"persona": {
+			"en": "the grandma",
+			"pt": "a vovó"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "tall",
+		"build": "large",
+		"features": [
+			"shortHair",
+			"greyHair",
+			"lipstick",
+			"necklace",
+			"earrings",
+			"glasses",
+			"showTeeth",
+			"redClothes",
+			"blueClothes"
+		],
+		"prompt": "65-year-old white woman",
+		"animal": ""
+	},
+	"us-46": {
+		"id": "us-46",
+		"name": {
+			"en": "Ricardo",
+			"pt": "Ricardo"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"blackHair",
+			"mustache",
+			"noAccessories",
+			"greenClothes",
+			"hairyChest"
+		],
+		"prompt": "24-year-old latino man",
+		"animal": ""
+	},
+	"us-47": {
+		"id": "us-47",
+		"name": {
+			"en": "Barry",
+			"pt": "Bartolomeu"
+		},
+		"persona": {
+			"en": "the biker",
+			"pt": "o motociclista"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "large",
+		"features": [
+			"beard",
+			"glasses",
+			"headscarf",
+			"necklace",
+			"brownClothes",
+			"hairyChest",
+			"longHair"
+		],
+		"prompt": "33-year-old white man",
+		"animal": ""
+	},
+	"us-48": {
+		"id": "us-48",
+		"name": {
+			"en": "Janice",
+			"pt": "Janice"
+		},
+		"persona": {
+			"en": "the human rights activist",
+			"pt": "a ativista dos direitos humanos"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"necklace",
+			"longHair",
+			"blackHair",
+			"avoidingCamera",
+			"showTeeth",
+			"orangeClothes",
+			"yellowClothes"
+		],
+		"prompt": "25-year-old black woman",
+		"animal": ""
+	},
+	"us-49": {
+		"id": "us-49",
+		"name": {
+			"en": "Kristen",
+			"pt": "Cristina"
+		},
+		"persona": {
+			"en": "the socialite",
+			"pt": "a socialite"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"longHair",
+			"blondeHair",
+			"earrings",
+			"lipstick",
+			"yellowClothes"
+		],
+		"prompt": "52-year-old white woman",
+		"animal": ""
+	},
+	"us-50": {
+		"id": "us-50",
+		"name": {
+			"en": "Benjamin",
+			"pt": "Bernardo"
+		},
+		"persona": {
+			"en": "the gay bear",
+			"pt": "o urso gay"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"beard",
+			"brownHair",
+			"shortHair",
+			"noAccessories",
+			"whiteShirt",
+			"hairyChest",
+			"patternedShirt"
+		],
+		"prompt": "35-year-old white man",
+		"animal": ""
+	},
+	"us-51": {
+		"id": "us-51",
+		"name": {
+			"en": "Edgard",
+			"pt": "Edgar"
+		},
+		"persona": {
+			"en": "the rock-and-roller",
+			"pt": "o roqueiro"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"earrings",
+			"longHair",
+			"blondeHair",
+			"mustache",
+			"avoidingCamera",
+			"blueClothes",
+			"hairyChest"
+		],
+		"prompt": "48-year-old white man",
+		"animal": ""
+	},
+	"us-52": {
+		"id": "us-52",
+		"name": {
+			"en": "Ernest",
+			"pt": "Ernesto"
+		},
+		"persona": {
+			"en": "the pagode musician",
+			"pt": "o pagodeiro"
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"beard",
+			"mustache",
+			"necklace",
+			"glasses",
+			"avoidingCamera",
+			"blueClothes",
+			"hairyChest"
+		],
+		"prompt": "31-year-old latino man",
+		"animal": ""
+	},
+	"us-53": {
+		"id": "us-53",
+		"name": {
+			"en": "Sebastian",
+			"pt": "Sebastião"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"scarf",
+			"blackHair",
+			"shortHair",
+			"avoidingCamera",
+			"wearingStripes",
+			"blueClothes"
+		],
+		"prompt": "32-year-old chinese man",
+		"animal": ""
+	},
+	"us-54": {
+		"id": "us-54",
+		"name": {
+			"en": "Christian",
+			"pt": "Cristiano"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"shortHair",
+			"blondeHair",
+			"glasses",
+			"showTeeth",
+			"greenClothes",
+			"hairyChest",
+			"yellowClothes"
+		],
+		"prompt": "27-year-old handsome blond white man",
+		"animal": ""
+	},
+	"us-55": {
+		"id": "us-55",
+		"name": {
+			"en": "Suzanne",
+			"pt": "Suzana"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"longHair",
+			"coloredHair",
+			"lipstick",
+			"noAccessories",
+			"blueClothes",
+			"patternedShirt"
+		],
+		"prompt": "36-year-old white woman with pink hair",
+		"animal": ""
+	},
+	"us-56": {
+		"id": "us-56",
+		"name": {
+			"en": "Natalie",
+			"pt": "Natália"
+		},
+		"persona": {
+			"en": "the soccer mom",
+			"pt": "a mãe de atleta"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"blackHair",
+			"earrings",
+			"showTeeth",
+			"blueClothes",
+			"hairTie",
+			"longHair"
+		],
+		"prompt": "42-year-old white woman",
+		"animal": ""
+	},
+	"us-57": {
+		"id": "us-57",
+		"name": {
+			"en": "Wilma",
+			"pt": "Velma"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"hat",
+			"glasses",
+			"blackHair",
+			"shortHair",
+			"wearingFlowers",
+			"blueClothes",
+			"pinkClothes",
+			"patternedShirt"
+		],
+		"prompt": "62-year-old white woman",
+		"animal": ""
+	},
+	"us-58": {
+		"id": "us-58",
+		"name": {
+			"en": "Francis",
+			"pt": "Francisco"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "50-60",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"mustache",
+			"hat",
+			"tie",
+			"greyHair",
+			"buttonShirt",
+			"blueClothes",
+			"redClothes",
+			"bald"
+		],
+		"prompt": "58-year-old black man",
+		"animal": ""
+	},
+	"us-59": {
+		"id": "us-59",
+		"name": {
+			"en": "George",
+			"pt": "Jorge"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"bald",
+			"greyHair",
+			"beard",
+			"glasses",
+			"buttonShirt",
+			"blueClothes",
+			"hairyChest",
+			"shortHair"
+		],
+		"prompt": "54-year-old white man",
+		"animal": ""
+	},
+	"us-60": {
+		"id": "us-60",
+		"name": {
+			"en": "James",
+			"pt": "Jair"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"earrings",
+			"brownHair",
+			"shortHair",
+			"glasses",
+			"orangeClothes",
+			"yellowClothes"
+		],
+		"prompt": "33-year-old white man with brown hair",
+		"animal": ""
+	},
+	"us-61": {
+		"id": "us-61",
+		"name": {
+			"en": "Samuel",
+			"pt": "Sandoval"
+		},
+		"persona": {
+			"en": "the hippie",
+			"pt": "o hippie"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "thin",
+		"features": [
+			"longHair",
+			"blondeHair",
+			"beard",
+			"necklace",
+			"earrings",
+			"wearingFlowers",
+			"greenClothes",
+			"hairyChest",
+			"patternedShirt"
+		],
+		"prompt": "46-year-old white hippie man",
+		"animal": ""
+	},
+	"us-62": {
+		"id": "us-62",
+		"name": {
+			"en": "Mateo",
+			"pt": "Manuel"
+		},
+		"persona": {
+			"en": "the peruvian guy",
+			"pt": "o peruano"
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "30-40",
+		"height": "short",
+		"build": "average",
+		"features": ["shortHair", "blackHair", "tie", "buttonShirt", "blueClothes"],
+		"prompt": "30-year-old dark latino man",
+		"animal": ""
+	},
+	"us-63": {
+		"id": "us-63",
+		"name": {
+			"en": "Louis",
+			"pt": "Luís"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"brownHair",
+			"shortHair",
+			"glasses",
+			"buttonShirt",
+			"blueClothes"
+		],
+		"prompt": "26-year-old white man",
+		"animal": ""
+	},
+	"us-64": {
+		"id": "us-64",
+		"name": {
+			"en": "Sandra",
+			"pt": "Sandra"
+		},
+		"persona": {
+			"en": "the metalhead",
+			"pt": "a roqueira"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"longHair",
+			"brownHair",
+			"piercings",
+			"earrings",
+			"lipstick",
+			"blueClothes",
+			"redClothes",
+			"patternedShirt"
+		],
+		"prompt": "46-year-old white woman",
+		"animal": ""
+	},
+	"us-65": {
+		"id": "us-65",
+		"name": {
+			"en": "Carl",
+			"pt": "Carlos"
+		},
+		"persona": {
+			"en": "the filipino",
+			"pt": "o filipino"
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": ["shortHair", "brownHair", "noAccessories", "brownClothes"],
+		"prompt": "25-year-old filipino man",
+		"animal": ""
+	},
+	"us-66": {
+		"id": "us-66",
+		"name": {
+			"en": "Ben",
+			"pt": "Bruno"
+		},
+		"persona": {
+			"en": "the lumberjack",
+			"pt": "o lenhador"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "large",
+		"features": [
+			"redHair",
+			"shortHair",
+			"beard",
+			"hat",
+			"buttonShirt",
+			"wearingStripes",
+			"redClothes",
+			"patternedShirt"
+		],
+		"prompt": "27-year-old white man",
+		"animal": ""
+	},
+	"us-67": {
+		"id": "us-67",
+		"name": {
+			"en": "Walter",
+			"pt": "Walter"
+		},
+		"persona": {
+			"en": "the policeman",
+			"pt": "o policial"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"goatee",
+			"brownHair",
+			"shortHair",
+			"hat",
+			"tie",
+			"avoidingCamera",
+			"buttonShirt",
+			"blackClothes",
+			"blueClothes"
+		],
+		"prompt": "52-year-old white man",
+		"animal": ""
+	},
+	"us-68": {
+		"id": "us-68",
+		"name": {
+			"en": "Powa",
+			"pt": "Pequi"
+		},
+		"persona": {
+			"en": "the native chief",
+			"pt": "o chefe da tribo"
+		},
+		"gender": "male",
+		"ethnicity": "indigenous",
+		"age": "50-60",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"longHair",
+			"blackHair",
+			"necklace",
+			"brownClothes",
+			"patternedShirt"
+		],
+		"prompt": "58-year-old native American man",
+		"animal": ""
+	},
+	"us-69": {
+		"id": "us-69",
+		"name": {
+			"en": "Percy",
+			"pt": "Percival"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"hat",
+			"earrings",
+			"brownHair",
+			"shortHair",
+			"showTeeth",
+			"orangeClothes"
+		],
+		"prompt": "7-year-old white man",
+		"animal": ""
+	},
+	"us-70": {
+		"id": "us-70",
+		"name": {
+			"en": "Deborah",
+			"pt": "Dulce"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "80-90",
+		"height": "medium",
+		"build": "average",
+		"features": ["greyHair", "earrings", "headscarf", "purpleClothes"],
+		"prompt": "82-year-old white woman",
+		"animal": ""
+	},
+	"us-71": {
+		"id": "us-71",
+		"name": {
+			"en": "Gabriel",
+			"pt": "Gabriel"
+		},
+		"persona": {
+			"en": "the detective",
+			"pt": "o detetive"
+		},
+		"gender": "male",
+		"ethnicity": "black",
+		"age": "40-50",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"brownHair",
+			"mustache",
+			"tie",
+			"avoidingCamera",
+			"buttonShirt",
+			"blackClothes",
+			"brownClothes",
+			"whiteShirt"
+		],
+		"prompt": "42-year-old black man",
+		"animal": ""
+	},
+	"us-72": {
+		"id": "us-72",
+		"name": {
+			"en": "Devon",
+			"pt": "Denílson"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "mixed",
+		"age": "30-40",
+		"height": "medium",
+		"build": "thin",
+		"features": ["shortHair", "brownHair", "noAccessories", "greenClothes"],
+		"prompt": "28-year-old mixed asian-black man",
+		"animal": ""
+	},
+	"us-73": {
+		"id": "us-73",
+		"name": {
+			"en": "Eve",
+			"pt": "Eva"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"redHair",
+			"shortHair",
+			"lipstick",
+			"noAccessories",
+			"redClothes"
+		],
+		"prompt": "24-year-old white woman",
+		"animal": ""
+	},
+	"us-74": {
+		"id": "us-74",
+		"name": {
+			"en": "Trevor",
+			"pt": "Tarcísio"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "medium",
+		"build": "average",
+		"features": ["redHair", "shortHair", "beard", "glasses", "blueClothes"],
+		"prompt": "28-year-old white man",
+		"animal": ""
+	},
+	"us-75": {
+		"id": "us-75",
+		"name": {
+			"en": "Ivone",
+			"pt": "Ivone"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"lipstick",
+			"necklace",
+			"headscarf",
+			"wearingStripes",
+			"redClothes",
+			"noHairInfo"
+		],
+		"prompt": "37-year-old black woman",
+		"animal": ""
+	},
+	"us-76": {
+		"id": "us-76",
+		"name": {
+			"en": "Abigail",
+			"pt": "Abigail"
+		},
+		"persona": {
+			"en": "the amateur baker",
+			"pt": "a confeiteira"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "short",
+		"build": "large",
+		"features": [
+			"blackHair",
+			"glasses",
+			"lipstick",
+			"earrings",
+			"mediumHair",
+			"whiteShirt"
+		],
+		"prompt": "27-year-old white woman",
+		"animal": ""
+	},
+	"us-77": {
+		"id": "us-77",
+		"name": {
+			"en": "Tanaka",
+			"pt": "Tanaka"
+		},
+		"persona": {
+			"en": "the chef",
+			"pt": "o cozinheiro"
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"blackHair",
+			"glasses",
+			"hat",
+			"avoidingCamera",
+			"buttonShirt",
+			"whiteShirt"
+		],
+		"prompt": "55-year-old japanese man",
+		"animal": ""
+	},
+	"us-78": {
+		"id": "us-78",
+		"name": {
+			"en": "Kyle",
+			"pt": "Caio"
+		},
+		"persona": {
+			"en": "the marine",
+			"pt": "o fuzileiro naval"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "muscular",
+		"features": [
+			"blackHair",
+			"shortHair",
+			"hat",
+			"buttonShirt",
+			"blueClothes",
+			"avoidingCamera"
+		],
+		"prompt": "26-year-old white man",
+		"animal": ""
+	},
+	"us-79": {
+		"id": "us-79",
+		"name": {
+			"en": "Mo",
+			"pt": "Márcia"
+		},
+		"persona": {
+			"en": "the lesbian",
+			"pt": "a sapatona"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "large",
+		"features": ["shortHair", "lipstick", "glasses", "blackHair", "whiteShirt"],
+		"prompt": "43-year-old white woman",
+		"animal": ""
+	},
+	"us-80": {
+		"id": "us-80",
+		"name": {
+			"en": "Anisha",
+			"pt": "Ana"
+		},
+		"persona": {
+			"en": "the doctor",
+			"pt": "a médica"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "30-40",
+		"height": "short",
+		"build": "thin",
+		"features": ["brownHair", "mediumHair", "blueClothes"],
+		"prompt": "34-year-old black doctor woman",
+		"animal": ""
+	},
+	"us-81": {
+		"id": "us-81",
+		"name": {
+			"en": "Jean",
+			"pt": "Claudimiro"
+		},
+		"persona": {
+			"en": "the vampire",
+			"pt": "o vampiro"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "60-70",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"shortHair",
+			"greyHair",
+			"tie",
+			"buttonShirt",
+			"blackClothes",
+			"bow",
+			"whiteShirt"
+		],
+		"prompt": "68-year-old eccentric white man",
+		"animal": ""
+	},
+	"us-82": {
+		"id": "us-82",
+		"name": {
+			"en": "Mortimer",
+			"pt": "Murilo"
+		},
+		"persona": {
+			"en": "the mafia boss",
+			"pt": "o mafioso"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "large",
+		"features": [
+			"hat",
+			"blackHair",
+			"shortHair",
+			"tie",
+			"buttonShirt",
+			"whiteShirt",
+			"blackClothes"
+		],
+		"prompt": "47-year-old Italian man",
+		"animal": ""
+	},
+	"us-83": {
+		"id": "us-83",
+		"name": {
+			"en": "Eru",
+			"pt": "Eru"
+		},
+		"persona": {
+			"en": "the Eskimo",
+			"pt": "o esquimó"
+		},
+		"gender": "male",
+		"ethnicity": "mixed",
+		"age": "50-60",
+		"height": "short",
+		"build": "thin",
+		"features": ["blackHair", "shortHair", "hoodie", "orangeClothes", "bow"],
+		"prompt": "52-year-old Eskimo man",
+		"animal": ""
+	},
+	"us-84": {
+		"id": "us-84",
+		"name": {
+			"en": "Doug",
+			"pt": "Douglas"
+		},
+		"persona": {
+			"en": "the golden retriever boyfriend",
+			"pt": "o namorado bom moço"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"brownHair",
+			"shortHair",
+			"beard",
+			"hoodie",
+			"showTeeth",
+			"greenClothes"
+		],
+		"prompt": "26-year-old white man with brown hair",
+		"animal": ""
+	},
+	"us-85": {
+		"id": "us-85",
+		"name": {
+			"en": "Gabrielle",
+			"pt": "Gabriela"
+		},
+		"persona": {
+			"en": "the student",
+			"pt": "a estudante"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "18-21",
+		"height": "medium",
+		"build": "thin",
+		"features": ["brownHair", "glasses", "pinkClothes", "redClothes"],
+		"prompt": "18-year-old black student girl",
+		"animal": ""
+	},
+	"us-86": {
+		"id": "us-86",
+		"name": {
+			"en": "Hariko",
+			"pt": "Hariko"
+		},
+		"persona": {
+			"en": "the geisha",
+			"pt": "a gueisha"
+		},
+		"gender": "female",
+		"ethnicity": "asian",
+		"age": "21-30",
+		"height": "short",
+		"build": "thin",
+		"features": [
+			"blackHair",
+			"earrings",
+			"longHair",
+			"wearingFlowers",
+			"brownClothes"
+		],
+		"prompt": "22-year-old geisha",
+		"animal": ""
+	},
+	"us-87": {
+		"id": "us-87",
+		"name": {
+			"en": "Pamela",
+			"pt": "Pâmela"
+		},
+		"persona": {
+			"en": "the emily in paris",
+			"pt": "a estudante de intercâmbio"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"hat",
+			"redHair",
+			"longHair",
+			"lipstick",
+			"earrings",
+			"showTeeth",
+			"necklace",
+			"redClothes"
+		],
+		"prompt": "23-year-old average-looking woman",
+		"animal": ""
+	},
+	"us-88": {
+		"id": "us-88",
+		"name": {
+			"en": "Ethan",
+			"pt": "Enzo"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "18-21",
+		"height": "short",
+		"build": "thin",
+		"features": ["shortHair", "brownHair", "noAccessories", "blueClothes"],
+		"prompt": "19-year-old boy with brown hair",
+		"animal": ""
+	},
+	"us-89": {
+		"id": "us-89",
+		"name": {
+			"en": "Camilla",
+			"pt": "Camila"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"earrings",
+			"necklace",
+			"lipstick",
+			"blackHair",
+			"longHair",
+			"blueClothes"
+		],
+		"prompt": "30-year-old black woman",
+		"animal": ""
+	},
+	"us-90": {
+		"id": "us-90",
+		"name": {
+			"en": "Kathleen",
+			"pt": "Kelly"
+		},
+		"persona": {
+			"en": "the bombshell",
+			"pt": "a ruiva deslumbrante"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "21-30",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"lipstick",
+			"longHair",
+			"redHair",
+			"noAccessories",
+			"showTeeth",
+			"redClothes"
+		],
+		"prompt": "23-year-old bombshell red headed woman",
+		"animal": ""
+	},
+	"us-91": {
+		"id": "us-91",
+		"name": {
+			"en": "Takeshi",
+			"pt": "Takeshi"
+		},
+		"persona": {
+			"en": "the karate master",
+			"pt": "o mestre de karatê"
+		},
+		"gender": "male",
+		"ethnicity": "asian",
+		"age": "50-60",
+		"height": "medium",
+		"build": "muscular",
+		"features": ["shortHair", "blackHair", "noAccessories"],
+		"prompt": "55-year-old Japanese karate master",
+		"animal": ""
+	},
+	"us-92": {
+		"id": "us-92",
+		"name": {
+			"en": "Amelia",
+			"pt": "Amélia"
+		},
+		"persona": {
+			"en": "a government worker",
+			"pt": "a funcionária pública"
+		},
+		"gender": "female",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "short",
+		"build": "average",
+		"features": [
+			"longHair",
+			"brownHair",
+			"glasses",
+			"earrings",
+			"necklace",
+			"greenClothes"
+		],
+		"prompt": "37-year-old Jewish woman",
+		"animal": ""
+	},
+	"us-93": {
+		"id": "us-93",
+		"name": {
+			"en": "Owen",
+			"pt": "Otaviano"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "tall",
+		"build": "large",
+		"features": [
+			"redHair",
+			"shortHair",
+			"noAccessories",
+			"showTeeth",
+			"blueClothes"
+		],
+		"prompt": "32-year-old white man",
+		"animal": ""
+	},
+	"us-94": {
+		"id": "us-94",
+		"name": {
+			"en": "Mark",
+			"pt": "Marcos"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "large",
+		"features": ["shortHair", "brownHair", "beard", "noAccessories"],
+		"prompt": "34-year-old white man",
+		"animal": ""
+	},
+	"us-95": {
+		"id": "us-95",
+		"name": {
+			"en": "Quentin",
+			"pt": "Quércio"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "thin",
+		"features": [
+			"shortHair",
+			"beard",
+			"brownHair",
+			"noAccessories",
+			"orangeClothes"
+		],
+		"prompt": "27-year-old white man",
+		"animal": ""
+	},
+	"us-96": {
+		"id": "us-96",
+		"name": {
+			"en": "Stanley",
+			"pt": "Saulo"
+		},
+		"persona": {
+			"en": "the sailor",
+			"pt": "o marinheiro"
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "40-50",
+		"height": "medium",
+		"build": "average",
+		"features": [
+			"hat",
+			"redHair",
+			"beard",
+			"showTeeth",
+			"whiteShirt",
+			"wearingStripes",
+			"blueClothes",
+			"patternedShirt",
+			"shortHair",
+			"bald"
+		],
+		"prompt": "46-year-old white man who is a red head sailor",
+		"animal": ""
+	},
+	"us-97": {
+		"id": "us-97",
+		"name": {
+			"en": "Paxton",
+			"pt": "Péricles"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "caucasian",
+		"age": "30-40",
+		"height": "medium",
+		"build": "average",
+		"features": ["earrings", "bald", "blackClothes"],
+		"prompt": "28-year-old white man",
+		"animal": ""
+	},
+	"us-98": {
+		"id": "us-98",
+		"name": {
+			"en": "Graham",
+			"pt": "Gerson"
+		},
+		"persona": {
+			"en": "",
+			"pt": ""
+		},
+		"gender": "male",
+		"ethnicity": "latino",
+		"age": "40-50",
+		"height": "tall",
+		"build": "average",
+		"features": [
+			"brownHair",
+			"shortHair",
+			"beard",
+			"noAccessories",
+			"blackClothes"
+		],
+		"prompt": "42-year-old mixed race latino man",
+		"animal": ""
+	},
+	"us-99": {
+		"id": "us-99",
+		"name": {
+			"en": "Vanessa",
+			"pt": "Valesca"
+		},
+		"persona": {
+			"en": "the samba girl",
+			"pt": "a passista"
+		},
+		"gender": "female",
+		"ethnicity": "black",
+		"age": "21-30",
+		"height": "medium",
+		"build": "muscular",
+		"features": [
+			"brownHair",
+			"shortHair",
+			"earrings",
+			"necklace",
+			"showTeeth",
+			"patternedShirt"
+		],
+		"prompt": "23-year-old beautiful black woman",
+		"animal": ""
+	}
 }
