@@ -342,7 +342,6 @@
     "height": "short",
     "build": "thin",
     "features": [
-      "shortHair",
       "blackHair",
       "earrings",
       "piercings",
@@ -351,7 +350,8 @@
       "greenClothes",
       "orangeClothes",
       "patternedShirt",
-      "necklace"
+      "necklace",
+      "longHair"
     ]
   },
   "us-017": {
@@ -2451,7 +2451,7 @@
       "pt": "Kai"
     },
     "gender": "male",
-    "race": "mixed",
+    "race": "brown",
     "ethnicity": "mixed",
     "age": "18-21",
     "height": "short",
@@ -3711,7 +3711,7 @@
       "pt": "Valdir"
     },
     "gender": "male",
-    "race": "other",
+    "race": "white",
     "ethnicity": "other",
     "age": "30-40",
     "height": "tall",
@@ -3735,7 +3735,7 @@
       "pt": "Norma"
     },
     "gender": "female",
-    "race": "brown",
+    "race": "white",
     "ethnicity": "latino",
     "age": "30-40",
     "height": "medium",
@@ -4235,7 +4235,7 @@
       "pt": "Cecília"
     },
     "gender": "female",
-    "race": "brown",
+    "race": "white",
     "ethnicity": "latino",
     "age": "30-40",
     "height": "medium",
