@@ -223,7 +223,7 @@
 	},
 	"51870": {
 		"id": "51870",
-		"imageCardsIds": ["td-d4-155"],
+		"imageCardsIds": ["td-d4-155", "td-d1-153"],
 		"passcode": ["monociclo", "roda"]
 	},
 	"55413": {
@@ -296,16 +296,6 @@
 		"imageCardsIds": ["td-d2-216", "td-d5-23"],
 		"passcode": ["fones"]
 	},
-	"81033": {
-		"id": "81033",
-		"imageCardsIds": ["td-d1-81"],
-		"passcode": ["garrafa"]
-	},
-	"83082": {
-		"id": "83082",
-		"imageCardsIds": ["td-d3-67"],
-		"passcode": ["tinta"]
-	},
 	"83406": {
 		"id": "83406",
 		"imageCardsIds": [
@@ -351,11 +341,6 @@
 		"imageCardsIds": ["td-d5-42"],
 		"passcode": ["conspiração"]
 	},
-	"97842": {
-		"id": "97842",
-		"imageCardsIds": ["td-d11-58"],
-		"passcode": ["ringue"]
-	},
 	"0042c": {
 		"id": "0042c",
 		"imageCardsIds": ["td-d4-215", "td-d8-63", "td-d11-223"],
@@ -378,7 +363,7 @@
 	},
 	"0250f": {
 		"id": "0250f",
-		"imageCardsIds": ["td-d2-240"],
+		"imageCardsIds": ["td-d2-240", "td-d9-217"],
 		"passcode": ["gelo", "geleira"]
 	},
 	"02876": {
@@ -531,7 +516,7 @@
 	},
 	"0c77e": {
 		"id": "0c77e",
-		"imageCardsIds": ["td-d8-151"],
+		"imageCardsIds": ["td-d8-151", "td-d11-58"],
 		"passcode": [
 			"boxeador",
 			"lutador",
@@ -726,7 +711,7 @@
 	},
 	"17b13": {
 		"id": "17b13",
-		"imageCardsIds": ["td-d5-158", "td-d7-12", "td-d1-41"],
+		"imageCardsIds": ["td-d5-158", "td-d7-12", "td-d1-41", "td-d1-127"],
 		"passcode": ["vilão", "maldade", "inimigo", "malvado", "maldoso"]
 	},
 	"19e15": {
@@ -769,7 +754,7 @@
 	},
 	"1b749": {
 		"id": "1b749",
-		"imageCardsIds": ["td-d4-140", "td-d12-150"],
+		"imageCardsIds": ["td-d4-140", "td-d12-150", "td-d1-81"],
 		"passcode": ["vidro", "transparente", "frágil", "quebradiço", "garrafa"]
 	},
 	"1b970": {
@@ -861,7 +846,7 @@
 	},
 	"210d7": {
 		"id": "210d7",
-		"imageCardsIds": ["td-d7-45"],
+		"imageCardsIds": ["td-d7-45", "td-d1-191"],
 		"passcode": [
 			"obra",
 			"construção",
@@ -1022,7 +1007,7 @@
 	},
 	"2bcb0": {
 		"id": "2bcb0",
-		"imageCardsIds": ["td-d12-134", "td-d5-97"],
+		"imageCardsIds": ["td-d12-134", "td-d5-97", "td-d11-149"],
 		"passcode": [
 			"relógio",
 			"ponteiro",
@@ -1053,7 +1038,7 @@
 	"2e6d9": {
 		"id": "2e6d9",
 		"imageCardsIds": ["td-d4-221"],
-		"passcode": ["teclado"]
+		"passcode": ["teclado", "teclas"]
 	},
 	"2f387": {
 		"id": "2f387",
@@ -1201,11 +1186,6 @@
 		"imageCardsIds": ["td-d12-33", "td-d6-86"],
 		"passcode": ["cabelo"]
 	},
-	"3afac": {
-		"id": "3afac",
-		"imageCardsIds": ["td-d1-191"],
-		"passcode": ["construção"]
-	},
 	"3b10c": {
 		"id": "3b10c",
 		"imageCardsIds": ["td-d8-240"],
@@ -1261,11 +1241,6 @@
 		"id": "3efc3",
 		"imageCardsIds": ["td-d8-41", "td-d10-184", "td-d7-192"],
 		"passcode": ["cavalo"]
-	},
-	"3f057": {
-		"id": "3f057",
-		"imageCardsIds": ["td-d2-249"],
-		"passcode": ["telefone"]
 	},
 	"3f4f0": {
 		"id": "3f4f0",
@@ -1363,7 +1338,7 @@
 	},
 	"4570b": {
 		"id": "4570b",
-		"imageCardsIds": ["td-d8-238", "td-d11-47"],
+		"imageCardsIds": ["td-d8-238", "td-d11-47", "td-d3-67"],
 		"passcode": ["pintura", "tela", "aquarela", "tinta", "artista"]
 	},
 	"45d4f": {
@@ -1544,11 +1519,6 @@
 		],
 		"passcode": ["menino", "pestinha", "criança"]
 	},
-	"4e492": {
-		"id": "4e492",
-		"imageCardsIds": ["td-d11-149"],
-		"passcode": ["alarme"]
-	},
 	"4e6fd": {
 		"id": "4e6fd",
 		"imageCardsIds": ["td-d8-140", "td-d4-67"],
@@ -1671,7 +1641,8 @@
 			"td-d11-47",
 			"td-d8-85",
 			"td-d6-126",
-			"td-d2-234"
+			"td-d2-234",
+			"td-d2-249"
 		],
 		"passcode": [
 			"celular",
@@ -1840,11 +1811,6 @@
 			"td-d6-86"
 		],
 		"passcode": ["óculos"]
-	},
-	"67c13": {
-		"id": "67c13",
-		"imageCardsIds": ["td-d9-217"],
-		"passcode": ["geleira"]
 	},
 	"68cba": {
 		"id": "68cba",
@@ -2153,11 +2119,6 @@
 		"imageCardsIds": ["td-d12-21"],
 		"passcode": ["acampamento"]
 	},
-	"8640f": {
-		"id": "8640f",
-		"imageCardsIds": ["td-d1-127"],
-		"passcode": ["malvado"]
-	},
 	"86ab5": {
 		"id": "86ab5",
 		"imageCardsIds": ["td-d5-127", "td-d1-142"],
@@ -2167,11 +2128,6 @@
 		"id": "86b41",
 		"imageCardsIds": ["td-d7-247"],
 		"passcode": ["manto"]
-	},
-	"88f51": {
-		"id": "88f51",
-		"imageCardsIds": ["td-d1-153"],
-		"passcode": ["roda"]
 	},
 	"8a3f4": {
 		"id": "8a3f4",
@@ -2235,7 +2191,7 @@
 	"8f590": {
 		"id": "8f590",
 		"imageCardsIds": ["td-d1-01"],
-		"passcode": ["remo"]
+		"passcode": ["remo", "remada"]
 	},
 	"8f929": {
 		"id": "8f929",
@@ -2255,7 +2211,7 @@
 	"925ad": {
 		"id": "925ad",
 		"imageCardsIds": ["td-d1-07", "td-d6-111", "td-d10-215", "td-d2-138"],
-		"passcode": ["animais"]
+		"passcode": ["animais", "fauna"]
 	},
 	"925e8": {
 		"id": "925e8",
@@ -2995,11 +2951,6 @@
 		"imageCardsIds": ["td-d1-216"],
 		"passcode": ["roxo"]
 	},
-	"d9a33": {
-		"id": "d9a33",
-		"imageCardsIds": ["td-d5-201"],
-		"passcode": ["monstros"]
-	},
 	"d9ada": {
 		"id": "d9ada",
 		"imageCardsIds": ["td-d3-252"],
@@ -3257,11 +3208,6 @@
 		"id": "eef1c",
 		"imageCardsIds": ["td-d5-250", "td-d12-182", "td-d2-06", "td-d7-247"],
 		"passcode": ["velas"]
-	},
-	"ef254": {
-		"id": "ef254",
-		"imageCardsIds": ["td-d4-42"],
-		"passcode": ["esporte"]
 	},
 	"ef2a6": {
 		"id": "ef2a6",
