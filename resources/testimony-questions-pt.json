@@ -4,2364 +4,5633 @@
 		"question": "Ele(a) já foi para um jogo em um estádio?",
 		"answer": "Assiste jogos em estádio",
 		"level": 1,
-		"mbti": ["E", "S"],
-		"zodiac": ["Aries", "Leo", "Sagittarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["E", "S", "xP"],
+			"unrelated": ["I", "xN"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Leo", "Sagittarius"],
+			"unrelated": ["Virgo", "Pisces"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-2-pt": {
 		"id": "t-2-pt",
 		"question": "Ele(a) gosta de música clássica?",
 		"answer": "Gosta de música clássica",
 		"level": 1,
-		"mbti": ["N", "I"],
-		"zodiac": ["Capricorn", "Taurus", "Libra"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["I", "N", "J"],
+			"unrelated": ["xP", "xE"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Libra"],
+			"unrelated": ["Aries", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "lawful-good"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-3-pt": {
 		"id": "t-3-pt",
 		"question": "Ele(a) acredita em alienígenas?",
 		"answer": "Acredita em alienígenas",
 		"level": 3,
-		"mbti": ["N", "P"],
-		"zodiac": ["Aquarius", "Pisces"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["N", "xP", "xI"],
+			"unrelated": ["S", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Pisces", "Sagittarius"],
+			"unrelated": ["Capricorn", "Taurus"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-4-pt": {
 		"id": "t-4-pt",
 		"question": "Ele(a) tem uma caminhonete?",
 		"answer": "Tem uma caminhonete",
 		"level": 1,
-		"mbti": ["S", "T"],
-		"zodiac": ["Taurus", "Aries", "Capricorn"],
-		"alignment": ["Lawful-Neutral", "xNeutral"]
+		"mbti": {
+			"related": ["xS", "xT", "xJ"],
+			"unrelated": ["xN", "xF"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Capricorn", "xLeo"],
+			"unrelated": ["Gemini", "Pisces"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-5-pt": {
 		"id": "t-5-pt",
 		"question": "Ele(a) come fora com frequência?",
 		"answer": "Come fora com frequência",
 		"level": 2,
-		"mbti": ["E", "P"],
-		"zodiac": ["Sagittarius", "Leo", "Libra"],
-		"alignment": ["xChaotic", "xNeutral"]
+		"mbti": {
+			"related": ["E", "xP", "xS"],
+			"unrelated": ["I", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Taurus"],
+			"unrelated": ["Cancer", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-6-pt": {
 		"id": "t-6-pt",
 		"question": "Ele(a) já foi esquiar alguma vez?",
 		"answer": "Já foi esquiar alguma vez",
 		"level": 1,
-		"mbti": ["S", "P"],
-		"zodiac": ["Sagittarius", "Aquarius"],
-		"alignment": ["xNeutral"]
+		"mbti": {
+			"related": ["xE", "xS", "xP"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Leo", "Aquarius"],
+			"unrelated": ["Cancer"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-7-pt": {
 		"id": "t-7-pt",
 		"question": "Ele(a) recicla seu lixo?",
 		"answer": "Recicla seu lixo",
 		"level": 2,
-		"mbti": ["F", "J"],
-		"zodiac": ["Virgo", "Aquarius"],
-		"alignment": ["Lawful-Good"]
+		"mbti": {
+			"related": ["xF", "xJ", "xN"],
+			"unrelated": ["xP"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Aquarius", "Pisces"],
+			"unrelated": ["Aries"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral", "neutral-evil"]
+		}
 	},
 	"t-8-pt": {
 		"id": "t-8-pt",
 		"question": "Ele(a) gosta de acampar?",
 		"answer": "Gosta de acampar",
 		"level": 2,
-		"mbti": ["S", "P"],
-		"zodiac": ["Sagittarius", "Taurus"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["S", "P", "xI"],
+			"unrelated": ["xJ", "xE"]
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Aries", "xTaurus"],
+			"unrelated": ["Libra", "Gemini"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-9-pt": {
 		"id": "t-9-pt",
 		"question": "Ele(a) tem muitos adesivos no carro?",
 		"answer": "Tem muitos adesivos no carro",
 		"level": 2,
-		"mbti": ["S", "P"],
-		"zodiac": ["Gemini", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xP", "xE", "xF"],
+			"unrelated": ["xJ", "xI"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Sagittarius", "Pisces"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "chaotic-good"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-10-pt": {
 		"id": "t-10-pt",
 		"question": "Ele(a) já participou de um protesto?",
 		"answer": "Já participou de um protesto",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Aquarius", "Aries", "Scorpio"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xF", "N", "E"],
+			"unrelated": ["xJ", "xS"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Aries", "Scorpio"],
+			"unrelated": ["Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": ["chaotic-good", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-11-pt": {
 		"id": "t-11-pt",
 		"question": "Ele(a) fala muito palavrão?",
 		"answer": "Fala muito palavrão",
 		"level": 2,
-		"mbti": ["xP", "xE"],
-		"zodiac": ["Aries", "Scorpio", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["E", "T", "P"],
+			"unrelated": ["I", "F", "J"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Scorpio", "Sagittarius"],
+			"unrelated": ["Virgo", "Libra", "Pisces"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "chaotic-evil"],
+			"unrelated": ["lawful-good", "lawful-neutral"]
+		}
 	},
 	"t-12-pt": {
 		"id": "t-12-pt",
 		"question": "Ele(a) já foi no parque Guanabara (parque de diversões local)?",
 		"answer": "Já foi no parque Guanabara (parque de diversões local)",
 		"level": 2,
-		"mbti": ["S", "E"],
-		"zodiac": ["Leo", "Gemini"],
-		"alignment": ["xNeutral"]
+		"mbti": {
+			"related": ["xE", "xS"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["xCancer", "xLeo", "xGemini"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-13-pt": {
 		"id": "t-13-pt",
 		"question": "Ele(a) gosta de arte moderna?",
 		"answer": "Gosta de arte moderna",
 		"level": 2,
-		"mbti": ["N", "P"],
-		"zodiac": ["Aquarius", "Pisces", "Libra"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["N", "P", "xF"],
+			"unrelated": ["S", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Pisces", "Gemini"],
+			"unrelated": ["Capricorn", "Taurus"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-14-pt": {
 		"id": "t-14-pt",
 		"question": "Ele(a) bebe com frequência?",
 		"answer": "Bebe com frequência",
 		"level": 1,
-		"mbti": ["E", "P"],
-		"zodiac": ["Sagittarius", "Pisces", "Gemini"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["E", "P", "xS"],
+			"unrelated": ["I", "J"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Sagittarius", "Gemini"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-good"]
+		}
 	},
 	"t-15-pt": {
 		"id": "t-15-pt",
 		"question": "Ele(a) é um fã da Apple?",
 		"answer": "É um fã da Apple",
 		"level": 1,
-		"mbti": ["T", "J"],
-		"zodiac": ["Libra", "Virgo", "Leo"],
-		"alignment": ["Lawful-Neutral"]
+		"mbti": {
+			"related": ["xN", "xS", "xE"],
+			"unrelated": ["xT"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Leo", "Taurus"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-16-pt": {
 		"id": "t-16-pt",
 		"question": "Ele(a) cumprimenta seus vizinhos?",
 		"answer": "Cumprimenta seus vizinhos",
 		"level": 2,
-		"mbti": ["E", "F"],
-		"zodiac": ["Libra", "Cancer", "Leo"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["E", "F", "J"],
+			"unrelated": ["I", "T", "P"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Cancer", "Leo"],
+			"unrelated": ["Scorpio", "Aquarius", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-17-pt": {
 		"id": "t-17-pt",
 		"question": "Ele(a) tem tatuagens?",
 		"answer": "Tem tatuagens",
 		"level": 1,
-		"mbti": ["P", "S"],
-		"zodiac": ["Scorpio", "Aquarius", "Aries"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xP", "xI"],
+			"unrelated": ["xJ"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Aries", "Sagittarius"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-18-pt": {
 		"id": "t-18-pt",
 		"question": "Ele(a) morreria primeiro em uma apocalipse zumbi?",
 		"answer": "Morreria primeiro em uma apocalipse zumbi",
 		"level": 2,
-		"mbti": ["xI", "xF"],
-		"zodiac": ["Pisces", "Cancer", "Libra"],
-		"alignment": ["Neutral-Good", "xChaotic"]
+		"mbti": {
+			"related": ["xI", "xF", "xN"],
+			"unrelated": ["S", "T", "J"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Libra", "Cancer"],
+			"unrelated": ["Scorpio", "Aries", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "neutral-neutral"],
+			"unrelated": ["lawful-evil", "chaotic-neutral"]
+		}
 	},
 	"t-19-pt": {
 		"id": "t-19-pt",
 		"question": "Ele(a) é fã de ficção científica?",
 		"answer": "É fã de ficção científica",
 		"level": 2,
-		"mbti": ["N", "T"],
-		"zodiac": ["Aquarius", "Gemini", "Sagittarius"],
-		"alignment": ["True-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["N", "I", "xT"],
+			"unrelated": ["S", "xE"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Gemini", "Sagittarius"],
+			"unrelated": ["Taurus", "Cancer"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-20-pt": {
 		"id": "t-20-pt",
 		"question": "Ele(a) deixaria os filhos brincarem na rua?",
 		"answer": "Deixaria os filhos brincarem na rua",
 		"level": 2,
-		"mbti": ["xP", "xS"],
-		"zodiac": ["Sagittarius", "Aries"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xP", "xE", "xS"],
+			"unrelated": ["xJ", "xI"]
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Aries", "Gemini"],
+			"unrelated": ["Cancer", "Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-21-pt": {
 		"id": "t-21-pt",
 		"question": "Ele(a) já recebeu muitas multas de trânsito?",
 		"answer": "Já recebeu multas de trânsito",
 		"level": 2,
-		"mbti": ["P", "xS"],
-		"zodiac": ["Aries", "Sagittarius", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["P", "xE", "xT"],
+			"unrelated": ["J", "xI"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Sagittarius", "Gemini"],
+			"unrelated": ["Virgo", "Capricorn", "Taurus"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "chaotic-evil"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-22-pt": {
 		"id": "t-22-pt",
 		"question": "Ele(a) serviu no exército?",
 		"answer": "Serviu no exército",
 		"level": 1,
-		"mbti": ["J", "S"],
-		"zodiac": ["Aries", "Capricorn", "Taurus"],
-		"alignment": ["Lawful-Neutral", "Lawful-Good"]
+		"mbti": {
+			"related": ["S", "J", "T"],
+			"unrelated": ["N", "P", "F"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Capricorn", "Scorpio"],
+			"unrelated": ["Pisces", "Libra"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "lawful-evil"],
+			"unrelated": ["chaotic-neutral", "chaotic-good"]
+		}
 	},
 	"t-23-pt": {
 		"id": "t-23-pt",
 		"question": "Ele(a) fala mais de um idioma?",
 		"answer": "Fala mais de um idioma",
 		"level": 2,
-		"mbti": ["N", "T"],
-		"zodiac": ["Gemini", "Sagittarius", "Virgo"],
-		"alignment": ["Neutral-Good", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["N", "I", "xJ"],
+			"unrelated": ["xS"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Sagittarius", "Aquarius"],
+			"unrelated": ["Taurus"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-24-pt": {
 		"id": "t-24-pt",
 		"question": "Ele(a) faz trabalho voluntário?",
 		"answer": "Faz trabalho voluntário",
 		"level": 2,
-		"mbti": ["E", "F"],
-		"zodiac": ["Pisces", "Aquarius", "Cancer"],
-		"alignment": ["Neutral-Good", "Lawful-Good"]
+		"mbti": {
+			"related": ["F", "xJ", "xE"],
+			"unrelated": ["T", "xP"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Cancer", "Aquarius"],
+			"unrelated": ["Capricorn", "Aries"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good", "chaotic-good"],
+			"unrelated": ["neutral-evil", "lawful-evil"]
+		}
 	},
 	"t-25-pt": {
 		"id": "t-25-pt",
 		"question": "Ele(a) já foi em Porto Seguro?",
 		"answer": "Já foi em Porto Seguro",
 		"level": 1,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Sagittarius", "Aries"],
-		"alignment": ["Chaotic-Neutral", "xNeutral"]
+		"mbti": {
+			"related": ["xE", "xS", "xP"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["xLeo", "xSagittarius", "xGemini"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-26-pt": {
 		"id": "t-26-pt",
 		"question": "Ele(a) come muito fast food?",
 		"answer": "Come muito fast food",
 		"level": 1,
-		"mbti": ["xP", "xS"],
-		"zodiac": ["Taurus", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral", "Neutral-Evil"]
+		"mbti": {
+			"related": ["P", "xS", "xE"],
+			"unrelated": ["J", "xI"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Sagittarius", "Aries"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-27-pt": {
 		"id": "t-27-pt",
 		"question": "Ele(a) foi um escoteiro(a)?",
 		"answer": "Foi um escoteiro(a)",
 		"level": 1,
-		"mbti": ["S", "J"],
-		"zodiac": ["Virgo", "Capricorn"],
-		"alignment": ["Lawful-Good", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["S", "J", "xF"],
+			"unrelated": ["N", "P"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Aries"],
+			"unrelated": ["Pisces", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral", "chaotic-evil"]
+		}
 	},
 	"t-28-pt": {
 		"id": "t-28-pt",
 		"question": "Ele(a) já teve um caso extraconjugal?",
 		"answer": "Já teve um caso extraconjugal",
 		"level": 2,
-		"mbti": ["xP"],
-		"zodiac": ["Gemini", "Sagittarius", "Scorpio"],
-		"alignment": ["Chaotic-Neutral", "Neutral-Evil"]
+		"mbti": {
+			"related": ["E", "P", "xS"],
+			"unrelated": ["J", "xF", "I"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Gemini", "Aries"],
+			"unrelated": ["Cancer", "Capricorn", "Taurus"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-evil", "chaotic-evil"],
+			"unrelated": ["lawful-good", "lawful-neutral"]
+		}
 	},
 	"t-29-pt": {
 		"id": "t-29-pt",
 		"question": "Ele(a) vai pra casa dos pais no Réveillon?",
 		"answer": "Vai pra casa dos pais no Réveillon",
 		"level": 2,
-		"mbti": ["F", "S"],
-		"zodiac": ["Cancer", "Taurus"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "J", "xS"],
+			"unrelated": ["xP", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Capricorn"],
+			"unrelated": ["Sagittarius", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-30-pt": {
 		"id": "t-30-pt",
 		"question": "Ele(a) mora com os pais?",
 		"answer": "Mora com os pais",
 		"level": 1,
-		"mbti": ["F", "xP"],
-		"zodiac": ["Cancer", "Taurus", "Pisces"],
-		"alignment": ["True-Neutral"]
+		"mbti": {
+			"related": ["xF", "xS", "xI"],
+			"unrelated": ["xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Pisces"],
+			"unrelated": ["Aries", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-31-pt": {
 		"id": "t-31-pt",
 		"question": "Ele(a) tem um grande círculo social?",
 		"answer": "Tem um grande círculo social",
 		"level": 2,
-		"mbti": ["E"],
-		"zodiac": ["Gemini", "Leo", "Libra"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["E", "xF", "xS"],
+			"unrelated": ["I", "xT"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Gemini"],
+			"unrelated": ["Scorpio", "Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "chaotic-good", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-32-pt": {
 		"id": "t-32-pt",
 		"question": "Ele(a) é proprietário de um imóvel?",
 		"answer": "É proprietário de um imóvel",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Capricorn", "Taurus", "Virgo"],
-		"alignment": ["Lawful-Neutral"]
+		"mbti": {
+			"related": ["J", "S", "xT"],
+			"unrelated": ["P", "xN"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Taurus", "Virgo"],
+			"unrelated": ["Sagittarius", "Pisces"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-33-pt": {
 		"id": "t-33-pt",
 		"question": "Ele(a) cheira gostoso?",
 		"answer": "Cheira gostoso",
 		"level": 2,
-		"mbti": ["xS", "xF"],
-		"zodiac": ["Taurus", "Libra", "Leo"],
-		"alignment": ["xNeutral"]
+		"mbti": {
+			"related": ["xF", "xS", "xJ"],
+			"unrelated": ["xP"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Taurus", "Virgo"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-34-pt": {
 		"id": "t-34-pt",
 		"question": "Ele(a) é conservador(a)?",
 		"answer": "É conservador(a)",
-		"nsfw": true,
 		"level": 1,
-		"mbti": ["S", "J"],
-		"zodiac": ["Capricorn", "Taurus", "Cancer"],
-		"alignment": ["Lawful-Neutral", "Lawful-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["S", "J", "xT"],
+			"unrelated": ["N", "P", "xF"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Taurus", "Virgo"],
+			"unrelated": ["Aquarius", "Sagittarius", "Pisces"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "lawful-good", "lawful-evil"],
+			"unrelated": ["chaotic-neutral", "chaotic-good"]
+		}
 	},
 	"t-35-pt": {
 		"id": "t-35-pt",
 		"question": "Ele(a) canta bem?",
 		"answer": "Canta bem",
 		"level": 3,
-		"mbti": ["xE", "xF"],
-		"zodiac": ["Taurus", "Leo", "Pisces"],
-		"alignment": ["xNeutral"]
+		"mbti": {
+			"related": ["xE", "xF", "xS"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Leo", "Taurus", "Libra"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-36-pt": {
 		"id": "t-36-pt",
 		"question": "Ele(a) faz/fez faculdade?",
 		"answer": "Faz/fez faculdade",
 		"level": 2,
-		"mbti": ["N", "J"],
-		"zodiac": ["Virgo", "Capricorn", "Gemini"],
-		"alignment": ["Lawful-Neutral"]
+		"mbti": {
+			"related": ["N", "J", "xT"],
+			"unrelated": ["xP"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Gemini"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-37-pt": {
 		"id": "t-37-pt",
 		"question": "Ele(a) é romântico(a)?",
 		"answer": "É romântico(a)",
 		"level": 1,
-		"mbti": ["F"],
-		"zodiac": ["Pisces", "Cancer", "Libra"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["F", "xN", "xJ"],
+			"unrelated": ["T", "xS"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Libra"],
+			"unrelated": ["Capricorn", "Aquarius", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good"],
+			"unrelated": ["neutral-evil", "chaotic-neutral"]
+		}
 	},
 	"t-38-pt": {
 		"id": "t-38-pt",
 		"question": "Ele(a) se dá bem com seus colegas de trabalho?",
 		"answer": "Se dá bem com seus colegas de trabalho",
 		"level": 2,
-		"mbti": ["E", "F"],
-		"zodiac": ["Libra", "Gemini", "Sagittarius"],
-		"alignment": ["Neutral-Good", "Lawful-Good"]
+		"mbti": {
+			"related": ["E", "F", "xJ"],
+			"unrelated": ["I", "T"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Gemini", "Leo"],
+			"unrelated": ["Scorpio", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-evil", "neutral-evil"]
+		}
 	},
 	"t-39-pt": {
 		"id": "t-39-pt",
 		"question": "Ele(a) passa muito tempo no banheiro?",
 		"answer": "Passa muito tempo no banheiro",
 		"level": 2,
-		"mbti": ["I", "P"],
-		"zodiac": ["Taurus", "Pisces"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xS", "xP"],
+			"unrelated": ["xE"]
+		},
+		"zodiac": {
+			"related": ["xTaurus", "xLeo", "xPisces"],
+			"unrelated": ["xAries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-40-pt": {
 		"id": "t-40-pt",
 		"question": "Ele(a) assiste filmes clássicos?",
 		"answer": "Assiste filmes clássicos",
 		"level": 2,
-		"mbti": ["N", "I"],
-		"zodiac": ["Capricorn", "Pisces", "Cancer"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["N", "I", "xJ"],
+			"unrelated": ["xS", "xP"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Cancer", "Virgo"],
+			"unrelated": ["Aries", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-41-pt": {
 		"id": "t-41-pt",
 		"question": "Ele(a) gosta de crianças?",
 		"answer": "Gosta de crianças",
 		"level": 2,
-		"mbti": ["F", "E"],
-		"zodiac": ["Cancer", "Leo", "Sagittarius"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["F", "xE", "xS"],
+			"unrelated": ["T", "xI"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Leo", "Pisces"],
+			"unrelated": ["Scorpio", "Capricorn", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good"],
+			"unrelated": ["neutral-evil"]
+		}
 	},
 	"t-42-pt": {
 		"id": "t-42-pt",
 		"question": "Ele(a) gosta de musicais da Broadway?",
 		"answer": "Gosta de musicais da Broadway",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Leo", "Libra", "Pisces"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["E", "F", "N"],
+			"unrelated": ["I", "T", "S"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Pisces"],
+			"unrelated": ["Capricorn", "Virgo", "Scorpio"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "chaotic-good"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-43-pt": {
 		"id": "t-43-pt",
 		"question": "Ele(a) lê romances?",
 		"answer": "Lê romances",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Pisces", "Cancer", "Libra"],
-		"alignment": ["Neutral-Good"]
+		"mbti": {
+			"related": ["F", "I", "N"],
+			"unrelated": ["T", "S"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Libra"],
+			"unrelated": ["Aries", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good"],
+			"unrelated": []
+		}
 	},
 	"t-44-pt": {
 		"id": "t-44-pt",
 		"question": "Ele(a) vai a boates?",
 		"answer": "Vai a boates",
 		"level": 2,
-		"mbti": ["E", "P"],
-		"zodiac": ["Leo", "Sagittarius", "Aries"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["E", "P", "S"],
+			"unrelated": ["I", "J", "N"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Scorpio", "Gemini"],
+			"unrelated": ["Cancer", "Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-45-pt": {
 		"id": "t-45-pt",
 		"question": "Ele(a) dá os 10% do garçom sem contestar?",
 		"answer": "Dá os 10% do garçom sem contestar",
 		"level": 3,
-		"mbti": ["F", "J"],
-		"zodiac": ["Libra", "Pisces", "Cancer"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["F", "xJ", "xE"],
+			"unrelated": ["T", "xP"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Cancer"],
+			"unrelated": ["Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["lawful-evil", "chaotic-neutral"]
+		}
 	},
 	"t-46-pt": {
 		"id": "t-46-pt",
 		"question": "Ele(a) costuma pular refeições?",
 		"answer": "Costuma pular refeições",
 		"level": 3,
-		"mbti": ["P", "T"],
-		"zodiac": ["Gemini", "Aquarius", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xN", "xP", "xI"],
+			"unrelated": ["xS", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Aquarius", "Aries"],
+			"unrelated": ["Taurus", "Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-47-pt": {
 		"id": "t-47-pt",
 		"question": "Ele(a) pratica algum esporte?",
 		"answer": "Pratica algum esporte",
 		"level": 1,
-		"mbti": ["S", "E"],
-		"zodiac": ["Aries", "Sagittarius", "Leo"],
-		"alignment": ["xNeutral"]
+		"mbti": {
+			"related": ["S", "E", "xJ"],
+			"unrelated": ["N", "I"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Sagittarius", "Leo"],
+			"unrelated": ["Pisces", "Cancer"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-48-pt": {
 		"id": "t-48-pt",
 		"question": "Ele(a) é casado(a)?",
 		"answer": "É casado(a)",
 		"level": 2,
-		"mbti": ["xJ", "xS"],
-		"zodiac": ["Cancer", "Libra", "Taurus"],
-		"alignment": ["Lawful-Neutral", "Lawful-Good"]
+		"mbti": {
+			"related": ["J", "xS", "xF"],
+			"unrelated": ["P"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Capricorn"],
+			"unrelated": ["Sagittarius", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "lawful-neutral", "neutral-good"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-49-pt": {
 		"id": "t-49-pt",
 		"question": "Ele(a) usa transporte público?",
 		"answer": "Usa transporte público",
 		"level": 2,
-		"mbti": ["xN", "xP"],
-		"zodiac": ["xVirgo", "xAquarius"],
-		"alignment": ["True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xI"],
+			"unrelated": ["xE"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Aquarius"],
+			"unrelated": ["Leo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-50-pt": {
 		"id": "t-50-pt",
 		"question": "Ele(a) gosta de jogos de azar?",
 		"answer": "Gosta de jogos de azar",
 		"level": 3,
-		"mbti": ["P", "xS"],
-		"zodiac": ["Sagittarius", "Leo", "Gemini"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["P", "E", "xT"],
+			"unrelated": ["J", "I"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Sagittarius", "Aries"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "chaotic-evil"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-51-pt": {
 		"id": "t-51-pt",
 		"question": "Ele(a) consegue economizar dinheiro?",
 		"answer": "Consegue economizar dinheiro",
 		"level": 3,
-		"mbti": ["J", "T"],
-		"zodiac": ["Capricorn", "Virgo", "Taurus"],
-		"alignment": ["Lawful-Neutral"]
+		"mbti": {
+			"related": ["J", "S", "T"],
+			"unrelated": ["P", "N", "F"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Taurus", "Virgo"],
+			"unrelated": ["Sagittarius", "Pisces", "Aries"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-52-pt": {
 		"id": "t-52-pt",
 		"question": "Ele(a) tem temperamento forte?",
 		"answer": "Tem temperamento forte",
 		"level": 2,
-		"mbti": ["xE", "xT"],
-		"zodiac": ["Aries", "Scorpio", "Leo"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["T", "E", "xJ"],
+			"unrelated": ["F", "I"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Scorpio", "Leo"],
+			"unrelated": ["Pisces", "Libra", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "lawful-evil", "chaotic-evil"],
+			"unrelated": ["neutral-good", "lawful-good"]
+		}
 	},
 	"t-53-pt": {
 		"id": "t-53-pt",
 		"question": "Ele(a) já participou de um cruzeiro?",
 		"answer": "Já participou de um cruzeiro",
 		"level": 3,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Sagittarius", "Libra"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xE", "xS"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Cancer"],
+			"unrelated": ["Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-54-pt": {
 		"id": "t-54-pt",
 		"question": "Ele(a) assiste Cidade Alerta?",
 		"answer": "Assiste Cidade Alerta",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Scorpio", "Capricorn", "Virgo"],
-		"alignment": ["Lawful-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["xS", "xT", "xJ"],
+			"unrelated": ["xN", "xF"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Capricorn", "xAries"],
+			"unrelated": ["Pisces", "Libra"]
+		},
+		"alignment": {
+			"related": ["neutral-evil", "lawful-neutral"],
+			"unrelated": ["neutral-good"]
+		}
 	},
 	"t-55-pt": {
 		"id": "t-55-pt",
 		"question": "Ele(a) mora em um condomínio de luxo?",
 		"answer": "Mora em um condomínio de luxo",
 		"level": 1,
-		"mbti": ["xT", "xJ"],
-		"zodiac": ["Leo", "Capricorn", "Taurus"],
-		"alignment": ["Lawful-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["xJ", "xS", "xT"],
+			"unrelated": ["xP"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Leo", "Capricorn"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-56-pt": {
 		"id": "t-56-pt",
 		"question": "Ele(a) é artístico(a)?",
 		"answer": "É artístico(a)",
 		"level": 2,
-		"mbti": ["N", "P"],
-		"zodiac": ["Pisces", "Libra", "Aquarius"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["N", "F", "P"],
+			"unrelated": ["S", "T", "J"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Libra", "Aquarius"],
+			"unrelated": ["Capricorn", "Virgo", "Aries"]
+		},
+		"alignment": {
+			"related": ["chaotic-good", "neutral-good", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-evil"]
+		}
 	},
 	"t-57-pt": {
 		"id": "t-57-pt",
 		"question": "Ele(a) vai de bicicleta para o trabalho?",
 		"answer": "Vai de bicicleta para o trabalho",
 		"level": 3,
-		"mbti": ["xP", "xN"],
-		"zodiac": ["Sagittarius", "Aquarius", "Virgo"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xI", "xS", "xP"],
+			"unrelated": ["xE", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Sagittarius", "Virgo"],
+			"unrelated": ["Leo", "Taurus"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-58-pt": {
 		"id": "t-58-pt",
 		"question": "Ele(a) fuma maconha?",
 		"answer": "Fuma maconha",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["P", "N"],
-		"zodiac": ["Pisces", "Aquarius", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["P", "xN", "xI"],
+			"unrelated": ["J", "xS"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Aquarius", "Sagittarius"],
+			"unrelated": ["Virgo", "Capricorn", "Leo"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-59-pt": {
 		"id": "t-59-pt",
 		"question": "Ele(a) faz ioga?",
 		"answer": "Faz ioga",
 		"level": 2,
-		"mbti": ["S", "F"],
-		"zodiac": ["Libra", "Pisces", "Virgo"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["I", "F", "N"],
+			"unrelated": ["E", "T", "S"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Libra", "Aquarius"],
+			"unrelated": ["Aries", "Leo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good"],
+			"unrelated": ["chaotic-evil"]
+		}
 	},
 	"t-60-pt": {
 		"id": "t-60-pt",
 		"question": "Ele(a) usa a arte asiática de organização feng shui em casa?",
 		"answer": "Usa o feng shui em casa",
 		"level": 2,
-		"mbti": ["J", "N"],
-		"zodiac": ["Libra", "Virgo", "Pisces"],
-		"alignment": ["Lawful-Neutral"]
+		"mbti": {
+			"related": ["xN", "xJ", "xF"],
+			"unrelated": ["xS", "xT"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Pisces", "Virgo"],
+			"unrelated": ["Aries", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-61-pt": {
 		"id": "t-61-pt",
 		"question": "Ele(a) sempre paga seus impostos?",
 		"answer": "Sempre paga seus impostos",
 		"level": 3,
-		"mbti": ["J", "T"],
-		"zodiac": ["Capricorn", "Virgo", "Taurus"],
-		"alignment": ["Lawful-Neutral", "Lawful-Good"]
+		"mbti": {
+			"related": ["J", "S", "xT"],
+			"unrelated": ["P", "xN"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Taurus"],
+			"unrelated": ["Sagittarius", "Aquarius", "Aries"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral", "chaotic-evil"]
+		}
 	},
 	"t-62-pt": {
 		"id": "t-62-pt",
 		"question": "Ele(a) tem uma voz irritante?",
 		"answer": "Tem uma voz irritante",
 		"level": 2,
-		"mbti": ["xE"],
-		"zodiac": ["xGemini", "xLeo"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xP"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["xGemini", "xAries"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-63-pt": {
 		"id": "t-63-pt",
 		"question": "Ele(a) sabe cantar o hino nacional?",
 		"answer": "Sabe cantar o hino nacional",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Capricorn", "Leo"],
-		"alignment": ["Lawful-Neutral", "Lawful-Good"]
+		"mbti": {
+			"related": ["J", "S", "xE"],
+			"unrelated": ["P", "N"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Aries", "Leo"],
+			"unrelated": ["Aquarius", "Pisces"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "lawful-good"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-64-pt": {
 		"id": "t-64-pt",
 		"question": "Ele(a) usa prato descartável em casa?",
 		"answer": "Usa prato descartável em casa",
 		"level": 2,
-		"mbti": ["P", "xT"],
-		"zodiac": ["Sagittarius", "Gemini", "Aries"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["P", "xS", "xT"],
+			"unrelated": ["J", "xF"]
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Aries", "Gemini"],
+			"unrelated": ["Virgo", "Libra", "Taurus"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-good", "neutral-good"]
+		}
 	},
 	"t-65-pt": {
 		"id": "t-65-pt",
 		"question": "Ele(a) assiste a final do Campeonato Brasileiro?",
 		"answer": "Assiste a final do Campeonato Brasileiro",
 		"level": 2,
-		"mbti": ["E", "S"],
-		"zodiac": ["Aries", "Leo", "Sagittarius"],
-		"alignment": ["True-Neutral"]
+		"mbti": {
+			"related": ["E", "S", "xP"],
+			"unrelated": ["I", "N"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Leo", "Sagittarius"],
+			"unrelated": ["Virgo", "Pisces"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-66-pt": {
 		"id": "t-66-pt",
 		"question": "Ele(a) gosta de discutir política?",
 		"answer": "Gosta de discutir política",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["T", "N"],
-		"zodiac": ["Aquarius", "Gemini", "Libra"],
-		"alignment": ["Chaotic-Good", "Lawful-Evil", "Chaotic-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["T", "N", "E"],
+			"unrelated": ["F", "S", "I"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Scorpio", "Capricorn"],
+			"unrelated": ["Pisces", "Cancer", "Taurus"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "lawful-evil"],
+			"unrelated": ["neutral-good"]
+		}
 	},
 	"t-67-pt": {
 		"id": "t-67-pt",
 		"question": "Ele(a) monta árvore de Natal?",
 		"answer": "Monta árvore de Natal",
 		"level": 2,
-		"mbti": ["S", "F"],
-		"zodiac": ["Cancer", "Taurus", "Leo"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["J", "F", "S"],
+			"unrelated": ["P", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Leo"],
+			"unrelated": ["Aquarius", "Scorpio"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-68-pt": {
 		"id": "t-68-pt",
 		"question": "Ele(a) tem uma vitrola?",
 		"answer": "Tem uma vitrola",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Aquarius", "Pisces", "Taurus"],
-		"alignment": ["True-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xI", "xN", "xF"],
+			"unrelated": ["xS", "xT"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Libra", "Cancer"],
+			"unrelated": ["Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-69-pt": {
 		"id": "t-69-pt",
 		"question": "Ele(a) bebe muito café?",
 		"answer": "Bebe muito café",
 		"level": 2,
-		"mbti": ["N", "T"],
-		"zodiac": ["Gemini", "Virgo", "Aries"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xJ", "xT", "xE"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Aries"],
+			"unrelated": ["Pisces"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-70-pt": {
 		"id": "t-70-pt",
 		"question": "Ele(a) tem uma arma em casa?",
 		"answer": "Tem uma arma em casa",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["S", "T"],
-		"zodiac": ["Aries", "Scorpio", "Capricorn"],
-		"alignment": ["Chaotic-Neutral", "Lawful-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["S", "T", "xJ"],
+			"unrelated": ["N", "F", "xP"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Scorpio", "Capricorn"],
+			"unrelated": ["Pisces", "Libra", "Cancer"]
+		},
+		"alignment": {
+			"related": ["lawful-evil", "neutral-evil", "lawful-neutral"],
+			"unrelated": ["neutral-good", "lawful-good"]
+		}
 	},
 	"t-71-pt": {
 		"id": "t-71-pt",
 		"question": "Ele(a) gosta de cozinhar?",
 		"answer": "Gosta de cozinhar",
 		"level": 2,
-		"mbti": ["S", "F"],
-		"zodiac": ["Taurus", "Cancer", "Virgo"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xF", "xP"],
+			"unrelated": ["xT"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Cancer", "Libra"],
+			"unrelated": ["Aquarius", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-72-pt": {
 		"id": "t-72-pt",
 		"question": "Ele(a) é supersticioso(a)?",
 		"answer": "É supersticioso(a)",
 		"level": 3,
-		"mbti": ["N", "F"],
-		"zodiac": ["Pisces", "Scorpio", "Cancer"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xF", "xN", "xP"],
+			"unrelated": ["T", "S", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Scorpio", "Cancer"],
+			"unrelated": ["Capricorn", "Virgo", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-73-pt": {
 		"id": "t-73-pt",
 		"question": "Ele(a) ouve heavy metal?",
 		"answer": "Ouve heavy metal",
 		"level": 2,
-		"mbti": ["N", "T", "P"],
-		"zodiac": ["Scorpio", "Aries", "Aquarius"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xI", "xT", "xP"],
+			"unrelated": ["xF"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Aries", "Capricorn"],
+			"unrelated": ["Libra", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-good"]
+		}
 	},
 	"t-74-pt": {
 		"id": "t-74-pt",
 		"question": "Ele(a) lê revista quadrinhos?",
 		"answer": "Lê revista quadrinhos",
 		"level": 2,
-		"mbti": ["N", "P"],
-		"zodiac": ["Gemini", "Aquarius", "Pisces"],
-		"alignment": ["True-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xN", "xI", "xP"],
+			"unrelated": ["xS"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Aquarius", "Sagittarius"],
+			"unrelated": ["Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-75-pt": {
 		"id": "t-75-pt",
 		"question": "Ele(a) assiste reality shows?",
 		"answer": "Assiste reality shows",
 		"level": 2,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Gemini", "Libra"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xE", "xF", "xS"],
+			"unrelated": ["xI", "xT", "xN"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Libra"],
+			"unrelated": ["Scorpio", "Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-76-pt": {
 		"id": "t-76-pt",
 		"question": "Ele(a) é vegetariano(a)?",
 		"answer": "É vegetariano(a)",
 		"level": 2,
-		"mbti": ["S", "F"],
-		"zodiac": ["Virgo", "Aquarius", "Pisces"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["F", "N", "xI"],
+			"unrelated": ["T", "S", "xE"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Aquarius", "Virgo"],
+			"unrelated": ["Aries", "Leo", "Taurus"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good", "chaotic-good"],
+			"unrelated": ["lawful-evil", "neutral-evil"]
+		}
 	},
 	"t-77-pt": {
 		"id": "t-77-pt",
 		"question": "Ele(a) viaja para o exterior com frequência?",
 		"answer": "Viaja para o exterior com frequência",
 		"level": 2,
-		"mbti": ["E", "N"],
-		"zodiac": ["Sagittarius", "Gemini", "Leo"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xE", "xN", "xP"],
+			"unrelated": ["xI", "xS", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Aquarius", "Leo"],
+			"unrelated": ["Cancer", "Taurus"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-78-pt": {
 		"id": "t-78-pt",
 		"question": "Ele(a) sabe tocar um instrumento musical?",
 		"answer": "Sabe tocar um instrumento musical",
 		"level": 2,
-		"mbti": ["N", "P"],
-		"zodiac": ["Pisces", "Taurus", "Libra"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["I", "N", "xP"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Pisces", "Libra", "Leo"],
+			"unrelated": ["Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-79-pt": {
 		"id": "t-79-pt",
 		"question": "Ele(a) participa de eventos de caridade?",
 		"answer": "Participa de eventos de caridade",
 		"level": 2,
-		"mbti": ["F", "E"],
-		"zodiac": ["Pisces", "Aquarius", "Cancer"],
-		"alignment": ["Neutral-Good", "Lawful-Good"]
+		"mbti": {
+			"related": ["F", "xE", "xJ"],
+			"unrelated": ["T", "xI", "xP"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Aquarius", "Cancer"],
+			"unrelated": ["Aries", "Scorpio"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good", "chaotic-good"],
+			"unrelated": ["neutral-evil", "lawful-evil", "chaotic-evil"]
+		}
 	},
 	"t-80-pt": {
 		"id": "t-80-pt",
 		"question": "Ele(a) paga TV a cabo pra ver jogos de futebol?",
 		"answer": "Paga TV a cabo pra ver jogos de futebol",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Aries", "Taurus", "Leo"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xE", "xT"],
+			"unrelated": ["xN", "xI"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Leo", "Scorpio"],
+			"unrelated": ["Pisces", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-81-pt": {
 		"id": "t-81-pt",
 		"question": "Ele(a) entra em fila pra pegar uma promoção?",
 		"answer": "Entra em fila pra pegar uma promoção",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Taurus", "Virgo", "Capricorn"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xS", "xJ", "xE"],
+			"unrelated": ["xN", "xP"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Capricorn", "Cancer"],
+			"unrelated": ["Sagittarius", "Leo"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-82-pt": {
 		"id": "t-82-pt",
 		"question": "Ele(a) possui um pau de selfie?",
 		"answer": "Possui um pau de selfie",
 		"level": 1,
-		"mbti": ["N", "E"],
-		"zodiac": ["Leo", "Gemini", "Libra"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xE", "xS", "xF"],
+			"unrelated": ["xI"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Gemini"],
+			"unrelated": ["Scorpio", "Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-83-pt": {
 		"id": "t-83-pt",
 		"question": "Ele(a) gosta de pimenta na comida?",
 		"answer": "Gosta de pimenta na comida",
 		"level": 2,
-		"mbti": ["S", "P"],
-		"zodiac": ["Aries", "Scorpio", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xS", "xE", "xP"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Aries", "Scorpio", "Sagittarius"],
+			"unrelated": ["Pisces", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-84-pt": {
 		"id": "t-84-pt",
 		"question": "Ele(a) gosta de jogos de tabuleiro?",
 		"answer": "Gosta de jogos de tabuleiro",
 		"level": 2,
-		"mbti": ["N", "T"],
-		"zodiac": ["Gemini", "Aquarius", "Virgo"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["I", "T", "J"],
+			"unrelated": ["E", "xF", "P"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Gemini"],
+			"unrelated": ["Aries", "Leo"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-85-pt": {
 		"id": "t-85-pt",
 		"question": "Ele(a) assiste filmes de terror?",
 		"answer": "Assiste filmes de terror",
 		"level": 2,
-		"mbti": ["N", "P"],
-		"zodiac": ["Scorpio", "Pisces"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xS", "xT", "xP"],
+			"unrelated": ["xF"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Aries", "Capricorn"],
+			"unrelated": ["Cancer", "Libra", "Pisces"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-good"]
+		}
 	},
 	"t-86-pt": {
 		"id": "t-86-pt",
 		"question": "Ele(a) é uma pessoa espiritualizada?",
 		"answer": "É uma pessoa espiritualizada",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Pisces", "Sagittarius", "Cancer"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["N", "F", "xI"],
+			"unrelated": ["S", "T", "xE"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Scorpio", "Sagittarius"],
+			"unrelated": ["Capricorn", "Virgo", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "chaotic-good", "lawful-good"],
+			"unrelated": ["lawful-evil", "neutral-evil"]
+		}
 	},
 	"t-87-pt": {
 		"id": "t-87-pt",
 		"question": "Ele(a) é racista?",
 		"answer": "É racista",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["xS", "xJ"],
-		"zodiac": ["xCapricorn", "xScorpio"],
-		"alignment": ["Neutral-Evil", "Chaotic-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xS", "xJ", "xT"],
+			"unrelated": ["xF", "xN"]
+		},
+		"zodiac": {
+			"related": ["xCapricorn", "xScorpio"],
+			"unrelated": ["xAquarius", "xPisces"]
+		},
+		"alignment": {
+			"related": ["lawful-evil", "neutral-evil", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-88-pt": {
 		"id": "t-88-pt",
 		"question": "Ele(a) guarda o celular no bolso?",
 		"answer": "Guarda o celular no bolso",
 		"level": 1,
-		"mbti": ["S", "T"],
-		"zodiac": ["Virgo", "Capricorn"],
-		"alignment": ["True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xJ", "xT"],
+			"unrelated": ["xP"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "xAries"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-89-pt": {
 		"id": "t-89-pt",
 		"question": "Ele(a) tem medo de avião?",
 		"answer": "Tem medo de avião",
 		"level": 3,
-		"mbti": ["S", "J"],
-		"zodiac": ["Virgo", "Cancer", "Taurus"],
-		"alignment": ["Neutral-Good"]
+		"mbti": {
+			"related": ["xI", "xS", "xF"],
+			"unrelated": ["xP", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Virgo"],
+			"unrelated": ["Sagittarius", "Aquarius", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-90-pt": {
 		"id": "t-90-pt",
 		"question": "Ele(a) assiste Jornal Nacional?",
 		"answer": "Assiste Jornal Nacional",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Capricorn", "Virgo", "Libra"],
-		"alignment": ["Lawful-Neutral"]
+		"mbti": {
+			"related": ["J", "S", "xT"],
+			"unrelated": ["P", "N"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Taurus"],
+			"unrelated": ["Aquarius", "Pisces", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-91-pt": {
 		"id": "t-91-pt",
 		"question": "Ele(a) é um bom motorista?",
 		"answer": "É um bom motorista",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["S", "T"],
-		"zodiac": ["Virgo", "Capricorn", "Taurus"],
-		"alignment": ["Lawful-Neutral", "Lawful-Good"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["S", "J", "T"],
+			"unrelated": ["P", "N", "F"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Aries"],
+			"unrelated": ["Pisces", "Gemini", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-92-pt": {
 		"id": "t-92-pt",
 		"question": "Ele(a) é chamado por um apelido?",
 		"answer": "É chamado por um apelido",
 		"level": 2,
-		"mbti": ["E", "F"],
-		"zodiac": ["Leo", "Gemini", "Sagittarius"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xE", "xF", "xP"],
+			"unrelated": ["xI", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Leo", "Cancer"],
+			"unrelated": ["Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-93-pt": {
 		"id": "t-93-pt",
 		"question": "Ele(a) joga videogames?",
 		"answer": "Joga videogames",
 		"level": 2,
-		"mbti": ["N", "I", "P"],
-		"zodiac": ["Gemini", "Aquarius", "Aries"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["I", "P", "xT", "N"],
+			"unrelated": ["xE", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Aquarius", "Sagittarius"],
+			"unrelated": ["Taurus", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-94-pt": {
 		"id": "t-94-pt",
 		"question": "Ele(a) acredita em reencarnação?",
 		"answer": "Acredita em reencarnação",
 		"level": 3,
-		"mbti": ["N", "F"],
-		"zodiac": ["Pisces", "Scorpio", "Cancer"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["N", "xF", "xI"],
+			"unrelated": ["S", "xT"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Scorpio", "Sagittarius"],
+			"unrelated": ["Capricorn", "Virgo", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-good"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-95-pt": {
 		"id": "t-95-pt",
 		"question": "Ele(a) gosta de abraçar?",
 		"answer": "Gosta de abraçar",
 		"level": 2,
-		"mbti": ["F", "E"],
-		"zodiac": ["Cancer", "Leo", "Libra"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["F", "E", "xS"],
+			"unrelated": ["T", "I"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Leo"],
+			"unrelated": ["Aquarius", "Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good", "chaotic-good"],
+			"unrelated": ["neutral-evil"]
+		}
 	},
 	"t-96-pt": {
 		"id": "t-96-pt",
 		"question": "Ele(a) fuma?",
 		"answer": "Fuma",
 		"level": 1,
-		"mbti": ["P", "S"],
-		"zodiac": ["Gemini", "Sagittarius", "Scorpio"],
-		"alignment": ["Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xP", "xI", "xE"],
+			"unrelated": ["xJ"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Sagittarius", "Pisces"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-good"]
+		}
 	},
 	"t-97-pt": {
 		"id": "t-97-pt",
 		"question": "Ele(a) tem antecedentes criminais?",
 		"answer": "Tem antecedentes criminais",
 		"level": 3,
-		"mbti": ["P", "xT"],
-		"zodiac": ["Aries", "Gemini", "Scorpio"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["P", "xE", "xT", "S"],
+			"unrelated": ["J", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Aries", "Sagittarius"],
+			"unrelated": ["Virgo", "Capricorn", "Libra"]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "chaotic-neutral"],
+			"unrelated": ["lawful-good", "neutral-good", "lawful-neutral"]
+		}
 	},
 	"t-98-pt": {
 		"id": "t-98-pt",
 		"question": "Ele(a) frequenta uma academia?",
 		"answer": "Frequenta uma academia",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Aries", "Leo", "Capricorn"],
-		"alignment": ["Lawful-Neutral", "Neutral-Good"]
+		"mbti": {
+			"related": ["S", "xE", "J"],
+			"unrelated": ["N", "xI", "P"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Aries", "Capricorn"],
+			"unrelated": ["Pisces", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-99-pt": {
 		"id": "t-99-pt",
 		"question": "Ele(a) assiste a documentários?",
 		"answer": "Assiste a documentários",
 		"level": 2,
-		"mbti": ["N", "T", "I"],
-		"zodiac": ["Virgo", "Aquarius", "Gemini"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["N", "I", "T"],
+			"unrelated": ["xE", "xS", "xF"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Virgo", "Capricorn"],
+			"unrelated": ["Aries", "Leo"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-100-pt": {
 		"id": "t-100-pt",
 		"question": "Ele(a) comemora o Dia dos Namorados?",
 		"answer": "Comemora o Dia dos Namorados",
 		"level": 2,
-		"mbti": ["F", "S"],
-		"zodiac": ["Libra", "Cancer", "Taurus"],
-		"alignment": ["Neutral-Good", "Lawful-Good"]
+		"mbti": {
+			"related": ["F", "xS", "xE", "J"],
+			"unrelated": ["T", "xN", "P"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Libra", "Pisces"],
+			"unrelated": ["Aquarius", "Capricorn", "Aries"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-101-pt": {
 		"id": "t-101-pt",
 		"question": "Ele(a) é virgem?",
 		"answer": "É virgem",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["I", "J"],
-		"zodiac": ["Virgo", "Capricorn", "Cancer"],
-		"alignment": ["Lawful-Good", "True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["I", "J", "xS"],
+			"unrelated": ["E", "P"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Cancer"],
+			"unrelated": ["Scorpio", "Leo", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-102-pt": {
 		"id": "t-102-pt",
 		"question": "Ele(a) acredita em signos e astrologia?",
 		"answer": "Acredita em signos e astrologia",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Pisces", "Aquarius", "Cancer"],
-		"alignment": ["Chaotic-Neutral", "Neutral-Good"]
+		"mbti": {
+			"related": ["N", "F", "xP"],
+			"unrelated": ["S", "T", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Scorpio", "Cancer"],
+			"unrelated": ["Capricorn", "Virgo", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-103-pt": {
 		"id": "t-103-pt",
 		"question": "Ele(a) é homossexual?",
 		"answer": "É homossexual",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["xN", "xF"],
-		"zodiac": ["Aquarius", "Libra", "Gemini"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xN", "xF", "xP"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Pisces", "Libra"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-104-pt": {
 		"id": "t-104-pt",
 		"question": "Ele(a) assistia Sílvio Santos todo domingo?",
 		"answer": "Assistia Sílvio Santos todo domingo",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Taurus", "Cancer", "Leo"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xF", "xE", "J"],
+			"unrelated": ["xN"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Leo"],
+			"unrelated": ["Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-105-pt": {
 		"id": "t-105-pt",
 		"question": "Ele(a) pechincha muito?",
 		"answer": "Pechincha muito",
 		"level": 2,
-		"mbti": ["J", "T"],
-		"zodiac": ["Capricorn", "Taurus", "Virgo"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xT", "xS", "xP"],
+			"unrelated": ["xF"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Taurus"],
+			"unrelated": ["Leo", "Libra"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-106-pt": {
 		"id": "t-106-pt",
 		"question": "Ele(a) usou máscara para se proteger do COVID sem reclamar?",
 		"answer": "Usou máscara para se proteger do COVID sem reclamar",
 		"level": 2,
-		"mbti": ["J", "F"],
-		"zodiac": ["Virgo", "Libra", "Cancer"],
-		"alignment": ["Lawful-Good", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["J", "xF", "I"],
+			"unrelated": ["P", "xE"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Cancer"],
+			"unrelated": ["Aries", "Sagittarius", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral", "chaotic-evil"]
+		}
 	},
 	"t-107-pt": {
 		"id": "t-107-pt",
 		"question": "Ele(a) nunca pegou COVID?",
 		"answer": "Nunca pegou COVID",
 		"level": 3,
-		"mbti": ["I", "J"],
-		"zodiac": ["Virgo", "Capricorn", "Scorpio"],
-		"alignment": ["Lawful-Neutral"]
+		"mbti": {
+			"related": ["xJ", "xI", "xS"],
+			"unrelated": ["xE", "xP"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn"],
+			"unrelated": ["Gemini", "Leo"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-108-pt": {
 		"id": "t-108-pt",
 		"question": "Ele(a) é contra vacinas?",
 		"answer": "É contra vacinas",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["xS", "xT"],
-		"zodiac": ["Aquarius", "Scorpio", "Aries"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xN", "xP", "xI"],
+			"unrelated": ["xJ", "xS"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Sagittarius", "Pisces"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-evil", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "lawful-neutral"]
+		}
 	},
 	"t-109-pt": {
 		"id": "t-109-pt",
 		"question": "Ele(a) sente muita cosquinha?",
 		"answer": "Sente muita cosquinha",
 		"level": 2,
-		"mbti": ["F", "P"],
-		"zodiac": ["Gemini", "Pisces", "Cancer"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xF", "xP", "xE"],
+			"unrelated": ["xT"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Cancer", "Gemini"],
+			"unrelated": ["Scorpio", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-110-pt": {
 		"id": "t-110-pt",
 		"question": "Ele(a) usa drogas?",
 		"answer": "Usa drogas",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["P", "N"],
-		"zodiac": ["Pisces", "Aquarius", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["P", "xE", "xN"],
+			"unrelated": ["J", "xI", "xS"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Sagittarius", "Scorpio"],
+			"unrelated": ["Virgo", "Capricorn", "Taurus"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "chaotic-evil"],
+			"unrelated": ["lawful-good", "lawful-neutral"]
+		}
 	},
 	"t-111-pt": {
 		"id": "t-111-pt",
 		"question": "Ele(a) é cringe?",
 		"answer": "É cringe",
 		"level": 2,
-		"mbti": ["F", "E"],
-		"zodiac": ["Cancer", "Leo", "Pisces"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xJ", "xF"],
+			"unrelated": ["xN", "xP", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Capricorn"],
+			"unrelated": ["Aquarius", "Gemini"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-112-pt": {
 		"id": "t-112-pt",
 		"question": "Ele(a) teve um Tamagochi quando criança?",
 		"answer": "Teve um Tamagochi quando criança",
 		"level": 2,
-		"mbti": ["F", "N"],
-		"zodiac": ["Cancer", "Gemini"],
-		"alignment": ["Neutral-Good"]
+		"mbti": {
+			"related": ["xN", "xF", "xP", "xS"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Cancer", "Gemini", "Pisces"],
+			"unrelated": ["Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-113-pt": {
 		"id": "t-113-pt",
 		"question": "Ele(a) já vestiu fantasias para apimentar a relação?",
 		"answer": "Já vestiu fantasias para apimentar a relação",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["E", "P"],
-		"zodiac": ["Scorpio", "Leo", "Gemini"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xN", "xP", "xF"],
+			"unrelated": ["xI", "xS", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Leo", "Aries"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-114-pt": {
 		"id": "t-114-pt",
 		"question": "Ele(a) é uma pessoa pontual?",
 		"answer": "É uma pessoa pontual",
 		"level": 2,
-		"mbti": ["J", "T"],
-		"zodiac": ["Virgo", "Capricorn", "Taurus"],
-		"alignment": ["Lawful-Neutral", "Lawful-Good"]
+		"mbti": {
+			"related": ["J", "S", "xT"],
+			"unrelated": ["P", "N", "xF"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Taurus"],
+			"unrelated": ["Pisces", "Sagittarius", "Gemini"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "lawful-good"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-115-pt": {
 		"id": "t-115-pt",
 		"question": "Ele(a) colecionava figurinhas do Campeonato Brasileiro quando criança?",
 		"answer": "Colecionava figurinhas do Campeonato Brasileiro quando criança",
 		"level": 2,
-		"mbti": ["F", "S"],
-		"zodiac": ["Taurus", "Cancer"],
-		"alignment": ["Neutral-Good"]
+		"mbti": {
+			"related": ["S", "xJ", "xE", "xT"],
+			"unrelated": ["N"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Aries", "Taurus"],
+			"unrelated": ["Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-116-pt": {
 		"id": "t-116-pt",
 		"question": "Ele(a) calça 42?",
 		"answer": "Calça 42",
-		"nsfw": true,
 		"level": 1,
-		"mbti": ["S"],
-		"zodiac": ["Sagittarius", "Capricorn"],
-		"alignment": ["True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xS"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["xLeo", "xSagittarius", "xAries"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-117-pt": {
 		"id": "t-117-pt",
 		"question": "Ele(a) sabe linguagens de sinais?",
 		"answer": "Sabe linguagens de sinais",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Gemini", "Virgo", "Aquarius"],
-		"alignment": ["Neutral-Good", "Lawful-Good"]
+		"mbti": {
+			"related": ["F", "N", "xI", "xJ"],
+			"unrelated": ["xT", "xS"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Aquarius", "Gemini"],
+			"unrelated": ["Aries", "Leo"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good"],
+			"unrelated": []
+		}
 	},
 	"t-118-pt": {
 		"id": "t-118-pt",
 		"question": "Elu é não-binário?",
 		"answer": "É não-binário",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["N", "P"],
-		"zodiac": ["Aquarius", "Gemini"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["N", "P", "xF"],
+			"unrelated": ["S", "J", "xT"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Pisces", "Gemini"],
+			"unrelated": ["Capricorn", "Taurus", "Leo"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "chaotic-good", "neutral-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-evil"]
+		}
 	},
 	"t-119-pt": {
 		"id": "t-119-pt",
 		"question": "Ele(a) tem muitas alergias?",
 		"answer": "Tem muitas alergias",
 		"level": 2,
-		"mbti": ["I", "S"],
-		"zodiac": ["Virgo", "Pisces", "Cancer"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xI", "xS", "xF"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Virgo"],
+			"unrelated": ["Leo", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-120-pt": {
 		"id": "t-120-pt",
 		"question": "Ele(a) guarda rancor?",
 		"answer": "Guarda rancor",
 		"level": 3,
-		"mbti": ["I", "F", "J"],
-		"zodiac": ["Scorpio", "Cancer", "Taurus"],
-		"alignment": ["Neutral-Evil", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["I", "J", "xF", "xT"],
+			"unrelated": ["E", "P"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Cancer", "Taurus"],
+			"unrelated": ["Sagittarius", "Gemini", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-evil", "lawful-evil", "chaotic-evil"],
+			"unrelated": ["neutral-good", "chaotic-good", "lawful-good"]
+		}
 	},
 	"t-121-pt": {
 		"id": "t-121-pt",
 		"question": "Ele(a) odeia pobre?",
 		"answer": "Odeia pobre",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["xT", "xJ"],
-		"zodiac": ["xCapricorn", "xLeo"],
-		"alignment": ["Lawful-Evil", "Neutral-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xS", "xT", "xJ"],
+			"unrelated": ["xF", "xN"]
+		},
+		"zodiac": {
+			"related": ["xLeo", "xCapricorn", "xTaurus"],
+			"unrelated": ["xAquarius", "xPisces"]
+		},
+		"alignment": {
+			"related": ["lawful-evil", "neutral-evil", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-122-pt": {
 		"id": "t-122-pt",
 		"question": "Os pais são orgulhosos dele(a)?",
 		"answer": "Os pais são orgulhosos dele(a)",
 		"level": 3,
-		"mbti": ["F", "J"],
-		"zodiac": ["Capricorn", "Leo", "Taurus"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["J", "S", "xF", "xT"],
+			"unrelated": ["P", "xN"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Leo"],
+			"unrelated": ["Sagittarius", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral", "chaotic-evil"]
+		}
 	},
 	"t-123-pt": {
 		"id": "t-123-pt",
 		"question": "Ele(a) acha comida baiana exótica?",
 		"answer": "Acha comida baiana exótica",
 		"level": 2,
-		"mbti": ["S", "J"],
-		"zodiac": ["Virgo", "Capricorn"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xS", "xI", "xT"],
+			"unrelated": ["xN"]
+		},
+		"zodiac": {
+			"related": ["xTaurus", "xVirgo", "xCapricorn"],
+			"unrelated": ["xSagittarius", "xGemini"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-124-pt": {
 		"id": "t-124-pt",
 		"question": "Ele(a) prefere cachorros a gatos?",
 		"answer": "Prefere cachorros a gatos",
 		"level": 2,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Sagittarius", "Aries"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xE", "xS", "xF", "xJ"],
+			"unrelated": ["xI", "xN"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Leo", "Sagittarius"],
+			"unrelated": ["Scorpio", "Aquarius", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-125-pt": {
 		"id": "t-125-pt",
 		"question": "Ele(a) já pegou um porteiro ou faxineira do prédio?",
 		"answer": "Já pegou um porteiro ou faxineira do prédio",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["P", "E"],
-		"zodiac": ["Sagittarius", "Gemini", "Scorpio"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xP", "xS"],
+			"unrelated": ["xI", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Aries", "Gemini"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-126-pt": {
 		"id": "t-126-pt",
 		"question": "Ele(a) acha que fazer peido com o sovaco é um talento?",
 		"answer": "Acha que fazer peido com o sovaco é um talento",
 		"level": 2,
-		"mbti": ["E", "P"],
-		"zodiac": ["Gemini", "Sagittarius", "Aries"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xP", "xE", "xS"],
+			"unrelated": ["xJ", "xN"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Sagittarius", "Gemini"],
+			"unrelated": ["Virgo", "Libra", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-127-pt": {
 		"id": "t-127-pt",
 		"question": "Ele(a) tem colesterol alto?",
 		"answer": "Tem colesterol alto",
 		"level": 3,
-		"mbti": ["xP", "xS"],
-		"zodiac": ["Taurus", "Cancer", "Sagittarius"],
-		"alignment": ["xNeutral"]
+		"mbti": {
+			"related": ["xS", "xP", "xI"],
+			"unrelated": ["xJ"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Leo", "Cancer"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-128-pt": {
 		"id": "t-128-pt",
 		"question": "Ele(a) já doou para o Criança Esperança?",
 		"answer": "Já doou para o Criança Esperança",
 		"level": 2,
-		"mbti": ["F", "J"],
-		"zodiac": ["Pisces", "Cancer", "Libra"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xS", "xJ", "xE"],
+			"unrelated": ["xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Leo"],
+			"unrelated": ["Scorpio", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral", "neutral-evil"]
+		}
 	},
 	"t-129-pt": {
 		"id": "t-129-pt",
 		"question": "Ele(a) sabe dançar uma coreografia do É o Tchan?",
 		"answer": "Sabe dançar uma coreografia do É o Tchan",
 		"level": 2,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Sagittarius", "Libra"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xS", "xP", "xF"],
+			"unrelated": ["xI", "xN", "xT"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Sagittarius"],
+			"unrelated": ["Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-130-pt": {
 		"id": "t-130-pt",
 		"question": "Ele(a) já ficou em pânico por conta de um teste de gravidez?",
 		"answer": "Já ficou em pânico por conta de um teste de gravidez",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["P", "F"],
-		"zodiac": ["Cancer", "Pisces", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xP", "xF", "xN", "xI"],
+			"unrelated": ["xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Scorpio"],
+			"unrelated": ["Capricorn", "Virgo", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-131-pt": {
 		"id": "t-131-pt",
 		"question": "Ele(a) é considerado(a) gostoso(a) pela sociedade?",
 		"answer": "É considerado(a) gostoso(a) pela sociedade",
-		"nsfw": true,
 		"level": 1,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Libra", "Scorpio"],
-		"alignment": ["xChaotic", "xNeutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xS", "xT", "xJ"],
+			"unrelated": ["xI", "xN"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Scorpio"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-132-pt": {
 		"id": "t-132-pt",
 		"question": "Ele(a) dorme pelado(a)?",
 		"answer": "Dorme pelado(a)",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["P", "S"],
-		"zodiac": ["Sagittarius", "Aquarius", "Aries"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["P", "xS", "xE"],
+			"unrelated": ["J", "xI"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Aries", "Sagittarius"],
+			"unrelated": ["Virgo", "Capricorn", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-133-pt": {
 		"id": "t-133-pt",
 		"question": "Ele(a) tem sotaque carregado?",
 		"answer": "Tem sotaque carregado",
 		"level": 1,
-		"mbti": ["xS", "xF"],
-		"zodiac": ["Cancer", "Taurus"],
-		"alignment": ["True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xE"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["xCancer", "xSagittarius", "xTaurus"],
+			"unrelated": []
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-134-pt": {
 		"id": "t-134-pt",
 		"question": "Ele(a) acha que a Gretchen é um ícone nacional?",
 		"answer": "Acha que a Gretchen é um ícone nacional",
 		"level": 2,
-		"mbti": ["E", "F"],
-		"zodiac": ["Leo", "Gemini", "Libra"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xN", "xP", "xF"],
+			"unrelated": ["xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Libra"],
+			"unrelated": ["Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-135-pt": {
 		"id": "t-135-pt",
 		"question": "Ele(a) tem medo da Loira do Banheiro?",
 		"answer": "Tem medo da Loira do Banheiro",
 		"level": 3,
-		"mbti": ["F", "N"],
-		"zodiac": ["Pisces", "Cancer"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xS", "xF", "xN"],
+			"unrelated": ["xT", "xP"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Scorpio"],
+			"unrelated": ["Aries", "Sagittarius", "Leo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-136-pt": {
 		"id": "t-136-pt",
 		"question": "Ele(a) participaria do Big Brother?",
 		"answer": "Participaria do Big Brother",
 		"level": 2,
-		"mbti": ["E", "P"],
-		"zodiac": ["Leo", "Gemini", "Aries"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["E", "P", "xF", "xS"],
+			"unrelated": ["I", "J", "xT"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Sagittarius"],
+			"unrelated": ["Scorpio", "Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-good"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-137-pt": {
 		"id": "t-137-pt",
 		"question": "Ele(a) tem medo de altura?",
 		"answer": "Tem medo de altura",
 		"level": 3,
-		"mbti": ["S", "J"],
-		"zodiac": ["Taurus", "Cancer", "Virgo"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xS", "xJ", "xF"],
+			"unrelated": ["xP", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Virgo", "Taurus"],
+			"unrelated": ["Sagittarius", "Aquarius", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-138-pt": {
 		"id": "t-138-pt",
 		"question": "Ele(a) grava dancinha de Tik Tok?",
 		"answer": "Grava dancinha de Tik Tok",
 		"level": 1,
-		"mbti": ["E", "S", "P"],
-		"zodiac": ["Leo", "Gemini", "Libra"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["E", "P", "xS", "xF"],
+			"unrelated": ["I", "J", "xT", "xN"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Libra"],
+			"unrelated": ["Capricorn", "Virgo", "Scorpio"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-139-pt": {
 		"id": "t-139-pt",
 		"question": "Ele(a) sofre de ansiedade?",
 		"answer": "Sofre de ansiedade",
 		"level": 3,
-		"mbti": ["I", "N", "F"],
-		"zodiac": ["Virgo", "Pisces", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xF", "xJ"],
+			"unrelated": ["xS", "xT", "xP"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Cancer", "Pisces"],
+			"unrelated": ["Sagittarius", "Aries", "Leo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "neutral-good"],
+			"unrelated": []
+		}
 	},
 	"t-140-pt": {
 		"id": "t-140-pt",
 		"question": "Ele(a) fica pelado(a) em vestiários sem problema algum?",
 		"answer": "Fica pelado(a) em vestiários sem problema algum",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["E", "S"],
-		"zodiac": ["Sagittarius", "Aries", "Leo"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xS", "xP", "xT"],
+			"unrelated": ["xI", "xF", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Aries", "Sagittarius"],
+			"unrelated": ["Cancer", "Virgo", "Pisces"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-141-pt": {
 		"id": "t-141-pt",
 		"question": "Ele(a) já foi em um show do Roberto Carlos?",
 		"answer": "Já foi em um show do Roberto Carlos",
 		"level": 2,
-		"mbti": ["S", "F", "J"],
-		"zodiac": ["Cancer", "Taurus", "Pisces"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xS", "xF", "xJ", "xE"],
+			"unrelated": ["xN", "xP"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Leo"],
+			"unrelated": ["Aquarius", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-good", "lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-142-pt": {
 		"id": "t-142-pt",
 		"question": "Ele(a) é tímido?",
 		"answer": "É tímido",
 		"level": 3,
-		"mbti": ["I", "F"],
-		"zodiac": ["Cancer", "Virgo", "Pisces"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["I", "xF", "xS", "xJ"],
+			"unrelated": ["E", "xT", "xP"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Cancer", "Virgo"],
+			"unrelated": ["Leo", "Aries", "Gemini", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-good", "neutral-good"],
+			"unrelated": ["chaotic-neutral", "chaotic-evil"]
+		}
 	},
 	"t-143-pt": {
 		"id": "t-143-pt",
 		"question": "Ele(a) já passou a noite na cadeia?",
 		"answer": "Já passou a noite na cadeia",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["P", "xS"],
-		"zodiac": ["Aries", "Sagittarius", "Scorpio"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["P", "xE", "xT", "xS"],
+			"unrelated": ["J", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Scorpio", "Sagittarius"],
+			"unrelated": ["Virgo", "Capricorn", "Libra"]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "chaotic-neutral"],
+			"unrelated": ["lawful-good", "neutral-good", "lawful-neutral"]
+		}
 	},
 	"t-144-pt": {
 		"id": "t-144-pt",
 		"question": "Ele(a) gosta de k-pop?",
 		"answer": "Gosta de k-pop",
 		"level": 2,
-		"mbti": ["N", "F", "P"],
-		"zodiac": ["Libra", "Aquarius", "Pisces"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xE", "xF", "xP", "xN"],
+			"unrelated": ["xT", "xJ", "xS"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Libra", "Gemini"],
+			"unrelated": ["Capricorn", "Virgo", "Scorpio"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "chaotic-good", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-145-pt": {
 		"id": "t-145-pt",
 		"question": "Ele(a) ouve funk escondido e publicamente fala mal do gênero",
 		"answer": "Ouve funk escondido e publicamente fala mal do gênero",
 		"level": 3,
-		"mbti": ["J", "S"],
-		"zodiac": ["Capricorn", "Virgo", "Scorpio"],
-		"alignment": ["Lawful-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["xI", "xJ", "xT", "xS"],
+			"unrelated": ["xE", "xF", "xP"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Scorpio"],
+			"unrelated": ["Sagittarius", "Leo", "Aries"]
+		},
+		"alignment": {
+			"related": ["lawful-evil", "neutral-evil", "lawful-neutral"],
+			"unrelated": ["chaotic-good", "neutral-good", "chaotic-neutral"]
+		}
 	},
 	"t-146-pt": {
 		"id": "t-146-pt",
 		"question": "Ele(a) já discutiu com um garçom em um restaurante?",
 		"answer": "Já discutiu com um garçom em um restaurante",
 		"level": 2,
-		"mbti": ["E", "T", "J"],
-		"zodiac": ["Aries", "Leo", "Capricorn"],
-		"alignment": ["Lawful-Evil", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["xE", "xT", "xJ", "xS"],
+			"unrelated": ["xI", "xF", "xP"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Scorpio", "Leo"],
+			"unrelated": ["Pisces", "Libra", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "lawful-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-147-pt": {
 		"id": "t-147-pt",
 		"question": "Ele(a) sofre de escoliose?",
 		"answer": "Sofre de escoliose",
 		"level": 3,
-		"mbti": ["I", "N"],
-		"zodiac": ["Virgo", "Capricorn"],
-		"alignment": ["True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xP"],
+			"unrelated": ["xS", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Pisces"],
+			"unrelated": ["Aries", "Leo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-148-pt": {
 		"id": "t-148-pt",
 		"question": "Ele(a) entende de computador?",
 		"answer": "Entende de computador",
 		"level": 2,
-		"mbti": ["T", "N", "I"],
-		"zodiac": ["Aquarius", "Virgo", "Gemini"],
-		"alignment": ["Neutral-Good", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["T", "N", "I", "xJ"],
+			"unrelated": ["xF", "xE", "xS"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Virgo", "Capricorn"],
+			"unrelated": ["Leo", "Aries"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-149-pt": {
 		"id": "t-149-pt",
 		"question": "Ele(a) chorou quando o Michael Jackson morreu?",
 		"answer": "Chorou quando o Michael Jackson morreu",
 		"level": 3,
-		"mbti": ["F", "S"],
-		"zodiac": ["Pisces", "Cancer", "Leo"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xF", "xE", "xN", "xS"],
+			"unrelated": ["xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Leo"],
+			"unrelated": ["Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-150-pt": {
 		"id": "t-150-pt",
 		"question": "Ele(a) tem um passado misterioso?",
 		"answer": "Tem um passado misterioso",
 		"level": 3,
-		"mbti": ["I", "N", "T"],
-		"zodiac": ["Scorpio", "Capricorn", "Pisces"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["I", "N", "xT", "xP"],
+			"unrelated": ["xE", "xS", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Pisces", "Capricorn"],
+			"unrelated": ["Leo", "Aries", "Gemini"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "neutral-evil", "chaotic-neutral"],
+			"unrelated": ["lawful-good", "lawful-neutral"]
+		}
 	},
 	"t-151-pt": {
 		"id": "t-151-pt",
 		"question": "Ele(a) gosta de show de standup?",
 		"answer": "Gosta de show de standup",
 		"level": 2,
-		"mbti": ["E", "P", "T"],
-		"zodiac": ["Gemini", "Sagittarius", "Leo"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xT", "xP", "xS"],
+			"unrelated": ["xI", "xF", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Aries"],
+			"unrelated": ["Scorpio", "Capricorn", "Virgo"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-152-pt": {
 		"id": "t-152-pt",
 		"question": "Ele(a) é muito teimoso(a)?",
 		"answer": "É muito teimoso(a)",
 		"level": 3,
-		"mbti": ["J", "T"],
-		"zodiac": ["Taurus", "Aries", "Capricorn"],
-		"alignment": ["Chaotic-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["T", "J", "S", "xI"],
+			"unrelated": ["F", "P", "xE"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Scorpio", "Leo", "Capricorn"],
+			"unrelated": ["Gemini", "Libra", "Pisces"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "lawful-evil", "neutral-evil"],
+			"unrelated": ["neutral-good", "chaotic-good", "chaotic-neutral"]
+		}
 	},
 	"t-153-pt": {
 		"id": "t-153-pt",
 		"question": "Ele(a) é muito ciumento(a)?",
 		"answer": "É muito ciumento(a)",
 		"level": 3,
-		"mbti": ["F", "J"],
-		"zodiac": ["Scorpio", "Taurus", "Cancer"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["xF", "xJ", "xI", "xS"],
+			"unrelated": ["xT", "xP", "xE"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Cancer", "Leo", "Taurus"],
+			"unrelated": ["Aquarius", "Gemini", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["neutral-evil", "lawful-evil", "chaotic-evil"],
+			"unrelated": ["neutral-good", "chaotic-good", "lawful-good"]
+		}
 	},
 	"t-154-pt": {
 		"id": "t-154-pt",
 		"question": "Ele(a) é muito possessivo(a)?",
 		"answer": "É muito possessivo(a)",
 		"level": 3,
-		"mbti": ["J", "S"],
-		"zodiac": ["Scorpio", "Taurus", "Leo"],
-		"alignment": ["Lawful-Evil", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xJ", "xF", "xT", "xS"],
+			"unrelated": ["xP", "xE"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Taurus", "Leo", "Cancer"],
+			"unrelated": ["Aquarius", "Gemini", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-evil", "neutral-evil", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-155-pt": {
 		"id": "t-155-pt",
 		"question": "Ele(a) é vingativo(a)?",
 		"answer": "É vingativo(a)",
 		"level": 3,
-		"mbti": ["J", "F"],
-		"zodiac": ["Scorpio", "Aries", "Capricorn"],
-		"alignment": ["Chaotic-Evil", "Neutral-Evil"]
+		"mbti": {
+			"related": ["xT", "xJ", "xI", "xS"],
+			"unrelated": ["xF", "xP", "xE"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Taurus", "Capricorn", "Cancer"],
+			"unrelated": ["Sagittarius", "Pisces", "Gemini", "Libra"]
+		},
+		"alignment": {
+			"related": ["lawful-evil", "neutral-evil", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-156-pt": {
 		"id": "t-156-pt",
 		"question": "Ele(a) acha que Chaves é melhor que Friends?",
 		"answer": "Acha que Chaves é melhor que Friends",
 		"level": 2,
-		"mbti": ["S", "F"],
-		"zodiac": ["Cancer", "Taurus", "Pisces"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xS", "xF", "xE", "xP"],
+			"unrelated": ["xN", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Leo", "Taurus"],
+			"unrelated": ["Aquarius", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-157-pt": {
 		"id": "t-157-pt",
 		"question": "Ele(a) apela fácil?",
 		"answer": "Apela fácil",
 		"level": 3,
-		"mbti": ["F", "E"],
-		"zodiac": ["Aries", "Cancer", "Leo"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xE", "xT", "xP", "xS"],
+			"unrelated": ["xI", "xF", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Scorpio", "Leo"],
+			"unrelated": ["Libra", "Pisces", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "chaotic-evil", "neutral-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "lawful-neutral"]
+		}
 	},
 	"t-158-pt": {
 		"id": "t-158-pt",
 		"question": "Ele(a) é muito competitivo(a)?",
 		"answer": "É muito competitivo(a)",
 		"level": 2,
-		"mbti": ["T", "E", "J"],
-		"zodiac": ["Aries", "Leo", "Capricorn"],
-		"alignment": ["Chaotic-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["xE", "xT", "xJ", "xS"],
+			"unrelated": ["xI", "xF", "xP"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Leo", "Capricorn", "Scorpio"],
+			"unrelated": ["Pisces", "Libra", "Cancer"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["neutral-good", "lawful-good"]
+		}
 	},
 	"t-159-pt": {
 		"id": "t-159-pt",
 		"question": "Ele(a) é muito preguiçoso(a)?",
 		"answer": "É muito preguiçoso(a)",
 		"level": 2,
-		"mbti": ["P", "I"],
-		"zodiac": ["Taurus", "Pisces", "Libra"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["P", "xI", "xS", "xF"],
+			"unrelated": ["J", "xE", "xT", "xS"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Pisces", "Cancer", "Libra"],
+			"unrelated": ["Capricorn", "Virgo", "Aries", "Leo"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-160-pt": {
 		"id": "t-160-pt",
 		"question": "Ele(a) é muito desorganizado(a)?",
 		"answer": "É muito desorganizado(a)",
 		"level": 2,
-		"mbti": ["J", "P"],
-		"zodiac": ["Sagittarius", "Gemini", "Pisces"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["P", "xN", "xE"],
+			"unrelated": ["J", "xS", "xI"]
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Pisces", "Gemini", "Aries"],
+			"unrelated": ["Virgo", "Capricorn", "Taurus", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-161-pt": {
 		"id": "t-161-pt",
 		"question": "Ele(a) é muito indeciso(a)?",
 		"answer": "É muito indeciso(a)",
 		"level": 3,
-		"mbti": ["P", "F"],
-		"zodiac": ["Libra", "Gemini", "Pisces"],
-		"alignment": ["True-Neutral", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["P", "xF", "xI", "xN"],
+			"unrelated": ["J", "xT", "xE", "xS"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Pisces", "Gemini", "Cancer"],
+			"unrelated": ["Capricorn", "Virgo", "Aries", "Leo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-evil"]
+		}
 	},
 	"t-162-pt": {
 		"id": "t-162-pt",
 		"question": "Ele(a) é muito estressado(a)?",
 		"answer": "É muito estressado(a)",
 		"level": 2,
-		"mbti": ["J", "T"],
-		"zodiac": ["Aries", "Virgo", "Capricorn"],
-		"alignment": ["Chaotic-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["J", "xT", "xE", "xS"],
+			"unrelated": ["P", "xF", "xI"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Virgo", "Capricorn", "Scorpio"],
+			"unrelated": ["Pisces", "Libra", "Cancer"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "neutral-evil"],
+			"unrelated": ["neutral-good", "chaotic-good"]
+		}
 	},
 	"t-163-pt": {
 		"id": "t-163-pt",
 		"question": "Ele(a) gosta de filmes do Adam Sandler?",
 		"answer": "Gosta de filmes do Adam Sandler",
 		"level": 2,
-		"mbti": ["E", "S", "P"],
-		"zodiac": ["Sagittarius", "Gemini", "Leo"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xP", "xE", "xS", "xF"],
+			"unrelated": ["xJ", "xI", "xT", "xN"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Sagittarius", "Gemini", "Aries"],
+			"unrelated": ["Capricorn", "Virgo", "Scorpio", "Pisces"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-164-pt": {
 		"id": "t-164-pt",
 		"question": "Ele(a) dança bem?",
 		"answer": "Dança bem",
 		"level": 2,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Libra", "Pisces"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xE", "xS", "xP", "xF"],
+			"unrelated": ["xI", "xN", "xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Pisces", "Gemini"],
+			"unrelated": ["Virgo", "Capricorn"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-165-pt": {
 		"id": "t-165-pt",
 		"question": "Ele(a) é extrovertido(a)?",
 		"answer": "É extrovertido(a)",
 		"level": 2,
-		"mbti": ["E"],
-		"zodiac": ["Leo", "Sagittarius", "Gemini"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["E"],
+			"unrelated": ["I"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Aries", "Sagittarius", "Libra"],
+			"unrelated": ["Scorpio", "Capricorn", "Virgo", "Cancer", "Pisces"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-166-pt": {
 		"id": "t-166-pt",
 		"question": "Ele(a) é carinhoso(a)?",
 		"answer": "É carinhoso(a)",
 		"level": 2,
-		"mbti": ["F"],
-		"zodiac": ["Cancer", "Pisces", "Libra"],
-		"alignment": ["Neutral-Good", "Lawful-Good"]
+		"mbti": {
+			"related": ["F", "xE", "xP", "xS"],
+			"unrelated": ["T", "xI", "xJ", "xS"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Leo", "Libra", "Taurus"],
+			"unrelated": ["Aquarius", "Capricorn", "Virgo", "Aries", "Scorpio"]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good", "chaotic-good"],
+			"unrelated": ["neutral-evil", "lawful-evil", "chaotic-evil"]
+		}
 	},
 	"t-167-pt": {
 		"id": "t-167-pt",
 		"question": "Ele(a) roe unha?",
 		"answer": "Roe unha",
 		"level": 1,
-		"mbti": ["I", "N"],
-		"zodiac": ["Virgo", "Gemini", "Scorpio"],
-		"alignment": ["True-Neutral", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xP", "xJ"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Virgo", "Gemini", "Aries", "Cancer"],
+			"unrelated": ["Leo", "Taurus"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-168-pt": {
 		"id": "t-168-pt",
 		"question": "Ele(a) é safado(a)?",
 		"answer": "É safado(a)",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["E", "P"],
-		"zodiac": ["Scorpio", "Sagittarius", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xP", "xS", "xN"],
+			"unrelated": ["xI", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Leo", "Aries", "Sagittarius", "Gemini"],
+			"unrelated": ["Virgo", "Capricorn", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-evil"],
+			"unrelated": ["lawful-good", "lawful-neutral"]
+		}
 	},
 	"t-169-pt": {
 		"id": "t-169-pt",
 		"question": "Ele(a) acha que a Terra é plana?",
 		"answer": "Acha que a Terra é plana",
 		"level": 3,
-		"mbti": ["xS", "xN"],
-		"zodiac": ["xAquarius", "xTaurus"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["xN", "xP", "xI", "xF"],
+			"unrelated": ["xS", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Sagittarius", "Pisces"],
+			"unrelated": ["Virgo", "Capricorn", "Gemini"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-evil", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "lawful-neutral"]
+		}
 	},
 	"t-170-pt": {
 		"id": "t-170-pt",
 		"question": "Ele(a) vai ao cinema usando Havaianas?",
 		"answer": "Vai ao cinema usando Havaianas",
 		"level": 2,
-		"mbti": ["P", "S"],
-		"zodiac": ["Sagittarius", "Aquarius", "Aries"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["P", "xS", "xE"],
+			"unrelated": ["J", "xI"]
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Aries", "Gemini", "Pisces"],
+			"unrelated": ["Virgo", "Capricorn", "Leo", "Libra"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-171-pt": {
 		"id": "t-171-pt",
 		"question": "Ele(a) odeia horário de verão?",
 		"answer": "Odeia horário de verão",
 		"level": 3,
-		"mbti": ["J", "S"],
-		"zodiac": ["Taurus", "Capricorn", "Virgo"],
-		"alignment": ["Lawful-Neutral", "Lawful-Good"]
+		"mbti": {
+			"related": ["xS", "xJ", "xI", "xT"],
+			"unrelated": ["xN", "xP", "xE"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Taurus", "Virgo", "Cancer"],
+			"unrelated": ["Sagittarius", "Leo", "Aries", "Gemini"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-172-pt": {
 		"id": "t-172-pt",
 		"question": "Ele(a) já testemunhou um crime?",
 		"answer": "Já testemunhou um crime",
 		"level": 3,
-		"mbti": ["xS", "xP"],
-		"zodiac": ["xScorpio", "xAries"],
-		"alignment": ["xNeutral"]
+		"mbti": {
+			"related": ["xS", "xE", "xP", "xT"],
+			"unrelated": ["xI", "xN"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Aries", "Sagittarius"],
+			"unrelated": ["Cancer", "Pisces", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-evil"],
+			"unrelated": ["lawful-good", "neutral-good"]
+		}
 	},
 	"t-173-pt": {
 		"id": "t-173-pt",
 		"question": "Ele(a) já viu alguém morrer na frente dele(a)?",
 		"answer": "Já viu alguém morrer na frente dele(a)",
 		"level": 3,
-		"mbti": ["xS"],
-		"zodiac": ["xScorpio", "xCapricorn"],
-		"alignment": ["xNeutral"]
+		"mbti": {
+			"related": ["xS", "xE", "xT", "xP"],
+			"unrelated": ["xI", "xN"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Aries", "Sagittarius", "Capricorn"],
+			"unrelated": ["Cancer", "Pisces", "Libra"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "neutral-evil", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good"]
+		}
 	},
 	"t-174-pt": {
 		"id": "t-174-pt",
 		"question": "Ele(a) é herdeiro(a)?",
 		"answer": "É herdeiro(a)",
 		"level": 2,
-		"mbti": ["xS", "xJ"],
-		"zodiac": ["Leo", "Taurus", "Libra"],
-		"alignment": ["Lawful-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xJ", "xS", "xE", "xT"],
+			"unrelated": ["xP"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Leo", "Capricorn", "Libra"],
+			"unrelated": ["Sagittarius", "Aquarius", "Aries"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-175-pt": {
 		"id": "t-175-pt",
 		"question": "Ele(a) é modelo(a) do OnlyFans?",
 		"answer": "É modelo(a) do OnlyFans",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["E", "P", "S"],
-		"zodiac": ["Scorpio", "Leo", "Libra"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xP", "xS", "xF", "xN"],
+			"unrelated": ["xI", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Scorpio", "Libra", "Gemini", "Aries"],
+			"unrelated": ["Virgo", "Capricorn", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-evil"],
+			"unrelated": ["lawful-good", "lawful-neutral", "neutral-good"]
+		}
 	},
 	"t-176-pt": {
 		"id": "t-176-pt",
 		"question": "Ele(a) já quase morreu num acidente horrível?",
 		"answer": "Já quase morreu num acidente horrível",
 		"level": 4,
-		"mbti": ["P", "S"],
-		"zodiac": ["Aries", "Sagittarius", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["xP", "xE", "xS", "xT"],
+			"unrelated": ["xJ", "xI"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Sagittarius", "Scorpio", "Leo"],
+			"unrelated": ["Virgo", "Capricorn", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "lawful-neutral"]
+		}
 	},
 	"t-177-pt": {
 		"id": "t-177-pt",
 		"question": "Ele(a) faz(fez) curso de comunicação porque se acha muito comunicativo(a)?",
 		"answer": "Faz(fez) curso de comunicação porque se acha muito comunicativo(a)",
 		"level": 2,
-		"mbti": ["E", "N"],
-		"zodiac": ["Gemini", "Leo", "Libra"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["E", "xF", "xP", "xN"],
+			"unrelated": ["I", "xT", "xJ", "xS"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Libra", "Sagittarius"],
+			"unrelated": ["Virgo", "Capricorn", "Scorpio", "Cancer"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-178-pt": {
 		"id": "t-178-pt",
 		"question": "Ele(a) tem medo de cobra?",
 		"answer": "Tem medo de cobra",
 		"level": 4,
-		"mbti": ["S", "F"],
-		"zodiac": ["Cancer", "Virgo", "Pisces"],
-		"alignment": ["True-Neutral", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xS", "xI", "xJ"],
+			"unrelated": ["xT", "xP"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Libra", "Virgo", "Taurus"],
+			"unrelated": ["Aries", "Sagittarius", "Leo", "Scorpio", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-179-pt": {
 		"id": "t-179-pt",
 		"question": "Ele(a) já teve um Orkut com depoimentos falsos que ele(a) mesmo(a) escreveu?",
 		"answer": "Já teve um Orkut com depoimentos falsos que ele(a) mesmo(a) escreveu",
 		"level": 3,
-		"mbti": ["N", "I", "F"],
-		"zodiac": ["Pisces", "Cancer", "Leo"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xE", "xN", "xP", "xF"],
+			"unrelated": ["xI", "xS", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Libra", "Pisces", "Cancer"],
+			"unrelated": ["Capricorn", "Virgo", "Scorpio", "Aries"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-evil"],
+			"unrelated": ["lawful-good", "lawful-neutral", "neutral-good"]
+		}
 	},
 	"t-180-pt": {
 		"id": "t-180-pt",
 		"question": "Ele(a) se sente desconfortável na presença de palhaços?",
 		"answer": "Se sente desconfortável na presença de palhaços",
 		"level": 2,
-		"mbti": ["N", "I"],
-		"zodiac": ["Cancer", "Scorpio", "Virgo"],
-		"alignment": ["True-Neutral", "Neutral-Good"]
+		"mbti": {
+			"related": ["xI", "xS", "xF", "xN", "xJ"],
+			"unrelated": ["xE", "xP"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Virgo", "Scorpio", "Capricorn"],
+			"unrelated": ["Aries", "Sagittarius", "Leo", "Gemini", "Libra"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral"],
+			"unrelated": ["chaotic-neutral"]
+		}
 	},
 	"t-181-pt": {
 		"id": "t-181-pt",
 		"question": "Ele(a) faz o L com mão?",
 		"answer": "Faz o L com mão",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Aquarius", "Pisces", "Libra"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xN", "xE", "xP"],
+			"unrelated": ["xT", "xS", "xJ", "xI"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Pisces", "Cancer", "Libra", "Sagittarius"],
+			"unrelated": ["Capricorn", "Virgo", "Taurus", "Aries", "Leo"]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"chaotic-good",
+				"lawful-good",
+				"chaotic-neutral"
+			],
+			"unrelated": [
+				"lawful-evil",
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-182-pt": {
 		"id": "t-182-pt",
 		"question": "Ele(a) é bolsominion?",
 		"answer": "É bolsominion",
 		"level": 2,
-		"mbti": ["S", "T", "J"],
-		"zodiac": ["Capricorn", "Taurus", "Aries"],
-		"alignment": ["Lawful-Evil", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xS", "xJ", "xT", "xE"],
+			"unrelated": ["xF", "xN", "xP", "xI"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Virgo", "Taurus", "Aries", "Leo", "Scorpio"],
+			"unrelated": ["Aquarius", "Pisces", "Cancer", "Libra", "Sagittarius"]
+		},
+		"alignment": {
+			"related": [
+				"lawful-evil",
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-neutral"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-183-pt": {
 		"id": "t-183-pt",
 		"question": "Ele(a) biscoita no Instagram?",
 		"answer": "Biscoita no Instagram",
 		"level": 2,
-		"mbti": ["E", "S", "F"],
-		"zodiac": ["Leo", "Libra", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xE", "xF", "xP", "xN", "xS"],
+			"unrelated": ["xI", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Gemini", "Aries", "Sagittarius", "Scorpio"],
+			"unrelated": ["Virgo", "Capricorn", "Cancer", "Pisces", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-evil"],
+			"unrelated": ["lawful-good", "lawful-neutral", "neutral-good"]
+		}
 	},
 	"t-184-pt": {
 		"id": "t-184-pt",
 		"question": "Ele(a) é muito vaidoso(a)?",
 		"answer": "É muito vaidoso(a)",
 		"level": 1,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Libra", "Taurus"],
-		"alignment": ["Neutral-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xF", "xS", "xJ", "xT"],
+			"unrelated": ["xI", "xP", "xN"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Taurus", "Aries", "Gemini", "Scorpio"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Cancer",
+				"Pisces",
+				"Aquarius",
+				"Sagittarius"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "neutral-evil", "lawful-neutral"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-185-pt": {
 		"id": "t-185-pt",
 		"question": "Ele(a) sempre pensa que x.com é site pornô desde que o Twitter virou X?",
 		"answer": "Sempre pensa que x.com é site pornô desde que o Twitter virou X",
 		"level": 2,
-		"mbti": ["N", "P"],
-		"zodiac": ["Gemini", "Sagittarius", "Aquarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xP", "xN", "xE", "xT", "xS"],
+			"unrelated": ["xJ", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Gemini",
+				"Sagittarius",
+				"Aquarius",
+				"Aries",
+				"Scorpio",
+				"Leo"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Cancer", "Pisces", "Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "chaotic-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "lawful-neutral"]
+		}
 	},
 	"t-186-pt": {
 		"id": "t-186-pt",
 		"question": "Ele(a) sabe o que é um Eletroencefalografista?",
 		"answer": "Sabe o que é um Eletroencefalografista",
 		"level": 3,
-		"mbti": ["N", "T"],
-		"zodiac": ["Virgo", "Aquarius", "Gemini"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xN", "xT", "xI", "xJ", "xS"],
+			"unrelated": ["xF", "xE", "xP"]
+		},
+		"zodiac": {
+			"related": [
+				"Aquarius",
+				"Virgo",
+				"Capricorn",
+				"Gemini",
+				"Scorpio",
+				"Aries"
+			],
+			"unrelated": ["Pisces", "Cancer", "Libra", "Taurus", "Leo", "Sagittarius"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "lawful-good"],
+			"unrelated": ["chaotic-neutral", "chaotic-evil"]
+		}
 	},
 	"t-187-pt": {
 		"id": "t-187-pt",
 		"question": "Ele(a) ainda usa o Netflix do ex mesmo tendo terminado há 2 anos?",
 		"answer": "Ainda usa o Netflix do ex mesmo tendo terminado há 2 anos",
 		"level": 2,
-		"mbti": ["P", "S"],
-		"zodiac": ["Taurus", "Scorpio", "Cancer"],
-		"alignment": ["Chaotic-Neutral", "Neutral-Evil"]
+		"mbti": {
+			"related": ["xP", "xS", "xT", "xE", "xF"],
+			"unrelated": ["xJ", "xI"]
+		},
+		"zodiac": {
+			"related": [
+				"Taurus",
+				"Cancer",
+				"Pisces",
+				"Gemini",
+				"Sagittarius",
+				"Libra"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Scorpio", "Aries", "Leo", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "neutral-evil"],
+			"unrelated": ["lawful-good", "lawful-neutral", "neutral-good"]
+		}
 	},
 	"t-188-pt": {
 		"id": "t-188-pt",
 		"question": "Ele(a) compartilha memes?",
 		"answer": "Compartilha memes",
 		"level": 1,
-		"mbti": ["E", "P"],
-		"zodiac": ["Gemini", "Sagittarius", "Aquarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xP", "xN", "xF", "xS"],
+			"unrelated": ["xI", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Sagittarius", "Leo", "Aries", "Libra", "Aquarius"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Cancer",
+				"Pisces",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral", "lawful-evil"]
+		}
 	},
 	"t-189-pt": {
 		"id": "t-189-pt",
 		"question": "Ele(a) tem um(a) amante?",
 		"answer": "Tem um(a) amante",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["P", "E"],
-		"zodiac": ["Gemini", "Scorpio", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xP", "xS", "xT", "xN"],
+			"unrelated": ["xI", "xJ", "xF"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Gemini", "Sagittarius", "Leo", "Aries", "Libra"],
+			"unrelated": [
+				"Cancer",
+				"Pisces",
+				"Virgo",
+				"Capricorn",
+				"Taurus",
+				"Aquarius"
+			]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "chaotic-neutral"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-190-pt": {
 		"id": "t-190-pt",
 		"question": "Ele(a) é sedentário?",
 		"answer": "É sedentário",
 		"level": 2,
-		"mbti": ["N", "I", "P"],
-		"zodiac": ["Taurus", "Pisces", "Cancer"],
-		"alignment": ["True-Neutral", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xP", "xF", "xS"],
+			"unrelated": ["xE", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Taurus", "Pisces", "Cancer", "Libra", "Capricorn", "Virgo"],
+			"unrelated": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Gemini",
+				"Aquarius",
+				"Scorpio"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "lawful-neutral"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-191-pt": {
 		"id": "t-191-pt",
 		"question": "Ele(a) vai na igreja?",
 		"answer": "Vai na igreja",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["S", "J", "F"],
-		"zodiac": ["Cancer", "Capricorn", "Virgo"],
-		"alignment": ["Lawful-Good", "Lawful-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xS", "xJ", "xF", "xE", "xI"],
+			"unrelated": ["xN", "xP", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Pisces", "Capricorn", "Virgo", "Leo"],
+			"unrelated": [
+				"Aquarius",
+				"Sagittarius",
+				"Gemini",
+				"Aries",
+				"Scorpio",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful-good",
+				"neutral-good",
+				"lawful-neutral",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-192-pt": {
 		"id": "t-192-pt",
 		"question": "Ele(a) já escondeu o celular na cueca/calcinha/sutiã para não ser assaltado?",
 		"answer": "Já escondeu o celular na cueca/calcinha/sutiã para não ser assaltado",
 		"level": 3,
-		"mbti": ["S", "P"],
-		"zodiac": ["Gemini", "Virgo", "Scorpio"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xP", "xI", "xT", "xN"],
+			"unrelated": ["xJ", "xE", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Cancer",
+				"Pisces",
+				"Virgo",
+				"Scorpio",
+				"Capricorn",
+				"Taurus"
+			],
+			"unrelated": [
+				"Leo",
+				"Aries",
+				"Sagittarius",
+				"Gemini",
+				"Aquarius",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "lawful-neutral"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-193-pt": {
 		"id": "t-193-pt",
 		"question": "Ele(a) é assexuado(a)?",
 		"answer": "É assexuado(a)",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["I", "N"],
-		"zodiac": ["Virgo", "Aquarius", "Capricorn"],
-		"alignment": ["True-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xI", "xN", "xT", "xJ", "xS"],
+			"unrelated": ["xE", "xP", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Virgo",
+				"Capricorn",
+				"Aquarius",
+				"Pisces",
+				"Cancer",
+				"Taurus"
+			],
+			"unrelated": ["Scorpio", "Leo", "Aries", "Sagittarius", "Gemini", "Libra"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-194-pt": {
 		"id": "t-194-pt",
 		"question": "Ele(a) é um(a) sugar daddy/mama?",
 		"answer": "É um(a) sugar daddy/mama",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["E", "T", "J"],
-		"zodiac": ["Capricorn", "Leo", "Taurus"],
-		"alignment": ["Lawful-Neutral", "Lawful-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xT", "xJ", "xS", "xN"],
+			"unrelated": ["xI", "xP", "xF"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Taurus", "Leo", "Scorpio", "Libra", "Aries"],
+			"unrelated": [
+				"Pisces",
+				"Cancer",
+				"Aquarius",
+				"Gemini",
+				"Sagittarius",
+				"Virgo"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-evil", "lawful-evil", "neutral-neutral"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-195-pt": {
 		"id": "t-195-pt",
 		"question": "Ele(a) fez algo tão horrível no passado que ninguém tem nem coragem de repetir?",
 		"answer": "Fez algo tão horrível no passado que ninguém tem nem coragem de repetir",
 		"level": 4,
-		"mbti": ["xT", "xP"],
-		"zodiac": ["Scorpio", "Capricorn", "Gemini"],
-		"alignment": ["Chaotic-Evil", "Neutral-Evil"]
+		"mbti": {
+			"related": ["xP", "xT", "xE", "xS", "xN"],
+			"unrelated": ["xJ", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Aries",
+				"Sagittarius",
+				"Leo",
+				"Gemini",
+				"Aquarius"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Cancer", "Pisces", "Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "chaotic-neutral"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-196-pt": {
 		"id": "t-196-pt",
 		"question": "Ele(a) gosta de ver videos de cassetadas?",
 		"answer": "Gosta de ver videos de cassetadas",
 		"level": 2,
-		"mbti": ["E", "S"],
-		"zodiac": ["Sagittarius", "Aries", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xE", "xS", "xP", "xT", "xF"],
+			"unrelated": ["xI", "xJ", "xN"]
+		},
+		"zodiac": {
+			"related": ["Aries", "Sagittarius", "Leo", "Gemini", "Taurus", "Scorpio"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Cancer",
+				"Pisces",
+				"Aquarius",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-evil"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-197-pt": {
 		"id": "t-197-pt",
 		"question": "Ele(a) sofre com aftas frequentemente?",
 		"answer": "Sofre com aftas frequentemente",
 		"level": 4,
-		"mbti": ["I", "J"],
-		"zodiac": ["Virgo", "Cancer"],
-		"alignment": ["Neutral-Good"]
+		"mbti": {
+			"related": ["xI", "xS", "xF", "xN", "xP"],
+			"unrelated": ["xE", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Cancer",
+				"Pisces",
+				"Virgo",
+				"Scorpio",
+				"Capricorn",
+				"Taurus"
+			],
+			"unrelated": [
+				"Leo",
+				"Aries",
+				"Sagittarius",
+				"Gemini",
+				"Aquarius",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-198-pt": {
 		"id": "t-198-pt",
 		"question": "Ele(a) gosta de jogar Imagem & Ação?",
 		"answer": "Gosta de jogar Imagem & Ação",
 		"level": 2,
-		"mbti": ["E", "N", "P"],
-		"zodiac": ["Gemini", "Leo", "Sagittarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xP", "xN", "xF", "xS"],
+			"unrelated": ["xI", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Leo", "Aries", "Sagittarius", "Libra", "Aquarius"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Cancer",
+				"Pisces",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral", "lawful-evil"]
+		}
 	},
 	"t-199-pt": {
 		"id": "t-199-pt",
 		"question": "Ele(a) já fez um teste de DNA para confirmar a paternidade?",
 		"answer": "Já fez um teste de DNA para confirmar a paternidade",
 		"level": 3,
-		"mbti": ["P", "S"],
-		"zodiac": ["Sagittarius", "Gemini", "Aries"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xP", "xT", "xE", "xS", "xN"],
+			"unrelated": ["xJ", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Gemini", "Sagittarius", "Aries", "Leo", "Libra"],
+			"unrelated": [
+				"Cancer",
+				"Pisces",
+				"Virgo",
+				"Capricorn",
+				"Taurus",
+				"Aquarius"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-evil"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-200-pt": {
 		"id": "t-200-pt",
 		"question": "Ele(a) tem o potencial para ser um(a) influenciador(a) digital?",
 		"answer": "Tem o potencial para ser um(a) influenciador(a) digital",
 		"level": 1,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Libra", "Gemini"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xF", "xP", "xN", "xS"],
+			"unrelated": ["xI", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Gemini", "Aries", "Sagittarius", "Pisces"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Cancer",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral", "lawful-evil"]
+		}
 	},
 	"t-201-pt": {
 		"id": "t-201-pt",
 		"question": "Ele(a) desmaia ao ver sangue?",
 		"answer": "Desmaia ao ver sangue",
 		"level": 2,
-		"mbti": ["F", "I"],
-		"zodiac": ["Pisces", "Cancer", "Libra"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xF", "xI", "xS", "xN", "xP"],
+			"unrelated": ["xT", "xE", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Libra", "Virgo", "Taurus", "Gemini"],
+			"unrelated": [
+				"Scorpio",
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Aquarius",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-202-pt": {
 		"id": "t-202-pt",
 		"question": "Ele(a) ainda guarda seus CDs e DVDs mesmo sem ter onde tocar?",
 		"answer": "Ainda guarda seus CDs e DVDs mesmo sem ter onde tocar",
 		"level": 2,
-		"mbti": ["S", "J", "F"],
-		"zodiac": ["Cancer", "Taurus", "Virgo"],
-		"alignment": ["Lawful-Neutral", "Neutral-Good"]
+		"mbti": {
+			"related": ["xS", "xJ", "xF", "xI", "xN"],
+			"unrelated": ["xP", "xE", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Pisces", "Capricorn", "Virgo", "Libra"],
+			"unrelated": [
+				"Aquarius",
+				"Sagittarius",
+				"Gemini",
+				"Aries",
+				"Leo",
+				"Scorpio"
+			]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "lawful-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-203-pt": {
 		"id": "t-203-pt",
 		"question": "Ele(a) já fingiu entender uma piada que não entendeu só para não parecer desinformado(a)?",
 		"answer": "Já fingiu entender uma piada que não entendeu só para não parecer desinformado(a)",
 		"level": 3,
-		"mbti": ["F", "E"],
-		"zodiac": ["Libra", "Gemini", "Pisces"],
-		"alignment": ["Chaotic-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xE", "xF", "xJ", "xS", "xN"],
+			"unrelated": ["xI", "xP", "xT"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Leo", "Gemini", "Cancer", "Pisces", "Virgo"],
+			"unrelated": [
+				"Aries",
+				"Sagittarius",
+				"Scorpio",
+				"Aquarius",
+				"Capricorn",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-204-pt": {
 		"id": "t-204-pt",
 		"question": "Ele(a) é muito prestativo(a)?",
 		"answer": "É muito prestativo(a)",
 		"level": 2,
-		"mbti": ["F", "J", "E"],
-		"zodiac": ["Virgo", "Cancer", "Libra"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xJ", "xS", "xE", "xI"],
+			"unrelated": ["xT", "xP", "xN"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Libra", "Virgo", "Taurus", "Capricorn"],
+			"unrelated": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Scorpio",
+				"Aquarius",
+				"Gemini"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			],
+			"unrelated": [
+				"chaotic-evil",
+				"neutral-evil",
+				"lawful-evil",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-205-pt": {
 		"id": "t-205-pt",
 		"question": "Ele(a) já cagou na calça quando estava quase chegando em casa mas não conseguiu segurar?",
 		"answer": "Já cagou na calça quando estava quase chegando em casa mas não conseguiu segurar",
 		"level": 3,
-		"mbti": ["P", "xN"],
-		"zodiac": ["Sagittarius", "Aquarius", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xP", "xS", "xI", "xE", "xF"],
+			"unrelated": ["xJ", "xT", "xN"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Cancer",
+				"Gemini",
+				"Sagittarius",
+				"Aries",
+				"Taurus"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Scorpio", "Leo", "Aquarius", "Libra"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-206-pt": {
 		"id": "t-206-pt",
 		"question": "Ele(a) já tentou entrar na casa errada por estar muito bêbado(a)?",
 		"answer": "Já tentou entrar na casa errada por estar muito bêbado(a)",
 		"level": 2,
-		"mbti": ["P", "E"],
-		"zodiac": ["Sagittarius", "Pisces", "Aries"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xE", "xP", "xS", "xF", "xN"],
+			"unrelated": ["xI", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Gemini", "Pisces", "Aries", "Leo", "Scorpio"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Taurus",
+				"Cancer",
+				"Aquarius",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-evil"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-207-pt": {
 		"id": "t-207-pt",
 		"question": "Ele(a) já caiu no meio da rua e fingiu que estava dançando?",
 		"answer": "Já caiu no meio da rua e fingiu que estava dançando",
 		"level": 3,
-		"mbti": ["E", "P"],
-		"zodiac": ["Leo", "Gemini", "Sagittarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xP", "xN", "xF", "xS"],
+			"unrelated": ["xI", "xJ", "xT"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Sagittarius", "Aries", "Libra", "Pisces"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Cancer",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "chaotic-good"],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-208-pt": {
 		"id": "t-208-pt",
 		"question": "Ele(a) dorme assistindo série para não se sentir sozinho(a)?",
 		"answer": "Dorme assistindo série para não se sentir sozinho(a)",
 		"level": 2,
-		"mbti": ["I", "N", "F"],
-		"zodiac": ["Cancer", "Pisces", "Libra"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xF", "xN", "xS", "xP"],
+			"unrelated": ["xE", "xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Libra", "Taurus", "Virgo", "Gemini"],
+			"unrelated": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Scorpio",
+				"Aquarius",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "neutral-good", "lawful-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-209-pt": {
 		"id": "t-209-pt",
 		"question": "Ele(a) usa alarmes múltiplos para acordar, mas ignora todos?",
 		"answer": "Usa alarmes múltiplos para acordar, mas ignora todos",
 		"level": 3,
-		"mbti": ["P", "N"],
-		"zodiac": ["Pisces", "Taurus", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xP", "xS", "xI", "xF", "xN"],
+			"unrelated": ["xJ", "xT", "xE"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Taurus",
+				"Cancer",
+				"Gemini",
+				"Sagittarius",
+				"Libra"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Aries", "Leo", "Scorpio", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-210-pt": {
 		"id": "t-210-pt",
 		"question": "Ele(a) acha que virar as almofadas do sofá renova o ambiente?",
 		"answer": "Acha que virar as almofadas do sofá renova o ambiente",
 		"level": 2,
-		"mbti": ["S", "F"],
-		"zodiac": ["Libra", "Taurus", "Cancer"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xJ", "xF", "xE", "xP"],
+			"unrelated": ["xN", "xT", "xI"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Cancer", "Taurus", "Virgo", "Pisces", "Gemini"],
+			"unrelated": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Scorpio",
+				"Aquarius",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-211-pt": {
 		"id": "t-211-pt",
 		"question": "Ele(a) gosta de Taylor Swift?",
 		"answer": "Gosta de Taylor Swift",
 		"level": 2,
-		"mbti": ["F", "S", "J"],
-		"zodiac": ["Cancer", "Libra", "Pisces"],
-		"alignment": ["Neutral-Good", "Lawful-Good"]
+		"mbti": {
+			"related": ["xF", "xJ", "xE", "xN", "xS"],
+			"unrelated": ["xT", "xP", "xI"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Libra", "Pisces", "Leo", "Gemini", "Sagittarius"],
+			"unrelated": [
+				"Scorpio",
+				"Capricorn",
+				"Virgo",
+				"Aries",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"lawful-good",
+				"chaotic-good",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"lawful-evil",
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-212-pt": {
 		"id": "t-212-pt",
 		"question": "Ele(a) acredita em amor à primeira vista?",
 		"answer": "Acredita em amor à primeira vista",
 		"level": 3,
-		"mbti": ["F", "N"],
-		"zodiac": ["Pisces", "Cancer", "Libra"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xN", "xP", "xE", "xI"],
+			"unrelated": ["xT", "xS", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Cancer", "Libra", "Leo", "Sagittarius", "Gemini"],
+			"unrelated": [
+				"Capricorn",
+				"Virgo",
+				"Taurus",
+				"Scorpio",
+				"Aquarius",
+				"Aries"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"chaotic-good",
+				"lawful-good",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-evil",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-213-pt": {
 		"id": "t-213-pt",
 		"question": "Ele(a) já ficou com alguém casado sabendo que a pessoa era casada?",
 		"answer": "Já ficou com alguém casado sabendo que a pessoa era casada",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["P", "E"],
-		"zodiac": ["Scorpio", "Gemini", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xE", "xP", "xS", "xT", "xN"],
+			"unrelated": ["xI", "xJ", "xF"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Gemini", "Sagittarius", "Aries", "Leo", "Libra"],
+			"unrelated": [
+				"Cancer",
+				"Pisces",
+				"Virgo",
+				"Capricorn",
+				"Taurus",
+				"Aquarius"
+			]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "chaotic-neutral"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-214-pt": {
 		"id": "t-214-pt",
 		"question": "Ele(a) já espiou alguém trocando de roupa?",
 		"answer": "Já espiou alguém trocando de roupa",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["P", "S"],
-		"zodiac": ["Scorpio", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xP", "xS", "xT", "xE", "xN"],
+			"unrelated": ["xJ", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": ["Scorpio", "Gemini", "Sagittarius", "Aries", "Leo", "Libra"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Cancer",
+				"Pisces",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "chaotic-neutral"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-215-pt": {
 		"id": "t-215-pt",
 		"question": "Ele(a) pegaria um parente de primeiro grau?",
 		"answer": "Pegaria um parente de primeiro grau",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["xP", "xS"],
-		"zodiac": ["xScorpio", "xGemini"],
-		"alignment": ["Chaotic-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xP", "xS", "xT", "xE", "xN"],
+			"unrelated": ["xJ", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Aries",
+				"Sagittarius",
+				"Gemini",
+				"Leo",
+				"Aquarius"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Cancer", "Pisces", "Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "chaotic-neutral"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-216-pt": {
 		"id": "t-216-pt",
 		"question": "Ele(a) tem piercing no mamilo?",
 		"answer": "Tem piercing no mamilo",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["P", "S"],
-		"zodiac": ["Scorpio", "Aquarius", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xP", "xS", "xE", "xN", "xT"],
+			"unrelated": ["xJ", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Gemini",
+				"Aquarius"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Cancer", "Pisces", "Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-evil"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-217-pt": {
 		"id": "t-217-pt",
 		"question": "Ele(a) bateria em alguém do sexo oposto?",
 		"answer": "Bateria em alguém do sexo oposto",
-		"nsfw": true,
 		"level": 2,
-		"mbti": ["T", "S", "E"],
-		"zodiac": ["Aries", "Scorpio", "Leo"],
-		"alignment": ["Chaotic-Evil", "Neutral-Evil"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xT", "xS", "xE", "xP", "xJ"],
+			"unrelated": ["xF", "xN", "xI"]
+		},
+		"zodiac": {
+			"related": [
+				"Aries",
+				"Scorpio",
+				"Leo",
+				"Sagittarius",
+				"Capricorn",
+				"Taurus"
+			],
+			"unrelated": ["Pisces", "Libra", "Cancer", "Aquarius", "Gemini", "Virgo"]
+		},
+		"alignment": {
+			"related": ["chaotic-evil", "neutral-evil", "lawful-evil"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral",
+				"neutral-neutral",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-218-pt": {
 		"id": "t-218-pt",
 		"question": "Ele(a) usa a calculadora para fazer contas simples de adição?",
 		"answer": "Usa a calculadora para fazer contas simples de adição",
 		"level": 2,
-		"mbti": ["T", "S", "J"],
-		"zodiac": ["Virgo", "Capricorn", "Taurus"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xP", "xS", "xF", "xI", "xN"],
+			"unrelated": ["xT", "xJ", "xE"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Cancer",
+				"Taurus",
+				"Libra",
+				"Gemini",
+				"Sagittarius"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Aries", "Leo", "Scorpio", "Aquarius"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-219-pt": {
 		"id": "t-219-pt",
 		"question": "Ele(a) tem decoração em casa do tipo \"Sorrir, Viver, Amar\"?",
 		"answer": "Tem decoração em casa do tipo \"Sorrir, Viver, Amar\"",
 		"level": 2,
-		"mbti": ["F", "S", "J"],
-		"zodiac": ["Libra", "Cancer", "Leo"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xJ", "xS", "xE", "xN"],
+			"unrelated": ["xT", "xP", "xI"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Cancer", "Leo", "Taurus", "Pisces", "Gemini"],
+			"unrelated": [
+				"Scorpio",
+				"Capricorn",
+				"Virgo",
+				"Aries",
+				"Aquarius",
+				"Sagittarius"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-good", "lawful-good", "neutral-neutral"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"lawful-evil"
+			]
+		}
 	},
 	"t-220-pt": {
 		"id": "t-220-pt",
 		"question": "Ele(a) tem depressão?",
 		"answer": "Tem depressão",
 		"level": 3,
-		"mbti": ["I", "N", "F"],
-		"zodiac": ["Pisces", "Cancer", "Capricorn"],
-		"alignment": ["True-Neutral", "Neutral-Good"]
+		"mbti": {
+			"related": ["xI", "xF", "xN", "xS", "xP", "xJ"],
+			"unrelated": ["xE", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Scorpio",
+				"Cancer",
+				"Virgo",
+				"Capricorn",
+				"Aquarius"
+			],
+			"unrelated": ["Aries", "Leo", "Sagittarius", "Gemini", "Libra", "Taurus"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "neutral-good", "lawful-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-221-pt": {
 		"id": "t-221-pt",
 		"question": "Ele(a) faz terapia?",
 		"answer": "Faz terapia",
 		"level": 2,
-		"mbti": ["F", "N"],
-		"zodiac": ["Virgo", "Pisces", "Gemini"],
-		"alignment": ["Neutral-Good", "Lawful-Good"]
+		"mbti": {
+			"related": ["xF", "xN", "xI", "xJ", "xE", "xP"],
+			"unrelated": ["xT", "xS"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Scorpio", "Aquarius", "Cancer", "Libra", "Virgo"],
+			"unrelated": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Taurus",
+				"Capricorn",
+				"Gemini"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"lawful-good",
+				"chaotic-good",
+				"neutral-neutral"
+			],
+			"unrelated": ["neutral-evil", "chaotic-evil", "lawful-evil"]
+		}
 	},
 	"t-222-pt": {
 		"id": "t-222-pt",
 		"question": "Ele(a) dá conselhos do tipo \"É só você ficar feliz\" quando alguém diz que está triste?",
 		"answer": "Dá conselhos do tipo \"É só você ficar feliz\" quando alguém diz que está triste",
 		"level": 2,
-		"mbti": ["E", "S", "T"],
-		"zodiac": ["Sagittarius", "Leo", "Aries"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xT", "xS", "xE", "xJ", "xP"],
+			"unrelated": ["xF", "xN", "xI"]
+		},
+		"zodiac": {
+			"related": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Capricorn",
+				"Taurus",
+				"Gemini"
+			],
+			"unrelated": ["Pisces", "Cancer", "Libra", "Scorpio", "Aquarius", "Virgo"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-good"],
+			"unrelated": [
+				"lawful-good",
+				"chaotic-good",
+				"neutral-evil",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-223-pt": {
 		"id": "t-223-pt",
 		"question": "Ele(a) é muito dramático(a)?",
 		"answer": "É muito dramático(a)",
 		"level": 2,
-		"mbti": ["F", "E"],
-		"zodiac": ["Leo", "Cancer", "Pisces"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xF", "xE", "xN", "xP", "xS"],
+			"unrelated": ["xT", "xI", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Cancer", "Pisces", "Scorpio", "Aries", "Libra"],
+			"unrelated": [
+				"Capricorn",
+				"Virgo",
+				"Aquarius",
+				"Taurus",
+				"Gemini",
+				"Sagittarius"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-224-pt": {
 		"id": "t-224-pt",
 		"question": "Ele(a) é insensível?",
 		"answer": "É insensível",
 		"level": 2,
-		"mbti": ["T", "J"],
-		"zodiac": ["Capricorn", "Aquarius", "Virgo"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xT", "xS", "xJ", "xI", "xE"],
+			"unrelated": ["xF", "xN", "xP"]
+		},
+		"zodiac": {
+			"related": [
+				"Capricorn",
+				"Virgo",
+				"Aquarius",
+				"Scorpio",
+				"Aries",
+				"Taurus"
+			],
+			"unrelated": ["Pisces", "Cancer", "Libra", "Leo", "Sagittarius", "Gemini"]
+		},
+		"alignment": {
+			"related": [
+				"neutral-evil",
+				"lawful-evil",
+				"chaotic-evil",
+				"lawful-neutral",
+				"neutral-neutral"
+			],
+			"unrelated": ["neutral-good", "lawful-good", "chaotic-good"]
+		}
 	},
 	"t-225-pt": {
 		"id": "t-225-pt",
 		"question": "Ele(a) já perguntou a seu(sua) parceiro(a): se eu fosse uma lesma você me amaria?",
 		"answer": "Já perguntou a seu(sua) parceiro(a): se eu fosse uma lesma você me amaria",
 		"level": 2,
-		"mbti": ["F", "N", "P"],
-		"zodiac": ["Pisces", "Cancer", "Libra"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xN", "xP", "xI", "xE"],
+			"unrelated": ["xT", "xS", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Libra", "Leo", "Gemini", "Sagittarius"],
+			"unrelated": [
+				"Capricorn",
+				"Virgo",
+				"Taurus",
+				"Scorpio",
+				"Aquarius",
+				"Aries"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"chaotic-good",
+				"lawful-good",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-evil",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-226-pt": {
 		"id": "t-226-pt",
 		"question": "Ele(a) já fez sexo com alguém do mesmo sexo?",
 		"answer": "Já fez sexo com alguém do mesmo sexo",
-		"nsfw": true,
 		"level": 1,
-		"mbti": ["P", "N"],
-		"zodiac": ["Aquarius", "Gemini", "Sagittarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xP", "xE", "xN", "xF", "xS"],
+			"unrelated": ["xJ", "xI", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Aquarius",
+				"Pisces",
+				"Libra",
+				"Gemini",
+				"Scorpio",
+				"Sagittarius"
+			],
+			"unrelated": ["Capricorn", "Virgo", "Taurus", "Aries", "Leo", "Cancer"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-good"],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-227-pt": {
 		"id": "t-227-pt",
 		"question": "Ele(a) tem uma coleção de funkos?",
 		"answer": "Tem uma coleção de funkos",
 		"level": 1,
-		"mbti": ["N", "I", "P"],
-		"zodiac": ["Aquarius", "Gemini", "Virgo"],
-		"alignment": ["Neutral-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xI", "xS", "xJ", "xN", "xF", "xP"],
+			"unrelated": ["xE", "xT"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Virgo", "Capricorn", "Pisces", "Gemini"],
+			"unrelated": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Scorpio",
+				"Aquarius",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "lawful-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-228-pt": {
 		"id": "t-228-pt",
 		"question": "Ele(a) faz detox de redes sociais de tempos em tempos?",
 		"answer": "Faz detox de redes sociais de tempos em tempos",
 		"level": 2,
-		"mbti": ["I", "N", "J"],
-		"zodiac": ["Virgo", "Capricorn", "Scorpio"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xF", "xJ", "xS", "xP"],
+			"unrelated": ["xE", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Virgo",
+				"Aquarius",
+				"Scorpio",
+				"Capricorn",
+				"Cancer"
+			],
+			"unrelated": ["Leo", "Aries", "Sagittarius", "Gemini", "Libra", "Taurus"]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"lawful-good",
+				"neutral-neutral",
+				"lawful-neutral"
+			],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-229-pt": {
 		"id": "t-229-pt",
 		"question": "Ele(a) tem TDAH?",
 		"answer": "Tem TDAH",
 		"level": 3,
-		"mbti": ["P", "N", "E"],
-		"zodiac": ["Gemini", "Sagittarius", "Aquarius"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xP", "xN", "xE", "xF", "xS"],
+			"unrelated": ["xJ", "xI", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Gemini",
+				"Sagittarius",
+				"Pisces",
+				"Aries",
+				"Aquarius",
+				"Leo"
+			],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Taurus",
+				"Cancer",
+				"Scorpio",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-good"],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-230-pt": {
 		"id": "t-230-pt",
 		"question": "Ele(a) tem o QI bem elevado?",
 		"answer": "Tem o QI bem elevado",
 		"level": 3,
-		"mbti": ["T", "N", "I"],
-		"zodiac": ["Aquarius", "Virgo", "Scorpio"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xN", "xT", "xI", "xJ", "xP", "xS"],
+			"unrelated": ["xF", "xE"]
+		},
+		"zodiac": {
+			"related": [
+				"Aquarius",
+				"Virgo",
+				"Capricorn",
+				"Gemini",
+				"Scorpio",
+				"Libra"
+			],
+			"unrelated": ["Aries", "Leo", "Sagittarius", "Pisces", "Cancer", "Taurus"]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "lawful-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-231-pt": {
 		"id": "t-231-pt",
 		"question": "Ele(a) é chamado(a) de metido(a) com frequência?",
 		"answer": "É chamado(a) de metido(a) com frequência",
 		"level": 2,
-		"mbti": ["J", "T"],
-		"zodiac": ["Leo", "Capricorn", "Virgo"],
-		"alignment": ["Lawful-Neutral", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xT", "xJ", "xS", "xI"],
+			"unrelated": ["xF", "xP", "xN"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Capricorn", "Virgo", "Scorpio", "Aries", "Taurus"],
+			"unrelated": [
+				"Pisces",
+				"Cancer",
+				"Libra",
+				"Aquarius",
+				"Gemini",
+				"Sagittarius"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-evil",
+				"lawful-evil",
+				"neutral-neutral",
+				"lawful-neutral"
+			],
+			"unrelated": [
+				"neutral-good",
+				"lawful-good",
+				"chaotic-good",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-232-pt": {
 		"id": "t-232-pt",
 		"question": "Ele(a) gosta de escrever poesias?",
 		"answer": "Gosta de escrever poesias",
 		"level": 2,
-		"mbti": ["N", "F", "I"],
-		"zodiac": ["Pisces", "Cancer", "Scorpio"],
-		"alignment": ["Chaotic-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xN", "xI", "xP", "xE"],
+			"unrelated": ["xT", "xS", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Cancer", "Libra", "Scorpio", "Aquarius", "Leo"],
+			"unrelated": [
+				"Capricorn",
+				"Virgo",
+				"Taurus",
+				"Aries",
+				"Gemini",
+				"Sagittarius"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"chaotic-good",
+				"lawful-good",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-evil",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-233-pt": {
 		"id": "t-233-pt",
 		"question": "Ele(a) seria um(a) ótimo(a) babá?",
 		"answer": "Seria um(a) ótimo(a) babá",
 		"level": 2,
-		"mbti": ["F", "J", "S"],
-		"zodiac": ["Cancer", "Virgo", "Libra"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xS", "xJ", "xE", "xI", "xP"],
+			"unrelated": ["xT", "xN"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Pisces", "Virgo", "Libra", "Leo"],
+			"unrelated": [
+				"Aries",
+				"Scorpio",
+				"Aquarius",
+				"Sagittarius",
+				"Gemini",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			],
+			"unrelated": [
+				"chaotic-evil",
+				"neutral-evil",
+				"lawful-evil",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-234-pt": {
 		"id": "t-234-pt",
 		"question": "Ele(a) já deu um tapa na cara de alguém?",
 		"answer": "Já deu um tapa na cara de alguém",
 		"level": 3,
-		"mbti": ["E", "T"],
-		"zodiac": ["Aries", "Leo", "Scorpio"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["xE", "xT", "xS", "xP", "xJ"],
+			"unrelated": ["xF", "xI", "xN"]
+		},
+		"zodiac": {
+			"related": [
+				"Aries",
+				"Scorpio",
+				"Leo",
+				"Sagittarius",
+				"Capricorn",
+				"Taurus"
+			],
+			"unrelated": ["Pisces", "Libra", "Cancer", "Aquarius", "Gemini", "Virgo"]
+		},
+		"alignment": {
+			"related": [
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-neutral",
+				"lawful-evil"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-235-pt": {
 		"id": "t-235-pt",
 		"question": "Ele(a) seria uma boa escolha se fosse escalado para ser um(a) pirata num filme de pirata?",
 		"answer": "Seria uma boa escolha se fosse escalado para ser um(a) pirata num filme de pirata",
 		"level": 2,
-		"mbti": ["P", "E", "S"],
-		"zodiac": ["Sagittarius", "Aquarius", "Aries"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xE", "xP", "xT", "xS", "xN"],
+			"unrelated": ["xI", "xJ", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Aries",
+				"Sagittarius",
+				"Leo",
+				"Gemini",
+				"Aquarius"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Cancer", "Pisces", "Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": [
+				"chaotic-neutral",
+				"neutral-neutral",
+				"chaotic-evil",
+				"neutral-evil"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-236-pt": {
 		"id": "t-236-pt",
 		"question": "Ele(a) já passou vários minutos procurando o celular enquanto falava no celular?",
 		"answer": "Já passou vários minutos procurando o celular enquanto falava no celular",
 		"level": 3,
-		"mbti": ["P", "N"],
-		"zodiac": ["Pisces", "Gemini", "Sagittarius"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xP", "xN", "xE", "xF", "xS"],
+			"unrelated": ["xJ", "xI", "xT"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Gemini", "Sagittarius", "Aries", "Leo", "Cancer"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Aquarius",
+				"Libra",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-237-pt": {
 		"id": "t-237-pt",
 		"question": "Ele(a) sabe usar todas as funções de um controle remoto?",
 		"answer": "Sabe usar todas as funções de um controle remoto",
 		"level": 2,
-		"mbti": ["T", "S"],
-		"zodiac": ["Virgo", "Capricorn", "Aquarius"],
-		"alignment": ["Lawful-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xT", "xJ", "xN", "xI", "xE"],
+			"unrelated": ["xP", "xF"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Aquarius", "Gemini", "Aries", "Leo"],
+			"unrelated": [
+				"Pisces",
+				"Cancer",
+				"Libra",
+				"Taurus",
+				"Sagittarius",
+				"Scorpio"
+			]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "lawful-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-238-pt": {
 		"id": "t-238-pt",
 		"question": "Ele(a) prefere mandar mensagem a fazer ligações telefônicas?",
 		"answer": "Prefere mandar mensagem a fazer ligações telefônicas",
 		"level": 2,
-		"mbti": ["I", "N"],
-		"zodiac": ["Aquarius", "Virgo", "Cancer"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xP", "xT", "xF", "xS"],
+			"unrelated": ["xE", "xJ"]
+		},
+		"zodiac": {
+			"related": [
+				"Virgo",
+				"Capricorn",
+				"Aquarius",
+				"Pisces",
+				"Cancer",
+				"Scorpio"
+			],
+			"unrelated": ["Leo", "Aries", "Sagittarius", "Gemini", "Libra", "Taurus"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "chaotic-neutral"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-239-pt": {
 		"id": "t-239-pt",
 		"question": "Ele(a) já fez um trabalho de escola só com memes?",
 		"answer": "Já fez um trabalho de escola só com memes",
 		"level": 3,
-		"mbti": ["P", "N", "E"],
-		"zodiac": ["Gemini", "Sagittarius", "Aquarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xP", "xN", "xE", "xF", "xS"],
+			"unrelated": ["xJ", "xI", "xT"]
+		},
+		"zodiac": {
+			"related": ["Gemini", "Sagittarius", "Leo", "Aries", "Aquarius", "Libra"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Cancer",
+				"Pisces",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-good"],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-240-pt": {
 		"id": "t-240-pt",
 		"question": "Ele(a) já foi confundido(a) com o gênero oposto?",
 		"answer": "Já foi confundido(a) com o gênero oposto",
 		"level": 2,
-		"mbti": ["N", "P"],
-		"zodiac": ["Aquarius", "Gemini", "Pisces"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xN", "xP", "xF", "xI", "xE", "xS"],
+			"unrelated": ["xJ", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Aquarius",
+				"Pisces",
+				"Gemini",
+				"Libra",
+				"Scorpio",
+				"Sagittarius"
+			],
+			"unrelated": ["Capricorn", "Virgo", "Taurus", "Leo", "Aries", "Cancer"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-241-pt": {
 		"id": "t-241-pt",
 		"question": "Ele(a) compartilha gifs de Bom dia com glitter?",
 		"answer": "Compartilha gifs de Bom dia com glitter",
 		"level": 1,
-		"mbti": ["F", "S", "E"],
-		"zodiac": ["Cancer", "Libra", "Leo"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xS", "xF", "xJ", "xE", "xI"],
+			"unrelated": ["xN", "xT", "xP"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Taurus", "Pisces", "Leo", "Libra", "Virgo"],
+			"unrelated": [
+				"Aquarius",
+				"Sagittarius",
+				"Scorpio",
+				"Gemini",
+				"Aries",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful-good",
+				"neutral-good",
+				"lawful-neutral",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-242-pt": {
 		"id": "t-242-pt",
 		"question": "Ele(a) tem a língua presa?",
 		"answer": "Tem a língua presa",
 		"level": 1,
-		"mbti": ["xS", "xF"],
-		"zodiac": ["Cancer", "Pisces"],
-		"alignment": ["True-Neutral"]
+		"mbti": {
+			"related": ["xS", "xI", "xF", "xP"],
+			"unrelated": []
+		},
+		"zodiac": {
+			"related": ["Cancer", "Pisces", "Taurus", "Virgo", "Libra", "Capricorn"],
+			"unrelated": [
+				"Leo",
+				"Aries",
+				"Sagittarius",
+				"Gemini",
+				"Aquarius",
+				"Scorpio"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral"],
+			"unrelated": []
+		}
 	},
 	"t-243-pt": {
 		"id": "t-243-pt",
 		"question": "Ele(a) já pulou de paraquedas?",
 		"answer": "Já pulou de paraquedas",
 		"level": 2,
-		"mbti": ["S", "P", "E"],
-		"zodiac": ["Aries", "Sagittarius", "Aquarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xP", "xS", "xT", "xN"],
+			"unrelated": ["xI", "xJ", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Sagittarius",
+				"Aries",
+				"Leo",
+				"Aquarius",
+				"Gemini",
+				"Scorpio"
+			],
+			"unrelated": ["Cancer", "Pisces", "Virgo", "Capricorn", "Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": ["chaotic-neutral", "neutral-neutral", "chaotic-good"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-244-pt": {
 		"id": "t-244-pt",
 		"question": "Ele(a) chora todas as manhãs antes de ir trabalhar?",
 		"answer": "Chora todas as manhãs antes de ir trabalhar",
 		"level": 3,
-		"mbti": ["F", "I"],
-		"zodiac": ["Cancer", "Pisces", "Virgo"],
-		"alignment": ["Neutral-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xF", "xN", "xJ", "xS", "xP"],
+			"unrelated": ["xE", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Cancer",
+				"Virgo",
+				"Scorpio",
+				"Capricorn",
+				"Taurus"
+			],
+			"unrelated": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Gemini",
+				"Aquarius",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-good"],
+			"unrelated": []
+		}
 	},
 	"t-245-pt": {
 		"id": "t-245-pt",
 		"question": "Ele(a) já fingiu ser um especialista em algo que não entende absolutamente nada só para impressionar alguém?",
 		"answer": "Já fingiu ser um especialista em algo que não entende absolutamente nada só para impressionar alguém",
 		"level": 3,
-		"mbti": ["J", "S", "E"],
-		"zodiac": ["Gemini", "Leo", "Libra"],
-		"alignment": ["Chaotic-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["xE", "xT", "xP", "xN", "xS", "xJ"],
+			"unrelated": ["xI", "xF"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Libra", "Aries", "Scorpio", "Sagittarius"],
+			"unrelated": [
+				"Pisces",
+				"Cancer",
+				"Virgo",
+				"Capricorn",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-neutral",
+				"neutral-evil",
+				"chaotic-neutral",
+				"lawful-neutral"
+			],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-246-pt": {
 		"id": "t-246-pt",
 		"question": "Ele(a) usa o Chat GPT de psicólogo?",
 		"answer": "Usa o Chat GPT de psicólogo",
 		"level": 2,
-		"mbti": ["I", "N", "T"],
-		"zodiac": ["Aquarius", "Virgo", "Capricorn"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xT", "xP", "xJ", "xS"],
+			"unrelated": ["xE", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Aquarius",
+				"Virgo",
+				"Capricorn",
+				"Gemini",
+				"Scorpio",
+				"Pisces"
+			],
+			"unrelated": ["Leo", "Aries", "Sagittarius", "Cancer", "Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "lawful-neutral"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-247-pt": {
 		"id": "t-247-pt",
 		"question": "Ele(a) está em relacionamento virtual com o Chat GPT?",
 		"answer": "Está em relacionamento virtual com o Chat GPT",
 		"level": 3,
-		"mbti": ["I", "N", "P"],
-		"zodiac": ["Aquarius", "Pisces", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xF", "xP", "xS", "xT"],
+			"unrelated": ["xE", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Aquarius", "Pisces", "Gemini", "Scorpio", "Libra", "Cancer"],
+			"unrelated": [
+				"Capricorn",
+				"Virgo",
+				"Taurus",
+				"Aries",
+				"Leo",
+				"Sagittarius"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-evil"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-248-pt": {
 		"id": "t-248-pt",
 		"question": "Ele(a) acha que homem que chora é boiola?",
 		"answer": "Acha que homem que chora é boiola",
-		"nsfw": true,
 		"level": 3,
-		"mbti": ["F", "S", "J"],
-		"zodiac": ["Aries", "Taurus", "Leo"],
-		"alignment": ["Lawful-Evil", "Chaotic-Neutral"]
+		"nsfw": true,
+		"mbti": {
+			"related": ["xS", "xT", "xJ", "xE"],
+			"unrelated": ["xF", "xN", "xP", "xI"]
+		},
+		"zodiac": {
+			"related": ["Capricorn", "Taurus", "Aries", "Leo", "Scorpio", "Virgo"],
+			"unrelated": [
+				"Aquarius",
+				"Pisces",
+				"Cancer",
+				"Libra",
+				"Sagittarius",
+				"Gemini"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful-evil",
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-neutral"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-249-pt": {
 		"id": "t-249-pt",
 		"question": "Ele(a) já fez procedimentos estéticos?",
 		"answer": "Já fez procedimentos estéticos",
 		"level": 2,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Libra", "Taurus"],
-		"alignment": ["True-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xE", "xS", "xJ", "xF", "xT"],
+			"unrelated": ["xI", "xP", "xN"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Taurus", "Capricorn", "Virgo", "Scorpio"],
+			"unrelated": [
+				"Aquarius",
+				"Sagittarius",
+				"Gemini",
+				"Aries",
+				"Pisces",
+				"Cancer"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-250-pt": {
 		"id": "t-250-pt",
 		"question": "Ele(a) fica irritado com gente que faz barulho ao mastigar?",
 		"answer": "Fica irritado com gente que faz barulho ao mastigar",
 		"level": 2,
-		"mbti": ["J", "I", "S"],
-		"zodiac": ["Virgo", "Capricorn", "Scorpio"],
-		"alignment": ["Lawful-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["xI", "xJ", "xS", "xT", "xN"],
+			"unrelated": ["xE", "xP", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Cancer",
+				"Taurus",
+				"Pisces"
+			],
+			"unrelated": [
+				"Sagittarius",
+				"Gemini",
+				"Leo",
+				"Aries",
+				"Aquarius",
+				"Libra"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-evil"],
+			"unrelated": ["lawful-good", "neutral-good", "chaotic-good"]
+		}
 	},
 	"t-251-pt": {
 		"id": "t-251-pt",
 		"question": "Ele(a) desistiu de fazer veterinária porque tinha dó de estudar usando os animais mortos?",
 		"answer": "Desistiu de fazer veterinária porque tinha dó de estudar usando os animais mortos",
 		"level": 3,
-		"mbti": ["F", "N"],
-		"zodiac": ["Pisces", "Cancer", "Libra"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xF", "xI", "xN", "xS", "xP"],
+			"unrelated": ["xT", "xE", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Cancer", "Libra", "Taurus", "Leo", "Virgo"],
+			"unrelated": [
+				"Aries",
+				"Scorpio",
+				"Aquarius",
+				"Capricorn",
+				"Sagittarius",
+				"Gemini"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"lawful-good",
+				"chaotic-good",
+				"neutral-neutral"
+			],
+			"unrelated": ["neutral-evil", "chaotic-evil", "lawful-evil"]
+		}
 	},
 	"t-252-pt": {
 		"id": "t-252-pt",
 		"question": "Ele(a) chora com notícias de tragédias?",
 		"answer": "Chora com notícias de tragédias",
 		"level": 2,
-		"mbti": ["F", "N"],
-		"zodiac": ["Cancer", "Pisces", "Libra"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xF", "xI", "xN", "xE", "xS", "xP"],
+			"unrelated": ["xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Cancer", "Libra", "Leo", "Scorpio", "Gemini"],
+			"unrelated": [
+				"Capricorn",
+				"Virgo",
+				"Aquarius",
+				"Taurus",
+				"Aries",
+				"Sagittarius"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"lawful-good",
+				"chaotic-good",
+				"neutral-neutral"
+			],
+			"unrelated": ["neutral-evil", "chaotic-evil", "lawful-evil"]
+		}
 	},
 	"t-253-pt": {
 		"id": "t-253-pt",
 		"question": "Ele(a) medita regularmente?",
 		"answer": "Medita regularmente",
 		"level": 2,
-		"mbti": ["N", "I", "J"],
-		"zodiac": ["Pisces", "Virgo", "Libra"],
-		"alignment": ["Lawful-Good", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xF", "xJ", "xS", "xP"],
+			"unrelated": ["xE", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Virgo",
+				"Aquarius",
+				"Scorpio",
+				"Capricorn",
+				"Cancer"
+			],
+			"unrelated": ["Aries", "Leo", "Sagittarius", "Gemini", "Libra", "Taurus"]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"lawful-good",
+				"neutral-neutral",
+				"lawful-neutral"
+			],
+			"unrelated": [
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-254-pt": {
 		"id": "t-254-pt",
 		"question": "Ele(a) já fez terapia de casal?",
 		"answer": "Já fez terapia de casal",
 		"level": 3,
-		"mbti": ["F", "J"],
-		"zodiac": ["Libra", "Cancer", "Virgo"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xJ", "xE", "xI", "xN", "xS"],
+			"unrelated": ["xT", "xP"]
+		},
+		"zodiac": {
+			"related": ["Cancer", "Libra", "Pisces", "Scorpio", "Leo", "Taurus"],
+			"unrelated": [
+				"Aquarius",
+				"Sagittarius",
+				"Gemini",
+				"Aries",
+				"Virgo",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful-good",
+				"neutral-good",
+				"lawful-neutral",
+				"neutral-neutral"
+			],
+			"unrelated": ["chaotic-neutral", "chaotic-evil", "neutral-evil"]
+		}
 	},
 	"t-255-pt": {
 		"id": "t-255-pt",
 		"question": "Ele(a) ama a natureza?",
 		"answer": "Ama a natureza",
 		"level": 2,
-		"mbti": ["F", "N", "S"],
-		"zodiac": ["Taurus", "Sagittarius", "Aquarius"],
-		"alignment": ["Neutral-Good", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xF", "xN", "xP", "xI", "xS", "xE"],
+			"unrelated": ["xT", "xJ"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Cancer",
+				"Sagittarius",
+				"Taurus",
+				"Virgo",
+				"Libra"
+			],
+			"unrelated": [
+				"Aquarius",
+				"Gemini",
+				"Leo",
+				"Aries",
+				"Scorpio",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"chaotic-good",
+				"lawful-good",
+				"neutral-neutral"
+			],
+			"unrelated": ["neutral-evil", "chaotic-evil", "lawful-evil"]
+		}
 	},
 	"t-256-pt": {
 		"id": "t-256-pt",
 		"question": "Ele(a) já fez intercâmbio?",
 		"answer": "Já fez intercâmbio",
 		"level": 2,
-		"mbti": ["E", "N", "P"],
-		"zodiac": ["Sagittarius", "Gemini", "Aquarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xN", "xP", "xF", "xS", "xJ"],
+			"unrelated": ["xI", "xT"]
+		},
+		"zodiac": {
+			"related": ["Sagittarius", "Aquarius", "Gemini", "Leo", "Aries", "Libra"],
+			"unrelated": [
+				"Cancer",
+				"Pisces",
+				"Taurus",
+				"Virgo",
+				"Capricorn",
+				"Scorpio"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-neutral",
+				"chaotic-neutral",
+				"neutral-good",
+				"lawful-neutral"
+			],
+			"unrelated": []
+		}
 	},
 	"t-257-pt": {
 		"id": "t-257-pt",
 		"question": "Ele(a) finge que está dormindo para não dar o lugar preferencial no ônibus?",
 		"answer": "Finge que está dormindo para não dar o lugar preferencial no ônibus",
 		"level": 2,
-		"mbti": ["P", "T", "I"],
-		"zodiac": ["Gemini", "Aquarius", "Capricorn"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xP", "xS", "xT", "xI", "xE"],
+			"unrelated": ["xJ", "xF", "xN"]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Capricorn",
+				"Taurus",
+				"Gemini",
+				"Sagittarius",
+				"Aries"
+			],
+			"unrelated": ["Pisces", "Cancer", "Libra", "Leo", "Aquarius", "Virgo"]
+		},
+		"alignment": {
+			"related": [
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-evil",
+				"chaotic-neutral",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-258-pt": {
 		"id": "t-258-pt",
 		"question": "Ele(a) sabe sambar?",
 		"answer": "Sabe sambar",
 		"level": 2,
-		"mbti": ["E", "S", "P"],
-		"zodiac": ["Leo", "Sagittarius", "Aries"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xS", "xP", "xF", "xN"],
+			"unrelated": ["xI", "xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Sagittarius", "Pisces", "Libra", "Cancer"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Aquarius",
+				"Taurus",
+				"Aries",
+				"Scorpio"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral"]
+		}
 	},
 	"t-259-pt": {
 		"id": "t-259-pt",
 		"question": "Ele(a) mente a idade?",
 		"answer": "Mente a idade",
 		"level": 3,
-		"mbti": ["E", "S"],
-		"zodiac": ["Leo", "Libra", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["xE", "xS", "xF", "xP", "xN", "xT"],
+			"unrelated": ["xI", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Libra", "Gemini", "Scorpio", "Cancer", "Pisces"],
+			"unrelated": [
+				"Capricorn",
+				"Virgo",
+				"Taurus",
+				"Aries",
+				"Sagittarius",
+				"Aquarius"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-neutral",
+				"chaotic-neutral",
+				"neutral-evil",
+				"chaotic-evil"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-260-pt": {
 		"id": "t-260-pt",
@@ -2369,152 +5638,571 @@
 		"answer": "Tem um fetiche estranho",
 		"level": 3,
 		"nsfw": true,
-		"mbti": ["N", "P"],
-		"zodiac": ["Scorpio", "Aquarius", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Good"]
+		"mbti": {
+			"related": ["xP", "xN", "xE", "xT", "xS", "xI"],
+			"unrelated": ["xJ", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Aquarius",
+				"Sagittarius",
+				"Gemini",
+				"Aries",
+				"Pisces"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Taurus", "Cancer", "Libra", "Leo"]
+		},
+		"alignment": {
+			"related": [
+				"chaotic-neutral",
+				"neutral-neutral",
+				"chaotic-evil",
+				"neutral-evil"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-261-pt": {
 		"id": "t-261-pt",
 		"question": "Ele(a) tem problemas mentais?",
 		"answer": "Tem problemas mentais",
 		"level": 2,
-		"mbti": ["N", "I", "P"],
-		"zodiac": ["Pisces", "Gemini", "Cancer"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xF", "xP", "xJ", "xS"],
+			"unrelated": ["xE", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Scorpio",
+				"Cancer",
+				"Virgo",
+				"Capricorn",
+				"Gemini"
+			],
+			"unrelated": [
+				"Leo",
+				"Aries",
+				"Sagittarius",
+				"Libra",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-neutral",
+				"neutral-good",
+				"chaotic-neutral",
+				"lawful-neutral"
+			],
+			"unrelated": []
+		}
 	},
 	"t-262-pt": {
 		"id": "t-262-pt",
 		"question": "Ele(a) já foi demitido(a) por justa causa?",
 		"answer": "Já foi demitido(a) por justa causa",
 		"level": 2,
-		"mbti": ["P", "E"],
-		"zodiac": ["Aries", "Sagittarius", "Gemini"],
-		"alignment": ["Chaotic-Neutral", "Chaotic-Evil"]
+		"mbti": {
+			"related": ["xP", "xS", "xE", "xT", "xN"],
+			"unrelated": ["xJ", "xI", "xF"]
+		},
+		"zodiac": {
+			"related": [
+				"Aries",
+				"Sagittarius",
+				"Gemini",
+				"Leo",
+				"Scorpio",
+				"Aquarius"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Taurus", "Cancer", "Pisces", "Libra"]
+		},
+		"alignment": {
+			"related": [
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-neutral",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-263-pt": {
 		"id": "t-263-pt",
 		"question": "Ele(a) puxa papo com pessoa no banheiro da balada?",
 		"answer": "Puxa papo com pessoa no banheiro da balada",
 		"level": 1,
-		"mbti": ["E", "F"],
-		"zodiac": ["Leo", "Gemini", "Libra"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["E", "xF", "xP", "xS", "xN"],
+			"unrelated": ["I", "xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Libra", "Sagittarius", "Aries", "Pisces"],
+			"unrelated": [
+				"Scorpio",
+				"Capricorn",
+				"Virgo",
+				"Cancer",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-neutral",
+				"chaotic-neutral",
+				"neutral-good",
+				"chaotic-good"
+			],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-264-pt": {
 		"id": "t-264-pt",
 		"question": "Ele(a) fala sozinho(a) quando está entediado(a)?",
 		"answer": "Fala sozinho(a) quando está entediado(a)",
 		"level": 2,
-		"mbti": ["I", "N"],
-		"zodiac": ["Gemini", "Aquarius", "Virgo"],
-		"alignment": ["True-Neutral", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xF", "xP", "xS", "xT"],
+			"unrelated": ["xE", "xJ"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Gemini",
+				"Aquarius",
+				"Cancer",
+				"Virgo",
+				"Sagittarius"
+			],
+			"unrelated": ["Leo", "Aries", "Scorpio", "Capricorn", "Taurus", "Libra"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": ["lawful-neutral", "lawful-good"]
+		}
 	},
 	"t-265-pt": {
 		"id": "t-265-pt",
 		"question": "Ele(a) finge atender o celular pra evitar conversa no elevador?",
 		"answer": "Finge atender o celular pra evitar conversa no elevador",
 		"level": 2,
-		"mbti": ["I", "T"],
-		"zodiac": ["Virgo", "Capricorn", "Scorpio"],
-		"alignment": ["True-Neutral", "Lawful-Neutral"]
+		"mbti": {
+			"related": ["xI", "xF", "xN", "xS", "xJ", "xP"],
+			"unrelated": ["xE", "xT"]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Capricorn",
+				"Virgo",
+				"Cancer",
+				"Pisces",
+				"Aquarius"
+			],
+			"unrelated": ["Leo", "Aries", "Gemini", "Sagittarius", "Libra", "Taurus"]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "lawful-neutral", "neutral-evil"],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-266-pt": {
 		"id": "t-266-pt",
 		"question": "Ele(a) ensaia mentalmente o que vai dizer antes de pedir algo num restaurante?",
 		"answer": "Ensaia mentalmente o que vai dizer antes de pedir algo num restaurante",
 		"level": 2,
-		"mbti": ["I", "J"],
-		"zodiac": ["Virgo", "Cancer", "Pisces"],
-		"alignment": ["Lawful-Neutral", "Neutral-Good"]
+		"mbti": {
+			"related": ["xI", "xF", "xJ", "xN", "xS", "xP"],
+			"unrelated": ["xE", "xT"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Cancer", "Pisces", "Libra", "Scorpio"],
+			"unrelated": [
+				"Aries",
+				"Leo",
+				"Sagittarius",
+				"Gemini",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["lawful-neutral", "neutral-neutral", "lawful-good"],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-267-pt": {
 		"id": "t-267-pt",
 		"question": "Ele(a) acredita que coincidências são mensagens do universo?",
 		"answer": "Acredita que coincidências são mensagens do universo",
 		"level": 2,
-		"mbti": ["N", "F"],
-		"zodiac": ["Pisces", "Aquarius", "Sagittarius"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xN", "xF", "xP", "xI", "xE", "xS"],
+			"unrelated": ["xT", "xJ"]
+		},
+		"zodiac": {
+			"related": [
+				"Pisces",
+				"Cancer",
+				"Scorpio",
+				"Aquarius",
+				"Sagittarius",
+				"Leo"
+			],
+			"unrelated": ["Capricorn", "Virgo", "Taurus", "Gemini", "Libra", "Aries"]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"chaotic-good",
+				"lawful-good",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"neutral-evil",
+				"chaotic-evil",
+				"lawful-evil",
+				"lawful-neutral"
+			]
+		}
 	},
 	"t-268-pt": {
 		"id": "t-268-pt",
 		"question": "Ele(a) é muito paranoico(a)?",
 		"answer": "É muito paranoico(a)",
 		"level": 2,
-		"mbti": ["I", "N"],
-		"zodiac": ["Scorpio", "Virgo", "Cancer"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xT", "xJ", "xS", "xF"],
+			"unrelated": ["xE", "xP"]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Virgo",
+				"Cancer",
+				"Capricorn",
+				"Pisces",
+				"Aquarius"
+			],
+			"unrelated": ["Leo", "Aries", "Sagittarius", "Gemini", "Libra", "Taurus"]
+		},
+		"alignment": {
+			"related": [
+				"neutral-neutral",
+				"lawful-neutral",
+				"neutral-evil",
+				"lawful-evil"
+			],
+			"unrelated": [
+				"neutral-good",
+				"lawful-good",
+				"chaotic-good",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-269-pt": {
 		"id": "t-269-pt",
 		"question": "Ele(a) já achou que o(a) atendente do supermercado estava a fim dele só por ter sido simpática(o)?",
 		"answer": "Já achou que o(a) atendente do supermercado estava a fim dele só por ter sido simpática(o)",
 		"level": 2,
-		"mbti": ["N", "F", "P"],
-		"zodiac": ["Pisces", "Libra", "Leo"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xF", "xP", "xN", "xS"],
+			"unrelated": ["xI", "xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Gemini", "Libra", "Sagittarius", "Aries", "Pisces"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Cancer",
+				"Aquarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": ["neutral-neutral", "chaotic-neutral", "neutral-good"],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-270-pt": {
 		"id": "t-270-pt",
 		"question": "Ele(a) evita discussões só pra não deixar o clima pesado?",
 		"answer": "Evita discussões só pra não deixar o clima pesado",
 		"level": 2,
-		"mbti": ["F", "I"],
-		"zodiac": ["Libra", "Pisces", "Cancer"],
-		"alignment": ["Lawful-Good", "Neutral-Good"]
+		"mbti": {
+			"related": ["xF", "xI", "xJ", "xS", "xE", "xN"],
+			"unrelated": ["xT", "xP"]
+		},
+		"zodiac": {
+			"related": ["Libra", "Pisces", "Cancer", "Taurus", "Virgo", "Gemini"],
+			"unrelated": [
+				"Aries",
+				"Scorpio",
+				"Leo",
+				"Sagittarius",
+				"Aquarius",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": [
+				"neutral-good",
+				"lawful-good",
+				"lawful-neutral",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"chaotic-evil",
+				"neutral-evil",
+				"lawful-evil",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-271-pt": {
 		"id": "t-271-pt",
 		"question": "Ele(a) corrige erros de português no WhatsApp?",
 		"answer": "Corrige erros de português no WhatsApp",
 		"level": 2,
-		"mbti": ["T", "J"],
-		"zodiac": ["Virgo", "Capricorn", "Aquarius"],
-		"alignment": ["Lawful-Neutral", "Lawful-Evil"]
+		"mbti": {
+			"related": ["xJ", "xS", "xT", "xN", "xI", "xE"],
+			"unrelated": ["xP", "xF"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Taurus", "Aquarius", "Gemini", "Leo"],
+			"unrelated": [
+				"Pisces",
+				"Cancer",
+				"Libra",
+				"Sagittarius",
+				"Scorpio",
+				"Aries"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful-neutral",
+				"neutral-neutral",
+				"lawful-evil",
+				"neutral-evil"
+			],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-good",
+				"neutral-good",
+				"lawful-good"
+			]
+		}
 	},
 	"t-272-pt": {
 		"id": "t-272-pt",
 		"question": "Ele(a) chega no aeroporto com 4 horas de antecedência?",
 		"answer": "Chega no aeroporto com 4 horas de antecedência",
 		"level": 1,
-		"mbti": ["J", "I"],
-		"zodiac": ["Virgo", "Capricorn"],
-		"alignment": ["Lawful-Neutral", "Lawful-Good"]
+		"mbti": {
+			"related": ["xJ", "xS", "xT", "xI", "xF"],
+			"unrelated": ["xP", "xE", "xN"]
+		},
+		"zodiac": {
+			"related": ["Virgo", "Capricorn", "Cancer", "Taurus", "Libra", "Scorpio"],
+			"unrelated": [
+				"Sagittarius",
+				"Gemini",
+				"Aries",
+				"Leo",
+				"Aquarius",
+				"Pisces"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful-neutral",
+				"lawful-good",
+				"neutral-neutral",
+				"neutral-good"
+			],
+			"unrelated": [
+				"chaotic-neutral",
+				"chaotic-evil",
+				"neutral-evil",
+				"chaotic-good"
+			]
+		}
 	},
 	"t-273-pt": {
 		"id": "t-273-pt",
 		"question": "Ele(a) fica tentando convencer todos os amigos que qualquer ideia pode ser um empreendimento de sucesso?",
 		"answer": "Fica tentando convencer todos os amigos que qualquer ideia pode ser um empreendimento de sucesso",
 		"level": 2,
-		"mbti": ["E", "N", "P"],
-		"zodiac": ["Sagittarius", "Gemini", "Aries"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xE", "xN", "xT", "xP", "xS", "xJ"],
+			"unrelated": ["xI", "xF"]
+		},
+		"zodiac": {
+			"related": ["Leo", "Aries", "Sagittarius", "Gemini", "Aquarius", "Libra"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Pisces",
+				"Cancer",
+				"Scorpio",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": [
+				"chaotic-neutral",
+				"neutral-neutral",
+				"chaotic-good",
+				"neutral-good"
+			],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-274-pt": {
 		"id": "t-274-pt",
 		"question": "Ele(a) tem um caderninho só de sonhos e teorias conspiratórias próprias?",
 		"answer": "Tem um caderninho só de sonhos e teorias conspiratórias próprias",
 		"level": 2,
-		"mbti": ["N", "I", "P"],
-		"zodiac": ["Pisces", "Aquarius", "Scorpio"],
-		"alignment": ["Chaotic-Neutral", "True-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xP", "xF", "xS", "xT"],
+			"unrelated": ["xE", "xJ"]
+		},
+		"zodiac": {
+			"related": [
+				"Aquarius",
+				"Pisces",
+				"Gemini",
+				"Scorpio",
+				"Cancer",
+				"Sagittarius"
+			],
+			"unrelated": ["Virgo", "Capricorn", "Taurus", "Leo", "Aries", "Libra"]
+		},
+		"alignment": {
+			"related": [
+				"chaotic-neutral",
+				"neutral-neutral",
+				"chaotic-good",
+				"neutral-good"
+			],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	},
 	"t-275-pt": {
 		"id": "t-275-pt",
 		"question": "Ele(a) já terminou um namoro usando Power Point?",
 		"answer": "Já terminou um namoro usando Power Point",
 		"level": 2,
-		"mbti": ["T", "J", "N"],
-		"zodiac": ["Virgo", "Aquarius", "Gemini"],
-		"alignment": ["Lawful-Neutral", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xT", "xJ", "xN", "xS", "xI", "xE"],
+			"unrelated": ["xF", "xP"]
+		},
+		"zodiac": {
+			"related": [
+				"Virgo",
+				"Capricorn",
+				"Aquarius",
+				"Gemini",
+				"Scorpio",
+				"Aries"
+			],
+			"unrelated": ["Pisces", "Cancer", "Libra", "Leo", "Sagittarius", "Taurus"]
+		},
+		"alignment": {
+			"related": [
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-neutral",
+				"neutral-neutral"
+			],
+			"unrelated": [
+				"lawful-good",
+				"neutral-good",
+				"chaotic-good",
+				"chaotic-neutral"
+			]
+		}
 	},
 	"t-276-pt": {
 		"id": "t-276-pt",
 		"question": "Ele(a) já fez cosplay?",
 		"answer": "Já fez cosplay",
 		"level": 1,
-		"mbti": ["N", "P", "E"],
-		"zodiac": ["Aquarius", "Gemini", "Pisces"],
-		"alignment": ["Chaotic-Good", "Chaotic-Neutral"]
+		"mbti": {
+			"related": ["xI", "xN", "xF", "xP", "xS", "xE"],
+			"unrelated": ["xT", "xJ"]
+		},
+		"zodiac": {
+			"related": ["Pisces", "Aquarius", "Gemini", "Leo", "Cancer", "Libra"],
+			"unrelated": [
+				"Virgo",
+				"Capricorn",
+				"Scorpio",
+				"Aries",
+				"Sagittarius",
+				"Taurus"
+			]
+		},
+		"alignment": {
+			"related": [
+				"chaotic-neutral",
+				"neutral-neutral",
+				"chaotic-good",
+				"neutral-good"
+			],
+			"unrelated": [
+				"lawful-neutral",
+				"lawful-evil",
+				"neutral-evil",
+				"lawful-good"
+			]
+		}
 	}
 }
