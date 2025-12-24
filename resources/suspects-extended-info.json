@@ -1,3910 +1,4103 @@
 {
-	"us-001": {
-		"id": "us-001",
-		"prompt": "28-year-old black man",
-		"persona": {
-			"en": "the poet",
-			"pt": "o poeta"
-		},
-		"description": "A 28-year-old Black man with a neatly groomed beard and mustache, wearing large square orange glasses, a grey fedora-style hat, a green blazer over a yellow checkered shirt, and an orange polka-dot bow tie. His expression is calm and thoughtful, giving an intellectual and gentle vibe.",
-		"animal": "owl",
-		"profession": "creative writing teacher",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": [
-			"artistic",
-			"intellectual",
-			"introverted",
-			"thoughtful",
-			"gentle",
-			"romantic",
-			"well-mannered",
-			"aesthetic-driven"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "INTJ",
-		"zodiacSign": "Virgo"
-	},
-	"us-002": {
-		"id": "us-002",
-		"prompt": "25-year-old black man",
-		"persona": {
-			"en": "the administrative assistant",
-			"pt": "o assistente administrativo"
-		},
-		"description": "A 25-year-old Black man with short, tightly curled hair, wearing a burgundy suit jacket, a white dress shirt, and a striped tie. His expression is skeptical or mildly annoyed, with raised eyebrows and eyes looking to the side, giving him a no-nonsense, detail-oriented vibe.",
-		"animal": "meerkat",
-		"occupation": "office administrative assistant",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": [
-			"organized",
-			"responsible",
-			"observant",
-			"punctual",
-			"rule-following",
-			"practical",
-			"slightly sarcastic",
-			"meticulous"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Aries"
-	},
-	"us-003": {
-		"id": "us-003",
-		"prompt": "30-year-old blond man",
-		"persona": {
-			"en": "the hipster",
-			"pt": "o hipster"
-		},
-		"description": "A 30-year-old blond man with a full beard and long, loosely tied-back hair. He wears a brown flat cap, a thick gray patterned scarf, and a teal coat. His expression is mildly suspicious or unimpressed, with slightly narrowed eyes and a guarded posture, giving him an aloof, indie-art-scene vibe.",
-		"animal": "fox",
-		"occupation": "independent barista and part-time illustrator",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "white",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": [
-			"artistic",
-			"alternative",
-			"introverted",
-			"sarcastic",
-			"aesthetic-focused",
-			"coffee lover",
-			"music enthusiast",
-			"nonconformist"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "INTJ",
-		"zodiacSign": "Capricorn"
-	},
-	"us-004": {
-		"id": "us-004",
-		"prompt": "50-year-old bald man",
-		"persona": {
-			"en": "the creepy neighbor",
-			"pt": "o vizinho assustador"
-		},
-		"description": "A 55-year-old bald man with a thin, pointed gray goatee and sharply arched eyebrows. His grin is wide and unsettling, paired with narrowed eyes that give a mischievous or scheming expression. He wears a brown jacket over a green striped shirt. His posture and expression make him appear intrusive, overly curious, and uncomfortably amused.",
-		"animal": "rat",
-		"occupation": "retired handyman who snoops on everyone",
-		"sexualOrientation": "straight",
-		"ethnicity": "white",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [
-			"nosy",
-			"mischievous",
-			"manipulative",
-			"eccentric",
-			"loner",
-			"suspicious",
-			"sarcastic",
-			"secretive"
-		],
-		"alignment": "Chaotic-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Aries"
-	},
-	"us-005": {
-		"id": "us-005",
-		"prompt": "18-year-old snowboarder",
-		"persona": {
-			"en": "the snowboarder",
-			"pt": "o snowboarder"
-		},
-		"description": "An 18-year-old blond young man with messy windswept hair and a mischievous, confident smirk. He wears blue ski goggles with orange lenses resting on his forehead and a blue snow jacket with a yellow zipper. His expression shows cocky enthusiasm and a thrill-seeking attitude typical of extreme sports athletes.",
-		"animal": "snow leopard",
-		"occupation": "competitive snowboarder",
-		"sexualOrientation": "straight",
-		"ethnicity": "white",
-		"economicClass": "middle",
-		"educationLevel": "basic",
-		"traits": [
-			"athletic",
-			"adventurous",
-			"reckless",
-			"confident",
-			"daredevil",
-			"energetic",
-			"competitive",
-			"outdoorsy"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ESTJ",
-		"zodiacSign": "Aries"
-	},
-	"us-006": {
-		"id": "us-006",
-		"prompt": "26-year-old white jock",
-		"persona": {
-			"en": "the jock",
-			"pt": "o atleta"
-		},
-		"description": "A 26-year-old white man with styled black hair and a confident, cocky smirk. He has thick, expressive eyebrows and a muscular build suggested by his posture. He wears a blue and yellow varsity jacket with a prominent 'T' letter patch, along with a casual white shirt underneath. His expression radiates competitiveness, charm, and a bit of arrogance.",
-		"animal": "bulldog",
-		"occupation": "gym instructor and former college athlete",
-		"sexualOrientation": "straight",
-		"ethnicity": "white",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": [
-			"athletic",
-			"confident",
-			"competitive",
-			"charismatic",
-			"popular",
-			"outgoing",
-			"protective",
-			"sometimes cocky"
-		],
-		"alignment": "Chaotic-Neutral",
-		"mbti": "ESTP",
-		"zodiacSign": "Aries"
-	},
-	"us-007": {
-		"id": "us-007",
-		"prompt": "18-year-old white nerd",
-		"persona": {
-			"en": "the nerd",
-			"pt": "o nerd"
-		},
-		"description": "An 18-year-old white young man with neatly combed brown hair, large round black-rimmed glasses, and a gentle, friendly smile. He wears a cream-colored button-up shirt under a teal cardigan with a yellow plaid pattern. His posture is relaxed and approachable, giving off a studious, mild-mannered, and thoughtful vibe.",
-		"animal": "owl",
-		"occupation": "high school academic tutor",
-		"sexualOrientation": "straight",
-		"ethnicity": "white",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": [
-			"studious",
-			"introverted",
-			"polite",
-			"bookish",
-			"logical",
-			"soft-spoken",
-			"tech-savvy",
-			"organized"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "INTJ",
-		"zodiacSign": "Virgo"
-	},
-	"us-008": {
-		"id": "us-008",
-		"prompt": "55-year-old black man",
-		"persona": {
-			"en": "the amateur chess player retiree",
-			"pt": "o aposentado jogador de xadrez amador"
-		},
-		"description": "A 55-year-old Black man with a calm, thoughtful expression. He has a neatly trimmed salt-and-pepper beard and mustache, warm brown eyes, and light freckles. He wears a blue flat cap and a colorful striped scarf in yellow, teal, green, and orange tones over a brown coat. His demeanor is gentle, friendly, and quietly analytical—someone who enjoys slow mornings and strategic thinking.",
-		"animal": "tortoise",
-		"occupation": "retired postal worker",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "middle",
-		"educationLevel": "high",
-		"traits": [
-			"patient",
-			"strategic",
-			"calm",
-			"friendly",
-			"introverted",
-			"observant",
-			"routine-oriented",
-			"thoughtful"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISFJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-009": {
-		"id": "us-009",
-		"prompt": "90-year-old white woman",
-		"persona": {
-			"en": "the witch",
-			"pt": "a bruxa"
-		},
-		"description": "A 90-year-old white woman with long, thin silver hair and sharp, angular facial features. Her nose is long and curved, her eyebrows arched, and her pale eyes carry a piercing, mischievous gleam. She wears a dark blue hooded cloak over a teal garment, giving her a mysterious, almost supernatural presence. Her faint smirk suggests she knows more than she lets on, exuding an eerie and enigmatic aura.",
-		"animal": "raven",
-		"occupation": "hermit herbalist",
-		"sexualOrientation": "other",
-		"ethnicity": "white",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [
-			"mysterious",
-			"eccentric",
-			"secretive",
-			"crafty",
-			"observant",
-			"intuitive",
-			"superstitious",
-			"enigmatic"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-010": {
-		"id": "us-010",
-		"prompt": "55-year-old Amish man",
-		"persona": {
-			"en": "the amish",
-			"pt": "o amish"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-011": {
-		"id": "us-011",
-		"prompt": "47-year-old man with brown hair",
-		"persona": {
-			"en": "the absent husband",
-			"pt": "o marido ausente"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ESTJ",
-		"zodiacSign": "Aries"
-	},
-	"us-012": {
-		"id": "us-012",
-		"prompt": "48-year-old black woman",
-		"persona": {
-			"en": "the loving auntie",
-			"pt": "a tia amorosa"
-		},
-		"description": "A 48-year-old Black woman with warm brown eyes, soft features, and a joyful, welcoming smile. She has medium-length curly hair and wears a pink top under a dark cardigan with a light scarf draped loosely around her neck. Her expression radiates kindness, comfort, and genuine affection, giving her a nurturing, dependable presence.",
-		"animal": "golden retriever",
-		"occupation": "elementary school teacher",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": [
-			"warm",
-			"caring",
-			"nurturing",
-			"optimistic",
-			"family-oriented",
-			"supportive",
-			"empathetic",
-			"community-focused"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISFJ",
-		"zodiacSign": "Cancer"
-	},
-	"us-013": {
-		"id": "us-013",
-		"prompt": "27-year-old asian woman",
-		"persona": {
-			"en": "the zen girl",
-			"pt": "a garota zen"
-		},
-		"description": "A 27-year-old Asian woman with teal bob-cut hair and calm, half-lidded eyes. She has a small bindi-like dot on her forehead, a septum piercing, and a labret piercing below her lip. She wears beaded necklaces and a blue tank top, with a pink patterned scarf casually draped over one shoulder. Her expression is serene yet detached, giving her a peaceful, introspective, and spiritually attuned vibe.",
-		"animal": "cat",
-		"occupation": "yoga instructor and crystal healer",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "asian",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": [
-			"calm",
-			"spiritual",
-			"intuitive",
-			"artistic",
-			"mindful",
-			"minimalist",
-			"free-spirited",
-			"alternative"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "INFJ",
-		"zodiacSign": "Pisces"
-	},
-	"us-014": {
-		"id": "us-014",
-		"prompt": "22-year-old guy with blonde hair",
-		"persona": {
-			"en": "the silent troubled boy",
-			"pt": "o garoto silencioso e perturbado"
-		},
-		"description": "A 22-year-old white man with blonde hair mostly hidden under a dark green hoodie. His expression is blank and distant, with heavy-lidded eyes and a slight frown that suggests emotional weight or inner turmoil. His posture is closed-off and guarded, giving him an aura of withdrawal and quiet struggle.",
-		"animal": "lone wolf",
-		"occupation": "part-time convenience store clerk",
-		"sexualOrientation": "straight",
-		"ethnicity": "white",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [
-			"quiet",
-			"withdrawn",
-			"anxious",
-			"sensitive",
-			"introverted",
-			"brooding",
-			"observant",
-			"emotionally complex"
-		],
-		"alignment": "Lawful-Neutral",
-		"mbti": "INTJ",
-		"zodiacSign": "Scorpio"
-	},
-	"us-015": {
-		"id": "us-015",
-		"prompt": "56-year-old man",
-		"persona": {
-			"en": "the depressive widower",
-			"pt": "o viúvo depressivo"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "INFJ",
-		"zodiacSign": "Pisces"
-	},
-	"us-016": {
-		"id": "us-016",
-		"prompt": "26-year-old Indian woman",
-		"persona": {
-			"en": "the Indian girl",
-			"pt": "a indiana"
-		},
-		"description": "",
-		"animal": "elephant",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "indian",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ESFJ",
-		"zodiacSign": "Libra"
-	},
-	"us-017": {
-		"id": "us-017",
-		"prompt": "24-year-old latino guy",
-		"persona": {
-			"en": "the grandma's boy",
-			"pt": "o menino criado pela avó"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "True Neutral",
-		"mbti": "ISFJ",
-		"zodiacSign": "Cancer"
-	},
-	"us-018": {
-		"id": "us-018",
-		"prompt": "64-year-old white man",
-		"persona": {
-			"en": "the landowner",
-			"pt": "o fazendeiro"
-		},
-		"description": "",
-		"animal": "the walrus",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ESTJ",
-		"zodiacSign": "Aries"
-	},
-	"us-019": {
-		"id": "us-019",
-		"prompt": "54-year-old handsome white man",
-		"persona": {
-			"en": "the charming business man",
-			"pt": "o empresário charmoso"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "high",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-020": {
-		"id": "us-020",
-		"prompt": "64-year-old white woman",
-		"persona": {
-			"en": "the chain-smoking aunt",
-			"pt": "a tia fumante"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-021": {
-		"id": "us-021",
-		"prompt": "31-year-old muslin woman",
-		"persona": {
-			"en": "the muslin woman",
-			"pt": "a mulher muçulmana"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "middle-eastern",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISFJ",
-		"zodiacSign": "Cancer"
-	},
-	"us-022": {
-		"id": "us-022",
-		"prompt": "25-year-old black woman",
-		"persona": {
-			"en": "the troublemaker",
-			"pt": "a encrenqueira"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Chaotic-Neutral",
-		"mbti": "ESFP",
-		"zodiacSign": "Aries"
-	},
-	"us-023": {
-		"id": "us-023",
-		"prompt": "28-year-old white man",
-		"persona": {
-			"en": "the tired delivery guy",
-			"pt": "o entregador cansado"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "lower",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-024": {
-		"id": "us-024",
-		"prompt": "67-year-old indian man",
-		"persona": {
-			"en": "the Indian guy",
-			"pt": "o indiano"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "indian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-025": {
-		"id": "us-025",
-		"prompt": "66-year-old white woman",
-		"persona": {
-			"en": "the rich lady",
-			"pt": "a ricaça"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ENTJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-026": {
-		"id": "us-026",
-		"prompt": "53-year-old man",
-		"persona": {
-			"en": "the coach",
-			"pt": "o treinador"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": ["sporty"],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ESTJ",
-		"zodiacSign": "Sagittarius"
-	},
-	"us-027": {
-		"id": "us-027",
-		"prompt": "64-year-old white man",
-		"persona": {
-			"en": "the grumpy grandpa next door",
-			"pt": "o vovô rabugento da vizinhança"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "Lawful-Neutral",
-		"mbti": "ISTJ",
-		"zodiacSign": "Taurus"
-	},
-	"us-028": {
-		"id": "us-028",
-		"prompt": "30-year-old white woman with red hair",
-		"persona": {
-			"en": "the kindergarten teacher",
-			"pt": "a professora de primário"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-029": {
-		"id": "us-029",
-		"prompt": "24-year-old black guy",
-		"persona": {
-			"en": "the shy romantic",
-			"pt": "o romântico tímido"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-030": {
-		"id": "us-030",
-		"prompt": "49-year-old white man",
-		"persona": {
-			"en": "the corporate CEO",
-			"pt": "o CEO corporativo"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-031": {
-		"id": "us-031",
-		"prompt": "25-year-old white woman",
-		"persona": {
-			"en": "the flight attendant",
-			"pt": "a aeromoça"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-032": {
-		"id": "us-032",
-		"prompt": "28-year-old white woman",
-		"persona": {
-			"en": "the petty mean girl",
-			"pt": "a patricinha manipuladora"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-033": {
-		"id": "us-033",
-		"prompt": "44-year-old latino man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-034": {
-		"id": "us-034",
-		"prompt": "32-year-old black man",
-		"persona": {
-			"en": "the mechanic",
-			"pt": "o mecânico"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-035": {
-		"id": "us-035",
-		"prompt": "39-year-old white man",
-		"persona": {
-			"en": "the dad-joke uncle",
-			"pt": "o tio do pavê"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-036": {
-		"id": "us-036",
-		"prompt": "28-year-old asian man",
-		"persona": {
-			"en": "the accountant",
-			"pt": "o contador"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-037": {
-		"id": "us-037",
-		"prompt": "24-year-old black man",
-		"persona": {
-			"en": "the rapper",
-			"pt": "o rapper"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": ["music"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-038": {
-		"id": "us-038",
-		"prompt": "42-year-old chinese woman",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-039": {
-		"id": "us-039",
-		"prompt": "37-year-old white woman",
-		"persona": {
-			"en": "the depressed woman",
-			"pt": "a mulher depressiva"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-040": {
-		"id": "us-040",
-		"prompt": "57-year-old black woman",
-		"persona": {
-			"en": "the church lady",
-			"pt": "a tia da igreja"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-041": {
-		"id": "us-041",
-		"prompt": "28-year-old black man",
-		"persona": {
-			"en": "the dealer",
-			"pt": "o traficante"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-042": {
-		"id": "us-042",
-		"prompt": "42-year-old white woman",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-043": {
-		"id": "us-043",
-		"prompt": "32-year-old latina woman",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-044": {
-		"id": "us-044",
-		"prompt": "55-year-old white man",
-		"persona": {
-			"en": "the geppetto lookalike",
-			"pt": "o sósia do Geppetto"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-045": {
-		"id": "us-045",
-		"prompt": "65-year-old white woman",
-		"persona": {
-			"en": "the grandma",
-			"pt": "a vovó"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-046": {
-		"id": "us-046",
-		"prompt": "24-year-old latino man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-047": {
-		"id": "us-047",
-		"prompt": "33-year-old white man",
-		"persona": {
-			"en": "the biker",
-			"pt": "o motociclista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-048": {
-		"id": "us-048",
-		"prompt": "25-year-old black woman",
-		"persona": {
-			"en": "the human rights activist",
-			"pt": "a ativista dos direitos humanos"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-049": {
-		"id": "us-049",
-		"prompt": "52-year-old white woman",
-		"persona": {
-			"en": "the socialite",
-			"pt": "a socialite"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "college",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-050": {
-		"id": "us-050",
-		"prompt": "35-year-old white man",
-		"persona": {
-			"en": "the gay bear",
-			"pt": "o urso gay"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-051": {
-		"id": "us-051",
-		"prompt": "48-year-old white man",
-		"persona": {
-			"en": "the rock-and-roller",
-			"pt": "o roqueiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-052": {
-		"id": "us-052",
-		"prompt": "31-year-old latino man",
-		"persona": {
-			"en": "the pagode musician",
-			"pt": "o pagodeiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-053": {
-		"id": "us-053",
-		"prompt": "32-year-old chinese man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-054": {
-		"id": "us-054",
-		"prompt": "27-year-old handsome blond white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "college",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-055": {
-		"id": "us-055",
-		"prompt": "36-year-old white woman with pink hair",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-056": {
-		"id": "us-056",
-		"prompt": "42-year-old white woman",
-		"persona": {
-			"en": "the soccer mom",
-			"pt": "a mãe de atleta"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-057": {
-		"id": "us-057",
-		"prompt": "62-year-old white woman",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-058": {
-		"id": "us-058",
-		"prompt": "58-year-old black man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-059": {
-		"id": "us-059",
-		"prompt": "54-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-060": {
-		"id": "us-060",
-		"prompt": "33-year-old white man with brown hair",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-061": {
-		"id": "us-061",
-		"prompt": "46-year-old white hippie man",
-		"persona": {
-			"en": "the hippie",
-			"pt": "o hippie"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "caucasian",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-062": {
-		"id": "us-062",
-		"prompt": "30-year-old dark latino man",
-		"persona": {
-			"en": "the peruvian guy",
-			"pt": "o peruano"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-063": {
-		"id": "us-063",
-		"prompt": "26-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-064": {
-		"id": "us-064",
-		"prompt": "46-year-old white woman",
-		"persona": {
-			"en": "the metalhead",
-			"pt": "a roqueira"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": ["music"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-065": {
-		"id": "us-065",
-		"prompt": "25-year-old filipino man",
-		"persona": {
-			"en": "the filipino",
-			"pt": "o filipino"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-066": {
-		"id": "us-066",
-		"prompt": "27-year-old white man",
-		"persona": {
-			"en": "the lumberjack",
-			"pt": "o lenhador"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-067": {
-		"id": "us-067",
-		"prompt": "52-year-old white man",
-		"persona": {
-			"en": "the policeman",
-			"pt": "o policial"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-068": {
-		"id": "us-068",
-		"prompt": "58-year-old native American man",
-		"persona": {
-			"en": "the native chief",
-			"pt": "o chefe da tribo"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "indigenous",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-069": {
-		"id": "us-069",
-		"prompt": "7-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "lower",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-070": {
-		"id": "us-070",
-		"prompt": "82-year-old white woman",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-071": {
-		"id": "us-071",
-		"prompt": "42-year-old black man",
-		"persona": {
-			"en": "the detective",
-			"pt": "o detetive"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-072": {
-		"id": "us-072",
-		"prompt": "28-year-old mixed asian-black man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "mixed",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-073": {
-		"id": "us-073",
-		"prompt": "24-year-old white woman",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-074": {
-		"id": "us-074",
-		"prompt": "28-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-075": {
-		"id": "us-075",
-		"prompt": "37-year-old black woman",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-076": {
-		"id": "us-076",
-		"prompt": "27-year-old white woman",
-		"persona": {
-			"en": "the amateur baker",
-			"pt": "a confeiteira"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-077": {
-		"id": "us-077",
-		"prompt": "55-year-old japanese man",
-		"persona": {
-			"en": "the chef",
-			"pt": "o cozinheiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-078": {
-		"id": "us-078",
-		"prompt": "26-year-old white man",
-		"persona": {
-			"en": "the marine",
-			"pt": "o fuzileiro naval"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-079": {
-		"id": "us-079",
-		"prompt": "43-year-old white woman",
-		"persona": {
-			"en": "the lesbian",
-			"pt": "a sapatona"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-080": {
-		"id": "us-080",
-		"prompt": "34-year-old black doctor woman",
-		"persona": {
-			"en": "the doctor",
-			"pt": "a médica"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-081": {
-		"id": "us-081",
-		"prompt": "68-year-old eccentric white man",
-		"persona": {
-			"en": "the vampire",
-			"pt": "o vampiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-082": {
-		"id": "us-082",
-		"prompt": "47-year-old Italian man",
-		"persona": {
-			"en": "the mafia boss",
-			"pt": "o mafioso"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-083": {
-		"id": "us-083",
-		"prompt": "52-year-old Eskimo man",
-		"persona": {
-			"en": "the Eskimo",
-			"pt": "o esquimó"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "mixed",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-084": {
-		"id": "us-084",
-		"prompt": "26-year-old white man with brown hair",
-		"persona": {
-			"en": "the golden retriever boyfriend",
-			"pt": "o namorado bom moço"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-085": {
-		"id": "us-085",
-		"prompt": "18-year-old black student girl",
-		"persona": {
-			"en": "the student",
-			"pt": "a estudante"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-086": {
-		"id": "us-086",
-		"prompt": "22-year-old geisha",
-		"persona": {
-			"en": "the geisha",
-			"pt": "a gueisha"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-087": {
-		"id": "us-087",
-		"prompt": "23-year-old average-looking woman",
-		"persona": {
-			"en": "the emily in paris",
-			"pt": "a estudante de intercâmbio"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-088": {
-		"id": "us-088",
-		"prompt": "19-year-old boy with brown hair",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-089": {
-		"id": "us-089",
-		"prompt": "30-year-old black woman",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-090": {
-		"id": "us-090",
-		"prompt": "23-year-old bombshell red headed woman",
-		"persona": {
-			"en": "the bombshell",
-			"pt": "a ruiva deslumbrante"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-091": {
-		"id": "us-091",
-		"prompt": "55-year-old Japanese karate master",
-		"persona": {
-			"en": "the karate master",
-			"pt": "o mestre de karatê"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-092": {
-		"id": "us-092",
-		"prompt": "37-year-old Jewish woman",
-		"persona": {
-			"en": "a government worker",
-			"pt": "a funcionária pública"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-093": {
-		"id": "us-093",
-		"prompt": "32-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-094": {
-		"id": "us-094",
-		"prompt": "34-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-095": {
-		"id": "us-095",
-		"prompt": "27-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-096": {
-		"id": "us-096",
-		"prompt": "46-year-old white man who is a red head sailor",
-		"persona": {
-			"en": "the sailor",
-			"pt": "o marinheiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-097": {
-		"id": "us-097",
-		"prompt": "28-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": ["eccentric"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-098": {
-		"id": "us-098",
-		"prompt": "42-year-old mixed race latino man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-099": {
-		"id": "us-099",
-		"prompt": "23-year-old beautiful black woman",
-		"persona": {
-			"en": "the samba girl",
-			"pt": "a passista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": ["music"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-100": {
-		"id": "us-100",
-		"prompt": "36-year-old white man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-101": {
-		"id": "us-101",
-		"prompt": "34 -year-old Chinese man",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-102": {
-		"id": "us-102",
-		"prompt": "61-year-old white man",
-		"persona": {
-			"en": "the fisher hobbiest",
-			"pt": "o pescador amador"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-103": {
-		"id": "us-103",
-		"prompt": "41-year-old Jewish man",
-		"persona": {
-			"en": "the jewish man",
-			"pt": "o judeu"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-104": {
-		"id": "us-104",
-		"prompt": "27-year-old white priest",
-		"persona": {
-			"en": "the priest",
-			"pt": "o padre"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": ["religious"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-105": {
-		"id": "us-105",
-		"prompt": "32-year-old white woman",
-		"persona": {
-			"en": "the librarian",
-			"pt": "a bibliotecária"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-106": {
-		"id": "us-106",
-		"prompt": "45-year-old black woman",
-		"persona": {
-			"en": "a candidata",
-			"pt": "a candidata"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-107": {
-		"id": "us-107",
-		"prompt": "68-year-old white man",
-		"persona": {
-			"en": "the professor",
-			"pt": "o professor"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-108": {
-		"id": "us-108",
-		"prompt": "24-year-old light brown skin Brazilian man",
-		"persona": {
-			"en": "the soccer player",
-			"pt": "o jogador de futebol"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": ["sporty"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-109": {
-		"id": "us-109",
-		"prompt": "28-year-old white nun",
-		"persona": {
-			"en": "the nun",
-			"pt": "a freira"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "",
-		"ethnicity": "caucasian",
-		"economicClass": "lower",
-		"educationLevel": "",
-		"traits": ["religious"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-110": {
-		"id": "us-110",
-		"prompt": "55-year-old middle-eastern man",
-		"persona": {
-			"en": "the muslin",
-			"pt": "o muçulmano"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "middle-eastern",
-		"economicClass": "",
-		"educationLevel": "basic",
-		"traits": ["religious"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-111": {
-		"id": "us-111",
-		"prompt": "25-year-old white drag queen",
-		"persona": {
-			"en": "the drag queen",
-			"pt": "a drag queen"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "middle",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-112": {
-		"id": "us-112",
-		"prompt": "32-year-old Jamaican man",
-		"persona": {
-			"en": "the Jamaican",
-			"pt": "o jamaicano"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-113": {
-		"id": "us-113",
-		"prompt": "20-year-old Korean guy",
-		"persona": {
-			"en": "the korean boy",
-			"pt": "o menino coreano"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-114": {
-		"id": "us-114",
-		"prompt": "38-year-old white man",
-		"persona": {
-			"en": "the indiana jones",
-			"pt": "o indiana jones"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-115": {
-		"id": "us-115",
-		"prompt": "20-year-old tanned Hawaiian guy",
-		"persona": {
-			"en": "the hawaiian boy",
-			"pt": "o havaiano"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "mixed",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-116": {
-		"id": "us-116",
-		"prompt": "26-year-old flamboyant guy",
-		"persona": {
-			"en": "the flamboyant gay",
-			"pt": "o gay espalhafatoso"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-117": {
-		"id": "us-117",
-		"prompt": "24-year-old chinese guy",
-		"persona": {
-			"en": "",
-			"pt": ""
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-118": {
-		"id": "us-118",
-		"prompt": "34-year-old fat white woman",
-		"persona": {
-			"en": "the white trash",
-			"pt": "a pobre branca"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-119": {
-		"id": "us-119",
-		"prompt": "22-year-old Indian man",
-		"persona": {
-			"en": "the indian boy",
-			"pt": "o menino indiano"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "indian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-120": {
-		"id": "us-120",
-		"prompt": "18-year-old Korean girl",
-		"persona": {
-			"en": "the k-popper",
-			"pt": "a menina k-pop"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-121": {
-		"id": "us-121",
-		"prompt": "50-year-old Mexican woman",
-		"persona": {
-			"en": "the mexican mom",
-			"pt": "a tia mexicana"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-122": {
-		"id": "us-122",
-		"prompt": "42-year-old white man",
-		"persona": {
-			"en": "the superhero",
-			"pt": "o super-herói"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-123": {
-		"id": "us-123",
-		"prompt": "34-year-old Chinese woman",
-		"persona": {
-			"en": "the tiger mom",
-			"pt": "a mãe tigresa"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-124": {
-		"id": "us-124",
-		"prompt": "19-year-old goth girl",
-		"persona": {
-			"en": "the goth girl",
-			"pt": "a gótica"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-125": {
-		"id": "us-125",
-		"prompt": "35-year-old greek man",
-		"persona": {
-			"en": "the greek",
-			"pt": "o grego"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-126": {
-		"id": "us-126",
-		"prompt": "24-year-old very handsome slick black man",
-		"persona": {
-			"en": "the model",
-			"pt": "o modelo"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-127": {
-		"id": "us-127",
-		"prompt": "23-year-old very beautiful black woman",
-		"persona": {
-			"en": "the black bald model",
-			"pt": "a modelo negra careca"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-128": {
-		"id": "us-128",
-		"prompt": "25-year-old non-binary person",
-		"persona": {
-			"en": "the non-binary",
-			"pt": "o não-binário"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "other",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-129": {
-		"id": "us-129",
-		"prompt": "26-year-old black woman with vitiligo",
-		"persona": {
-			"en": "the vitiligo girl",
-			"pt": "a menina com vitiligo"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-130": {
-		"id": "us-130",
-		"prompt": "27-year-old white man with golden teeth",
-		"persona": {
-			"en": "the white rapper",
-			"pt": "o rapper branco"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "middle",
-		"educationLevel": "basic",
-		"traits": ["music"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-131": {
-		"id": "us-131",
-		"prompt": "33-year-old woman with exaggerated lip-injections",
-		"persona": {
-			"en": "the plastic surgery doll",
-			"pt": "a boneca de cirurgia plástica"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-132": {
-		"id": "us-132",
-		"prompt": "38-year-old white man",
-		"persona": {
-			"en": "the hooligan",
-			"pt": "o hooligan"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-133": {
-		"id": "us-133",
-		"prompt": "57-year-old Thai monk",
-		"persona": {
-			"en": "the monk",
-			"pt": "o monge"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-134": {
-		"id": "us-134",
-		"prompt": "19-year-old entitled white boy",
-		"persona": {
-			"en": "the heir",
-			"pt": "o herdeiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "college",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-135": {
-		"id": "us-135",
-		"prompt": "37-year-old white bodybuilder with oiled torso",
-		"persona": {
-			"en": "the bodybuilder",
-			"pt": "o fisiculturista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-136": {
-		"id": "us-136",
-		"prompt": "23-year-old white woman with piercings",
-		"persona": {
-			"en": "bald piercing girl",
-			"pt": "a menina careca com piercings"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-137": {
-		"id": "us-137",
-		"prompt": "43-year-old white woman with a bob haircut",
-		"persona": {
-			"en": "karen",
-			"pt": "a barraqueira"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-138": {
-		"id": "us-138",
-		"prompt": "36-year-old latina woman",
-		"persona": {
-			"en": "the disney adult",
-			"pt": "a adulta da disney"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-139": {
-		"id": "us-139",
-		"prompt": "32-year-old dwarf man",
-		"persona": {
-			"en": "the dwarf",
-			"pt": "o anão"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-140": {
-		"id": "us-140",
-		"prompt": "43-year-old white man",
-		"persona": {
-			"en": "the creepy janitor",
-			"pt": "o zelador esquisito"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-141": {
-		"id": "us-141",
-		"prompt": "34-year-old white man",
-		"persona": {
-			"en": "the pervert incel",
-			"pt": "o incel tarado nojento"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-142": {
-		"id": "us-142",
-		"prompt": "26-year-old latina chola woman",
-		"persona": {
-			"en": "the chola",
-			"pt": "a chola mexicana"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-143": {
-		"id": "us-143",
-		"prompt": "20-year-old emo guy",
-		"persona": {
-			"en": "the emo",
-			"pt": "o emo"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-144": {
-		"id": "us-144",
-		"prompt": "43-year-old ex-con white man",
-		"persona": {
-			"en": "the ex-con",
-			"pt": "o ex-presidiário"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-145": {
-		"id": "us-145",
-		"prompt": "32-year-old latino woman",
-		"persona": {
-			"en": "the clerk",
-			"pt": "a balconista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-146": {
-		"id": "us-146",
-		"prompt": "58-year-old white woman dressed as a young girl",
-		"persona": {
-			"en": "the young old lady",
-			"pt": "a xóvem senhora idosa"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "other",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-147": {
-		"id": "us-147",
-		"prompt": "32-year-old white meth head",
-		"persona": {
-			"en": "the addict",
-			"pt": "o viciado"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "lower",
-		"educationLevel": "none",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-148": {
-		"id": "us-148",
-		"prompt": "25-year-old albino man",
-		"persona": {
-			"en": "the albino",
-			"pt": "o albino"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-149": {
-		"id": "us-149",
-		"prompt": "26-year-old native American woman",
-		"persona": {
-			"en": "the native girl",
-			"pt": "a índia"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "lower",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-150": {
-		"id": "us-150",
-		"prompt": "28-year-old white woman",
-		"persona": {
-			"en": "the dominatrix",
-			"pt": "a sadomasoquista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-151": {
-		"id": "us-151",
-		"prompt": "35 year old black muscular bouncer",
-		"persona": {
-			"en": "the bouncer",
-			"pt": "o segurança"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-152": {
-		"id": "us-152",
-		"prompt": "30 year old white man in a pink fox furry costume",
-		"persona": {
-			"en": "the furry",
-			"pt": "o furry"
-		},
-		"description": "",
-		"animal": "Sheep",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-153": {
-		"id": "us-153",
-		"prompt": "90-year-old chinese man with a straw hat",
-		"persona": {
-			"en": "the chinese rice farmer",
-			"pt": "o chinezinho"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "lower",
-		"educationLevel": "none",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-154": {
-		"id": "us-154",
-		"prompt": "25-year-old white man with down syndrome. Make it very clear he has down syndrome",
-		"persona": {
-			"en": "the down syndrome boy",
-			"pt": "o menino com síndrome de down"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-155": {
-		"id": "us-155",
-		"prompt": "36-year-old of a 40 year housewife with curlers in a bad mood",
-		"persona": {
-			"en": "the housewife",
-			"pt": "a dona-de-casa"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-156": {
-		"id": "us-156",
-		"prompt": "60 year old black woman \"mãe de santo\" from african religions",
-		"persona": {
-			"en": "the mãe de santo",
-			"pt": "a mãe de santo"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-157": {
-		"id": "us-157",
-		"prompt": "a extra joyful 22-year-old girl scout troop leader",
-		"persona": {
-			"en": "girls scout troop leader",
-			"pt": "a escoteira"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-158": {
-		"id": "us-158",
-		"prompt": "18 year old white girl with braces around her head, very very nerdy and shy with pimples, smiling, average looking",
-		"persona": {
-			"en": "the nerd with braces",
-			"pt": "a nerd de aparelho"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-159": {
-		"id": "us-159",
-		"prompt": "40 year old black woman in a tracksuit looking sassy",
-		"persona": {
-			"en": "the sassy black lady",
-			"pt": "a negra atrevida"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-160": {
-		"id": "us-160",
-		"prompt": "27 year old very fat chinese guy",
-		"persona": {
-			"en": "the fat chinese guy",
-			"pt": "o gorducho chinês"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-161": {
-		"id": "us-161",
-		"prompt": "25-year-old trans thai person, make sure it has an adam's apple.",
-		"persona": {
-			"en": "the thai lady boy",
-			"pt": "a trans tailandesa"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "other",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-162": {
-		"id": "us-162",
-		"prompt": "26 year old conjoined twins, make sure they look conjoined.",
-		"persona": {
-			"en": "the conjoined twins",
-			"pt": "as irmãs siamesas"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-163": {
-		"id": "us-163",
-		"prompt": "18 year old young very skinny boy with a mesh tank top",
-		"persona": {
-			"en": "gay boy",
-			"pt": "gayzinha poc"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-164": {
-		"id": "us-164",
-		"prompt": "24 year old woman with a fur coat",
-		"persona": {
-			"en": "the call girl",
-			"pt": "a garota de programa"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-165": {
-		"id": "us-165",
-		"prompt": "47 year old flamboyant fashion designer",
-		"persona": {
-			"en": "the clothing designer",
-			"pt": "o estilista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-166": {
-		"id": "us-166",
-		"prompt": "38 year old jealous brown latina woman",
-		"persona": {
-			"en": "the hot headed latina",
-			"pt": "a latina esquentada"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-167": {
-		"id": "us-167",
-		"prompt": "34 year old arab sheik with a smirk",
-		"persona": {
-			"en": "the arab sheik",
-			"pt": "o sheik árabe"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "middle-eastern",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-168": {
-		"id": "us-168",
-		"prompt": "60 year old politician with money hidden everywhere on a dark blue suit",
-		"persona": {
-			"en": "the politician",
-			"pt": "o político"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "college",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-169": {
-		"id": "us-169",
-		"prompt": "34 year old rich asian woman",
-		"persona": {
-			"en": "the crazy rich asian",
-			"pt": "a asiática ricaça"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "upper",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-170": {
-		"id": "us-170",
-		"prompt": "27 year old middle eastern woman wearing a burqa looking mysterious",
-		"persona": {
-			"en": "the burqa woman",
-			"pt": "a mulher de burca"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "middle-eastern",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-171": {
-		"id": "us-171",
-		"prompt": "56 year old Armenian man with a very hairy body",
-		"persona": {
-			"en": "the armenian guy",
-			"pt": "o armeno"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "other",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-172": {
-		"id": "us-172",
-		"prompt": "42 year old poor latino bricklayer man",
-		"persona": {
-			"en": "the bricklayer",
-			"pt": "o pedreiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "lower",
-		"educationLevel": "none",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-173": {
-		"id": "us-173",
-		"prompt": "28 year old party girl with a drunk expression on her face",
-		"persona": {
-			"en": "the drunk party girl",
-			"pt": "a bêbada festeira"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-174": {
-		"id": "us-174",
-		"prompt": "38-year-old sleazy italian man with thick lips, gel hair, looking smug",
-		"persona": {
-			"en": "the sleazy guy",
-			"pt": "o cara seboso"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "other",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-175": {
-		"id": "us-175",
-		"prompt": "36 year old brazilian aunt in a mood",
-		"persona": {
-			"en": "the aunt",
-			"pt": "a tia"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-176": {
-		"id": "us-176",
-		"prompt": "a 28 year old black man with a big afro with 70s clothes",
-		"persona": {
-			"en": "the afro dude",
-			"pt": "o black power"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-177": {
-		"id": "us-177",
-		"prompt": "37 year old nice guy overweight fire fighter",
-		"persona": {
-			"en": "the firefighter",
-			"pt": "o bombeiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-178": {
-		"id": "us-178",
-		"prompt": "25 year old black woman pop star with a plastic sculptural hair",
-		"persona": {
-			"en": "the hip hop artist",
-			"pt": "a artista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "upper",
-		"educationLevel": "",
-		"traits": ["eccentric", "music"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-179": {
-		"id": "us-179",
-		"prompt": "18 year old japanese asian gamer girl",
-		"persona": {
-			"en": "the gamer girl",
-			"pt": "a gamer"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-180": {
-		"id": "us-180",
-		"prompt": "28 year old brown latino salsa dancer",
-		"persona": {
-			"en": "the salsa dancer",
-			"pt": "o dançarino"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-181": {
-		"id": "us-181",
-		"prompt": "70 year old eccentric white man",
-		"persona": {
-			"en": "the curator",
-			"pt": "o curador"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "upper",
-		"educationLevel": "high",
-		"traits": ["eccentric"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-182": {
-		"id": "us-182",
-		"prompt": "22 year old asian masseuse",
-		"persona": {
-			"en": "the masseuse",
-			"pt": "a massagista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "lower",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-183": {
-		"id": "us-183",
-		"prompt": "45 year old brown skin latina dirty homeless woman",
-		"persona": {
-			"en": "the beggar",
-			"pt": "a mendiga"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "lower",
-		"educationLevel": "none",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-184": {
-		"id": "us-184",
-		"prompt": "28 male stripper",
-		"persona": {
-			"en": "the stripper",
-			"pt": "o stripper"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-185": {
-		"id": "us-185",
-		"prompt": "55 brown latino truck driver",
-		"persona": {
-			"en": "the truck driver",
-			"pt": "o caminhoneiro"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-186": {
-		"id": "us-186",
-		"prompt": "32 year old fat black guy looking hungry",
-		"persona": {
-			"en": "the foodie",
-			"pt": "o comilão"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "middle",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-187": {
-		"id": "us-187",
-		"prompt": "22 year old black woman showing off her nails with lots of attitude",
-		"persona": {
-			"en": "the tiktop diva",
-			"pt": "a diva do tiktop"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-188": {
-		"id": "us-188",
-		"prompt": "36 year old brown latina woman",
-		"persona": {
-			"en": "the maid",
-			"pt": "a empregada"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "latino",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-189": {
-		"id": "us-189",
-		"prompt": "28 year old big black woman",
-		"persona": {
-			"en": "the big beautiful black woman",
-			"pt": "a negra grande e bonita"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-190": {
-		"id": "us-190",
-		"prompt": "32 year old awkward lesbian asian woman",
-		"persona": {
-			"en": "the awkward lesbian",
-			"pt": "a lésbica desajeitada"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "college",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-191": {
-		"id": "us-191",
-		"prompt": "50 year old white woman who is wiccan",
-		"persona": {
-			"en": "the wiccan",
-			"pt": "a bruxa"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "middle",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-192": {
-		"id": "us-192",
-		"prompt": "34 year old black voodoo witch",
-		"persona": {
-			"en": "the voodoo witch doctor",
-			"pt": "a médica de vodu"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "bisexual",
-		"ethnicity": "black",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-193": {
-		"id": "us-193",
-		"prompt": "27 year old Scottish woman with many freckles",
-		"persona": {
-			"en": "the Scottish girl",
-			"pt": "a escocesa"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "Scottish",
-		"economicClass": "upper",
-		"educationLevel": "college",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-194": {
-		"id": "us-194",
-		"prompt": "18-year-old light brown latino boy with a thin mustache and his face covered in acne",
-		"persona": {
-			"en": "the acne boy",
-			"pt": "o garoto com acne"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "Mexican",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-195": {
-		"id": "us-195",
-		"prompt": "45 year old russian henchman",
-		"persona": {
-			"en": "the Russian henchman",
-			"pt": "o capanga russo"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "Russian",
-		"economicClass": "middle",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-196": {
-		"id": "us-196",
-		"prompt": "a pale woman on her 30s fighting cancer",
-		"persona": {
-			"en": "the cancer survivor",
-			"pt": "a sobrevivente de câncer"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "middle",
-		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-197": {
-		"id": "us-197",
-		"prompt": "20 year old very nerdy asian guy",
-		"persona": {
-			"en": "the asian mathlete",
-			"pt": "a nerd asiático"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "straight",
-		"ethnicity": "Japanese",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": ["nerd"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-198": {
-		"id": "us-198",
-		"prompt": "It's a 34 year old brown-skin frail latina very devoted christian woman",
-		"persona": {
-			"en": "the devoted believer",
-			"pt": "a beata"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "other",
-		"ethnicity": "Latino",
-		"economicClass": "lower",
-		"educationLevel": "basic",
-		"traits": ["religious"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-199": {
-		"id": "us-199",
-		"prompt": "28 year old white man magician enthusiast",
-		"persona": {
-			"en": "the cosplayer",
-			"pt": "o cosplayer"
-		},
-		"description": "",
-		"animal": "Ferret",
-		"occupation": "Magician",
-		"sexualOrientation": "other",
-		"ethnicity": "caucasian",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": ["eccentric"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	},
-	"us-200": {
-		"id": "us-200",
-		"prompt": "26 year old feminist, in button pink plaid shirt, and dark circles",
-		"persona": {
-			"en": "the feminist",
-			"pt": "a feminista"
-		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
-		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "middle",
-		"educationLevel": "college",
-		"traits": ["feminist"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
-	}
+  "us-001": {
+    "id": "us-001",
+    "prompt": "28-year-old black man",
+    "persona": {
+      "en": "the poet",
+      "pt": "o poeta"
+    },
+    "description": "A 28-year-old Black man with a neatly groomed beard and mustache, wearing large square orange glasses, a grey fedora-style hat, a green blazer over a yellow checkered shirt, and an orange polka-dot bow tie. His expression is calm and thoughtful, giving an intellectual and gentle vibe.",
+    "animal": "owl",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "artistic",
+      "intellectual",
+      "introverted",
+      "thoughtful",
+      "gentle",
+      "romantic",
+      "well-mannered",
+      "aesthetic-driven"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "INTJ",
+    "profession": "creative writing teacher",
+    "zodiacSign": "Virgo"
+  },
+  "us-002": {
+    "id": "us-002",
+    "prompt": "25-year-old black man",
+    "persona": {
+      "en": "the administrative assistant",
+      "pt": "o assistente administrativo"
+    },
+    "description": "A 25-year-old Black man with short, tightly curled hair, wearing a burgundy suit jacket, a white dress shirt, and a striped tie. His expression is skeptical or mildly annoyed, with raised eyebrows and eyes looking to the side, giving him a no-nonsense, detail-oriented vibe.",
+    "animal": "meerkat",
+    "occupation": "office administrative assistant",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "organized",
+      "responsible",
+      "observant",
+      "punctual",
+      "rule-following",
+      "practical",
+      "slightly sarcastic",
+      "meticulous"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Aries"
+  },
+  "us-003": {
+    "id": "us-003",
+    "prompt": "30-year-old blond man",
+    "persona": {
+      "en": "the hipster",
+      "pt": "o hipster"
+    },
+    "description": "A 30-year-old blond man with a full beard and long, loosely tied-back hair. He wears a brown flat cap, a thick gray patterned scarf, and a teal coat. His expression is mildly suspicious or unimpressed, with slightly narrowed eyes and a guarded posture, giving him an aloof, indie-art-scene vibe.",
+    "animal": "fox",
+    "occupation": "independent barista and part-time illustrator",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "white",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "artistic",
+      "alternative",
+      "introverted",
+      "sarcastic",
+      "aesthetic-focused",
+      "coffee lover",
+      "music enthusiast",
+      "nonconformist"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "INTJ",
+    "zodiacSign": "Capricorn"
+  },
+  "us-004": {
+    "id": "us-004",
+    "prompt": "50-year-old bald man",
+    "persona": {
+      "en": "the creepy neighbor",
+      "pt": "o vizinho assustador"
+    },
+    "description": "A 55-year-old bald man with a thin, pointed gray goatee and sharply arched eyebrows. His grin is wide and unsettling, paired with narrowed eyes that give a mischievous or scheming expression. He wears a brown jacket over a green striped shirt. His posture and expression make him appear intrusive, overly curious, and uncomfortably amused.",
+    "animal": "rat",
+    "occupation": "retired handyman who snoops on everyone",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [
+      "nosy",
+      "mischievous",
+      "manipulative",
+      "eccentric",
+      "loner",
+      "suspicious",
+      "sarcastic",
+      "secretive"
+    ],
+    "alignment": "Chaotic-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Aries"
+  },
+  "us-005": {
+    "id": "us-005",
+    "prompt": "18-year-old snowboarder",
+    "persona": {
+      "en": "the snowboarder",
+      "pt": "o snowboarder"
+    },
+    "description": "An 18-year-old blond young man with messy windswept hair and a mischievous, confident smirk. He wears blue ski goggles with orange lenses resting on his forehead and a blue snow jacket with a yellow zipper. His expression shows cocky enthusiasm and a thrill-seeking attitude typical of extreme sports athletes.",
+    "animal": "snow leopard",
+    "occupation": "competitive snowboarder",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [
+      "athletic",
+      "adventurous",
+      "reckless",
+      "confident",
+      "daredevil",
+      "energetic",
+      "competitive",
+      "outdoorsy"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ESTJ",
+    "zodiacSign": "Aries"
+  },
+  "us-006": {
+    "id": "us-006",
+    "prompt": "26-year-old white jock",
+    "persona": {
+      "en": "the jock",
+      "pt": "o atleta"
+    },
+    "description": "A 26-year-old white man with styled black hair and a confident, cocky smirk. He has thick, expressive eyebrows and a muscular build suggested by his posture. He wears a blue and yellow varsity jacket with a prominent 'T' letter patch, along with a casual white shirt underneath. His expression radiates competitiveness, charm, and a bit of arrogance.",
+    "animal": "bulldog",
+    "occupation": "gym instructor and former college athlete",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "athletic",
+      "confident",
+      "competitive",
+      "charismatic",
+      "popular",
+      "outgoing",
+      "protective",
+      "sometimes cocky"
+    ],
+    "alignment": "Chaotic-Neutral",
+    "mbti": "ESTP",
+    "zodiacSign": "Aries"
+  },
+  "us-007": {
+    "id": "us-007",
+    "prompt": "18-year-old white nerd",
+    "persona": {
+      "en": "the nerd",
+      "pt": "o nerd"
+    },
+    "description": "An 18-year-old white young man with neatly combed brown hair, large round black-rimmed glasses, and a gentle, friendly smile. He wears a cream-colored button-up shirt under a teal cardigan with a yellow plaid pattern. His posture is relaxed and approachable, giving off a studious, mild-mannered, and thoughtful vibe.",
+    "animal": "owl",
+    "occupation": "high school academic tutor",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "studious",
+      "introverted",
+      "polite",
+      "bookish",
+      "logical",
+      "soft-spoken",
+      "tech-savvy",
+      "organized"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "INTJ",
+    "zodiacSign": "Virgo"
+  },
+  "us-008": {
+    "id": "us-008",
+    "prompt": "55-year-old black man",
+    "persona": {
+      "en": "the amateur chess player retiree",
+      "pt": "o aposentado jogador de xadrez amador"
+    },
+    "description": "A 55-year-old Black man with a calm, thoughtful expression. He has a neatly trimmed salt-and-pepper beard and mustache, warm brown eyes, and light freckles. He wears a blue flat cap and a colorful striped scarf in yellow, teal, green, and orange tones over a brown coat. His demeanor is gentle, friendly, and quietly analytical—someone who enjoys slow mornings and strategic thinking.",
+    "animal": "tortoise",
+    "occupation": "retired postal worker",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "middle",
+    "educationLevel": "high",
+    "traits": [
+      "patient",
+      "strategic",
+      "calm",
+      "friendly",
+      "introverted",
+      "observant",
+      "routine-oriented",
+      "thoughtful"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISFJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-009": {
+    "id": "us-009",
+    "prompt": "90-year-old white woman",
+    "persona": {
+      "en": "the witch",
+      "pt": "a bruxa"
+    },
+    "description": "A 90-year-old white woman with long, thin silver hair and sharp, angular facial features. Her nose is long and curved, her eyebrows arched, and her pale eyes carry a piercing, mischievous gleam. She wears a dark blue hooded cloak over a teal garment, giving her a mysterious, almost supernatural presence. Her faint smirk suggests she knows more than she lets on, exuding an eerie and enigmatic aura.",
+    "animal": "raven",
+    "occupation": "hermit herbalist",
+    "sexualOrientation": "other",
+    "ethnicity": "white",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [
+      "mysterious",
+      "eccentric",
+      "secretive",
+      "crafty",
+      "observant",
+      "intuitive",
+      "superstitious",
+      "enigmatic"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-010": {
+    "id": "us-010",
+    "prompt": "55-year-old Amish man",
+    "persona": {
+      "en": "the Amish",
+      "pt": "o amish"
+    },
+    "description": "A 55-year-old Amish man with a full reddish-brown beard, round gold-rimmed glasses, and a black wide-brimmed hat. He wears simple, traditional Amish clothing including a white shirt and dark coat. His expression is gentle and slightly solemn, reflecting a quiet, humble lifestyle rooted in faith, tradition, and community.",
+    "animal": "donkey",
+    "occupation": "carpenter",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [
+      "humble",
+      "traditional",
+      "soft-spoken",
+      "disciplined",
+      "honest",
+      "reserved",
+      "patient",
+      "hardworking"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-011": {
+    "id": "us-011",
+    "prompt": "47-year-old man with brown hair",
+    "persona": {
+      "en": "the absent husband",
+      "pt": "o marido ausente"
+    },
+    "description": "A 47-year-old white man with unkempt brown hair and a thick beard, wearing a faded orange patterned shirt. His half-lidded eyes, tired expression, and slightly slouched posture suggest someone checked out of his relationships and daily responsibilities. He looks worn down, distant, and emotionally disconnected, as if he’s been carrying unresolved frustrations for years.",
+    "animal": "sloth",
+    "occupation": "handyman",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [
+      "detached",
+      "apathetic",
+      "disenchanted",
+      "moody",
+      "introverted",
+      "unreliable",
+      "withdrawn",
+      "gruff"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ESTJ",
+    "zodiacSign": "Aries"
+  },
+  "us-012": {
+    "id": "us-012",
+    "prompt": "48-year-old black woman",
+    "persona": {
+      "en": "the loving auntie",
+      "pt": "a tia amorosa"
+    },
+    "description": "A 48-year-old Black woman with warm brown eyes, soft features, and a joyful, welcoming smile. She has medium-length curly hair and wears a pink top under a dark cardigan with a light scarf draped loosely around her neck. Her expression radiates kindness, comfort, and genuine affection, giving her a nurturing, dependable presence.",
+    "animal": "golden retriever",
+    "occupation": "elementary school teacher",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "warm",
+      "caring",
+      "nurturing",
+      "optimistic",
+      "family-oriented",
+      "supportive",
+      "empathetic",
+      "community-focused"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISFJ",
+    "zodiacSign": "Cancer"
+  },
+  "us-013": {
+    "id": "us-013",
+    "prompt": "27-year-old asian woman",
+    "persona": {
+      "en": "the zen girl",
+      "pt": "a garota zen"
+    },
+    "description": "A 27-year-old Asian woman with teal bob-cut hair and calm, half-lidded eyes. She has a small bindi-like dot on her forehead, a septum piercing, and a labret piercing below her lip. She wears beaded necklaces and a blue tank top, with a pink patterned scarf casually draped over one shoulder. Her expression is serene yet detached, giving her a peaceful, introspective, and spiritually attuned vibe.",
+    "animal": "cat",
+    "occupation": "yoga instructor and crystal healer",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "asian",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "calm",
+      "spiritual",
+      "intuitive",
+      "artistic",
+      "mindful",
+      "minimalist",
+      "free-spirited",
+      "alternative"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "INFJ",
+    "zodiacSign": "Pisces"
+  },
+  "us-014": {
+    "id": "us-014",
+    "prompt": "22-year-old guy with blonde hair",
+    "persona": {
+      "en": "the silent troubled boy",
+      "pt": "o garoto silencioso e perturbado"
+    },
+    "description": "A 22-year-old white man with blonde hair mostly hidden under a dark green hoodie. His expression is blank and distant, with heavy-lidded eyes and a slight frown that suggests emotional weight or inner turmoil. His posture is closed-off and guarded, giving him an aura of withdrawal and quiet struggle.",
+    "animal": "lone wolf",
+    "occupation": "part-time convenience store clerk",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [
+      "quiet",
+      "withdrawn",
+      "anxious",
+      "sensitive",
+      "introverted",
+      "brooding",
+      "observant",
+      "emotionally complex"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "INTJ",
+    "zodiacSign": "Scorpio"
+  },
+  "us-015": {
+    "id": "us-015",
+    "prompt": "56-year-old man",
+    "persona": {
+      "en": "the depressive widower",
+      "pt": "o viúvo depressivo"
+    },
+    "description": "A 56-year-old white man with disheveled blond hair and a heavy, sorrowful expression. His pale blue eyes look tired and unfocused, with deep wrinkles suggesting prolonged grief. He has a full, unkempt beard and wears a teal button-up shirt with a loosely tied polka-dotted scarf. His posture and facial expression convey deep sadness, loneliness, and emotional exhaustion.",
+    "animal": "old hound dog",
+    "occupation": "retired mechanic",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [
+      "melancholic",
+      "introverted",
+      "quiet",
+      "gentle",
+      "emotionally worn",
+      "nostalgic",
+      "sensitive",
+      "reclusive"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "INFJ",
+    "zodiacSign": "Pisces"
+  },
+  "us-016": {
+    "id": "us-016",
+    "prompt": "26-year-old Indian woman",
+    "persona": {
+      "en": "the Indian girl",
+      "pt": "a garota indiana"
+    },
+    "description": "A 26-year-old Indian woman with long, dark blue hair adorned with an orange flower clip. She has warm brown skin, expressive teal eyes, and a small red bindi on her forehead. She wears gold earrings, a geometric gold necklace, an orange patterned blouse, and a teal shawl. Her subtle smile and confident posture give her an elegant, friendly, and culturally grounded presence.",
+    "animal": "elephant",
+    "occupation": "interior designer",
+    "sexualOrientation": "straight",
+    "ethnicity": "Indian",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "confident",
+      "warm",
+      "creative",
+      "stylish",
+      "family-oriented",
+      "outgoing",
+      "expressive",
+      "culturally rooted"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ESFJ",
+    "zodiacSign": "Libra"
+  },
+  "us-017": {
+    "id": "us-017",
+    "prompt": "24-year-old latino guy",
+    "persona": {
+      "en": "the grandma's boy",
+      "pt": "o netinho da vovó"
+    },
+    "description": "A 24-year-old Latino man with a round, friendly face and warm brown eyes. His expression is cheerful and innocent, with a soft smile that radiates sweetness. He has short, neat braids along the top of his head and wears a light blue button-up shirt under an orange sweater vest, giving him a wholesome, family-oriented look.",
+    "animal": "golden puppy",
+    "occupation": "assistant baker at his family's bakery",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "middle",
+    "educationLevel": "high",
+    "traits": [
+      "kind",
+      "gentle",
+      "family-oriented",
+      "optimistic",
+      "helpful",
+      "soft-hearted",
+      "trusting",
+      "cheerful"
+    ],
+    "alignment": "True Neutral",
+    "mbti": "ISFJ",
+    "zodiacSign": "Cancer"
+  },
+  "us-018": {
+    "id": "us-018",
+    "prompt": "64-year-old white man",
+    "persona": {
+      "en": "the landowner",
+      "pt": "o fazendeiro proprietário"
+    },
+    "description": "A 64-year-old white man with a prominent curled mustache, rosy cheeks, and expressive light eyes. He wears a large brown cowboy hat, a teal button-up shirt with brass buttons, and carries himself with a proud, authoritative posture. His expression is confident and slightly stern, giving the impression of someone accustomed to responsibility, wealth, and being obeyed.",
+    "animal": "bull",
+    "occupation": "cattle ranch owner",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "upper",
+    "educationLevel": "basic",
+    "traits": [
+      "authoritative",
+      "proud",
+      "traditional",
+      "hardworking",
+      "commanding",
+      "wealthy",
+      "protective",
+      "straightforward"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ESTJ",
+    "zodiacSign": "Aries"
+  },
+  "us-019": {
+    "id": "us-019",
+    "prompt": "54-year-old handsome white man",
+    "persona": {
+      "en": "the charming business man",
+      "pt": "o empresário charmoso"
+    },
+    "description": "A 54-year-old handsome white man with neatly styled silver hair and a well-groomed salt-and-pepper goatee. His expression is warm and confident, with relaxed eyes and a charismatic, knowing smile. He wears a red dress shirt with suspenders, giving him a polished, professional, yet approachable look. His demeanor radiates sophistication, success, and effortless charm.",
+    "animal": "falcon",
+    "occupation": "corporate executive and public speaker",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "upper",
+    "educationLevel": "high",
+    "traits": [
+      "charismatic",
+      "confident",
+      "persuasive",
+      "ambitious",
+      "refined",
+      "strategic",
+      "well-spoken",
+      "sociable"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-020": {
+    "id": "us-020",
+    "prompt": "64-year-old white woman",
+    "persona": {
+      "en": "the chain-smoking aunt",
+      "pt": "a tia fumante compulsiva"
+    },
+    "description": "A 64-year-old white woman with shoulder-length reddish-brown hair and teal-framed glasses. Her expression is permanently unimpressed, with heavy-lidded eyes and a deep frown marked by bold red lipstick. She wears a teal blazer over a muted top and a chunky gold necklace with red stones. Her demeanor suggests someone who has seen too much, smokes too much, and cares very little about anyone’s nonsense.",
+    "animal": "vulture",
+    "occupation": "retired government employee",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [
+      "grumpy",
+      "cynical",
+      "smoker",
+      "blunt",
+      "irritable",
+      "sarcastic",
+      "world-weary",
+      "opinionated"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-021": {
+    "id": "us-021",
+    "prompt": "31-year-old muslin woman",
+    "persona": {
+      "en": "the muslim woman",
+      "pt": "a mulher muçulmana"
+    },
+    "description": "A 31-year-old Muslim woman with kind green eyes and a warm, genuine smile. She wears a patterned red hijab layered over a purple undercap, along with a teal outer garment. Her expression radiates friendliness, peace, and quiet confidence, giving her an approachable and nurturing presence.",
+    "animal": "dove",
+    "occupation": "housewife",
+    "sexualOrientation": "straight",
+    "ethnicity": "middle-eastern",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "kind",
+      "empathetic",
+      "patient",
+      "community-oriented",
+      "optimistic",
+      "gentle",
+      "supportive",
+      "responsible"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISFJ",
+    "zodiacSign": "Cancer"
+  },
+  "us-022": {
+    "id": "us-022",
+    "prompt": "25-year-old black woman",
+    "persona": {
+      "en": "the troublemaker",
+      "pt": "a encrenqueira"
+    },
+    "description": "A 25-year-old Black woman with her hair pulled tightly into a high bun. Her expression is angry, confrontational, and unamused, with furrowed brows and a tight frown. She wears a simple pink T-shirt, large gold hoop earrings, and carries herself with a bold, intimidating presence. Everything about her demeanor suggests she doesn't back down from fights—verbal or otherwise.",
+    "animal": "pit bull",
+    "occupation": "fast-food cashier",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [
+      "aggressive",
+      "defensive",
+      "street-smart",
+      "loud",
+      "intense",
+      "quick-tempered",
+      "fearless",
+      "confrontational"
+    ],
+    "alignment": "Chaotic-Neutral",
+    "mbti": "ESFP",
+    "zodiacSign": "Aries"
+  },
+  "us-023": {
+    "id": "us-023",
+    "prompt": "28-year-old white man",
+    "persona": {
+      "en": "the tired delivery guy",
+      "pt": "o entregador cansado"
+    },
+    "description": "A 28-year-old white man with a weary expression and slightly drooping eyes. He has short brown hair mostly hidden under a blue cap, along with a scruffy beard and tired features. He wears a brown collared work shirt with suspenders, giving him the look of someone who works long hours on the road. His posture and expression suggest exhaustion, resignation, and quiet perseverance.",
+    "animal": "donkey",
+    "occupation": "delivery driver",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [
+      "exhausted",
+      "hardworking",
+      "introverted",
+      "patient",
+      "quiet",
+      "overworked",
+      "humble",
+      "resilient"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-024": {
+    "id": "us-024",
+    "prompt": "67-year-old indian man",
+    "persona": {
+      "en": "the Indian guy",
+      "pt": "o senhor indiano"
+    },
+    "description": "A 67-year-old Indian man with a dignified yet approachable presence. He has a full white beard and mustache, expressive brown eyes, and thick gray eyebrows. He wears a dark blue turban, a yellow collared shirt, and an orange vest, accessorized with a wooden bead necklace. His expression is calm and wise, with a hint of curiosity, giving him the aura of a respected elder in his community.",
+    "animal": "elephant",
+    "occupation": "retired shop owner",
+    "sexualOrientation": "straight",
+    "ethnicity": "indian",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [
+      "wise",
+      "traditional",
+      "kind",
+      "thoughtful",
+      "community-oriented",
+      "patient",
+      "soft-spoken",
+      "observant"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-025": {
+    "id": "us-025",
+    "prompt": "66-year-old white woman",
+    "persona": {
+      "en": "the rich lady",
+      "pt": "a senhora rica"
+    },
+    "description": "A 66-year-old white woman with a refined, confident presence. She has short, styled light blue hair, elegant makeup with lavender eyeshadow, and bright blue eyes framed by long lashes. She wears gold earrings, a matching beaded necklace, and a luxurious fur stole over a red dress, all emphasizing her upper-class status. Her subtle smirk and poised expression suggest someone used to sophistication, attention, and high society.",
+    "animal": "peacock",
+    "occupation": "philanthropist",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "upper",
+    "educationLevel": "college",
+    "traits": [
+      "elegant",
+      "confident",
+      "assertive",
+      "charismatic",
+      "status-conscious",
+      "well-mannered",
+      "cultured",
+      "opinionated"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ENTJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-026": {
+    "id": "us-026",
+    "prompt": "53-year-old man",
+    "persona": {
+      "en": "the coach",
+      "pt": "o treinador"
+    },
+    "description": "A 53-year-old white man with a friendly, slightly tired demeanor. He has a round face, light complexion, and a thick brown mustache. His blue cap labeled 'COACH' and whistle around his neck immediately identify his role. He wears an orange polo shirt and has soft, approachable eyes, giving the impression of someone supportive, hardworking, and dedicated to his team despite long years on the job.",
+    "animal": "bulldog",
+    "occupation": "sports coach",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "encouraging",
+      "disciplined",
+      "good-natured",
+      "authoritative",
+      "supportive",
+      "reliable",
+      "old-school",
+      "patient"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ESTJ",
+    "zodiacSign": "Sagittarius"
+  },
+  "us-027": {
+    "id": "us-027",
+    "prompt": "64-year-old white man",
+    "persona": {
+      "en": "the grumpy grandpa next door",
+      "pt": "o vovô rabugento da casa ao lado"
+    },
+    "description": "A 64-year-old white man with a stern, tired expression and a naturally grumpy demeanor. He is bald with a fringe of short gray hair and thick gray eyebrows that accentuate his perpetual frown. His eyes look wary and unimpressed, as though he's seen enough nonsense for one lifetime. He wears a white collared shirt under a blue sweater, giving him a neat but old-fashioned appearance. Everything about him suggests a man who values peace, routine, and quiet—and who gets annoyed when any of those are disturbed.",
+    "animal": "tortoise",
+    "occupation": "retired handyman",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "medium",
+    "traits": [
+      "grumpy",
+      "blunt",
+      "traditional",
+      "observant",
+      "routine-oriented",
+      "secretly caring",
+      "stubborn",
+      "introverted"
+    ],
+    "alignment": "Lawful-Neutral",
+    "mbti": "ISTJ",
+    "zodiacSign": "Taurus"
+  },
+  "us-028": {
+    "id": "us-028",
+    "prompt": "30-year-old white woman with red hair",
+    "persona": {
+      "en": "the kindergarten teacher",
+      "pt": "a professora do jardim de infância"
+    },
+    "description": "A warm and friendly 30-year-old white woman with long red hair and bright blue eyes. She has a gentle, inviting smile that instantly puts people at ease. Her appearance is soft and approachable, wearing a simple lavender top and a delicate necklace with pastel-colored beads. She radiates calmness, patience, and kindness—someone who is naturally good with children and makes them feel safe and encouraged. Her overall demeanor is nurturing, cheerful, and attentive.",
+    "animal": "deer",
+    "occupation": "kindergarten teacher",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "high",
+    "traits": [
+      "patient",
+      "gentle",
+      "empathetic",
+      "cheerful",
+      "soft-spoken",
+      "creative",
+      "organized",
+      "nurturing"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-029": {
+    "id": "us-029",
+    "prompt": "24-year-old black guy",
+    "persona": {
+      "en": "the mild-mannered office worker",
+      "pt": "o funcionário de escritório tranquilo"
+    },
+    "description": "A 24-year-old Black man with a calm, slightly weary expression. He has short curly hair, a neatly groomed beard, and steady, thoughtful eyes. He wears a simple orange sweater and a patterned blue scarf, giving him an appearance that is tidy but understated. He looks like someone who keeps to himself, avoids conflict, and quietly handles his responsibilities without drawing attention.",
+    "animal": "tortoise",
+    "occupation": "office worker",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "middle",
+    "educationLevel": "medium",
+    "traits": [
+      "quiet",
+      "introverted",
+      "reliable",
+      "non-confrontational",
+      "patient",
+      "steady",
+      "routine-oriented",
+      "soft-hearted"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-030": {
+    "id": "us-030",
+    "prompt": "49-year-old white man",
+    "persona": {
+      "en": "the corporate CEO",
+      "pt": "o CEO corporativo"
+    },
+    "description": "A 49-year-old white man with neatly styled blond hair, sharp blue eyes, and a confident, composed expression. He wears a pinstripe suit, crisp shirt, and a blue tie, portraying someone who is polished, authoritative, and accustomed to being in control. His demeanor suggests wealth, power, and a lifetime of high-level decision-making.",
+    "animal": "falcon",
+    "occupation": "chief executive officer",
+    "sexualOrientation": "straight",
+    "ethnicity": "white",
+    "economicClass": "upper",
+    "educationLevel": "high",
+    "traits": [
+      "authoritative",
+      "confident",
+      "strategic",
+      "disciplined",
+      "ambitious",
+      "calculating",
+      "charismatic",
+      "commanding"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-031": {
+    "id": "us-031",
+    "prompt": "25-year-old white woman",
+    "persona": {
+      "en": "the flight attendant",
+      "pt": "a aeromoça"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-032": {
+    "id": "us-032",
+    "prompt": "28-year-old white woman",
+    "persona": {
+      "en": "the petty mean girl",
+      "pt": "a patricinha manipuladora"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-033": {
+    "id": "us-033",
+    "prompt": "44-year-old latino man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-034": {
+    "id": "us-034",
+    "prompt": "32-year-old black man",
+    "persona": {
+      "en": "the mechanic",
+      "pt": "o mecânico"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-035": {
+    "id": "us-035",
+    "prompt": "39-year-old white man",
+    "persona": {
+      "en": "the dad-joke uncle",
+      "pt": "o tio do pavê"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-036": {
+    "id": "us-036",
+    "prompt": "28-year-old asian man",
+    "persona": {
+      "en": "the accountant",
+      "pt": "o contador"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-037": {
+    "id": "us-037",
+    "prompt": "24-year-old black man",
+    "persona": {
+      "en": "the rapper",
+      "pt": "o rapper"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [
+      "music"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-038": {
+    "id": "us-038",
+    "prompt": "42-year-old chinese woman",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-039": {
+    "id": "us-039",
+    "prompt": "37-year-old white woman",
+    "persona": {
+      "en": "the depressed woman",
+      "pt": "a mulher depressiva"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-040": {
+    "id": "us-040",
+    "prompt": "57-year-old black woman",
+    "persona": {
+      "en": "the church lady",
+      "pt": "a tia da igreja"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-041": {
+    "id": "us-041",
+    "prompt": "28-year-old black man",
+    "persona": {
+      "en": "the dealer",
+      "pt": "o traficante"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-042": {
+    "id": "us-042",
+    "prompt": "42-year-old white woman",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-043": {
+    "id": "us-043",
+    "prompt": "32-year-old latina woman",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-044": {
+    "id": "us-044",
+    "prompt": "55-year-old white man",
+    "persona": {
+      "en": "the geppetto lookalike",
+      "pt": "o sósia do Geppetto"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-045": {
+    "id": "us-045",
+    "prompt": "65-year-old white woman",
+    "persona": {
+      "en": "the grandma",
+      "pt": "a vovó"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-046": {
+    "id": "us-046",
+    "prompt": "24-year-old latino man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-047": {
+    "id": "us-047",
+    "prompt": "33-year-old white man",
+    "persona": {
+      "en": "the biker",
+      "pt": "o motociclista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-048": {
+    "id": "us-048",
+    "prompt": "25-year-old black woman",
+    "persona": {
+      "en": "the human rights activist",
+      "pt": "a ativista dos direitos humanos"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-049": {
+    "id": "us-049",
+    "prompt": "52-year-old white woman",
+    "persona": {
+      "en": "the socialite",
+      "pt": "a socialite"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "upper",
+    "educationLevel": "college",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-050": {
+    "id": "us-050",
+    "prompt": "35-year-old white man",
+    "persona": {
+      "en": "the gay bear",
+      "pt": "o urso gay"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-051": {
+    "id": "us-051",
+    "prompt": "48-year-old white man",
+    "persona": {
+      "en": "the rock-and-roller",
+      "pt": "o roqueiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-052": {
+    "id": "us-052",
+    "prompt": "31-year-old latino man",
+    "persona": {
+      "en": "the pagode musician",
+      "pt": "o pagodeiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-053": {
+    "id": "us-053",
+    "prompt": "32-year-old chinese man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-054": {
+    "id": "us-054",
+    "prompt": "27-year-old handsome blond white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "upper",
+    "educationLevel": "college",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-055": {
+    "id": "us-055",
+    "prompt": "36-year-old white woman with pink hair",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-056": {
+    "id": "us-056",
+    "prompt": "42-year-old white woman",
+    "persona": {
+      "en": "the soccer mom",
+      "pt": "a mãe de atleta"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-057": {
+    "id": "us-057",
+    "prompt": "62-year-old white woman",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-058": {
+    "id": "us-058",
+    "prompt": "58-year-old black man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-059": {
+    "id": "us-059",
+    "prompt": "54-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-060": {
+    "id": "us-060",
+    "prompt": "33-year-old white man with brown hair",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-061": {
+    "id": "us-061",
+    "prompt": "46-year-old white hippie man",
+    "persona": {
+      "en": "the hippie",
+      "pt": "o hippie"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "caucasian",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-062": {
+    "id": "us-062",
+    "prompt": "30-year-old dark latino man",
+    "persona": {
+      "en": "the peruvian guy",
+      "pt": "o peruano"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-063": {
+    "id": "us-063",
+    "prompt": "26-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-064": {
+    "id": "us-064",
+    "prompt": "46-year-old white woman",
+    "persona": {
+      "en": "the metalhead",
+      "pt": "a roqueira"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [
+      "music"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-065": {
+    "id": "us-065",
+    "prompt": "25-year-old filipino man",
+    "persona": {
+      "en": "the filipino",
+      "pt": "o filipino"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-066": {
+    "id": "us-066",
+    "prompt": "27-year-old white man",
+    "persona": {
+      "en": "the lumberjack",
+      "pt": "o lenhador"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-067": {
+    "id": "us-067",
+    "prompt": "52-year-old white man",
+    "persona": {
+      "en": "the policeman",
+      "pt": "o policial"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-068": {
+    "id": "us-068",
+    "prompt": "58-year-old native American man",
+    "persona": {
+      "en": "the native chief",
+      "pt": "o chefe da tribo"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "indigenous",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-069": {
+    "id": "us-069",
+    "prompt": "7-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "lower",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-070": {
+    "id": "us-070",
+    "prompt": "82-year-old white woman",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-071": {
+    "id": "us-071",
+    "prompt": "42-year-old black man",
+    "persona": {
+      "en": "the detective",
+      "pt": "o detetive"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-072": {
+    "id": "us-072",
+    "prompt": "28-year-old mixed asian-black man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "mixed",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-073": {
+    "id": "us-073",
+    "prompt": "24-year-old white woman",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-074": {
+    "id": "us-074",
+    "prompt": "28-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-075": {
+    "id": "us-075",
+    "prompt": "37-year-old black woman",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-076": {
+    "id": "us-076",
+    "prompt": "27-year-old white woman",
+    "persona": {
+      "en": "the amateur baker",
+      "pt": "a confeiteira"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-077": {
+    "id": "us-077",
+    "prompt": "55-year-old japanese man",
+    "persona": {
+      "en": "the chef",
+      "pt": "o cozinheiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-078": {
+    "id": "us-078",
+    "prompt": "26-year-old white man",
+    "persona": {
+      "en": "the marine",
+      "pt": "o fuzileiro naval"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-079": {
+    "id": "us-079",
+    "prompt": "43-year-old white woman",
+    "persona": {
+      "en": "the lesbian",
+      "pt": "a sapatona"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-080": {
+    "id": "us-080",
+    "prompt": "34-year-old black doctor woman",
+    "persona": {
+      "en": "the doctor",
+      "pt": "a médica"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-081": {
+    "id": "us-081",
+    "prompt": "68-year-old eccentric white man",
+    "persona": {
+      "en": "the vampire",
+      "pt": "o vampiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-082": {
+    "id": "us-082",
+    "prompt": "47-year-old Italian man",
+    "persona": {
+      "en": "the mafia boss",
+      "pt": "o mafioso"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-083": {
+    "id": "us-083",
+    "prompt": "52-year-old Eskimo man",
+    "persona": {
+      "en": "the Eskimo",
+      "pt": "o esquimó"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "mixed",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-084": {
+    "id": "us-084",
+    "prompt": "26-year-old white man with brown hair",
+    "persona": {
+      "en": "the golden retriever boyfriend",
+      "pt": "o namorado bom moço"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-085": {
+    "id": "us-085",
+    "prompt": "18-year-old black student girl",
+    "persona": {
+      "en": "the student",
+      "pt": "a estudante"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-086": {
+    "id": "us-086",
+    "prompt": "22-year-old geisha",
+    "persona": {
+      "en": "the geisha",
+      "pt": "a gueisha"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-087": {
+    "id": "us-087",
+    "prompt": "23-year-old average-looking woman",
+    "persona": {
+      "en": "the emily in paris",
+      "pt": "a estudante de intercâmbio"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-088": {
+    "id": "us-088",
+    "prompt": "19-year-old boy with brown hair",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-089": {
+    "id": "us-089",
+    "prompt": "30-year-old black woman",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-090": {
+    "id": "us-090",
+    "prompt": "23-year-old bombshell red headed woman",
+    "persona": {
+      "en": "the bombshell",
+      "pt": "a ruiva deslumbrante"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-091": {
+    "id": "us-091",
+    "prompt": "55-year-old Japanese karate master",
+    "persona": {
+      "en": "the karate master",
+      "pt": "o mestre de karatê"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-092": {
+    "id": "us-092",
+    "prompt": "37-year-old Jewish woman",
+    "persona": {
+      "en": "a government worker",
+      "pt": "a funcionária pública"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-093": {
+    "id": "us-093",
+    "prompt": "32-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-094": {
+    "id": "us-094",
+    "prompt": "34-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-095": {
+    "id": "us-095",
+    "prompt": "27-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-096": {
+    "id": "us-096",
+    "prompt": "46-year-old white man who is a red head sailor",
+    "persona": {
+      "en": "the sailor",
+      "pt": "o marinheiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-097": {
+    "id": "us-097",
+    "prompt": "28-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [
+      "eccentric"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-098": {
+    "id": "us-098",
+    "prompt": "42-year-old mixed race latino man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-099": {
+    "id": "us-099",
+    "prompt": "23-year-old beautiful black woman",
+    "persona": {
+      "en": "the samba girl",
+      "pt": "a passista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [
+      "music"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-100": {
+    "id": "us-100",
+    "prompt": "36-year-old white man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-101": {
+    "id": "us-101",
+    "prompt": "34 -year-old Chinese man",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-102": {
+    "id": "us-102",
+    "prompt": "61-year-old white man",
+    "persona": {
+      "en": "the fisher hobbiest",
+      "pt": "o pescador amador"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-103": {
+    "id": "us-103",
+    "prompt": "41-year-old Jewish man",
+    "persona": {
+      "en": "the jewish man",
+      "pt": "o judeu"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-104": {
+    "id": "us-104",
+    "prompt": "27-year-old white priest",
+    "persona": {
+      "en": "the priest",
+      "pt": "o padre"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [
+      "religious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-105": {
+    "id": "us-105",
+    "prompt": "32-year-old white woman",
+    "persona": {
+      "en": "the librarian",
+      "pt": "a bibliotecária"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-106": {
+    "id": "us-106",
+    "prompt": "45-year-old black woman",
+    "persona": {
+      "en": "a candidata",
+      "pt": "a candidata"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-107": {
+    "id": "us-107",
+    "prompt": "68-year-old white man",
+    "persona": {
+      "en": "the professor",
+      "pt": "o professor"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-108": {
+    "id": "us-108",
+    "prompt": "24-year-old light brown skin Brazilian man",
+    "persona": {
+      "en": "the soccer player",
+      "pt": "o jogador de futebol"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [
+      "sporty"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-109": {
+    "id": "us-109",
+    "prompt": "28-year-old white nun",
+    "persona": {
+      "en": "the nun",
+      "pt": "a freira"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "",
+    "ethnicity": "caucasian",
+    "economicClass": "lower",
+    "educationLevel": "",
+    "traits": [
+      "religious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-110": {
+    "id": "us-110",
+    "prompt": "55-year-old middle-eastern man",
+    "persona": {
+      "en": "the muslin",
+      "pt": "o muçulmano"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "middle-eastern",
+    "economicClass": "",
+    "educationLevel": "basic",
+    "traits": [
+      "religious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-111": {
+    "id": "us-111",
+    "prompt": "25-year-old white drag queen",
+    "persona": {
+      "en": "the drag queen",
+      "pt": "a drag queen"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-112": {
+    "id": "us-112",
+    "prompt": "32-year-old Jamaican man",
+    "persona": {
+      "en": "the Jamaican",
+      "pt": "o jamaicano"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-113": {
+    "id": "us-113",
+    "prompt": "20-year-old Korean guy",
+    "persona": {
+      "en": "the korean boy",
+      "pt": "o menino coreano"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-114": {
+    "id": "us-114",
+    "prompt": "38-year-old white man",
+    "persona": {
+      "en": "the indiana jones",
+      "pt": "o indiana jones"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-115": {
+    "id": "us-115",
+    "prompt": "20-year-old tanned Hawaiian guy",
+    "persona": {
+      "en": "the hawaiian boy",
+      "pt": "o havaiano"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "mixed",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-116": {
+    "id": "us-116",
+    "prompt": "26-year-old flamboyant guy",
+    "persona": {
+      "en": "the flamboyant gay",
+      "pt": "o gay espalhafatoso"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-117": {
+    "id": "us-117",
+    "prompt": "24-year-old chinese guy",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-118": {
+    "id": "us-118",
+    "prompt": "34-year-old fat white woman",
+    "persona": {
+      "en": "the white trash",
+      "pt": "a pobre branca"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-119": {
+    "id": "us-119",
+    "prompt": "22-year-old Indian man",
+    "persona": {
+      "en": "the indian boy",
+      "pt": "o menino indiano"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "indian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-120": {
+    "id": "us-120",
+    "prompt": "18-year-old Korean girl",
+    "persona": {
+      "en": "the k-popper",
+      "pt": "a menina k-pop"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-121": {
+    "id": "us-121",
+    "prompt": "50-year-old Mexican woman",
+    "persona": {
+      "en": "the mexican mom",
+      "pt": "a tia mexicana"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-122": {
+    "id": "us-122",
+    "prompt": "42-year-old white man",
+    "persona": {
+      "en": "the superhero",
+      "pt": "o super-herói"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-123": {
+    "id": "us-123",
+    "prompt": "34-year-old Chinese woman",
+    "persona": {
+      "en": "the tiger mom",
+      "pt": "a mãe tigresa"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-124": {
+    "id": "us-124",
+    "prompt": "19-year-old goth girl",
+    "persona": {
+      "en": "the goth girl",
+      "pt": "a gótica"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-125": {
+    "id": "us-125",
+    "prompt": "35-year-old greek man",
+    "persona": {
+      "en": "the greek",
+      "pt": "o grego"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-126": {
+    "id": "us-126",
+    "prompt": "24-year-old very handsome slick black man",
+    "persona": {
+      "en": "the model",
+      "pt": "o modelo"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-127": {
+    "id": "us-127",
+    "prompt": "23-year-old very beautiful black woman",
+    "persona": {
+      "en": "the black bald model",
+      "pt": "a modelo negra careca"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-128": {
+    "id": "us-128",
+    "prompt": "25-year-old non-binary person",
+    "persona": {
+      "en": "the non-binary",
+      "pt": "o não-binário"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "other",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-129": {
+    "id": "us-129",
+    "prompt": "26-year-old black woman with vitiligo",
+    "persona": {
+      "en": "the vitiligo girl",
+      "pt": "a menina com vitiligo"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-130": {
+    "id": "us-130",
+    "prompt": "27-year-old white man with golden teeth",
+    "persona": {
+      "en": "the white rapper",
+      "pt": "o rapper branco"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [
+      "music"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-131": {
+    "id": "us-131",
+    "prompt": "33-year-old woman with exaggerated lip-injections",
+    "persona": {
+      "en": "the plastic surgery doll",
+      "pt": "a boneca de cirurgia plástica"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "upper",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-132": {
+    "id": "us-132",
+    "prompt": "38-year-old white man",
+    "persona": {
+      "en": "the hooligan",
+      "pt": "o hooligan"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-133": {
+    "id": "us-133",
+    "prompt": "57-year-old Thai monk",
+    "persona": {
+      "en": "the monk",
+      "pt": "o monge"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-134": {
+    "id": "us-134",
+    "prompt": "19-year-old entitled white boy",
+    "persona": {
+      "en": "the heir",
+      "pt": "o herdeiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "upper",
+    "educationLevel": "college",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-135": {
+    "id": "us-135",
+    "prompt": "37-year-old white bodybuilder with oiled torso",
+    "persona": {
+      "en": "the bodybuilder",
+      "pt": "o fisiculturista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-136": {
+    "id": "us-136",
+    "prompt": "23-year-old white woman with piercings",
+    "persona": {
+      "en": "bald piercing girl",
+      "pt": "a menina careca com piercings"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-137": {
+    "id": "us-137",
+    "prompt": "43-year-old white woman with a bob haircut",
+    "persona": {
+      "en": "karen",
+      "pt": "a barraqueira"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-138": {
+    "id": "us-138",
+    "prompt": "36-year-old latina woman",
+    "persona": {
+      "en": "the disney adult",
+      "pt": "a adulta da disney"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-139": {
+    "id": "us-139",
+    "prompt": "32-year-old dwarf man",
+    "persona": {
+      "en": "the dwarf",
+      "pt": "o anão"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-140": {
+    "id": "us-140",
+    "prompt": "43-year-old white man",
+    "persona": {
+      "en": "the creepy janitor",
+      "pt": "o zelador esquisito"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-141": {
+    "id": "us-141",
+    "prompt": "34-year-old white man",
+    "persona": {
+      "en": "the pervert incel",
+      "pt": "o incel tarado nojento"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-142": {
+    "id": "us-142",
+    "prompt": "26-year-old latina chola woman",
+    "persona": {
+      "en": "the chola",
+      "pt": "a chola mexicana"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-143": {
+    "id": "us-143",
+    "prompt": "20-year-old emo guy",
+    "persona": {
+      "en": "the emo",
+      "pt": "o emo"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-144": {
+    "id": "us-144",
+    "prompt": "43-year-old ex-con white man",
+    "persona": {
+      "en": "the ex-con",
+      "pt": "o ex-presidiário"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-145": {
+    "id": "us-145",
+    "prompt": "32-year-old latino woman",
+    "persona": {
+      "en": "the clerk",
+      "pt": "a balconista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-146": {
+    "id": "us-146",
+    "prompt": "58-year-old white woman dressed as a young girl",
+    "persona": {
+      "en": "the young old lady",
+      "pt": "a xóvem senhora idosa"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "other",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-147": {
+    "id": "us-147",
+    "prompt": "32-year-old white meth head",
+    "persona": {
+      "en": "the addict",
+      "pt": "o viciado"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "lower",
+    "educationLevel": "none",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-148": {
+    "id": "us-148",
+    "prompt": "25-year-old albino man",
+    "persona": {
+      "en": "the albino",
+      "pt": "o albino"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-149": {
+    "id": "us-149",
+    "prompt": "26-year-old native American woman",
+    "persona": {
+      "en": "the native girl",
+      "pt": "a índia"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "lower",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-150": {
+    "id": "us-150",
+    "prompt": "28-year-old white woman",
+    "persona": {
+      "en": "the dominatrix",
+      "pt": "a sadomasoquista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-151": {
+    "id": "us-151",
+    "prompt": "35 year old black muscular bouncer",
+    "persona": {
+      "en": "the bouncer",
+      "pt": "o segurança"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-152": {
+    "id": "us-152",
+    "prompt": "30 year old white man in a pink fox furry costume",
+    "persona": {
+      "en": "the furry",
+      "pt": "o furry"
+    },
+    "description": "",
+    "animal": "Sheep",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-153": {
+    "id": "us-153",
+    "prompt": "90-year-old chinese man with a straw hat",
+    "persona": {
+      "en": "the chinese rice farmer",
+      "pt": "o chinezinho"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "lower",
+    "educationLevel": "none",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-154": {
+    "id": "us-154",
+    "prompt": "25-year-old white man with down syndrome. Make it very clear he has down syndrome",
+    "persona": {
+      "en": "the down syndrome boy",
+      "pt": "o menino com síndrome de down"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-155": {
+    "id": "us-155",
+    "prompt": "36-year-old of a 40 year housewife with curlers in a bad mood",
+    "persona": {
+      "en": "the housewife",
+      "pt": "a dona-de-casa"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-156": {
+    "id": "us-156",
+    "prompt": "60 year old black woman \"mãe de santo\" from african religions",
+    "persona": {
+      "en": "the mãe de santo",
+      "pt": "a mãe de santo"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-157": {
+    "id": "us-157",
+    "prompt": "a extra joyful 22-year-old girl scout troop leader",
+    "persona": {
+      "en": "girls scout troop leader",
+      "pt": "a escoteira"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-158": {
+    "id": "us-158",
+    "prompt": "18 year old white girl with braces around her head, very very nerdy and shy with pimples, smiling, average looking",
+    "persona": {
+      "en": "the nerd with braces",
+      "pt": "a nerd de aparelho"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-159": {
+    "id": "us-159",
+    "prompt": "40 year old black woman in a tracksuit looking sassy",
+    "persona": {
+      "en": "the sassy black lady",
+      "pt": "a negra atrevida"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-160": {
+    "id": "us-160",
+    "prompt": "27 year old very fat chinese guy",
+    "persona": {
+      "en": "the fat chinese guy",
+      "pt": "o gorducho chinês"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-161": {
+    "id": "us-161",
+    "prompt": "25-year-old trans thai person, make sure it has an adam's apple.",
+    "persona": {
+      "en": "the thai lady boy",
+      "pt": "a trans tailandesa"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "other",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-162": {
+    "id": "us-162",
+    "prompt": "26 year old conjoined twins, make sure they look conjoined.",
+    "persona": {
+      "en": "the conjoined twins",
+      "pt": "as irmãs siamesas"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-163": {
+    "id": "us-163",
+    "prompt": "18 year old young very skinny boy with a mesh tank top",
+    "persona": {
+      "en": "gay boy",
+      "pt": "gayzinha poc"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-164": {
+    "id": "us-164",
+    "prompt": "24 year old woman with a fur coat",
+    "persona": {
+      "en": "the call girl",
+      "pt": "a garota de programa"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-165": {
+    "id": "us-165",
+    "prompt": "47 year old flamboyant fashion designer",
+    "persona": {
+      "en": "the clothing designer",
+      "pt": "o estilista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-166": {
+    "id": "us-166",
+    "prompt": "38 year old jealous brown latina woman",
+    "persona": {
+      "en": "the hot headed latina",
+      "pt": "a latina esquentada"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-167": {
+    "id": "us-167",
+    "prompt": "34 year old arab sheik with a smirk",
+    "persona": {
+      "en": "the arab sheik",
+      "pt": "o sheik árabe"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "middle-eastern",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-168": {
+    "id": "us-168",
+    "prompt": "60 year old politician with money hidden everywhere on a dark blue suit",
+    "persona": {
+      "en": "the politician",
+      "pt": "o político"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "upper",
+    "educationLevel": "college",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-169": {
+    "id": "us-169",
+    "prompt": "34 year old rich asian woman",
+    "persona": {
+      "en": "the crazy rich asian",
+      "pt": "a asiática ricaça"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "upper",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-170": {
+    "id": "us-170",
+    "prompt": "27 year old middle eastern woman wearing a burqa looking mysterious",
+    "persona": {
+      "en": "the burqa woman",
+      "pt": "a mulher de burca"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "middle-eastern",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-171": {
+    "id": "us-171",
+    "prompt": "56 year old Armenian man with a very hairy body",
+    "persona": {
+      "en": "the armenian guy",
+      "pt": "o armeno"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "other",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-172": {
+    "id": "us-172",
+    "prompt": "42 year old poor latino bricklayer man",
+    "persona": {
+      "en": "the bricklayer",
+      "pt": "o pedreiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "lower",
+    "educationLevel": "none",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-173": {
+    "id": "us-173",
+    "prompt": "28 year old party girl with a drunk expression on her face",
+    "persona": {
+      "en": "the drunk party girl",
+      "pt": "a bêbada festeira"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-174": {
+    "id": "us-174",
+    "prompt": "38-year-old sleazy italian man with thick lips, gel hair, looking smug",
+    "persona": {
+      "en": "the sleazy guy",
+      "pt": "o cara seboso"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "other",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-175": {
+    "id": "us-175",
+    "prompt": "36 year old brazilian aunt in a mood",
+    "persona": {
+      "en": "the aunt",
+      "pt": "a tia"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-176": {
+    "id": "us-176",
+    "prompt": "a 28 year old black man with a big afro with 70s clothes",
+    "persona": {
+      "en": "the afro dude",
+      "pt": "o black power"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-177": {
+    "id": "us-177",
+    "prompt": "37 year old nice guy overweight fire fighter",
+    "persona": {
+      "en": "the firefighter",
+      "pt": "o bombeiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-178": {
+    "id": "us-178",
+    "prompt": "25 year old black woman pop star with a plastic sculptural hair",
+    "persona": {
+      "en": "the hip hop artist",
+      "pt": "a artista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "upper",
+    "educationLevel": "",
+    "traits": [
+      "eccentric",
+      "music"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-179": {
+    "id": "us-179",
+    "prompt": "18 year old japanese asian gamer girl",
+    "persona": {
+      "en": "the gamer girl",
+      "pt": "a gamer"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-180": {
+    "id": "us-180",
+    "prompt": "28 year old brown latino salsa dancer",
+    "persona": {
+      "en": "the salsa dancer",
+      "pt": "o dançarino"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-181": {
+    "id": "us-181",
+    "prompt": "70 year old eccentric white man",
+    "persona": {
+      "en": "the curator",
+      "pt": "o curador"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "upper",
+    "educationLevel": "high",
+    "traits": [
+      "eccentric"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-182": {
+    "id": "us-182",
+    "prompt": "22 year old asian masseuse",
+    "persona": {
+      "en": "the masseuse",
+      "pt": "a massagista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "asian",
+    "economicClass": "lower",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-183": {
+    "id": "us-183",
+    "prompt": "45 year old brown skin latina dirty homeless woman",
+    "persona": {
+      "en": "the beggar",
+      "pt": "a mendiga"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "lower",
+    "educationLevel": "none",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-184": {
+    "id": "us-184",
+    "prompt": "28 male stripper",
+    "persona": {
+      "en": "the stripper",
+      "pt": "o stripper"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "caucasian",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-185": {
+    "id": "us-185",
+    "prompt": "55 brown latino truck driver",
+    "persona": {
+      "en": "the truck driver",
+      "pt": "o caminhoneiro"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-186": {
+    "id": "us-186",
+    "prompt": "32 year old fat black guy looking hungry",
+    "persona": {
+      "en": "the foodie",
+      "pt": "o comilão"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-187": {
+    "id": "us-187",
+    "prompt": "22 year old black woman showing off her nails with lots of attitude",
+    "persona": {
+      "en": "the tiktop diva",
+      "pt": "a diva do tiktop"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-188": {
+    "id": "us-188",
+    "prompt": "36 year old brown latina woman",
+    "persona": {
+      "en": "the maid",
+      "pt": "a empregada"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "latino",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-189": {
+    "id": "us-189",
+    "prompt": "28 year old big black woman",
+    "persona": {
+      "en": "the big beautiful black woman",
+      "pt": "a negra grande e bonita"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "black",
+    "economicClass": "",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-190": {
+    "id": "us-190",
+    "prompt": "32 year old awkward lesbian asian woman",
+    "persona": {
+      "en": "the awkward lesbian",
+      "pt": "a lésbica desajeitada"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "asian",
+    "economicClass": "",
+    "educationLevel": "college",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-191": {
+    "id": "us-191",
+    "prompt": "50 year old white woman who is wiccan",
+    "persona": {
+      "en": "the wiccan",
+      "pt": "a bruxa"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-192": {
+    "id": "us-192",
+    "prompt": "34 year old black voodoo witch",
+    "persona": {
+      "en": "the voodoo witch doctor",
+      "pt": "a médica de vodu"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "bisexual",
+    "ethnicity": "black",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-193": {
+    "id": "us-193",
+    "prompt": "27 year old Scottish woman with many freckles",
+    "persona": {
+      "en": "the Scottish girl",
+      "pt": "a escocesa"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "Scottish",
+    "economicClass": "upper",
+    "educationLevel": "college",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-194": {
+    "id": "us-194",
+    "prompt": "18-year-old light brown latino boy with a thin mustache and his face covered in acne",
+    "persona": {
+      "en": "the acne boy",
+      "pt": "o garoto com acne"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "Mexican",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-195": {
+    "id": "us-195",
+    "prompt": "45 year old russian henchman",
+    "persona": {
+      "en": "the Russian henchman",
+      "pt": "o capanga russo"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "Russian",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-196": {
+    "id": "us-196",
+    "prompt": "a pale woman on her 30s fighting cancer",
+    "persona": {
+      "en": "the cancer survivor",
+      "pt": "a sobrevivente de câncer"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "basic",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-197": {
+    "id": "us-197",
+    "prompt": "20 year old very nerdy asian guy",
+    "persona": {
+      "en": "the asian mathlete",
+      "pt": "a nerd asiático"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "straight",
+    "ethnicity": "Japanese",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "nerd"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-198": {
+    "id": "us-198",
+    "prompt": "It's a 34 year old brown-skin frail latina very devoted christian woman",
+    "persona": {
+      "en": "the devoted believer",
+      "pt": "a beata"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "other",
+    "ethnicity": "Latino",
+    "economicClass": "lower",
+    "educationLevel": "basic",
+    "traits": [
+      "religious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-199": {
+    "id": "us-199",
+    "prompt": "28 year old white man magician enthusiast",
+    "persona": {
+      "en": "the cosplayer",
+      "pt": "o cosplayer"
+    },
+    "description": "",
+    "animal": "Ferret",
+    "occupation": "Magician",
+    "sexualOrientation": "other",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "eccentric"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-200": {
+    "id": "us-200",
+    "prompt": "26 year old feminist, in button pink plaid shirt, and dark circles",
+    "persona": {
+      "en": "the feminist",
+      "pt": "a feminista"
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "gay",
+    "ethnicity": "caucasian",
+    "economicClass": "middle",
+    "educationLevel": "college",
+    "traits": [
+      "feminist"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  }
 }
