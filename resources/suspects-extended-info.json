@@ -8,6 +8,7 @@
 		},
 		"description": "A 28-year-old Black man with a neatly groomed beard and mustache, wearing large square orange glasses, a grey fedora-style hat, a green blazer over a yellow checkered shirt, and an orange polka-dot bow tie. His expression is calm and thoughtful, giving an intellectual and gentle vibe.",
 		"animal": "owl",
+		"occupation": "creative writing teacher",
 		"sexualOrientation": "straight",
 		"ethnicity": "black",
 		"economicClass": "middle",
@@ -24,7 +25,6 @@
 		],
 		"alignment": "Lawful-Neutral",
 		"mbti": "INTJ",
-		"occupation": "creative writing teacher",
 		"zodiacSign": "Virgo"
 	},
 	"us-002": {
@@ -1150,7 +1150,7 @@
 		"occupation": "marketing consultant",
 		"sexualOrientation": "straight",
 		"ethnicity": "white",
-		"economicClass": "upper middle",
+		"economicClass": "middle",
 		"educationLevel": "college",
 		"traits": [
 			"social",
@@ -1569,8 +1569,8 @@
 		"occupation": "retired arts administrator",
 		"sexualOrientation": "straight",
 		"ethnicity": "white",
-		"economicClass": "upper-middle",
-		"educationLevel": "college",
+		"economicClass": "middle",
+		"educationLevel": "basic",
 		"traits": [
 			"artistic",
 			"cultured",
@@ -1677,17 +1677,26 @@
 			"en": "the hippie",
 			"pt": "o hippie"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A 46-year-old white man with long, wavy blond hair and a full beard, giving off a relaxed and free-spirited appearance. He has soft green eyes, a small hoop earring, and wears a loose green patterned shirt partially open at the chest, along with a beaded necklace. His overall look suggests someone unconcerned with conventions, comfortable in his own skin, and deeply rooted in alternative lifestyles.",
+		"animal": "golden retriever",
+		"occupation": "street artisan",
 		"sexualOrientation": "bisexual",
-		"ethnicity": "caucasian",
+		"ethnicity": "white",
 		"economicClass": "lower",
 		"educationLevel": "basic",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"traits": [
+			"free-spirited",
+			"peaceful",
+			"non-materialistic",
+			"artistic",
+			"spiritual",
+			"laid-back",
+			"idealistic",
+			"open-minded"
+		],
+		"alignment": "Chaotic-Neutral",
+		"mbti": "ESFP",
+		"zodiacSign": "Sagittarius"
 	},
 	"us-062": {
 		"id": "us-062",
@@ -1696,14 +1705,23 @@
 			"en": "the peruvian guy",
 			"pt": "o peruano"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A 30-year-old dark-skinned Latino man with short black hair and tired, slightly downcast eyes. He wears a simple blue sweater over a collared shirt with a modest tie, giving him a restrained and somewhat formal appearance. His facial expression looks serious and a bit worried, suggesting someone under pressure or dealing with everyday struggles rather than confidence or ease.",
+		"animal": "donkey",
+		"occupation": "office clerk",
 		"sexualOrientation": "straight",
 		"ethnicity": "latino",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
+		"economicClass": "middle",
+		"educationLevel": "college",
+		"traits": [
+			"reserved",
+			"hard-working",
+			"serious",
+			"anxious",
+			"responsible",
+			"introverted",
+			"practical",
+			"loyal"
+		],
 		"alignment": "",
 		"mbti": "",
 		"zodiacSign": ""
@@ -1712,39 +1730,57 @@
 		"id": "us-063",
 		"prompt": "26-year-old white man",
 		"persona": {
-			"en": "",
-			"pt": ""
+			"en": "the bitter office worker",
+			"pt": "o funcionário ressentido"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A 26-year-old white man with neatly styled brown hair and round glasses. He has a tense jaw, furrowed brows, and an annoyed, suspicious expression, as if constantly unimpressed. He wears a plain dark blue button-up shirt, giving him a conservative, unremarkable office appearance that blends into a corporate environment.",
+		"animal": "cat",
+		"occupation": "office worker",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "college",
+		"traits": [
+			"cynical",
+			"intelligent",
+			"introverted",
+			"sarcastic",
+			"observant",
+			"resentful",
+			"rigid",
+			"work-focused"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ISTJ",
+		"zodiacSign": "Undefined"
 	},
 	"us-064": {
 		"id": "us-064",
 		"prompt": "46-year-old white woman",
 		"persona": {
 			"en": "the metalhead",
-			"pt": "a roqueira"
+			"pt": "a metaleira"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A 46-year-old white woman with shoulder-length dark brown hair and a permanently annoyed, confrontational expression. She has heavy-lidded eyes, deep frown lines, and a slightly downturned mouth that suggests impatience or distrust. She wears a black studded leather jacket over a dark red shirt, a spiked choker, and small hoop earrings, giving her a rough, no-nonsense rock aesthetic.",
+		"animal": "bulldog",
+		"occupation": "record store clerk",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": ["music"],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "basic",
+		"traits": [
+			"rebellious",
+			"grumpy",
+			"blunt",
+			"music-obsessed",
+			"nonconformist",
+			"intimidating",
+			"loyal",
+			"anti-authority"
+		],
+		"alignment": "Chaotic-Neutral",
+		"mbti": "INTP",
+		"zodiacSign": "Aries"
 	},
 	"us-065": {
 		"id": "us-065",
@@ -1753,17 +1789,26 @@
 			"en": "the filipino",
 			"pt": "o filipino"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A 25-year-old Filipino man with short, neatly styled dark brown hair and a calm, approachable expression. He has soft facial features, warm brown eyes, and a slight, polite smile. He is casually dressed in a simple dark t-shirt, giving off an unassuming, everyday look typical of a young urban professional or student.",
+		"animal": "otter",
+		"occupation": "office assistant",
 		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "filipino",
+		"economicClass": "middle",
+		"educationLevel": "college",
+		"traits": [
+			"friendly",
+			"polite",
+			"reliable",
+			"low-key",
+			"hardworking",
+			"adaptable",
+			"non-confrontational",
+			"observant"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ESTJ",
+		"zodiacSign": "Aries"
 	},
 	"us-066": {
 		"id": "us-066",
@@ -1772,17 +1817,26 @@
 			"en": "the lumberjack",
 			"pt": "o lenhador"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A 27-year-old white man with a thick red beard and a perpetually tired, slightly grumpy expression. He wears a knit beanie and a heavy plaid flannel shirt, giving him a rugged, outdoorsy look. His posture and face suggest someone used to physical labor, cold mornings, and long days, more comfortable in nature than in social settings.",
+		"animal": "bear",
+		"occupation": "forestry worker",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "high-school",
+		"traits": [
+			"stoic",
+			"physically strong",
+			"introverted",
+			"reliable",
+			"gruff",
+			"practical",
+			"low-patience",
+			"hardworking"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ISTJ",
+		"zodiacSign": "Taurus"
 	},
 	"us-067": {
 		"id": "us-067",
@@ -1791,261 +1845,375 @@
 			"en": "the policeman",
 			"pt": "o policial"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A 52-year-old white man with a stocky build, thick mustache, and a permanently stern expression. He wears a traditional police uniform and cap, giving off an old-school, by-the-book vibe. His narrowed eyes suggest suspicion and authority, the kind of man who values order, routine, and respect, and who has little patience for nonsense.",
+		"animal": "bulldog",
+		"occupation": "police officer",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "police-academy",
+		"traits": [
+			"authoritative",
+			"suspicious",
+			"rigid",
+			"traditional",
+			"disciplined",
+			"short-tempered",
+			"rule-oriented",
+			"protective"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ESTJ",
+		"zodiacSign": "Taurus"
 	},
 	"us-068": {
 		"id": "us-068",
 		"prompt": "58-year-old native American man",
 		"persona": {
 			"en": "the native chief",
-			"pt": "o chefe da tribo"
+			"pt": "o chefe indígena"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A 58-year-old Native American man with long dark hair and calm, warm eyes. His gentle smile and composed posture convey wisdom, patience, and quiet authority. He wears simple, traditional-inspired clothing and a turquoise necklace, suggesting a deep connection to his heritage, land, and community. He is the kind of leader who guides through respect and experience rather than force.",
+		"animal": "eagle",
+		"occupation": "tribal leader",
 		"sexualOrientation": "straight",
-		"ethnicity": "indigenous",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "native-american",
+		"economicClass": "middle",
+		"educationLevel": "traditional-knowledge",
+		"traits": [
+			"wise",
+			"calm",
+			"respectful",
+			"protective",
+			"patient",
+			"spiritual",
+			"observant",
+			"community-oriented"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ISTJ",
+		"zodiacSign": "Taurus"
 	},
 	"us-069": {
 		"id": "us-069",
-		"prompt": "7-year-old white man",
+		"prompt": "27-year-old white man",
 		"persona": {
-			"en": "",
-			"pt": ""
+			"en": "the sketchy slacker",
+			"pt": "o vagabundo suspeito"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A thin young man with an awkward, slightly hunched posture, a long neck, and a crooked, mischievous smile. He wears a worn baseball cap, a simple T-shirt, and a single hoop earring, giving off a scruffy, careless appearance. His tired eyes and sly expression suggest someone who survives by charm, shortcuts, and questionable decisions rather than discipline.",
+		"animal": "rat",
+		"occupation": "odd-jobs worker",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
+		"ethnicity": "white",
 		"economicClass": "lower",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"educationLevel": "basic",
+		"traits": [
+			"lazy",
+			"street-smart",
+			"sneaky",
+			"talkative",
+			"unreliable",
+			"sarcastic",
+			"opportunistic"
+		],
+		"alignment": "Chaotic-Neutral",
+		"mbti": "ESTP",
+		"zodiacSign": "Sagittarius"
 	},
 	"us-070": {
 		"id": "us-070",
 		"prompt": "82-year-old white woman",
 		"persona": {
-			"en": "",
-			"pt": ""
+			"en": "the naughty old lady",
+			"pt": "a velhinha safada"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "An elderly white woman with gray hair covered by a dark headscarf, warm expressive eyes, and a mischievous, knowing smile. She has visible age spots on her skin and wears a sleeveless purple top that subtly accentuates her figure. Her posture and facial expression suggest confidence, comfort with her age, and a playful attitude.",
+		"animal": "tortoise",
+		"occupation": "retired homemaker",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "lower",
+		"educationLevel": "basic",
+		"traits": [
+			"playful",
+			"flirtatious",
+			"outspoken",
+			"confident",
+			"nostalgic",
+			"humorous",
+			"unfiltered"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ESFJ",
+		"zodiacSign": "Taurus"
 	},
 	"us-071": {
 		"id": "us-071",
 		"prompt": "42-year-old black man",
 		"persona": {
-			"en": "the detective",
-			"pt": "o detetive"
+			"en": "the hardboiled detective",
+			"pt": "o detetive durão"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A middle-aged Black man with closely cropped hair and a trimmed mustache, wearing a serious, focused expression. He is dressed in a classic beige trench coat over a suit and tie, giving him a traditional noir-detective appearance. His gaze is sharp and suspicious, suggesting experience, intelligence, and a life spent observing others closely.",
+		"animal": "panther",
+		"occupation": "detective",
 		"sexualOrientation": "straight",
 		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"economicClass": "middle",
+		"educationLevel": "college",
+		"traits": [
+			"observant",
+			"analytical",
+			"reserved",
+			"cynical",
+			"persistent",
+			"principled",
+			"street-smart"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ISTJ",
+		"zodiacSign": "Capricorn"
 	},
 	"us-072": {
 		"id": "us-072",
 		"prompt": "28-year-old mixed asian-black man",
 		"persona": {
-			"en": "",
-			"pt": ""
+			"en": "the quiet realist",
+			"pt": "o realista quieto"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A young mixed Asian-Black man with short-cropped hair and a calm but serious expression. His face is symmetrical and reserved, with steady eyes that suggest introspection and emotional control. He wears a simple green t-shirt, giving him a practical, no-frills appearance that blends into everyday urban life.",
+		"animal": "deer",
+		"occupation": "warehouse associate",
 		"sexualOrientation": "straight",
-		"ethnicity": "mixed",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "mixed asian-black",
+		"economicClass": "lower",
+		"educationLevel": "high",
+		"traits": [
+			"introverted",
+			"observant",
+			"emotionally reserved",
+			"reliable",
+			"pragmatic",
+			"self-contained",
+			"patient"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ISTJ",
+		"zodiacSign": "Aries"
 	},
 	"us-073": {
 		"id": "us-073",
 		"prompt": "24-year-old white woman",
 		"persona": {
-			"en": "",
-			"pt": ""
+			"en": "the innocent bookworm",
+			"pt": "a leitora inocente"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A young white woman with short, neatly styled brown hair and large expressive eyes. She has a soft, gentle smile and a polished but modest appearance. Her red turtleneck sweater gives her a cozy, intellectual look, suggesting someone who prefers quiet environments and thoughtful activities over loud social scenes.",
+		"animal": "rabbit",
+		"occupation": "library assistant",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "college",
+		"traits": [
+			"gentle",
+			"introverted",
+			"romantic",
+			"studious",
+			"polite",
+			"daydreamer",
+			"empathetic"
+		],
+		"alignment": "True Neutral",
+		"mbti": "ENFJ",
+		"zodiacSign": "Pisces"
 	},
 	"us-074": {
 		"id": "us-074",
 		"prompt": "28-year-old white man",
 		"persona": {
-			"en": "",
-			"pt": ""
+			"en": "the friendly tech guy",
+			"pt": "o cara simpático da tecnologia"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A young white man with short reddish-brown hair, light stubble, and rectangular glasses. He wears a casual zip-up jacket and has a confident, slightly mischievous smile. His overall appearance suggests approachability mixed with intelligence and quiet self-assurance.",
+		"animal": "otter",
+		"occupation": "software developer",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "college",
+		"traits": [
+			"friendly",
+			"clever",
+			"curious",
+			"analytical",
+			"sarcastic",
+			"easygoing",
+			"problem-solver"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ISTJ",
+		"zodiacSign": "Virgo"
 	},
 	"us-075": {
 		"id": "us-075",
 		"prompt": "37-year-old black woman",
 		"persona": {
-			"en": "",
-			"pt": ""
+			"en": "the dignified community matriarch",
+			"pt": "a matriarca respeitada da comunidade"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A composed black woman wearing a colorful headscarf wrapped neatly around her head, gold earrings, and a matching necklace. Her expression is calm and serious, with steady eyes and a grounded posture that conveys authority, warmth, and lived experience.",
+		"animal": "elephant",
+		"occupation": "community organizer",
 		"sexualOrientation": "straight",
 		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"economicClass": "middle",
+		"educationLevel": "college",
+		"traits": [
+			"responsible",
+			"protective",
+			"wise",
+			"community-oriented",
+			"patient",
+			"strong-willed",
+			"empathetic"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "INFJ",
+		"zodiacSign": "Cancer"
 	},
 	"us-076": {
 		"id": "us-076",
 		"prompt": "27-year-old white woman",
 		"persona": {
-			"en": "the amateur baker",
-			"pt": "a confeiteira"
+			"en": "the cozy neighborhood baker",
+			"pt": "a padeira acolhedora do bairro"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A young white woman with dark hair tied back, wearing round glasses, small hoop earrings, and a simple necklace. She has a warm, gentle smile and a soft, friendly expression that suggests approachability and care, with a tidy and practical appearance.",
+		"animal": "golden retriever",
+		"occupation": "baker",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "high",
+		"traits": [
+			"warm",
+			"hardworking",
+			"patient",
+			"friendly",
+			"detail-oriented",
+			"routine-loving",
+			"nurturing"
+		],
+		"alignment": "True Neutral",
+		"mbti": "INFJ",
+		"zodiacSign": "Cancer"
 	},
 	"us-077": {
 		"id": "us-077",
 		"prompt": "55-year-old japanese man",
 		"persona": {
-			"en": "the chef",
-			"pt": "o cozinheiro"
+			"en": "the strict master chef",
+			"pt": "o chef rigoroso"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "An older Japanese man with a round face and a confident, slightly mischievous expression. He wears a traditional white chef hat and a chef’s jacket with red trim. He has short dark hair mostly hidden by the hat, thick eyebrows, and round glasses, giving him an authoritative yet seasoned look.",
+		"animal": "bulldog",
+		"occupation": "chef",
 		"sexualOrientation": "straight",
-		"ethnicity": "asian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "japanese",
+		"economicClass": "middle",
+		"educationLevel": "high",
+		"traits": [
+			"disciplined",
+			"authoritative",
+			"perfectionist",
+			"experienced",
+			"proud",
+			"traditional",
+			"hardworking"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ISTJ",
+		"zodiacSign": "Taurus"
 	},
 	"us-078": {
 		"id": "us-078",
 		"prompt": "26-year-old white man",
 		"persona": {
-			"en": "the marine",
-			"pt": "o fuzileiro naval"
+			"en": "the disciplined marine",
+			"pt": "o fuzileiro disciplinado"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A young white man with a fit, athletic build and a confident, focused expression. He wears a dark blue military-style uniform and cap with insignia, neatly groomed hair, and sharp eyebrows. His posture and facial expression suggest discipline, alertness, and pride in his role.",
+		"animal": "eagle",
+		"occupation": "marine",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "high",
+		"traits": [
+			"disciplined",
+			"brave",
+			"loyal",
+			"physically fit",
+			"focused",
+			"authoritative",
+			"protective"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ESTJ",
+		"zodiacSign": "Aries"
 	},
 	"us-079": {
 		"id": "us-079",
 		"prompt": "43-year-old white woman",
 		"persona": {
-			"en": "the lesbian",
-			"pt": "a sapatona"
+			"en": "the tough-minded lesbian",
+			"pt": "a lésbica durona"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A middle-aged white woman with a stocky build and a confident, slightly defiant expression. She has short dark hair swept to one side, wears rectangular glasses, and keeps a relaxed but assertive posture. Her facial features and half-smile suggest self-assurance and emotional resilience.",
+		"animal": "badger",
+		"occupation": "office administrator",
 		"sexualOrientation": "gay",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "middle",
+		"educationLevel": "college",
+		"traits": [
+			"assertive",
+			"pragmatic",
+			"independent",
+			"confident",
+			"protective",
+			"no-nonsense",
+			"loyal"
+		],
+		"alignment": "Chaotic-Neutral",
+		"mbti": "ESFP",
+		"zodiacSign": "Aries"
 	},
 	"us-080": {
 		"id": "us-080",
 		"prompt": "34-year-old black doctor woman",
 		"persona": {
-			"en": "the doctor",
-			"pt": "a médica"
+			"en": "the caring doctor",
+			"pt": "a médica dedicada"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A black woman in her mid-30s with warm brown skin and neat shoulder-length dreadlocks pulled back. She wears a white lab coat with a stethoscope around her neck and a calm, reassuring smile. Her posture and expression convey professionalism, empathy, and quiet confidence.",
+		"animal": "dolphin",
+		"occupation": "medical doctor",
 		"sexualOrientation": "straight",
 		"ethnicity": "black",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
+		"economicClass": "upper",
+		"educationLevel": "college",
+		"traits": [
+			"intelligent",
+			"empathetic",
+			"responsible",
+			"calm",
+			"disciplined",
+			"patient",
+			"caring"
+		],
 		"alignment": "",
 		"mbti": "",
 		"zodiacSign": ""
@@ -2054,39 +2222,55 @@
 		"id": "us-081",
 		"prompt": "68-year-old eccentric white man",
 		"persona": {
-			"en": "the vampire",
-			"pt": "o vampiro"
+			"en": "the eccentric vampire",
+			"pt": "o vampiro excêntrico"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "An elderly white man with pale skin, slicked-back gray hair, and sharp, expressive eyebrows. He wears a formal outfit with a bow tie and a high-collared dark coat, giving him an old-fashioned and theatrical appearance. His subtle smile and intense gaze suggest mystery, charm, and a slightly unsettling charisma.",
+		"animal": "bat",
+		"occupation": "retired aristocrat",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "white",
+		"economicClass": "upper",
+		"educationLevel": "college",
+		"traits": [
+			"eccentric",
+			"charismatic",
+			"mysterious",
+			"theatrical",
+			"cultured",
+			"intelligent",
+			"enigmatic"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "INTJ",
+		"zodiacSign": "Capricorn"
 	},
 	"us-082": {
 		"id": "us-082",
 		"prompt": "47-year-old Italian man",
 		"persona": {
-			"en": "the mafia boss",
-			"pt": "o mafioso"
+			"en": "the fat mafia boss",
+			"pt": "o chefão mafioso gordo"
 		},
-		"description": "",
-		"animal": "",
-		"occupation": "",
+		"description": "A heavyset middle-aged man with a round face, slick dark hair mostly hidden under a fedora, and a knowing smirk. He wears a formal suit with a tie, projecting authority, confidence, and a calculated calm. His narrowed eyes and relaxed posture suggest someone accustomed to power, backroom deals, and intimidation.",
+		"animal": "bulldog",
+		"occupation": "organized crime boss",
 		"sexualOrientation": "straight",
-		"ethnicity": "caucasian",
-		"economicClass": "",
-		"educationLevel": "",
-		"traits": [],
-		"alignment": "",
-		"mbti": "",
-		"zodiacSign": ""
+		"ethnicity": "italian",
+		"economicClass": "upper",
+		"educationLevel": "high",
+		"traits": [
+			"authoritative",
+			"manipulative",
+			"charismatic",
+			"greedy",
+			"strategic",
+			"intimidating",
+			"old-school"
+		],
+		"alignment": "Lawful-Neutral",
+		"mbti": "ESTJ",
+		"zodiacSign": "Aries"
 	},
 	"us-083": {
 		"id": "us-083",
