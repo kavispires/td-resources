@@ -62603,13 +62603,18 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": -1,
       "kno": -1,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -1,
+      "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -62619,6 +62624,7 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": -3,
       "rou": -3,
       "sci": -3,
@@ -62628,6 +62634,7 @@
       "sou": -3,
       "tab": -3,
       "tec": -3,
+      "too": -1,
       "toy": -3,
       "tra": -3,
       "val": -3,
@@ -62636,7 +62643,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626856863
+    "complete": true,
+    "reliability": 89,
+    "score": 20,
+    "signature": "~kno~mac~too~ins~but~hol!acc!ali!bea!big!bri!bui!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hum!liq!loc!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sci!sha!sma!sof!sou!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1769547223164
   },
   "925": {
     "id": "925",
@@ -62728,14 +62739,18 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
       "ins": -1,
       "kno": -1,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -62745,6 +62760,7 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 10,
       "pow": 5,
       "rou": -3,
       "sci": -3,
@@ -62754,6 +62770,7 @@
       "sou": -1,
       "tab": -3,
       "tec": 5,
+      "too": -3,
       "toy": -3,
       "tra": -3,
       "val": -3,
@@ -62762,7 +62779,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626856863
+    "complete": true,
+    "reliability": 91,
+    "score": 50,
+    "signature": "~kno~sou~ins~met~hol!acc!ali!big!bui!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hum!liq!loc!lon!mul!myt!nat!new!odo!old!par!per!pla!rou!sci!sha!sma!sof!tab!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1769547234804
   },
   "927": {
     "id": "927",
@@ -62786,9 +62807,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -62804,6 +62828,7 @@
       "par": -1,
       "per": -3,
       "pla": -3,
+      "pls": 10,
       "pow": -3,
       "rou": -3,
       "sci": -3,
@@ -62822,7 +62847,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626856863
+    "complete": true,
+    "reliability": 91,
+    "score": 15,
+    "signature": "~too~ins~acc~met~par!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hol!hum!kno!liq!loc!mac!mul!myt!nat!new!odo!old!per!pla!pow!rou!sci!sha!sma!sof!sou!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1769547240803
   },
   "928": {
     "id": "928",
@@ -64073,15 +64102,18 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": 5,
       "hea": -3,
       "hei": -3,
       "hol": -3,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
       "lon": -1,
       "mac": 10,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -64091,6 +64123,7 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 10,
       "rou": -3,
       "sci": -3,
@@ -64109,7 +64142,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626862280
+    "complete": true,
+    "reliability": 89,
+    "score": 50,
+    "signature": "~tec~fas~pls~acc~lon~met!ali!bea!big!bri!bui!clo!col!con!cul!dan!def!fla!fli!foo!fra!hea!hei!hol!hum!kno!liq!loc!mul!myt!nat!new!odo!old!par!per!pla!rou!sci!sha!sma!sof!tab!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1769448757519
   },
   "948": {
     "id": "948",
@@ -64340,7 +64377,9 @@
       "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -64351,6 +64390,7 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -64374,7 +64414,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1767646073984
+    "complete": true,
+    "reliability": 91,
+    "score": 35,
+    "signature": "~pls~ins~sma~hol~fra!acc!ali!big!bri!bui!but!clo!col!dan!def!fas!fla!fli!gra!har!hea!hei!hum!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!sci!sha!sof!sou!tab!tec!too!tra!val!war!wea!woo!wri",
+    "updatedAt": 1769448772656
   },
   "952": {
     "id": "952",
@@ -64670,13 +64714,18 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -1,
       "hea": 5,
       "hei": -1,
+      "hol": -3,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -3,
+      "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -64705,7 +64754,11 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1767646076259
+    "complete": true,
+    "reliability": 91,
+    "score": 20,
+    "signature": "~ins~hei~woo~big~har!acc!ali!bea!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!hol!hum!kno!liq!loc!mac!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!wri",
+    "updatedAt": 1769448784611
   },
   "957": {
     "id": "957",
@@ -65058,6 +65111,7 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sci": -3,
@@ -65075,7 +65129,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1759542698438
+    "updatedAt": 1769448968571
   },
   "963": {
     "id": "963",
@@ -65240,6 +65294,7 @@
       "hei": -3,
       "hol": 10,
       "hum": -3,
+      "ins": 5,
       "kno": 5,
       "liq": -3,
       "loc": -3,
@@ -65255,6 +65310,7 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sci": 10,
@@ -65264,6 +65320,7 @@
       "sou": -3,
       "tab": -3,
       "tec": -3,
+      "too": -3,
       "toy": -3,
       "tra": -3,
       "val": -3,
@@ -65272,7 +65329,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1764355331804
+    "complete": true,
+    "reliability": 94,
+    "score": 40,
+    "signature": "~lon~odo~gra!acc!ali!bea!big!bri!bui!but!clo!col!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hum!liq!loc!mac!met!mul!myt!nat!new!old!par!per!pla!pls!pow!rou!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1769449040172
   },
   "966": {
     "id": "966",
