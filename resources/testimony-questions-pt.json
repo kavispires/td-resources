@@ -7879,8 +7879,8 @@
 	},
 	"t-208-pt": {
 		"id": "t-208-pt",
-		"question": "Ele(a) dorme assistindo série para não se sentir sozinho(a)?",
-		"answer": "Dorme assistindo série para não se sentir sozinho(a)",
+		"question": "Ele(a) dorme assistindo série porque se sente sozinho(a)?",
+		"answer": "Dorme assistindo série porque se sente sozinho(a)",
 		"level": 2,
 		"mbti": {
 			"related": [
@@ -10572,6 +10572,201 @@
 			],
 			"unrelated": [
 				"lawful"
+			]
+		}
+	},
+	"t-277-pt": {
+		"id": "t-277-pt",
+		"question": "Ele(a) costuma investigar a fundo a vida de alguém nas redes sociais antes de conhecer a pessoa?",
+		"answer": "Investiga a vida nas redes sociais antes de conhecer",
+		"level": 2,
+		"mbti": {
+			"related": [
+				"I",
+				"N",
+				"J"
+			],
+			"unrelated": [
+				"E",
+				"S",
+				"P"
+			]
+		},
+		"zodiac": {
+			"related": [
+				"Scorpio",
+				"Virgo",
+				"Capricorn"
+			],
+			"unrelated": [
+				"Sagittarius",
+				"Gemini",
+				"Aries"
+			]
+		},
+		"alignment": {
+			"related": [
+				"lawful",
+				"evil"
+			],
+			"unrelated": [
+				"chaotic",
+				"good"
+			]
+		}
+	},
+	"t-278-pt": {
+		"id": "t-278-pt",
+		"question": "Ele(a) demora muito para escolher um prato no restaurante porque quer a opção perfeita?",
+		"answer": "Demora para escolher prato por perfeccionismo",
+		"level": 2,
+		"mbti": {
+			"related": [
+				"N",
+				"F",
+				"P"
+			],
+			"unrelated": [
+				"S",
+				"T",
+				"J"
+			]
+		},
+		"zodiac": {
+			"related": [
+				"Libra",
+				"Pisces",
+				"Taurus"
+			],
+			"unrelated": [
+				"Aries",
+				"Capricorn",
+				"Sagittarius"
+			]
+		},
+		"alignment": {
+			"related": [
+				"chaotic",
+				"good"
+			],
+			"unrelated": [
+				"lawful"
+			]
+		}
+	},
+	"t-279-pt": {
+		"id": "t-279-pt",
+		"question": "Ele(a) consegue fazer várias coisas ao mesmo tempo, como ouvir podcast e trabalhar?",
+		"answer": "Consegue fazer várias coisas ao mesmo tempo",
+		"level": 2,
+		"mbti": {
+			"related": [
+				"E",
+				"N",
+				"P"
+			],
+			"unrelated": [
+				"I",
+				"S",
+				"J"
+			]
+		},
+		"zodiac": {
+			"related": [
+				"Gemini",
+				"Aquarius",
+				"Sagittarius"
+			],
+			"unrelated": [
+				"Taurus",
+				"Virgo",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": [
+				"chaotic"
+			],
+			"unrelated": [
+				"lawful"
+			]
+		}
+	},
+	"t-280-pt": {
+		"id": "t-280-pt",
+		"question": "Ele(a) costuma mudar o jeito de falar dependendo do grupo social em que está para se enturmar?",
+		"answer": "Muda o jeito de falar para se enturmar",
+		"level": 2,
+		"mbti": {
+			"related": [
+				"E",
+				"F",
+				"P"
+			],
+			"unrelated": [
+				"I",
+				"T",
+				"J"
+			]
+		},
+		"zodiac": {
+			"related": [
+				"Libra",
+				"Gemini",
+				"Scorpio"
+			],
+			"unrelated": [
+				"Aries",
+				"Taurus",
+				"Capricorn"
+			]
+		},
+		"alignment": {
+			"related": [
+				"chaotic"
+			],
+			"unrelated": [
+				"lawful"
+			]
+		}
+	},
+	"t-281-pt": {
+		"id": "t-281-pt",
+		"question": "Ele(a) sempre quer saber de todas as fofocas, mesmo que não conheça as pessoas envolvidas?",
+		"answer": "Sempre quer saber das fofocas",
+		"level": 2,
+		"mbti": {
+			"related": [
+				"E",
+				"S",
+				"P"
+			],
+			"unrelated": [
+				"I",
+				"N",
+				"J"
+			]
+		},
+		"zodiac": {
+			"related": [
+				"Gemini",
+				"Leo",
+				"Scorpio"
+			],
+			"unrelated": [
+				"Capricorn",
+				"Virgo",
+				"Aquarius"
+			]
+		},
+		"alignment": {
+			"related": [
+				"chaotic",
+				"evil"
+			],
+			"unrelated": [
+				"lawful",
+				"good"
 			]
 		}
 	}
