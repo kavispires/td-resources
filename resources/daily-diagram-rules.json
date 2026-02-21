@@ -105,7 +105,7 @@
 	},
 	"ddr-14-pt": {
 		"id": "ddr-14-pt",
-		"title": "tem 2 ou mais vogais diferentes",
+		"title": "tem vogais diferentes",
 		"level": 2,
 		"type": "comparison",
 		"method": "auto",
@@ -337,7 +337,7 @@
 	},
 	"ddr-43-pt": {
 		"id": "ddr-43-pt",
-		"title": "é oxítona",
+		"title": "é oxítona (sílaba tônica na última sílaba)",
 		"level": 3,
 		"type": "grammar",
 		"method": "dependency",
@@ -345,7 +345,7 @@
 	},
 	"ddr-44-pt": {
 		"id": "ddr-44-pt",
-		"title": "é paroxítona",
+		"title": "é paroxítona (sílaba tônica na penúltima sílaba)",
 		"level": 3,
 		"type": "grammar",
 		"method": "dependency",
@@ -353,7 +353,7 @@
 	},
 	"ddr-45-pt": {
 		"id": "ddr-45-pt",
-		"title": "é proparoxítona",
+		"title": "é proparoxítona (sílaba tônica na antepenúltima sílaba)",
 		"level": 3,
 		"type": "grammar",
 		"method": "dependency",
@@ -605,6 +605,6 @@
 		"level": 3,
 		"type": "repetition",
 		"method": "auto",
-		"updatedAt": 1755880532444
+		"updatedAt": 1771635875412
 	}
 }
