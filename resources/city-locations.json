@@ -139,8 +139,8 @@
 	"cl-18": {
 		"id": "cl-18",
 		"name": {
-			"en": "Organic Supermarket",
-			"pt": "Supermercado orgânico"
+			"en": "Supermarket",
+			"pt": "Supermercado"
 		},
 		"category": "Commercial"
 	},
@@ -1001,5 +1001,285 @@
 			"pt": "Caverna"
 		},
 		"category": "Natural"
+	},
+	"cl-126": {
+		"id": "cl-126",
+		"name": {
+			"en": "Drive-in Theater",
+			"pt": "Cine Drive-in"
+		},
+		"category": "Entertainment"
+	},
+	"cl-127": {
+		"id": "cl-127",
+		"name": {
+			"en": "Skate Park",
+			"pt": "Pista de Skate"
+		},
+		"category": "Residential"
+	},
+	"cl-128": {
+		"id": "cl-128",
+		"name": {
+			"en": "Jazz Club",
+			"pt": "Clube de Jazz"
+		},
+		"category": "Commercial"
+	},
+	"cl-129": {
+		"id": "cl-129",
+		"name": {
+			"en": "Planetarium",
+			"pt": "Planetário"
+		},
+		"category": "Education"
+	},
+	"cl-130": {
+		"id": "cl-130",
+		"name": {
+			"en": "Desalination Plant",
+			"pt": "Uchina de Dessalinização"
+		},
+		"category": "Infrastructure"
+	},
+	"cl-131": {
+		"id": "cl-131",
+		"name": {
+			"en": "Data Center",
+			"pt": "Centro de Processamento de Dados"
+		},
+		"category": "Infrastructure"
+	},
+	"cl-132": {
+		"id": "cl-132",
+		"name": {
+			"en": "Lumber Mill",
+			"pt": "Serraria"
+		},
+		"category": "Industrial"
+	},
+	"cl-133": {
+		"id": "cl-133",
+		"name": {
+			"en": "Oil Rig",
+			"pt": "Plataforma de Petróleo"
+		},
+		"category": "Industrial"
+	},
+	"cl-134": {
+		"id": "cl-134",
+		"name": {
+			"en": "Bank Vault",
+			"pt": "Cofre de Banco"
+		},
+		"category": "Commercial"
+	},
+	"cl-135": {
+		"id": "cl-135",
+		"name": {
+			"en": "Laundromat",
+			"pt": "Lavanderia"
+		},
+		"category": "Commercial"
+	},
+	"cl-136": {
+		"id": "cl-136",
+		"name": {
+			"en": "Fish Market",
+			"pt": "Mercado de Peixe"
+		},
+		"category": "Commercial"
+	},
+	"cl-137": {
+		"id": "cl-137",
+		"name": {
+			"en": "Vet Clinic",
+			"pt": "Clínica Veterinária"
+		},
+		"category": "Commercial"
+	},
+	"cl-138": {
+		"id": "cl-138",
+		"name": {
+			"en": "Meteor Crater",
+			"pt": "Cratera de Meteoro"
+		},
+		"category": "Special"
+	},
+	"cl-139": {
+		"id": "cl-139",
+		"name": {
+			"en": "Hot Springs",
+			"pt": "Fontes Termais"
+		},
+		"category": "Natural"
+	},
+	"cl-140": {
+		"id": "cl-140",
+		"name": {
+			"en": "Crash Site",
+			"pt": "Local de Queda"
+		},
+		"category": "Special"
+	},
+	"cl-141": {
+		"id": "cl-141",
+		"name": {
+			"en": "Customs Office",
+			"pt": "Alfândega"
+		},
+		"category": "Government"
+	},
+	"cl-142": {
+		"id": "cl-142",
+		"name": {
+			"en": "Heliport",
+			"pt": "Heliporto"
+		},
+		"category": "Transportation"
+	},
+	"cl-143": {
+		"id": "cl-143",
+		"name": {
+			"en": "Public Archive",
+			"pt": "Arquivo Público"
+		},
+		"category": "Government"
+	},
+	"cl-144": {
+		"id": "cl-144",
+		"name": {
+			"en": "Lighthouse",
+			"pt": "Farol"
+		},
+		"category": "Infrastructure"
+	},
+	"cl-145": {
+		"id": "cl-145",
+		"name": {
+			"en": "Bakery",
+			"pt": "Padaria"
+		},
+		"category": "Commercial"
+	},
+	"cl-146": {
+		"id": "cl-146",
+		"name": {
+			"en": "Observatory Deck",
+			"pt": "Deck de Observação"
+		},
+		"category": "Entertainment"
+	},
+	"cl-147": {
+		"id": "cl-147",
+		"name": {
+			"en": "Solar Farm",
+			"pt": "Fazenda Solar"
+		},
+		"category": "Industrial"
+	},
+	"cl-148": {
+		"id": "cl-148",
+		"name": {
+			"en": "Bowling Alley",
+			"pt": "Boliche"
+		},
+		"category": "Entertainment"
+	},
+	"cl-149": {
+		"id": "cl-149",
+		"name": {
+			"en": "Community Center",
+			"pt": "Centro Comunitário"
+		},
+		"category": "Residential"
+	},
+	"cl-150": {
+		"id": "cl-150",
+		"name": {
+			"en": "Science Center",
+			"pt": "Centro de Ciências"
+		},
+		"category": "Education"
+	},
+	"cl-151": {
+		"id": "cl-151",
+		"name": {
+			"en": "Public Pool",
+			"pt": "Clube"
+		},
+		"category": "Entertainment"
+	},
+	"cl-152": {
+		"id": "cl-152",
+		"name": {
+			"en": "Town Square",
+			"pt": "Praça da Cidade"
+		},
+		"category": "Government"
+	},
+	"cl-153": {
+		"id": "cl-153",
+		"name": {
+			"en": "Waterfall",
+			"pt": "Cachoeira"
+		},
+		"category": "Natural"
+	},
+	"cl-154": {
+		"id": "cl-154",
+		"name": {
+			"en": "Comic Book Store",
+			"pt": "Loja de Quadrinhos"
+		},
+		"category": "Commercial"
+	},
+	"cl-155": {
+		"id": "cl-155",
+		"name": {
+			"en": "Shipyard",
+			"pt": "Estaleiro"
+		},
+		"category": "Industrial"
+	},
+	"cl-156": {
+		"id": "cl-156",
+		"name": {
+			"en": "TV Station",
+			"pt": "Emissora de TV"
+		},
+		"category": "Commercial"
+	},
+	"cl-157": {
+		"id": "cl-157",
+		"name": {
+			"en": "Racetrack",
+			"pt": "Autódromo"
+		},
+		"category": "Entertainment"
+	},
+	"cl-158": {
+		"id": "cl-158",
+		"name": {
+			"en": "Meth House",
+			"pt": "Boca de fumo"
+		},
+		"category": "Residential"
+	},
+	"cl-159": {
+		"id": "cl-159",
+		"name": {
+			"en": "Luxury Penthouse",
+			"pt": "Cobertura de Luxo"
+		},
+		"category": "Residential"
+	},
+	"cl-160": {
+		"id": "cl-160",
+		"name": {
+			"en": "Our House",
+			"pt": "Nossa Casa"
+		},
+		"category": "Special"
 	}
 }
