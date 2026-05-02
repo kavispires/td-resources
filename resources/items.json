@@ -940,7 +940,7 @@
     "id": "64",
     "name": {
       "en": "golf club",
-      "pt": "taco de golf"
+      "pt": "taco de golfe"
     },
     "decks": [
       "alien",
@@ -2868,7 +2868,7 @@
   "205": {
     "id": "205",
     "name": {
-      "en": "cassete tape",
+      "en": "cassette tape",
       "pt": "fita cassete"
     },
     "aliasesPt": [
@@ -3672,9 +3672,16 @@
   "263": {
     "id": "263",
     "name": {
-      "en": "fortune teller",
+      "en": "paper fortune teller",
       "pt": "origami da sorte"
     },
+    "aliasesEn": [
+      "fortune teller",
+      "cootie catcher"
+    ],
+    "aliasesPt": [
+      "come-come"
+    ],
     "decks": [
       "alien",
       "manufactured"
@@ -3897,7 +3904,7 @@
   "280": {
     "id": "280",
     "name": {
-      "en": "rocker",
+      "en": "seesaw",
       "pt": "gangorra"
     },
     "decks": [
@@ -4575,7 +4582,7 @@
   "330": {
     "id": "330",
     "name": {
-      "en": "clutch",
+      "en": "crutch",
       "pt": "muleta"
     },
     "decks": [
@@ -5239,10 +5246,10 @@
     "id": "380",
     "name": {
       "en": "paper clip",
-      "pt": "clips de papel"
+      "pt": "clipe de papel"
     },
     "aliasesPt": [
-      "clips"
+      "clipes"
     ],
     "decks": [
       "alien",
@@ -5284,6 +5291,12 @@
       "en": "anal plug",
       "pt": "rabo anal"
     },
+    "aliasesEn": [
+      "butt plug"
+    ],
+    "aliasesPt": [
+      "plug anal"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -7055,7 +7068,7 @@
     "id": "518",
     "name": {
       "en": "hamburger",
-      "pt": "hambúrger"
+      "pt": "hambúrguer"
     },
     "decks": [
       "age3",
@@ -7398,7 +7411,7 @@
   "544": {
     "id": "544",
     "name": {
-      "en": "scalper",
+      "en": "scalpel",
       "pt": "bisturi"
     },
     "decks": [
@@ -7528,7 +7541,7 @@
     "id": "554",
     "name": {
       "en": "bikini",
-      "pt": "biquini"
+      "pt": "biquíni"
     },
     "decks": [
       "age4",
@@ -7802,7 +7815,7 @@
     "id": "575",
     "name": {
       "en": "pantone palette",
-      "pt": "palheta pantone"
+      "pt": "paleta pantone"
     },
     "aliasesPt": [
       "pantone"
@@ -8850,9 +8863,12 @@
   "658": {
     "id": "658",
     "name": {
-      "en": "ghost face",
+      "en": "Ghostface",
       "pt": "pânico"
     },
+    "aliasesPt": [
+      "máscara do pânico", "Ghostface"
+    ],
     "decks": [
       "alien",
       "suspect"
@@ -9107,6 +9123,9 @@
       "en": "beer",
       "pt": "chope"
     },
+    "aliasesEn": [
+      "draft beer"
+    ],
     "aliasesPt": [
       "cerveja"
     ],
@@ -10427,7 +10446,7 @@
   "783": {
     "id": "783",
     "name": {
-      "en": "pan flue",
+      "en": "pan flute",
       "pt": "flauta de bambu"
     },
     "decks": [
@@ -33688,8 +33707,7 @@
       "dream",
       "suspect",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2690": {
     "id": "2690",
@@ -33702,8 +33720,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2691": {
     "id": "2691",
@@ -33718,8 +33735,7 @@
       "alien",
       "meta",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2692": {
     "id": "2692",
@@ -33733,8 +33749,7 @@
       "evidence",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2693": {
     "id": "2693",
@@ -33747,8 +33762,7 @@
       "dream",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2694": {
     "id": "2694",
@@ -33763,8 +33777,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2695": {
     "id": "2695",
@@ -33777,8 +33790,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2696": {
     "id": "2696",
@@ -33791,8 +33803,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2697": {
     "id": "2697",
@@ -33807,8 +33818,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2698": {
     "id": "2698",
@@ -33822,8 +33832,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2699": {
     "id": "2699",
@@ -33839,8 +33848,7 @@
       "dream",
       "manufactured",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2700": {
     "id": "2700",
@@ -33853,8 +33861,7 @@
       "alien",
       "meta",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2701": {
     "id": "2701",
@@ -33870,8 +33877,7 @@
       "age2",
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2702": {
     "id": "2702",
@@ -33889,8 +33895,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2703": {
     "id": "2703",
@@ -33905,8 +33910,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2704": {
     "id": "2704",
@@ -33919,8 +33923,7 @@
       "dream",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2705": {
     "id": "2705",
@@ -33937,8 +33940,7 @@
       "dream",
       "evidence",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2706": {
     "id": "2706",
@@ -33954,8 +33956,7 @@
       "alien",
       "evidence",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2707": {
     "id": "2707",
@@ -33968,8 +33969,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2708": {
     "id": "2708",
@@ -33981,8 +33981,7 @@
       "alien",
       "evidence",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2709": {
     "id": "2709",
@@ -33994,8 +33993,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2710": {
     "id": "2710",
@@ -34006,8 +34004,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2711": {
     "id": "2711",
@@ -34019,8 +34016,7 @@
       "age3",
       "alien",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2712": {
     "id": "2712",
@@ -34037,8 +34033,7 @@
     "decks": [
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2713": {
     "id": "2713",
@@ -34056,8 +34051,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2714": {
     "id": "2714",
@@ -34069,8 +34063,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2715": {
     "id": "2715",
@@ -34089,8 +34082,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2716": {
     "id": "2716",
@@ -34103,8 +34095,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2717": {
     "id": "2717",
@@ -34116,8 +34107,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2718": {
     "id": "2718",
@@ -34127,8 +34117,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2719": {
     "id": "2719",
@@ -34141,8 +34130,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2720": {
     "id": "2720",
@@ -34156,8 +34144,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2721": {
     "id": "2721",
@@ -34172,8 +34159,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2722": {
     "id": "2722",
@@ -34186,8 +34172,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2723": {
     "id": "2723",
@@ -34202,8 +34187,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2724": {
     "id": "2724",
@@ -34218,8 +34202,7 @@
       "alien",
       "manufactured",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2725": {
     "id": "2725",
@@ -34236,8 +34219,7 @@
       "dream",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2726": {
     "id": "2726",
@@ -34253,8 +34235,7 @@
       "alien",
       "dream",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2727": {
     "id": "2727",
@@ -34269,8 +34250,7 @@
       "evidence",
       "meta",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2728": {
     "id": "2728",
@@ -34281,8 +34261,7 @@
     "decks": [
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2729": {
     "id": "2729",
@@ -34296,8 +34275,7 @@
     "decks": [
       "age3",
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2730": {
     "id": "2730",
@@ -34312,8 +34290,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2731": {
     "id": "2731",
@@ -34328,8 +34305,7 @@
       "alien",
       "meta",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2732": {
     "id": "2732",
@@ -34347,8 +34323,7 @@
     "decks": [
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2733": {
     "id": "2733",
@@ -34362,8 +34337,7 @@
     "decks": [
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2734": {
     "id": "2734",
@@ -34380,8 +34354,7 @@
     "decks": [
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2735": {
     "id": "2735",
@@ -34393,8 +34366,7 @@
       "age4",
       "dream",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2736": {
     "id": "2736",
@@ -34412,8 +34384,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2737": {
     "id": "2737",
@@ -34425,8 +34396,7 @@
       "alien",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2738": {
     "id": "2738",
@@ -34438,8 +34408,7 @@
       "alien",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2739": {
     "id": "2739",
@@ -34450,8 +34419,7 @@
     "decks": [
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2740": {
     "id": "2740",
@@ -34462,8 +34430,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2741": {
     "id": "2741",
@@ -34481,8 +34448,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2742": {
     "id": "2742",
@@ -34498,8 +34464,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2743": {
     "id": "2743",
@@ -34511,8 +34476,7 @@
       "age1",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2744": {
     "id": "2744",
@@ -34524,8 +34488,7 @@
       "alien",
       "dream",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2745": {
     "id": "2745",
@@ -34537,8 +34500,7 @@
       "age4",
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2746": {
     "id": "2746",
@@ -34557,8 +34519,7 @@
       "alien",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2747": {
     "id": "2747",
@@ -34568,8 +34529,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2748": {
     "id": "2748",
@@ -34582,8 +34542,7 @@
       "dream",
       "suspect",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2749": {
     "id": "2749",
@@ -34595,8 +34554,7 @@
       "alien",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2750": {
     "id": "2750",
@@ -34610,8 +34568,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2751": {
     "id": "2751",
@@ -34625,8 +34582,7 @@
       "dream",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2752": {
     "id": "2752",
@@ -34639,8 +34595,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2753": {
     "id": "2753",
@@ -34650,8 +34605,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2754": {
     "id": "2754",
@@ -34669,8 +34623,7 @@
       "meta",
       "thing",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2755": {
     "id": "2755",
@@ -34684,8 +34637,7 @@
       "evidence",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2756": {
     "id": "2756",
@@ -34698,8 +34650,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2757": {
     "id": "2757",
@@ -34717,8 +34668,7 @@
       "evidence",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2758": {
     "id": "2758",
@@ -34730,8 +34680,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2759": {
     "id": "2759",
@@ -34742,8 +34691,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2760": {
     "id": "2760",
@@ -34763,7 +34711,6 @@
       "dream",
       "thing"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2761": {
@@ -34779,8 +34726,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2762": {
     "id": "2762",
@@ -34797,8 +34743,7 @@
     "decks": [
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2763": {
     "id": "2763",
@@ -34810,8 +34755,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2764": {
     "id": "2764",
@@ -34823,8 +34767,7 @@
       "age2",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2765": {
     "id": "2765",
@@ -34837,8 +34780,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2766": {
     "id": "2766",
@@ -34851,8 +34793,7 @@
       "dream",
       "suspect",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2767": {
     "id": "2767",
@@ -34865,8 +34806,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2768": {
     "id": "2768",
@@ -34879,8 +34819,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2769": {
     "id": "2769",
@@ -34893,8 +34832,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2770": {
     "id": "2770",
@@ -34907,8 +34845,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2771": {
     "id": "2771",
@@ -34921,8 +34858,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2772": {
     "id": "2772",
@@ -34935,8 +34871,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2773": {
     "id": "2773",
@@ -34949,8 +34884,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2774": {
     "id": "2774",
@@ -34962,8 +34896,7 @@
       "alien",
       "manufactured",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2775": {
     "id": "2775",
@@ -34975,8 +34908,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2776": {
     "id": "2776",
@@ -34989,8 +34921,7 @@
       "dream",
       "thing",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2777": {
     "id": "2777",
@@ -35003,8 +34934,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2778": {
     "id": "2778",
@@ -35018,8 +34948,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2779": {
     "id": "2779",
@@ -35035,8 +34964,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2780": {
     "id": "2780",
@@ -35051,8 +34979,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2781": {
     "id": "2781",
@@ -35065,8 +34992,7 @@
       "dream",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2782": {
     "id": "2782",
@@ -35079,8 +35005,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2783": {
     "id": "2783",
@@ -35096,8 +35021,7 @@
       "dream",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2784": {
     "id": "2784",
@@ -35111,8 +35035,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2785": {
     "id": "2785",
@@ -35125,8 +35048,7 @@
       "dream",
       "thing",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2786": {
     "id": "2786",
@@ -35144,8 +35066,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2787": {
     "id": "2787",
@@ -35157,8 +35078,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2788": {
     "id": "2788",
@@ -35171,8 +35091,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2789": {
     "id": "2789",
@@ -35183,8 +35102,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2790": {
     "id": "2790",
@@ -35195,8 +35113,7 @@
     "decks": [
       "age1",
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2791": {
     "id": "2791",
@@ -35208,8 +35125,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2792": {
     "id": "2792",
@@ -35222,8 +35138,7 @@
       "dream",
       "suspect",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2793": {
     "id": "2793",
@@ -35236,8 +35151,7 @@
       "dream",
       "suspect",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2794": {
     "id": "2794",
@@ -35249,8 +35163,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2795": {
     "id": "2795",
@@ -35262,8 +35175,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2796": {
     "id": "2796",
@@ -35277,8 +35189,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2797": {
     "id": "2797",
@@ -35291,8 +35202,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2798": {
     "id": "2798",
@@ -35304,8 +35214,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2799": {
     "id": "2799",
@@ -35320,8 +35229,7 @@
       "manufactured",
       "thing",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2800": {
     "id": "2800",
@@ -35333,8 +35241,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2801": {
     "id": "2801",
@@ -35346,8 +35253,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2802": {
     "id": "2802",
@@ -35361,8 +35267,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2803": {
     "id": "2803",
@@ -35375,8 +35280,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2804": {
     "id": "2804",
@@ -35389,8 +35293,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2805": {
     "id": "2805",
@@ -35401,8 +35304,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2806": {
     "id": "2806",
@@ -35418,8 +35320,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "2807": {
     "id": "2807",
@@ -35435,8 +35336,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "2808": {
     "id": "2808",
@@ -35450,8 +35350,7 @@
     ],
     "aliasesPt": [
       "separar"
-    ],
-    "groups": []
+    ]
   },
   "2809": {
     "id": "2809",
@@ -35469,8 +35368,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "2810": {
     "id": "2810",
@@ -35486,8 +35384,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "2811": {
     "id": "2811",
@@ -35503,8 +35400,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "2812": {
     "id": "2812",
@@ -35517,8 +35413,7 @@
       "dream",
       "evidence",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2813": {
     "id": "2813",
@@ -35529,8 +35424,7 @@
     "decks": [
       "meta",
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "2814": {
     "id": "2814",
@@ -35542,8 +35436,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2815": {
     "id": "2815",
@@ -35556,8 +35449,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2816": {
     "id": "2816",
@@ -35570,8 +35462,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2817": {
     "id": "2817",
@@ -35584,7 +35475,6 @@
       "evidence",
       "manufactured"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2818": {
@@ -35599,7 +35489,6 @@
       "evidence",
       "thing"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2819": {
@@ -35614,8 +35503,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2820": {
     "id": "2820",
@@ -35626,8 +35514,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2821": {
     "id": "2821",
@@ -35645,8 +35532,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2822": {
     "id": "2822",
@@ -35659,8 +35545,7 @@
       "dream",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2823": {
     "id": "2823",
@@ -35675,8 +35560,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2824": {
     "id": "2824",
@@ -35687,8 +35571,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2825": {
     "id": "2825",
@@ -35705,8 +35588,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2826": {
     "id": "2826",
@@ -35721,8 +35603,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2827": {
     "id": "2827",
@@ -35735,8 +35616,7 @@
       "dream",
       "suspect",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2828": {
     "id": "2828",
@@ -35748,8 +35628,7 @@
       "alien",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2829": {
     "id": "2829",
@@ -35760,8 +35639,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2830": {
     "id": "2830",
@@ -35775,8 +35653,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2831": {
     "id": "2831",
@@ -35790,8 +35667,7 @@
     "decks": [
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2832": {
     "id": "2832",
@@ -35806,8 +35682,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2833": {
     "id": "2833",
@@ -35824,8 +35699,7 @@
     "decks": [
       "alien",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2834": {
     "id": "2834",
@@ -35839,8 +35713,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2835": {
     "id": "2835",
@@ -35853,8 +35726,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2836": {
     "id": "2836",
@@ -35867,8 +35739,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2837": {
     "id": "2837",
@@ -35881,8 +35752,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2838": {
     "id": "2838",
@@ -35895,8 +35765,7 @@
       "dream",
       "location",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2839": {
     "id": "2839",
@@ -35906,8 +35775,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2840": {
     "id": "2840",
@@ -35919,8 +35787,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2841": {
     "id": "2841",
@@ -35931,8 +35798,7 @@
     "decks": [
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2842": {
     "id": "2842",
@@ -35943,8 +35809,7 @@
     "decks": [
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2843": {
     "id": "2843",
@@ -35955,8 +35820,7 @@
     "decks": [
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2844": {
     "id": "2844",
@@ -35966,8 +35830,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2845": {
     "id": "2845",
@@ -35977,8 +35840,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2846": {
     "id": "2846",
@@ -35988,8 +35850,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2847": {
     "id": "2847",
@@ -36000,8 +35861,7 @@
     "decks": [
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2848": {
     "id": "2848",
@@ -36013,8 +35873,7 @@
       "alien",
       "meta",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2849": {
     "id": "2849",
@@ -36025,8 +35884,7 @@
     "decks": [
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2850": {
     "id": "2850",
@@ -36038,8 +35896,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2851": {
     "id": "2851",
@@ -36051,8 +35908,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2852": {
     "id": "2852",
@@ -36064,8 +35920,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2853": {
     "id": "2853",
@@ -36078,8 +35933,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2854": {
     "id": "2854",
@@ -36092,8 +35946,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2855": {
     "id": "2855",
@@ -36108,8 +35961,7 @@
       "alien",
       "evidence",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2856": {
     "id": "2856",
@@ -36119,8 +35971,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2857": {
     "id": "2857",
@@ -36136,8 +35987,7 @@
       "evidence",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2858": {
     "id": "2858",
@@ -36148,8 +35998,7 @@
     "decks": [
       "location",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2859": {
     "id": "2859",
@@ -36167,8 +36016,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2860": {
     "id": "2860",
@@ -36182,8 +36030,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2861": {
     "id": "2861",
@@ -36195,8 +36042,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2862": {
     "id": "2862",
@@ -36212,8 +36058,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2863": {
     "id": "2863",
@@ -36227,8 +36072,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2864": {
     "id": "2864",
@@ -36239,8 +36083,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2865": {
     "id": "2865",
@@ -36258,8 +36101,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2866": {
     "id": "2866",
@@ -36272,8 +36114,7 @@
       "dream",
       "suspect",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2867": {
     "id": "2867",
@@ -36285,8 +36126,7 @@
       "age1",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2868": {
     "id": "2868",
@@ -36304,8 +36144,7 @@
       "age5",
       "meta",
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "2869": {
     "id": "2869",
@@ -36324,8 +36163,7 @@
     "decks": [
       "age5",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2870": {
     "id": "2870",
@@ -36335,8 +36173,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2871": {
     "id": "2871",
@@ -36347,8 +36184,7 @@
     "decks": [
       "age1",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2872": {
     "id": "2872",
@@ -36364,8 +36200,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2873": {
     "id": "2873",
@@ -36375,8 +36210,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2874": {
     "id": "2874",
@@ -36387,8 +36221,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2875": {
     "id": "2875",
@@ -36399,8 +36232,7 @@
     "decks": [
       "age1",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2876": {
     "id": "2876",
@@ -36417,8 +36249,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2877": {
     "id": "2877",
@@ -36428,8 +36259,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2878": {
     "id": "2878",
@@ -36446,8 +36276,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2879": {
     "id": "2879",
@@ -36461,8 +36290,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2880": {
     "id": "2880",
@@ -36473,8 +36301,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2881": {
     "id": "2881",
@@ -36485,8 +36312,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2882": {
     "id": "2882",
@@ -36501,7 +36327,6 @@
       "alien",
       "manufactured"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2883": {
@@ -36513,8 +36338,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2884": {
     "id": "2884",
@@ -36524,8 +36348,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2885": {
     "id": "2885",
@@ -36536,8 +36359,7 @@
     "decks": [
       "meta",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2886": {
     "id": "2886",
@@ -36550,8 +36372,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2887": {
     "id": "2887",
@@ -36564,8 +36385,7 @@
       "dream",
       "meta",
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "2888": {
     "id": "2888",
@@ -36576,8 +36396,7 @@
     "decks": [
       "age4",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2889": {
     "id": "2889",
@@ -36587,8 +36406,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2890": {
     "id": "2890",
@@ -36598,8 +36416,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2891": {
     "id": "2891",
@@ -36610,8 +36427,7 @@
     "decks": [
       "age1",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2892": {
     "id": "2892",
@@ -36621,8 +36437,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2893": {
     "id": "2893",
@@ -36637,8 +36452,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2894": {
     "id": "2894",
@@ -36648,8 +36462,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2895": {
     "id": "2895",
@@ -36662,8 +36475,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2896": {
     "id": "2896",
@@ -36679,8 +36491,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2897": {
     "id": "2897",
@@ -36690,8 +36501,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2898": {
     "id": "2898",
@@ -36702,8 +36512,7 @@
     "decks": [
       "age5",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2899": {
     "id": "2899",
@@ -36714,8 +36523,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2900": {
     "id": "2900",
@@ -36726,8 +36534,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2901": {
     "id": "2901",
@@ -36737,8 +36544,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2902": {
     "id": "2902",
@@ -36750,8 +36556,7 @@
       "age4",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2903": {
     "id": "2903",
@@ -36761,8 +36566,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2904": {
     "id": "2904",
@@ -36773,8 +36577,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2905": {
     "id": "2905",
@@ -36788,8 +36591,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2906": {
     "id": "2906",
@@ -36800,8 +36602,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2907": {
     "id": "2907",
@@ -36811,8 +36612,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2908": {
     "id": "2908",
@@ -36826,8 +36626,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2909": {
     "id": "2909",
@@ -36841,8 +36640,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2910": {
     "id": "2910",
@@ -36853,16 +36651,14 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2911": {
     "id": "2911",
     "name": {
       "en": "network",
       "pt": "contatos"
-    },
-    "groups": []
+    }
   },
   "2912": {
     "id": "2912",
@@ -36880,8 +36676,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2913": {
     "id": "2913",
@@ -36891,8 +36686,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2914": {
     "id": "2914",
@@ -36902,8 +36696,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2915": {
     "id": "2915",
@@ -36913,8 +36706,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2916": {
     "id": "2916",
@@ -36925,8 +36717,7 @@
     "decks": [
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2917": {
     "id": "2917",
@@ -36941,8 +36732,7 @@
       "alien",
       "dream",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2918": {
     "id": "2918",
@@ -36955,8 +36745,7 @@
       "dream",
       "manufactured",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2919": {
     "id": "2919",
@@ -36967,8 +36756,7 @@
     "decks": [
       "alien",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2920": {
     "id": "2920",
@@ -36978,8 +36766,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2921": {
     "id": "2921",
@@ -36994,8 +36781,7 @@
       "alien",
       "dream",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2922": {
     "id": "2922",
@@ -37013,8 +36799,7 @@
     "decks": [
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2923": {
     "id": "2923",
@@ -37028,8 +36813,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2924": {
     "id": "2924",
@@ -37042,8 +36826,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2925": {
     "id": "2925",
@@ -37054,8 +36837,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2926": {
     "id": "2926",
@@ -37066,8 +36848,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2927": {
     "id": "2927",
@@ -37079,8 +36860,7 @@
       "age1",
       "alien",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2928": {
     "id": "2928",
@@ -37090,8 +36870,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2929": {
     "id": "2929",
@@ -37107,8 +36886,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2930": {
     "id": "2930",
@@ -37120,8 +36898,7 @@
       "alien",
       "manufactured",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2931": {
     "id": "2931",
@@ -37132,8 +36909,7 @@
     "decks": [
       "dream",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2932": {
     "id": "2932",
@@ -37143,8 +36919,7 @@
     },
     "decks": [
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2933": {
     "id": "2933",
@@ -37155,8 +36930,7 @@
     "decks": [
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2934": {
     "id": "2934",
@@ -37167,8 +36941,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2935": {
     "id": "2935",
@@ -37183,8 +36956,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2936": {
     "id": "2936",
@@ -37194,8 +36966,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2937": {
     "id": "2937",
@@ -37206,8 +36977,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2938": {
     "id": "2938",
@@ -37218,8 +36988,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2939": {
     "id": "2939",
@@ -37235,8 +37004,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2940": {
     "id": "2940",
@@ -37247,8 +37015,7 @@
     "decks": [
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2941": {
     "id": "2941",
@@ -37259,8 +37026,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2942": {
     "id": "2942",
@@ -37271,8 +37037,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2943": {
     "id": "2943",
@@ -37282,8 +37047,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2944": {
     "id": "2944",
@@ -37299,8 +37063,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2945": {
     "id": "2945",
@@ -37313,8 +37076,7 @@
       "alien",
       "dream",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2946": {
     "id": "2946",
@@ -37326,8 +37088,7 @@
       "age2",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2947": {
     "id": "2947",
@@ -37338,8 +37099,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2948": {
     "id": "2948",
@@ -37359,8 +37119,7 @@
       "dream",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2949": {
     "id": "2949",
@@ -37371,8 +37130,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2950": {
     "id": "2950",
@@ -37383,8 +37141,7 @@
     "decks": [
       "alien",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "2951": {
     "id": "2951",
@@ -37398,8 +37155,7 @@
     "decks": [
       "age1",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2952": {
     "id": "2952",
@@ -37414,8 +37170,7 @@
       "age1",
       "alien",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2953": {
     "id": "2953",
@@ -37426,8 +37181,7 @@
     "decks": [
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2954": {
     "id": "2954",
@@ -37440,8 +37194,7 @@
       "dream",
       "evidence",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2955": {
     "id": "2955",
@@ -37455,8 +37208,7 @@
     "decks": [
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2956": {
     "id": "2956",
@@ -37469,8 +37221,7 @@
       "dream",
       "evidence",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2957": {
     "id": "2957",
@@ -37483,8 +37234,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2958": {
     "id": "2958",
@@ -37495,8 +37245,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2959": {
     "id": "2959",
@@ -37508,8 +37257,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2960": {
     "id": "2960",
@@ -37521,8 +37269,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2961": {
     "id": "2961",
@@ -37533,8 +37280,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2962": {
     "id": "2962",
@@ -37546,8 +37292,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "2963": {
     "id": "2963",
@@ -37558,8 +37303,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2964": {
     "id": "2964",
@@ -37575,8 +37319,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2965": {
     "id": "2965",
@@ -37587,7 +37330,6 @@
     "decks": [
       "meta"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2966": {
@@ -37599,8 +37341,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2967": {
     "id": "2967",
@@ -37612,8 +37353,7 @@
       "alien",
       "dream",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2968": {
     "id": "2968",
@@ -37629,8 +37369,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2969": {
     "id": "2969",
@@ -37644,8 +37383,7 @@
     "decks": [
       "meta",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2970": {
     "id": "2970",
@@ -37657,8 +37395,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2971": {
     "id": "2971",
@@ -37675,8 +37412,7 @@
     "decks": [
       "alien",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2972": {
     "id": "2972",
@@ -37695,7 +37431,6 @@
       "dream",
       "suspect"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2973": {
@@ -37714,8 +37449,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2974": {
     "id": "2974",
@@ -37732,8 +37466,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2975": {
     "id": "2975",
@@ -37746,8 +37479,7 @@
     ],
     "decks": [
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2976": {
     "id": "2976",
@@ -37759,8 +37491,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2977": {
     "id": "2977",
@@ -37776,7 +37507,6 @@
       "dream",
       "suspect"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2978": {
@@ -37787,8 +37517,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2979": {
     "id": "2979",
@@ -37802,7 +37531,6 @@
       "dream",
       "suspect"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2980": {
@@ -37820,8 +37548,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2981": {
     "id": "2981",
@@ -37836,7 +37563,6 @@
       "descansar",
       "relax"
     ],
-    "groups": [],
     "nsfw": true
   },
   "2982": {
@@ -37848,8 +37574,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2983": {
     "id": "2983",
@@ -37860,8 +37585,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2984": {
     "id": "2984",
@@ -37872,8 +37596,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2985": {
     "id": "2985",
@@ -37890,8 +37613,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2986": {
     "id": "2986",
@@ -37902,8 +37624,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "2987": {
     "id": "2987",
@@ -37920,8 +37641,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2988": {
     "id": "2988",
@@ -37931,8 +37651,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2989": {
     "id": "2989",
@@ -37942,8 +37661,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "2990": {
     "id": "2990",
@@ -37956,8 +37674,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2991": {
     "id": "2991",
@@ -37968,8 +37685,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2992": {
     "id": "2992",
@@ -37981,8 +37697,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2993": {
     "id": "2993",
@@ -37993,8 +37708,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "2994": {
     "id": "2994",
@@ -38006,8 +37720,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2995": {
     "id": "2995",
@@ -38018,8 +37731,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "2996": {
     "id": "2996",
@@ -38034,8 +37746,7 @@
       "age2",
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "2997": {
     "id": "2997",
@@ -38049,8 +37760,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "2998": {
     "id": "2998",
@@ -38061,8 +37771,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "2999": {
     "id": "2999",
@@ -38074,8 +37783,7 @@
       "age1",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3000": {
     "id": "3000",
@@ -38086,8 +37794,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3001": {
     "id": "3001",
@@ -38098,8 +37805,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3002": {
     "id": "3002",
@@ -38110,8 +37816,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3003": {
     "id": "3003",
@@ -38122,8 +37827,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3004": {
     "id": "3004",
@@ -38133,8 +37837,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3005": {
     "id": "3005",
@@ -38147,8 +37850,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3006": {
     "id": "3006",
@@ -38163,8 +37865,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3007": {
     "id": "3007",
@@ -38176,8 +37877,7 @@
       "alien",
       "location",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3008": {
     "id": "3008",
@@ -38188,8 +37888,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3009": {
     "id": "3009",
@@ -38201,8 +37900,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3010": {
     "id": "3010",
@@ -38213,8 +37911,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3011": {
     "id": "3011",
@@ -38225,8 +37922,7 @@
     "decks": [
       "location",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3012": {
     "id": "3012",
@@ -38236,8 +37932,7 @@
     },
     "decks": [
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3013": {
     "id": "3013",
@@ -38247,8 +37942,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3014": {
     "id": "3014",
@@ -38260,8 +37954,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3015": {
     "id": "3015",
@@ -38272,8 +37965,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3016": {
     "id": "3016",
@@ -38284,8 +37976,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3017": {
     "id": "3017",
@@ -38297,8 +37988,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3018": {
     "id": "3018",
@@ -38310,8 +38000,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3019": {
     "id": "3019",
@@ -38325,8 +38014,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3020": {
     "id": "3020",
@@ -38336,8 +38024,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3021": {
     "id": "3021",
@@ -38353,8 +38040,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3022": {
     "id": "3022",
@@ -38368,8 +38054,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3023": {
     "id": "3023",
@@ -38383,8 +38068,7 @@
     "decks": [
       "alien",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3024": {
     "id": "3024",
@@ -38402,8 +38086,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3025": {
     "id": "3025",
@@ -38421,8 +38104,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3026": {
     "id": "3026",
@@ -38434,8 +38116,7 @@
       "alien",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3027": {
     "id": "3027",
@@ -38449,8 +38130,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3028": {
     "id": "3028",
@@ -38463,7 +38143,6 @@
       "meta",
       "suspect"
     ],
-    "groups": [],
     "nsfw": true
   },
   "3029": {
@@ -38476,8 +38155,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3030": {
     "id": "3030",
@@ -38490,7 +38168,6 @@
       "dream",
       "meta"
     ],
-    "groups": [],
     "nsfw": true
   },
   "3031": {
@@ -38512,7 +38189,6 @@
       "dream",
       "suspect"
     ],
-    "groups": [],
     "nsfw": true
   },
   "3032": {
@@ -38525,8 +38201,7 @@
       "alien",
       "meta",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3033": {
     "id": "3033",
@@ -38539,8 +38214,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3034": {
     "id": "3034",
@@ -38550,8 +38224,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3035": {
     "id": "3035",
@@ -38562,8 +38235,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3036": {
     "id": "3036",
@@ -38575,8 +38247,7 @@
       "age1",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3037": {
     "id": "3037",
@@ -38589,8 +38260,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3038": {
     "id": "3038",
@@ -38601,8 +38271,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3039": {
     "id": "3039",
@@ -38615,8 +38284,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3040": {
     "id": "3040",
@@ -38626,8 +38294,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3041": {
     "id": "3041",
@@ -38640,8 +38307,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3042": {
     "id": "3042",
@@ -38652,8 +38318,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3043": {
     "id": "3043",
@@ -38664,8 +38329,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3044": {
     "id": "3044",
@@ -38675,8 +38339,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3045": {
     "id": "3045",
@@ -38686,8 +38349,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3046": {
     "id": "3046",
@@ -38697,8 +38359,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3047": {
     "id": "3047",
@@ -38709,8 +38370,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3048": {
     "id": "3048",
@@ -38726,8 +38386,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3049": {
     "id": "3049",
@@ -38738,8 +38397,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3050": {
     "id": "3050",
@@ -38754,8 +38412,7 @@
       "alien",
       "dream",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3051": {
     "id": "3051",
@@ -38765,8 +38422,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3052": {
     "id": "3052",
@@ -38783,8 +38439,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3053": {
     "id": "3053",
@@ -38794,8 +38449,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3054": {
     "id": "3054",
@@ -38806,8 +38460,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3055": {
     "id": "3055",
@@ -38819,8 +38472,7 @@
       "alien",
       "dream",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3056": {
     "id": "3056",
@@ -38837,8 +38489,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3057": {
     "id": "3057",
@@ -38848,8 +38499,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3058": {
     "id": "3058",
@@ -38859,8 +38509,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3059": {
     "id": "3059",
@@ -38876,8 +38525,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3060": {
     "id": "3060",
@@ -38887,8 +38535,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3061": {
     "id": "3061",
@@ -38899,8 +38546,7 @@
     "decks": [
       "alien",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3062": {
     "id": "3062",
@@ -38910,8 +38556,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3063": {
     "id": "3063",
@@ -38922,8 +38567,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3064": {
     "id": "3064",
@@ -38933,8 +38577,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3065": {
     "id": "3065",
@@ -38947,8 +38590,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3066": {
     "id": "3066",
@@ -38959,8 +38601,7 @@
     "decks": [
       "alien",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3067": {
     "id": "3067",
@@ -38970,8 +38611,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3068": {
     "id": "3068",
@@ -38981,8 +38621,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3069": {
     "id": "3069",
@@ -39000,8 +38639,7 @@
       "age1",
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3070": {
     "id": "3070",
@@ -39012,8 +38650,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3071": {
     "id": "3071",
@@ -39030,8 +38667,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3072": {
     "id": "3072",
@@ -39043,8 +38679,7 @@
       "age3",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3073": {
     "id": "3073",
@@ -39054,8 +38689,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3074": {
     "id": "3074",
@@ -39072,8 +38706,7 @@
     "decks": [
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3075": {
     "id": "3075",
@@ -39083,8 +38716,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3076": {
     "id": "3076",
@@ -39097,8 +38729,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3077": {
     "id": "3077",
@@ -39108,8 +38739,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3078": {
     "id": "3078",
@@ -39125,8 +38755,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3079": {
     "id": "3079",
@@ -39146,8 +38775,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3080": {
     "id": "3080",
@@ -39158,8 +38786,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3081": {
     "id": "3081",
@@ -39170,8 +38797,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3082": {
     "id": "3082",
@@ -39181,8 +38807,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3083": {
     "id": "3083",
@@ -39193,8 +38818,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3084": {
     "id": "3084",
@@ -39206,8 +38830,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3085": {
     "id": "3085",
@@ -39223,8 +38846,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3086": {
     "id": "3086",
@@ -39234,8 +38856,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3087": {
     "id": "3087",
@@ -39245,8 +38866,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3088": {
     "id": "3088",
@@ -39262,8 +38882,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "3089": {
     "id": "3089",
@@ -39280,8 +38899,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "3090": {
     "id": "3090",
@@ -39291,8 +38909,7 @@
     },
     "decks": [
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3091": {
     "id": "3091",
@@ -39303,8 +38920,7 @@
     "decks": [
       "meta",
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "3092": {
     "id": "3092",
@@ -39314,8 +38930,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3093": {
     "id": "3093",
@@ -39327,8 +38942,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3094": {
     "id": "3094",
@@ -39340,8 +38954,7 @@
       "age5",
       "suspect",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3095": {
     "id": "3095",
@@ -39352,8 +38965,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3096": {
     "id": "3096",
@@ -39365,8 +38977,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3097": {
     "id": "3097",
@@ -39377,8 +38988,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3098": {
     "id": "3098",
@@ -39389,8 +38999,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3099": {
     "id": "3099",
@@ -39403,8 +39012,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3100": {
     "id": "3100",
@@ -39415,8 +39023,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3101": {
     "id": "3101",
@@ -39435,8 +39042,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3102": {
     "id": "3102",
@@ -39446,8 +39052,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3103": {
     "id": "3103",
@@ -39457,8 +39062,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3104": {
     "id": "3104",
@@ -39474,8 +39078,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3105": {
     "id": "3105",
@@ -39486,8 +39089,7 @@
     "decks": [
       "age1",
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3106": {
     "id": "3106",
@@ -39501,8 +39103,7 @@
     "decks": [
       "age1",
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3107": {
     "id": "3107",
@@ -39513,8 +39114,7 @@
     "decks": [
       "meta",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3108": {
     "id": "3108",
@@ -39527,8 +39127,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3109": {
     "id": "3109",
@@ -39538,8 +39137,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3110": {
     "id": "3110",
@@ -39555,8 +39153,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3111": {
     "id": "3111",
@@ -39567,8 +39164,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3112": {
     "id": "3112",
@@ -39578,8 +39174,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3113": {
     "id": "3113",
@@ -39595,8 +39190,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3114": {
     "id": "3114",
@@ -39608,8 +39202,7 @@
       "age2",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3115": {
     "id": "3115",
@@ -39620,8 +39213,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3116": {
     "id": "3116",
@@ -39632,8 +39224,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3117": {
     "id": "3117",
@@ -39649,8 +39240,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3118": {
     "id": "3118",
@@ -39667,8 +39257,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3119": {
     "id": "3119",
@@ -39686,8 +39275,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3120": {
     "id": "3120",
@@ -39701,8 +39289,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3121": {
     "id": "3121",
@@ -39718,8 +39305,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3122": {
     "id": "3122",
@@ -39733,8 +39319,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3123": {
     "id": "3123",
@@ -39744,8 +39329,7 @@
     },
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3124": {
     "id": "3124",
@@ -39756,8 +39340,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3125": {
     "id": "3125",
@@ -39768,8 +39351,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3126": {
     "id": "3126",
@@ -39782,8 +39364,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3127": {
     "id": "3127",
@@ -39794,8 +39375,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3128": {
     "id": "3128",
@@ -39810,8 +39390,7 @@
       "age5",
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3129": {
     "id": "3129",
@@ -39822,8 +39401,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3130": {
     "id": "3130",
@@ -39838,8 +39416,7 @@
       "age2",
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3131": {
     "id": "3131",
@@ -39852,8 +39429,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3132": {
     "id": "3132",
@@ -39868,7 +39444,6 @@
       "alien",
       "meta"
     ],
-    "groups": [],
     "nsfw": true
   },
   "3133": {
@@ -39884,8 +39459,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3134": {
     "id": "3134",
@@ -39899,8 +39473,7 @@
     "decks": [
       "alien",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3135": {
     "id": "3135",
@@ -39916,8 +39489,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3136": {
     "id": "3136",
@@ -39934,8 +39506,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3137": {
     "id": "3137",
@@ -39945,8 +39516,7 @@
     },
     "decks": [
       "age4"
-    ],
-    "groups": []
+    ]
   },
   "3138": {
     "id": "3138",
@@ -39957,8 +39527,7 @@
     "decks": [
       "meta",
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "3139": {
     "id": "3139",
@@ -39969,8 +39538,7 @@
     "decks": [
       "meta",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3140": {
     "id": "3140",
@@ -39981,8 +39549,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3141": {
     "id": "3141",
@@ -39994,8 +39561,7 @@
       "alien",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3142": {
     "id": "3142",
@@ -40007,8 +39573,7 @@
       "age1",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3143": {
     "id": "3143",
@@ -40019,8 +39584,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3144": {
     "id": "3144",
@@ -40034,8 +39598,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3145": {
     "id": "3145",
@@ -40054,8 +39617,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3146": {
     "id": "3146",
@@ -40069,8 +39631,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3147": {
     "id": "3147",
@@ -40081,8 +39642,7 @@
     "decks": [
       "age4",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3148": {
     "id": "3148",
@@ -40096,8 +39656,7 @@
     "decks": [
       "age4",
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3149": {
     "id": "3149",
@@ -40113,8 +39672,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3150": {
     "id": "3150",
@@ -40130,8 +39688,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3151": {
     "id": "3151",
@@ -40149,8 +39706,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3152": {
     "id": "3152",
@@ -40167,8 +39723,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3153": {
     "id": "3153",
@@ -40184,8 +39739,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3154": {
     "id": "3154",
@@ -40195,8 +39749,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3155": {
     "id": "3155",
@@ -40208,8 +39761,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3156": {
     "id": "3156",
@@ -40226,8 +39778,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3157": {
     "id": "3157",
@@ -40237,8 +39788,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3158": {
     "id": "3158",
@@ -40254,8 +39804,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3159": {
     "id": "3159",
@@ -40267,8 +39816,7 @@
       "age1",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3160": {
     "id": "3160",
@@ -40278,8 +39826,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3161": {
     "id": "3161",
@@ -40289,8 +39836,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3162": {
     "id": "3162",
@@ -40300,8 +39846,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3163": {
     "id": "3163",
@@ -40314,8 +39859,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3164": {
     "id": "3164",
@@ -40328,8 +39872,7 @@
       "alien",
       "dream",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3165": {
     "id": "3165",
@@ -40340,8 +39883,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3166": {
     "id": "3166",
@@ -40351,8 +39893,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3167": {
     "id": "3167",
@@ -40369,8 +39910,7 @@
     "decks": [
       "meta",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3168": {
     "id": "3168",
@@ -40380,8 +39920,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3169": {
     "id": "3169",
@@ -40398,8 +39937,7 @@
     "decks": [
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3170": {
     "id": "3170",
@@ -40409,8 +39947,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3171": {
     "id": "3171",
@@ -40420,8 +39957,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3172": {
     "id": "3172",
@@ -40432,8 +39968,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3173": {
     "id": "3173",
@@ -40449,8 +39984,7 @@
     ],
     "decks": [
       "age5"
-    ],
-    "groups": []
+    ]
   },
   "3174": {
     "id": "3174",
@@ -40464,8 +39998,7 @@
     ],
     "decks": [
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3175": {
     "id": "3175",
@@ -40476,8 +40009,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3176": {
     "id": "3176",
@@ -40488,8 +40020,7 @@
     "decks": [
       "alien",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3177": {
     "id": "3177",
@@ -40502,8 +40033,7 @@
     ],
     "decks": [
       "alien"
-    ],
-    "groups": []
+    ]
   },
   "3178": {
     "id": "3178",
@@ -40520,8 +40050,7 @@
     "decks": [
       "dream",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3179": {
     "id": "3179",
@@ -40537,8 +40066,7 @@
     ],
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3180": {
     "id": "3180",
@@ -40548,8 +40076,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3181": {
     "id": "3181",
@@ -40566,8 +40093,7 @@
     "decks": [
       "age1",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3182": {
     "id": "3182",
@@ -40584,8 +40110,7 @@
     "decks": [
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3183": {
     "id": "3183",
@@ -40599,8 +40124,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3184": {
     "id": "3184",
@@ -40611,8 +40135,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3185": {
     "id": "3185",
@@ -40630,8 +40153,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3186": {
     "id": "3186",
@@ -40643,8 +40165,7 @@
       "alien",
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3187": {
     "id": "3187",
@@ -40655,8 +40176,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3188": {
     "id": "3188",
@@ -40668,8 +40188,7 @@
       "age4",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3189": {
     "id": "3189",
@@ -40681,8 +40200,7 @@
       "age3",
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3190": {
     "id": "3190",
@@ -40692,8 +40210,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3191": {
     "id": "3191",
@@ -40707,8 +40224,7 @@
     "decks": [
       "dream",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3192": {
     "id": "3192",
@@ -40725,8 +40241,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3193": {
     "id": "3193",
@@ -40743,8 +40258,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3194": {
     "id": "3194",
@@ -40757,8 +40271,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3195": {
     "id": "3195",
@@ -40776,8 +40289,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "3196": {
     "id": "3196",
@@ -40796,8 +40308,7 @@
     ],
     "decks": [
       "symbol"
-    ],
-    "groups": []
+    ]
   },
   "3197": {
     "id": "3197",
@@ -40807,8 +40318,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3198": {
     "id": "3198",
@@ -40820,8 +40330,7 @@
       "age4",
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3199": {
     "id": "3199",
@@ -40836,8 +40345,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3200": {
     "id": "3200",
@@ -40851,8 +40359,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3201": {
     "id": "3201",
@@ -40873,8 +40380,7 @@
       "evidence",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3202": {
     "id": "3202",
@@ -40889,8 +40395,7 @@
       "evidence",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3203": {
     "id": "3203",
@@ -40901,8 +40406,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3204": {
     "id": "3204",
@@ -40913,8 +40417,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3205": {
     "id": "3205",
@@ -40931,8 +40434,7 @@
     "decks": [
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3206": {
     "id": "3206",
@@ -40943,8 +40445,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3207": {
     "id": "3207",
@@ -40956,8 +40457,7 @@
       "age4",
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3208": {
     "id": "3208",
@@ -40967,8 +40467,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3209": {
     "id": "3209",
@@ -40978,8 +40477,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3210": {
     "id": "3210",
@@ -40990,8 +40488,7 @@
     "decks": [
       "alien",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3211": {
     "id": "3211",
@@ -41010,8 +40507,7 @@
       "alien",
       "evidence",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3212": {
     "id": "3212",
@@ -41022,8 +40518,7 @@
     "decks": [
       "evidence",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3213": {
     "id": "3213",
@@ -41034,8 +40529,7 @@
     "decks": [
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3214": {
     "id": "3214",
@@ -41054,8 +40548,7 @@
       "alien",
       "dream",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3215": {
     "id": "3215",
@@ -41066,8 +40559,7 @@
     "decks": [
       "alien",
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3216": {
     "id": "3216",
@@ -41078,8 +40570,7 @@
     "decks": [
       "evidence",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3217": {
     "id": "3217",
@@ -41095,8 +40586,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3218": {
     "id": "3218",
@@ -41107,8 +40597,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3219": {
     "id": "3219",
@@ -41120,8 +40609,7 @@
       "age5",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3220": {
     "id": "3220",
@@ -41136,8 +40624,7 @@
       "evidence",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3221": {
     "id": "3221",
@@ -41156,8 +40643,7 @@
       "alien",
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3222": {
     "id": "3222",
@@ -41168,8 +40654,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3223": {
     "id": "3223",
@@ -41179,8 +40664,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3224": {
     "id": "3224",
@@ -41191,8 +40675,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3225": {
     "id": "3225",
@@ -41204,7 +40687,6 @@
       "dream",
       "meta"
     ],
-    "groups": [],
     "nsfw": true
   },
   "3226": {
@@ -41215,8 +40697,7 @@
     },
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3227": {
     "id": "3227",
@@ -41228,8 +40709,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3228": {
     "id": "3228",
@@ -41247,8 +40727,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3229": {
     "id": "3229",
@@ -41263,8 +40742,7 @@
       "alien",
       "evidence",
       "manufactured"
-    ],
-    "groups": []
+    ]
   },
   "3230": {
     "id": "3230",
@@ -41275,8 +40753,7 @@
     "decks": [
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3231": {
     "id": "3231",
@@ -41288,8 +40765,7 @@
       "alien",
       "evidence",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3232": {
     "id": "3232",
@@ -41304,8 +40780,7 @@
       "manufactured",
       "meta",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3233": {
     "id": "3233",
@@ -41316,8 +40791,7 @@
     "decks": [
       "alien",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3234": {
     "id": "3234",
@@ -41328,8 +40802,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3235": {
     "id": "3235",
@@ -41340,8 +40813,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3236": {
     "id": "3236",
@@ -41353,8 +40825,7 @@
       "alien",
       "dream",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3237": {
     "id": "3237",
@@ -41377,7 +40848,6 @@
       "manufactured",
       "meta"
     ],
-    "groups": [],
     "nsfw": true
   },
   "3238": {
@@ -41393,7 +40863,6 @@
       "dream",
       "meta"
     ],
-    "groups": [],
     "nsfw": true
   },
   "3239": {
@@ -41408,8 +40877,7 @@
     "decks": [
       "alien",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3240": {
     "id": "3240",
@@ -41420,8 +40888,7 @@
     "decks": [
       "alien",
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3241": {
     "id": "3241",
@@ -41435,8 +40902,7 @@
     "decks": [
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3242": {
     "id": "3242",
@@ -41446,8 +40912,7 @@
     },
     "decks": [
       "suspect"
-    ],
-    "groups": []
+    ]
   },
   "3243": {
     "id": "3243",
@@ -41458,8 +40923,7 @@
     "decks": [
       "alien",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3244": {
     "id": "3244",
@@ -41469,8 +40933,7 @@
     },
     "decks": [
       "dream"
-    ],
-    "groups": []
+    ]
   },
   "3245": {
     "id": "3245",
@@ -41484,8 +40947,7 @@
     "decks": [
       "evidence",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3246": {
     "id": "3246",
@@ -41499,8 +40961,7 @@
     "decks": [
       "alien",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3247": {
     "id": "3247",
@@ -41512,8 +40973,7 @@
       "alien",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3248": {
     "id": "3248",
@@ -41526,8 +40986,7 @@
       "dream",
       "evidence",
       "thing"
-    ],
-    "groups": []
+    ]
   },
   "3249": {
     "id": "3249",
@@ -41540,8 +40999,7 @@
     ],
     "decks": [
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3250": {
     "id": "3250",
@@ -41553,8 +41011,7 @@
       "alien",
       "dream",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3251": {
     "id": "3251",
@@ -41574,8 +41031,7 @@
       "dream",
       "evidence",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3252": {
     "id": "3252",
@@ -41587,8 +41043,7 @@
       "alien",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3253": {
     "id": "3253",
@@ -41605,8 +41060,7 @@
     "decks": [
       "dream",
       "weapon"
-    ],
-    "groups": []
+    ]
   },
   "3254": {
     "id": "3254",
@@ -41617,8 +41071,7 @@
     "decks": [
       "alien",
       "evidence"
-    ],
-    "groups": []
+    ]
   },
   "3255": {
     "id": "3255",
@@ -41630,8 +41083,7 @@
       "alien",
       "dream",
       "location"
-    ],
-    "groups": []
+    ]
   },
   "3256": {
     "id": "3256",
@@ -41643,8 +41095,7 @@
       "alien",
       "manufactured",
       "meta"
-    ],
-    "groups": []
+    ]
   },
   "3257": {
     "id": "3257",
@@ -41661,7 +41112,723 @@
     "decks": [
       "alien",
       "evidence"
+    ]
+  },
+  "3258": {
+    "id": "3258",
+    "name": {
+      "en": "kimchi",
+      "pt": "kimchi"
+    },
+    "decks": [
+      "alien",
+      "meta",
+      "thing"
+    ]
+  },
+  "3259": {
+    "id": "3259",
+    "name": {
+      "en": "sack race",
+      "pt": "corrida de saco"
+    },
+    "decks": [
+      "meta"
+    ]
+  },
+  "3260": {
+    "id": "3260",
+    "name": {
+      "en": "shin pads",
+      "pt": "caneleiras"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "manufactured"
+    ]
+  },
+  "3261": {
+    "id": "3261",
+    "name": {
+      "en": "kombucha",
+      "pt": "kombucha"
+    },
+    "aliasesPt": [
+      "chá fermentado"
     ],
-    "groups": []
+    "decks": [
+      "alien"
+    ]
+  },
+  "3262": {
+    "id": "3262",
+    "name": {
+      "en": "Arancini",
+      "pt": "Bolinho de Arroz"
+    },
+    "aliasesEn": [
+      "Rice Balls"
+    ],
+    "decks": [
+      "alien",
+      "meta"
+    ]
+  },
+  "3263": {
+    "id": "3263",
+    "name": {
+      "en": "hair serum",
+      "pt": "sérum capilar"
+    },
+    "aliasesPt": [
+      "soro capilar"
+    ],
+    "decks": [
+      "alien",
+      "manufactured",
+      "meta"
+    ]
+  },
+  "3264": {
+    "id": "3264",
+    "name": {
+      "en": "abduction",
+      "pt": "abdução"
+    },
+    "decks": [
+      "meta",
+      "weapon"
+    ]
+  },
+  "3265": {
+    "id": "3265",
+    "name": {
+      "en": "otoscope",
+      "pt": "otoscópio"
+    },
+    "aliasesEn": [
+      "ear canal device"
+    ],
+    "aliasesPt": [
+      "aparelho para examinar o ouvido"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ]
+  },
+  "3266": {
+    "id": "3266",
+    "name": {
+      "en": "hospital bed",
+      "pt": "leito hospitalar"
+    },
+    "aliasesPt": [
+      "cama de hospital"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ]
+  },
+  "3267": {
+    "id": "3267",
+    "name": {
+      "en": "exam light",
+      "pt": "foco clínico"
+    },
+    "aliasesPt": [
+      "luz de exame"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ]
+  },
+  "3268": {
+    "id": "3268",
+    "name": {
+      "en": "Biohazard container",
+      "pt": "Recipiente para material biológico"
+    },
+    "aliasesEn": [
+      "Medical waste container"
+    ],
+    "aliasesPt": [
+      "coletor hospitalar"
+    ],
+    "decks": [
+      "alien",
+      "manufactured"
+    ]
+  },
+  "3269": {
+    "id": "3269",
+    "name": {
+      "en": "video game disc",
+      "pt": "jogo de video game"
+    },
+    "aliasesPt": [
+      "jogo em cd"
+    ],
+    "decks": [
+      "alien",
+      "manufactured",
+      "meta"
+    ]
+  },
+  "3270": {
+    "id": "3270",
+    "name": {
+      "en": "Cat's Cradle",
+      "pt": "Brincadeira do barbante"
+    },
+    "aliasesEn": [
+      "String game"
+    ],
+    "aliasesPt": [
+      "cama de gato"
+    ],
+    "decks": [
+      "meta"
+    ]
+  },
+  "3271": {
+    "id": "3271",
+    "name": {
+      "en": "water balloon",
+      "pt": "balão d'água"
+    },
+    "decks": [
+      "alien",
+      "meta"
+    ]
+  },
+  "3272": {
+    "id": "3272",
+    "name": {
+      "en": "shooting target",
+      "pt": "alvo"
+    },
+    "aliasesEn": [
+      "target"
+    ],
+    "aliasesPt": [
+      "alvo de tiro"
+    ],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3273": {
+    "id": "3273",
+    "name": {
+      "en": "bullying",
+      "pt": "bullying"
+    },
+    "aliasesPt": [
+      "gozação"
+    ],
+    "decks": [
+      "dream",
+      "meta"
+    ]
+  },
+  "3274": {
+    "id": "3274",
+    "name": {
+      "en": "police dog",
+      "pt": "cão policial"
+    },
+    "aliasesPt": ["cão farejador", "cachorro da polícia"],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3275": {
+    "id": "3275",
+    "name": {
+      "en": "puma",
+      "pt": "puma"
+    },
+    "aliasesPt": ["onça-parda", "suçuarana"],
+    "decks": [
+      "alien",
+      "dream"
+    ]
+  },
+  "3276": {
+    "id": "3276",
+    "name": {
+      "en": "valknut",
+      "pt": "valknut"
+    },
+    "aliasesEn": [
+      "Viking symbol"
+    ],
+    "aliasesPt": [
+      "símbolo viking",
+      "símbolo nórdico",
+      "três triângulos"
+    ],
+    "decks": [
+      "meta",
+      "symbol"
+    ]
+  },
+  "3277": {
+    "id": "3277",
+    "name": {
+      "en": "transformation",
+      "pt": "transformação"
+    },
+    "aliasesEn": [
+      "glow up"
+    ],
+    "decks": [
+      "meta"
+    ]
+  },
+  "3278": {
+    "id": "3278",
+    "name": {
+      "en": "grapefruit",
+      "pt": "toranja"
+    },
+    "decks": [
+      "alien",
+      "dream"
+    ]
+  },
+  "3279": {
+    "id": "3279",
+    "name": {
+      "en": "futuristic city",
+      "pt": "cidade futurista"
+    },
+    "aliasesPt": [
+      "cidade do futuro"
+    ],
+    "decks": [
+      "location",
+      "meta"
+    ]
+  },
+  "3280": {
+    "id": "3280",
+    "name": {
+      "en": "browser",
+      "pt": "navegador"
+    },
+    "aliasesPt": [
+      "browser"
+    ],
+    "decks": [
+      "dream",
+      "meta"
+    ]
+  },
+  "3281": {
+    "id": "3281",
+    "name": {
+      "en": "formula",
+      "pt": "fórmula matemática"
+    },
+    "aliasesPt": [
+      "fórmula"
+    ]
+  },
+  "3282": {
+    "id": "3282",
+    "name": {
+      "en": "glucosemeter",
+      "pt": "glicosímetro"
+    },
+    "aliasesPt": ["medidor de glicose", "aparelho de glicose", "aparelho de diabetes"],
+    "decks": [
+      "alien",
+      "manufactured"
+    ]
+  },
+  "3283": {
+    "id": "3283",
+    "name": {
+      "en": "grouping",
+      "pt": "grupos"
+    },
+    "aliasesPt": [
+      "agrupar"
+    ],
+    "decks": [
+      "meta"
+    ]
+  },
+  "3284": {
+    "id": "3284",
+    "name": {
+      "en": "imagination",
+      "pt": "imaginação"
+    },
+    "decks": [
+      "meta"
+    ]
+  },
+  "3285": {
+    "id": "3285",
+    "name": {
+      "en": "kremlin",
+      "pt": "kremlin"
+    },
+    "aliasesPt": [
+      "palácio russo"
+    ],
+    "decks": [
+      "alien",
+      "location"
+    ]
+  },
+  "3286": {
+    "id": "3286",
+    "name": {
+      "en": "forecast",
+      "pt": "previsão do tempo"
+    },
+    "decks": [
+      "meta"
+    ]
+  },
+  "3287": {
+    "id": "3287",
+    "name": {
+      "en": "coffee grinder",
+      "pt": "moedor de café"
+    },
+    "decks": [
+      "alien"
+    ]
+  },
+  "3288": {
+    "id": "3288",
+    "name": {
+      "en": "metal spatula",
+      "pt": "espátula de metal"
+    },
+    "aliasesEn": [
+      "spatula"
+    ],
+    "aliasesPt": [
+      "espátula"
+    ],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3289": {
+    "id": "3289",
+    "name": {
+      "en": "tech support",
+      "pt": "suporte técnico"
+    },
+    "aliasesEn": [
+      "technical support"
+    ],
+    "aliasesPt": [
+      "suporte"
+    ],
+    "decks": [
+      "meta"
+    ]
+  },
+  "3290": {
+    "id": "3290",
+    "name": {
+      "en": "tajine",
+      "pt": "tajine"
+    },
+    "aliasesPt": [
+      "panela marroquina",
+      "panela de barro",
+      "panela árabe"
+    ],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3291": {
+    "id": "3291",
+    "name": {
+      "en": "milking",
+      "pt": "ordenha"
+    },
+    "aliasesEn": [
+      "cow milking"
+    ],
+    "aliasesPt": ["tirar leite", "ordenhar"],
+    "decks": [
+      "meta"
+    ]
+  },
+  "3292": {
+    "id": "3292",
+    "name": {
+      "en": "viking",
+      "pt": "viking"
+    },
+    "decks": [
+      "dream",
+      "suspect"
+    ]
+  },
+  "3293": {
+    "id": "3293",
+    "name": {
+      "en": "porthole",
+      "pt": "escotilha"
+    },
+    "decks": [
+      "alien",
+      "manufactured",
+      "meta"
+    ]
+  },
+  "3294": {
+    "id": "3294",
+    "name": {
+      "en": "roundshot",
+      "pt": "bala de canhão"
+    },
+    "decks": [
+      "alien",
+      "dream",
+      "meta"
+    ]
+  },
+  "3295": {
+    "id": "3295",
+    "name": {
+      "en": "anime",
+      "pt": "anime"
+    },
+    "decks": [
+      "meta"
+    ]
+  },
+  "3296": {
+    "id": "3296",
+    "name": {
+      "en": "water polo helmet",
+      "pt": "capacete de polo aquático"
+    },
+    "decks": [
+      "alien",
+      "manufactured"
+    ]
+  },
+  "3297": {
+    "id": "3297",
+    "name": {
+      "en": "trading cards",
+      "pt": "cartas colecionáveis"
+    },
+    "aliasesEn": [
+      "tcg",
+      "trading cards game"
+    ],
+    "aliasesPt": ["cards", "cartas", "card game"],
+    "decks": [
+      "alien",
+      "evidence"
+    ]
+  },
+  "3298": {
+    "id": "3298",
+    "name": {
+      "en": "trekker",
+      "pt": "mochileiro"
+    },
+    "aliasesPt": ["excursionista", "aventureiro", "trilheiro"],
+    "decks": [
+      "suspect"
+    ]
+  },
+  "3299": {
+    "id": "3299",
+    "name": {
+      "en": "woodlouse",
+      "pt": "tatu-bola"
+    },
+    "aliasesPt": ["tatuzinho-de-jardim", "tatuzinho", "tatuzinho", "bicho-de-conta"],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3300": {
+    "id": "3300",
+    "name": {
+      "en": "weathercock",
+      "pt": "galo dos ventos"
+    },
+    "aliasesEn": [
+      "weathervane"
+    ],
+    "aliasesPt": [
+      "cata-vento", "biruta"
+    ],
+    "decks": [
+      "age3",
+      "alien"
+    ]
+  },
+  "3301": {
+    "id": "3301",
+    "name": {
+      "en": "connect4",
+      "pt": "jogo ligue 4"
+    },
+    "aliasesPt": ["quatro em linha"],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3302": {
+    "id": "3302",
+    "name": {
+      "en": "computer cables",
+      "pt": "cabos de computador"
+    },
+    "aliasesEn": [
+      "cables",
+      "computer plugs"
+    ],
+    "aliasesPt": [
+      "cabos"
+    ],
+    "decks": [
+      "alien",
+      "manufactured",
+      "meta"
+    ]
+  },
+  "3303": {
+    "id": "3303",
+    "name": {
+      "en": "layover",
+      "pt": "escala"
+    },
+    "aliasesEn": [
+      "connection"
+    ],
+    "aliasesPt": [
+      "conexão"
+    ],
+    "decks": [
+      "meta"
+    ]
+  },
+  "3304": {
+    "id": "3304",
+    "name": {
+      "en": "entity",
+      "pt": "entidade"
+    },
+    "aliasesEn": [
+      "evil spirit", "poltergeist"
+    ],
+    "aliasesPt": [
+      "assombração",
+      "encosto",
+      "espírito"
+    ],
+    "decks": [
+      "meta",
+      "weapon"
+    ]
+  },
+  "3305": {
+    "id": "3305",
+    "name": {
+      "en": "feather boa",
+      "pt": "boa de plumas"
+    },
+    "aliasesEn": [
+      "boa"
+    ],
+    "aliasesPt": [
+      "boa", "estola"
+    ],
+    "decks": [
+      "alien",
+      "meta",
+      "thing"
+    ]
+  },
+  "3306": {
+    "id": "3306",
+    "name": {
+      "en": "wolverine",
+      "pt": "carcaju"
+    },
+    "aliasesPt": [
+      "glutão",
+      "wolverine"
+    ],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3307": {
+    "id": "3307",
+    "name": {
+      "en": "ermine",
+      "pt": "arminho"
+    },
+    "aliasesEn": [
+      "stoat"
+    ],
+    "aliasesPt": [
+      "doninha"
+    ],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3308": {
+    "id": "3308",
+    "name": {
+      "en": "dromerary",
+      "pt": "dromedário"
+    },
+    "aliasesEn": [
+      "camel"
+    ],
+    "decks": [
+      "alien"
+    ]
+  },
+  "3309": {
+    "id": "3309",
+    "name": {
+      "en": "zip folder",
+      "pt": "arquivo zip"
+    },
+    "aliasesPt": ["arquivo zip", "pasta zipada"],
+    "decks": [
+      "meta"
+    ]
+  },
+  "3310": {
+    "id": "3310",
+    "name": {
+      "en": "bridesmaids",
+      "pt": "madrinhas de casamento"
+    },
+    "aliasesPt": [
+      "madrinhas"
+    ],
+    "decks": [
+      "alien",
+      "meta"
+    ]
   }
 }
