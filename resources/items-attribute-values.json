@@ -59589,9 +59589,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -1,
       "hea": 10,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -59607,6 +59610,7 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": 10,
       "rou": -3,
       "sci": -3,
@@ -59625,7 +59629,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 93,
+    "score": 70,
+    "signature": "~too~har~gra~hol!acc!ali!bea!big!bri!bui!clo!col!con!cul!def!fla!fli!foo!fra!hei!hum!ins!kno!liq!loc!lon!mul!myt!nat!new!odo!old!par!per!pla!pls!rou!sci!sha!sma!sof!tab!tec!toy!tra!val!war!wea!wri",
+    "updatedAt": 1777827692065
   },
   "878": {
     "id": "878",
@@ -59649,14 +59657,18 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -1,
       "hea": 5,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
       "lon": -3,
       "mac": -3,
+      "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -59685,7 +59697,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635852437
+    "complete": true,
+    "reliability": 93,
+    "score": 30,
+    "signature": "~fas~pls~har~hol!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fla!fli!foo!fra!gra!hei!hum!ins!kno!liq!loc!lon!mac!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sci!sha!sma!sof!tab!tec!too!tra!val!war!wea!wri",
+    "updatedAt": 1777827701553
   },
   "879": {
     "id": "879",
@@ -59709,14 +59725,18 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -1,
       "hea": 10,
       "hei": -3,
+      "hol": 10,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
       "lon": -3,
       "mac": -1,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -59745,7 +59765,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1767646095713
+    "complete": true,
+    "reliability": 89,
+    "score": 35,
+    "signature": "~mac~sou~con~fas~big~har!acc!ali!bea!bri!bui!but!clo!col!cul!dan!def!fli!foo!fra!gra!hei!hum!ins!kno!liq!loc!lon!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sof!tab!tec!too!tra!val!war!wea!wri",
+    "updatedAt": 1777827715263
   },
   "880": {
     "id": "880",
@@ -59769,18 +59793,23 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -1,
       "hea": -3,
       "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": -3,
       "kno": -1,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -1,
       "per": -3,
@@ -59804,7 +59833,11 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 91,
+    "score": 25,
+    "signature": "~kno~lon~wri~har~par!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fli!foo!fra!gra!hea!hei!hol!hum!ins!liq!loc!mac!met!mul!myt!nat!new!odo!old!per!pla!pow!rou!sci!sha!sof!sou!tab!tec!too!tra!val!war!wea!woo",
+    "updatedAt": 1777827727305
   },
   "881": {
     "id": "881",
@@ -59828,13 +59861,16 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -3,
       "hum": -3,
       "ins": -1,
       "kno": 5,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -59865,7 +59901,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1767646099373
+    "complete": true,
+    "reliability": 96,
+    "score": 30,
+    "signature": "~ins~acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fli!foo!fra!gra!har!hea!hei!hol!hum!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tab!tec!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777827731356
   },
   "882": {
     "id": "882",
@@ -59889,9 +59929,12 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -1,
       "hea": -3,
       "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -59926,7 +59969,11 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1767646102735
+    "complete": true,
+    "reliability": 87,
+    "score": 15,
+    "signature": "~fas~pls~toy~too~acc~woo~har!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fla!fli!foo!fra!hea!hei!hol!hum!kno!liq!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sci!sha!sma!sof!sou!tab!tec!tra!val!war!wea!wri",
+    "updatedAt": 1777827738427
   },
   "883": {
     "id": "883",
@@ -60093,6 +60140,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
       "met": 10,
       "mul": -3,
@@ -60121,7 +60169,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626856863
+    "updatedAt": 1777829491938
   },
   "886": {
     "id": "886",
@@ -60964,6 +61012,7 @@
       "har": 10,
       "hea": 5,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
       "ins": -3,
       "kno": -3,
@@ -61000,7 +61049,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1767646119534
+    "complete": true,
+    "reliability": 94,
+    "score": 35,
+    "signature": "~old~gra~hol!acc!ali!bea!big!bri!bui!but!col!con!cul!dan!fas!fla!fli!foo!hei!hum!ins!kno!liq!loc!lon!mac!mul!myt!nat!new!odo!par!per!pla!pls!pow!rou!sci!sha!sma!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777827744508
   },
   "899": {
     "id": "899",
@@ -61092,6 +61145,7 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -1,
       "hea": -3,
       "hei": -1,
       "hol": -3,
@@ -61100,6 +61154,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": 10,
       "mul": -3,
@@ -61130,7 +61185,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626856863
+    "complete": true,
+    "reliability": 93,
+    "score": 40,
+    "signature": "~hei~lon~old~har!acc!ali!bea!big!bri!bui!but!clo!col!con!dan!def!fas!fla!fli!foo!fra!gra!hea!hol!hum!kno!liq!loc!mac!mul!myt!nat!new!odo!par!per!pla!pls!pow!sci!sha!sma!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777827748362
   },
   "901": {
     "id": "901",
@@ -63058,13 +63117,18 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": 5,
       "hum": -3,
+      "ins": 10,
       "kno": 5,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -3,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -63074,6 +63138,7 @@
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sci": 5,
@@ -63083,6 +63148,7 @@
       "sou": 5,
       "tab": -3,
       "tec": -3,
+      "too": -1,
       "toy": -3,
       "tra": -3,
       "val": -3,
@@ -63091,7 +63157,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1750523421269
+    "complete": true,
+    "reliability": 94,
+    "score": 40,
+    "signature": "~pls~too~met!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hum!liq!loc!mac!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sha!sma!sof!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777827760521
   },
   "930": {
     "id": "930",
@@ -63234,13 +63304,16 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": 5,
       "hum": -3,
       "ins": 10,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 10,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -63271,7 +63344,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635849594
+    "complete": true,
+    "reliability": 100,
+    "score": 45,
+    "signature": "!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hum!kno!liq!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777829410538
   },
   "933": {
     "id": "933",
@@ -64036,6 +64113,7 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hol": 10,
@@ -64044,6 +64122,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "mul": -3,
       "myt": -3,
@@ -64072,7 +64151,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635850513
+    "updatedAt": 1777829410538
   },
   "945": {
     "id": "945",
@@ -64172,6 +64251,7 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -64195,7 +64275,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1766626549794
+    "updatedAt": 1777829984760
   },
   "947": {
     "id": "947",
@@ -64899,22 +64979,28 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 10,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sci": -3,
@@ -64933,7 +65019,11 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 89,
+    "score": 25,
+    "signature": "~fli~pls~toy~acc~woo~sof!ali!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!foo!fra!har!hea!hei!hol!hum!kno!liq!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sci!sha!sma!sou!tab!tec!too!tra!val!war!wea!wri",
+    "updatedAt": 1777830161994
   },
   "958": {
     "id": "958",
@@ -65166,6 +65256,7 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": 5,
       "per": -3,
@@ -65189,7 +65280,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1767646114270
+    "updatedAt": 1777829984760
   },
   "962": {
     "id": "962",
@@ -65219,7 +65310,9 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -1,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -65247,7 +65340,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1769448968571
+    "updatedAt": 1777829705157
   },
   "963": {
     "id": "963",
@@ -66344,12 +66437,14 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hum": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "mul": -3,
       "myt": -3,
@@ -66379,7 +66474,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635856021
+    "updatedAt": 1777829410538
   },
   "980": {
     "id": "980",
@@ -66576,9 +66671,11 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -66612,7 +66709,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635936470
+    "updatedAt": 1777829237540
   },
   "984": {
     "id": "984",
@@ -66767,10 +66864,12 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 10,
       "rou": -3,
       "sci": -3,
@@ -66788,7 +66887,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1763176561550
+    "updatedAt": 1777830161994
   },
   "987": {
     "id": "987",
@@ -66812,9 +66911,12 @@
       "foo": -3,
       "fra": -1,
       "gra": -1,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -66849,7 +66951,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635853675
+    "complete": true,
+    "reliability": 93,
+    "score": 15,
+    "signature": "~fla~gra~hol~fra!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fli!foo!har!hea!hei!hum!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!par!per!pla!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777829225395
   },
   "988": {
     "id": "988",
@@ -67016,6 +67122,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
       "mul": -3,
       "myt": -3,
@@ -67043,7 +67150,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626254810
+    "updatedAt": 1777829535038
   },
   "991": {
     "id": "991",
@@ -67945,9 +68052,12 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -67982,7 +68092,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635912032
+    "complete": true,
+    "reliability": 94,
+    "score": 45,
+    "signature": "~ins~fla~hol!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!def!fas!fli!foo!fra!har!hea!hei!hum!kno!liq!loc!mac!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sma!sof!sou!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777829233728
   },
   "1006": {
     "id": "1006",
@@ -68208,6 +68322,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -68232,7 +68347,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626525314
+    "updatedAt": 1777829913815
   },
   "1010": {
     "id": "1010",
@@ -68587,10 +68702,12 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hol": -3,
       "hum": -3,
+      "ins": 5,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -68600,6 +68717,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -68624,7 +68742,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635925219
+    "complete": true,
+    "reliability": 96,
+    "score": 20,
+    "signature": "~fli~pls!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!foo!fra!har!hea!hei!hol!hum!kno!liq!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!wri",
+    "updatedAt": 1777829880378
   },
   "1016": {
     "id": "1016",
@@ -69051,6 +69173,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -3,
       "old": -3,
       "par": -1,
       "per": -3,
@@ -69074,7 +69197,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049930885
+    "updatedAt": 1777829991469
   },
   "1023": {
     "id": "1023",
@@ -70313,6 +70436,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -70337,7 +70461,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597701884
+    "updatedAt": 1777829890646
   },
   "1069": {
     "id": "1069",
@@ -72194,11 +72318,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -72222,7 +72348,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1768597698830
+    "updatedAt": 1777829869280
   },
   "1107": {
     "id": "1107",
@@ -72511,6 +72637,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 10,
       "mac": -1,
       "mul": -3,
       "myt": -3,
@@ -72539,7 +72666,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635663985
+    "updatedAt": 1777829457202
   },
   "1113": {
     "id": "1113",
@@ -74304,10 +74431,12 @@
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sci": -3,
@@ -74325,7 +74454,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1766626281130
+    "updatedAt": 1777830165510
   },
   "1146": {
     "id": "1146",
@@ -75175,7 +75304,9 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -75204,7 +75335,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1759542716325
+    "updatedAt": 1777829637979
   },
   "1163": {
     "id": "1163",
@@ -75429,6 +75560,7 @@
       "kno": -1,
       "liq": -3,
       "loc": -1,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
@@ -75458,7 +75590,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829506266
   },
   "1170": {
     "id": "1170",
@@ -76697,11 +76829,13 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 5,
       "rou": -3,
       "sci": -3,
@@ -76720,7 +76854,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635663985
+    "updatedAt": 1777830201953
   },
   "1190": {
     "id": "1190",
@@ -77018,6 +77152,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 5,
       "par": 5,
@@ -77042,7 +77177,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1767646148598
+    "updatedAt": 1777829903250
   },
   "1195": {
     "id": "1195",
@@ -77535,11 +77670,13 @@
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": 5,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": -3,
       "sci": -3,
@@ -77558,7 +77695,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1772640519375
+    "updatedAt": 1777830193658
   },
   "1203": {
     "id": "1203",
@@ -78646,10 +78783,13 @@
       "kno": -1,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -78672,7 +78812,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1766626302003
+    "updatedAt": 1777829833368
   },
   "1222": {
     "id": "1222",
@@ -79075,11 +79215,13 @@
       "kno": 10,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -79104,7 +79246,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1766626303427
+    "updatedAt": 1777829844732
   },
   "1232": {
     "id": "1232",
@@ -82766,8 +82908,10 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": 5,
       "hea": 5,
       "hei": -3,
+      "hol": -3,
       "hum": -3,
       "kno": -3,
       "liq": -3,
@@ -82779,10 +82923,12 @@
       "myt": -3,
       "nat": -1,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -1,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sci": -3,
@@ -82801,7 +82947,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1776635898784
+    "updatedAt": 1777830166172
   },
   "1293": {
     "id": "1293",
@@ -82832,10 +82978,12 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -82858,7 +83006,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1766626316673
+    "updatedAt": 1777829844732
   },
   "1294": {
     "id": "1294",
@@ -83220,7 +83368,9 @@
       "kno": 10,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -83248,7 +83398,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1766626318595
+    "updatedAt": 1777829692120
   },
   "1300": {
     "id": "1300",
@@ -84441,9 +84591,11 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hum": -3,
+      "ins": -1,
       "kno": 5,
       "liq": -3,
       "loc": -3,
@@ -84453,6 +84605,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 5,
       "par": -3,
@@ -84477,7 +84630,7 @@
       "woo": -1,
       "wri": -1
     },
-    "updatedAt": 1776635860763
+    "updatedAt": 1777829880378
   },
   "1323": {
     "id": "1323",
@@ -85372,6 +85525,7 @@
       "mul": 5,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -85396,7 +85550,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626525314
+    "updatedAt": 1777829913815
   },
   "1340": {
     "id": "1340",
@@ -86004,11 +86158,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -1,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": 5,
       "nat": -3,
+      "new": -3,
       "odo": -1,
       "old": -1,
       "par": -3,
@@ -86033,7 +86189,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829869280
   },
   "1351": {
     "id": "1351",
@@ -86745,6 +86901,7 @@
       "kno": -1,
       "liq": -3,
       "loc": -1,
+      "lon": -1,
       "mac": 10,
       "mul": -3,
       "myt": -3,
@@ -86774,7 +86931,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829506266
   },
   "1363": {
     "id": "1363",
@@ -86939,6 +87096,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -10,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -86963,7 +87121,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1766626538797
+    "updatedAt": 1777829908752
   },
   "1366": {
     "id": "1366",
@@ -86994,6 +87152,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -1,
+      "lon": -3,
       "mac": 5,
       "mul": -3,
       "myt": -3,
@@ -87023,7 +87182,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829506266
   },
   "1368": {
     "id": "1368",
@@ -87378,10 +87537,12 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": 5,
       "sci": -3,
@@ -87399,7 +87560,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765050213977
+    "updatedAt": 1777830161994
   },
   "1375": {
     "id": "1375",
@@ -87573,6 +87734,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -87596,7 +87758,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049929523
+    "updatedAt": 1777829991469
   },
   "1378": {
     "id": "1378",
@@ -89298,6 +89460,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -89322,7 +89485,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829913815
   },
   "1424": {
     "id": "1424",
@@ -90861,13 +91024,16 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": 5,
       "hei": -3,
+      "hol": 5,
       "hum": -3,
       "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
       "met": 5,
       "mul": -3,
@@ -90898,7 +91064,11 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1776635854795
+    "complete": true,
+    "reliability": 94,
+    "score": 85,
+    "signature": "~cul~toy~ins!acc!ali!bui!clo!col!con!dan!def!fas!fla!fli!foo!fra!gra!har!hei!hum!kno!liq!loc!lon!mul!myt!nat!new!odo!par!per!pla!rou!sci!sha!sma!sof!tab!tec!too!tra!val!war!wea!woo",
+    "updatedAt": 1777829410538
   },
   "1448": {
     "id": "1448",
@@ -91135,9 +91305,11 @@
       "loc": -3,
       "lon": -3,
       "mac": -3,
+      "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -91159,7 +91331,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1748015228512
+    "updatedAt": 1777829837521
   },
   "1452": {
     "id": "1452",
@@ -91360,6 +91532,7 @@
       "hea": 5,
       "hei": -3,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -91368,15 +91541,18 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": 10,
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -91390,7 +91566,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635935750
+    "updatedAt": 1777830352568
   },
   "1456": {
     "id": "1456",
@@ -91564,6 +91740,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -91587,7 +91764,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049935566
+    "updatedAt": 1777829991469
   },
   "1459": {
     "id": "1459",
@@ -92023,6 +92200,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -92032,6 +92210,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -1,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -92045,7 +92224,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049949481
+    "updatedAt": 1777830370365
   },
   "1466": {
     "id": "1466",
@@ -95262,6 +95441,7 @@
       "mul": 5,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 5,
       "par": -1,
@@ -95286,7 +95466,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1767646147157
+    "updatedAt": 1777829903250
   },
   "1530": {
     "id": "1530",
@@ -95788,6 +95968,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -95812,7 +95993,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1766626525314
+    "updatedAt": 1777829913815
   },
   "1538": {
     "id": "1538",
@@ -96249,6 +96430,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -96258,6 +96440,7 @@
       "rou": -1,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -96271,7 +96454,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049951308
+    "updatedAt": 1777830370365
   },
   "1545": {
     "id": "1545",
@@ -96943,6 +97126,7 @@
       "kno": 10,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -96973,7 +97157,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1766626364042
+    "updatedAt": 1777829533357
   },
   "1559": {
     "id": "1559",
@@ -100127,11 +100311,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -1,
+      "lon": -3,
       "mac": -1,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -100156,7 +100342,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626371249
+    "updatedAt": 1777829844732
   },
   "1613": {
     "id": "1613",
@@ -100518,14 +100704,17 @@
       "mul": -3,
       "myt": -1,
       "nat": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -100538,7 +100727,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626373578
+    "updatedAt": 1777830370365
   },
   "1622": {
     "id": "1622",
@@ -101244,11 +101433,13 @@
       "kno": 10,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -101259,6 +101450,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -101272,7 +101464,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1766626374262
+    "updatedAt": 1777830378427
   },
   "1636": {
     "id": "1636",
@@ -101742,18 +101934,22 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -1,
       "hea": 5,
       "hei": -1,
+      "hol": 5,
       "hum": -3,
       "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 10,
       "par": -3,
@@ -101778,7 +101974,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635679413
+    "complete": true,
+    "reliability": 87,
+    "score": 45,
+    "signature": "~tab~cul~tra~fas~hei~har~gra!acc!ali!bea!bri!bui!but!clo!col!fla!fli!foo!fra!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!par!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tec!too!toy!val!war!wea!wri",
+    "updatedAt": 1777829874558
   },
   "1644": {
     "id": "1644",
@@ -102209,6 +102409,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -102217,6 +102418,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 5,
       "tab": -1,
@@ -102230,7 +102432,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1766626451704
+    "updatedAt": 1777830370365
   },
   "1653": {
     "id": "1653",
@@ -102649,6 +102851,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -102677,7 +102880,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626385001
+    "updatedAt": 1777829541606
   },
   "1663": {
     "id": "1663",
@@ -106404,6 +106607,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": 5,
       "mul": -3,
@@ -106434,7 +106638,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1766626386647
+    "updatedAt": 1777829543248
   },
   "1730": {
     "id": "1730",
@@ -106661,6 +106865,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -106690,7 +106895,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597645442
+    "updatedAt": 1777829477198
   },
   "1736": {
     "id": "1736",
@@ -106790,6 +106995,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": 5,
@@ -106819,7 +107025,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626578346
+    "updatedAt": 1777829427213
   },
   "1738": {
     "id": "1738",
@@ -107625,10 +107831,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -107652,7 +107861,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626389911
+    "updatedAt": 1777829837521
   },
   "1752": {
     "id": "1752",
@@ -108636,6 +108845,8 @@
       "mul": -3,
       "myt": -3,
       "nat": -1,
+      "new": -3,
+      "odo": 10,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -108645,6 +108856,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -108658,7 +108870,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626520795
+    "updatedAt": 1777830370365
   },
   "1769": {
     "id": "1769",
@@ -109455,6 +109667,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -1,
       "met": 5,
       "mul": -3,
@@ -109484,7 +109697,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597638525
+    "updatedAt": 1777829479996
   },
   "1783": {
     "id": "1783",
@@ -111690,6 +111903,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -111714,7 +111928,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626580808
+    "updatedAt": 1777829903250
   },
   "1821": {
     "id": "1821",
@@ -112606,6 +112820,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -112630,7 +112845,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1766626525314
+    "updatedAt": 1777829913815
   },
   "1836": {
     "id": "1836",
@@ -112983,12 +113198,14 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
       "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": 5,
@@ -112998,6 +113215,7 @@
       "rou": -1,
       "sci": -1,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -113011,7 +113229,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1747931304486
+    "updatedAt": 1777830370365
   },
   "1842": {
     "id": "1842",
@@ -113573,6 +113791,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -1,
       "par": -3,
@@ -113583,6 +113802,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -113596,7 +113816,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626548930
+    "updatedAt": 1777830378427
   },
   "1852": {
     "id": "1852",
@@ -113760,11 +113980,13 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": 5,
       "rou": -3,
       "sci": -3,
@@ -113782,7 +114004,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597754385
+    "updatedAt": 1777830191582
   },
   "1855": {
     "id": "1855",
@@ -114984,8 +115206,10 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": 5,
       "hei": -3,
+      "hol": 10,
       "hum": -3,
       "kno": -3,
       "liq": -3,
@@ -114995,11 +115219,13 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": -3,
       "rou": 5,
       "sci": -3,
@@ -115018,7 +115244,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635675456
+    "updatedAt": 1777830191582
   },
   "1878": {
     "id": "1878",
@@ -115819,6 +116045,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -1,
       "met": -3,
       "mul": -3,
@@ -115848,7 +116075,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1765050311342
+    "updatedAt": 1777829564352
   },
   "1891": {
     "id": "1891",
@@ -115879,11 +116106,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": 10,
       "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -115908,7 +116137,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597621692
+    "updatedAt": 1777829869280
   },
   "1892": {
     "id": "1892",
@@ -116354,6 +116583,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -116364,6 +116594,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -116377,7 +116608,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635663985
+    "updatedAt": 1777830378427
   },
   "1899": {
     "id": "1899",
@@ -116478,11 +116709,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -1,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -116507,7 +116740,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765050145983
+    "complete": true,
+    "reliability": 96,
+    "score": 10,
+    "signature": "~nat~sof!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!new!odo!old!par!per!pls!pow!sci!sha!sma!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777829837521
   },
   "1902": {
     "id": "1902",
@@ -117241,9 +117478,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -1,
       "hea": -3,
       "hei": -3,
+      "hol": -3,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -117278,7 +117518,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635917346
+    "complete": true,
+    "reliability": 94,
+    "score": 20,
+    "signature": "~ins~har~gra!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fli!foo!fra!hea!hei!hol!hum!kno!liq!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!wri",
+    "updatedAt": 1777829235180
   },
   "1914": {
     "id": "1914",
@@ -117921,6 +118165,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -10,
       "odo": -3,
       "old": -1,
       "par": -3,
@@ -117945,7 +118190,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1767646157291
+    "updatedAt": 1777829906717
   },
   "1924": {
     "id": "1924",
@@ -118430,6 +118675,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -1,
+      "lon": -1,
       "mac": -1,
       "mul": -3,
       "myt": -3,
@@ -118459,7 +118705,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829493581
   },
   "1933": {
     "id": "1933",
@@ -120678,15 +120924,18 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": 10,
       "odo": -3,
       "old": -10,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sci": 10,
       "sha": -3,
+      "sma": 10,
       "sof": -3,
       "sou": -3,
       "tab": -1,
@@ -120700,7 +120949,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635686543
+    "updatedAt": 1777830357087
   },
   "1969": {
     "id": "1969",
@@ -121811,6 +122060,7 @@
       "mul": -3,
       "myt": -3,
       "nat": 5,
+      "new": -3,
       "odo": -3,
       "old": 5,
       "par": -3,
@@ -121821,6 +122071,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -10,
       "sou": -3,
       "tab": -3,
@@ -121834,7 +122085,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597603740
+    "updatedAt": 1777830378427
   },
   "2000": {
     "id": "2000",
@@ -123780,11 +124031,13 @@
       "kno": 10,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -123808,7 +124061,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1768597599408
+    "updatedAt": 1777829864853
   },
   "2042": {
     "id": "2042",
@@ -124350,9 +124603,11 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -124362,6 +124617,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 5,
       "par": -3,
@@ -124372,6 +124628,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -124385,7 +124642,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1776635859996
+    "updatedAt": 1777830378427
   },
   "2066": {
     "id": "2066",
@@ -125427,7 +125684,9 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
+      "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -125454,7 +125713,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597746571
+    "updatedAt": 1777829703164
   },
   "2093": {
     "id": "2093",
@@ -125486,11 +125745,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -125515,7 +125776,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1766626580034
+    "updatedAt": 1777829874558
   },
   "2094": {
     "id": "2094",
@@ -125552,6 +125813,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -125576,7 +125838,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626525314
+    "updatedAt": 1777829913815
   },
   "2102": {
     "id": "2102",
@@ -126434,11 +126696,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
       "met": 10,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -126462,7 +126726,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635663985
+    "updatedAt": 1777829869280
   },
   "2131": {
     "id": "2131",
@@ -126630,6 +126894,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -1,
       "old": -3,
       "par": -3,
@@ -126653,7 +126918,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597574025
+    "updatedAt": 1777829903250
   },
   "2136": {
     "id": "2136",
@@ -126877,6 +127142,7 @@
       "mul": -10,
       "myt": -1,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 10,
       "par": -3,
@@ -126901,7 +127167,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1767646131984
+    "updatedAt": 1777829903250
   },
   "2140": {
     "id": "2140",
@@ -129079,11 +129345,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -1,
       "met": 10,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -129106,7 +129374,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597576981
+    "updatedAt": 1777829864853
   },
   "2184": {
     "id": "2184",
@@ -129137,12 +129405,14 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -1,
       "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -129165,7 +129435,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597577666
+    "updatedAt": 1777829976009
   },
   "2187": {
     "id": "2187",
@@ -129332,6 +129602,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -1,
       "mul": -3,
       "myt": -3,
@@ -129360,7 +129631,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1768597578685
+    "updatedAt": 1777829478278
   },
   "2191": {
     "id": "2191",
@@ -130158,6 +130429,7 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -130181,7 +130453,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765050408165
+    "updatedAt": 1777829991469
   },
   "2204": {
     "id": "2204",
@@ -130909,6 +131181,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -130933,7 +131206,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829913815
   },
   "2223": {
     "id": "2223",
@@ -130964,6 +131237,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -1,
+      "lon": -1,
       "mac": -3,
       "mul": -3,
       "myt": -3,
@@ -130993,7 +131267,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626525314
+    "updatedAt": 1777829506266
   },
   "2224": {
     "id": "2224",
@@ -131030,11 +131304,13 @@
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 10,
       "pow": -3,
       "rou": 5,
       "sci": -3,
@@ -131053,7 +131329,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597564233
+    "updatedAt": 1777830175975
   },
   "2225": {
     "id": "2225",
@@ -131090,11 +131366,13 @@
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": 5,
       "rou": -3,
       "sci": -3,
@@ -131113,7 +131391,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597562583
+    "updatedAt": 1777830191582
   },
   "2226": {
     "id": "2226",
@@ -133537,11 +133815,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -133565,7 +133845,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635663985
+    "updatedAt": 1777829869280
   },
   "2283": {
     "id": "2283",
@@ -135976,6 +136256,7 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
@@ -136005,7 +136286,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1766626517234
+    "updatedAt": 1777829510812
   },
   "2363": {
     "id": "2363",
@@ -137477,6 +137758,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -137500,7 +137782,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049942115
+    "updatedAt": 1777829997841
   },
   "2391": {
     "id": "2391",
@@ -137846,11 +138128,13 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 10,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -1,
       "rou": -3,
       "sci": -3,
@@ -137869,7 +138153,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1768597736205
+    "updatedAt": 1777830195082
   },
   "2398": {
     "id": "2398",
@@ -137901,12 +138185,14 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": 5,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -1,
@@ -137916,6 +138202,7 @@
       "rou": -3,
       "sci": 10,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -1,
@@ -137929,7 +138216,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1768597350385
+    "updatedAt": 1777830370365
   },
   "2399": {
     "id": "2399",
@@ -139462,7 +139749,9 @@
       "kno": 5,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -1,
+      "met": 10,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -139490,7 +139779,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597546107
+    "updatedAt": 1777829699798
   },
   "2435": {
     "id": "2435",
@@ -139521,11 +139810,13 @@
       "kno": -1,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -139550,7 +139841,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1765050305686
+    "updatedAt": 1777829869280
   },
   "2436": {
     "id": "2436",
@@ -139589,6 +139880,7 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -139598,6 +139890,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -139611,7 +139904,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1765049924565
+    "updatedAt": 1777830370365
   },
   "2437": {
     "id": "2437",
@@ -139836,6 +140129,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -1,
@@ -139860,7 +140154,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829913815
   },
   "2441": {
     "id": "2441",
@@ -140076,6 +140370,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": 5,
@@ -140100,7 +140395,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829913815
   },
   "2445": {
     "id": "2445",
@@ -140376,6 +140671,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 10,
       "mac": -1,
       "met": 5,
       "mul": -3,
@@ -140405,7 +140701,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635663985
+    "updatedAt": 1777829466416
   },
   "2450": {
     "id": "2450",
@@ -140505,6 +140801,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -140514,6 +140811,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -1,
+      "sma": -1,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -140527,7 +140825,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049927943
+    "updatedAt": 1777830370365
   },
   "2452": {
     "id": "2452",
@@ -141624,11 +141922,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": 10,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -141652,7 +141952,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765050265025
+    "updatedAt": 1777829844732
   },
   "2473": {
     "id": "2473",
@@ -141862,6 +142162,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -141891,7 +142192,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1747931409012
+    "updatedAt": 1777829442249
   },
   "2477": {
     "id": "2477",
@@ -142298,7 +142599,7 @@
       "hei": 5,
       "hol": 5,
       "hum": -3,
-      "ins": 5,
+      "ins": -1,
       "kno": -3,
       "liq": 10,
       "loc": -3,
@@ -142334,10 +142635,10 @@
       "wri": -3
     },
     "complete": true,
-    "reliability": 96,
-    "score": 75,
-    "signature": "~met~big!acc!ali!bea!bri!bui!clo!cul!dan!def!fas!fla!fli!fra!gra!har!hea!hum!kno!loc!lon!myt!nat!new!odo!old!par!per!pla!rou!sci!sha!sma!sof!tab!tec!too!toy!tra!val!wea!woo!wri",
-    "updatedAt": 1748017914173
+    "reliability": 94,
+    "score": 70,
+    "signature": "~ins~met~big!acc!ali!bea!bri!bui!clo!cul!dan!def!fas!fla!fli!fra!gra!har!hea!hum!kno!loc!lon!myt!nat!new!odo!old!par!per!pla!rou!sci!sha!sma!sof!tab!tec!too!toy!tra!val!wea!woo!wri",
+    "updatedAt": 1777387277809
   },
   "2484": {
     "id": "2484",
@@ -143222,6 +143523,7 @@
       "myt": -1,
       "nat": -3,
       "new": -3,
+      "odo": -1,
       "old": 5,
       "par": -3,
       "per": -3,
@@ -143231,6 +143533,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": 5,
@@ -143244,7 +143547,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1765049908307
+    "updatedAt": 1777830370365
   },
   "2500": {
     "id": "2500",
@@ -143335,12 +143638,14 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -1,
       "mul": -3,
       "myt": -1,
       "nat": -3,
       "new": -10,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -143363,7 +143668,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049964882
+    "updatedAt": 1777829975329
   },
   "2502": {
     "id": "2502",
@@ -143657,10 +143962,13 @@
       "kno": 10,
       "liq": -3,
       "loc": -1,
+      "lon": -3,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -143685,7 +143993,7 @@
       "woo": 5,
       "wri": 5
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829833368
   },
   "2507": {
     "id": "2507",
@@ -146325,8 +146633,10 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -3,
       "hum": -3,
       "ins": 10,
       "kno": -3,
@@ -146361,7 +146671,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1776635704714
+    "updatedAt": 1777829113370
   },
   "2555": {
     "id": "2555",
@@ -146873,11 +147183,14 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": 5,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -146901,7 +147214,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049948287
+    "updatedAt": 1777829930031
   },
   "2565": {
     "id": "2565",
@@ -147061,6 +147374,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -147090,7 +147404,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597351487
+    "updatedAt": 1777829437284
   },
   "2569": {
     "id": "2569",
@@ -147122,11 +147436,13 @@
       "kno": -3,
       "liq": 5,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -147149,7 +147465,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765050360258
+    "updatedAt": 1777829837521
   },
   "2571": {
     "id": "2571",
@@ -147181,11 +147497,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -147195,6 +147513,7 @@
       "rou": 5,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": 10,
       "tab": -3,
@@ -147208,7 +147527,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635902563
+    "updatedAt": 1777830378427
   },
   "2572": {
     "id": "2572",
@@ -147829,6 +148148,7 @@
       "kno": -3,
       "liq": -3,
       "loc": 5,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -147859,7 +148179,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626525314
+    "updatedAt": 1777829506266
   },
   "2582": {
     "id": "2582",
@@ -148141,6 +148461,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": 10,
       "old": -3,
       "par": -3,
@@ -148165,7 +148486,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829903250
   },
   "2587": {
     "id": "2587",
@@ -148189,6 +148510,7 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hol": -3,
@@ -148197,6 +148519,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -3,
       "met": 10,
       "mul": -3,
@@ -148225,7 +148548,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635691545
+    "updatedAt": 1777829410538
   },
   "2588": {
     "id": "2588",
@@ -148321,6 +148644,7 @@
       "loc": -3,
       "lon": -1,
       "mac": -3,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -148349,7 +148673,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635699580
+    "updatedAt": 1777829676190
   },
   "2592": {
     "id": "2592",
@@ -148453,15 +148777,18 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -3,
       "pow": -3,
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -1,
       "tab": -3,
@@ -148475,7 +148802,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597747463
+    "updatedAt": 1777830352568
   },
   "2595": {
     "id": "2595",
@@ -151117,19 +151444,24 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": 10,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": 5,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -3,
       "rou": 10,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -151142,7 +151474,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597518987
+    "updatedAt": 1777830370365
   },
   "2647": {
     "id": "2647",
@@ -151229,6 +151561,7 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
@@ -151258,7 +151591,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1766626520795
+    "updatedAt": 1777829506266
   },
   "2649": {
     "id": "2649",
@@ -151485,6 +151818,7 @@
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -151508,7 +151842,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635926398
+    "updatedAt": 1777829984760
   },
   "2653": {
     "id": "2653",
@@ -151658,11 +151992,14 @@
       "kno": -3,
       "liq": -1,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -1,
+      "odo": 5,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -151672,6 +152009,7 @@
       "rou": -1,
       "sci": -3,
       "sha": -3,
+      "sma": -1,
       "sof": -1,
       "sou": -3,
       "tab": -3,
@@ -151685,7 +152023,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765049931699
+    "complete": true,
+    "reliability": 84,
+    "score": 20,
+    "signature": "~liq~col~cul~rou~con~new~sma~sof~gra!acc!ali!bea!big!bri!bui!but!clo!dan!def!fas!fla!fli!fra!har!hea!hei!hol!hum!ins!kno!loc!lon!mac!met!mul!myt!nat!old!par!per!pla!pls!pow!sci!sha!sou!tab!tec!too!toy!tra!war!wea!woo!wri",
+    "updatedAt": 1777830378427
   },
   "2656": {
     "id": "2656",
@@ -151722,6 +152064,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": 10,
       "old": -3,
       "par": -3,
@@ -151746,7 +152089,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829913815
   },
   "2657": {
     "id": "2657",
@@ -151778,7 +152121,9 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -151805,7 +152150,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1768597447787
+    "updatedAt": 1777829708184
   },
   "2658": {
     "id": "2658",
@@ -151843,6 +152188,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -151867,7 +152213,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626530939
+    "updatedAt": 1777829913815
   },
   "2659": {
     "id": "2659",
@@ -151898,6 +152244,7 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
@@ -151927,7 +152274,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626520795
+    "updatedAt": 1777829510812
   },
   "2660": {
     "id": "2660",
@@ -153638,11 +153985,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -153666,7 +154015,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1765050236376
+    "updatedAt": 1777829837521
   },
   "2688": {
     "id": "2688",
@@ -153881,8 +154230,10 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
       "ins": 10,
       "kno": -3,
@@ -153893,6 +154244,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -153917,7 +154269,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1776635700517
+    "updatedAt": 1777829880378
   },
   "2693": {
     "id": "2693",
@@ -154200,11 +154552,13 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": 10,
       "rou": -3,
       "sci": -3,
@@ -154223,7 +154577,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635649199
+    "updatedAt": 1777830195805
   },
   "2699": {
     "id": "2699",
@@ -154736,6 +155090,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -154760,7 +155115,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635663985
+    "updatedAt": 1777829890646
   },
   "2708": {
     "id": "2708",
@@ -155681,6 +156036,8 @@
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -155689,10 +156046,12 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
+      "too": -3,
       "toy": -3,
       "tra": 5,
       "val": -3,
@@ -155701,7 +156060,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1768597743671
+    "updatedAt": 1777830585552
   },
   "2724": {
     "id": "2724",
@@ -156280,6 +156639,7 @@
       "foo": -3,
       "fra": -1,
       "gra": -3,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hol": 10,
@@ -156288,6 +156648,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -156317,7 +156678,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635836037
+    "updatedAt": 1777829410538
   },
   "2740": {
     "id": "2740",
@@ -156348,11 +156709,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -1,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -156377,7 +156740,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829864853
   },
   "2741": {
     "id": "2741",
@@ -156590,6 +156953,7 @@
       "hea": -3,
       "hei": -3,
       "hum": -3,
+      "ins": -1,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -156599,11 +156963,13 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": 5,
       "pow": -3,
       "rou": -3,
       "sci": -3,
@@ -156622,7 +156988,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635937151
+    "updatedAt": 1777830199218
   },
   "2746": {
     "id": "2746",
@@ -157163,6 +157529,7 @@
       "liq": -3,
       "loc": -3,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -157189,7 +157556,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1748015066852
+    "updatedAt": 1777829671015
   },
   "2756": {
     "id": "2756",
@@ -157613,9 +157980,11 @@
       "liq": -3,
       "loc": -3,
       "mac": -3,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -157638,7 +158007,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1748015066852
+    "updatedAt": 1777829837521
   },
   "2765": {
     "id": "2765",
@@ -157737,6 +158106,7 @@
       "kno": 5,
       "liq": -3,
       "loc": -1,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -157767,7 +158137,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829506266
   },
   "2768": {
     "id": "2768",
@@ -158206,11 +158576,13 @@
       "kno": 10,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 5,
       "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -158234,7 +158606,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635663985
+    "updatedAt": 1777829837521
   },
   "2775": {
     "id": "2775",
@@ -158650,11 +159022,14 @@
       "kno": -3,
       "liq": 10,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -158678,7 +159053,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1768597431895
+    "updatedAt": 1777829930932
   },
   "2782": {
     "id": "2782",
@@ -158904,11 +159279,14 @@
       "kno": -3,
       "liq": 10,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -158931,7 +159309,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597432835
+    "updatedAt": 1777829931997
   },
   "2786": {
     "id": "2786",
@@ -159465,8 +159843,10 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -3,
       "hea": 5,
       "hei": -3,
+      "hol": 5,
       "hum": -3,
       "ins": 10,
       "kno": -3,
@@ -159502,7 +159882,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635830071
+    "updatedAt": 1777829129312
   },
   "2795": {
     "id": "2795",
@@ -159730,11 +160110,14 @@
       "kno": -3,
       "liq": 10,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -159744,6 +160127,7 @@
       "rou": -1,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -159757,7 +160141,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635843923
+    "updatedAt": 1777830370365
   },
   "2799": {
     "id": "2799",
@@ -160904,9 +161288,12 @@
       "liq": -3,
       "loc": -3,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -160915,10 +161302,12 @@
       "rou": -1,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -1,
       "sou": -3,
       "tab": -3,
       "tec": -3,
+      "too": -3,
       "toy": -3,
       "tra": -3,
       "val": -3,
@@ -160927,7 +161316,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1748015090215
+    "updatedAt": 1777830585552
   },
   "2824": {
     "id": "2824",
@@ -161084,11 +161473,13 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": 10,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -161113,7 +161504,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626512103
+    "updatedAt": 1777829844732
   },
   "2827": {
     "id": "2827",
@@ -161512,6 +161903,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -1,
       "mul": -3,
       "myt": -3,
@@ -161539,7 +161931,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635669846
+    "updatedAt": 1777829454050
   },
   "2835": {
     "id": "2835",
@@ -161570,11 +161962,13 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -10,
       "myt": -3,
       "nat": -1,
+      "new": -10,
       "odo": -3,
       "old": 10,
       "par": -3,
@@ -161599,7 +161993,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626512103
+    "updatedAt": 1777829847467
   },
   "2836": {
     "id": "2836",
@@ -161630,6 +162024,7 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -10,
@@ -161660,7 +162055,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626520795
+    "updatedAt": 1777829521236
   },
   "2837": {
     "id": "2837",
@@ -161691,11 +162086,13 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -10,
       "myt": -3,
       "nat": -1,
+      "new": -10,
       "odo": -3,
       "old": 10,
       "par": -3,
@@ -161720,7 +162117,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626520795
+    "updatedAt": 1777829845953
   },
   "2838": {
     "id": "2838",
@@ -161888,11 +162285,13 @@
       "kno": -3,
       "liq": 10,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -1,
       "old": -3,
       "par": -3,
@@ -161917,7 +162316,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635842769
+    "updatedAt": 1777829869280
   },
   "2841": {
     "id": "2841",
@@ -161949,11 +162348,13 @@
       "kno": -3,
       "liq": 10,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -1,
       "old": -3,
       "par": -3,
@@ -161978,7 +162379,7 @@
       "woo": -3,
       "wri": -1
     },
-    "updatedAt": 1776635840368
+    "updatedAt": 1777829869280
   },
   "2842": {
     "id": "2842",
@@ -162010,11 +162411,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": 5,
       "old": -3,
       "par": -3,
@@ -162037,7 +162440,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1776635840982
+    "updatedAt": 1777829869280
   },
   "2843": {
     "id": "2843",
@@ -162069,11 +162472,13 @@
       "kno": -3,
       "liq": 10,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -1,
       "old": -3,
       "par": -3,
@@ -162098,7 +162503,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635843370
+    "updatedAt": 1777829869280
   },
   "2844": {
     "id": "2844",
@@ -162130,12 +162535,14 @@
       "kno": -3,
       "liq": 10,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -162159,7 +162566,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635839698
+    "updatedAt": 1777829984760
   },
   "2845": {
     "id": "2845",
@@ -162197,6 +162604,7 @@
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -1,
       "old": -3,
       "par": -3,
@@ -162221,7 +162629,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635842112
+    "updatedAt": 1777829880378
   },
   "2846": {
     "id": "2846",
@@ -162253,12 +162661,14 @@
       "kno": -3,
       "liq": 10,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -1,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -162282,7 +162692,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635841554
+    "updatedAt": 1777829984760
   },
   "2847": {
     "id": "2847",
@@ -162314,12 +162724,14 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -1,
       "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
       "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -162342,7 +162754,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1768597402937
+    "updatedAt": 1777829976570
   },
   "2848": {
     "id": "2848",
@@ -162705,6 +163117,7 @@
       "liq": -3,
       "loc": -3,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -162730,7 +163143,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1748015216892
+    "updatedAt": 1777829680547
   },
   "2854": {
     "id": "2854",
@@ -162762,9 +163175,11 @@
       "liq": -3,
       "loc": -3,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -1,
@@ -162786,7 +163201,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1748015216892
+    "updatedAt": 1777829837521
   },
   "2855": {
     "id": "2855",
@@ -162817,11 +163232,13 @@
       "kno": 5,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -1,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -162845,7 +163262,7 @@
       "woo": -3,
       "wri": 10
     },
-    "updatedAt": 1765050374518
+    "updatedAt": 1777829844732
   },
   "2857": {
     "id": "2857",
@@ -162878,6 +163295,7 @@
       "liq": -3,
       "loc": -3,
       "mac": -3,
+      "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
@@ -162906,7 +163324,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1750523350113
+    "updatedAt": 1777829677773
   },
   "2859": {
     "id": "2859",
@@ -163183,6 +163601,7 @@
       "kno": -1,
       "liq": -3,
       "loc": -1,
+      "lon": 5,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -163213,7 +163632,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829506266
   },
   "2866": {
     "id": "2866",
@@ -163373,9 +163792,11 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": -3,
       "loc": -3,
@@ -163385,6 +163806,7 @@
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -1,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -163409,7 +163831,7 @@
       "woo": -3,
       "wri": 5
     },
-    "updatedAt": 1776635928164
+    "updatedAt": 1777829881669
   },
   "2878": {
     "id": "2878",
@@ -164115,10 +164537,12 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -10,
       "odo": -1,
       "old": 10,
       "par": -3,
@@ -164143,7 +164567,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626512103
+    "updatedAt": 1777829850028
   },
   "2906": {
     "id": "2906",
@@ -164316,11 +164740,13 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
       "pla": -3,
+      "pls": -1,
       "pow": -1,
       "rou": -3,
       "sci": -3,
@@ -164338,7 +164764,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597395562
+    "updatedAt": 1777830204356
   },
   "2916": {
     "id": "2916",
@@ -164675,9 +165101,12 @@
       "liq": -3,
       "loc": -3,
       "mac": -3,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -164686,10 +165115,12 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
       "tec": -3,
+      "too": -3,
       "toy": -3,
       "tra": -3,
       "val": -1,
@@ -164698,7 +165129,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1748015152726
+    "updatedAt": 1777830585552
   },
   "2923": {
     "id": "2923",
@@ -164722,9 +165153,12 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
+      "ins": -3,
       "kno": -3,
       "liq": 5,
       "loc": -3,
@@ -164733,6 +165167,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 5,
       "par": -3,
@@ -164757,7 +165192,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635858031
+    "updatedAt": 1777829880378
   },
   "2925": {
     "id": "2925",
@@ -165166,10 +165601,12 @@
       "kno": -1,
       "liq": -3,
       "loc": 5,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -165194,7 +165631,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1766626525314
+    "updatedAt": 1777829864853
   },
   "2936": {
     "id": "2936",
@@ -165286,6 +165723,7 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -1,
       "hea": -1,
       "hei": -3,
       "hum": -3,
@@ -165298,6 +165736,7 @@
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": 10,
       "par": -3,
@@ -165322,7 +165761,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635855346
+    "updatedAt": 1777829880378
   },
   "2938": {
     "id": "2938",
@@ -165464,13 +165903,16 @@
       "foo": -3,
       "fra": -3,
       "gra": 5,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": -1,
       "hum": -3,
       "ins": 10,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "mul": -3,
       "myt": -3,
@@ -165499,7 +165941,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1776635834832
+    "updatedAt": 1777829400331
   },
   "2942": {
     "id": "2942",
@@ -165523,18 +165965,22 @@
       "foo": -3,
       "fra": -3,
       "gra": -1,
+      "har": -3,
       "hea": -3,
       "hei": -3,
+      "hol": 10,
       "hum": -3,
       "ins": 10,
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -165558,7 +166004,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635836997
+    "updatedAt": 1777829880378
   },
   "2945": {
     "id": "2945",
@@ -165591,9 +166037,11 @@
       "liq": -3,
       "loc": -3,
       "mac": -3,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -165616,7 +166064,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1748015203146
+    "updatedAt": 1777829833368
   },
   "2946": {
     "id": "2946",
@@ -165647,6 +166095,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
@@ -165676,7 +166125,7 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1765049966927
+    "updatedAt": 1777829562568
   },
   "2947": {
     "id": "2947",
@@ -165706,11 +166155,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -1,
       "mac": -3,
       "met": -3,
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -165734,7 +166185,7 @@
       "woo": 5,
       "wri": -1
     },
-    "updatedAt": 1765050375735
+    "updatedAt": 1777829844732
   },
   "2948": {
     "id": "2948",
@@ -166582,10 +167033,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": 10,
+      "met": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -166608,7 +167062,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1759542711555
+    "updatedAt": 1777829837521
   },
   "2968": {
     "id": "2968",
@@ -166913,11 +167367,13 @@
       "kno": 5,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -166942,7 +167398,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 93,
+    "score": 35,
+    "signature": "~val~cul~pow~hol!acc!bea!big!bri!bui!but!clo!col!con!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!ins!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!rou!sci!sha!sma!sof!tab!tec!too!toy!tra!war!wea!woo!wri",
+    "updatedAt": 1777829874558
   },
   "2976": {
     "id": "2976",
@@ -166975,11 +167435,13 @@
       "kno": 5,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": 10,
       "nat": -3,
+      "new": -3,
       "odo": -1,
       "old": -1,
       "par": -3,
@@ -167004,7 +167466,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 91,
+    "score": 45,
+    "signature": "~tab~sou~odo~old~hol!acc!bea!big!bri!bui!but!clo!col!con!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!ins!liq!loc!lon!mac!met!mul!nat!new!par!per!pla!pls!pow!rou!sci!sha!sma!sof!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777829874558
   },
   "2977": {
     "id": "2977",
@@ -167579,10 +168045,12 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -1,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -167607,7 +168075,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626517234
+    "updatedAt": 1777829844732
   },
   "2999": {
     "id": "2999",
@@ -167979,10 +168447,12 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -168007,7 +168477,7 @@
       "woo": -1,
       "wri": -3
     },
-    "updatedAt": 1766626512103
+    "updatedAt": 1777829864853
   },
   "3007": {
     "id": "3007",
@@ -168097,11 +168567,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -1,
+      "lon": 5,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -168126,7 +168598,7 @@
       "woo": 5,
       "wri": 10
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829864853
   },
   "3009": {
     "id": "3009",
@@ -168286,6 +168758,7 @@
       "kno": -3,
       "liq": 5,
       "loc": 10,
+      "lon": -1,
       "mac": -1,
       "mul": -3,
       "myt": -3,
@@ -168315,7 +168788,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626520795
+    "updatedAt": 1777829528527
   },
   "3015": {
     "id": "3015",
@@ -168346,10 +168819,12 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -168374,7 +168849,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626520795
+    "updatedAt": 1777829864853
   },
   "3016": {
     "id": "3016",
@@ -168405,10 +168880,12 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -168433,7 +168910,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626512103
+    "updatedAt": 1777829864853
   },
   "3017": {
     "id": "3017",
@@ -168738,11 +169215,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -168767,7 +169246,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 96,
+    "score": 25,
+    "signature": "~sou~hol!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!ins!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777829874558
   },
   "3025": {
     "id": "3025",
@@ -168800,11 +169283,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -168829,7 +169314,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 98,
+    "score": 20,
+    "signature": "~hol!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!ins!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777829874558
   },
   "3026": {
     "id": "3026",
@@ -168919,6 +169408,7 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -1,
       "met": 5,
       "mul": -3,
@@ -168949,7 +169439,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1768597378895
+    "updatedAt": 1777829491938
   },
   "3028": {
     "id": "3028",
@@ -168982,11 +169472,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -169011,7 +169503,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 96,
+    "score": 30,
+    "signature": "~sou~hol!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!gra!har!hea!hei!ins!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777829874558
   },
   "3029": {
     "id": "3029",
@@ -169180,11 +169676,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -169209,7 +169707,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 91,
+    "score": 45,
+    "signature": "~val~sou~dan~toy~hol!acc!big!bri!bui!but!clo!col!con!cul!def!fas!fla!fli!foo!fra!gra!har!hea!hei!ins!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!tec!too!tra!wea!woo!wri",
+    "updatedAt": 1777829874558
   },
   "3032": {
     "id": "3032",
@@ -170324,11 +170826,13 @@
       "kno": -3,
       "liq": -3,
       "loc": -1,
+      "lon": -1,
       "mac": 5,
       "met": 5,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -3,
       "par": -3,
@@ -170353,7 +170857,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1766626542682
+    "updatedAt": 1777829864853
   },
   "3050": {
     "id": "3050",
@@ -170972,11 +171476,14 @@
       "kno": -3,
       "liq": -3,
       "loc": -3,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -3,
       "par": -3,
       "per": -3,
@@ -170986,6 +171493,7 @@
       "rou": -3,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -170999,7 +171507,11 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 96,
+    "score": 30,
+    "signature": "~ali~acc!bea!big!bri!bui!but!clo!col!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830378427
   },
   "3063": {
     "id": "3063",
@@ -171236,11 +171748,13 @@
       "kno": -1,
       "liq": -3,
       "loc": -3,
+      "lon": 5,
       "mac": -3,
       "met": -3,
       "mul": -1,
       "myt": -3,
       "nat": -3,
+      "new": -3,
       "odo": -3,
       "old": -1,
       "par": -3,
@@ -171264,7 +171778,7 @@
       "woo": -3,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "updatedAt": 1777829874558
   },
   "3069": {
     "id": "3069",
@@ -171288,6 +171802,7 @@
       "foo": -3,
       "fra": -3,
       "gra": -3,
+      "har": -3,
       "hea": -3,
       "hei": -3,
       "hol": -1,
@@ -171296,11 +171811,14 @@
       "kno": -3,
       "liq": -3,
       "loc": 10,
+      "lon": -3,
       "mac": -3,
       "met": -3,
       "mul": -3,
       "myt": -3,
       "nat": -3,
+      "new": -3,
+      "odo": -3,
       "old": -1,
       "par": -3,
       "per": -3,
@@ -171310,6 +171828,7 @@
       "rou": 5,
       "sci": -3,
       "sha": -3,
+      "sma": -3,
       "sof": -3,
       "sou": -3,
       "tab": -3,
@@ -171323,7 +171842,11 @@
       "woo": 5,
       "wri": -3
     },
-    "updatedAt": 1776635873464
+    "complete": true,
+    "reliability": 89,
+    "score": 30,
+    "signature": "~pla~con~bui~old~big~hol!acc!ali!bea!bri!but!clo!col!dan!fas!fla!fli!foo!fra!gra!har!hea!hei!hum!ins!kno!liq!lon!mac!met!mul!myt!nat!new!odo!par!per!pls!pow!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!wri",
+    "updatedAt": 1777830378427
   },
   "3070": {
     "id": "3070",
@@ -178328,5 +178851,2244 @@
     "score": 25,
     "signature": "~lon~big~sof~hol~hea!acc!ali!bri!bui!but!col!con!dan!def!fas!fla!fli!foo!fra!gra!har!hei!hum!ins!kno!liq!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
     "updatedAt": 1766626698935
+  },
+  "3258": {
+    "id": "3258",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": 5,
+      "con": -3,
+      "cul": -1,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": 10,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -1,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": 5,
+      "old": -1,
+      "par": -3,
+      "per": -3,
+      "pla": 10,
+      "pls": -3,
+      "pow": -3,
+      "rou": -1,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": 5,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 93,
+    "score": 35,
+    "signature": "~liq~cul~rou~old!acc!ali!bea!big!bri!bui!but!clo!con!dan!def!fas!fla!fli!fra!gra!har!hea!hei!hol!hum!ins!kno!loc!lon!mac!met!mul!myt!nat!new!par!per!pls!pow!sci!sha!sma!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830866443
+  },
+  "3260": {
+    "id": "3260",
+    "attributes": {
+      "acc": 5,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -1,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": 10,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -1,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -1,
+      "mac": -3,
+      "met": -1,
+      "mul": 5,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": 5,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 91,
+    "score": 25,
+    "signature": "~clo~ins~lon~met~hol!ali!bea!big!bri!bui!but!col!con!cul!dan!fas!fla!fli!foo!fra!gra!har!hea!hei!hum!kno!liq!loc!mac!myt!nat!new!odo!old!par!per!pla!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830899713
+  },
+  "3261": {
+    "id": "3261",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -1,
+      "con": -1,
+      "cul": -1,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -1,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -1,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": 10,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -1,
+      "old": -1,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -1,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 86,
+    "score": 10,
+    "signature": "~foo~col~cul~rou~con~odo~old~hol!acc!ali!bea!big!bri!bui!but!clo!dan!def!fas!fla!fli!fra!gra!har!hea!hei!hum!ins!kno!loc!lon!mac!met!mul!myt!nat!new!par!per!pla!pls!pow!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830684321
+  },
+  "3262": {
+    "id": "3262",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -10,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -1,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": 10,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": 5,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -1,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -1,
+      "pls": -3,
+      "pow": -3,
+      "rou": 10,
+      "sci": -3,
+      "sha": -3,
+      "sma": -1,
+      "sof": -1,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": 5,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 91,
+    "score": 25,
+    "signature": "~pla~cul~odo~sma~sof!acc!ali!bea!bri!bui!but!clo!col!con!dan!def!fas!fla!fli!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!myt!nat!new!old!par!per!pls!pow!sci!sha!sou!tab!tec!too!toy!tra!val!wea!woo!wri",
+    "updatedAt": 1777830894436
+  },
+  "3263": {
+    "id": "3263",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -1,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": 5,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": 5,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": 5,
+      "loc": -3,
+      "lon": -1,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": 5,
+      "pow": -3,
+      "rou": -3,
+      "sci": 5,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -1
+    },
+    "complete": true,
+    "reliability": 93,
+    "score": 25,
+    "signature": "~def~ins~lon~wri!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!fas!fla!fli!foo!fra!har!hea!hei!hum!kno!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo",
+    "updatedAt": 1777830887575
+  },
+  "3265": {
+    "id": "3265",
+    "attributes": {
+      "acc": -1,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -1,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -1,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": 5,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -1,
+      "hum": -3,
+      "ins": 5,
+      "kno": 5,
+      "liq": -3,
+      "loc": -3,
+      "lon": -1,
+      "mac": -1,
+      "met": -1,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -1,
+      "pow": -1,
+      "rou": -3,
+      "sci": 5,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -1,
+      "too": -1,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 81,
+    "score": 20,
+    "signature": "~tec~pow~mac~def~pls~too~acc~but~lon~met~hol!ali!bea!big!bri!bui!clo!col!con!cul!dan!fas!fla!fli!foo!fra!har!hea!hei!hum!liq!loc!mul!myt!nat!new!odo!old!par!per!pla!rou!sha!sma!sof!sou!tab!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830870713
+  },
+  "3266": {
+    "id": "3266",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -1,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -1,
+      "fas": -10,
+      "fla": -1,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -1,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -1,
+      "mac": 5,
+      "met": 5,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -1,
+      "pow": -1,
+      "rou": -3,
+      "sci": -1,
+      "sha": -3,
+      "sma": -3,
+      "sof": -1,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -1,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 81,
+    "score": 5,
+    "signature": "~sci~pow~def~tra~pls~but~lon~fla~sof~gra~hea!acc!ali!bea!big!bri!bui!clo!col!con!cul!dan!fli!foo!fra!har!hei!hol!hum!ins!kno!liq!loc!mul!myt!nat!new!odo!old!par!per!pla!rou!sha!sma!sou!tab!tec!too!toy!val!war!wea!woo!wri",
+    "updatedAt": 1777830692591
+  },
+  "3267": {
+    "id": "3267",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -1,
+      "bri": 10,
+      "bui": -3,
+      "but": -1,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -1,
+      "hei": 10,
+      "hol": -3,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": 10,
+      "mac": 5,
+      "met": 5,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -1,
+      "pow": 10,
+      "rou": -3,
+      "sci": -1,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -1,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 86,
+    "score": 50,
+    "signature": "~sci~pls~too~ins~but~big~gra~hea!acc!ali!bea!bui!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hol!hum!kno!liq!loc!mul!myt!nat!new!odo!old!par!per!pla!rou!sha!sma!sof!sou!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830947811
+  },
+  "3268": {
+    "id": "3268",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -1,
+      "con": 10,
+      "cul": -3,
+      "dan": 5,
+      "def": 5,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": 5,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -1,
+      "hum": -3,
+      "ins": -1,
+      "kno": -1,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": 5,
+      "pow": -3,
+      "rou": -3,
+      "sci": -1,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -1,
+      "war": -3,
+      "wea": -1,
+      "woo": -3,
+      "wri": 5
+    },
+    "complete": true,
+    "reliability": 87,
+    "score": 35,
+    "signature": "~wea~val~col~sci~kno~ins~hol!acc!ali!bea!big!bri!bui!but!clo!cul!fas!fla!fli!foo!fra!har!hea!hei!hum!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!rou!sha!sma!sof!sou!tab!tec!too!toy!tra!war!woo",
+    "updatedAt": 1777830708653
+  },
+  "3269": {
+    "id": "3269",
+    "attributes": {
+      "acc": -1,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -1,
+      "cul": -3,
+      "dan": -3,
+      "def": -1,
+      "fas": -3,
+      "fla": 5,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": 5,
+      "pow": -3,
+      "rou": 5,
+      "sci": -1,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -1,
+      "tec": -1,
+      "too": -3,
+      "toy": 10,
+      "tra": -3,
+      "val": -1,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": 5
+    },
+    "complete": true,
+    "reliability": 84,
+    "score": 30,
+    "signature": "~val~tec~sci~tab~con~def~ins~acc~gra!ali!bea!big!bri!bui!but!clo!col!cul!dan!fas!fli!foo!fra!har!hea!hei!hol!hum!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!sha!sma!sof!sou!too!tra!war!wea!woo",
+    "updatedAt": 1777830877128
+  },
+  "3271": {
+    "id": "3271",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -1,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -1,
+      "fla": -3,
+      "fli": 5,
+      "foo": -3,
+      "fra": -3,
+      "gra": 5,
+      "har": -10,
+      "hea": -3,
+      "hei": -3,
+      "hol": -1,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": 5,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": 5,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": 10,
+      "pow": -3,
+      "rou": 5,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": 10,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": 10,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -1,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 91,
+    "score": 50,
+    "signature": "~wea~con~fas~ins~hol!acc!ali!bea!big!bri!bui!but!clo!col!cul!dan!def!fla!foo!fra!hea!hei!hum!kno!loc!lon!mac!met!myt!nat!new!odo!old!par!per!pla!pow!sci!sha!sma!sou!tab!tec!too!tra!val!war!woo!wri",
+    "updatedAt": 1777830718837
+  },
+  "3272": {
+    "id": "3272",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": 10,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -10,
+      "hei": -3,
+      "hol": -1,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -1,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -1,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -1,
+      "woo": -3,
+      "wri": -1
+    },
+    "complete": true,
+    "reliability": 87,
+    "score": 5,
+    "signature": "~wea~toy~ins~lon~wri~gra~hol!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fli!foo!fra!har!hei!hum!kno!liq!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!tra!val!war!woo",
+    "updatedAt": 1777830881674
+  },
+  "3274": {
+    "id": "3274",
+    "attributes": {
+      "acc": -3,
+      "ali": 10,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -1,
+      "def": 5,
+      "fas": 5,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -1,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -1,
+      "sma": -3,
+      "sof": -1,
+      "sou": 10,
+      "tab": -1,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": 5,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 91,
+    "score": 35,
+    "signature": "~sha~tab~dan~nat~sof!acc!bea!big!bri!bui!but!clo!col!con!cul!fla!fli!foo!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!new!odo!old!par!per!pla!pls!pow!rou!sci!sma!tec!too!toy!tra!val!war!woo!wri",
+    "updatedAt": 1777830948904
+  },
+  "3275": {
+    "id": "3275",
+    "attributes": {
+      "acc": -3,
+      "ali": 10,
+      "bea": -1,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": 10,
+      "def": -3,
+      "fas": 10,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -1,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": 5,
+      "new": -3,
+      "odo": -1,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -1,
+      "sma": -3,
+      "sof": -1,
+      "sou": 10,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 91,
+    "score": 45,
+    "signature": "~bea~sha~odo~sof~hea!acc!big!bri!bui!but!clo!col!con!cul!def!fla!fli!foo!fra!gra!har!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!new!old!par!per!pla!pls!pow!rou!sci!sma!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830723172
+  },
+  "3278": {
+    "id": "3278",
+    "attributes": {
+      "acc": -3,
+      "ali": -1,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": 5,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": 10,
+      "new": -3,
+      "odo": -1,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": 10,
+      "pls": -3,
+      "pow": -3,
+      "rou": 10,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -1,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 93,
+    "score": 35,
+    "signature": "~ali~odo~sof~gra!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!fra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!new!old!par!per!pls!pow!sci!sha!sma!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830815427
+  },
+  "3282": {
+    "id": "3282",
+    "attributes": {
+      "acc": -1,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": 5,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -1,
+      "hum": -3,
+      "ins": 5,
+      "kno": 5,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": 10,
+      "met": -1,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -1,
+      "pow": 5,
+      "rou": -3,
+      "sci": 5,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -1,
+      "too": -1,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": 5
+    },
+    "complete": true,
+    "reliability": 89,
+    "score": 40,
+    "signature": "~tec~pls~too~acc~met~hol!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hum!liq!loc!lon!mul!myt!nat!new!odo!old!par!per!pla!rou!sha!sma!sof!sou!tab!toy!tra!val!war!wea!woo",
+    "updatedAt": 1777830909260
+  },
+  "3285": {
+    "id": "3285",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": 5,
+      "big": 10,
+      "bri": -1,
+      "bui": 10,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": 5,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": 10,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": 10,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -1,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -1,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 94,
+    "score": 50,
+    "signature": "~bri~woo~old!acc!ali!but!clo!col!con!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hol!hum!ins!kno!liq!lon!mac!met!mul!myt!nat!new!odo!par!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!wri",
+    "updatedAt": 1777830940364
+  },
+  "3287": {
+    "id": "3287",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": 5,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -1,
+      "fra": -3,
+      "gra": 5,
+      "har": -1,
+      "hea": -3,
+      "hei": -1,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": 5,
+      "met": 5,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -1,
+      "tab": -3,
+      "tec": -3,
+      "too": 5,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -1
+    },
+    "updatedAt": 1777830913606
+  },
+  "3288": {
+    "id": "3288",
+    "attributes": {
+      "acc": -1,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": 5,
+      "fli": -3,
+      "foo": 5,
+      "fra": -3,
+      "gra": 5,
+      "har": 5,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": 5,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": 5,
+      "mac": -3,
+      "met": 10,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -1,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -1,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 94,
+    "score": 40,
+    "signature": "~too~acc~woo!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fli!fra!hea!hei!hol!hum!kno!liq!loc!mac!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tab!tec!toy!tra!val!war!wea!wri",
+    "updatedAt": 1777830835391
+  },
+  "3290": {
+    "id": "3290",
+    "attributes": {
+      "acc": -1,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": 10,
+      "cul": 5,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": 5,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": 5,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": -1,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -1,
+      "old": -1,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": 5,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -1,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 87,
+    "score": 30,
+    "signature": "~liq~war~ins~acc~odo~old~gra!ali!bea!big!bri!bui!but!clo!col!dan!def!fas!fla!fli!fra!har!hea!hei!hum!kno!loc!lon!mac!met!mul!myt!nat!new!par!per!pla!pls!pow!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!wea!woo!wri",
+    "updatedAt": 1777830793892
+  },
+  "3293": {
+    "id": "3293",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": 5,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": 5,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -1,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": 10,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": 5,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 98,
+    "score": 25,
+    "signature": "~par!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hum!ins!kno!loc!lon!mac!met!mul!myt!nat!new!odo!old!per!pla!pls!pow!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!wri",
+    "updatedAt": 1777830800784
+  },
+  "3294": {
+    "id": "3294",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -1,
+      "def": -3,
+      "fas": -1,
+      "fla": -3,
+      "fli": -1,
+      "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": 10,
+      "hea": 10,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": 10,
+      "mul": 5,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -1,
+      "old": 5,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": 10,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -10,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": 5,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 91,
+    "score": 50,
+    "signature": "~fli~dan~fas~odo~gra!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!def!fla!foo!fra!hei!hol!hum!ins!kno!liq!loc!lon!mac!myt!nat!new!par!per!pla!pls!pow!sci!sha!sma!sou!tab!tec!too!toy!tra!val!war!woo!wri",
+    "updatedAt": 1777830804844
+  },
+  "3296": {
+    "id": "3296",
+    "attributes": {
+      "acc": 10,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -1,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": 10,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": 5,
+      "pow": -3,
+      "rou": -1,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 94,
+    "score": 25,
+    "signature": "~clo~rou~gra!ali!bea!big!bri!bui!but!col!con!cul!dan!fas!fla!fli!foo!fra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pow!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830811442
+  },
+  "3297": {
+    "id": "3297",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -1,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": 5,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -1,
+      "kno": -1,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": 5,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -1,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": 10,
+      "tra": -3,
+      "val": 5,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": 10
+    },
+    "complete": true,
+    "reliability": 93,
+    "score": 35,
+    "signature": "~bea~kno~ins~sma!acc!ali!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hol!hum!liq!loc!lon!mac!met!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sof!sou!tab!tec!too!tra!war!wea!woo",
+    "updatedAt": 1777830929965
+  },
+  "3299": {
+    "id": "3299",
+    "attributes": {
+      "acc": -3,
+      "ali": 10,
+      "bea": -3,
+      "big": -10,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": 5,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": 5,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 100,
+    "score": 15,
+    "signature": "!acc!bea!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!new!odo!old!par!per!pla!pls!pow!rou!sci!sha!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830831542
+  },
+  "3300": {
+    "id": "3300",
+    "attributes": {
+      "acc": -1,
+      "ali": 10,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -1,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -1,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": 5,
+      "hea": -3,
+      "hei": 5,
+      "hol": -3,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -1,
+      "mac": -3,
+      "met": 10,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": 5,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -1,
+      "sma": -3,
+      "sof": -3,
+      "sou": 5,
+      "tab": -3,
+      "tec": -3,
+      "too": -1,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 87,
+    "score": 40,
+    "signature": "~sha~fli~cul~too~ins~acc~lon!bea!big!bri!bui!but!clo!col!con!dan!def!fas!fla!foo!fra!gra!hea!hol!hum!kno!liq!loc!mac!mul!myt!nat!new!odo!par!per!pla!pls!pow!rou!sci!sma!sof!tab!tec!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830826883
+  },
+  "3301": {
+    "id": "3301",
+    "attributes": {
+      "acc": -3,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -1,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -3,
+      "hei": -1,
+      "hol": 10,
+      "hum": -3,
+      "ins": -1,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -1,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": 10,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": 10,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 91,
+    "score": 30,
+    "signature": "~ins~hei~old~fla~gra!acc!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fli!foo!fra!har!hea!hum!kno!liq!loc!lon!mac!met!mul!myt!nat!new!odo!par!per!pla!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830948328
+  },
+  "3302": {
+    "id": "3302",
+    "attributes": {
+      "acc": -1,
+      "ali": -3,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -1,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -1,
+      "kno": -1,
+      "liq": -3,
+      "loc": -3,
+      "lon": 5,
+      "mac": -1,
+      "met": 5,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -1,
+      "per": -3,
+      "pla": -3,
+      "pls": 5,
+      "pow": -1,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -1,
+      "too": 5,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 86,
+    "score": 20,
+    "signature": "~tec~kno~pow~mac~ins~acc~gra~par!ali!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!har!hea!hei!hol!hum!liq!loc!mul!myt!nat!new!odo!old!per!pla!rou!sci!sha!sma!sof!sou!tab!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830925738
+  },
+  "3305": {
+    "id": "3305",
+    "attributes": {
+      "acc": 10,
+      "ali": -3,
+      "bea": 5,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -1,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -1,
+      "gra": -1,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": 10,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": -3,
+      "new": -3,
+      "odo": -3,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -10,
+      "sma": -3,
+      "sof": 10,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 94,
+    "score": 30,
+    "signature": "~clo~gra~fra!ali!big!bri!bui!but!col!con!cul!dan!def!fas!fla!fli!foo!har!hea!hei!hol!hum!ins!kno!liq!loc!mac!met!mul!myt!nat!new!odo!old!par!per!pla!pls!pow!rou!sci!sma!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830819173
+  },
+  "3306": {
+    "id": "3306",
+    "attributes": {
+      "acc": -3,
+      "ali": 10,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": 5,
+      "def": -3,
+      "fas": -1,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": 5,
+      "new": -3,
+      "odo": -1,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -1,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 94,
+    "score": 20,
+    "signature": "~sha~fas~odo!acc!bea!big!bri!bui!but!clo!col!con!cul!def!fla!fli!foo!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!lon!mac!met!mul!myt!new!old!par!per!pla!pls!pow!rou!sci!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830843837
+  },
+  "3307": {
+    "id": "3307",
+    "attributes": {
+      "acc": -3,
+      "ali": 10,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -1,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": 5,
+      "new": -3,
+      "odo": -1,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -1,
+      "sou": -1,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 93,
+    "score": 15,
+    "signature": "~sou~lon~odo~sof!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hol!hum!ins!kno!liq!loc!mac!met!mul!myt!new!old!par!per!pla!pls!pow!rou!sci!sha!sma!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830847862
+  },
+  "3308": {
+    "id": "3308",
+    "attributes": {
+      "acc": -3,
+      "ali": 10,
+      "bea": -3,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -3,
+      "col": -3,
+      "con": -3,
+      "cul": -3,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -1,
+      "hei": -1,
+      "hol": -3,
+      "hum": -3,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -1,
+      "mac": -3,
+      "met": -3,
+      "mul": -3,
+      "myt": -3,
+      "nat": 5,
+      "new": -3,
+      "odo": -1,
+      "old": -3,
+      "par": -3,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 93,
+    "score": 15,
+    "signature": "~hei~lon~odo~hea!acc!bea!big!bri!bui!but!clo!col!con!cul!dan!def!fas!fla!fli!foo!fra!gra!har!hol!hum!ins!kno!liq!loc!mac!met!mul!myt!new!old!par!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830852838
+  },
+  "3310": {
+    "id": "3310",
+    "attributes": {
+      "acc": -3,
+      "ali": 10,
+      "bea": 5,
+      "big": -3,
+      "bri": -3,
+      "bui": -3,
+      "but": -3,
+      "clo": -1,
+      "col": -3,
+      "con": -3,
+      "cul": 5,
+      "dan": -3,
+      "def": -3,
+      "fas": -3,
+      "fla": -3,
+      "fli": -3,
+      "foo": -3,
+      "fra": -3,
+      "gra": -3,
+      "har": -3,
+      "hea": -3,
+      "hei": -3,
+      "hol": -3,
+      "hum": 10,
+      "ins": -3,
+      "kno": -3,
+      "liq": -3,
+      "loc": -3,
+      "lon": -3,
+      "mac": -3,
+      "met": -3,
+      "mul": 5,
+      "myt": -3,
+      "nat": -3,
+      "new": -1,
+      "odo": -3,
+      "old": -3,
+      "par": -1,
+      "per": -3,
+      "pla": -3,
+      "pls": -3,
+      "pow": -3,
+      "rou": -3,
+      "sci": -3,
+      "sha": -3,
+      "sma": -3,
+      "sof": -3,
+      "sou": -3,
+      "tab": -3,
+      "tec": -3,
+      "too": -3,
+      "toy": -3,
+      "tra": -3,
+      "val": -3,
+      "war": -3,
+      "wea": -3,
+      "woo": -3,
+      "wri": -3
+    },
+    "complete": true,
+    "reliability": 94,
+    "score": 35,
+    "signature": "~clo~new~par!acc!big!bri!bui!but!col!con!dan!def!fas!fla!fli!foo!fra!gra!har!hea!hei!hol!ins!kno!liq!loc!lon!mac!met!myt!nat!odo!old!per!pla!pls!pow!rou!sci!sha!sma!sof!sou!tab!tec!too!toy!tra!val!war!wea!woo!wri",
+    "updatedAt": 1777830857921
   }
 }
