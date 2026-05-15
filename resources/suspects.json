@@ -1322,7 +1322,7 @@
   "us-061": {
     "id": "us-061",
     "name": {
-      "en": "Samuel",
+      "en": "Samson",
       "pt": "Sandoval"
     },
     "gender": "male",
@@ -1994,7 +1994,7 @@
   "us-093": {
     "id": "us-093",
     "name": {
-      "en": "Owen",
+      "en": "Otis",
       "pt": "Otaviano"
     },
     "gender": "male",
@@ -2934,7 +2934,7 @@
     "id": "us-137",
     "name": {
       "en": "Karen",
-      "pt": "Márcia"
+      "pt": "Karen"
     },
     "gender": "female",
     "race": "white",
@@ -2995,8 +2995,8 @@
   "us-140": {
     "id": "us-140",
     "name": {
-      "en": "Raymond",
-      "pt": "Raimundo"
+      "en": "Lloyd",
+      "pt": "Lázaro"
     },
     "gender": "male",
     "race": "white",
@@ -3062,7 +3062,7 @@
     "id": "us-143",
     "name": {
       "en": "Peter",
-      "pt": "Pedro"
+      "pt": "Péter"
     },
     "gender": "male",
     "race": "white",
@@ -4045,7 +4045,7 @@
     "id": "us-190",
     "name": {
       "en": "Valerie",
-      "pt": "Valentina"
+      "pt": "Valéria"
     },
     "gender": "female",
     "race": "asian",
@@ -4270,612 +4270,925 @@
   "us-201": {
     "id": "us-201",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Renato",
+      "pt": "Renato"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "black",
+    "age": "30-40",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "headscarf",
+      "blackClothes",
+      "beard",
+      "blackHair",
+      "avoidingCamera",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-202": {
     "id": "us-202",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Genoveva",
+      "pt": "Genevieve"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "white",
+    "age": "70-80",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "earrings",
+      "headscarf",
+      "greenClothes",
+      "lipstick",
+      "shortHair",
+      "mediumHair",
+      "greyHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-203": {
     "id": "us-203",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Augustus",
+      "pt": "Augusto"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "30-40",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "glasses",
+      "tie",
+      "buttonShirt",
+      "whiteShirt",
+      "shortHair",
+      "blackHair",
+      "showTeeth",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-204": {
     "id": "us-204",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Ingrid",
+      "pt": "Ingrid"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "brown",
+    "age": "30-40",
+    "height": "medium",
+    "build": "muscular",
+    "features": [
+      "noAccessories",
+      "blueClothes",
+      "longHair",
+      "brownHair",
+      "avoidingCamera",
+      "hairTie"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-205": {
     "id": "us-205",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Jonas",
+      "pt": "Jonas"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "brown",
+    "age": "40-50",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "tie",
+      "blueClothes",
+      "buttonShirt",
+      "whiteShirt",
+      "blackHair",
+      "avoidingCamera",
+      "showTeeth",
+      "mustache",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-206": {
     "id": "us-206",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Victoria",
+      "pt": "Vitória"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "black",
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "hairTie",
+      "purpleClothes",
+      "lipstick",
+      "blackHair",
+      "hoodie",
+      "avoidingCamera",
+      "longHair",
+      "mediumHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-207": {
     "id": "us-207",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Donato",
+      "pt": "Donato"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "brown",
+    "age": "40-50",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "bow",
+      "hat",
+      "blackClothes",
+      "patternedShirt",
+      "whiteShirt",
+      "mustache",
+      "blackHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-208": {
     "id": "us-208",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Carla",
+      "pt": "Carla"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "white",
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "necklace",
+      "blackClothes",
+      "whiteShirt",
+      "lipstick",
+      "shortHair",
+      "brownHair",
+      "blondeHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-209": {
     "id": "us-209",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Steven",
+      "pt": "Estevão"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "brown",
+    "age": "30-40",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "necklace",
+      "blueClothes",
+      "buttonShirt",
+      "patternedShirt",
+      "beard",
+      "blackHair",
+      "hairyChest",
+      "avoidingCamera",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-210": {
     "id": "us-210",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Angelica",
+      "pt": "Ângela"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "brown",
+    "age": "50-60",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "earrings",
+      "buttonShirt",
+      "orangeClothes",
+      "patternedShirt",
+      "purpleClothes",
+      "lipstick",
+      "blackHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-211": {
     "id": "us-211",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Neil",
+      "pt": "Nilo"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "brown",
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "blueClothes",
+      "buttonShirt",
+      "beard",
+      "blackHair",
+      "showTeeth",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-212": {
     "id": "us-212",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Laura",
+      "pt": "Laura"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "white",
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "earrings",
+      "pinkClothes",
+      "lipstick",
+      "blondeHair",
+      "whiteShirt",
+      "longHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-213": {
     "id": "us-213",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Michael",
+      "pt": "Maicon"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "brown",
+    "age": "40-50",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "blackClothes",
+      "buttonShirt",
+      "blackHair",
+      "avoidingCamera",
+      "longHair",
+      "lipstick"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-214": {
     "id": "us-214",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Theresa",
+      "pt": "Teresa"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "brown",
+    "age": "40-50",
+    "height": "short",
+    "build": "large",
+    "features": [
+      "earrings",
+      "hairTie",
+      "blueClothes",
+      "patternedShirt",
+      "purpleClothes",
+      "blackHair",
+      "longHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-215": {
     "id": "us-215",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Jim",
+      "pt": "João"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "30-40",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "necklace",
+      "buttonShirt",
+      "whiteShirt",
+      "beard",
+      "brownHair",
+      "mediumHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-216": {
     "id": "us-216",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Liv",
+      "pt": "Lívia"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "asian",
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "purpleClothes",
+      "blackHair",
+      "longHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-217": {
     "id": "us-217",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Albert",
+      "pt": "Alberto"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "40-50",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "greenClothes",
+      "wearingStripes",
+      "yellowClothes",
+      "shortHair",
+      "bald",
+      "greyHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-218": {
     "id": "us-218",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Izzy",
+      "pt": "Isadora"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "white",
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "earrings",
+      "hairTie",
+      "necklace",
+      "pinkClothes",
+      "lipstick",
+      "longHair",
+      "brownHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-219": {
     "id": "us-219",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Jerome",
+      "pt": "Jerônimo"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "black",
+    "age": "21-30",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "necklace",
+      "blackClothes",
+      "beard",
+      "blackHair",
+      "avoidingCamera",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-220": {
     "id": "us-220",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Adrian",
+      "pt": "Adriano"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "40-50",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "necklace",
+      "buttonShirt",
+      "orangeClothes",
+      "patternedShirt",
+      "pinkClothes",
+      "purpleClothes",
+      "goatee",
+      "mustache",
+      "blondeHair",
+      "shortHair",
+      "showTeeth",
+      "hairyChest",
+      "glasses"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-221": {
     "id": "us-221",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Mitchell",
+      "pt": "Michel"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "30-40",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "hat",
+      "hoodie",
+      "blackClothes",
+      "brownClothes",
+      "greenClothes",
+      "beard",
+      "shortHair",
+      "brownHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-222": {
     "id": "us-222",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Maurice",
+      "pt": "Maurício"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "30-40",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "hoodie",
+      "blackClothes",
+      "shortHair",
+      "brownHair",
+      "beard"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-223": {
     "id": "us-223",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Milton",
+      "pt": "Milton"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "60-70",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "hat",
+      "blueClothes",
+      "whiteShirt",
+      "avoidingCamera",
+      "shortHair",
+      "greyHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-224": {
     "id": "us-224",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Lander",
+      "pt": "Leandro"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "asian",
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "blackClothes",
+      "blackHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-225": {
     "id": "us-225",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Chad",
+      "pt": "Tadeu"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "30-40",
+    "height": "medium",
+    "build": "muscular",
+    "features": [
+      "noAccessories",
+      "blackClothes",
+      "buttonShirt",
+      "blackHair",
+      "brownHair",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-226": {
     "id": "us-226",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Regina",
+      "pt": "Regina"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "black",
+    "age": "30-40",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "hairTie",
+      "purpleClothes",
+      "lipstick",
+      "avoidingCamera",
+      "brownHair",
+      "longHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-227": {
     "id": "us-227",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Samuel",
+      "pt": "Samuel"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "black",
+    "age": "18-21",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "necklace",
+      "blackClothes",
+      "goatee",
+      "mustache",
+      "blackHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-228": {
     "id": "us-228",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Sylvia",
+      "pt": "Sílvia"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "brown",
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "hairTie",
+      "blueClothes",
+      "greenClothes",
+      "blackHair",
+      "mediumHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-229": {
     "id": "us-229",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Marcela",
+      "pt": "Megan"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "white",
+    "age": "30-40",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "earrings",
+      "necklace",
+      "lipstick",
+      "blondeHair",
+      "whiteShirt",
+      "longHair"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-230": {
     "id": "us-230",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Thomas",
+      "pt": "Tomás"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "70-80",
+    "height": "short",
+    "build": "large",
+    "features": [
+      "shortHair",
+      "greyHair",
+      "bald",
+      "noAccessories",
+      "brownClothes"
+    ],
     "gbExclusive": true,
     "deck": "adult"
   },
   "us-231": {
     "id": "us-231",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Miles",
+      "pt": "Marcus Vinícius"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "0-10",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "blueClothes",
+      "whiteShirt",
+      "blondeHair",
+      "shortHair"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-232": {
     "id": "us-232",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Penny",
+      "pt": "Penélope"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "black",
+    "age": "0-10",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "hairTie",
+      "pinkClothes",
+      "mediumHair",
+      "brownHair"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-233": {
     "id": "us-233",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Dylan",
+      "pt": "Daniel"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "brown",
+    "age": "0-10",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "greenClothes",
+      "wearingStripes",
+      "shortHair",
+      "brownHair",
+      "showTeeth",
+      "noAccessories"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-234": {
     "id": "us-234",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Sandy",
+      "pt": "Sabrina"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "asian",
+    "age": "0-10",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "purpleClothes",
+      "blackHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-235": {
     "id": "us-235",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Brent",
+      "pt": "Breno"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "black",
+    "age": "0-10",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "glasses",
+      "redClothes",
+      "shortHair",
+      "brownHair"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-236": {
     "id": "us-236",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Alice",
+      "pt": "Alice"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "white",
+    "age": "0-10",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "wearingFlowers",
+      "yellowClothes",
+      "blondeHair",
+      "longHair"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-237": {
     "id": "us-237",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Isaac",
+      "pt": "Igor"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "white",
+    "age": "0-10",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "patternedShirt",
+      "wearingStripes",
+      "blondeHair",
+      "shortHair",
+      "avoidingCamera",
+      "whiteShirt",
+      "redClothes",
+      "blueClothes",
+      "yellowClothes"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-238": {
     "id": "us-238",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Anna",
+      "pt": "Aninha"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "brown",
+    "age": "0-10",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "hairTie",
+      "orangeClothes",
+      "showTeeth",
+      "longHair",
+      "brownHair",
+      "earrings"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-239": {
     "id": "us-239",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Linus",
+      "pt": "Lino"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "male",
+    "race": "asian",
+    "age": "0-10",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "glasses",
+      "buttonShirt",
+      "greenClothes",
+      "shortHair",
+      "brownHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-240": {
     "id": "us-240",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "Matilda",
+      "pt": "Matilda"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "gender": "female",
+    "race": "white",
+    "age": "0-10",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "hairTie",
+      "noAccessories",
+      "brownClothes",
+      "avoidingCamera",
+      "longHair",
+      "redHair",
+      "hoodie"
+    ],
     "gbExclusive": true,
     "deck": "kid"
   },
   "us-241": {
     "id": "us-241",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The dog",
+      "pt": "O cachorro"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -4885,12 +5198,12 @@
   "us-242": {
     "id": "us-242",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The cat",
+      "pt": "O gato"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -4900,12 +5213,12 @@
   "us-243": {
     "id": "us-243",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The turtle",
+      "pt": "A tartaruga"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -4915,12 +5228,12 @@
   "us-244": {
     "id": "us-244",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The bunny",
+      "pt": "O coelhinho"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -4930,12 +5243,12 @@
   "us-245": {
     "id": "us-245",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The hamster",
+      "pt": "O hamister"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -4945,12 +5258,12 @@
   "us-246": {
     "id": "us-246",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The bird",
+      "pt": "O periquito"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -4960,12 +5273,12 @@
   "us-247": {
     "id": "us-247",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The goldfish",
+      "pt": "O peixe"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -4975,12 +5288,12 @@
   "us-248": {
     "id": "us-248",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The Iguana",
+      "pt": "A iguana"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -4990,12 +5303,12 @@
   "us-249": {
     "id": "us-249",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The tarantula",
+      "pt": "A aranha"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
@@ -5005,12 +5318,12 @@
   "us-250": {
     "id": "us-250",
     "name": {
-      "en": "",
-      "pt": ""
+      "en": "The plant",
+      "pt": "A planta"
     },
-    "gender": "",
-    "race": "",
-    "age": "",
+    "gender": "other",
+    "race": "other",
+    "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
