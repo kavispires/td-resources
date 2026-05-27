@@ -6,6 +6,10 @@
         "en": "Action",
         "pt": "Ação"
       },
+      "description": {
+        "en": "High-energy stories driven by physical feats and fast-paced sequences.",
+        "pt": "Histórias cheias de energia focadas em ação física e ritmo acelerado."
+      },
       "rolesIds": ["protagonist", "sidekick"],
       "rating": 2
     },
@@ -14,6 +18,10 @@
       "name": {
         "en": "Comedy",
         "pt": "Comédia"
+      },
+      "description": {
+        "en": "Humorous stories designed to amuse and provoke laughter.",
+        "pt": "Histórias engraçadas criadas para divertir e provocar risadas."
       },
       "rolesIds": ["protagonist", "comic-relief"],
       "rating": 1
@@ -24,6 +32,10 @@
         "en": "Drama",
         "pt": "Drama"
       },
+      "description": {
+        "en": "Serious stories focusing on realistic characters and emotional themes.",
+        "pt": "Histórias sérias com foco em personagens realistas e temas emocionais."
+      },
       "rolesIds": ["protagonist", "family-member"],
       "rating": 2
     },
@@ -33,6 +45,10 @@
         "en": "Horror",
         "pt": "Terror"
       },
+      "description": {
+        "en": "Scary stories intended to frighten and induce panic.",
+        "pt": "Histórias assustadoras com o objetivo de dar medo e causar pânico."
+      },
       "rolesIds": ["protagonist", "first-to-die"],
       "rating": 2
     },
@@ -41,6 +57,10 @@
       "name": {
         "en": "Sci-Fi",
         "pt": "Ficção Científica"
+      },
+      "description": {
+        "en": "Stories exploring imaginative and futuristic concepts, technology, or space.",
+        "pt": "Histórias que exploram conceitos futuristas, tecnologia e o espaço."
       },
       "rolesIds": ["protagonist", "ally"],
       "rating": 1
@@ -53,6 +73,10 @@
         "en": "Crime",
         "pt": "Crime"
       },
+      "description": {
+        "en": "Focuses on the illicit actions of criminals and outlaws.",
+        "pt": "Foca nas ações ilícitas de criminosos e bandidos."
+      },
       "rating": 2,
       "rolesIds": ["villain", "henchman", "eye-candy", "family-member", "extra"]
     },
@@ -61,6 +85,10 @@
       "name": {
         "en": "Adventure",
         "pt": "Aventura"
+      },
+      "description": {
+        "en": "An epic journey involving discovery, exploration, and risk.",
+        "pt": "Uma jornada épica que envolve descobertas, exploração e perigos."
       },
       "rating": 1,
       "rolesIds": ["villain", "mentor", "love-interest", "partner", "extra"]
@@ -71,6 +99,10 @@
         "en": "Fantasy",
         "pt": "Fantasia"
       },
+      "description": {
+        "en": "Rooted in magic, mythical creatures, and imaginary worlds.",
+        "pt": "Baseado em magia, criaturas míticas e mundos imaginários."
+      },
       "rating": 1,
       "rolesIds": ["villain", "mentor", "comic-relief", "best-friend", "extra"]
     },
@@ -79,6 +111,10 @@
       "name": {
         "en": "War",
         "pt": "Guerra"
+      },
+      "description": {
+        "en": "Set against the backdrop of an armed, large-scale conflict.",
+        "pt": "Ambientado no cenário de um conflito armado de grande escala."
       },
       "rating": 2,
       "rolesIds": ["antagonist", "mentor", "partner", "love-interest", "victim"]
@@ -89,6 +125,10 @@
         "en": "Epic",
         "pt": "Épico"
       },
+      "description": {
+        "en": "A grand-scale story with sweeping themes and heroic journeys.",
+        "pt": "Uma história grandiosa com temas abrangentes e jornadas heroicas."
+      },
       "rating": 2,
       "rolesIds": ["antagonist", "love-interest", "narrator", "victim"]
     },
@@ -97,6 +137,10 @@
       "name": {
         "en": "Western",
         "pt": "Faroeste"
+      },
+      "description": {
+        "en": "Set in the American Old West with cowboys and outlaws.",
+        "pt": "Ambientado no Velho Oeste americano, focado em caubóis e foras da lei."
       },
       "rating": 2,
       "rolesIds": ["villain", "love-interest", "narrator", "extra"]
@@ -107,6 +151,10 @@
         "en": "Romance",
         "pt": "Romance"
       },
+      "description": {
+        "en": "Driven by the development of a passionate romantic relationship.",
+        "pt": "Movido pelo desenvolvimento de um relacionamento amoroso e passional."
+      },
       "rating": 1,
       "rolesIds": ["antagonist", "love-interest", "best-friend", "family-member"]
     },
@@ -115,6 +163,10 @@
       "name": {
         "en": "Supernatural",
         "pt": "Sobrenatural"
+      },
+      "description": {
+        "en": "Involves paranormal elements, ghosts, demons, or psychic phenomena.",
+        "pt": "Envolve elementos paranormais, fantasmas, demônios ou fenômenos psíquicos."
       },
       "rating": 2,
       "rolesIds": ["antagonist", "victim", "mentor", "family-member", "extra"]
@@ -125,6 +177,10 @@
         "en": "Space",
         "pt": "Espaço"
       },
+      "description": {
+        "en": "Set mostly in outer space or on alien planets.",
+        "pt": "Ambientado principalmente no espaço sideral ou em planetas alienígenas."
+      },
       "rating": 1,
       "rolesIds": ["antagonist", "family-member", "mentor", "extra"]
     },
@@ -134,17 +190,25 @@
         "en": "Monster/Alien",
         "pt": "Monstro/Alienígena"
       },
+      "description": {
+        "en": "Features a terrifying creature or extraterrestrial being as the threat.",
+        "pt": "Apresenta uma criatura aterrorizante ou extraterrestre como a grande ameaça."
+      },
       "rating": 2,
       "rolesIds": ["antagonist", "sidekick", "love-interest", "victim"]
     },
-    "murderer": {
-      "id": "murderer",
+    "mystery": {
+      "id": "mystery",
       "name": {
-        "en": "Murderer",
-        "pt": "Assassino"
+        "en": "Mystery",
+        "pt": "Mistério"
       },
-      "rating": 3,
-      "rolesIds": ["villain", "best-friend", "victim", "eye-candy"]
+      "description": {
+        "en": "Revolves around solving a puzzle, crime, or unknown secret.",
+        "pt": "Gira em torno de solucionar um quebra-cabeça, crime ou segredo."
+      },
+      "rating": 2,
+      "rolesIds": ["mastermind", "witness", "expert", "victim", "bystander"]
     },
     "disaster": {
       "id": "disaster",
@@ -152,8 +216,51 @@
         "en": "Disaster",
         "pt": "Desastre"
       },
+      "description": {
+        "en": "Characters struggle to survive a massive natural or artificial catastrophe.",
+        "pt": "Personagens lutam para sobreviver a uma catástrofe colossal."
+      },
       "rating": 1,
       "rolesIds": ["antagonist", "love-interest", "family-member", "victim", "first-to-die"]
+    },
+    "sports": {
+      "id": "sports",
+      "name": {
+        "en": "Sports",
+        "pt": "Esportes"
+      },
+      "description": {
+        "en": "Centers around athletic competition, training, and team dynamics.",
+        "pt": "Focado em competições atléticas, treinamento e dinâmica de equipe."
+      },
+      "rating": 1,
+      "rolesIds": ["rival", "authority-figure", "partner", "ally", "extra"]
+    },
+    "heist": {
+      "id": "heist",
+      "name": {
+        "en": "Heist",
+        "pt": "Assalto"
+      },
+      "description": {
+        "en": "Focuses on the planning and execution of a complex robbery.",
+        "pt": "Foca no planejamento e execução de um roubo complexo."
+      },
+      "rating": 2,
+      "rolesIds": ["mastermind", "expert", "wildcard", "partner", "antagonist"]
+    },
+    "coming-of-age": {
+      "id": "coming-of-age",
+      "name": {
+        "en": "Coming-of-Age",
+        "pt": "Amadurecimento"
+      },
+      "description": {
+        "en": "Explores the psychological and moral growth from youth to adulthood.",
+        "pt": "Explora o crescimento moral e psicológico da juventude à vida adulta."
+      },
+      "rating": 1,
+      "rolesIds": ["rival", "authority-figure", "best-friend", "love-interest", "comic-relief"]
     }
   },
   "features": {
@@ -162,6 +269,10 @@
       "name": {
         "en": "Superhero",
         "pt": "Super-herói"
+      },
+      "description": {
+        "en": "Features characters with extraordinary abilities protecting the public.",
+        "pt": "Apresenta personagens com habilidades extraordinárias protegendo o público."
       },
       "probability": 0.1,
       "rating": 1
@@ -172,6 +283,10 @@
         "en": "Animation",
         "pt": "Animação"
       },
+      "description": {
+        "en": "A fully animated visual style instead of live-action.",
+        "pt": "Um estilo visual totalmente animado em vez de live-action."
+      },
       "probability": 0.1,
       "rating": -1
     },
@@ -181,6 +296,10 @@
         "en": "Musical",
         "pt": "Musical"
       },
+      "description": {
+        "en": "Characters break into song and dance to express themselves.",
+        "pt": "Os personagens começam a cantar e dançar para se expressarem."
+      },
       "probability": 0.05,
       "rating": 1
     },
@@ -188,7 +307,11 @@
       "id": "true-events",
       "name": {
         "en": "Based on true events",
-        "pt": "Baseado em fatos retais"
+        "pt": "Baseado em fatos reais"
+      },
+      "description": {
+        "en": "A narrative inspired by real historical occurrences.",
+        "pt": "Uma narrativa inspirada por acontecimentos reais e históricos."
       },
       "probability": 0.05,
       "rating": 2
@@ -199,6 +322,10 @@
         "en": "Sensual",
         "pt": "Sensual"
       },
+      "description": {
+        "en": "Contains themes, scenes, or dialogue meant for adult audiences.",
+        "pt": "Contém temas, cenas ou diálogos voltados para o público adulto."
+      },
       "probability": 0.05,
       "rating": 3
     },
@@ -207,6 +334,10 @@
       "name": {
         "en": "Post-apocalyptic",
         "pt": "Pós-apocalíptico"
+      },
+      "description": {
+        "en": "Takes place in a world after a catastrophic societal collapse.",
+        "pt": "Ocorre em um mundo após um colapso catastrófico da sociedade."
       },
       "probability": 0.05,
       "rating": 2
@@ -217,6 +348,10 @@
         "en": "Violent",
         "pt": "Violento"
       },
+      "description": {
+        "en": "Features graphic physical conflict and brutality.",
+        "pt": "Apresenta conflitos físicos intensos e grande brutalidade."
+      },
       "probability": 0.1,
       "rating": 2
     },
@@ -225,6 +360,10 @@
       "name": {
         "en": "The antagonist wins in the end",
         "pt": "O antagonista vence no final"
+      },
+      "description": {
+        "en": "The story concludes with the antagonist achieving their goals.",
+        "pt": "A história termina com o antagonista alcançando seus objetivos."
       },
       "probability": 0.1,
       "rating": 1
@@ -235,6 +374,10 @@
         "en": "Many Flashbacks",
         "pt": "Muitos Flashbacks"
       },
+      "description": {
+        "en": "Relies heavily on scenes from the past to provide context.",
+        "pt": "Usa muitas cenas do passado para explicar o contexto."
+      },
       "probability": 0.1,
       "rating": 1
     },
@@ -242,10 +385,92 @@
       "id": "black-white",
       "name": {
         "en": "In black and white",
-        "pt": "em preto e branco"
+        "pt": "Em preto e branco"
+      },
+      "description": {
+        "en": "Presented entirely in monochrome without colors.",
+        "pt": "Apresentado inteiramente em tom monocromático, sem cores."
       },
       "probability": 0.05,
       "rating": 1
+    },
+    "found-footage": {
+      "id": "found-footage",
+      "name": {
+        "en": "Found Footage",
+        "pt": "Câmera na Mão"
+      },
+      "description": {
+        "en": "Presented as discovered video recordings left behind by the characters.",
+        "pt": "Apresentado como gravações de vídeo descobertas deixadas pelos personagens."
+      },
+      "probability": 0.05,
+      "rating": 1
+    },
+    "period-piece": {
+      "id": "period-piece",
+      "name": {
+        "en": "Period Piece",
+        "pt": "De Época"
+      },
+      "description": {
+        "en": "Set in a specific historical era with accurate costumes and settings.",
+        "pt": "Ambientado em uma era histórica específica com figurinos e cenários precisos."
+      },
+      "probability": 0.1,
+      "rating": 2
+    },
+    "silent-film": {
+      "id": "silent-film",
+      "name": {
+        "en": "Silent Film",
+        "pt": "Filme Mudo"
+      },
+      "description": {
+        "en": "No spoken dialogue, relying on physical acting and title cards.",
+        "pt": "Sem diálogos falados, dependendo de atuação física e cartões de título."
+      },
+      "probability": 0.05,
+      "rating": 1
+    },
+    "time-travel": {
+      "id": "time-travel",
+      "name": {
+        "en": "Time Travel",
+        "pt": "Viagem no Tempo"
+      },
+      "description": {
+        "en": "Characters move backward or forward through time, altering events.",
+        "pt": "Personagens viajam para o passado ou futuro, alterando os acontecimentos."
+      },
+      "probability": 0.1,
+      "rating": 2
+    },
+    "holiday": {
+      "id": "holiday",
+      "name": {
+        "en": "Holiday",
+        "pt": "Feriado"
+      },
+      "description": {
+        "en": "The story takes place during a major festive holiday.",
+        "pt": "A história se passa durante um grande feriado festivo."
+      },
+      "probability": 0.05,
+      "rating": 1
+    },
+    "zombies": {
+      "id": "zombies",
+      "name": {
+        "en": "Zombies",
+        "pt": "Zumbis"
+      },
+      "description": {
+        "en": "Features reanimated corpses that aggressively attack the living.",
+        "pt": "Apresenta cadáveres reanimados que atacam agressivamente os vivos."
+      },
+      "probability": 0.05,
+      "rating": 2
     }
   },
   "roles": {
@@ -270,8 +495,8 @@
         "pt": "Antagonista"
       },
       "description": {
-        "en": "The character who opposes the protagonist.",
-        "pt": "O personagem que se opõe ao protagonista."
+        "en": "The character who directly opposes the protagonist.",
+        "pt": "O personagem que se opõe diretamente ao protagonista."
       },
       "complexity": 3,
       "pool": "large",
@@ -284,8 +509,8 @@
         "pt": "Parceiro"
       },
       "description": {
-        "en": "The character who accompanies the protagonist.",
-        "pt": "O personagem que acompanha o protagonista."
+        "en": "The loyal companion accompanying the protagonist.",
+        "pt": "O companheiro leal que acompanha o protagonista."
       },
       "complexity": 2,
       "pool": "medium",
@@ -298,8 +523,8 @@
         "pt": "Mentor"
       },
       "description": {
-        "en": "The character who guides the protagonist.",
-        "pt": "O personagem que guia o protagonista."
+        "en": "The wise figure guiding the protagonist.",
+        "pt": "A figura sábia que guia o protagonista."
       },
       "complexity": 2,
       "pool": "medium",
@@ -312,8 +537,8 @@
         "pt": "Interesse Amoroso"
       },
       "description": {
-        "en": "The character who is romantically involved with the protagonist.",
-        "pt": "O personagem que se envolve romanticamente com o protagonista."
+        "en": "The character romantically involved with the protagonist.",
+        "pt": "O personagem romanticamente envolvido com o protagonista."
       },
       "complexity": 2,
       "pool": "medium",
@@ -326,8 +551,8 @@
         "pt": "Alívio Cômico"
       },
       "description": {
-        "en": "The character who provides humor in the story.",
-        "pt": "O personagem que fornece humor na história."
+        "en": "The character who provides humor and lightens the mood.",
+        "pt": "O personagem que traz humor e alivia a tensão."
       },
       "complexity": 1,
       "pool": "small",
@@ -340,8 +565,8 @@
         "pt": "Vilão"
       },
       "description": {
-        "en": "The character who is evil and opposes the protagonist.",
-        "pt": "O personagem que é malvado e se opõe ao protagonista."
+        "en": "The evil character driving the central conflict.",
+        "pt": "O personagem malvado que move o conflito central."
       },
       "complexity": 3,
       "pool": "large",
@@ -354,8 +579,8 @@
         "pt": "Capanga"
       },
       "description": {
-        "en": "The character who assists the villain.",
-        "pt": "O personagem que ajuda o vilão."
+        "en": "A loyal subordinate executing the villain's orders.",
+        "pt": "Um subordinado leal que executa as ordens do vilão."
       },
       "complexity": 2,
       "pool": "medium",
@@ -368,8 +593,8 @@
         "pt": "Pessoa Comum"
       },
       "description": {
-        "en": "The character who is not involved in the main conflict.",
-        "pt": "O personagem que não está envolvido no conflito principal."
+        "en": "A common person uninvolved in the main conflict.",
+        "pt": "Uma pessoa comum não envolvida no conflito principal."
       },
       "complexity": 1,
       "pool": "small",
@@ -382,8 +607,8 @@
         "pt": "Figurante"
       },
       "description": {
-        "en": "The character who has a minor role in the story.",
-        "pt": "O personagem que tem um papel secundário na história."
+        "en": "A background character with a minor role.",
+        "pt": "Um personagem de fundo com um papel secundário."
       },
       "complexity": 1,
       "pool": "small",
@@ -396,8 +621,8 @@
         "pt": "Aliado"
       },
       "description": {
-        "en": "The character who helps the protagonist.",
-        "pt": "O personagem que ajuda o protagonista."
+        "en": "A reliable character who assists the protagonist.",
+        "pt": "Um personagem confiável que ajuda o protagonista."
       },
       "complexity": 2,
       "pool": "medium",
@@ -410,8 +635,8 @@
         "pt": "Melhor Amigo"
       },
       "description": {
-        "en": "The character who is the protagonist's closest friend.",
-        "pt": "O personagem que é o amigo mais próximo do protagonista."
+        "en": "The protagonist's closest and most trusted confidant.",
+        "pt": "O confidente mais próximo e de confiança do protagonista."
       },
       "complexity": 2,
       "pool": "medium",
@@ -424,8 +649,8 @@
         "pt": "Membro da Família"
       },
       "description": {
-        "en": "The character who is related to the protagonist.",
-        "pt": "O personagem que é parente do protagonista."
+        "en": "A character related to the protagonist by blood or marriage.",
+        "pt": "Um parente do protagonista, por sangue ou casamento."
       },
       "complexity": 2,
       "pool": "medium",
@@ -438,8 +663,8 @@
         "pt": "Primeiro a Morrer"
       },
       "description": {
-        "en": "The character who dies early in the story.",
-        "pt": "O personagem que morre cedo na história."
+        "en": "The unlucky character eliminated early to establish danger.",
+        "pt": "O personagem azarado eliminado cedo para estabelecer o perigo."
       },
       "complexity": 1,
       "pool": "small",
@@ -452,8 +677,8 @@
         "pt": "Narrador"
       },
       "description": {
-        "en": "The character who tells the story.",
-        "pt": "O personagem que conta a história."
+        "en": "The voice or character recounting the events.",
+        "pt": "A voz ou personagem que narra os acontecimentos."
       },
       "complexity": 2,
       "pool": "medium",
@@ -466,8 +691,8 @@
         "pt": "O(A) Bonitão(Gata)"
       },
       "description": {
-        "en": "The character who is attractive but has no depth.",
-        "pt": "O personagem que é atraente mas não tem profundidade."
+        "en": "An attractive character providing visual appeal.",
+        "pt": "Um personagem atraente que atrai o olhar."
       },
       "complexity": 1,
       "pool": "small",
@@ -480,8 +705,8 @@
         "pt": "Vítima"
       },
       "description": {
-        "en": "The character who suffers harm in the story.",
-        "pt": "O personagem que sofre danos na história."
+        "en": "A character who suffers harm to raise the stakes.",
+        "pt": "Um personagem que sofre danos para aumentar o perigo."
       },
       "complexity": 1,
       "pool": "small",
@@ -494,8 +719,92 @@
         "pt": "Parceiro"
       },
       "description": {
-        "en": "The character who works with the protagonist.",
-        "pt": "O personagem que trabalha com o protagonista."
+        "en": "The character who works as an equal alongside the protagonist.",
+        "pt": "O personagem que trabalha como igual ao lado do protagonista."
+      },
+      "complexity": 2,
+      "pool": "medium",
+      "type": "secondary"
+    },
+    "mastermind": {
+      "id": "mastermind",
+      "title": {
+        "en": "Mastermind",
+        "pt": "O Mestre"
+      },
+      "description": {
+        "en": "The character orchestrating the events, either good or evil.",
+        "pt": "O personagem que orquestra os eventos, seja para o bem ou mal."
+      },
+      "complexity": 3,
+      "pool": "medium",
+      "type": "anti"
+    },
+    "rival": {
+      "id": "rival",
+      "title": {
+        "en": "Rival",
+        "pt": "O Rival"
+      },
+      "description": {
+        "en": "A peer competing directly with the protagonist.",
+        "pt": "Um colega competindo diretamente com o protagonista."
+      },
+      "complexity": 2,
+      "pool": "medium",
+      "type": "secondary"
+    },
+    "authority-figure": {
+      "id": "authority-figure",
+      "title": {
+        "en": "Authority Figure",
+        "pt": "A Autoridade"
+      },
+      "description": {
+        "en": "A character holding power or control over the protagonist.",
+        "pt": "Um personagem com poder ou controle sobre o protagonista."
+      },
+      "complexity": 2,
+      "pool": "medium",
+      "type": "secondary"
+    },
+    "expert": {
+      "id": "expert",
+      "title": {
+        "en": "Expert",
+        "pt": "O Especialista"
+      },
+      "description": {
+        "en": "A character possessing rare or highly specific knowledge.",
+        "pt": "Um personagem com conhecimentos raros ou muito específicos."
+      },
+      "complexity": 2,
+      "pool": "medium",
+      "type": "supporting"
+    },
+    "witness": {
+      "id": "witness",
+      "title": {
+        "en": "Witness",
+        "pt": "A Testemunha"
+      },
+      "description": {
+        "en": "A character who saw the crucial inciting incident.",
+        "pt": "Um personagem que testemunhou o importante incidente inicial."
+      },
+      "complexity": 1,
+      "pool": "small",
+      "type": "secondary"
+    },
+    "wildcard": {
+      "id": "wildcard",
+      "title": {
+        "en": "Wildcard",
+        "pt": "O Imprevisível"
+      },
+      "description": {
+        "en": "An erratic character whose actions are entirely unpredictable.",
+        "pt": "Um personagem errático cujas ações são totalmente imprevisíveis."
       },
       "complexity": 2,
       "pool": "medium",
