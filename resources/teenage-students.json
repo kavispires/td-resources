@@ -13,7 +13,7 @@
 		"gender": "male",
 		"ethnicity": "white",
 		"age": "sophomore",
-		"build": "medium",
+		"build": "average",
 		"height": "tall"
 	},
 	"tsc-02": {
@@ -30,7 +30,7 @@
 		"gender": "female",
 		"ethnicity": "white",
 		"age": "senior",
-		"build": "medium",
+		"build": "average",
 		"height": "medium"
 	},
 	"tsc-03": {
@@ -41,7 +41,7 @@
 		},
 		"name": {
 			"en": "Carlos Ramirez",
-			"pt": "Carlos Ribeiro"
+			"pt": "Carlos Ramos"
 		},
 		"socialGroupId": "jocks",
 		"gender": "male",
@@ -57,7 +57,7 @@
 			"pt": "A corredora"
 		},
 		"name": {
-			"en": "Sofia Morales",
+			"en": "Sabrina Morales",
 			"pt": "Sabrina Martins"
 		},
 		"socialGroupId": "jocks",
@@ -104,7 +104,7 @@
 	"tsc-07": {
 		"id": "tsc-07",
 		"title": {
-			"en": "The Druggie",
+			"en": "The Junkie",
 			"pt": "O drogado"
 		},
 		"name": {
@@ -132,7 +132,7 @@
 		"gender": "male",
 		"ethnicity": "ginger",
 		"age": "senior",
-		"build": "medium",
+		"build": "average",
 		"height": "tall"
 	},
 	"tsc-09": {
@@ -149,7 +149,7 @@
 		"gender": "female",
 		"ethnicity": "white",
 		"age": "junior",
-		"build": "medium",
+		"build": "average",
 		"height": "short"
 	},
 	"tsc-10": {
@@ -217,7 +217,7 @@
 		"gender": "male",
 		"ethnicity": "black",
 		"age": "junior",
-		"build": "medium",
+		"build": "average",
 		"height": "medium"
 	},
 	"tsc-14": {
@@ -245,7 +245,7 @@
 		},
 		"name": {
 			"en": "Olivia Taylor",
-			"pt": "Olívia Torres"
+			"pt": "Olívia Toledo"
 		},
 		"socialGroupId": "leaders",
 		"gender": "female",
@@ -257,19 +257,19 @@
 	"tsc-16": {
 		"id": "tsc-16",
 		"title": {
-			"en": "The Principal's son",
-			"pt": "O filho do diretor"
+			"en": "The Overachiever Burnout",
+			"pt": "O burnout esforçado"
 		},
 		"name": {
-			"en": "William Adams",
-			"pt": "Wesley Alves"
+			"en": "Valerie Carlton",
+			"pt": "Valéria Campos"
 		},
 		"socialGroupId": "leaders",
-		"gender": "male",
+		"gender": "female",
 		"ethnicity": "white",
-		"age": "junior",
-		"build": "small",
-		"height": "short"
+		"age": "senior",
+		"build": "average",
+		"height": "medium"
 	},
 	"tsc-17": {
 		"id": "tsc-17",
@@ -285,7 +285,7 @@
 		"gender": "male",
 		"ethnicity": "asian",
 		"age": "sophomore",
-		"build": "medium",
+		"build": "average",
 		"height": "tall"
 	},
 	"tsc-18": {
@@ -315,7 +315,7 @@
 			"en": "Arjun Patel",
 			"pt": "Arun Patel"
 		},
-		"socialGroupId": "immigrants",
+		"socialGroupId": "outsiders",
 		"gender": "male",
 		"ethnicity": "indian",
 		"age": "junior",
@@ -332,7 +332,7 @@
 			"en": "Layla Ahmed",
 			"pt": "Laila Ahmed"
 		},
-		"socialGroupId": "immigrants",
+		"socialGroupId": "outsiders",
 		"gender": "female",
 		"ethnicity": "muslin",
 		"age": "junior",
@@ -349,7 +349,7 @@
 			"en": "Zhang Wei",
 			"pt": "Zhang Wei"
 		},
-		"socialGroupId": "immigrants",
+		"socialGroupId": "outsiders",
 		"gender": "male",
 		"ethnicity": "asian",
 		"age": "sophomore",
@@ -366,7 +366,7 @@
 			"en": "Alejandro Garcia",
 			"pt": "Alexandre Garcia"
 		},
-		"socialGroupId": "immigrants",
+		"socialGroupId": "outsiders",
 		"gender": "male",
 		"ethnicity": "latino",
 		"age": "senior",
@@ -383,29 +383,29 @@
 			"en": "Maya Kawadero-Mbaye",
 			"pt": "Mirela Kawadero-Mbaye"
 		},
-		"socialGroupId": "immigrants",
+		"socialGroupId": "outsiders",
 		"gender": "female",
 		"ethnicity": "unknown",
 		"age": "senior",
-		"build": "medium",
+		"build": "average",
 		"height": "medium"
 	},
 	"tsc-24": {
 		"id": "tsc-24",
 		"title": {
-			"en": "The religious",
-			"pt": "A religiosa"
+			"en": "The Rural Kid",
+			"pt": "O caipira"
 		},
 		"name": {
-			"en": "Sarah Evans",
-			"pt": "Sara Esteves"
+			"en": "Benjamin Ford",
+			"pt": "Benjamim Fernandes"
 		},
-		"socialGroupId": "immigrants",
-		"gender": "female",
+		"socialGroupId": "outsiders",
+		"gender": "male",
 		"ethnicity": "white",
-		"age": "sophomore",
-		"build": "medium",
-		"height": "short"
+		"age": "junior",
+		"build": "large",
+		"height": "tall"
 	},
 	"tsc-25": {
 		"id": "tsc-25",
@@ -444,18 +444,18 @@
 	"tsc-27": {
 		"id": "tsc-27",
 		"title": {
-			"en": "The golden daughter",
-			"pt": "A filha dourada"
+			"en": "The Mean Girl's Sidekick",
+			"pt": "A amiga da garota má"
 		},
 		"name": {
-			"en": "Isabella Carter",
-			"pt": "Isabela Albuquerque"
+			"en": "Victoria Vance",
+			"pt": "Vitória Valente"
 		},
 		"socialGroupId": "jet-set",
 		"gender": "female",
 		"ethnicity": "white",
 		"age": "sophomore",
-		"build": "large",
+		"build": "average",
 		"height": "short"
 	},
 	"tsc-28": {
@@ -472,7 +472,7 @@
 		"gender": "female",
 		"ethnicity": "white",
 		"age": "junior",
-		"build": "medium",
+		"build": "average",
 		"height": "tall"
 	},
 	"tsc-29": {
@@ -483,7 +483,7 @@
 		},
 		"name": {
 			"en": "Javier Martinez",
-			"pt": "João Mendes"
+			"pt": "Jorge Mendes"
 		},
 		"socialGroupId": "jet-set",
 		"gender": "male",
@@ -506,7 +506,7 @@
 		"gender": "female",
 		"ethnicity": "white",
 		"age": "senior",
-		"build": "medium",
+		"build": "average",
 		"height": "short"
 	},
 	"tsc-31": {
@@ -557,7 +557,7 @@
 		"gender": "female",
 		"ethnicity": "indian",
 		"age": "sophomore",
-		"build": "medium",
+		"build": "average",
 		"height": "medium"
 	},
 	"tsc-34": {
@@ -568,7 +568,7 @@
 		},
 		"name": {
 			"en": "Dylan Matthews",
-			"pt": "Diego Martins"
+			"pt": "Diego Macedo"
 		},
 		"socialGroupId": "nerds",
 		"gender": "male",
@@ -584,8 +584,8 @@
 			"pt": "O fã de anime"
 		},
 		"name": {
-			"en": "Ryan Reed",
-			"pt": "Ricardo Torres"
+			"en": "Ryan Rogers",
+			"pt": "Ricardo Rocha"
 		},
 		"socialGroupId": "nerds",
 		"gender": "male",
@@ -601,14 +601,14 @@
 			"pt": "A hacker"
 		},
 		"name": {
-			"en": "Abigail Miller",
-			"pt": "Ana Mendes"
+			"en": "Abigail Morris",
+			"pt": "Ana Meneses"
 		},
 		"socialGroupId": "nerds",
 		"gender": "female",
 		"ethnicity": "white",
 		"age": "junior",
-		"build": "medium",
+		"build": "average",
 		"height": "short"
 	},
 	"tsc-37": {
@@ -635,14 +635,14 @@
 			"pt": "A cega"
 		},
 		"name": {
-			"en": "Hannah Walker",
-			"pt": "Helena Oliveira"
+			"en": "Hannah Wright",
+			"pt": "Helena Werner"
 		},
 		"socialGroupId": "special-needs",
 		"gender": "female",
 		"ethnicity": "white",
 		"age": "junior",
-		"build": "medium",
+		"build": "average",
 		"height": "tall"
 	},
 	"tsc-39": {
@@ -659,7 +659,7 @@
 		"gender": "male",
 		"ethnicity": "white",
 		"age": "sophomore",
-		"build": "medium",
+		"build": "average",
 		"height": "short"
 	},
 	"tsc-40": {
@@ -682,24 +682,24 @@
 	"tsc-41": {
 		"id": "tsc-41",
 		"title": {
-			"en": "The observer",
-			"pt": "O observador"
+			"en": "The Kid with the Body Brace",
+			"pt": "O garoto com o colete ortopédico"
 		},
 		"name": {
-			"en": "Noah Richardson",
-			"pt": "Nicolas Barbosa"
+			"en": "Penelope Dawson",
+			"pt": "Penélope Diniz"
 		},
 		"socialGroupId": "special-needs",
-		"gender": "male",
+		"gender": "female",
 		"ethnicity": "white",
-		"age": "junior",
-		"build": "small",
+		"age": "senior",
+		"build": "average",
 		"height": "medium"
 	},
 	"tsc-42": {
 		"id": "tsc-42",
 		"title": {
-			"en": "The non-confident fattie",
+			"en": "The Self-conscious Fat Kid",
 			"pt": "O gordinho inseguro"
 		},
 		"name": {
@@ -720,8 +720,8 @@
 			"pt": "A gótica"
 		},
 		"name": {
-			"en": "Raven Adams",
-			"pt": "Raquel Costa"
+			"en": "Raven Allen",
+			"pt": "Raquel Alves"
 		},
 		"socialGroupId": "outcasts",
 		"gender": "female",
@@ -737,14 +737,14 @@
 			"pt": "O metaleiro"
 		},
 		"name": {
-			"en": "Travis Johnson",
+			"en": "Travis Jensen",
 			"pt": "Thiago Jordão"
 		},
 		"socialGroupId": "outcasts",
 		"gender": "male",
 		"ethnicity": "white",
 		"age": "senior",
-		"build": "medium",
+		"build": "average",
 		"height": "medium"
 	},
 	"tsc-45": {
@@ -755,7 +755,7 @@
 		},
 		"name": {
 			"en": "Luna Blackwell",
-			"pt": "Lívia Barbosa"
+			"pt": "Lívia Borges"
 		},
 		"socialGroupId": "outcasts",
 		"gender": "female",
@@ -795,7 +795,7 @@
 		"gender": "female",
 		"ethnicity": "white",
 		"age": "junior",
-		"build": "medium",
+		"build": "average",
 		"height": "tall"
 	},
 	"tsc-48": {
@@ -805,8 +805,8 @@
 			"pt": "O colecionador de insetos"
 		},
 		"name": {
-			"en": "Ben Carter",
-			"pt": "Bruno Cardoso"
+			"en": "Ben Cooper",
+			"pt": "Bruno Costa"
 		},
 		"socialGroupId": "outcasts",
 		"gender": "male",
@@ -840,7 +840,7 @@
 		},
 		"name": {
 			"en": "Emily Mitchell",
-			"pt": "Evelyn Weisz"
+			"pt": "Evelyn Moreira"
 		},
 		"socialGroupId": "arts",
 		"gender": "female",
@@ -863,23 +863,23 @@
 		"gender": "male",
 		"ethnicity": "black",
 		"age": "senior",
-		"build": "medium",
+		"build": "average",
 		"height": "short"
 	},
 	"tsc-52": {
 		"id": "tsc-52",
 		"title": {
-			"en": "The chatterbox",
-			"pt": "A tagarela"
+			"en": "The Band Kid",
+			"pt": "O menino da banda"
 		},
 		"name": {
-			"en": "Sophie Edwards",
-			"pt": "Sofia Esteves"
+				"en": "Evan Turner",
+			"pt": "Enzo Torres"
 		},
 		"socialGroupId": "arts",
-		"gender": "female",
+		"gender": "male",
 		"ethnicity": "white",
-		"age": "sophomore",
+		"age": "junior",
 		"build": "small",
 		"height": "medium"
 	},
@@ -914,7 +914,109 @@
 		"gender": "female",
 		"ethnicity": "latino",
 		"age": "sophomore",
-		"build": "medium",
+		"build": "average",
 		"height": "tall"
+	},
+	"tsc-55": {
+		"id": "tsc-55",
+		"title": {
+			"en": "The Principal's son",
+			"pt": "O filho do diretor"
+		},
+		"name": {
+			"en": "William Anderson",
+			"pt": "Wesley Andrade"
+		},
+		"socialGroupId": "misfits",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "small",
+		"height": "short"
+	},
+	"tsc-56": {
+		"id": "tsc-56",
+		"title": {
+			"en": "The religious",
+			"pt": "A religiosa"
+		},
+		"name": {
+			"en": "Sarah Evans",
+			"pt": "Sara Esteves"
+		},
+		"socialGroupId": "misfits",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "small",
+		"height": "short"
+	},
+	"tsc-57": {
+		"id": "tsc-57",
+		"title": {
+			"en": "The golden daughter",
+			"pt": "A filha dourada"
+		},
+		"name": {
+			"en": "Isabella Carter",
+			"pt": "Isabela Caldeira"
+		},
+		"socialGroupId": "misfits",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "large",
+		"height": "short"
+	},
+	"tsc-58": {
+		"id": "tsc-58",
+		"title": {
+			"en": "The observer",
+			"pt": "O observador"
+		},
+		"name": {
+			"en": "Noah Richardson",
+			"pt": "Nicolas Ribeiro"
+		},
+		"socialGroupId": "misfits",
+		"gender": "male",
+		"ethnicity": "white",
+		"age": "junior",
+		"build": "small",
+		"height": "medium"
+	},
+	"tsc-59": {
+		"id": "tsc-59",
+		"title": {
+			"en": "The chatterbox",
+			"pt": "A tagarela"
+		},
+		"name": {
+			"en": "Sophie Edwards",
+			"pt": "Sofia Esteves"
+		},
+		"socialGroupId": "misfits",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "small",
+		"height": "medium"
+	},
+	"tsc-60": {
+		"id": "tsc-60",
+		"title": {
+			"en": "The Scholarship Kid",
+			"pt": "O bolsista"
+		},
+		"name": {
+			"en": "Diana Vargas",
+			"pt": "Diana Vargas"
+		},
+		"socialGroupId": "misfits",
+		"gender": "female",
+		"ethnicity": "white",
+		"age": "sophomore",
+		"build": "large",
+		"height": "short"
 	}
 }
