@@ -5330,5 +5330,905 @@
     "features": [],
     "gbExclusive": true,
     "deck": "pet"
+  },
+  "us-251": {
+    "id": "us-251",
+    "name": {
+      "en": "Ethan",
+      "pt": "Eduardo"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-252": {
+    "id": "us-252",
+    "name": {
+      "en": "Ashley",
+      "pt": "Amanda"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-253": {
+    "id": "us-253",
+    "name": {
+      "en": "Carlos",
+      "pt": "Carlos"
+    },
+    "gender": "male",
+    "race": "brown",
+    "age": "14-17",
+    "height": "short",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-254": {
+    "id": "us-254",
+    "name": {
+      "en": "Sabrina",
+      "pt": "Sabrina"
+    },
+    "gender": "female",
+    "race": "brown",
+    "age": "14-17",
+    "height": "tall",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-255": {
+    "id": "us-255",
+    "name": {
+      "en": "Aaliyah",
+      "pt": "Aline"
+    },
+    "gender": "female",
+    "race": "black",
+    "age": "14-17",
+    "height": "short",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-256": {
+    "id": "us-256",
+    "name": {
+      "en": "Kai",
+      "pt": "Kai"
+    },
+    "gender": "male",
+    "race": "asian",
+    "age": "14-17",
+    "height": "medium",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-257": {
+    "id": "us-257",
+    "name": {
+      "en": "Brandon",
+      "pt": "Bruno"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-258": {
+    "id": "us-258",
+    "name": {
+      "en": "Liam",
+      "pt": "Lucas"
+    },
+    "gender": "male",
+    "race": "other",
+    "age": "14-17",
+    "height": "tall",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-259": {
+    "id": "us-259",
+    "name": {
+      "en": "Emma",
+      "pt": "Emanuela"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-260": {
+    "id": "us-260",
+    "name": {
+      "en": "Jake",
+      "pt": "João"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-261": {
+    "id": "us-261",
+    "name": {
+      "en": "Tyler",
+      "pt": "Tiago"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-262": {
+    "id": "us-262",
+    "name": {
+      "en": "Tasha",
+      "pt": "Tatiana"
+    },
+    "gender": "female",
+    "race": "black",
+    "age": "14-17",
+    "height": "medium",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-263": {
+    "id": "us-263",
+    "name": {
+      "en": "Marcus",
+      "pt": "Maurício"
+    },
+    "gender": "male",
+    "race": "black",
+    "age": "14-17",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-264": {
+    "id": "us-264",
+    "name": {
+      "en": "Jessica",
+      "pt": "Juliana"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-265": {
+    "id": "us-265",
+    "name": {
+      "en": "Olivia",
+      "pt": "Olívia"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-266": {
+    "id": "us-266",
+    "name": {
+      "en": "Valerie",
+      "pt": "Valéria"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-267": {
+    "id": "us-267",
+    "name": {
+      "en": "John",
+      "pt": "Juca"
+    },
+    "gender": "male",
+    "race": "asian",
+    "age": "14-17",
+    "height": "tall",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-268": {
+    "id": "us-268",
+    "name": {
+      "en": "Mei",
+      "pt": "Mila"
+    },
+    "gender": "female",
+    "race": "asian",
+    "age": "14-17",
+    "height": "short",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-269": {
+    "id": "us-269",
+    "name": {
+      "en": "Arjun",
+      "pt": "Arun"
+    },
+    "gender": "male",
+    "race": "brown",
+    "age": "14-17",
+    "height": "medium",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-270": {
+    "id": "us-270",
+    "name": {
+      "en": "Layla",
+      "pt": "Laila"
+    },
+    "gender": "female",
+    "race": "other",
+    "age": "14-17",
+    "height": "short",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-271": {
+    "id": "us-271",
+    "name": {
+      "en": "Zhang",
+      "pt": "Zhang"
+    },
+    "gender": "male",
+    "race": "asian",
+    "age": "14-17",
+    "height": "tall",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-272": {
+    "id": "us-272",
+    "name": {
+      "en": "Alejandro",
+      "pt": "Alexandre"
+    },
+    "gender": "male",
+    "race": "brown",
+    "age": "14-17",
+    "height": "tall",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-273": {
+    "id": "us-273",
+    "name": {
+      "en": "Maya",
+      "pt": "Mirela"
+    },
+    "gender": "female",
+    "race": "other",
+    "age": "14-17",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-274": {
+    "id": "us-274",
+    "name": {
+      "en": "Benjamin",
+      "pt": "Benjamim"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-275": {
+    "id": "us-275",
+    "name": {
+      "en": "Alexander",
+      "pt": "Arthur"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-276": {
+    "id": "us-276",
+    "name": {
+      "en": "Ezra",
+      "pt": "Ezra"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-277": {
+    "id": "us-277",
+    "name": {
+      "en": "Victoria",
+      "pt": "Vitória"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-278": {
+    "id": "us-278",
+    "name": {
+      "en": "Madison",
+      "pt": "Melissa"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-279": {
+    "id": "us-279",
+    "name": {
+      "en": "Javier",
+      "pt": "Jorge"
+    },
+    "gender": "male",
+    "race": "brown",
+    "age": "14-17",
+    "height": "tall",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-280": {
+    "id": "us-280",
+    "name": {
+      "en": "Chloe",
+      "pt": "Clara"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-281": {
+    "id": "us-281",
+    "name": {
+      "en": "Kevin",
+      "pt": "Caio"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-282": {
+    "id": "us-282",
+    "name": {
+      "en": "Lily",
+      "pt": "Letícia"
+    },
+    "gender": "female",
+    "race": "asian",
+    "age": "14-17",
+    "height": "tall",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-283": {
+    "id": "us-283",
+    "name": {
+      "en": "Priya",
+      "pt": "Priscila"
+    },
+    "gender": "female",
+    "race": "brown",
+    "age": "14-17",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-284": {
+    "id": "us-284",
+    "name": {
+      "en": "Dylan",
+      "pt": "Diego"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-285": {
+    "id": "us-285",
+    "name": {
+      "en": "Ryan",
+      "pt": "Ricardo"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-286": {
+    "id": "us-286",
+    "name": {
+      "en": "Abigail",
+      "pt": "Ana"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-287": {
+    "id": "us-287",
+    "name": {
+      "en": "Maria",
+      "pt": "Mariana"
+    },
+    "gender": "female",
+    "race": "brown",
+    "age": "14-17",
+    "height": "short",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-288": {
+    "id": "us-288",
+    "name": {
+      "en": "Hannah",
+      "pt": "Helena"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-289": {
+    "id": "us-289",
+    "name": {
+      "en": "Jacob",
+      "pt": "José"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-290": {
+    "id": "us-290",
+    "name": {
+      "en": "Oliver",
+      "pt": "Otávio"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-291": {
+    "id": "us-291",
+    "name": {
+      "en": "Penelope",
+      "pt": "Penélope"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-292": {
+    "id": "us-292",
+    "name": {
+      "en": "Daniel",
+      "pt": "Danilo"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-293": {
+    "id": "us-293",
+    "name": {
+      "en": "Raven",
+      "pt": "Raquel"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-294": {
+    "id": "us-294",
+    "name": {
+      "en": "Travis",
+      "pt": "Thiago"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-295": {
+    "id": "us-295",
+    "name": {
+      "en": "Luna",
+      "pt": "Lívia"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-296": {
+    "id": "us-296",
+    "name": {
+      "en": "Jordan",
+      "pt": "Joana"
+    },
+    "gender": "female",
+    "race": "black",
+    "age": "14-17",
+    "height": "tall",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-297": {
+    "id": "us-297",
+    "name": {
+      "en": "Grace",
+      "pt": "Gabriela"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "tall",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-298": {
+    "id": "us-298",
+    "name": {
+      "en": "Ben",
+      "pt": "Bruno"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-299": {
+    "id": "us-299",
+    "name": {
+      "en": "Max",
+      "pt": "Mateus"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-300": {
+    "id": "us-300",
+    "name": {
+      "en": "Emily",
+      "pt": "Evelyn"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-301": {
+    "id": "us-301",
+    "name": {
+      "en": "Jamal",
+      "pt": "Joaquim"
+    },
+    "gender": "male",
+    "race": "black",
+    "age": "14-17",
+    "height": "short",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-302": {
+    "id": "us-302",
+    "name": {
+      "en": "Evan",
+      "pt": "Enzo"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-303": {
+    "id": "us-303",
+    "name": {
+      "en": "Miguel",
+      "pt": "Maurício"
+    },
+    "gender": "male",
+    "race": "brown",
+    "age": "14-17",
+    "height": "tall",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-304": {
+    "id": "us-304",
+    "name": {
+      "en": "Camila",
+      "pt": "Cecília"
+    },
+    "gender": "female",
+    "race": "brown",
+    "age": "14-17",
+    "height": "tall",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-305": {
+    "id": "us-305",
+    "name": {
+      "en": "William",
+      "pt": "Wesley"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-306": {
+    "id": "us-306",
+    "name": {
+      "en": "Sarah",
+      "pt": "Sara"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-307": {
+    "id": "us-307",
+    "name": {
+      "en": "Isabella",
+      "pt": "Isabela"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-308": {
+    "id": "us-308",
+    "name": {
+      "en": "Noah",
+      "pt": "Nicolas"
+    },
+    "gender": "male",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-309": {
+    "id": "us-309",
+    "name": {
+      "en": "Sophie",
+      "pt": "Sofia"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "medium",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
+  },
+  "us-310": {
+    "id": "us-310",
+    "name": {
+      "en": "Diana",
+      "pt": "Diana"
+    },
+    "gender": "female",
+    "race": "white",
+    "age": "14-17",
+    "height": "short",
+    "build": "large",
+    "features": [],
+    "gbExclusive": true,
+    "deck": "teen"
   }
 }
