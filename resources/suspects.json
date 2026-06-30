@@ -111,7 +111,8 @@
       "shortHair",
       "blondeHair",
       "showTeeth",
-      "blueClothes"
+      "blueClothes",
+      "glasses"
     ],
     "deck": "adult"
   },
@@ -1340,7 +1341,8 @@
       "wearingFlowers",
       "greenClothes",
       "hairyChest",
-      "patternedShirt"
+      "patternedShirt",
+      "buttonShirt"
     ],
     "deck": "adult"
   },
@@ -1773,7 +1775,7 @@
     },
     "gender": "male",
     "race": "white",
-    "age": "50-60",
+    "age": "40-50",
     "height": "medium",
     "build": "large",
     "features": [
