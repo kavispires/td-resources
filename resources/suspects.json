@@ -5,6 +5,7 @@
       "en": "Arthur",
       "pt": "Artur"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "21-30",
@@ -22,8 +23,7 @@
       "bow",
       "patternedShirt",
       "yellowClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-002": {
     "id": "us-002",
@@ -31,6 +31,7 @@
       "en": "Prince",
       "pt": "Pedro"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "21-30",
@@ -44,8 +45,7 @@
       "buttonShirt",
       "whiteShirt",
       "brownClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-003": {
     "id": "us-003",
@@ -53,6 +53,7 @@
       "en": "Cameron",
       "pt": "Conrado"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -66,8 +67,7 @@
       "longHair",
       "avoidingCamera",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-004": {
     "id": "us-004",
@@ -75,6 +75,7 @@
       "en": "Paul",
       "pt": "Paulo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "50-60",
@@ -93,8 +94,7 @@
       "greenClothes",
       "shortHair",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-005": {
     "id": "us-005",
@@ -102,6 +102,7 @@
       "en": "Jesse",
       "pt": "Jéferson"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "18-21",
@@ -112,9 +113,9 @@
       "blondeHair",
       "showTeeth",
       "blueClothes",
-      "glasses"
-    ],
-    "deck": "adult"
+      "glasses",
+      "zipper"
+    ]
   },
   "us-006": {
     "id": "us-006",
@@ -122,6 +123,7 @@
       "en": "Fredrick",
       "pt": "Frederico"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -136,8 +138,7 @@
       "whiteShirt",
       "blueClothes",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-007": {
     "id": "us-007",
@@ -145,6 +146,7 @@
       "en": "Roger",
       "pt": "Rogério"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "18-21",
@@ -157,8 +159,7 @@
       "buttonShirt",
       "whiteShirt",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-008": {
     "id": "us-008",
@@ -166,6 +167,7 @@
       "en": "Raymond",
       "pt": "Raimundo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "50-60",
@@ -179,8 +181,7 @@
       "shortHair",
       "wearingStripes",
       "brownClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-009": {
     "id": "us-009",
@@ -188,6 +189,7 @@
       "en": "Janine",
       "pt": "Janine"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "80-90",
@@ -199,8 +201,7 @@
       "greyHair",
       "blueClothes",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-010": {
     "id": "us-010",
@@ -208,6 +209,7 @@
       "en": "Levi",
       "pt": "Levi"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "50-60",
@@ -222,8 +224,7 @@
       "buttonShirt",
       "whiteShirt",
       "blackClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-011": {
     "id": "us-011",
@@ -231,6 +232,7 @@
       "en": "Norton",
       "pt": "Nelson"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -245,8 +247,7 @@
       "orangeClothes",
       "patternedShirt",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-012": {
     "id": "us-012",
@@ -254,6 +255,7 @@
       "en": "Rosanne",
       "pt": "Rosana"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "40-50",
@@ -265,8 +267,7 @@
       "lipstick",
       "noAccessories",
       "pinkClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-013": {
     "id": "us-013",
@@ -274,6 +275,7 @@
       "en": "Megan",
       "pt": "Marta"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "21-30",
@@ -288,8 +290,7 @@
       "necklace",
       "avoidingCamera",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-014": {
     "id": "us-014",
@@ -297,6 +298,7 @@
       "en": "Nathaniel",
       "pt": "Nataniel"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -308,9 +310,9 @@
       "blondeHair",
       "shortHair",
       "greenClothes",
-      "noAccessories"
-    ],
-    "deck": "adult"
+      "noAccessories",
+      "zipper"
+    ]
   },
   "us-015": {
     "id": "us-015",
@@ -318,6 +320,7 @@
       "en": "John",
       "pt": "Júlio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "60-70",
@@ -331,8 +334,7 @@
       "scarf",
       "avoidingCamera",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-016": {
     "id": "us-016",
@@ -340,6 +342,7 @@
       "en": "Prisca",
       "pt": "Priscila"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "21-30",
@@ -356,8 +359,7 @@
       "patternedShirt",
       "necklace",
       "longHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-017": {
     "id": "us-017",
@@ -365,6 +367,7 @@
       "en": "Flick",
       "pt": "Fagner"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "21-30",
@@ -376,8 +379,7 @@
       "noAccessories",
       "buttonShirt",
       "orangeClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-018": {
     "id": "us-018",
@@ -385,6 +387,7 @@
       "en": "Randall",
       "pt": "Ramon"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "60-70",
@@ -397,8 +400,7 @@
       "hat",
       "buttonShirt",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-019": {
     "id": "us-019",
@@ -406,6 +408,7 @@
       "en": "Vincent",
       "pt": "Vicente"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "50-60",
@@ -419,8 +422,7 @@
       "buttonShirt",
       "pinkClothes",
       "suspenders"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-020": {
     "id": "us-020",
@@ -428,6 +430,7 @@
       "en": "Tonya",
       "pt": "Tânia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "60-70",
@@ -440,8 +443,7 @@
       "lipstick",
       "mediumHair",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-021": {
     "id": "us-021",
@@ -449,6 +451,7 @@
       "en": "Una",
       "pt": "Úrsula"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "30-40",
@@ -461,8 +464,7 @@
       "blueClothes",
       "redClothes",
       "noHairInfo"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-022": {
     "id": "us-022",
@@ -470,6 +472,7 @@
       "en": "Jocelyn",
       "pt": "Jesilene"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -481,8 +484,7 @@
       "earrings",
       "pinkClothes",
       "hairTie"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-023": {
     "id": "us-023",
@@ -490,6 +492,7 @@
       "en": "Brian",
       "pt": "Benedito"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -504,8 +507,7 @@
       "brownClothes",
       "hairyChest",
       "suspenders"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-024": {
     "id": "us-024",
@@ -513,6 +515,7 @@
       "en": "Bassam",
       "pt": "Basílio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "60-70",
@@ -525,9 +528,9 @@
       "headscarf",
       "buttonShirt",
       "orangeClothes",
-      "necklace"
-    ],
-    "deck": "adult"
+      "necklace",
+      "beigeClothes"
+    ]
   },
   "us-025": {
     "id": "us-025",
@@ -535,6 +538,7 @@
       "en": "Madeline",
       "pt": "Madalena"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "60-70",
@@ -547,8 +551,7 @@
       "earrings",
       "lipstick",
       "redClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-026": {
     "id": "us-026",
@@ -556,6 +559,7 @@
       "en": "Coach",
       "pt": "Adamastor"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "50-60",
@@ -569,8 +573,7 @@
       "buttonShirt",
       "showTeeth",
       "orangeClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-027": {
     "id": "us-027",
@@ -578,6 +581,7 @@
       "en": "Anthony",
       "pt": "Antônio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "60-70",
@@ -591,8 +595,7 @@
       "whiteShirt",
       "blueClothes",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-028": {
     "id": "us-028",
@@ -600,6 +603,7 @@
       "en": "Amanda",
       "pt": "Amanda"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -611,8 +615,7 @@
       "lipstick",
       "necklace",
       "purpleClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-029": {
     "id": "us-029",
@@ -620,6 +623,7 @@
       "en": "Andre",
       "pt": "André"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "21-30",
@@ -631,8 +635,7 @@
       "goatee",
       "scarf",
       "orangeClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-030": {
     "id": "us-030",
@@ -640,6 +643,7 @@
       "en": "Hector",
       "pt": "Heitor"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -652,8 +656,7 @@
       "buttonShirt",
       "whiteShirt",
       "brownClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-031": {
     "id": "us-031",
@@ -661,6 +664,7 @@
       "en": "Stephanie",
       "pt": "Estefânia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -674,8 +678,7 @@
       "lipstick",
       "wearingFlowers",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-032": {
     "id": "us-032",
@@ -683,6 +686,7 @@
       "en": "Valentina",
       "pt": "Valentina"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -695,8 +699,7 @@
       "lipstick",
       "avoidingCamera",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-033": {
     "id": "us-033",
@@ -704,6 +707,7 @@
       "en": "Gary",
       "pt": "Geraldo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "40-50",
@@ -715,8 +719,7 @@
       "shortHair",
       "scarf",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-034": {
     "id": "us-034",
@@ -724,6 +727,7 @@
       "en": "Sean",
       "pt": "Sérgio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "30-40",
@@ -737,8 +741,7 @@
       "showTeeth",
       "blueClothes",
       "hairyChest"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-035": {
     "id": "us-035",
@@ -746,6 +749,7 @@
       "en": "Robert",
       "pt": "Roberto"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -757,8 +761,7 @@
       "noAccessories",
       "showTeeth",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-036": {
     "id": "us-036",
@@ -766,6 +769,7 @@
       "en": "Jeremiah",
       "pt": "Jeremias"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "21-30",
@@ -780,8 +784,7 @@
       "buttonShirt",
       "redClothes",
       "suspenders"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-037": {
     "id": "us-037",
@@ -789,6 +792,7 @@
       "en": "Snoopy",
       "pt": "Josenildo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "21-30",
@@ -804,9 +808,9 @@
       "showTeeth",
       "wearingStripes",
       "blueClothes",
-      "redClothes"
-    ],
-    "deck": "adult"
+      "redClothes",
+      "zipper"
+    ]
   },
   "us-038": {
     "id": "us-038",
@@ -814,6 +818,7 @@
       "en": "Lia",
       "pt": "Lia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "40-50",
@@ -827,8 +832,7 @@
       "earrings",
       "lipstick",
       "purpleClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-039": {
     "id": "us-039",
@@ -836,6 +840,7 @@
       "en": "Solange",
       "pt": "Solange"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -847,9 +852,9 @@
       "lipstick",
       "earrings",
       "avoidingCamera",
-      "redClothes"
-    ],
-    "deck": "adult"
+      "redClothes",
+      "turtleNeck"
+    ]
   },
   "us-040": {
     "id": "us-040",
@@ -857,6 +862,7 @@
       "en": "Patricia",
       "pt": "Patrícia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "50-60",
@@ -869,9 +875,10 @@
       "scarf",
       "earrings",
       "showTeeth",
-      "purpleClothes"
-    ],
-    "deck": "adult"
+      "purpleClothes",
+      "blackHair",
+      "noHairInfo"
+    ]
   },
   "us-041": {
     "id": "us-041",
@@ -879,6 +886,7 @@
       "en": "Alexander",
       "pt": "Alexandre"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "21-30",
@@ -892,9 +900,9 @@
       "brownHair",
       "avoidingCamera",
       "redClothes",
-      "blueClothes"
-    ],
-    "deck": "adult"
+      "blueClothes",
+      "zipper"
+    ]
   },
   "us-042": {
     "id": "us-042",
@@ -902,6 +910,7 @@
       "en": "Katherine",
       "pt": "Catarina"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "40-50",
@@ -916,8 +925,7 @@
       "showTeeth",
       "orangeClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-043": {
     "id": "us-043",
@@ -925,6 +933,7 @@
       "en": "Felicia",
       "pt": "Felicia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "30-40",
@@ -937,8 +946,7 @@
       "noAccessories",
       "avoidingCamera",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-044": {
     "id": "us-044",
@@ -946,6 +954,7 @@
       "en": "Roy",
       "pt": "Rômulo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "50-60",
@@ -959,9 +968,9 @@
       "avoidingCamera",
       "buttonShirt",
       "brownClothes",
-      "suspenders"
-    ],
-    "deck": "adult"
+      "suspenders",
+      "beigeClothes"
+    ]
   },
   "us-045": {
     "id": "us-045",
@@ -969,6 +978,7 @@
       "en": "Marlene",
       "pt": "Marlene"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "60-70",
@@ -984,8 +994,7 @@
       "showTeeth",
       "redClothes",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-046": {
     "id": "us-046",
@@ -993,6 +1002,7 @@
       "en": "Ricardo",
       "pt": "Ricardo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "21-30",
@@ -1005,8 +1015,7 @@
       "noAccessories",
       "greenClothes",
       "hairyChest"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-047": {
     "id": "us-047",
@@ -1014,6 +1023,7 @@
       "en": "Barry",
       "pt": "Bartolomeu"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -1026,9 +1036,10 @@
       "necklace",
       "brownClothes",
       "hairyChest",
-      "longHair"
-    ],
-    "deck": "adult"
+      "longHair",
+      "noHairInfo",
+      "redHair"
+    ]
   },
   "us-048": {
     "id": "us-048",
@@ -1036,6 +1047,7 @@
       "en": "Janice",
       "pt": "Janice"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -1050,8 +1062,7 @@
       "orangeClothes",
       "yellowClothes",
       "lipstick"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-049": {
     "id": "us-049",
@@ -1059,6 +1070,7 @@
       "en": "Kristen",
       "pt": "Cristina"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "50-60",
@@ -1070,8 +1082,7 @@
       "earrings",
       "lipstick",
       "yellowClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-050": {
     "id": "us-050",
@@ -1079,6 +1090,7 @@
       "en": "Benjamin",
       "pt": "Bernardo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -1092,8 +1104,7 @@
       "whiteShirt",
       "hairyChest",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-051": {
     "id": "us-051",
@@ -1101,6 +1112,7 @@
       "en": "Edgard",
       "pt": "Edgar"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -1114,8 +1126,7 @@
       "avoidingCamera",
       "blueClothes",
       "hairyChest"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-052": {
     "id": "us-052",
@@ -1123,6 +1134,7 @@
       "en": "Ernest",
       "pt": "Ernesto"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "30-40",
@@ -1139,8 +1151,7 @@
       "blueClothes",
       "hairyChest",
       "earrings"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-053": {
     "id": "us-053",
@@ -1148,6 +1159,7 @@
       "en": "Sebastian",
       "pt": "Sebastião"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "30-40",
@@ -1159,9 +1171,9 @@
       "shortHair",
       "avoidingCamera",
       "wearingStripes",
-      "blueClothes"
-    ],
-    "deck": "adult"
+      "blueClothes",
+      "turtleNeck"
+    ]
   },
   "us-054": {
     "id": "us-054",
@@ -1169,6 +1181,7 @@
       "en": "Christian",
       "pt": "Cristiano"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -1183,8 +1196,7 @@
       "hairyChest",
       "yellowClothes",
       "earrings"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-055": {
     "id": "us-055",
@@ -1192,6 +1204,7 @@
       "en": "Suzanne",
       "pt": "Suzana"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -1204,8 +1217,7 @@
       "noAccessories",
       "blueClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-056": {
     "id": "us-056",
@@ -1213,6 +1225,7 @@
       "en": "Natalie",
       "pt": "Natália"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "40-50",
@@ -1225,8 +1238,7 @@
       "blueClothes",
       "hairTie",
       "longHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-057": {
     "id": "us-057",
@@ -1234,6 +1246,7 @@
       "en": "Wilma",
       "pt": "Velma"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "60-70",
@@ -1250,8 +1263,7 @@
       "patternedShirt",
       "lipstick",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-058": {
     "id": "us-058",
@@ -1259,6 +1271,7 @@
       "en": "Francis",
       "pt": "Francisco"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "50-60",
@@ -1274,8 +1287,7 @@
       "blueClothes",
       "redClothes",
       "bald"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-059": {
     "id": "us-059",
@@ -1283,6 +1295,7 @@
       "en": "George",
       "pt": "Jorge"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "50-60",
@@ -1297,8 +1310,7 @@
       "blueClothes",
       "hairyChest",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-060": {
     "id": "us-060",
@@ -1306,6 +1318,7 @@
       "en": "James",
       "pt": "Jair"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -1318,8 +1331,7 @@
       "glasses",
       "orangeClothes",
       "yellowClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-061": {
     "id": "us-061",
@@ -1327,6 +1339,7 @@
       "en": "Samson",
       "pt": "Sandoval"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -1343,8 +1356,7 @@
       "hairyChest",
       "patternedShirt",
       "buttonShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-062": {
     "id": "us-062",
@@ -1352,6 +1364,7 @@
       "en": "Mateo",
       "pt": "Manuel"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "30-40",
@@ -1363,8 +1376,7 @@
       "tie",
       "buttonShirt",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-063": {
     "id": "us-063",
@@ -1372,6 +1384,7 @@
       "en": "Louis",
       "pt": "Luís"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -1383,8 +1396,7 @@
       "glasses",
       "buttonShirt",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-064": {
     "id": "us-064",
@@ -1392,6 +1404,7 @@
       "en": "Sandra",
       "pt": "Sandra"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "40-50",
@@ -1406,8 +1419,7 @@
       "blueClothes",
       "redClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-065": {
     "id": "us-065",
@@ -1415,6 +1427,7 @@
       "en": "Carl",
       "pt": "Carlos"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "21-30",
@@ -1425,8 +1438,7 @@
       "brownHair",
       "noAccessories",
       "brownClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-066": {
     "id": "us-066",
@@ -1434,6 +1446,7 @@
       "en": "Ben",
       "pt": "Bruno"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -1448,8 +1461,7 @@
       "wearingStripes",
       "redClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-067": {
     "id": "us-067",
@@ -1457,6 +1469,7 @@
       "en": "Walter",
       "pt": "Walter"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "50-60",
@@ -1472,8 +1485,7 @@
       "buttonShirt",
       "blackClothes",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-068": {
     "id": "us-068",
@@ -1481,6 +1493,7 @@
       "en": "Powa",
       "pt": "Pequi"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "indigenous",
     "age": "50-60",
@@ -1492,8 +1505,7 @@
       "necklace",
       "brownClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-069": {
     "id": "us-069",
@@ -1501,6 +1513,7 @@
       "en": "Percy",
       "pt": "Percival"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -1513,8 +1526,7 @@
       "shortHair",
       "showTeeth",
       "orangeClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-070": {
     "id": "us-070",
@@ -1522,6 +1534,7 @@
       "en": "Deborah",
       "pt": "Dulce"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "80-90",
@@ -1531,9 +1544,9 @@
       "greyHair",
       "earrings",
       "headscarf",
-      "purpleClothes"
-    ],
-    "deck": "adult"
+      "purpleClothes",
+      "mediumHair"
+    ]
   },
   "us-071": {
     "id": "us-071",
@@ -1541,6 +1554,7 @@
       "en": "Gabriel",
       "pt": "Gabriel"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "40-50",
@@ -1556,8 +1570,7 @@
       "blackClothes",
       "brownClothes",
       "whiteShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-072": {
     "id": "us-072",
@@ -1565,6 +1578,7 @@
       "en": "Devon",
       "pt": "Denílson"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "mixed",
     "age": "30-40",
@@ -1575,8 +1589,7 @@
       "brownHair",
       "noAccessories",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-073": {
     "id": "us-073",
@@ -1584,6 +1597,7 @@
       "en": "Eve",
       "pt": "Eva"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -1594,9 +1608,9 @@
       "shortHair",
       "lipstick",
       "noAccessories",
-      "redClothes"
-    ],
-    "deck": "adult"
+      "redClothes",
+      "turtleNeck"
+    ]
   },
   "us-074": {
     "id": "us-074",
@@ -1604,6 +1618,7 @@
       "en": "Trevor",
       "pt": "Tarcísio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -1614,9 +1629,9 @@
       "shortHair",
       "beard",
       "glasses",
-      "blueClothes"
-    ],
-    "deck": "adult"
+      "blueClothes",
+      "zipper"
+    ]
   },
   "us-075": {
     "id": "us-075",
@@ -1624,6 +1639,7 @@
       "en": "Ivone",
       "pt": "Ivone"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "30-40",
@@ -1638,8 +1654,7 @@
       "redClothes",
       "noHairInfo",
       "earrings"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-076": {
     "id": "us-076",
@@ -1647,6 +1662,7 @@
       "en": "Abigail",
       "pt": "Abigail"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -1660,8 +1676,7 @@
       "whiteShirt",
       "earrings",
       "necklace"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-077": {
     "id": "us-077",
@@ -1669,6 +1684,7 @@
       "en": "Tanaka",
       "pt": "Tanaka"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "40-50",
@@ -1682,8 +1698,7 @@
       "avoidingCamera",
       "buttonShirt",
       "whiteShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-078": {
     "id": "us-078",
@@ -1691,6 +1706,7 @@
       "en": "Kyle",
       "pt": "Caio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -1703,8 +1719,7 @@
       "buttonShirt",
       "blueClothes",
       "avoidingCamera"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-079": {
     "id": "us-079",
@@ -1712,6 +1727,7 @@
       "en": "Mo",
       "pt": "Márcia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -1723,8 +1739,7 @@
       "glasses",
       "blackHair",
       "whiteShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-080": {
     "id": "us-080",
@@ -1732,6 +1747,7 @@
       "en": "Anisha",
       "pt": "Ana"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "30-40",
@@ -1742,8 +1758,7 @@
       "mediumHair",
       "blueClothes",
       "lipstick"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-081": {
     "id": "us-081",
@@ -1751,6 +1766,7 @@
       "en": "Jean",
       "pt": "Claudimiro"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "60-70",
@@ -1764,8 +1780,7 @@
       "blackClothes",
       "bow",
       "whiteShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-082": {
     "id": "us-082",
@@ -1773,6 +1788,7 @@
       "en": "Mortimer",
       "pt": "Murilo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -1786,8 +1802,7 @@
       "buttonShirt",
       "whiteShirt",
       "blackClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-083": {
     "id": "us-083",
@@ -1795,6 +1810,7 @@
       "en": "Eru",
       "pt": "Eru"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "mixed",
     "age": "50-60",
@@ -1806,8 +1822,7 @@
       "hoodie",
       "orangeClothes",
       "bow"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-084": {
     "id": "us-084",
@@ -1815,6 +1830,7 @@
       "en": "Doug",
       "pt": "Douglas"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -1828,8 +1844,7 @@
       "showTeeth",
       "greenClothes",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-085": {
     "id": "us-085",
@@ -1837,6 +1852,7 @@
       "en": "Gabrielle",
       "pt": "Gabriela"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "18-21",
@@ -1847,9 +1863,9 @@
       "glasses",
       "pinkClothes",
       "redClothes",
-      "lipstick"
-    ],
-    "deck": "adult"
+      "lipstick",
+      "mediumHair"
+    ]
   },
   "us-086": {
     "id": "us-086",
@@ -1857,6 +1873,7 @@
       "en": "Hariko",
       "pt": "Hariko"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "21-30",
@@ -1868,8 +1885,7 @@
       "wearingFlowers",
       "brownClothes",
       "lipstick"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-087": {
     "id": "us-087",
@@ -1877,6 +1893,7 @@
       "en": "Pamela",
       "pt": "Pâmela"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "18-21",
@@ -1891,8 +1908,7 @@
       "showTeeth",
       "necklace",
       "redClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-088": {
     "id": "us-088",
@@ -1900,6 +1916,7 @@
       "en": "Ethan",
       "pt": "Enzo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "18-21",
@@ -1910,8 +1927,7 @@
       "brownHair",
       "noAccessories",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-089": {
     "id": "us-089",
@@ -1919,6 +1935,7 @@
       "en": "Camilla",
       "pt": "Camila"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "30-40",
@@ -1931,8 +1948,7 @@
       "blackHair",
       "longHair",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-090": {
     "id": "us-090",
@@ -1940,6 +1956,7 @@
       "en": "Kathleen",
       "pt": "Kelly"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -1952,8 +1969,7 @@
       "noAccessories",
       "showTeeth",
       "redClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-091": {
     "id": "us-091",
@@ -1961,6 +1977,7 @@
       "en": "Takeshi",
       "pt": "Takeshi"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "50-60",
@@ -1970,8 +1987,7 @@
       "shortHair",
       "blackHair",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-092": {
     "id": "us-092",
@@ -1979,6 +1995,7 @@
       "en": "Amelia",
       "pt": "Amélia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "40-50",
@@ -1991,8 +2008,7 @@
       "earrings",
       "necklace",
       "greenClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-093": {
     "id": "us-093",
@@ -2000,6 +2016,7 @@
       "en": "Otis",
       "pt": "Otaviano"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2011,8 +2028,7 @@
       "noAccessories",
       "showTeeth",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-094": {
     "id": "us-094",
@@ -2020,6 +2036,7 @@
       "en": "Mark",
       "pt": "Marcos"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2030,8 +2047,7 @@
       "brownHair",
       "beard",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-095": {
     "id": "us-095",
@@ -2039,6 +2055,7 @@
       "en": "Quentin",
       "pt": "Quércio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2050,8 +2067,7 @@
       "brownHair",
       "noAccessories",
       "orangeClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-096": {
     "id": "us-096",
@@ -2059,6 +2075,7 @@
       "en": "Stanley",
       "pt": "Saulo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -2075,8 +2092,7 @@
       "patternedShirt",
       "shortHair",
       "bald"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-097": {
     "id": "us-097",
@@ -2084,6 +2100,7 @@
       "en": "Paxton",
       "pt": "Péricles"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2092,9 +2109,9 @@
     "features": [
       "earrings",
       "bald",
-      "blackClothes"
-    ],
-    "deck": "adult"
+      "blackClothes",
+      "noHairInfo"
+    ]
   },
   "us-098": {
     "id": "us-098",
@@ -2102,6 +2119,7 @@
       "en": "Graham",
       "pt": "Gerson"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "40-50",
@@ -2113,8 +2131,7 @@
       "beard",
       "noAccessories",
       "blackClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-099": {
     "id": "us-099",
@@ -2122,6 +2139,7 @@
       "en": "Vanessa",
       "pt": "Valesca"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -2135,8 +2153,7 @@
       "showTeeth",
       "patternedShirt",
       "lipstick"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-100": {
     "id": "us-100",
@@ -2144,6 +2161,7 @@
       "en": "Easton",
       "pt": "Ericlécio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2159,8 +2177,7 @@
       "blueClothes",
       "blackClothes",
       "hairTie"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-101": {
     "id": "us-101",
@@ -2168,6 +2185,7 @@
       "en": "Josiah",
       "pt": "Jaci"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "30-40",
@@ -2178,9 +2196,9 @@
       "glasses",
       "shortHair",
       "blackHair",
-      "avoidingCamera"
-    ],
-    "deck": "adult"
+      "avoidingCamera",
+      "greyClothes"
+    ]
   },
   "us-102": {
     "id": "us-102",
@@ -2188,6 +2206,7 @@
       "en": "Giovanni",
       "pt": "Giovani"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "60-70",
@@ -2203,8 +2222,7 @@
       "blueClothes",
       "patternedShirt",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-103": {
     "id": "us-103",
@@ -2212,6 +2230,7 @@
       "en": "Farley",
       "pt": "Fábio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -2224,8 +2243,7 @@
       "hat",
       "brownHair",
       "brownClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-104": {
     "id": "us-104",
@@ -2233,6 +2251,7 @@
       "en": "Zachary",
       "pt": "Zacarias"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -2244,8 +2263,7 @@
       "beard",
       "noAccessories",
       "blackClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-105": {
     "id": "us-105",
@@ -2253,6 +2271,7 @@
       "en": "Margaret",
       "pt": "Margarete"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -2268,8 +2287,7 @@
       "blueClothes",
       "hairTie",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-106": {
     "id": "us-106",
@@ -2277,6 +2295,7 @@
       "en": "Denise",
       "pt": "Denise"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "40-50",
@@ -2289,8 +2308,7 @@
       "longHair",
       "lipstick",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-107": {
     "id": "us-107",
@@ -2298,6 +2316,7 @@
       "en": "Charles",
       "pt": "Clóvis"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "60-70",
@@ -2311,9 +2330,10 @@
       "whiteShirt",
       "purpleClothes",
       "bow",
-      "beard"
-    ],
-    "deck": "adult"
+      "beard",
+      "mediumHair",
+      "blondeHair"
+    ]
   },
   "us-108": {
     "id": "us-108",
@@ -2321,6 +2341,7 @@
       "en": "Clayton",
       "pt": "Cleiton"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "21-30",
@@ -2332,8 +2353,7 @@
       "shortHair",
       "showTeeth",
       "yellowClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-109": {
     "id": "us-109",
@@ -2341,6 +2361,7 @@
       "en": "Shirley",
       "pt": "Shirley"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -2352,9 +2373,9 @@
       "lipstick",
       "headscarf",
       "avoidingCamera",
-      "blackClothes"
-    ],
-    "deck": "adult"
+      "blackClothes",
+      "noHairInfo"
+    ]
   },
   "us-110": {
     "id": "us-110",
@@ -2362,6 +2383,7 @@
       "en": "Nassim",
       "pt": "Nassim"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "50-60",
@@ -2377,8 +2399,7 @@
       "showTeeth",
       "whiteShirt",
       "noHairInfo"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-111": {
     "id": "us-111",
@@ -2386,6 +2407,7 @@
       "en": "Monique",
       "pt": "Monique"
     },
+    "deck": "adult",
     "gender": "other",
     "race": "white",
     "age": "30-40",
@@ -2399,8 +2421,7 @@
       "lipstick",
       "wearingFlowers",
       "pinkClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-112": {
     "id": "us-112",
@@ -2408,6 +2429,7 @@
       "en": "Nolan",
       "pt": "Nestor"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "30-40",
@@ -2419,9 +2441,9 @@
       "longHair",
       "goatee",
       "mustache",
-      "greenClothes"
-    ],
-    "deck": "adult"
+      "greenClothes",
+      "zipper"
+    ]
   },
   "us-113": {
     "id": "us-113",
@@ -2429,6 +2451,7 @@
       "en": "Chris",
       "pt": "Cris"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "18-21",
@@ -2440,8 +2463,7 @@
       "noAccessories",
       "whiteShirt",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-114": {
     "id": "us-114",
@@ -2449,6 +2471,7 @@
       "en": "Isaiah",
       "pt": "Isaías"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2462,8 +2485,7 @@
       "buttonShirt",
       "whiteShirt",
       "brownClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-115": {
     "id": "us-115",
@@ -2471,6 +2493,7 @@
       "en": "Kai",
       "pt": "Kai"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "18-21",
@@ -2483,8 +2506,7 @@
       "showTeeth",
       "wearingFlowers",
       "orangeClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-116": {
     "id": "us-116",
@@ -2492,6 +2514,7 @@
       "en": "Theo",
       "pt": "Téo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -2506,8 +2529,7 @@
       "wearingFlowers",
       "blueClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-117": {
     "id": "us-117",
@@ -2515,6 +2537,7 @@
       "en": "Elijah",
       "pt": "Elias"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "21-30",
@@ -2526,8 +2549,7 @@
       "blackHair",
       "avoidingCamera",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-118": {
     "id": "us-118",
@@ -2535,6 +2557,7 @@
       "en": "Jacky",
       "pt": "Jaqueline"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -2551,8 +2574,7 @@
       "hairTie",
       "patternedShirt",
       "yellowClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-119": {
     "id": "us-119",
@@ -2560,6 +2582,7 @@
       "en": "Hassam",
       "pt": "Hassam"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "21-30",
@@ -2572,8 +2595,7 @@
       "glasses",
       "orangeClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-120": {
     "id": "us-120",
@@ -2581,6 +2603,7 @@
       "en": "Lisa",
       "pt": "Lisa"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "18-21",
@@ -2595,8 +2618,7 @@
       "showTeeth",
       "pinkClothes",
       "yellowClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-121": {
     "id": "us-121",
@@ -2604,6 +2626,7 @@
       "en": "Carmen",
       "pt": "Carmen"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "50-60",
@@ -2614,8 +2637,7 @@
       "shortHair",
       "earrings",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-122": {
     "id": "us-122",
@@ -2623,6 +2645,7 @@
       "en": "Simon",
       "pt": "Simão"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -2636,8 +2659,7 @@
       "blueClothes",
       "redClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-123": {
     "id": "us-123",
@@ -2645,6 +2667,7 @@
       "en": "Stella",
       "pt": "Estela"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "30-40",
@@ -2657,8 +2680,7 @@
       "buttonShirt",
       "whiteShirt",
       "hairTie"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-124": {
     "id": "us-124",
@@ -2666,6 +2688,7 @@
       "en": "Joanne",
       "pt": "Joana"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "18-21",
@@ -2677,8 +2700,7 @@
       "lipstick",
       "noAccessories",
       "blackClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-125": {
     "id": "us-125",
@@ -2686,6 +2708,7 @@
       "en": "Niko",
       "pt": "Niko"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2701,8 +2724,7 @@
       "whiteShirt",
       "pinkClothes",
       "hairyChest"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-126": {
     "id": "us-126",
@@ -2710,6 +2732,7 @@
       "en": "Tyrese",
       "pt": "Tiago"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "21-30",
@@ -2722,8 +2745,7 @@
       "buttonShirt",
       "blueClothes",
       "hairyChest"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-127": {
     "id": "us-127",
@@ -2731,6 +2753,7 @@
       "en": "Letitia",
       "pt": "Letícia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -2740,9 +2763,9 @@
       "bald",
       "lipstick",
       "noAccessories",
-      "yellowClothes"
-    ],
-    "deck": "adult"
+      "yellowClothes",
+      "blackHair"
+    ]
   },
   "us-128": {
     "id": "us-128",
@@ -2750,6 +2773,7 @@
       "en": "Dani",
       "pt": "Dani"
     },
+    "deck": "adult",
     "gender": "non-binary",
     "race": "white",
     "age": "21-30",
@@ -2769,8 +2793,7 @@
       "pinkClothes",
       "blackClothes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-129": {
     "id": "us-129",
@@ -2778,6 +2801,7 @@
       "en": "Nivea",
       "pt": "Nívea"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -2790,8 +2814,7 @@
       "buttonShirt",
       "whiteShirt",
       "lipstick"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-130": {
     "id": "us-130",
@@ -2799,6 +2822,7 @@
       "en": "McWillWin",
       "pt": "McGui"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -2812,8 +2836,7 @@
       "showTeeth",
       "whiteShirt",
       "blackClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-131": {
     "id": "us-131",
@@ -2821,6 +2844,7 @@
       "en": "Lorraine",
       "pt": "Lorena"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -2832,8 +2856,7 @@
       "lipstick",
       "noAccessories",
       "shirtless"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-132": {
     "id": "us-132",
@@ -2841,6 +2864,7 @@
       "en": "Hugh",
       "pt": "Humberto"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2852,8 +2876,7 @@
       "coloredHair",
       "noAccessories",
       "whiteShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-133": {
     "id": "us-133",
@@ -2861,6 +2884,7 @@
       "en": "Bao",
       "pt": "Bao"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "50-60",
@@ -2872,8 +2896,7 @@
       "noAccessories",
       "avoidingCamera",
       "brownClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-134": {
     "id": "us-134",
@@ -2881,6 +2904,7 @@
       "en": "Tyler",
       "pt": "Tháles"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "18-21",
@@ -2893,8 +2917,7 @@
       "buttonShirt",
       "whiteShirt",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-135": {
     "id": "us-135",
@@ -2902,6 +2925,7 @@
       "en": "Chaz",
       "pt": "Cássio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2912,8 +2936,7 @@
       "blondeHair",
       "noAccessories",
       "shirtless"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-136": {
     "id": "us-136",
@@ -2921,6 +2944,7 @@
       "en": "Melissa",
       "pt": "Melissa"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -2929,9 +2953,9 @@
     "features": [
       "bald",
       "earrings",
-      "piercings"
-    ],
-    "deck": "adult"
+      "piercings",
+      "brownHair"
+    ]
   },
   "us-137": {
     "id": "us-137",
@@ -2939,6 +2963,7 @@
       "en": "Karen",
       "pt": "Karen"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "40-50",
@@ -2950,8 +2975,7 @@
       "earrings",
       "wearingStripes",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-138": {
     "id": "us-138",
@@ -2959,6 +2983,7 @@
       "en": "Maria",
       "pt": "Ana Maria"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "30-40",
@@ -2972,8 +2997,7 @@
       "pinkClothes",
       "bow",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-139": {
     "id": "us-139",
@@ -2981,6 +3005,7 @@
       "en": "Marlon",
       "pt": "Marlon"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -2992,8 +3017,7 @@
       "noAccessories",
       "showTeeth",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-140": {
     "id": "us-140",
@@ -3001,6 +3025,7 @@
       "en": "Lloyd",
       "pt": "Lázaro"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -3012,9 +3037,10 @@
       "mustache",
       "beard",
       "noAccessories",
-      "buttonShirt"
-    ],
-    "deck": "adult"
+      "buttonShirt",
+      "beigeClothes",
+      "brownClothes"
+    ]
   },
   "us-141": {
     "id": "us-141",
@@ -3022,6 +3048,7 @@
       "en": "Howard",
       "pt": "Horácio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -3034,8 +3061,7 @@
       "glasses",
       "hairyChest",
       "shirtless"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-142": {
     "id": "us-142",
@@ -3043,6 +3069,7 @@
       "en": "Salma",
       "pt": "Suellen"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -3058,8 +3085,7 @@
       "purpleClothes",
       "hairTie",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-143": {
     "id": "us-143",
@@ -3067,6 +3093,7 @@
       "en": "Peter",
       "pt": "Péter"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "18-21",
@@ -3078,8 +3105,7 @@
       "piercings",
       "avoidingCamera",
       "blackClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-144": {
     "id": "us-144",
@@ -3087,6 +3113,7 @@
       "en": "David",
       "pt": "Diogo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -3095,9 +3122,9 @@
     "features": [
       "bald",
       "goatee",
-      "whiteShirt"
-    ],
-    "deck": "adult"
+      "whiteShirt",
+      "brownHair"
+    ]
   },
   "us-145": {
     "id": "us-145",
@@ -3105,6 +3132,7 @@
       "en": "Selena",
       "pt": "Selena"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "30-40",
@@ -3116,8 +3144,7 @@
       "buttonShirt",
       "whiteShirt",
       "blueClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-146": {
     "id": "us-146",
@@ -3125,6 +3152,7 @@
       "en": "Linda",
       "pt": "Lurdes"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "50-60",
@@ -3140,8 +3168,7 @@
       "headscarf",
       "hairTie",
       "lipstick"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-147": {
     "id": "us-147",
@@ -3149,6 +3176,7 @@
       "en": "Ronald",
       "pt": "Ronaldo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -3158,9 +3186,9 @@
       "blondeHair",
       "shortHair",
       "noAccessories",
-      "showTeeth"
-    ],
-    "deck": "adult"
+      "showTeeth",
+      "beigeClothes"
+    ]
   },
   "us-148": {
     "id": "us-148",
@@ -3168,6 +3196,7 @@
       "en": "Felix",
       "pt": "Félix"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -3175,9 +3204,10 @@
     "build": "thin",
     "features": [
       "noAccessories",
-      "blackClothes"
-    ],
-    "deck": "adult"
+      "blackClothes",
+      "shortHair",
+      "blondeHair"
+    ]
   },
   "us-149": {
     "id": "us-149",
@@ -3185,6 +3215,7 @@
       "en": "Kaya",
       "pt": "Kala"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -3194,8 +3225,7 @@
       "longHair",
       "blackHair",
       "patternedShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-150": {
     "id": "us-150",
@@ -3203,6 +3233,7 @@
       "en": "Mistress Raven",
       "pt": "Madame Corvina"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -3213,8 +3244,7 @@
       "blackHair",
       "lipstick",
       "blackClothes"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-151": {
     "id": "us-151",
@@ -3222,6 +3252,7 @@
       "en": "Darius",
       "pt": "Dario"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "30-40",
@@ -3233,8 +3264,7 @@
       "beard",
       "blackClothes",
       "buttonShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-152": {
     "id": "us-152",
@@ -3242,6 +3272,7 @@
       "en": "Owen",
       "pt": "Orlando"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -3253,8 +3284,7 @@
       "whiteShirt",
       "pinkClothes",
       "hat"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-153": {
     "id": "us-153",
@@ -3262,6 +3292,7 @@
       "en": "Lin",
       "pt": "Lin"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "80-90",
@@ -3275,8 +3306,7 @@
       "blueClothes",
       "hat",
       "buttonShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-154": {
     "id": "us-154",
@@ -3284,6 +3314,7 @@
       "en": "Toby",
       "pt": "Túlio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -3296,8 +3327,7 @@
       "noAccessories",
       "buttonShirt",
       "avoidingCamera"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-155": {
     "id": "us-155",
@@ -3305,6 +3335,7 @@
       "en": "Martha",
       "pt": "Marilda"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -3314,9 +3345,9 @@
       "blueClothes",
       "mediumHair",
       "lipstick",
-      "longHair"
-    ],
-    "deck": "adult"
+      "longHair",
+      "brownHair"
+    ]
   },
   "us-156": {
     "id": "us-156",
@@ -3324,6 +3355,7 @@
       "en": "Miriam",
       "pt": "Mãe Miriam"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "60-70",
@@ -3335,8 +3367,7 @@
       "necklace",
       "whiteShirt",
       "noHairInfo"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-157": {
     "id": "us-157",
@@ -3344,6 +3375,7 @@
       "en": "Erica",
       "pt": "Érica"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -3355,9 +3387,9 @@
       "longHair",
       "showTeeth",
       "hairTie",
-      "buttonShirt"
-    ],
-    "deck": "adult"
+      "buttonShirt",
+      "beigeClothes"
+    ]
   },
   "us-158": {
     "id": "us-158",
@@ -3365,6 +3397,7 @@
       "en": "Clarice",
       "pt": "Clarice"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "18-21",
@@ -3379,8 +3412,7 @@
       "brownHair",
       "mediumHair",
       "showTeeth"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-159": {
     "id": "us-159",
@@ -3388,6 +3420,7 @@
       "en": "Shonda",
       "pt": "Sheila"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "40-50",
@@ -3399,9 +3432,9 @@
       "greenClothes",
       "lipstick",
       "brownHair",
-      "mediumHair"
-    ],
-    "deck": "adult"
+      "mediumHair",
+      "zipper"
+    ]
   },
   "us-160": {
     "id": "us-160",
@@ -3409,6 +3442,7 @@
       "en": "Han",
       "pt": "Hugo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "21-30",
@@ -3420,8 +3454,7 @@
       "noAccessories",
       "greenClothes",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-161": {
     "id": "us-161",
@@ -3429,6 +3462,7 @@
       "en": "Kora",
       "pt": "Karla"
     },
+    "deck": "adult",
     "gender": "other",
     "race": "asian",
     "age": "21-30",
@@ -3440,8 +3474,7 @@
       "necklace",
       "brownHair",
       "longHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-162": {
     "id": "us-162",
@@ -3449,6 +3482,7 @@
       "en": "Clara & Lara",
       "pt": "Clara & Lara"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -3460,8 +3494,7 @@
       "noAccessories",
       "patternedShirt",
       "longHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-163": {
     "id": "us-163",
@@ -3469,6 +3502,7 @@
       "en": "Glen",
       "pt": "Guto"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "18-21",
@@ -3479,8 +3513,7 @@
       "brownHair",
       "shortHair",
       "necklace"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-164": {
     "id": "us-164",
@@ -3488,6 +3521,7 @@
       "en": "Crystal",
       "pt": "Cristal"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -3500,8 +3534,7 @@
       "necklace",
       "lipstick",
       "mediumHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-165": {
     "id": "us-165",
@@ -3509,6 +3542,7 @@
       "en": "Dorian",
       "pt": "Dener"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -3526,9 +3560,9 @@
       "showTeeth",
       "yellowClothes",
       "redClothes",
-      "wearingStripes"
-    ],
-    "deck": "adult"
+      "wearingStripes",
+      "holdingSomething"
+    ]
   },
   "us-166": {
     "id": "us-166",
@@ -3536,6 +3570,7 @@
       "en": "Lucia",
       "pt": "Lúcia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "30-40",
@@ -3551,8 +3586,7 @@
       "brownHair",
       "longHair",
       "showTeeth"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-167": {
     "id": "us-167",
@@ -3560,6 +3594,7 @@
       "en": "Samir",
       "pt": "Samir"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "30-40",
@@ -3573,8 +3608,7 @@
       "headscarf",
       "whiteShirt",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-168": {
     "id": "us-168",
@@ -3582,6 +3616,7 @@
       "en": "Gerard",
       "pt": "Gilberto"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "60-70",
@@ -3594,8 +3629,7 @@
       "buttonShirt",
       "greyHair",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-169": {
     "id": "us-169",
@@ -3603,6 +3637,7 @@
       "en": "Mina",
       "pt": "Marina"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "30-40",
@@ -3616,8 +3651,7 @@
       "longHair",
       "hairTie",
       "lipstick"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-170": {
     "id": "us-170",
@@ -3625,6 +3659,7 @@
       "en": "Amina",
       "pt": "Amina"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "21-30",
@@ -3636,8 +3671,7 @@
       "headscarf",
       "noHairInfo",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-171": {
     "id": "us-171",
@@ -3645,6 +3679,7 @@
       "en": "Arman",
       "pt": "Aderbal"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "other",
     "age": "50-60",
@@ -3661,8 +3696,7 @@
       "wearingStripes",
       "shortHair",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-172": {
     "id": "us-172",
@@ -3670,6 +3704,7 @@
       "en": "Joe",
       "pt": "José"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "30-40",
@@ -3682,9 +3717,9 @@
       "hat",
       "buttonShirt",
       "whiteShirt",
-      "shortHair"
-    ],
-    "deck": "adult"
+      "shortHair",
+      "beigeClothes"
+    ]
   },
   "us-173": {
     "id": "us-173",
@@ -3692,6 +3727,7 @@
       "en": "Brittany",
       "pt": "Bruna"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -3704,8 +3740,7 @@
       "mediumHair",
       "showTeeth",
       "necklace"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-174": {
     "id": "us-174",
@@ -3713,6 +3748,7 @@
       "en": "Vince",
       "pt": "Valdir"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -3727,8 +3763,7 @@
       "yellowClothes",
       "patternedShirt",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-175": {
     "id": "us-175",
@@ -3736,6 +3771,7 @@
       "en": "Norma",
       "pt": "Neide"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -3747,8 +3783,7 @@
       "whiteShirt",
       "brownHair",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-176": {
     "id": "us-176",
@@ -3756,6 +3791,7 @@
       "en": "Lamar",
       "pt": "Luciano"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "21-30",
@@ -3770,8 +3806,7 @@
       "brownHair",
       "mediumHair",
       "showTeeth"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-177": {
     "id": "us-177",
@@ -3779,6 +3814,7 @@
       "en": "Frank",
       "pt": "Felipe"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -3790,9 +3826,9 @@
       "blondeHair",
       "brownClothes",
       "shortHair",
-      "noAccessories"
-    ],
-    "deck": "adult"
+      "noAccessories",
+      "greyClothes"
+    ]
   },
   "us-178": {
     "id": "us-178",
@@ -3800,6 +3836,7 @@
       "en": "Taisha",
       "pt": "Talita"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -3812,9 +3849,10 @@
       "shortHair",
       "necklace",
       "patternedShirt",
-      "coloredHair"
-    ],
-    "deck": "adult"
+      "coloredHair",
+      "greyClothes",
+      "yellowClothes"
+    ]
   },
   "us-179": {
     "id": "us-179",
@@ -3822,6 +3860,7 @@
       "en": "Keiko",
       "pt": "Keiko"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "18-21",
@@ -3832,8 +3871,7 @@
       "hoodie",
       "brownHair",
       "longHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-180": {
     "id": "us-180",
@@ -3841,6 +3879,7 @@
       "en": "Paolo",
       "pt": "Paolo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "21-30",
@@ -3854,9 +3893,9 @@
       "patternedShirt",
       "brownHair",
       "shortHair",
-      "showTeeth"
-    ],
-    "deck": "adult"
+      "showTeeth",
+      "holdingSomething"
+    ]
   },
   "us-181": {
     "id": "us-181",
@@ -3864,6 +3903,7 @@
       "en": "Herbert",
       "pt": "Heriberto"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "70-80",
@@ -3876,8 +3916,7 @@
       "buttonShirt",
       "whiteShirt",
       "mediumHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-182": {
     "id": "us-182",
@@ -3885,6 +3924,7 @@
       "en": "Sophie",
       "pt": "Sofia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "21-30",
@@ -3897,8 +3937,7 @@
       "blackHair",
       "longHair",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-183": {
     "id": "us-183",
@@ -3906,6 +3945,7 @@
       "en": "Claudia",
       "pt": "Cláudia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "40-50",
@@ -3916,8 +3956,7 @@
       "brownClothes",
       "brownHair",
       "longHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-184": {
     "id": "us-184",
@@ -3925,6 +3964,7 @@
       "en": "Matthew",
       "pt": "Márcio"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -3937,8 +3977,7 @@
       "blackHair",
       "shortHair",
       "shirtless"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-185": {
     "id": "us-185",
@@ -3946,6 +3985,7 @@
       "en": "Jesus",
       "pt": "Josué"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "50-60",
@@ -3958,8 +3998,7 @@
       "mustache",
       "greyHair",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-186": {
     "id": "us-186",
@@ -3967,6 +4006,7 @@
       "en": "Rodney",
       "pt": "Robson"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "30-40",
@@ -3978,8 +4018,7 @@
       "mustache",
       "blackHair",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-187": {
     "id": "us-187",
@@ -3987,6 +4026,7 @@
       "en": "Chantelle",
       "pt": "Chandyellen"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -4000,8 +4040,7 @@
       "blackHair",
       "mediumHair",
       "avoidingCamera"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-188": {
     "id": "us-188",
@@ -4009,6 +4048,7 @@
       "en": "Rosa",
       "pt": "Rosa"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "30-40",
@@ -4021,8 +4061,7 @@
       "blackHair",
       "longHair",
       "hairTie"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-189": {
     "id": "us-189",
@@ -4030,6 +4069,7 @@
       "en": "Shaniqua",
       "pt": "Soraia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -4041,8 +4081,7 @@
       "blackHair",
       "mediumHair",
       "noAccessories"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-190": {
     "id": "us-190",
@@ -4050,6 +4089,7 @@
       "en": "Valerie",
       "pt": "Valéria"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "30-40",
@@ -4062,8 +4102,7 @@
       "blackHair",
       "mediumHair",
       "showTeeth"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-191": {
     "id": "us-191",
@@ -4071,6 +4110,7 @@
       "en": "Willow",
       "pt": "Wânia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "50-60",
@@ -4083,8 +4123,7 @@
       "greyHair",
       "mediumHair",
       "avoidingCamera"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-192": {
     "id": "us-192",
@@ -4092,6 +4131,7 @@
       "en": "Tameka",
       "pt": "Tainá"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "30-40",
@@ -4105,8 +4145,7 @@
       "blackClothes",
       "brownHair",
       "mediumHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-193": {
     "id": "us-193",
@@ -4114,6 +4153,7 @@
       "en": "Isla",
       "pt": "Ísis"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -4126,8 +4166,7 @@
       "redHair",
       "longHair",
       "avoidingCamera"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-194": {
     "id": "us-194",
@@ -4135,6 +4174,7 @@
       "en": "Miguel",
       "pt": "Miguel"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "18-21",
@@ -4148,8 +4188,7 @@
       "mustache",
       "blackHair",
       "shortHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-195": {
     "id": "us-195",
@@ -4157,6 +4196,7 @@
       "en": "Vladimir",
       "pt": "Vladimir"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -4167,9 +4207,9 @@
       "blackClothes",
       "beard",
       "blondeHair",
-      "bald"
-    ],
-    "deck": "adult"
+      "bald",
+      "zipper"
+    ]
   },
   "us-196": {
     "id": "us-196",
@@ -4177,6 +4217,7 @@
       "en": "Evelyn",
       "pt": "Eduarda"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -4184,9 +4225,10 @@
     "build": "thin",
     "features": [
       "headscarf",
-      "bald"
-    ],
-    "deck": "adult"
+      "bald",
+      "greyClothes",
+      "noHairInfo"
+    ]
   },
   "us-197": {
     "id": "us-197",
@@ -4194,6 +4236,7 @@
       "en": "Henry",
       "pt": "Henrique"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "18-21",
@@ -4207,8 +4250,7 @@
       "avoidingCamera",
       "glasses",
       "buttonShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-198": {
     "id": "us-198",
@@ -4216,6 +4258,7 @@
       "en": "Cecily",
       "pt": "Cecília"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -4225,9 +4268,9 @@
       "headscarf",
       "longHair",
       "brownHair",
-      "brownClothes"
-    ],
-    "deck": "adult"
+      "brownClothes",
+      "holdingSomething"
+    ]
   },
   "us-199": {
     "id": "us-199",
@@ -4235,6 +4278,7 @@
       "en": "Jimmy",
       "pt": "Junior"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "21-30",
@@ -4247,8 +4291,7 @@
       "hat",
       "shortHair",
       "brownHair"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-200": {
     "id": "us-200",
@@ -4256,6 +4299,7 @@
       "en": "Brenda",
       "pt": "Brenda"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -4267,8 +4311,7 @@
       "piercings",
       "mediumHair",
       "buttonShirt"
-    ],
-    "deck": "adult"
+    ]
   },
   "us-201": {
     "id": "us-201",
@@ -4276,6 +4319,7 @@
       "en": "Renato",
       "pt": "Renato"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "30-40",
@@ -4287,10 +4331,10 @@
       "beard",
       "blackHair",
       "avoidingCamera",
-      "shortHair"
+      "shortHair",
+      "greyClothes"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-202": {
     "id": "us-202",
@@ -4298,6 +4342,7 @@
       "en": "Genoveva",
       "pt": "Genevieve"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "70-80",
@@ -4311,10 +4356,10 @@
       "shortHair",
       "mediumHair",
       "greyHair",
-      "avoidingCamera"
+      "avoidingCamera",
+      "beigeClothes"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-203": {
     "id": "us-203",
@@ -4322,6 +4367,7 @@
       "en": "Augustus",
       "pt": "Augusto"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -4335,10 +4381,10 @@
       "shortHair",
       "blackHair",
       "showTeeth",
-      "avoidingCamera"
+      "avoidingCamera",
+      "holdingSomething"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-204": {
     "id": "us-204",
@@ -4346,6 +4392,7 @@
       "en": "Ingrid",
       "pt": "Ingrid"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "30-40",
@@ -4359,8 +4406,7 @@
       "avoidingCamera",
       "hairTie"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-205": {
     "id": "us-205",
@@ -4368,6 +4414,7 @@
       "en": "Pastor Jonas",
       "pt": "Pastor Jonas"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "40-50",
@@ -4384,8 +4431,7 @@
       "mustache",
       "shortHair"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-206": {
     "id": "us-206",
@@ -4393,6 +4439,7 @@
       "en": "Victoria",
       "pt": "Vitória"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "21-30",
@@ -4407,10 +4454,10 @@
       "hoodie",
       "avoidingCamera",
       "longHair",
-      "mediumHair"
+      "mediumHair",
+      "zipper"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-207": {
     "id": "us-207",
@@ -4418,6 +4465,7 @@
       "en": "Donato",
       "pt": "Donato"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "40-50",
@@ -4434,8 +4482,7 @@
       "shortHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-208": {
     "id": "us-208",
@@ -4443,6 +4490,7 @@
       "en": "Carla",
       "pt": "Carla"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -4459,8 +4507,7 @@
       "blondeHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-209": {
     "id": "us-209",
@@ -4468,6 +4515,7 @@
       "en": "Steven",
       "pt": "Estevão"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "30-40",
@@ -4484,8 +4532,7 @@
       "avoidingCamera",
       "shortHair"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-210": {
     "id": "us-210",
@@ -4493,6 +4540,7 @@
       "en": "Angelica",
       "pt": "Ângela"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "50-60",
@@ -4509,8 +4557,7 @@
       "shortHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-211": {
     "id": "us-211",
@@ -4518,6 +4565,7 @@
       "en": "Neil",
       "pt": "Nilo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "21-30",
@@ -4531,8 +4579,7 @@
       "showTeeth",
       "shortHair"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-212": {
     "id": "us-212",
@@ -4540,6 +4587,7 @@
       "en": "Laura",
       "pt": "Laura"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -4554,8 +4602,7 @@
       "longHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-213": {
     "id": "us-213",
@@ -4563,6 +4610,7 @@
       "en": "Michael",
       "pt": "Maicon"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "brown",
     "age": "40-50",
@@ -4576,8 +4624,7 @@
       "longHair",
       "lipstick"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-214": {
     "id": "us-214",
@@ -4585,6 +4632,7 @@
       "en": "Theresa",
       "pt": "Teresa"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "40-50",
@@ -4597,10 +4645,10 @@
       "patternedShirt",
       "purpleClothes",
       "blackHair",
-      "longHair"
+      "longHair",
+      "holdingSomething"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-215": {
     "id": "us-215",
@@ -4608,6 +4656,7 @@
       "en": "Messiah Jim",
       "pt": "Profeta João"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -4622,8 +4671,7 @@
       "mediumHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-216": {
     "id": "us-216",
@@ -4631,6 +4679,7 @@
       "en": "Liv",
       "pt": "Lívia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "asian",
     "age": "21-30",
@@ -4643,8 +4692,7 @@
       "longHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-217": {
     "id": "us-217",
@@ -4652,6 +4700,7 @@
       "en": "Albert",
       "pt": "Alberto"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -4667,8 +4716,7 @@
       "greyHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-218": {
     "id": "us-218",
@@ -4676,6 +4724,7 @@
       "en": "Izzy",
       "pt": "Isadora"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "21-30",
@@ -4690,8 +4739,7 @@
       "longHair",
       "brownHair"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-219": {
     "id": "us-219",
@@ -4699,6 +4747,7 @@
       "en": "Jerome",
       "pt": "Jerônimo"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "21-30",
@@ -4713,8 +4762,7 @@
       "shortHair",
       "earrings"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-220": {
     "id": "us-220",
@@ -4722,6 +4770,7 @@
       "en": "Adrian",
       "pt": "Adriano"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "40-50",
@@ -4743,8 +4792,7 @@
       "hairyChest",
       "glasses"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-221": {
     "id": "us-221",
@@ -4752,6 +4800,7 @@
       "en": "Mitchell",
       "pt": "Michel"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "mixed",
     "age": "30-40",
@@ -4768,8 +4817,7 @@
       "brownHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-222": {
     "id": "us-222",
@@ -4777,6 +4825,7 @@
       "en": "Maurice",
       "pt": "Maurício"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -4787,10 +4836,11 @@
       "blackClothes",
       "shortHair",
       "brownHair",
-      "beard"
+      "beard",
+      "holdingSomething",
+      "zipper"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-223": {
     "id": "us-223",
@@ -4798,6 +4848,7 @@
       "en": "Milton",
       "pt": "Milton"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "60-70",
@@ -4809,10 +4860,10 @@
       "whiteShirt",
       "avoidingCamera",
       "shortHair",
-      "greyHair"
+      "greyHair",
+      "zipper"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-224": {
     "id": "us-224",
@@ -4820,6 +4871,7 @@
       "en": "Lander",
       "pt": "Leandro"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "asian",
     "age": "21-30",
@@ -4831,8 +4883,7 @@
       "shortHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-225": {
     "id": "us-225",
@@ -4840,6 +4891,7 @@
       "en": "Chad",
       "pt": "Tadeu"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "30-40",
@@ -4853,8 +4905,7 @@
       "brownHair",
       "shortHair"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-226": {
     "id": "us-226",
@@ -4862,6 +4913,7 @@
       "en": "Regina",
       "pt": "Regina"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "black",
     "age": "30-40",
@@ -4876,8 +4928,7 @@
       "brownHair",
       "longHair"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-227": {
     "id": "us-227",
@@ -4885,6 +4936,7 @@
       "en": "Samuel",
       "pt": "Samuel"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "black",
     "age": "18-21",
@@ -4899,8 +4951,7 @@
       "shortHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-228": {
     "id": "us-228",
@@ -4908,6 +4959,7 @@
       "en": "Sylvia",
       "pt": "Sílvia"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "brown",
     "age": "21-30",
@@ -4922,8 +4974,7 @@
       "mediumHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-229": {
     "id": "us-229",
@@ -4931,6 +4982,7 @@
       "en": "Marcela",
       "pt": "Megan"
     },
+    "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "30-40",
@@ -4944,8 +4996,7 @@
       "whiteShirt",
       "longHair"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-230": {
     "id": "us-230",
@@ -4953,6 +5004,7 @@
       "en": "Thomas",
       "pt": "Padre Tomás"
     },
+    "deck": "adult",
     "gender": "male",
     "race": "white",
     "age": "70-80",
@@ -4965,8 +5017,7 @@
       "noAccessories",
       "brownClothes"
     ],
-    "gbExclusive": true,
-    "deck": "adult"
+    "gbExclusive": true
   },
   "us-231": {
     "id": "us-231",
@@ -4974,6 +5025,7 @@
       "en": "Miles",
       "pt": "Marcus Vinícius"
     },
+    "deck": "kid",
     "gender": "male",
     "race": "white",
     "age": "0-10",
@@ -4986,8 +5038,7 @@
       "blondeHair",
       "shortHair"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-232": {
     "id": "us-232",
@@ -4995,6 +5046,7 @@
       "en": "Penny",
       "pt": "Penélope"
     },
+    "deck": "kid",
     "gender": "female",
     "race": "black",
     "age": "0-10",
@@ -5006,8 +5058,7 @@
       "mediumHair",
       "brownHair"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-233": {
     "id": "us-233",
@@ -5015,6 +5066,7 @@
       "en": "Dylan",
       "pt": "Daniel"
     },
+    "deck": "kid",
     "gender": "male",
     "race": "brown",
     "age": "0-10",
@@ -5028,8 +5080,7 @@
       "showTeeth",
       "noAccessories"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-234": {
     "id": "us-234",
@@ -5037,6 +5088,7 @@
       "en": "Sandy",
       "pt": "Sabrina"
     },
+    "deck": "kid",
     "gender": "female",
     "race": "asian",
     "age": "0-10",
@@ -5049,8 +5101,7 @@
       "shortHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-235": {
     "id": "us-235",
@@ -5058,6 +5109,7 @@
       "en": "Brent",
       "pt": "Breno"
     },
+    "deck": "kid",
     "gender": "male",
     "race": "black",
     "age": "0-10",
@@ -5069,8 +5121,7 @@
       "shortHair",
       "brownHair"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-236": {
     "id": "us-236",
@@ -5078,6 +5129,7 @@
       "en": "Alice",
       "pt": "Alice"
     },
+    "deck": "kid",
     "gender": "female",
     "race": "white",
     "age": "0-10",
@@ -5089,8 +5141,7 @@
       "blondeHair",
       "longHair"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-237": {
     "id": "us-237",
@@ -5098,6 +5149,7 @@
       "en": "Isaac",
       "pt": "Igor"
     },
+    "deck": "kid",
     "gender": "male",
     "race": "white",
     "age": "0-10",
@@ -5114,8 +5166,7 @@
       "blueClothes",
       "yellowClothes"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-238": {
     "id": "us-238",
@@ -5123,6 +5174,7 @@
       "en": "Anna",
       "pt": "Aninha"
     },
+    "deck": "kid",
     "gender": "female",
     "race": "brown",
     "age": "0-10",
@@ -5136,8 +5188,7 @@
       "brownHair",
       "earrings"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-239": {
     "id": "us-239",
@@ -5145,6 +5196,7 @@
       "en": "Linus",
       "pt": "Lino"
     },
+    "deck": "kid",
     "gender": "male",
     "race": "asian",
     "age": "0-10",
@@ -5158,8 +5210,7 @@
       "brownHair",
       "avoidingCamera"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-240": {
     "id": "us-240",
@@ -5167,6 +5218,7 @@
       "en": "Matilda",
       "pt": "Matilda"
     },
+    "deck": "kid",
     "gender": "female",
     "race": "white",
     "age": "0-10",
@@ -5181,8 +5233,7 @@
       "redHair",
       "hoodie"
     ],
-    "gbExclusive": true,
-    "deck": "kid"
+    "gbExclusive": true
   },
   "us-241": {
     "id": "us-241",
@@ -5190,14 +5241,14 @@
       "en": "The dog",
       "pt": "O cachorro"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-242": {
     "id": "us-242",
@@ -5205,14 +5256,14 @@
       "en": "The cat",
       "pt": "O gato"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-243": {
     "id": "us-243",
@@ -5220,14 +5271,14 @@
       "en": "The turtle",
       "pt": "A tartaruga"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-244": {
     "id": "us-244",
@@ -5235,14 +5286,14 @@
       "en": "The bunny",
       "pt": "O coelhinho"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-245": {
     "id": "us-245",
@@ -5250,14 +5301,14 @@
       "en": "The hamster",
       "pt": "O hamister"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-246": {
     "id": "us-246",
@@ -5265,14 +5316,14 @@
       "en": "The bird",
       "pt": "O periquito"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-247": {
     "id": "us-247",
@@ -5280,14 +5331,14 @@
       "en": "The goldfish",
       "pt": "O peixe"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-248": {
     "id": "us-248",
@@ -5295,14 +5346,14 @@
       "en": "The Iguana",
       "pt": "A iguana"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-249": {
     "id": "us-249",
@@ -5310,14 +5361,14 @@
       "en": "The tarantula",
       "pt": "A aranha"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-250": {
     "id": "us-250",
@@ -5325,14 +5376,14 @@
       "en": "The plant",
       "pt": "A planta"
     },
+    "deck": "pet",
     "gender": "other",
     "race": "other",
     "age": "0-10",
     "height": "",
     "build": "",
     "features": [],
-    "gbExclusive": true,
-    "deck": "pet"
+    "gbExclusive": true
   },
   "us-251": {
     "id": "us-251",
@@ -5340,14 +5391,14 @@
       "en": "Ethan",
       "pt": "Eduardo"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-252": {
     "id": "us-252",
@@ -5355,14 +5406,14 @@
       "en": "Ashley",
       "pt": "Amanda"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-253": {
     "id": "us-253",
@@ -5370,14 +5421,14 @@
       "en": "Carlos",
       "pt": "Carlos"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "brown",
     "age": "14-17",
     "height": "short",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-254": {
     "id": "us-254",
@@ -5385,14 +5436,14 @@
       "en": "Sabrina",
       "pt": "Sabrina"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "brown",
     "age": "14-17",
     "height": "tall",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-255": {
     "id": "us-255",
@@ -5400,14 +5451,14 @@
       "en": "Aaliyah",
       "pt": "Aline"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "black",
     "age": "14-17",
     "height": "short",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-256": {
     "id": "us-256",
@@ -5415,14 +5466,14 @@
       "en": "Kai",
       "pt": "Kai"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "asian",
     "age": "14-17",
     "height": "medium",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-257": {
     "id": "us-257",
@@ -5430,14 +5481,14 @@
       "en": "Brandon",
       "pt": "Bruno"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-258": {
     "id": "us-258",
@@ -5445,14 +5496,14 @@
       "en": "Liam",
       "pt": "Lucas"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "other",
     "age": "14-17",
     "height": "tall",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-259": {
     "id": "us-259",
@@ -5460,14 +5511,14 @@
       "en": "Emma",
       "pt": "Emanuela"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-260": {
     "id": "us-260",
@@ -5475,14 +5526,14 @@
       "en": "Jake",
       "pt": "João"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-261": {
     "id": "us-261",
@@ -5490,14 +5541,14 @@
       "en": "Tyler",
       "pt": "Tiago"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-262": {
     "id": "us-262",
@@ -5505,14 +5556,14 @@
       "en": "Tasha",
       "pt": "Tatiana"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "black",
     "age": "14-17",
     "height": "medium",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-263": {
     "id": "us-263",
@@ -5520,14 +5571,14 @@
       "en": "Marcus",
       "pt": "Maurício"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "black",
     "age": "14-17",
     "height": "medium",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-264": {
     "id": "us-264",
@@ -5535,14 +5586,14 @@
       "en": "Jessica",
       "pt": "Juliana"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-265": {
     "id": "us-265",
@@ -5550,14 +5601,14 @@
       "en": "Olivia",
       "pt": "Olívia"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-266": {
     "id": "us-266",
@@ -5565,14 +5616,14 @@
       "en": "Valerie",
       "pt": "Valéria"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-267": {
     "id": "us-267",
@@ -5580,14 +5631,14 @@
       "en": "John",
       "pt": "Juca"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "asian",
     "age": "14-17",
     "height": "tall",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-268": {
     "id": "us-268",
@@ -5595,14 +5646,14 @@
       "en": "Mei",
       "pt": "Mila"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "asian",
     "age": "14-17",
     "height": "short",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-269": {
     "id": "us-269",
@@ -5610,14 +5661,14 @@
       "en": "Arjun",
       "pt": "Arun"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "brown",
     "age": "14-17",
     "height": "medium",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-270": {
     "id": "us-270",
@@ -5625,14 +5676,14 @@
       "en": "Layla",
       "pt": "Laila"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "other",
     "age": "14-17",
     "height": "short",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-271": {
     "id": "us-271",
@@ -5640,14 +5691,14 @@
       "en": "Zhang",
       "pt": "Zhang"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "asian",
     "age": "14-17",
     "height": "tall",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-272": {
     "id": "us-272",
@@ -5655,14 +5706,14 @@
       "en": "Alejandro",
       "pt": "Alexandre"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "brown",
     "age": "14-17",
     "height": "tall",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-273": {
     "id": "us-273",
@@ -5670,14 +5721,14 @@
       "en": "Maya",
       "pt": "Mirela"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "other",
     "age": "14-17",
     "height": "medium",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-274": {
     "id": "us-274",
@@ -5685,14 +5736,14 @@
       "en": "Benjamin",
       "pt": "Benjamim"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-275": {
     "id": "us-275",
@@ -5700,14 +5751,14 @@
       "en": "Alexander",
       "pt": "Arthur"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-276": {
     "id": "us-276",
@@ -5715,14 +5766,14 @@
       "en": "Ezra",
       "pt": "Ezra"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-277": {
     "id": "us-277",
@@ -5730,14 +5781,14 @@
       "en": "Victoria",
       "pt": "Vitória"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-278": {
     "id": "us-278",
@@ -5745,14 +5796,14 @@
       "en": "Madison",
       "pt": "Melissa"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-279": {
     "id": "us-279",
@@ -5760,14 +5811,14 @@
       "en": "Javier",
       "pt": "Jorge"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "brown",
     "age": "14-17",
     "height": "tall",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-280": {
     "id": "us-280",
@@ -5775,14 +5826,14 @@
       "en": "Chloe",
       "pt": "Clara"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-281": {
     "id": "us-281",
@@ -5790,14 +5841,14 @@
       "en": "Kevin",
       "pt": "Caio"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-282": {
     "id": "us-282",
@@ -5805,14 +5856,14 @@
       "en": "Lily",
       "pt": "Letícia"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "asian",
     "age": "14-17",
     "height": "tall",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-283": {
     "id": "us-283",
@@ -5820,14 +5871,14 @@
       "en": "Priya",
       "pt": "Priscila"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "brown",
     "age": "14-17",
     "height": "medium",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-284": {
     "id": "us-284",
@@ -5835,14 +5886,14 @@
       "en": "Dylan",
       "pt": "Diego"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-285": {
     "id": "us-285",
@@ -5850,14 +5901,14 @@
       "en": "Ryan",
       "pt": "Ricardo"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-286": {
     "id": "us-286",
@@ -5865,14 +5916,14 @@
       "en": "Abigail",
       "pt": "Ana"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-287": {
     "id": "us-287",
@@ -5880,14 +5931,14 @@
       "en": "Maria",
       "pt": "Mariana"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "brown",
     "age": "14-17",
     "height": "short",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-288": {
     "id": "us-288",
@@ -5895,14 +5946,14 @@
       "en": "Hannah",
       "pt": "Helena"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-289": {
     "id": "us-289",
@@ -5910,14 +5961,14 @@
       "en": "Jacob",
       "pt": "José"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-290": {
     "id": "us-290",
@@ -5925,14 +5976,14 @@
       "en": "Oliver",
       "pt": "Otávio"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-291": {
     "id": "us-291",
@@ -5940,14 +5991,14 @@
       "en": "Penelope",
       "pt": "Penélope"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-292": {
     "id": "us-292",
@@ -5955,14 +6006,14 @@
       "en": "Daniel",
       "pt": "Danilo"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-293": {
     "id": "us-293",
@@ -5970,14 +6021,14 @@
       "en": "Raven",
       "pt": "Raquel"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-294": {
     "id": "us-294",
@@ -5985,14 +6036,14 @@
       "en": "Travis",
       "pt": "Thiago"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-295": {
     "id": "us-295",
@@ -6000,14 +6051,14 @@
       "en": "Luna",
       "pt": "Lívia"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-296": {
     "id": "us-296",
@@ -6015,14 +6066,14 @@
       "en": "Jordan",
       "pt": "Joana"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "black",
     "age": "14-17",
     "height": "tall",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-297": {
     "id": "us-297",
@@ -6030,14 +6081,14 @@
       "en": "Grace",
       "pt": "Gabriela"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "tall",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-298": {
     "id": "us-298",
@@ -6045,14 +6096,14 @@
       "en": "Ben",
       "pt": "Bruno"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-299": {
     "id": "us-299",
@@ -6060,14 +6111,14 @@
       "en": "Max",
       "pt": "Mateus"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-300": {
     "id": "us-300",
@@ -6075,14 +6126,14 @@
       "en": "Emily",
       "pt": "Evelyn"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-301": {
     "id": "us-301",
@@ -6090,14 +6141,14 @@
       "en": "Jamal",
       "pt": "Joaquim"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "black",
     "age": "14-17",
     "height": "short",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-302": {
     "id": "us-302",
@@ -6105,14 +6156,14 @@
       "en": "Evan",
       "pt": "Enzo"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-303": {
     "id": "us-303",
@@ -6120,14 +6171,14 @@
       "en": "Miguel",
       "pt": "Maurício"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "brown",
     "age": "14-17",
     "height": "tall",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-304": {
     "id": "us-304",
@@ -6135,14 +6186,14 @@
       "en": "Camila",
       "pt": "Cecília"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "brown",
     "age": "14-17",
     "height": "tall",
     "build": "average",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-305": {
     "id": "us-305",
@@ -6150,14 +6201,14 @@
       "en": "William",
       "pt": "Wesley"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-306": {
     "id": "us-306",
@@ -6165,14 +6216,14 @@
       "en": "Sarah",
       "pt": "Sara"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-307": {
     "id": "us-307",
@@ -6180,14 +6231,14 @@
       "en": "Isabella",
       "pt": "Isabela"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-308": {
     "id": "us-308",
@@ -6195,14 +6246,14 @@
       "en": "Noah",
       "pt": "Nicolas"
     },
+    "deck": "teen",
     "gender": "male",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-309": {
     "id": "us-309",
@@ -6210,14 +6261,14 @@
       "en": "Sophie",
       "pt": "Sofia"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "medium",
     "build": "small",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-310": {
     "id": "us-310",
@@ -6225,14 +6276,14 @@
       "en": "Diana",
       "pt": "Diana"
     },
+    "deck": "teen",
     "gender": "female",
     "race": "white",
     "age": "14-17",
     "height": "short",
     "build": "large",
     "features": [],
-    "gbExclusive": true,
-    "deck": "teen"
+    "gbExclusive": true
   },
   "us-311": {
     "id": "us-311",
@@ -6243,10 +6294,22 @@
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "hoodie",
+      "blackClothes",
+      "beard",
+      "goatee",
+      "shortHair",
+      "blackHair",
+      "showTeeth",
+      "avoidingCamera",
+      "yellowClothes",
+      "wearingStripes",
+      "mustache"
+    ],
     "gbExclusive": true
   },
   "us-312": {
@@ -6258,10 +6321,20 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "hairTie",
+      "noAccessories",
+      "blueClothes",
+      "mediumHair",
+      "brownHair",
+      "showTeeth",
+      "lipstick",
+      "buttonShirt",
+      "greyClothes"
+    ],
     "gbExclusive": true
   },
   "us-313": {
@@ -6273,25 +6346,42 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "earrings",
+      "hairTie",
+      "hat",
+      "longHair",
+      "brownHair",
+      "avoidingCamera",
+      "glasses",
+      "lipstick",
+      "brownClothes",
+      "zipper"
+    ],
     "gbExclusive": true
   },
   "us-314": {
     "id": "us-314",
     "name": {
       "en": "Jaxon",
-      "pt": "Jaxon"
+      "pt": "Jaime"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "tall",
+    "build": "muscular",
+    "features": [
+      "blackClothes",
+      "beard",
+      "blackHair",
+      "shortHair",
+      "holdingSomething"
+    ],
     "gbExclusive": true
   },
   "us-315": {
@@ -6303,10 +6393,16 @@
     "deck": "adult",
     "gender": "male",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "blackClothes",
+      "blackHair",
+      "shortHair",
+      "avoidingCamera",
+      "zipper"
+    ],
     "gbExclusive": true
   },
   "us-316": {
@@ -6318,10 +6414,19 @@
     "deck": "adult",
     "gender": "female",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "noAccessories",
+      "buttonShirt",
+      "orangeClothes",
+      "lipstick",
+      "blackHair",
+      "mediumHair",
+      "holdingSomething",
+      "purpleClothes"
+    ],
     "gbExclusive": true
   },
   "us-317": {
@@ -6333,25 +6438,43 @@
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "necklace",
+      "beard",
+      "blackHair",
+      "bald",
+      "shortHair",
+      "hairyChest",
+      "greyClothes"
+    ],
     "gbExclusive": true
   },
   "us-318": {
     "id": "us-318",
     "name": {
       "en": "Malik",
-      "pt": "Malik"
+      "pt": "Marco Paulo"
     },
     "deck": "adult",
     "gender": "male",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "18-21",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "hoodie",
+      "necklace",
+      "goatee",
+      "mustache",
+      "blackHair",
+      "shortHair",
+      "redClothes",
+      "hat"
+    ],
     "gbExclusive": true
   },
   "us-319": {
@@ -6363,55 +6486,88 @@
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "patternedShirt",
+      "purpleClothes",
+      "wearingStripes",
+      "beard",
+      "brownHair",
+      "shortHair",
+      "greyClothes",
+      "holdingSomething"
+    ],
     "gbExclusive": true
   },
   "us-320": {
     "id": "us-320",
     "name": {
       "en": "Nick",
-      "pt": "Nico"
+      "pt": "Nick"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "earrings",
+      "glasses",
+      "buttonShirt",
+      "beard",
+      "blondeHair",
+      "greyClothes",
+      "shortHair",
+      "brownHair"
+    ],
     "gbExclusive": true
   },
   "us-321": {
     "id": "us-321",
     "name": {
       "en": "Fox",
-      "pt": "Fábio"
+      "pt": "Fernando"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "hat",
+      "greyClothes",
+      "shortHair",
+      "brownHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-322": {
     "id": "us-322",
     "name": {
       "en": "Beatrice",
-      "pt": "Bia"
+      "pt": "Beatriz"
     },
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "bow",
+      "headscarf",
+      "greenClothes",
+      "avoidingCamera",
+      "redHair",
+      "longHair",
+      "beigeClothes"
+    ],
     "gbExclusive": true
   },
   "us-323": {
@@ -6423,10 +6579,16 @@
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "buttonShirt",
+      "yellowClothes",
+      "brownHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-324": {
@@ -6438,10 +6600,21 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "necklace",
+      "piercings",
+      "blackClothes",
+      "lipstick",
+      "blackHair",
+      "blondeHair",
+      "greyClothes",
+      "mediumHair",
+      "showTeeth",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-325": {
@@ -6452,11 +6625,17 @@
     },
     "deck": "adult",
     "gender": "female",
-    "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "race": "brown",
+    "age": "21-30",
+    "height": "medium",
+    "build": "muscular",
+    "features": [
+      "earrings",
+      "greenClothes",
+      "lipstick",
+      "blackHair",
+      "longHair"
+    ],
     "gbExclusive": true
   },
   "us-326": {
@@ -6468,10 +6647,16 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "buttonShirt",
+      "blondeHair",
+      "mediumHair",
+      "whiteShirt"
+    ],
     "gbExclusive": true
   },
   "us-327": {
@@ -6483,10 +6668,19 @@
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "blackClothes",
+      "wearingStripes",
+      "blueClothes",
+      "goatee",
+      "mustache",
+      "blackHair",
+      "shortHair",
+      "zipper"
+    ],
     "gbExclusive": true
   },
   "us-328": {
@@ -6498,25 +6692,42 @@
     "deck": "adult",
     "gender": "male",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "tie",
+      "bow",
+      "blackClothes",
+      "buttonShirt",
+      "whiteShirt",
+      "mustache",
+      "blackHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-329": {
     "id": "us-329",
     "name": {
       "en": "Sammy",
-      "pt": "Samuel"
+      "pt": "Silvio"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "glasses",
+      "buttonShirt",
+      "yellowClothes",
+      "brownHair",
+      "pinkClothes",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-330": {
@@ -6528,25 +6739,44 @@
     "deck": "adult",
     "gender": "male",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "earrings",
+      "greenClothes",
+      "wearingStripes",
+      "blueClothes",
+      "avoidingCamera",
+      "shortHair",
+      "coloredHair",
+      "zipper"
+    ],
     "gbExclusive": true
   },
   "us-331": {
     "id": "us-331",
     "name": {
-      "en": "Brenda",
-      "pt": "Brenda"
+      "en": "Barbara",
+      "pt": "Bárbara"
     },
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "earrings",
+      "hat",
+      "buttonShirt",
+      "blueClothes",
+      "lipstick",
+      "brownHair",
+      "shortHair",
+      "hairyChest",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-332": {
@@ -6558,25 +6788,38 @@
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "redClothes",
+      "brownHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-333": {
     "id": "us-333",
     "name": {
-      "en": "Valdir",
-      "pt": "Valdir"
+      "en": "Vander",
+      "pt": "Vanderlei"
     },
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "hat",
+      "whiteShirt",
+      "beard",
+      "brownHair",
+      "goatee",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-334": {
@@ -6588,10 +6831,17 @@
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "glasses",
+      "blackClothes",
+      "patternedShirt",
+      "beard",
+      "brownHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-335": {
@@ -6603,10 +6853,18 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "earrings",
+      "scarf",
+      "blackClothes",
+      "lipstick",
+      "blondeHair",
+      "mediumHair",
+      "longHair"
+    ],
     "gbExclusive": true
   },
   "us-336": {
@@ -6618,10 +6876,17 @@
     "deck": "adult",
     "gender": "male",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "short",
+    "build": "average",
+    "features": [
+      "tie",
+      "buttonShirt",
+      "shortHair",
+      "blackHair",
+      "greyHair",
+      "blueClothes"
+    ],
     "gbExclusive": true
   },
   "us-337": {
@@ -6633,10 +6898,16 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "60-70",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "purpleClothes",
+      "lipstick",
+      "greyHair",
+      "mediumHair",
+      "turtleNeck"
+    ],
     "gbExclusive": true
   },
   "us-338": {
@@ -6648,10 +6919,21 @@
     "deck": "adult",
     "gender": "female",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "50-60",
+    "height": "short",
+    "build": "large",
+    "features": [
+      "earrings",
+      "hairTie",
+      "necklace",
+      "patternedShirt",
+      "lipstick",
+      "blackHair",
+      "longHair",
+      "redClothes",
+      "avoidingCamera",
+      "greyHair"
+    ],
     "gbExclusive": true
   },
   "us-339": {
@@ -6663,40 +6945,59 @@
     "deck": "adult",
     "gender": "female",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "hairTie",
+      "buttonShirt",
+      "lipstick",
+      "blackHair",
+      "longHair",
+      "purpleClothes"
+    ],
     "gbExclusive": true
   },
   "us-340": {
     "id": "us-340",
     "name": {
-      "en": "Hector",
-      "pt": "Heitor"
+      "en": "Hudson",
+      "pt": "Hudson"
     },
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "noAccessories",
+      "blackClothes",
+      "shortHair",
+      "brownHair"
+    ],
     "gbExclusive": true
   },
   "us-341": {
     "id": "us-341",
     "name": {
-      "en": "Leo",
-      "pt": "Léo"
+      "en": "Lorne",
+      "pt": "Lauro"
     },
     "deck": "adult",
     "gender": "other",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "short",
+    "build": "average",
+    "features": [
+      "earrings",
+      "blackClothes",
+      "blackHair",
+      "shortHair",
+      "beard",
+      "brownHair"
+    ],
     "gbExclusive": true
   },
   "us-342": {
@@ -6708,10 +7009,17 @@
     "deck": "adult",
     "gender": "male",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "blackClothes",
+      "blueClothes",
+      "blackHair",
+      "greenClothes",
+      "buttonShirt",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-343": {
@@ -6723,25 +7031,42 @@
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "earrings",
+      "necklace",
+      "buttonShirt",
+      "patternedShirt",
+      "purpleClothes",
+      "yellowClothes",
+      "blackHair",
+      "shortHair",
+      "hairyChest",
+      "blueClothes"
+    ],
     "gbExclusive": true
   },
   "us-344": {
     "id": "us-344",
     "name": {
       "en": "Marcus",
-      "pt": "Marcos"
+      "pt": "Murilo"
     },
     "deck": "adult",
     "gender": "male",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "necklace",
+      "purpleClothes",
+      "mustache",
+      "blackHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-345": {
@@ -6753,10 +7078,18 @@
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "50-60",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "hat",
+      "buttonShirt",
+      "whiteShirt",
+      "mustache",
+      "blackHair",
+      "necklace",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-346": {
@@ -6768,85 +7101,128 @@
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "50-60",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "patternedShirt",
+      "redClothes",
+      "blondeHair",
+      "greyHair",
+      "longHair",
+      "mustache"
+    ],
     "gbExclusive": true
   },
   "us-347": {
     "id": "us-347",
     "name": {
       "en": "Amber",
-      "pt": "Amber"
+      "pt": "Arlete"
     },
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "necklace",
+      "whiteShirt",
+      "blueClothes",
+      "lipstick",
+      "blondeHair",
+      "longHair",
+      "brownHair",
+      "showTeeth"
+    ],
     "gbExclusive": true
   },
   "us-348": {
     "id": "us-348",
     "name": {
       "en": "Gaia",
-      "pt": "Gaia"
+      "pt": "Gisele"
     },
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "hairTie",
+      "noAccessories",
+      "blondeHair",
+      "longHair",
+      "shirtless"
+    ],
     "gbExclusive": true
   },
   "us-349": {
     "id": "us-349",
     "name": {
-      "en": "Keisha",
+      "en": "Karina",
       "pt": "Keisha"
     },
     "deck": "adult",
     "gender": "female",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "hairTie",
+      "noAccessories",
+      "blueClothes",
+      "lipstick",
+      "blackHair",
+      "longHair"
+    ],
     "gbExclusive": true
   },
   "us-350": {
     "id": "us-350",
     "name": {
-      "en": "Divine",
+      "en": "Danúbia",
       "pt": "Divine"
     },
     "deck": "adult",
     "gender": "other",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "50-60",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "earrings",
+      "necklace",
+      "purpleClothes",
+      "lipstick",
+      "blondeHair",
+      "mediumHair"
+    ],
     "gbExclusive": true
   },
   "us-351": {
     "id": "us-351",
     "name": {
       "en": "Harvey",
-      "pt": "Harvey"
+      "pt": "Hamilton"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "medium",
+    "build": "large",
+    "features": [
+      "glasses",
+      "buttonShirt",
+      "greenClothes",
+      "brownHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-352": {
@@ -6858,10 +7234,16 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "50-60",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "glasses",
+      "greenClothes",
+      "greyHair",
+      "turtleNeck",
+      "mediumHair"
+    ],
     "gbExclusive": true
   },
   "us-353": {
@@ -6873,10 +7255,16 @@
     "deck": "adult",
     "gender": "female",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "glasses",
+      "hairTie",
+      "lipstick",
+      "blackHair",
+      "longHair"
+    ],
     "gbExclusive": true
   },
   "us-354": {
@@ -6888,10 +7276,15 @@
     "deck": "adult",
     "gender": "female",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "hairTie",
+      "lipstick",
+      "blackHair",
+      "longHair"
+    ],
     "gbExclusive": true
   },
   "us-355": {
@@ -6903,25 +7296,40 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "patternedShirt",
+      "purpleClothes",
+      "lipstick",
+      "coloredHair",
+      "redHair",
+      "mediumHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-356": {
     "id": "us-356",
     "name": {
-      "en": "Captain Maverick",
-      "pt": "Capitão Maverick"
+      "en": "Maverick",
+      "pt": "Mário"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "50-60",
+    "height": "tall",
+    "build": "muscular",
+    "features": [
+      "noAccessories",
+      "blueClothes",
+      "greyHair",
+      "shortHair",
+      "zipper"
+    ],
     "gbExclusive": true
   },
   "us-357": {
@@ -6933,85 +7341,127 @@
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "noAccessories",
+      "orangeClothes",
+      "patternedShirt",
+      "wearingStripes",
+      "whiteShirt",
+      "blueClothes",
+      "beard",
+      "shortHair",
+      "blackHair"
+    ],
     "gbExclusive": true
   },
   "us-358": {
     "id": "us-358",
     "name": {
-      "en": "Carlos",
-      "pt": "Carlos"
+      "en": "Carl",
+      "pt": "Celso"
     },
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "blackClothes",
+      "blackHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-359": {
     "id": "us-359",
     "name": {
       "en": "Brad",
-      "pt": "Brad"
+      "pt": "Bóris"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "tie",
+      "buttonShirt",
+      "whiteShirt",
+      "blondeHair",
+      "showTeeth",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-360": {
     "id": "us-360",
     "name": {
-      "en": "Arthur",
-      "pt": "Artur"
+      "en": "Arnold",
+      "pt": "Arnaldo"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "60-70",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "buttonShirt",
+      "redClothes",
+      "blueClothes",
+      "greyHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-361": {
     "id": "us-361",
     "name": {
       "en": "Joy",
-      "pt": "Joy"
+      "pt": "Janaína"
     },
     "deck": "adult",
     "gender": "female",
     "race": "white",
     "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "earrings",
+      "necklace",
+      "greenClothes",
+      "lipstick",
+      "blondeHair",
+      "longHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-362": {
     "id": "us-362",
     "name": {
       "en": "Whisper Lily",
-      "pt": "Lírio dos Sussurros"
+      "pt": "Lili"
     },
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "18-21",
+    "height": "tall",
+    "build": "thin",
+    "features": [
+      "hoodie",
+      "noAccessories",
+      "longHair",
+      "beigeClothes",
+      "brownHair"
+    ],
     "gbExclusive": true
   },
   "us-363": {
@@ -7023,10 +7473,17 @@
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "buttonShirt",
+      "blueClothes",
+      "beard",
+      "blackHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-364": {
@@ -7038,10 +7495,16 @@
     "deck": "adult",
     "gender": "male",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "noAccessories",
+      "greyClothes",
+      "shortHair",
+      "zipper",
+      "blackHair"
+    ],
     "gbExclusive": true
   },
   "us-365": {
@@ -7053,25 +7516,40 @@
     "deck": "adult",
     "gender": "male",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "medium",
+    "build": "muscular",
+    "features": [
+      "noAccessories",
+      "hoodie",
+      "redClothes",
+      "blackHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-366": {
     "id": "us-366",
     "name": {
       "en": "Grandma Gigi",
-      "pt": "Vovó Gigi"
+      "pt": "Gigi"
     },
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "70-80",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "glasses",
+      "hat",
+      "necklace",
+      "blueClothes",
+      "lipstick",
+      "greyHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-367": {
@@ -7083,40 +7561,63 @@
     "deck": "adult",
     "gender": "female",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "hairTie",
+      "noAccessories",
+      "blackClothes",
+      "lipstick",
+      "blackHair",
+      "longHair"
+    ],
     "gbExclusive": true
   },
   "us-368": {
     "id": "us-368",
     "name": {
       "en": "Checo",
-      "pt": "Checo"
+      "pt": "Cícero"
     },
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "18-21",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "hoodie",
+      "orangeClothes",
+      "beard",
+      "goatee",
+      "showTeeth",
+      "shortHair",
+      "avoidingCamera",
+      "zipper",
+      "blackHair"
+    ],
     "gbExclusive": true
   },
   "us-369": {
     "id": "us-369",
     "name": {
       "en": "Toby",
-      "pt": "Toby"
+      "pt": "Tobias"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "noAccessories",
+      "blackClothes",
+      "brownHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-370": {
@@ -7128,10 +7629,17 @@
     "deck": "adult",
     "gender": "female",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "50-60",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "earrings",
+      "greenClothes",
+      "yellowClothes",
+      "blackHair",
+      "shortHair",
+      "greyHair"
+    ],
     "gbExclusive": true
   },
   "us-371": {
@@ -7143,25 +7651,38 @@
     "deck": "adult",
     "gender": "male",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "muscular",
+    "features": [
+      "greenClothes",
+      "blackHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-372": {
     "id": "us-372",
     "name": {
-      "en": "Nervous Ned",
-      "pt": "Nédio"
+      "en": "Ned",
+      "pt": "Newton"
     },
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "noAccessories",
+      "blackClothes",
+      "brownClothes",
+      "showTeeth",
+      "turtleNeck",
+      "avoidingCamera",
+      "brownHair",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-373": {
@@ -7173,10 +7694,15 @@
     "deck": "adult",
     "gender": "male",
     "race": "white",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "tall",
+    "build": "average",
+    "features": [
+      "hat",
+      "blondeHair",
+      "greyClothes",
+      "shortHair"
+    ],
     "gbExclusive": true
   },
   "us-374": {
@@ -7188,25 +7714,45 @@
     "deck": "adult",
     "gender": "male",
     "race": "brown",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "40-50",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "noAccessories",
+      "blackClothes",
+      "buttonShirt",
+      "redClothes",
+      "blackHair",
+      "shortHair",
+      "avoidingCamera"
+    ],
     "gbExclusive": true
   },
   "us-375": {
     "id": "us-375",
     "name": {
       "en": "Latoya",
-      "pt": "Latoya"
+      "pt": "Luizete"
     },
     "deck": "adult",
     "gender": "female",
     "race": "black",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "30-40",
+    "height": "tall",
+    "build": "large",
+    "features": [
+      "earrings",
+      "hairTie",
+      "greenClothes",
+      "patternedShirt",
+      "purpleClothes",
+      "orangeClothes",
+      "blueClothes",
+      "pinkClothes",
+      "lipstick",
+      "mediumHair",
+      "brownHair"
+    ],
     "gbExclusive": true
   },
   "us-376": {
@@ -7218,25 +7764,42 @@
     "deck": "adult",
     "gender": "female",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "21-30",
+    "height": "short",
+    "build": "thin",
+    "features": [
+      "hairTie",
+      "purpleClothes",
+      "lipstick",
+      "blackHair",
+      "longHair",
+      "noAccessories"
+    ],
     "gbExclusive": true
   },
   "us-377": {
     "id": "us-377",
     "name": {
-      "en": "Lin",
-      "pt": "Lin"
+      "en": "Ling",
+      "pt": "Lina"
     },
     "deck": "adult",
     "gender": "female",
     "race": "asian",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "60-70",
+    "height": "short",
+    "build": "large",
+    "features": [
+      "hairTie",
+      "wearingFlowers",
+      "greenClothes",
+      "patternedShirt",
+      "orangeClothes",
+      "lipstick",
+      "greyHair",
+      "blackHair",
+      "longHair"
+    ],
     "gbExclusive": true
   },
   "us-378": {
@@ -7247,11 +7810,17 @@
     },
     "deck": "adult",
     "gender": "female",
-    "race": "other",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "race": "white",
+    "age": "0-10",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "noAccessories",
+      "lipstick",
+      "blondeHair",
+      "shortHair",
+      "shirtless"
+    ],
     "gbExclusive": true
   },
   "us-379": {
@@ -7263,10 +7832,15 @@
     "deck": "adult",
     "gender": "other",
     "race": "other",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "0-10",
+    "height": "medium",
+    "build": "thin",
+    "features": [
+      "noAccessories",
+      "orangeClothes",
+      "noHairInfo",
+      "bald"
+    ],
     "gbExclusive": true
   },
   "us-380": {
@@ -7278,10 +7852,17 @@
     "deck": "adult",
     "gender": "other",
     "race": "other",
-    "age": "",
-    "build": "",
-    "height": "",
-    "features": [],
+    "age": "0-10",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "noAccessories",
+      "buttonShirt",
+      "patternedShirt",
+      "yellowClothes",
+      "noHairInfo",
+      "bald"
+    ],
     "gbExclusive": true
   }
 }
