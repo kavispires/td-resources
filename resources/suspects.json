@@ -340,7 +340,7 @@
     "id": "us-016",
     "name": {
       "en": "Prisca",
-      "pt": "Priscila"
+      "pt": "Priyanka"
     },
     "deck": "adult",
     "gender": "female",
@@ -6621,7 +6621,7 @@
     "id": "us-325",
     "name": {
       "en": "Nayara",
-      "pt": "Nayara"
+      "pt": "Naiara"
     },
     "deck": "adult",
     "gender": "female",
@@ -7185,8 +7185,8 @@
   "us-350": {
     "id": "us-350",
     "name": {
-      "en": "Danúbia",
-      "pt": "Divine"
+      "en": "Divine",
+      "pt": "Danúbia"
     },
     "deck": "adult",
     "gender": "other",
@@ -7805,7 +7805,7 @@
   "us-378": {
     "id": "us-378",
     "name": {
-      "en": "",
+      "en": "Mary",
       "pt": "Marina"
     },
     "deck": "adult",
@@ -7814,13 +7814,18 @@
     "age": "21-30",
     "height": "medium",
     "build": "average",
-    "features": [],
+    "features": [
+      "lipstick",
+      "brownHair",
+      "longHair",
+      "showTeeth"
+    ],
     "gbExclusive": true
   },
-    "us-379": {
+  "us-379": {
     "id": "us-379",
     "name": {
-      "en": "",
+      "en": "Gemma",
       "pt": "Geralda"
     },
     "deck": "adult",
@@ -7829,22 +7834,39 @@
     "age": "50-60",
     "height": "medium",
     "build": "average",
-    "features": [],
+    "features": [
+      "necklace",
+      "earrings",
+      "headscarf",
+      "orangeClothes",
+      "lipstick",
+      "greyHair",
+      "brownHair",
+      "longHair"
+    ],
     "gbExclusive": true
   },
-    "us-380": {
+  "us-380": {
     "id": "us-380",
     "name": {
-      "en": "",
+      "en": "Lena",
       "pt": "Leda"
     },
     "deck": "adult",
     "gender": "female",
-    "race": "",
-    "age": "",
-    "height": "",
-    "build": "",
-    "features": [],
+    "race": "brown",
+    "age": "40-50",
+    "height": "medium",
+    "build": "average",
+    "features": [
+      "mediumHair",
+      "brownHair",
+      "avoidingCamera",
+      "earrings",
+      "greenClothes",
+      "purpleClothes",
+      "lipstick"
+    ],
     "gbExclusive": true
   },
   "us-381": {
@@ -7871,8 +7893,8 @@
   "us-382": {
     "id": "us-382",
     "name": {
-      "en": "Unit 01",
-      "pt": "Unidade 01"
+      "en": "Unit AX1",
+      "pt": "Unidade AX1"
     },
     "deck": "adult",
     "gender": "other",
@@ -7910,7 +7932,7 @@
     ],
     "gbExclusive": true
   },
-      "us-384": {
+  "us-384": {
     "id": "us-384",
     "name": {
       "en": "Alien",
@@ -7922,22 +7944,33 @@
     "age": "0",
     "height": "medium",
     "build": "small",
-    "features": [],
+    "features": [
+      "blondeHair",
+      "shortHair",
+      "showTeeth",
+      "noAccessories",
+      "redClothes"
+    ],
     "gbExclusive": true
   },
-      "us-385": {
+  "us-385": {
     "id": "us-385",
     "name": {
-      "en": "",
-      "pt": "Boneco do Posto"
+      "en": "Boneco do Posto",
+      "pt": "Alienígena"
     },
     "deck": "adult",
     "gender": "other",
     "race": "other",
     "age": "0",
     "height": "tall",
-    "build": "",
-    "features": [],
+    "build": "thin",
+    "features": [
+      "greyClothes",
+      "bald",
+      "noHairInfo",
+      "turtleNeck"
+    ],
     "gbExclusive": true
   }
 }
