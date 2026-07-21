@@ -7805,6 +7805,51 @@
   "us-378": {
     "id": "us-378",
     "name": {
+      "en": "",
+      "pt": "Marina"
+    },
+    "deck": "adult",
+    "gender": "female",
+    "race": "white",
+    "age": "21-30",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true
+  },
+    "us-379": {
+    "id": "us-379",
+    "name": {
+      "en": "",
+      "pt": "Geralda"
+    },
+    "deck": "adult",
+    "gender": "female",
+    "race": "brown",
+    "age": "50-60",
+    "height": "medium",
+    "build": "average",
+    "features": [],
+    "gbExclusive": true
+  },
+    "us-380": {
+    "id": "us-380",
+    "name": {
+      "en": "",
+      "pt": "Leda"
+    },
+    "deck": "adult",
+    "gender": "female",
+    "race": "",
+    "age": "",
+    "height": "",
+    "build": "",
+    "features": [],
+    "gbExclusive": true
+  },
+  "us-381": {
+    "id": "us-381",
+    "name": {
       "en": "Dolly",
       "pt": "Brigite"
     },
@@ -7823,8 +7868,8 @@
     ],
     "gbExclusive": true
   },
-  "us-379": {
-    "id": "us-379",
+  "us-382": {
+    "id": "us-382",
     "name": {
       "en": "Unit 01",
       "pt": "Unidade 01"
@@ -7832,7 +7877,7 @@
     "deck": "adult",
     "gender": "other",
     "race": "other",
-    "age": "0-10",
+    "age": "0",
     "height": "medium",
     "build": "thin",
     "features": [
@@ -7843,8 +7888,8 @@
     ],
     "gbExclusive": true
   },
-  "us-380": {
-    "id": "us-380",
+  "us-383": {
+    "id": "us-383",
     "name": {
       "en": "Manequim",
       "pt": "Manequim"
@@ -7852,7 +7897,7 @@
     "deck": "adult",
     "gender": "other",
     "race": "other",
-    "age": "0-10",
+    "age": "0",
     "height": "medium",
     "build": "average",
     "features": [
@@ -7863,6 +7908,36 @@
       "noHairInfo",
       "bald"
     ],
+    "gbExclusive": true
+  },
+      "us-384": {
+    "id": "us-384",
+    "name": {
+      "en": "Alien",
+      "pt": "Alienígena"
+    },
+    "deck": "adult",
+    "gender": "other",
+    "race": "other",
+    "age": "0",
+    "height": "medium",
+    "build": "small",
+    "features": [],
+    "gbExclusive": true
+  },
+      "us-385": {
+    "id": "us-385",
+    "name": {
+      "en": "",
+      "pt": "Boneco do Posto"
+    },
+    "deck": "adult",
+    "gender": "other",
+    "race": "other",
+    "age": "0",
+    "height": "tall",
+    "build": "",
+    "features": [],
     "gbExclusive": true
   }
 }
