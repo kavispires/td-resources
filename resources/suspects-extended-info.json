@@ -1,4 +1,9 @@
 {
+  "undefined": {
+    "persona": {
+      "pt": "a noiva"
+    }
+  },
   "us-001": {
     "id": "us-001",
     "prompt": "28-year-old black man",
@@ -6044,1332 +6049,1707 @@
   },
   "us-311": {
     "id": "us-311",
+    "prompt": "A close-up bust shot of a tired 26-year-old Latino delivery man with short dark hair and a faint mustache. He has a highly suspicious, deadpan expression, looking directly into the camera. He wears a bright red polo shirt with a delivery company logo collar, his average shoulders held stiffly in a lineup pose.",
     "persona": {
       "en": "the delivery guy",
       "pt": "o entregador"
     },
-    "prompt": "A close-up bust shot of a tired 26-year-old Latino delivery man with short dark hair and a faint mustache. He has a highly suspicious, deadpan expression, looking directly into the camera. He wears a bright red polo shirt with a delivery company logo collar, his average shoulders held stiffly in a lineup pose.",
     "description": "A weary Latino delivery worker looking flatly forward with a suspicious, unbothered expression, wearing a vibrant red collared uniform shirt.",
     "animal": "",
     "occupation": "Delivery courier",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "latino",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["tired", "working-class", "suspicious"]
+    "traits": [
+      "tired",
+      "working-class",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-312": {
     "id": "us-312",
+    "prompt": "A close-up headshot of an average-looking 34-year-old white woman with light brown hair tied up in a messy bun. She wears a knowing, secretive smirk, looking at the lens with sharp suspicion. A small pair of neon-green grooming scissors is tucked conspicuously into the front pocket of her vibrant orange apron collar.",
     "persona": {
       "en": "the dog groomer",
       "pt": "a tosadora de cães"
     },
-    "prompt": "A close-up headshot of an average-looking 34-year-old white woman with light brown hair tied up in a messy bun. She wears a knowing, secretive smirk, looking at the lens with sharp suspicion. A small pair of neon-green grooming scissors is tucked conspicuously into the front pocket of her vibrant orange apron collar.",
     "description": "A white female dog groomer with an untrustworthy, calculating smile, wearing a bright orange work apron over a simple t-shirt.",
     "animal": "",
     "occupation": "Dog groomer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "caucasian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["artisan", "observant", "smug"]
+    "traits": [
+      "artisan",
+      "observant",
+      "smug"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-313": {
     "id": "us-313",
+    "prompt": "A close-up bust shot of a conventionally beautiful 28-year-old white woman trying to hide her identity. She wears oversized, translucent yellow designer sunglasses and a loud, bright pink silk headscarf tied around her chin. She has a smug, arrogant half-smile, looking completely unbothered by the lineup camera.",
     "persona": {
       "en": "the secret celebrity",
       "pt": "a celebridade disfarçada"
     },
-    "prompt": "A close-up bust shot of a conventionally beautiful 28-year-old white woman trying to hide her identity. She wears oversized, translucent yellow designer sunglasses and a loud, bright pink silk headscarf tied around her chin. She has a smug, arrogant half-smile, looking completely unbothered by the lineup camera.",
     "description": "A glamorous white woman attempting an elite, flashy disguise with a vibrant pink headscarf and large yellow sunglasses, radiating sheer arrogance.",
     "animal": "",
     "occupation": "Actress",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "euro-descendant",
     "economicClass": "upper",
     "educationLevel": "college",
-    "traits": ["wealthy", "arrogant", "disguised"]
+    "traits": [
+      "wealthy",
+      "arrogant",
+      "disguised"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-314": {
     "id": "us-314",
+    "prompt": "A close-up bust shot of a lean, heavily tattooed 31-year-old white man with spiky brown hair and a well-groomed goatee. He has an intensely suspicious, stone-faced glare, staring flatly forward. He wears a vibrant emerald-green tank top that fully exposes the colorful ink sleeves wrapping his neck and shoulders.",
     "persona": {
       "en": "the tattoo artist",
       "pt": "o tatuador"
     },
-    "prompt": "A close-up bust shot of a lean, heavily tattooed 31-year-old white man with spiky brown hair and a well-groomed goatee. He has an intensely suspicious, stone-faced glare, staring flatly forward. He wears a vibrant emerald-green tank top that fully exposes the colorful ink sleeves wrapping his neck and shoulders.",
     "description": "A heavily inked white male tattooist standing in a chillingly calm, defiant posture, wearing a tight emerald-green athletic top.",
     "animal": "",
     "occupation": "Tattoo artist",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["artistic", "defiant", "inked"]
+    "traits": [
+      "artistic",
+      "defiant",
+      "inked"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-315": {
     "id": "us-315",
+    "prompt": "A close-up headshot of a slender 25-year-old Asian man with sharp facial features and neatly coiffed black hair. He wears a smooth, corporate arrogant smirk, looking through slim red-rimmed glasses. He is dressed in a vibrant electric-blue mock-neck sweater that frames his lean, upright posture.",
     "persona": {
       "en": "the tech ninja",
       "pt": "o ninja da tecnologia"
     },
-    "prompt": "A close-up headshot of a slender 25-year-old Asian man with sharp facial features and neatly coiffed black hair. He wears a smooth, corporate arrogant smirk, looking through slim red-rimmed glasses. He is dressed in a vibrant electric-blue mock-neck sweater that frames his lean, upright posture.",
     "description": "A sharp, overconfident Asian tech developer wearing a bright electric-blue sweater and thin red glasses, projecting icy intelligence.",
     "animal": "",
     "occupation": "Software architect",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "japanese",
     "economicClass": "upper",
     "educationLevel": "college",
-    "traits": ["intelligent", "arrogant", "techie"]
+    "traits": [
+      "intelligent",
+      "arrogant",
+      "techie"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-316": {
     "id": "us-316",
+    "prompt": "A close-up bust shot of a plump, solid 60-year-old Black woman with a full face, high cheekbones, and a sharp, immaculate chin-length dark bob haircut. She wears a weary, deeply cynical scowl, her eyes squinting suspiciously through a veil of smoke as she holds a lit, glowing cigarette between two fingers right by her lips. She is dressed in a loud, vibrant orange blazer collar over a royal-purple shirt, her broad shoulders held in a heavy, defiant, and completely unbothered stance.",
     "persona": {
       "en": "the hardened matriarch",
       "pt": "a fumante convicta"
     },
-    "prompt": "A close-up bust shot of a plump, solid 60-year-old Black woman with a full face, high cheekbones, and a sharp, immaculate chin-length dark bob haircut. She wears a weary, deeply cynical scowl, her eyes squinting suspiciously through a veil of smoke as she holds a lit, glowing cigarette between two fingers right by her lips. She is dressed in a loud, vibrant orange blazer collar over a royal-purple shirt, her broad shoulders held in a heavy, defiant, and completely unbothered stance.",
     "description": "A fierce, cynical older Black woman smoking a cigarette with complete composure, dressed in a loud orange blazer over a royal-purple collar.",
     "animal": "",
     "occupation": "Bar manager",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "afro-descendant",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["cynical", "defiant", "smoker"]
+    "traits": [
+      "cynical",
+      "defiant",
+      "smoker"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-317": {
     "id": "us-317",
+    "prompt": "A close-up bust shot of an average-built 40-year-old mixed-race brown man with slicked-back dark hair and a thin mustache. He has a highly suspicious, calculating smirk, looking out of the corner of his eyes. He wears a loud mustard-yellow short-sleeve button-up shirt collar, with a thick gold chain hanging conspicuously over his chest.",
     "persona": {
       "en": "the pawn shop clerk",
       "pt": "o atendente de penhores"
     },
-    "prompt": "A close-up bust shot of an average-built 40-year-old mixed-race brown man with slicked-back dark hair and a thin mustache. He has a highly suspicious, calculating smirk, looking out of the corner of his eyes. He wears a loud mustard-yellow short-sleeve button-up shirt collar, with a thick gold chain hanging conspicuously over his chest.",
     "description": "A street-smart brown pawn shop worker with a calculating gaze and a prominent gold chain, wearing a vibrant mustard-yellow collared shirt.",
     "animal": "",
     "occupation": "Pawn shop clerk",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "mixed",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["shady", "calculating", "street-smart"]
+    "traits": [
+      "shady",
+      "calculating",
+      "street-smart"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-318": {
     "id": "us-318",
+    "prompt": "A close-up headshot of a lean 28-year-old Black man with a sharp jawline, a short fade haircut, and a well-groomed beard. He wears an expression of pure, unearned arrogance, looking down his nose at the camera. He wears a vibrant turquoise heavy cotton hoodie collar, with bright red premium shoelaces looped conspicuously around his neck like a necklace.",
     "persona": {
       "en": "the sneakerhead",
       "pt": "o colecionador de tênis"
     },
-    "prompt": "A close-up headshot of a lean 28-year-old Black man with a sharp jawline, a short fade haircut, and a well-groomed beard. He wears an expression of pure, unearned arrogance, looking down his nose at the camera. He wears a vibrant turquoise heavy cotton hoodie collar, with bright red premium shoelaces looped conspicuously around his neck like a necklace.",
     "description": "A stylish, smug Black sneaker collector wearing a turquoise hoodie with bright red laces draped over his neck as an accessory.",
     "animal": "",
     "occupation": "Retail reseller",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "african-american",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["artistic", "arrogant", "trendy"]
+    "traits": [
+      "artistic",
+      "arrogant",
+      "trendy"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-319": {
     "id": "us-319",
+    "prompt": "A close-up bust shot of a skinny 23-year-old white man with messy, uncombed blonde hair and a pale complexion. He has an uncomfortably calm, glazed-over stare full of quiet suspicion. He wears a vibrant yellow denim jacket over a loud, multi-colored geometric patterned shirt collar, his narrow shoulders completely relaxed.",
     "persona": {
       "en": "the indie party goer",
       "pt": "o baladeiro indie"
     },
-    "prompt": "A close-up bust shot of a skinny 23-year-old white man with messy, uncombed blonde hair and a pale complexion. He has an uncomfortably calm, glazed-over stare full of quiet suspicion. He wears a vibrant yellow denim jacket over a loud, multi-colored geometric patterned shirt collar, his narrow shoulders completely relaxed.",
     "description": "A gaunt, hipster white youth with a vacant, suspicious stare, dressed in a bright yellow denim jacket and an eccentric patterned shirt.",
     "animal": "",
     "occupation": "Music blogger",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "bisexual",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["bohemian", "detached", "trendy"]
+    "traits": [
+      "bohemian",
+      "detached",
+      "trendy"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-320": {
     "id": "us-320",
+    "prompt": "A close-up headshot of a conventionally handsome 38-year-old white man with frosted blonde tips in his gelled spikes and a clean-shaven jaw. He wears a desperate, forced performative half-smile while his eyes remain intensely suspicious and defensive. He wears a bright neon-blue track jacket collar zipped up halfway around his neck.",
     "persona": {
       "en": "the boyband veteran",
       "pt": "o veterano de boyband"
     },
-    "prompt": "A close-up headshot of a conventionally handsome 38-year-old white man with frosted blonde tips in his gelled spikes and a clean-shaven jaw. He wears a desperate, forced performative half-smile while his eyes remain intensely suspicious and defensive. He wears a bright neon-blue track jacket collar zipped up halfway around his neck.",
     "description": "A aging, handsome white pop performer trying to look confident despite clear panic, wearing a flashy neon-blue zip-up track jacket.",
     "animal": "",
     "occupation": "Performer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "euro-descendant",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["vanity", "performative", "anxious"]
+    "traits": [
+      "vanity",
+      "performative",
+      "anxious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-321": {
     "id": "us-321",
+    "prompt": "A close-up bust shot of a plump, soft-featured 40-year-old average-looking man with messy brown hair. He has a weirdly calm, completely vacant and serene grin, his eyes glazed over and staring into space, entirely oblivious to the gravity of the police lineup. Clinging conspicuously to the back of his thick neck is a small, bizarre alien creature resembling a vibrant neon-green starburst with tiny glowing tentacles wrapping around his collar. He wears a bright crimson knit sweater that frames his soft, slumped shoulders.",
     "persona": {
       "en": "the alien target",
       "pt": "o alvo alienígena"
     },
-    "prompt": "A close-up bust shot of a plump, soft-featured 40-year-old average-looking man with messy brown hair. He has a weirdly calm, completely vacant and serene grin, his eyes glazed over and staring into space, entirely oblivious to the gravity of the police lineup. Clinging conspicuously to the back of his thick neck is a small, bizarre alien creature resembling a vibrant neon-green starburst with tiny glowing tentacles wrapping around his collar. He wears a bright crimson knit sweater that frames his soft, slumped shoulders.",
     "description": "A brainwashed, smiling average white man with a tiny neon-green alien parasite latched onto his neck, completely unbothered in a bright crimson sweater.",
     "animal": "",
     "occupation": "Unemployed",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["vacant", "oblivious", "bizarre"]
+    "traits": [
+      "vacant",
+      "oblivious",
+      "bizarre"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-322": {
     "id": "us-322",
+    "prompt": "A close-up bust shot of a plump, friendly-faced 45-year-old white woman with round jowls and light brown hair dusted with a light streak of white flour. She wears a chillingly calm, highly suspicious half-smile, staring directly at the camera. She wears a vibrant teal chef coat collar with bright red buttons, a smudge of white icing visible near her collarbone.",
     "persona": {
       "en": "the baker",
       "pt": "a confeiteira"
     },
-    "prompt": "A close-up bust shot of a plump, friendly-faced 45-year-old white woman with round jowls and light brown hair dusted with a light streak of white flour. She wears a chillingly calm, highly suspicious half-smile, staring directly at the camera. She wears a vibrant teal chef coat collar with bright red buttons, a smudge of white icing visible near her collarbone.",
     "description": "A heavy-set white baker woman with an unsettlingly serene, calculating smile, wearing a colorful teal chef uniform.",
     "animal": "",
     "occupation": "Baker",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["artisan", "calm", "suspicious"]
+    "traits": [
+      "artisan",
+      "calm",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-323": {
     "id": "us-323",
+    "prompt": "A close-up headshot of a skinny, gaunt 45-year-old white man with a narrow face, deep forehead wrinkles, and short gray hair. He has a tense, deeply paranoid expression, his jaw clenched tight and his suspicious eyes darting sharply to the edge of the frame. Attached to his left ear is a highly conspicuous, sleek neon-blue behind-the-ear hearing device with a thin wire running along his temple. He wears a bright mustard-yellow polo shirt with a stiff collar that tightly frames his thin, bony neck.",
     "persona": {
       "en": "the alert device wearer",
       "pt": "o homem com aparelho auditivo"
     },
-    "prompt": "A close-up headshot of a skinny, gaunt 45-year-old white man with a narrow face, deep forehead wrinkles, and short gray hair. He has a tense, deeply paranoid expression, his jaw clenched tight and his suspicious eyes darting sharply to the edge of the frame. Attached to his left ear is a highly conspicuous, sleek neon-blue behind-the-ear hearing device with a thin wire running along his temple. He wears a bright mustard-yellow polo shirt with a stiff collar that tightly frames his thin, bony neck.",
     "description": "A paranoid, skinny white man with a prominent neon-blue behind-the-ear hearing device, staring sharply to the side in a mustard-yellow polo shirt.",
     "animal": "",
     "occupation": "Data entry clerk",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["paranoid", "observant", "tense"]
+    "traits": [
+      "paranoid",
+      "observant",
+      "tense"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-324": {
     "id": "us-324",
+    "prompt": "A close-up headshot of a slender 29-year-old white woman with bleached platinum-blonde hair and smudged purple eyeshadow. She wears a smug, arrogant smirk, looking directly into the lens with absolute composure. She is dressed in a vibrant red faux-fur coat collar over a loud, neon-green graphic band t-shirt, her thin neck held high.",
     "persona": {
       "en": "the rock groupie",
       "pt": "a tiete de rock"
     },
-    "prompt": "A close-up headshot of a slender 29-year-old white woman with bleached platinum-blonde hair and smudged purple eyeshadow. She wears a smug, arrogant smirk, looking directly into the lens with absolute composure. She is dressed in a vibrant red faux-fur coat collar over a loud, neon-green graphic band t-shirt, her thin neck held high.",
     "description": "A defiant, platinum-blonde white groupie with a smug smirk, dressed heavily in a vibrant red faux-fur coat over a neon-green t-shirt.",
     "animal": "",
     "occupation": "Merchandise vendor",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "euro-descendant",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["obsessive", "defiant", "trendy"]
+    "traits": [
+      "obsessive",
+      "defiant",
+      "trendy"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-325": {
     "id": "us-325",
+    "prompt": "A close-up bust shot of an attractive, slender 26-year-old Afro-Brazilian woman with high cheekbones, dark skin, and a massive, perfectly sculpted black afro. She wears an expression of supreme, manipulative arrogance, tilting her head back to glare down at the camera with a calculating half-smile. She wears a low-cut, vibrant neon-orange satin dress collar, showing her bare collarbones.",
     "persona": {
       "en": "the glamorous model",
       "pt": "a modelo exuberante"
     },
-    "prompt": "A close-up bust shot of an attractive, slender 26-year-old Afro-Brazilian woman with high cheekbones, dark skin, and a massive, perfectly sculpted black afro. She wears an expression of supreme, manipulative arrogance, tilting her head back to glare down at the camera with a calculating half-smile. She wears a low-cut, vibrant neon-orange satin dress collar, showing her bare collarbones.",
     "description": "A stunning Black Brazilian woman displaying immense, chilly arrogance, featuring a large afro and a vibrant neon-orange satin top.",
     "animal": "",
     "occupation": "Fashion model",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "afro-brazilian",
     "economicClass": "upper",
     "educationLevel": "college",
-    "traits": ["vanity", "arrogant", "beautiful"]
+    "traits": [
+      "vanity",
+      "arrogant",
+      "beautiful"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-326": {
     "id": "us-326",
+    "prompt": "A close-up bust shot of a lean, sharp-featured 35-year-old white woman with dark brown hair pulled back into a flawless, severe bun. She wears an eerily serene, completely unblinking vacant smile, staring straight into the camera with high suspicion. She wears a structured, plain lime-green mock-neck top with absolutely no patterns or jewelry, her thin shoulders held perfectly straight.",
     "persona": {
       "en": "the minimalist lady",
       "pt": "a mulher minimalista"
     },
-    "prompt": "A close-up bust shot of a lean, sharp-featured 35-year-old white woman with dark brown hair pulled back into a flawless, severe bun. She wears an eerily serene, completely unblinking vacant smile, staring straight into the camera with high suspicion. She wears a structured, plain lime-green mock-neck top with absolutely no patterns or jewelry, her thin shoulders held perfectly straight.",
     "description": "A severe, minimalist white woman with a smooth, robotic smile and slicked bun, wearing an unadorned lime-green mock-neck top.",
     "animal": "",
     "occupation": "Architect",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "traits": ["meticulous", "calm", "robotic"]
+    "traits": [
+      "meticulous",
+      "calm",
+      "robotic"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-327": {
     "id": "us-327",
+    "prompt": "A close-up bust shot of a wiry, skinny 25-year-old Latino man with a narrow, sharp, average-looking face and dark stubble. He wears a scuffed black motorcycle helmet resting conspicuously high up on the very crown of his head like an oversized hat, leaving his entire face and tense brow completely visible. He has a deadpan, intensely suspicious expression, his cold eyes staring flatly forward with a street-smart, unbothered composure. He wears a faded black windbreaker jacket zipped up tightly to his throat, framing his thin neck and narrow shoulders.",
     "persona": {
       "en": "the latino motoboy",
       "pt": "o motoboy latino"
     },
-    "prompt": "A close-up bust shot of a wiry, skinny 25-year-old Latino man with a narrow, sharp, average-looking face and dark stubble. He wears a scuffed black motorcycle helmet resting conspicuously high up on the very crown of his head like an oversized hat, leaving his entire face and tense brow completely visible. He has a deadpan, intensely suspicious expression, his cold eyes staring flatly forward with a street-smart, unbothered composure. He wears a faded black windbreaker jacket zipped up tightly to his throat, framing his thin neck and narrow shoulders.",
     "description": "A young Latino motoboy with a motorcycle helmet pushed up onto the crown of his head, wearing a zipped windbreaker and an intensely suspicious expression.",
     "animal": "",
     "occupation": "Courier",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "latino",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["street-smart", "suspicious", "working-class"]
+    "traits": [
+      "street-smart",
+      "suspicious",
+      "working-class"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-328": {
     "id": "us-328",
+    "prompt": "A close-up headshot of a lean 42-year-old Black man with a neatly trimmed mustache and perfectly parted dark hair. He wears an expression of absolute, unyielding corporate composure, staring directly forward with a subtle, suspicious smirk. He wears a premium royal-purple concierge suit jacket collar over a crisp yellow shirt and a gold tie.",
     "persona": {
       "en": "the hotel concierge",
       "pt": "o concierge de hotel"
     },
-    "prompt": "A close-up headshot of a lean 42-year-old Black man with a neatly trimmed mustache and perfectly parted dark hair. He wears an expression of absolute, unyielding corporate composure, staring directly forward with a subtle, suspicious smirk. He wears a premium royal-purple concierge suit jacket collar over a crisp yellow shirt and a gold tie.",
     "description": "An immaculate Black hotel concierge with an unbothered, secretive smirk, dressed in a royal-purple jacket with a yellow shirt and gold tie.",
     "animal": "",
     "occupation": "Hotel concierge",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["meticulous", "polite", "secretive"]
+    "traits": [
+      "meticulous",
+      "polite",
+      "secretive"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-329": {
     "id": "us-329",
+    "prompt": "A close-up bust shot of a regular-built 24-year-old white man with short brown hair and clear facial features associated with Down syndrome. He wears a soft, genuine, and innocent smile, but his wide eyes are slightly narrowed in mild curiosity. He wears a bright sky-blue knit sweater vest over a yellow polo shirt collar, his posture fully relaxed.",
     "persona": {
       "en": "the gentle assistant",
       "pt": "o jovem assistente especial"
     },
-    "prompt": "A close-up bust shot of a regular-built 24-year-old white man with short brown hair and clear facial features associated with Down syndrome. He wears a soft, genuine, and innocent smile, but his wide eyes are slightly narrowed in mild curiosity. He wears a bright sky-blue knit sweater vest over a yellow polo shirt collar, his posture fully relaxed.",
     "description": "A friendly, regular-built young white man with a warm, innocent smile, dressed in a sky-blue sweater vest over a yellow polo collar.",
     "animal": "",
     "occupation": "Community assistant",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["gentle", "friendly", "innocent"]
+    "traits": [
+      "gentle",
+      "friendly",
+      "innocent"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-330": {
     "id": "us-330",
+    "prompt": "A close-up bust shot of a slender 27-year-old Asian man with styled, spiky dark hair and a confident, cocky smirk. Large neon-green DJ headphones are resting conspicuously around his thin neck. He wears a bright red windbreaker jacket collar, his narrow shoulders turned slightly away from the camera in a cool posture.",
     "persona": {
       "en": "the club dj",
       "pt": "o dj de balada"
     },
-    "prompt": "A close-up bust shot of a slender 27-year-old Asian man with styled, spiky dark hair and a confident, cocky smirk. Large neon-green DJ headphones are resting conspicuously around his thin neck. He wears a bright red windbreaker jacket collar, his narrow shoulders turned slightly away from the camera in a cool posture.",
     "description": "A cool, arrogant young Asian DJ with neon-green headphones resting around his neck, wearing a vibrant red windbreaker jacket.",
     "animal": "",
     "occupation": "Disc jockey",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["trendy", "arrogant", "musical"]
+    "traits": [
+      "trendy",
+      "arrogant",
+      "musical"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-331": {
     "id": "us-331",
+    "prompt": "A close-up bust shot of a sturdy 46-year-old white woman with a broad face, a sharp jaw, and short dark hair tucked under a structured cap. She wears an expression of rigid, unyielding deadpan suspicion, staring straight into the lens. She wears a bright neon-yellow security officer uniform shirt collar with a dark blue tie.",
     "persona": {
       "en": "the parking enforcement",
       "pt": "a guarda de trânsito"
     },
-    "prompt": "A close-up bust shot of a sturdy 46-year-old white woman with a broad face, a sharp jaw, and short dark hair tucked under a structured cap. She wears an expression of rigid, unyielding deadpan suspicion, staring straight into the lens. She wears a bright neon-yellow security officer uniform shirt collar with a dark blue tie.",
     "description": "A stone-faced, strict white female parking enforcement officer staring down the lens, dressed in a neon-yellow uniform shirt.",
     "animal": "",
     "occupation": "Parking enforcement officer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["strict", "cynical", "orderly"]
+    "traits": [
+      "strict",
+      "cynical",
+      "orderly"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-332": {
     "id": "us-332",
+    "prompt": "A close-up headshot of a lean 33-year-old white man with short, immaculately gelled brown hair and sharp features. He wears a terrifyingly serene, unblinking vacant smile, his cold blue eyes fixed straight forward without an ounce of emotion. He wears a pristine, unwrinkled emerald-green dress shirt collar with a sharp yellow tie.",
     "persona": {
       "en": "the cold corporate climber",
       "pt": "o psicopata corporativo"
     },
-    "prompt": "A close-up headshot of a lean 33-year-old white man with short, immaculately gelled brown hair and sharp features. He wears a terrifyingly serene, unblinking vacant smile, his cold blue eyes fixed straight forward without an ounce of emotion. He wears a pristine, unwrinkled emerald-green dress shirt collar with a sharp yellow tie.",
     "description": "An unsettlingly calm white corporate worker with an unblinking, hollow smile, wearing an emerald-green shirt and a yellow tie.",
     "animal": "",
     "occupation": "Financial analyst",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "euro-descendant",
     "economicClass": "upper",
     "educationLevel": "college",
-    "traits": ["unhinged", "calm", "meticulous"]
+    "traits": [
+      "unhinged",
+      "calm",
+      "meticulous"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-333": {
     "id": "us-333",
+    "prompt": "A close-up bust shot of a skinny, gaunt 35-year-old Latino man with an emaciated face, heavy jowls, and short dark hair under a frayed red cap. He wears a highly calculating, secretive half-smile, his dark eyes looking subtly away from the lens. He wears a bright neon-orange safety vest collar over a simple green t-shirt.",
     "persona": {
       "en": "the street parking hustler",
       "pt": "o flanelinha"
     },
-    "prompt": "A close-up bust shot of a skinny, gaunt 35-year-old Latino man with an emaciated face, heavy jowls, and short dark hair under a frayed red cap. He wears a highly calculating, secretive half-smile, his dark eyes looking subtly away from the lens. He wears a bright neon-orange safety vest collar over a simple green t-shirt.",
     "description": "A scruffy, street-smart Latino flanelinha with a secretive grin, wearing a neon-orange safety vest over a green t-shirt.",
     "animal": "",
     "occupation": "Informal parking attendant",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "latino",
     "economicClass": "lower",
     "educationLevel": "none",
-    "traits": ["street-smart", "shady", "secretive"]
+    "traits": [
+      "street-smart",
+      "shady",
+      "secretive"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-334": {
     "id": "us-334",
+    "prompt": "A close-up headshot of a regular-built 28-year-old white man with thick round glasses and messy uncombed brown hair. He has an intensely suspicious, defensive expression, his brows furrowed tightly. He wears a vibrant yellow t-shirt collar featuring a subtle grid pattern print, his posture slightly hunched forward.",
     "persona": {
       "en": "the board gamer",
       "pt": "o jogador de tabuleiro"
     },
-    "prompt": "A close-up headshot of a regular-built 28-year-old white man with thick round glasses and messy uncombed brown hair. He has an intensely suspicious, defensive expression, his brows furrowed tightly. He wears a vibrant yellow t-shirt collar featuring a subtle grid pattern print, his posture slightly hunched forward.",
     "description": "A defensive, regular-built white board gamer wearing round glasses and a yellow t-shirt, glaring with deep suspicion.",
     "animal": "",
     "occupation": "Game designer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["obsessive", "defiant", "analytical"]
+    "traits": [
+      "obsessive",
+      "defiant",
+      "analytical"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-335": {
     "id": "us-335",
+    "prompt": "A close-up bust shot of a slender 24-year-old white woman with a sharp jawline and sleek blonde hair cut into a sharp geometric bob. She wears an expression of supreme, unearned arrogance, looking out of the corner of her eyes with a mocking smirk. She wears a loud, vibrant purple designer blazer collar over a bright yellow mock-neck.",
     "persona": {
       "en": "the art-world nepo baby",
       "pt": "a herdeira das artes"
     },
-    "prompt": "A close-up bust shot of a slender 24-year-old white woman with a sharp jawline and sleek blonde hair cut into a sharp geometric bob. She wears an expression of supreme, unearned arrogance, looking out of the corner of her eyes with a mocking smirk. She wears a loud, vibrant purple designer blazer collar over a bright yellow mock-neck.",
     "description": "A smug, fashionable young white woman demonstrating immense privilege and arrogance, wearing a loud purple blazer and a yellow mock-neck.",
     "animal": "",
     "occupation": "Gallery assistant",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "bisexual",
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "traits": ["wealthy", "arrogant", "trendy"]
+    "traits": [
+      "wealthy",
+      "arrogant",
+      "trendy"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-336": {
     "id": "us-336",
+    "prompt": "A close-up bust shot of an average-built 45-year-old Asian man with short black hair graying at the temples and a tired, pale complexion. He has a cold, deadpan, and highly suspicious expression, staring flatly into the camera with heavy-lidded eyes that hide a deep corporate secret. He wears a rumpled, light-blue dress shirt with a slightly loosened orange necktie around his neck, his shoulders slightly slumped in a rigid, unbothered lineup posture.",
     "persona": {
       "en": "the corporate drone",
       "pt": "o funcionário esgotado"
     },
-    "prompt": "A close-up bust shot of an average-built 45-year-old Asian man with short black hair graying at the temples and a tired, pale complexion. He has a cold, deadpan, and highly suspicious expression, staring flatly into the camera with heavy-lidded eyes that hide a deep corporate secret. He wears a rumpled, light-blue dress shirt with a slightly loosened orange necktie around his neck, his shoulders slightly slumped in a rigid, unbothered lineup posture.",
     "description": "An exhausted, deadpan Asian corporate worker staring forward with heavy suspicion, wearing a rumpled light-blue shirt and a loose orange tie.",
     "animal": "",
     "occupation": "Office administrator",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["tired", "orderly", "secretive"]
+    "traits": [
+      "tired",
+      "orderly",
+      "secretive"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-337": {
     "id": "us-337",
+    "prompt": "A close-up bust shot of a plump, heavy-set 58-year-old woman with a soft, round, average-looking face and unkempt, frizzy gray hair. She wears a chillingly calm, secretive smirk, her eyes narrowed into a sly, highly suspicious glare looking directly at the camera. She wears a worn, faded purple knit sweater collar that is conspicuously covered in thick patches of white and orange cat fur, her broad shoulders completely still in a quiet, unbothered posture.",
     "persona": {
       "en": "the cat lady",
       "pt": "a louca dos gatos"
     },
-    "prompt": "A close-up bust shot of a plump, heavy-set 58-year-old woman with a soft, round, average-looking face and unkempt, frizzy gray hair. She wears a chillingly calm, secretive smirk, her eyes narrowed into a sly, highly suspicious glare looking directly at the camera. She wears a worn, faded purple knit sweater collar that is conspicuously covered in thick patches of white and orange cat fur, her broad shoulders completely still in a quiet, unbothered posture.",
     "description": "A plump older white woman with an eerie, secretive cat-lady smirk, wearing a faded purple sweater covered in conspicuous patches of cat fur.",
     "animal": "",
     "occupation": "Retired clerk",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["eccentric", "secretive", "obsessive"]
+    "traits": [
+      "eccentric",
+      "secretive",
+      "obsessive"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-338": {
     "id": "us-338",
+    "prompt": "A close-up bust shot of a heavy-set, plump 52-year-old Indian woman with a round, average-looking face, a noticeable double chin, and dark hair streaked with silver pulled tightly back. She has a deeply judgmental, meticulous, and uncomfortably calm expression, her eyes narrowed into a piercing, highly suspicious glare that effortlessly spots a secret. She wears a traditional dark maroon silk saree collar and is adorned with highly conspicuous, thick gold statement earrings and a matching gold necklace that frames her wide neck.",
     "persona": {
       "en": "the matchmaking auntie",
       "pt": "a tia casamenteira"
     },
-    "prompt": "A close-up bust shot of a heavy-set, plump 52-year-old Indian woman with a round, average-looking face, a noticeable double chin, and dark hair streaked with silver pulled tightly back. She has a deeply judgmental, meticulous, and uncomfortably calm expression, her eyes narrowed into a piercing, highly suspicious glare that effortlessly spots a secret. She wears a traditional dark maroon silk saree collar and is adorned with highly conspicuous, thick gold statement earrings and a matching gold necklace that frames her wide neck.",
     "description": "A heavy-set older Indian woman delivering a deeply judgmental, uncomfortably calm glare, adorned in a maroon silk saree and heavy gold jewelry.",
     "animal": "",
     "occupation": "Matchmaker",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "indian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["strict", "meticulous", "judgmental"]
+    "traits": [
+      "strict",
+      "meticulous",
+      "judgmental"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-339": {
     "id": "us-339",
+    "prompt": "A close-up headshot of a skinny, angular 38-year-old East Asian woman with a sharp face and her hair pulled back into a flawless, tight ponytail. She has an intensely paranoid, calculating glare, her eyes narrowed with sharp suspicion as she evaluates the camera. A light-pink medical mask is pulled down just under her chin around her thin neck, and she is dressed in a crisp lavender button-up shirt, her narrow shoulders held rigidly straight in a tense, defensive stance.",
     "persona": {
       "en": "the germaphobe cleaner",
       "pt": "a maníaca por limpeza"
     },
-    "prompt": "A close-up headshot of a skinny, angular 38-year-old East Asian woman with a sharp face and her hair pulled back into a flawless, tight ponytail. She has an intensely paranoid, calculating glare, her eyes narrowed with sharp suspicion as she evaluates the camera. A light-pink medical mask is pulled down just under her chin around her thin neck, and she is dressed in a crisp lavender button-up shirt, her narrow shoulders held rigidly straight in a tense, defensive stance.",
     "description": "A paranoid, sharp-featured East Asian woman with a light-pink mask pulled down under her chin, glaring with intense suspicion in a lavender shirt.",
     "animal": "",
     "occupation": "Laboratory technician",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["paranoid", "meticulous", "orderly"]
+    "traits": [
+      "paranoid",
+      "meticulous",
+      "orderly"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-340": {
     "id": "us-340",
+    "prompt": "A close-up bust shot of a heavily muscular 28-year-old Latino man with a massive thick neck and a squared jaw. He wears an expression of smooth, criminal arrogance, his lips set in a knowing half-smile. He wears a tight, bright yellow athletic tank top collar, with a thin silver chain peeking out across his thick upper traps.",
     "persona": {
       "en": "the gym juice dealer",
       "pt": "o fornecedor da academia"
     },
-    "prompt": "A close-up bust shot of a heavily muscular 28-year-old Latino man with a massive thick neck and a squared jaw. He wears an expression of smooth, criminal arrogance, his lips set in a knowing half-smile. He wears a tight, bright yellow athletic tank top collar, with a thin silver chain peeking out across his thick upper traps.",
     "description": "A muscular Latino gym dealer with a smug, arrogant half-smile, wearing a tight yellow tank top that stretches over his massive neck.",
     "animal": "",
     "occupation": "Personal trainer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "latino",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["athletic", "shady", "arrogant"]
+    "traits": [
+      "athletic",
+      "shady",
+      "arrogant"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-341": {
     "id": "us-341",
+    "prompt": "A close-up bust shot of a slender 25-year-old white transgender man with short, neatly cropped brown hair and light stubble. He has an uncomfortably calm, direct, and highly suspicious deadpan expression, staring straight forward. He wears a vibrant emerald-green button-up shirt collar, his narrow shoulders held perfectly straight.",
     "persona": {
       "en": "the transgender male",
       "pt": "o homem trans"
     },
-    "prompt": "A close-up bust shot of a slender 25-year-old white transgender man with short, neatly cropped brown hair and light stubble. He has an uncomfortably calm, direct, and highly suspicious deadpan expression, staring straight forward. He wears a vibrant emerald-green button-up shirt collar, his narrow shoulders held perfectly straight.",
     "description": "A slender young white transgender man with short hair and stubble, looking forward with a calm, highly suspicious deadpan expression in a green shirt.",
     "animal": "",
     "occupation": "Barista",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "other",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["calm", "defiant", "observant"]
+    "traits": [
+      "calm",
+      "defiant",
+      "observant"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-342": {
     "id": "us-342",
+    "prompt": "A close-up headshot of a skinny 55-year-old Asian man with an emaciated face, deep wrinkles, and short gray hair. He has a quiet, highly calculating, and secretive half-smile, looking out of the corner of his eyes. He wears a plain, vibrant orange polo shirt collar that fits loosely around his thin, bony neck.",
     "persona": {
       "en": "the dry cleaner",
       "pt": "o dono da lavanderia"
     },
-    "prompt": "A close-up headshot of a skinny 55-year-old Asian man with an emaciated face, deep wrinkles, and short gray hair. He has a quiet, highly calculating, and secretive half-smile, looking out of the corner of his eyes. He wears a plain, vibrant orange polo shirt collar that fits loosely around his thin, bony neck.",
     "description": "A skinny, older Asian dry cleaner with a secretive, calculating half-smile, dressed in a vibrant orange polo shirt.",
     "animal": "",
     "occupation": "Dry cleaner owner",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["working-class", "calculating", "secretive"]
+    "traits": [
+      "working-class",
+      "calculating",
+      "secretive"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-343": {
     "id": "us-343",
+    "prompt": "A close-up headshot of a strikingly handsome, slender 25-year-old Indian man with a sharp jawline, high cheekbones, and perfectly coiffed, voluminous dark hair. He has an aura of supreme, performative pop-star arrogance, his head tilted back slightly to look down his nose at the camera with a calculating half-smile that hides a massive lie. He wears a flashy, colorful silk button-up shirt with an extravagant patterned collar open at his neck, revealing a thick gold chain.",
     "persona": {
       "en": "the bollywood wannabe",
       "pt": "o galã de bollywood"
     },
-    "prompt": "A close-up headshot of a strikingly handsome, slender 25-year-old Indian man with a sharp jawline, high cheekbones, and perfectly coiffed, voluminous dark hair. He has an aura of supreme, performative pop-star arrogance, his head tilted back slightly to look down his nose at the camera with a calculating half-smile that hides a massive lie. He wears a flashy, colorful silk button-up shirt with an extravagant patterned collar open at his neck, revealing a thick gold chain.",
     "description": "A strikingly handsome young Indian man displaying immense, performative pop-star arrogance, wearing a flashy patterned silk shirt open at the neck.",
     "animal": "",
     "occupation": "Aspiring actor",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "indian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["vanity", "arrogant", "performative"]
+    "traits": [
+      "vanity",
+      "arrogant",
+      "performative"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-344": {
     "id": "us-344",
+    "prompt": "A close-up bust shot of a stocky 35-year-old Black man with a squared jaw and a sharp fade haircut. He wears an expression of icy, criminal arrogance, staring directly into the lens with a subtle smirk. He wears a loud, vibrant purple faux-fur coat collar over a bright red silk dress shirt, a large gold emblem chain visible.",
     "persona": {
       "en": "the pimp",
       "pt": "o cafetão"
     },
-    "prompt": "A close-up bust shot of a stocky 35-year-old Black man with a squared jaw and a sharp fade haircut. He wears an expression of icy, criminal arrogance, staring directly into the lens with a subtle smirk. He wears a loud, vibrant purple faux-fur coat collar over a bright red silk dress shirt, a large gold emblem chain visible.",
     "description": "A smug, arrogant Black man wearing a flashy purple faux-fur coat over a bright red silk shirt, projecting a dangerous street presence.",
     "animal": "",
     "occupation": "Illegal entrepreneur",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "black",
     "economicClass": "upper",
     "educationLevel": "basic",
-    "traits": ["shady", "arrogant", "trendy"]
+    "traits": [
+      "shady",
+      "arrogant",
+      "trendy"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-345": {
     "id": "us-345",
+    "prompt": "A close-up bust shot of a stocky, solidly built 46-year-old Indian man with a broad face, a thick neck, and a prominent dark mustache. He wears an expression of rigid, unyielding deadpan suspicion, his dark eyes heavily focused and glaring straight into the lens without a single trace of emotion, as if delivering a final penalty. He wears a plain white sun hat low over his brow and a structured, high-collared sports official uniform shirt across his broad, heavy shoulders.",
     "persona": {
       "en": "the rigid cricket umpire",
       "pt": "o árbitro de críquete"
     },
-    "prompt": "A close-up bust shot of a stocky, solidly built 46-year-old Indian man with a broad face, a thick neck, and a prominent dark mustache. He wears an expression of rigid, unyielding deadpan suspicion, his dark eyes heavily focused and glaring straight into the lens without a single trace of emotion, as if delivering a final penalty. He wears a plain white sun hat low over his brow and a structured, high-collared sports official uniform shirt across his broad, heavy shoulders.",
     "description": "A stone-faced, stocky Indian cricket umpire glaring forward with rigid deadpan suspicion, wearing a white sun hat and a high-collared sports shirt.",
     "animal": "",
     "occupation": "Sports official",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "indian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["strict", "orderly", "suspicious"]
+    "traits": [
+      "strict",
+      "orderly",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-346": {
     "id": "us-346",
+    "prompt": "A close-up bust shot of a stocky, heavyset 51-year-old white man with long, frizzy graying hair down to his shoulders and a thick, bushy mustache. He wears an expression of gruff, uncomfortably calm, and defiant arrogance, looking down at the camera with a smug half-smile that suggests he knows exactly how to beat the system. He wears a faded, vintage maroon rock concert t-shirt collar, his broad, thick shoulders held in a immovable, suspicious stance.",
     "persona": {
       "en": "the concert roadie",
       "pt": "o roadie veterano"
     },
-    "prompt": "A close-up bust shot of a stocky, heavyset 51-year-old white man with long, frizzy graying hair down to his shoulders and a thick, bushy mustache. He wears an expression of gruff, uncomfortably calm, and defiant arrogance, looking down at the camera with a smug half-smile that suggests he knows exactly how to beat the system. He wears a faded, vintage maroon rock concert t-shirt collar, his broad, thick shoulders held in a immovable, suspicious stance.",
     "description": "A gruff, heavyset 51-year-old white roadie with long frizzy graying hair, looking down with a defiant smirk in a vintage maroon t-shirt.",
     "animal": "",
     "occupation": "Stage technician",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["working-class", "defiant", "calm"]
+    "traits": [
+      "working-class",
+      "defiant",
+      "calm"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-347": {
     "id": "us-347",
+    "prompt": "A close-up headshot of a slender 32-year-old white woman with heavily hairsprayed blonde curls and bright makeup. She wears an unnaturally wide, aggressive sales smile, but her eyes remain completely cold, calculating, and highly suspicious. She wears a vibrant neon-pink blazer collar with a large fake pearl brooch pinned to her lapel.",
     "persona": {
       "en": "the mlm hustler",
       "pt": "a vendedora de pirâmide"
     },
-    "prompt": "A close-up headshot of a slender 32-year-old white woman with heavily hairsprayed blonde curls and bright makeup. She wears an unnaturally wide, aggressive sales smile, but her eyes remain completely cold, calculating, and highly suspicious. She wears a vibrant neon-pink blazer collar with a large fake pearl brooch pinned to her lapel.",
     "description": "A white female pyramid-scheme hustler with a forced, aggressive smile and cold, calculating eyes, wearing a flashy neon-pink blazer.",
     "animal": "",
     "occupation": "Independent distributor",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "euro-descendant",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["shady", "performative", "calculating"]
+    "traits": [
+      "shady",
+      "performative",
+      "calculating"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-348": {
     "id": "us-348",
+    "prompt": "A close-up bust shot of a lean 29-year-old white woman with completely unstyled, long brown hair woven with small green leaves. She wears a chillingly calm, vacant grin, staring straight into the frame with deep suspicion. She wears a simple, unadorned bright orange organic cotton tunic collar, her posture completely loose.",
     "persona": {
       "en": "the naturalist",
       "pt": "a naturalista excêntrica"
     },
-    "prompt": "A close-up bust shot of a lean 29-year-old white woman with completely unstyled, long brown hair woven with small green leaves. She wears a chillingly calm, vacant grin, staring straight into the frame with deep suspicion. She wears a simple, unadorned bright orange organic cotton tunic collar, her posture completely loose.",
     "description": "A serene, eccentric white naturalist woman with leaves in her long brown hair, staring with an eerie, vacant grin in a bright orange tunic.",
     "animal": "",
     "occupation": "Herbalist",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "bisexual",
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "college",
-    "traits": ["eccentric", "bohemian", "vacant"]
+    "traits": [
+      "eccentric",
+      "bohemian",
+      "vacant"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-349": {
     "id": "us-349",
+    "prompt": "A close-up bust shot of an average-built 36-year-old Black woman with short, neat dark curls. She wears an uncomfortably polite, frozen half-smile, looking directly forward with a highly suspicious glare. She wears a crisp, vibrant turquoise medical scrub shirt collar over a simple yellow undershirt.",
     "persona": {
       "en": "the dental hygienist",
       "pt": "a higienista dental"
     },
-    "prompt": "A close-up bust shot of an average-built 36-year-old Black woman with short, neat dark curls. She wears an uncomfortably polite, frozen half-smile, looking directly forward with a highly suspicious glare. She wears a crisp, vibrant turquoise medical scrub shirt collar over a simple yellow undershirt.",
     "description": "A Black female dental hygienist with an uncomfortably stiff, polite smile and a highly suspicious gaze, wearing turquoise scrubs.",
     "animal": "",
     "occupation": "Dental hygienist",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["meticulous", "orderly", "suspicious"]
+    "traits": [
+      "meticulous",
+      "orderly",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-350": {
     "id": "us-350",
+    "prompt": "A close-up bust shot of a heavy-set 48-year-old white drag queen with an immaculately sculpted, towering blue wig. She wears a deeply cynical, theatrical scowl, looking out of the corner of her heavily made-up eyes. She is dressed in a loud, vibrant magenta sequin dress collar, her broad shoulders held high.",
     "persona": {
       "en": "the veteran drag queen",
       "pt": "a drag queen veterana"
     },
-    "prompt": "A close-up bust shot of a heavy-set 48-year-old white drag queen with an immaculately sculpted, towering blue wig. She wears a deeply cynical, theatrical scowl, looking out of the corner of her heavily made-up eyes. She is dressed in a loud, vibrant magenta sequin dress collar, her broad shoulders held high.",
     "description": "A seasoned, heavy-set white drag performer delivering a theatrical, deeply cynical scowl, featuring a tall blue wig and a magenta sequin outfit.",
     "animal": "",
     "occupation": "Performer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "gay",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["artistic", "cynical", "performative"]
+    "traits": [
+      "artistic",
+      "cynical",
+      "performative"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-351": {
     "id": "us-351",
+    "prompt": "A close-up headshot of a skinny 30-year-old white man with thick rectangular glasses and a thin mustache. He has an expression of supreme, insufferable arrogance, looking down his nose with a subtle smirk. He wears a vibrant yellow knit sweater collar, his thin neck held rigidly straight.",
     "persona": {
       "en": "the vinyl collector",
       "pt": "o colecionador de vinil"
     },
-    "prompt": "A close-up headshot of a skinny 30-year-old white man with thick rectangular glasses and a thin mustache. He has an expression of supreme, insufferable arrogance, looking down his nose with a subtle smirk. He wears a vibrant yellow knit sweater collar, his thin neck held rigidly straight.",
     "description": "An arrogant, skinny white vinyl record collector with a smug smirk, wearing thick rectangular glasses and a vibrant yellow sweater.",
     "animal": "",
     "occupation": "Record store clerk",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "euro-descendant",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["obsessive", "arrogant", "artistic"]
+    "traits": [
+      "obsessive",
+      "arrogant",
+      "artistic"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-352": {
     "id": "us-352",
+    "prompt": "A close-up bust shot of a gaunt, skinny 52-year-old white woman with narrow features, deep wrinkles, and short gray hair pulled back with a simple red clip. She wears a chillingly calm, secretive half-smile, staring forward through round wire glasses. She wears a structured, dark green wool cardigan collar.",
     "persona": {
       "en": "the library book restorer",
       "pt": "a restauradora de livros"
     },
-    "prompt": "A close-up bust shot of a gaunt, skinny 52-year-old white woman with narrow features, deep wrinkles, and short gray hair pulled back with a simple red clip. She wears a chillingly calm, secretive half-smile, staring forward through round wire glasses. She wears a structured, dark green wool cardigan collar.",
     "description": "A gaunt, older white book restorer with a secretive half-smile and wire glasses, wearing a dark green wool cardigan.",
     "animal": "",
     "occupation": "Book archivist",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "traits": ["meticulous", "secretive", "calm"]
+    "traits": [
+      "meticulous",
+      "secretive",
+      "calm"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-353": {
     "id": "us-353",
+    "prompt": "A close-up headshot of a slender 21-year-old Black woman with sharp jawline and sleek dark hair styled in high pigtails with butterfly clips. She has a highly flirtatious, predatory smirk, looking directly into the lens with calculating eyes. She wears a vibrant neon-pink velvet track jacket collar zipped halfway.",
     "persona": {
       "en": "the y2k girl",
       "pt": "a garota y2k"
     },
-    "prompt": "A close-up headshot of a slender 21-year-old Black woman with sharp jawline and sleek dark hair styled in high pigtails with butterfly clips. She has a highly flirtatious, predatory smirk, looking directly into the lens with calculating eyes. She wears a vibrant neon-pink velvet track jacket collar zipped halfway.",
     "description": "A trendy, confident young Black woman with an arrogant y2k-style aesthetic, wearing a neon-pink velvet track jacket collar.",
     "animal": "",
     "occupation": "Fashion blogger",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["trendy", "vanity", "arrogant"]
+    "traits": [
+      "trendy",
+      "vanity",
+      "arrogant"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-354": {
     "id": "us-354",
+    "prompt": "A close-up bust shot of an attractive, slender 22-year-old East Asian woman with a sharp jawline and sleek, long black hair pulled into high pigtails with neon-green ties. She has a highly flirtatious, predatory smirk, looking directly into the camera with sharp, calculating eyes that show distinct white ring-light reflections. She wears a low-cut, vibrant neon-pink satin top, with the framing cropped tightly above her chest to show her bare collarbones and thin neck. She wears oversized, fluffy purple over-ear headphones, her shoulders rigidly posed in a highly conspicuous manner.",
     "persona": {
       "en": "the high-earning cam girl",
       "pt": "a garota de câmera de elite"
     },
-    "prompt": "A close-up bust shot of an attractive, slender 22-year-old East Asian woman with a sharp jawline and sleek, long black hair pulled into high pigtails with neon-green ties. She has a highly flirtatious, predatory smirk, looking directly into the camera with sharp, calculating eyes that show distinct white ring-light reflections. She wears a low-cut, vibrant neon-pink satin top, with the framing cropped tightly above her chest to show her bare collarbones and thin neck. She wears oversized, fluffy purple over-ear headphones, her shoulders rigidly posed in a highly conspicuous manner.",
     "description": "A flirtatious, calculating young East Asian cam girl wearing a neon-pink top and large purple headphones, showing ring-light eye reflections.",
     "animal": "",
     "occupation": "Content creator",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "bisexual",
     "ethnicity": "asian",
     "economicClass": "upper",
     "educationLevel": "college",
-    "traits": ["vanity", "trendy", "calculating"]
+    "traits": [
+      "vanity",
+      "trendy",
+      "calculating"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-355": {
     "id": "us-355",
+    "prompt": "A close-up bust shot of a slender, average-looking 31-year-old white woman with a thin face and a highly conspicuous, wildly oversized ginger wig that sits slightly crooked on her head. She wears an uncomfortably rigid, dramatic frozen half-smile, but her wide, anxious eyes are full of panicked suspicion as she desperately tries to act natural. She is dressed in a loud, vibrant purple and green geometric patterned dress collar that tightly hugs her thin neck and rigid shoulders.",
     "persona": {
       "en": "the terrible disguise artist",
       "pt": "a mulher de peruca"
     },
-    "prompt": "A close-up bust shot of a slender, average-looking 31-year-old white woman with a thin face and a highly conspicuous, wildly oversized ginger wig that sits slightly crooked on her head. She wears an uncomfortably rigid, dramatic frozen half-smile, but her wide, anxious eyes are full of panicked suspicion as she desperately tries to act natural. She is dressed in a loud, vibrant purple and green geometric patterned dress collar that tightly hugs her thin neck and rigid shoulders.",
     "description": "An anxious white woman trying to look natural under a wildly oversized, crooked ginger wig, wearing a loud purple and green geometric dress.",
     "animal": "",
     "occupation": "Unemployed",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["anxious", "disguised", "suspicious"]
+    "traits": [
+      "anxious",
+      "disguised",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-356": {
     "id": "us-356",
+    "prompt": "A close-up bust shot of a weathered, stocky 56-year-old white man with short gray hair and a prominent dark mustache. He wears an expression of uncomfortably calm, strict authority, looking straight into the lens. He wears a structured, high-collared emergency-orange pilot uniform shirt, aviator sunglasses tucked into his pocket.",
     "persona": {
       "en": "the flight instructor",
       "pt": "o instrutor de voo veterano"
     },
-    "prompt": "A close-up bust shot of a weathered, stocky 56-year-old white man with short gray hair and a prominent dark mustache. He wears an expression of uncomfortably calm, strict authority, looking straight into the lens. He wears a structured, high-collared emergency-orange pilot uniform shirt, aviator sunglasses tucked into his pocket.",
     "description": "A strict, weathered older white flight instructor staring forward with absolute composure, dressed in a high-collared emergency-orange uniform shirt.",
     "animal": "",
     "occupation": "Flight instructor",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "traits": ["strict", "calm", "orderly"]
+    "traits": [
+      "strict",
+      "calm",
+      "orderly"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-357": {
     "id": "us-357",
+    "prompt": "A close-up bust shot of an average-built, solid 40-year-old Middle Eastern man with a neatly trimmed dark beard and sharp, observant eyes. He has a sly, untrustworthy, and highly suspicious smirk, looking directly into the lens with a chillingly calm, street-smart composure that says he's hiding something under the counter. He wears a casual, short-sleeve orange and blue checkered shirt over a simple white undershirt collar, his shoulders squared defiantly.",
     "persona": {
       "en": "the sharp bodega clerk",
       "pt": "o atendente de bodega"
     },
-    "prompt": "A close-up bust shot of an average-built, solid 40-year-old Middle Eastern man with a neatly trimmed dark beard and sharp, observant eyes. He has a sly, untrustworthy, and highly suspicious smirk, looking directly into the lens with a chillingly calm, street-smart composure that says he's hiding something under the counter. He wears a casual, short-sleeve orange and blue checkered shirt over a simple white undershirt collar, his shoulders squared defiantly.",
     "description": "A street-smart Middle Eastern bodega clerk with a highly suspicious smirk and observant eyes, dressed in an orange and blue checkered shirt.",
     "animal": "",
     "occupation": "Store clerk",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "middle-eastern",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["street-smart", "secretive", "suspicious"]
+    "traits": [
+      "street-smart",
+      "secretive",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-358": {
     "id": "us-358",
+    "prompt": "A close-up headshot of a wiry, skinny 33-year-old brown man with sharp features and a patchy dark beard. He wears an expression of smooth, confident arrogance, his dark eyes squinting slightly. He wears a vibrant yellow zip-up windbreaker jacket collar, a bundle of colorful tickets peeking into the frame near his chest.",
     "persona": {
       "en": "the ticket scalper",
       "pt": "o cambista"
     },
-    "prompt": "A close-up headshot of a wiry, skinny 33-year-old brown man with sharp features and a patchy dark beard. He wears an expression of smooth, confident arrogance, his dark eyes squinting slightly. He wears a vibrant yellow zip-up windbreaker jacket collar, a bundle of colorful tickets peeking into the frame near his chest.",
     "description": "A wiry, smug brown ticket scalper with an arrogant expression, wearing a vibrant yellow windbreaker jacket.",
     "animal": "",
     "occupation": "Ticket scalper",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "mixed",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["shady", "arrogant", "street-smart"]
+    "traits": [
+      "shady",
+      "arrogant",
+      "street-smart"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-359": {
     "id": "us-359",
+    "prompt": "A close-up headshot of a lean 29-year-old white man with an immaculately groomed short beard and neatly gelled hair. He has an unnaturally wide corporate sales smile, but his eyes remain completely cold, calculating, and highly suspicious. He wears a crisp, unwrinkled emerald-green blazer over a white shirt.",
     "persona": {
       "en": "the pharma sales rep",
       "pt": "o propagandista de medicamentos"
     },
-    "prompt": "A close-up headshot of a lean 29-year-old white man with an immaculately groomed short beard and neatly gelled hair. He has an unnaturally wide corporate sales smile, but his eyes remain completely cold, calculating, and highly suspicious. He wears a crisp, unwrinkled emerald-green blazer over a white shirt.",
     "description": "A polished white pharma representative displaying a forced sales smile and cold, calculating eyes, wearing an emerald-green blazer.",
     "animal": "",
     "occupation": "Pharmaceutical salesman",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "traits": ["performative", "calculating", "trendy"]
+    "traits": [
+      "performative",
+      "calculating",
+      "trendy"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-360": {
     "id": "us-360",
+    "prompt": "A close-up bust shot of an older, regular-built 62-year-old white man with a neat, average face, soft wrinkles, and side-parted graying hair styled in a wholesome, traditional children's TV host manner. He wears a weirdly serene, empty smile, staring directly forward into the lens with a chillingly calm, unblinking composure as he holds a crude, bright orange felt monster hand-puppet right up next to his chin. The puppet has oversized googly eyes and a wide felt mouth that completely mirrors his eerie, detached expression. He is dressed in a vibrant red knit cardigan over a light-blue collared shirt, his average-sized shoulders completely still and rigid in a highly conspicuous display of calm.",
     "persona": {
       "en": "the puppet confidant",
       "pt": "o titereiro assustador"
     },
-    "prompt": "A close-up bust shot of an older, regular-built 62-year-old white man with a neat, average face, soft wrinkles, and side-parted graying hair styled in a wholesome, traditional children's TV host manner. He wears a weirdly serene, empty smile, staring directly forward into the lens with a chillingly calm, unblinking composure as he holds a crude, bright orange felt monster hand-puppet right up next to his chin. The puppet has oversized googly eyes and a wide felt mouth that completely mirrors his eerie, detached expression. He is dressed in a vibrant red knit cardigan over a light-blue collared shirt, his average-sized shoulders completely still and rigid in a highly conspicuous display of calm.",
     "description": "An older, regular-built white puppeteer with a chillingly calm, empty smile, holding a bright orange felt puppet that mirrors his eerie expression.",
     "animal": "",
     "occupation": "Entertainer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["unhinged", "calm", "eccentric"]
+    "traits": [
+      "unhinged",
+      "calm",
+      "eccentric"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-361": {
     "id": "us-361",
+    "prompt": "A close-up headshot of a lean, average-looking 32-year-old white woman with a thin face and straight blonde hair tucked behind her ears. She has an unnaturally wide, freezing fake laugh, her mouth open in mid-laughter, but her eyes remain completely cold, deadpan, and deeply suspicious, creating an unsettlingly unhinged contrast. She is holding a small silver fork with a single piece of green lettuce conspicuously close to her chin at the bottom of the frame, her shoulders stiff and rigid in a forced display of joy.",
     "persona": {
       "en": "the salad girl",
       "pt": "a garota do comercial de salada"
     },
-    "prompt": "A close-up headshot of a lean, average-looking 32-year-old white woman with a thin face and straight blonde hair tucked behind her ears. She has an unnaturally wide, freezing fake laugh, her mouth open in mid-laughter, but her eyes remain completely cold, deadpan, and deeply suspicious, creating an unsettlingly unhinged contrast. She is holding a small silver fork with a single piece of green lettuce conspicuously close to her chin at the bottom of the frame, her shoulders stiff and rigid in a forced display of joy.",
     "description": "A white woman locked in an unhinged, freezing fake laugh while holding a fork with lettuce, her eyes entirely cold and suspicious.",
     "animal": "",
     "occupation": "Commercial actress",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["performative", "unhinged", "anxious"]
+    "traits": [
+      "performative",
+      "unhinged",
+      "anxious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-362": {
     "id": "us-362",
+    "prompt": "A close-up headshot of a slender 24-year-old white woman with long, straight dark hair. She wears an eerily serene, completely unblinking vacant smile, staring straight into the lens. A high-tech, bright pink microphone capsule is held conspicuously close to her mouth, and she wears a soft lavender hoodie collar.",
     "persona": {
       "en": "the asmr creator",
       "pt": "a criadora de asmr"
     },
-    "prompt": "A close-up headshot of a slender 24-year-old white woman with long, straight dark hair. She wears an eerily serene, completely unblinking vacant smile, staring straight into the lens. A high-tech, bright pink microphone capsule is held conspicuously close to her mouth, and she wears a soft lavender hoodie collar.",
     "description": "A serene white ASMR content creator with a vacant smile, holding a high-tech pink microphone close to her face in a lavender hoodie.",
     "animal": "",
     "occupation": "Content creator",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "euro-descendant",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["calm", "vacant", "trendy"]
+    "traits": [
+      "calm",
+      "vacant",
+      "trendy"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-363": {
     "id": "us-363",
+    "prompt": "A close-up bust shot of an unhealthily skinny, gaunt 27-year-old brown man with an emaciated face, dark circles under his eyes, and unkempt black hair. He has a sullen, deeply suspicious deadpan expression, staring flatly forward. He wears a vibrant neon-green convenience store vest collar over a bright yellow t-shirt.",
     "persona": {
       "en": "the night shift clerk",
       "pt": "o atendente da madrugada"
     },
-    "prompt": "A close-up bust shot of an unhealthily skinny, gaunt 27-year-old brown man with an emaciated face, dark circles under his eyes, and unkempt black hair. He has a sullen, deeply suspicious deadpan expression, staring flatly forward. He wears a vibrant neon-green convenience store vest collar over a bright yellow t-shirt.",
     "description": "A gaunt, exhausted brown convenience store clerk with deep dark circles, staring forward with sullen suspicion in a neon-green vest.",
     "animal": "",
     "occupation": "Store clerk",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "mixed",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["tired", "working-class", "suspicious"]
+    "traits": [
+      "tired",
+      "working-class",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-364": {
     "id": "us-364",
+    "prompt": "A close-up headshot of an average-built 45-year-old Black man with a shaved head and a meticulously trimmed beard. He wears an expression of uncomfortably calm, icy composure, staring directly forward with a subtle half-smile. He wears a structured, vibrant turquoise polo shirt collar, his posture perfectly rigid.",
     "persona": {
       "en": "the rehab concierge",
       "pt": "o recepcionista da clínica"
     },
-    "prompt": "A close-up headshot of an average-built 45-year-old Black man with a shaved head and a meticulously trimmed beard. He wears an expression of uncomfortably calm, icy composure, staring directly forward with a subtle half-smile. He wears a structured, vibrant turquoise polo shirt collar, his posture perfectly rigid.",
     "description": "An uncomfortably calm Black rehab concierge with a shaved head and a subtle half-smile, wearing a structured turquoise polo shirt.",
     "animal": "",
     "occupation": "Clinic concierge",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["calm", "orderly", "secretive"]
+    "traits": [
+      "calm",
+      "orderly",
+      "secretive"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-365": {
     "id": "us-365",
+    "prompt": "A close-up bust shot of a lean 23-year-old Black man with a sharp fade haircut and a prominent gold chain. He wears an expression of supreme, unearned arrogance, looking out of the corner of his eyes with a mocking smirk. He wears a loud, bright orange graphic windbreaker jacket collar pulled high.",
     "persona": {
       "en": "the streetwear scalper",
       "pt": "o cambista de streetwear"
     },
-    "prompt": "A close-up bust shot of a lean 23-year-old Black man with a sharp fade haircut and a prominent gold chain. He wears an expression of supreme, unearned arrogance, looking out of the corner of his eyes with a mocking smirk. He wears a loud, bright orange graphic windbreaker jacket collar pulled high.",
     "description": "A smug young Black streetwear scalper with a gold chain and an arrogant smirk, wearing a loud bright orange windbreaker jacket.",
     "animal": "",
     "occupation": "Retail reseller",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "african-american",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["trendy", "arrogant", "shady"]
+    "traits": [
+      "trendy",
+      "arrogant",
+      "shady"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-366": {
     "id": "us-366",
+    "prompt": "A close-up bust shot of an average-built, slightly plump 72-year-old white woman with a wrinkled but effortlessly stylish face and short silver hair peeking out from beneath a vibrant neon-green streetwear knit beanie. She wears an intensely smug, overconfident, and highly suspicious smirk, looking directly into the lens with a chillingly calm, completely unbothered gaze that suggests she just outsmarted the system. She wears trendy, oversized translucent orange acetate glasses resting on her nose, her eyes full of sly calculation. Her neck and shoulders are heavily layered in fresh, colorful knitwear, featuring a bright teal puffer vest collar worn over an oversized, chunky magenta wool sweater with a high mock-neck. A thick, colorful plastic lilac chain-link necklace rests conspicuously at her neckline, her bundled shoulders held high in a defiant, cool stance.",
     "persona": {
       "en": "the hip grandma",
       "pt": "a vovó descolada"
     },
-    "prompt": "A close-up bust shot of an average-built, slightly plump 72-year-old white woman with a wrinkled but effortlessly stylish face and short silver hair peeking out from beneath a vibrant neon-green streetwear knit beanie. She wears an intensely smug, overconfident, and highly suspicious smirk, looking directly into the lens with a chillingly calm, completely unbothered gaze that suggests she just outsmarted the system. She wears trendy, oversized translucent orange acetate glasses resting on her nose, her eyes full of sly calculation. Her neck and shoulders are heavily layered in fresh, colorful knitwear, featuring a bright teal puffer vest collar worn over an oversized, chunky magenta wool sweater with a high mock-neck. A thick, colorful plastic lilac chain-link necklace rests conspicuously at her neckline, her bundled shoulders held high in a defiant, cool stance.",
     "description": "An effortlessly cool, smug 72-year-old white grandma in a neon-green beanie and oversized orange glasses, layered heavily in high-end colorful knitwear.",
     "animal": "",
     "occupation": "Retired designer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["eccentric", "trendy", "smug"]
+    "traits": [
+      "eccentric",
+      "trendy",
+      "smug"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-367": {
     "id": "us-367",
+    "prompt": "A close-up bust shot of a plump 55-year-old white woman with a soft face and short curly gray hair. She has a deeply paranoid, wide-eyed expression of absolute guilt and panic, her eyes darting frantically. She wears a vibrant yellow knit sweater collar, her broad shoulders trembling slightly.",
     "persona": {
       "en": "the crucial witness",
       "pt": "a testemunha chave"
     },
-    "prompt": "A close-up bust shot of a plump 55-year-old white woman with a soft face and short curly gray hair. She has a deeply paranoid, wide-eyed expression of absolute guilt and panic, her eyes darting frantically. She wears a vibrant yellow knit sweater collar, her broad shoulders trembling slightly.",
     "description": "A deeply paranoid, wide-eyed older white witness frozen in a display of panic and guilt, wearing a vibrant yellow knit sweater.",
     "animal": "",
     "occupation": "Homemaker",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["paranoid", "anxious", "suspicious"]
+    "traits": [
+      "paranoid",
+      "anxious",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-368": {
     "id": "us-368",
+    "prompt": "A close-up headshot of a skinny, lanky 22-year-old Latino man with a narrow, average face, sharp features, and messy, sweat-plastered dark hair. He wears an expression of intense, wide-eyed paranoia and guilt, his eyes darting frantically to the edge of the frame as if checking his side mirrors for flashing lights. He wears a bright neon-orange zip-up windbreaker jacket collar that bunches up tightly around his thin neck, his narrow shoulders hunched forward in an anxious defensive shrug.",
     "persona": {
       "en": "the panicked driver",
       "pt": "o motorista em pânico"
     },
-    "prompt": "A close-up headshot of a skinny, lanky 22-year-old Latino man with a narrow, average face, sharp features, and messy, sweat-plastered dark hair. He wears an expression of intense, wide-eyed paranoia and guilt, his eyes darting frantically to the edge of the frame as if checking his side mirrors for flashing lights. He wears a bright neon-orange zip-up windbreaker jacket collar that bunches up tightly around his thin neck, his narrow shoulders hunched forward in an anxious defensive shrug.",
     "description": "A young, sweat-slicked Latino driver caught in an intense display of wide-eyed panic, wearing a bunched-up neon-orange windbreaker collar.",
     "animal": "",
     "occupation": "Getaway driver",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "latino",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["anxious", "working-class", "suspicious"]
+    "traits": [
+      "anxious",
+      "working-class",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-369": {
     "id": "us-369",
+    "prompt": "A close-up bust shot of a plump 29-year-old white man with a round face, messy brown hair, and thick sweat visible across his brow. He has a highly suspicious, defensive scowl, staring forward. He wears a vibrant red heavy cotton t-shirt collar, a large black camera strap draping conspicuously over his soft shoulder.",
     "persona": {
       "en": "the sweaty videographer",
       "pt": "o cinegrafista suado"
     },
-    "prompt": "A close-up bust shot of a plump 29-year-old white man with a round face, messy brown hair, and thick sweat visible across his brow. He has a highly suspicious, defensive scowl, staring forward. He wears a vibrant red heavy cotton t-shirt collar, a large black camera strap draping conspicuously over his soft shoulder.",
     "description": "A sweaty, defensive young white videographer with a prominent camera strap, wearing a vibrant red heavy cotton t-shirt.",
     "animal": "",
     "occupation": "Videographer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["anxious", "artistic", "defiant"]
+    "traits": [
+      "anxious",
+      "artistic",
+      "defiant"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-370": {
     "id": "us-370",
+    "prompt": "A close-up bust shot of a heavy-set 42-year-old Black woman with a full face and dark hair pulled tightly back. She possesses a completely deadpan, unbothered scowl, staring forward with a piercing, highly suspicious glare. She wears a loud, bright yellow uniform polo shirt collar that fits snugly around her wide neck.",
     "persona": {
       "en": "the fed-up worker",
       "pt": "a funcionária esgotada"
     },
-    "prompt": "A close-up bust shot of a heavy-set 42-year-old Black woman with a full face and dark hair pulled tightly back. She possesses a completely deadpan, unbothered scowl, staring forward with a piercing, highly suspicious glare. She wears a loud, bright yellow uniform polo shirt collar that fits snugly around her wide neck.",
     "description": "A stone-faced, deeply cynical Black woman delivering an unbothered, fed-up glare in a bright yellow uniform polo shirt.",
     "animal": "",
     "occupation": "Customer service clerk",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "black",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["tired", "cynical", "working-class"]
+    "traits": [
+      "tired",
+      "cynical",
+      "working-class"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-371": {
     "id": "us-371",
+    "prompt": "A close-up bust shot of a skinny, wiry, yet sharply muscular 29-year-old Asian man with a lean, toned neck and defined, narrow shoulders. His face is completely covered by a classic white plastic sports hockey mask with red accents, but his distinct East Asian skin tone, almond-shaped dark eyes peeking through the eyeholes, and a thick tuft of spiky black hair sticking out from the top make his heritage obvious. He stands in an unsettlingly still, chillingly calm posture, wearing a tight emerald-green athletic tank top that fits snugly over his lean, sharply defined chest.",
     "persona": {
       "en": "the masked enforcer",
       "pt": "o capanga mascarado"
     },
-    "prompt": "A close-up bust shot of a skinny, wiry, yet sharply muscular 29-year-old Asian man with a lean, toned neck and defined, narrow shoulders. His face is completely covered by a classic white plastic sports hockey mask with red accents, but his distinct East Asian skin tone, almond-shaped dark eyes peeking through the eyeholes, and a thick tuft of spiky black hair sticking out from the top make his heritage obvious. He stands in an unsettlingly still, chillingly calm posture, wearing a tight emerald-green athletic tank top that fits snugly over his lean, sharply defined chest.",
     "description": "A wiry, sharply muscular young Asian enforcer wearing a white hockey mask and a tight emerald-green tank top, standing in a chillingly still pose.",
     "animal": "",
     "occupation": "Security muscle",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "asian",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["athletic", "calm", "bizarre"]
+    "traits": [
+      "athletic",
+      "calm",
+      "bizarre"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-372": {
     "id": "us-372",
+    "prompt": "A close-up headshot of a skinny 35-year-old white man with sharp features and messy light brown hair. His face is shiny with nervous sweat, his jaw clenched, and his wide eyes full of acute guilt and panic as he glares suspiciously at the lens. He wears a vibrant royal-blue dress shirt collar, his narrow shoulders completely rigid.",
     "persona": {
       "en": "the nervous white man",
       "pt": "o homem branco acuado"
     },
-    "prompt": "A close-up headshot of a skinny 35-year-old white man with sharp features and messy light brown hair. His face is shiny with nervous sweat, his jaw clenched, and his wide eyes full of acute guilt and panic as he glares suspiciously at the lens. He wears a vibrant royal-blue dress shirt collar, his narrow shoulders completely rigid.",
     "description": "A sweat-slicked, skinny white man locked in a tense display of panic and guilt, wearing a vibrant royal-blue dress shirt.",
     "animal": "",
     "occupation": "Office worker",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "traits": ["anxious", "suspicious", "tense"]
+    "traits": [
+      "anxious",
+      "suspicious",
+      "tense"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-373": {
     "id": "us-373",
+    "prompt": "A close-up bust shot of a skinny, wiry 38-year-old white man with a lean face, dark stubble, and messy brown hair under a bright teal baseball cap worn backwards. He wears a smug, arrogant smirk, looking out of the corner of his eyes. He wears a loud, vibrant red graphic t-shirt collar, his narrow shoulders completely relaxed.",
     "persona": {
       "en": "the aging skater",
       "pt": "o skatista veterano"
     },
-    "prompt": "A close-up bust shot of a skinny, wiry 38-year-old white man with a lean face, dark stubble, and messy brown hair under a bright teal baseball cap worn backwards. He wears a smug, arrogant smirk, looking out of the corner of his eyes. He wears a loud, vibrant red graphic t-shirt collar, his narrow shoulders completely relaxed.",
     "description": "A wiry, middle-aged white skater with a backward teal cap and a smug smirk, dressed in a vibrant red graphic t-shirt.",
     "animal": "",
     "occupation": "Skate shop worker",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["trendy", "arrogant", "working-class"]
+    "traits": [
+      "trendy",
+      "arrogant",
+      "working-class"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-374": {
     "id": "us-374",
+    "prompt": "A close-up bust shot of an average-built 42-year-old brown man with short black hair and sharp, observant eyes. He wears an expression of quiet, highly calculating, and secretive calm, looking directly at the camera. He wears a casual, short-sleeve orange shirt collar, his shoulders squared in a completely unbothered stance.",
     "persona": {
       "en": "the convenience clerk",
       "pt": "o atendente de conveniência"
     },
-    "prompt": "A close-up bust shot of an average-built 42-year-old brown man with short black hair and sharp, observant eyes. He wears an expression of quiet, highly calculating, and secretive calm, looking directly at the camera. He wears a casual, short-sleeve orange shirt collar, his shoulders squared in a completely unbothered stance.",
     "description": "An observant brown convenience store worker with a highly calculating, calm presence, wearing a casual short-sleeve orange shirt.",
     "animal": "",
     "occupation": "Store clerk",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "mixed",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["working-class", "calculating", "calm"]
+    "traits": [
+      "working-class",
+      "calculating",
+      "calm"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-375": {
     "id": "us-375",
+    "prompt": "A close-up headshot of a plump, sturdy 39-year-old Black woman with a wide face, thick neck, and a messy dark brown afro pulled into a loose puff. Her face is twisted in a tense, highly suspicious, and defensive scowl, pulling her chin back slightly as she glares at the camera with cold, unbothered defiance. She is dressed in a loud, vibrant windbreaker jacket collar covered in neon pink, cyan, and orange geometric patterns that snugly frames her broad shoulders, a large gold hoop earring visible on one ear.",
     "persona": {
       "en": "the fraud artist",
       "pt": "a rainha do golpe do seguro"
     },
-    "prompt": "A close-up headshot of a plump, sturdy 39-year-old Black woman with a wide face, thick neck, and a messy dark brown afro pulled into a loose puff. Her face is twisted in a tense, highly suspicious, and defensive scowl, pulling her chin back slightly as she glares at the camera with cold, unbothered defiance. She is dressed in a loud, vibrant windbreaker jacket collar covered in neon pink, cyan, and orange geometric patterns that snugly frames her broad shoulders, a large gold hoop earring visible on one ear.",
     "description": "A sturdy Black woman delivering a defensive, highly suspicious scowl, dressed in a loud neon-patterned geometric windbreaker jacket.",
     "animal": "",
     "occupation": "Con artist",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "black",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "traits": ["shady", "defiant", "suspicious"]
+    "traits": [
+      "shady",
+      "defiant",
+      "suspicious"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-376": {
     "id": "us-376",
+    "prompt": "A close-up bust shot of an extremely slender, wiry, yet sharply toned 25-year-old Asian woman with sleek black hair pulled into a severe, tight high bun. She possesses an eerie, unsettlingly calm composure, her head tilted sideways at an impossible, uncomfortably sharp angle resting almost flat against her own shoulder, while her face remains completely serene and unblinking. She glares directly into the lens with a subtle, confident smirk that reveals absolute defiance. She wears a vibrant neon-green and purple athletic spandex top collar that tightly hugs her hyper-extended neck and lean, flexible shoulders, frozen in a chillingly unnatural lineup pose.",
     "persona": {
       "en": "the uncanny contortionist",
       "pt": "a contorcionista sinistra"
     },
-    "prompt": "A close-up bust shot of an extremely slender, wiry, yet sharply toned 25-year-old Asian woman with sleek black hair pulled into a severe, tight high bun. She possesses an eerie, unsettlingly calm composure, her head tilted sideways at an impossible, uncomfortably sharp angle resting almost flat against her own shoulder, while her face remains completely serene and unblinking. She glares directly into the lens with a subtle, confident smirk that reveals absolute defiance. She wears a vibrant neon-green and purple athletic spandex top collar that tightly hugs her hyper-extended neck and lean, flexible shoulders, frozen in a chillingly unnatural lineup pose.",
     "description": "A hyper-flexible young Asian contortionist with her head tilted at a chillingly sharp angle, wearing a vibrant neon-green spandex top.",
     "animal": "",
     "occupation": "Performer",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["athletic", "calm", "bizarre"]
+    "traits": [
+      "athletic",
+      "calm",
+      "bizarre"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-377": {
     "id": "us-377",
+    "prompt": "A close-up bust shot of a plump, heavy-set 50-year-old East Asian woman with a round, average-looking face, a soft double chin, and graying black hair tied back loosely in a practical, messy bun. She wears a deeply calculating, street-smart, and highly suspicious expression, staring straight into the lens with a knowing, unbothered half-smile as if she knows exactly what secrets are hidden in everyone's pockets. A soft, bright yellow fabric tape measure is draped loosely around her neck, and a classic, plump red tomato pincushion bristling with silver pins is pinned conspicuously to the shoulder of her shirt. She wears a vibrant, cheerful orange and teal floral-patterned cotton blouse, her broad, soft shoulders perfectly still in a calm lineup pose.",
     "persona": {
       "en": "the neighborhood seamstress",
       "pt": "a costureira do bairro"
     },
-    "prompt": "A close-up bust shot of a plump, heavy-set 50-year-old East Asian woman with a round, average-looking face, a soft double chin, and graying black hair tied back loosely in a practical, messy bun. She wears a deeply calculating, street-smart, and highly suspicious expression, staring straight into the lens with a knowing, unbothered half-smile as if she knows exactly what secrets are hidden in everyone's pockets. A soft, bright yellow fabric tape measure is draped loosely around her neck, and a classic, plump red tomato pincushion bristling with silver pins is pinned conspicuously to the shoulder of her shirt. She wears a vibrant, cheerful orange and teal floral-patterned cotton blouse, her broad, soft shoulders perfectly still in a calm lineup pose.",
     "description": "A heavy-set East Asian costureira with a knowing, highly suspicious half-smile, wearing a floral blouse with a tape measure around her neck.",
     "animal": "",
     "occupation": "Seamstress",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "straight",
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "traits": ["artisan", "working-class", "calculating"]
+    "traits": [
+      "artisan",
+      "working-class",
+      "calculating"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-378": {
+    "id": "us-378",
+    "prompt": "",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "",
+    "ethnicity": "",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-379": {
+    "id": "us-379",
+    "prompt": "",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "",
+    "ethnicity": "",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-380": {
+    "id": "us-380",
+    "prompt": "",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "",
+    "ethnicity": "",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-381": {
     "id": "us-381",
+    "prompt": "A close-up headshot of an inflatable vinyl doll with a highly stylized, hollow female face made of shiny pink plastic. The doll has an unnaturally wide, completely frozen round mouth open in an O-shape and massive, painted painted-on blue eyes staring straight forward with a chillingly vacant, static presence. The doll wears a loud, vibrant yellow and green geometric patterned bikini top collar that frames its rigid, synthetic plastic neck and unmoving seamless shoulders.",
     "persona": {
       "en": "the blow-up doll",
       "pt": "a boneca inflável"
     },
-    "prompt": "A close-up headshot of an inflatable vinyl doll with a highly stylized, hollow female face made of shiny pink plastic. The doll has an unnaturally wide, completely frozen round mouth open in an O-shape and massive, painted painted-on blue eyes staring straight forward with a chillingly vacant, static presence. The doll wears a loud, vibrant yellow and green geometric patterned bikini top collar that frames its rigid, synthetic plastic neck and unmoving seamless shoulders.",
     "description": "A bizarre, hollow female blow-up doll made of shiny pink vinyl with a static round open mouth, dressed in a loud yellow and green geometric top.",
     "animal": "",
     "occupation": "Novelty prop",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "other",
     "ethnicity": "other",
     "economicClass": "lower",
     "educationLevel": "none",
-    "traits": ["vacant", "bizarre", "synthetic"]
+    "traits": [
+      "vacant",
+      "bizarre",
+      "synthetic"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-382": {
     "id": "us-382",
+    "prompt": "A close-up bust shot of a sturdily built domestic android helper robot with a polished chrome chassis, facing completely forward. The robot has a decidedly mechanical head with distinct squared facial features and softly rounded corners, completely devoid of synthetic human skin. It possesses an uncomfortably serene, deadpan composure, its unblinking bright blue optical sensor eyes staring straight ahead into the lens while a faint, static blue LED strip forms a weirdly polite, frozen smile that feels deeply suspicious in a lineup. Visible mechanical joints and tightly bundled yellow wires are subtly exposed at its thick chrome neck. It wears a bright neon-orange service vest collar over its wide, sturdy metallic shoulders, standing frozen with an unsettlingly calm and robotic lack of guilt.",
     "persona": {
       "en": "the compliant android helper",
       "pt": "o robô assistente doméstico"
     },
-    "prompt": "A close-up bust shot of a sturdily built domestic android helper robot with a polished chrome chassis, facing completely forward. The robot has a decidedly mechanical head with distinct squared facial features and softly rounded corners, completely devoid of synthetic human skin. It possesses an uncomfortably serene, deadpan composure, its unblinking bright blue optical sensor eyes staring straight ahead into the lens while a faint, static blue LED strip forms a weirdly polite, frozen smile that feels deeply suspicious in a lineup. Visible mechanical joints and tightly bundled yellow wires are subtly exposed at its thick chrome neck. It wears a bright neon-orange service vest collar over its wide, sturdy metallic shoulders, standing frozen with an unsettlingly calm and robotic lack of guilt.",
     "description": "A sturdy, polished chrome android helper robot with squared features, round corners, and bright blue optical eyes, wearing a neon-orange service vest.",
     "animal": "",
     "occupation": "Domestic helper",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "other",
     "ethnicity": "other",
     "economicClass": "upper",
     "educationLevel": "high",
-    "traits": ["robotic", "calm", "orderly"]
+    "traits": [
+      "robotic",
+      "calm",
+      "orderly"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   },
   "us-383": {
     "id": "us-383",
+    "prompt": "A close-up headshot of a regular-built, completely hairless retail mannequin with a smooth, hollow fiberglass face instead of skin. It possesses a highly conspicuous, uncomfortably perfect painted-on red smile and blank, pupil-less blue eyes staring directly forward with a chillingly calm, unbothered presence. The mannequin wears a loud, vibrant yellow and purple geometric patterned shirt collar that snugly frames its rigid, synthetic neck and unmoving shoulders.",
     "persona": {
       "en": "the living mannequin",
       "pt": "o manequim vivo"
     },
-    "prompt": "A close-up headshot of a regular-built, completely hairless retail mannequin with a smooth, hollow fiberglass face instead of skin. It possesses a highly conspicuous, uncomfortably perfect painted-on red smile and blank, pupil-less blue eyes staring directly forward with a chillingly calm, unbothered presence. The mannequin wears a loud, vibrant yellow and purple geometric patterned shirt collar that snugly frames its rigid, synthetic neck and unmoving shoulders.",
     "description": "A completely hairless, smooth fiberglass retail mannequin with a perfect painted-on red smile, wearing a yellow and purple patterned shirt collar.",
     "animal": "",
     "occupation": "Display model",
-    "mbti": "",
-    "zodiacSign": "",
-    "alignment": "",
     "sexualOrientation": "other",
     "ethnicity": "other",
     "economicClass": "middle",
     "educationLevel": "none",
-    "traits": ["synthetic", "calm", "vacant"]
+    "traits": [
+      "synthetic",
+      "calm",
+      "vacant"
+    ],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-384": {
+    "id": "us-384",
+    "prompt": "",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "",
+    "ethnicity": "",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
+  },
+  "us-385": {
+    "id": "us-385",
+    "prompt": "",
+    "persona": {
+      "en": "",
+      "pt": ""
+    },
+    "description": "",
+    "animal": "",
+    "occupation": "",
+    "sexualOrientation": "",
+    "ethnicity": "",
+    "economicClass": "",
+    "educationLevel": "",
+    "traits": [],
+    "alignment": "",
+    "mbti": "",
+    "zodiacSign": ""
   }
 }
