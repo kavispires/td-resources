@@ -106,6 +106,7 @@
     "decks": [
       "age3",
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -212,6 +213,7 @@
     "decks": [
       "age2",
       "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -549,6 +551,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -656,6 +659,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -989,6 +993,7 @@
     "decks": [
       "age3",
       "alien",
+      "dream",
       "manufactured",
       "thing",
       "weapon"
@@ -1056,6 +1061,7 @@
     "decks": [
       "age1",
       "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -1168,7 +1174,8 @@
     ],
     "decks": [
       "age1",
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "81": {
@@ -2467,7 +2474,8 @@
       "solução"
     ],
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "176": {
@@ -3029,6 +3037,7 @@
     ],
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -3582,7 +3591,8 @@
       "pt": "útero"
     },
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ],
     "nsfw": true
   },
@@ -3911,6 +3921,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "manufactured"
     ]
   },
@@ -3920,8 +3931,12 @@
       "en": "chef's hat",
       "pt": "chapéu de cozinheiro"
     },
+    "aliasesPt": [
+      "chef"
+    ],
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -4050,6 +4065,7 @@
     ],
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -4295,6 +4311,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -4668,6 +4685,9 @@
       "en": "film reel",
       "pt": "película"
     },
+    "aliasesPt": [
+      "filme"
+    ],
     "decks": [
       "alien",
       "evidence",
@@ -7336,6 +7356,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "location",
       "manufactured"
     ]
@@ -7432,6 +7453,7 @@
     "decks": [
       "age3",
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -7847,6 +7869,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -13446,6 +13469,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -14511,6 +14535,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "manufactured",
       "weapon"
     ]
@@ -14744,6 +14769,7 @@
     "decks": [
       "age2",
       "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -14845,6 +14871,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured",
       "weapon"
@@ -14997,6 +15024,7 @@
     "decks": [
       "age2",
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -15137,6 +15165,7 @@
       "pt": "impressão digital"
     },
     "decks": [
+      "dream",
       "evidence",
       "meta",
       "thing"
@@ -15149,6 +15178,7 @@
       "pt": "pegada"
     },
     "decks": [
+      "dream",
       "evidence",
       "meta"
     ]
@@ -15272,6 +15302,7 @@
     "decks": [
       "age4",
       "alien",
+      "dream",
       "evidence",
       "meta"
     ]
@@ -15284,6 +15315,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -15394,10 +15426,14 @@
     "id": "1179",
     "name": {
       "en": "evidence",
-      "pt": "provas"
+      "pt": "evidências"
     },
+    "aliasesPt": [
+      "provas"
+    ],
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "meta"
     ]
@@ -15541,6 +15577,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -15727,6 +15764,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "manufactured"
     ]
@@ -15838,6 +15876,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "meta"
     ]
@@ -16199,6 +16238,7 @@
     "decks": [
       "age2",
       "alien",
+      "dream",
       "manufactured",
       "weapon"
     ]
@@ -22674,6 +22714,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence",
       "location"
     ]
@@ -22768,6 +22809,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -23056,6 +23098,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "suspect"
     ]
   },
@@ -23191,7 +23234,8 @@
     },
     "decks": [
       "age2",
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "1809": {
@@ -23211,7 +23255,8 @@
       "pt": "tucano"
     },
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "1811": {
@@ -23396,7 +23441,8 @@
       "pt": "toupeira"
     },
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "1827": {
@@ -23439,7 +23485,8 @@
       "pt": "javali"
     },
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "1831": {
@@ -24216,7 +24263,8 @@
       "pt": "amora"
     },
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "1896": {
@@ -25637,6 +25685,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "suspect"
     ]
   },
@@ -26655,6 +26704,7 @@
     },
     "decks": [
       "age3",
+      "dream",
       "suspect"
     ]
   },
@@ -27031,16 +27081,17 @@
     "id": "2135",
     "name": {
       "en": "oil truck",
-      "pt": "caminhões-tanque"
+      "pt": "caminhões-pipa"
     },
     "aliasesEn": [
       "tanker"
     ],
     "aliasesPt": [
-      "caminhão-pipa"
+      "caminhões-tanque"
     ],
     "decks": [
       "alien",
+      "dream",
       "manufactured"
     ]
   },
@@ -32108,7 +32159,8 @@
       "pt": "step"
     },
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "2566": {
@@ -33587,6 +33639,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "manufactured",
       "thing"
     ]
@@ -34252,7 +34305,11 @@
       "en": "search engine",
       "pt": "busca"
     },
+    "aliasesEn": [
+      "search field"
+    ],
     "aliasesPt": [
+      "campo de busca",
       "pesquisar"
     ],
     "decks": [
@@ -36151,6 +36208,7 @@
     ],
     "decks": [
       "age5",
+      "dream",
       "meta",
       "symbol"
     ]
@@ -36927,6 +36985,7 @@
       "pt": "advogado"
     },
     "decks": [
+      "dream",
       "suspect"
     ]
   },
@@ -37649,6 +37708,7 @@
       "xingar"
     ],
     "decks": [
+      "dream",
       "meta"
     ]
   },
@@ -38232,7 +38292,8 @@
       "pt": "ostra"
     },
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "3035": {
@@ -38347,7 +38408,8 @@
       "pt": "creme de leite"
     },
     "decks": [
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "3045": {
@@ -38917,6 +38979,7 @@
       "pt": "ângulo"
     },
     "decks": [
+      "dream",
       "suspect"
     ]
   },
@@ -38927,6 +38990,7 @@
       "pt": "matemática"
     },
     "decks": [
+      "dream",
       "meta",
       "symbol"
     ]
@@ -39097,7 +39161,8 @@
     },
     "decks": [
       "age1",
-      "alien"
+      "alien",
+      "dream"
     ]
   },
   "3106": {
@@ -39121,6 +39186,7 @@
       "pt": "maré"
     },
     "decks": [
+      "dream",
       "meta",
       "thing"
     ]
@@ -39398,6 +39464,7 @@
     "decks": [
       "age5",
       "alien",
+      "dream",
       "thing"
     ]
   },
@@ -39545,6 +39612,7 @@
       "pt": "justiça"
     },
     "decks": [
+      "dream",
       "meta",
       "thing"
     ]
@@ -39928,6 +39996,7 @@
       "pt": "saúde"
     },
     "decks": [
+      "dream",
       "meta"
     ]
   },
@@ -40132,6 +40201,7 @@
     ],
     "decks": [
       "alien",
+      "dream",
       "location"
     ]
   },
@@ -40205,9 +40275,13 @@
       "en": "clay filter",
       "pt": "filtro de barro"
     },
+    "aliasesPt": [
+      "filtro"
+    ],
     "decks": [
       "age3",
       "alien",
+      "dream",
       "evidence"
     ]
   },
@@ -41613,6 +41687,7 @@
     },
     "decks": [
       "alien",
+      "dream",
       "manufactured",
       "meta"
     ]
@@ -41636,6 +41711,7 @@
       "pt": "anime"
     },
     "decks": [
+      "dream",
       "meta"
     ]
   },
@@ -41682,6 +41758,7 @@
       "trilheiro"
     ],
     "decks": [
+      "dream",
       "suspect"
     ]
   },
@@ -41874,6 +41951,7 @@
     ],
     "decks": [
       "alien",
+      "dream",
       "meta"
     ]
   }
