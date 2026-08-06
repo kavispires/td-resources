@@ -1514,6 +1514,10 @@ export type TestimonyQuestionCardData = {
    */
   answer: string;
   /**
+   * The deck the questions is appropriate for (family-friendly, base, or adult/NSFW)
+   */
+  deck: 'family' | 'default' | 'adult' | (string & NonNullable<unknown>);
+  /**
    * The level of difficulty
    */
   level: number;
