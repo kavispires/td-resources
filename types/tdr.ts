@@ -9,7 +9,7 @@
 
 export type UID = string;
 export type Language = 'en' | 'pt';
-export type DualLanguageValue = { en: string; pt: string };
+export type DualLanguageValue<T = string> = { en: T; pt: T };
 export type DateMilliseconds = number;
 
 // ==========================================
@@ -1284,6 +1284,11 @@ export type MovieGenres = {
 export type SuspectStyleVariant = 'gb' | 'rl' | 'px' | 'fx' | (string & NonNullable<unknown>);
 
 /**
+ * Enforces a format like "85|-2|0.8" or "85|-2"
+ */
+type SuspectPackedTransformString = `${number}|${number}|${number}` | `${number}|${number}`;
+
+/**
  * Suspect Card
  * Used for: suspects
  */
@@ -1296,6 +1301,10 @@ export type SuspectCardData = {
    * The name of the suspect
    */
   name: DualLanguageValue;
+  /**
+   * Descriptive label of the suspect representing their persona
+   */
+  persona: DualLanguageValue;
   /**
    * The deck the suspect belongs to
    */
@@ -1342,6 +1351,12 @@ export type SuspectCardData = {
    * List of features in the suspect image (gb style as reference point)
    */
   features: string[];
+    /**
+   * Packed coordinates for dynamic name placement on the Polaroid.
+   * Format: <y>|<angle>|<size> (separated by a pipe).
+   * @example "85|-2|0.8"
+   */
+  labelTransform?: SuspectPackedTransformString;
   /**
    * Flag indicating if the suspect is exclusive to the gb style
    */
@@ -1358,10 +1373,6 @@ export type SuspectExtendedInfoData = {
    * Unique identifier for the card that matches its SuspectCard equivalent
    */
   id: UID;
-  /**
-   * Descriptive label of the suspect representing their persona
-   */
-  persona: DualLanguageValue;
   /**
    * AI prompt descriptor
    */
