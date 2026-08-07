@@ -3,13 +3,13 @@
     "id": "t-1-pt",
     "statement": "Assiste jogos em estádio",
     "deck": "family",
-    "level": 1
+    "level": 2
   },
   "t-2-pt": {
     "id": "t-2-pt",
     "statement": "Gosta de música clássica",
     "deck": "family",
-    "level": 1
+    "level": 2
   },
   "t-3-pt": {
     "id": "t-3-pt",
@@ -33,7 +33,7 @@
     "id": "t-6-pt",
     "statement": "Já foi esquiar alguma vez",
     "deck": "family",
-    "level": 1
+    "level": 2
   },
   "t-7-pt": {
     "id": "t-7-pt",
@@ -57,7 +57,7 @@
     "id": "t-10-pt",
     "statement": "Já participou de um protesto",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-11-pt": {
     "id": "t-11-pt",
@@ -69,7 +69,7 @@
     "id": "t-12-pt",
     "statement": "Já foi no parque Guanabara (parque de diversões local)",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-13-pt": {
     "id": "t-13-pt",
@@ -87,13 +87,13 @@
     "id": "t-15-pt",
     "statement": "É um fã da Apple",
     "deck": "default",
-    "level": 1
+    "level": 2
   },
   "t-16-pt": {
     "id": "t-16-pt",
     "statement": "Cumprimenta seus vizinhos",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-17-pt": {
     "id": "t-17-pt",
@@ -105,7 +105,7 @@
     "id": "t-18-pt",
     "statement": "Morreria primeiro em um apocalipse zumbi",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-19-pt": {
     "id": "t-19-pt",
@@ -117,13 +117,13 @@
     "id": "t-20-pt",
     "statement": "Deixaria os filhos brincarem na rua",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-21-pt": {
     "id": "t-21-pt",
     "statement": "Já recebeu multas de trânsito",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-22-pt": {
     "id": "t-22-pt",
@@ -135,44 +135,44 @@
     "id": "t-23-pt",
     "statement": "Fala mais de um idioma",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-24-pt": {
     "id": "t-24-pt",
     "statement": "Faz trabalho voluntário",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-25-pt": {
     "id": "t-25-pt",
     "statement": "Já foi em Porto Seguro",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-26-pt": {
     "id": "t-26-pt",
     "statement": "Come muito fast food",
     "deck": "family",
-    "level": 1
+    "level": 2
   },
   "t-27-pt": {
     "id": "t-27-pt",
     "statement": "Foi um escoteiro(a)",
     "deck": "family",
-    "level": 1
+    "level": 3
   },
   "t-28-pt": {
     "id": "t-28-pt",
     "statement": "Já teve ou tem um caso extraconjugal",
     "deck": "adult",
-    "level": 2,
+    "level": 4,
     "nsfw": true
   },
   "t-29-pt": {
     "id": "t-29-pt",
     "statement": "Vai pra casa dos pais no Réveillon",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-30-pt": {
     "id": "t-30-pt",
@@ -196,20 +196,20 @@
     "id": "t-33-pt",
     "statement": "Cheira gostoso",
     "deck": "default",
-    "level": 2
+    "level": 4
   },
   "t-34-pt": {
     "id": "t-34-pt",
     "statement": "É conservador(a)",
     "deck": "adult",
-    "level": 1,
+    "level": 2,
     "nsfw": true
   },
   "t-35-pt": {
     "id": "t-35-pt",
     "statement": "Canta bem",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-36-pt": {
     "id": "t-36-pt",
@@ -227,13 +227,13 @@
     "id": "t-38-pt",
     "statement": "Se dá bem com seus colegas de trabalho",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-39-pt": {
     "id": "t-39-pt",
     "statement": "Passa muito tempo sentado no vaso",
     "deck": "family",
-    "level": 2
+    "level": 4
   },
   "t-40-pt": {
     "id": "t-40-pt",
@@ -257,7 +257,7 @@
     "id": "t-43-pt",
     "statement": "Lê romances",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-44-pt": {
     "id": "t-44-pt",
@@ -275,7 +275,7 @@
     "id": "t-46-pt",
     "statement": "Costuma pular refeições",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-47-pt": {
     "id": "t-47-pt",
@@ -341,7 +341,7 @@
     "id": "t-57-pt",
     "statement": "Vai de bicicleta para o trabalho",
     "deck": "default",
-    "level": 3
+    "level": 2
   },
   "t-58-pt": {
     "id": "t-58-pt",
@@ -360,7 +360,7 @@
     "id": "t-60-pt",
     "statement": "Usa a a arte asiática de organização Feng Shui em casa",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-61-pt": {
     "id": "t-61-pt",
@@ -378,13 +378,13 @@
     "id": "t-63-pt",
     "statement": "Sabe cantar o Hino Nacional Brasileiro",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-64-pt": {
     "id": "t-64-pt",
     "statement": "Usa prato descartável em casa",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-65-pt": {
     "id": "t-65-pt",
@@ -415,7 +415,7 @@
     "id": "t-69-pt",
     "statement": "Bebe muito café",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-70-pt": {
     "id": "t-70-pt",
@@ -428,7 +428,7 @@
     "id": "t-71-pt",
     "statement": "Gosta de cozinhar",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-72-pt": {
     "id": "t-72-pt",
@@ -458,7 +458,7 @@
     "id": "t-76-pt",
     "statement": "É vegetariano(a)",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-77-pt": {
     "id": "t-77-pt",
@@ -470,13 +470,13 @@
     "id": "t-78-pt",
     "statement": "Sabe tocar um instrumento musical",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-79-pt": {
     "id": "t-79-pt",
     "statement": "Participa de eventos de caridade",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-80-pt": {
     "id": "t-80-pt",
@@ -488,19 +488,19 @@
     "id": "t-81-pt",
     "statement": "Entra em fila pra pegar uma promoção",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-82-pt": {
     "id": "t-82-pt",
     "statement": "Possui um pau de selfie",
     "deck": "default",
-    "level": 1
+    "level": 2
   },
   "t-83-pt": {
     "id": "t-83-pt",
     "statement": "Gosta de pimenta na comida",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-84-pt": {
     "id": "t-84-pt",
@@ -518,20 +518,20 @@
     "id": "t-86-pt",
     "statement": "É uma pessoa espiritualizada",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-87-pt": {
     "id": "t-87-pt",
     "statement": "É racista",
     "deck": "adult",
-    "level": 3,
+    "level": 4,
     "nsfw": true
   },
   "t-88-pt": {
     "id": "t-88-pt",
     "statement": "Guarda o celular no bolso",
     "deck": "default",
-    "level": 2
+    "level": 4
   },
   "t-89-pt": {
     "id": "t-89-pt",
@@ -549,7 +549,7 @@
     "id": "t-91-pt",
     "statement": "É um bom motorista",
     "deck": "family",
-    "level": 4,
+    "level": 3,
     "nsfw": true
   },
   "t-92-pt": {
@@ -568,19 +568,19 @@
     "id": "t-94-pt",
     "statement": "Acredita em reencarnação",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-95-pt": {
     "id": "t-95-pt",
     "statement": "Gosta de abraçar",
     "deck": "family",
-    "level": 4
+    "level": 3
   },
   "t-96-pt": {
     "id": "t-96-pt",
     "statement": "Fuma",
     "deck": "default",
-    "level": 3
+    "level": 2
   },
   "t-97-pt": {
     "id": "t-97-pt",
@@ -592,7 +592,7 @@
     "id": "t-98-pt",
     "statement": "Frequenta uma academia",
     "deck": "family",
-    "level": 2
+    "level": 1
   },
   "t-99-pt": {
     "id": "t-99-pt",
@@ -610,7 +610,7 @@
     "id": "t-101-pt",
     "statement": "É virgem",
     "deck": "adult",
-    "level": 3,
+    "level": 4,
     "nsfw": true
   },
   "t-102-pt": {
@@ -623,7 +623,7 @@
     "id": "t-103-pt",
     "statement": "É homossexual",
     "deck": "adult",
-    "level": 3,
+    "level": 2,
     "nsfw": true
   },
   "t-104-pt": {
@@ -636,20 +636,18 @@
     "id": "t-105-pt",
     "statement": "Gosta de pechinchar",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-106-pt": {
     "id": "t-106-pt",
     "statement": "Usou máscara para se proteger do COVID sem reclamar",
     "deck": "default",
-    "deprecated": true,
-    "level": 2
+    "level": 3
   },
   "t-107-pt": {
     "id": "t-107-pt",
-    "statement": "Nunca pegou COVID",
+    "statement": "Odeia praia e faz de tudo para evitar pegar sol direto na pele",
     "deck": "default",
-    "deprecated": true,
     "level": 3
   },
   "t-108-pt": {
@@ -676,7 +674,7 @@
     "id": "t-111-pt",
     "statement": "É cringe",
     "deck": "family",
-    "level": 3
+    "level": 2
   },
   "t-112-pt": {
     "id": "t-112-pt",
@@ -688,14 +686,14 @@
     "id": "t-113-pt",
     "statement": "Já vestiu fantasias para apimentar a relação",
     "deck": "adult",
-    "level": 3,
+    "level": 4,
     "nsfw": true
   },
   "t-114-pt": {
     "id": "t-114-pt",
     "statement": "É uma pessoa pontual",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-115-pt": {
     "id": "t-115-pt",
@@ -720,7 +718,7 @@
     "id": "t-118-pt",
     "statement": "É não-binário",
     "deck": "adult",
-    "level": 3,
+    "level": 2,
     "nsfw": true
   },
   "t-119-pt": {
@@ -752,19 +750,19 @@
     "id": "t-123-pt",
     "statement": "Acha comida baiana exótica",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-124-pt": {
     "id": "t-124-pt",
     "statement": "Prefere cachorros a gatos",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-125-pt": {
     "id": "t-125-pt",
     "statement": "Já pegou um porteiro ou faxineira do prédio",
     "deck": "adult",
-    "level": 3,
+    "level": 4,
     "nsfw": true
   },
   "t-126-pt": {
@@ -777,7 +775,7 @@
     "id": "t-127-pt",
     "statement": "Tem colesterol alto",
     "deck": "default",
-    "level": 4
+    "level": 0
   },
   "t-128-pt": {
     "id": "t-128-pt",
@@ -795,7 +793,7 @@
     "id": "t-130-pt",
     "statement": "Já ficou em pânico por conta de um teste de gravidez",
     "deck": "adult",
-    "level": 3,
+    "level": 4,
     "nsfw": true
   },
   "t-131-pt": {
@@ -858,7 +856,7 @@
     "id": "t-140-pt",
     "statement": "Fica pelado(a) em vestiários sem problema algum",
     "deck": "adult",
-    "level": 2,
+    "level": 3,
     "nsfw": true
   },
   "t-141-pt": {
@@ -871,7 +869,7 @@
     "id": "t-142-pt",
     "statement": "É tímido",
     "deck": "family",
-    "level": 3
+    "level": 2
   },
   "t-143-pt": {
     "id": "t-143-pt",
@@ -896,7 +894,7 @@
     "id": "t-146-pt",
     "statement": "Já discutiu com um garçom em um restaurante",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-147-pt": {
     "id": "t-147-pt",
@@ -920,7 +918,7 @@
     "id": "t-150-pt",
     "statement": "É uma pessoa violenta",
     "deck": "default",
-    "level": 4
+    "level": 3
   },
   "t-151-pt": {
     "id": "t-151-pt",
@@ -930,8 +928,7 @@
   },
   "t-152-pt": {
     "id": "t-152-pt",
-    "statement": "É muito teimoso(a)",
-    "deprecated": true,
+    "statement": "Prefere Festa Junina a Halloween",
     "deck": "default",
     "level": 3
   },
@@ -939,7 +936,7 @@
     "id": "t-153-pt",
     "statement": "É muito ciumento(a)",
     "deck": "default",
-    "level": 5
+    "level": 3
   },
   "t-154-pt": {
     "id": "t-154-pt",
@@ -964,7 +961,7 @@
     "id": "t-157-pt",
     "statement": "Apela fácil",
     "deck": "default",
-    "level": 5
+    "level": 3
   },
   "t-158-pt": {
     "id": "t-158-pt",
@@ -1006,19 +1003,19 @@
     "id": "t-164-pt",
     "statement": "Dança bem",
     "deck": "family",
-    "level": 4
+    "level": 3
   },
   "t-165-pt": {
     "id": "t-165-pt",
     "statement": "Chora quando ouve a vinheta de fim de ano da Globo",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-166-pt": {
     "id": "t-166-pt",
     "statement": "É carinhoso(a)",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-167-pt": {
     "id": "t-167-pt",
@@ -1030,7 +1027,7 @@
     "id": "t-168-pt",
     "statement": "É safado(a)",
     "deck": "adult",
-    "level": 3,
+    "level": 2,
     "nsfw": true
   },
   "t-169-pt": {
@@ -1055,7 +1052,7 @@
     "id": "t-172-pt",
     "statement": "Já testemunhou um crime",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-173-pt": {
     "id": "t-173-pt",
@@ -1129,7 +1126,7 @@
     "id": "t-184-pt",
     "statement": "Perdoa vacilos dos amigos facilmente",
     "deck": "default",
-    "level": 1
+    "level": 3
   },
   "t-185-pt": {
     "id": "t-185-pt",
@@ -1153,13 +1150,13 @@
     "id": "t-188-pt",
     "statement": "Compartilha memes",
     "deck": "family",
-    "level": 1
+    "level": 2
   },
   "t-189-pt": {
     "id": "t-189-pt",
     "statement": "Toparia um ménage/trisal sem pensar duas vezes",
     "deck": "adult",
-    "level": 2,
+    "level": 3,
     "nsfw": true
   },
   "t-190-pt": {
@@ -1184,7 +1181,7 @@
     "id": "t-193-pt",
     "statement": "É assexuado(a)",
     "deck": "adult",
-    "level": 2,
+    "level": 3,
     "nsfw": true
   },
   "t-194-pt": {
@@ -1222,7 +1219,7 @@
     "id": "t-199-pt",
     "statement": "Já fez um teste de DNA para confirmar a paternidade",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-200-pt": {
     "id": "t-200-pt",
@@ -1246,7 +1243,7 @@
     "id": "t-203-pt",
     "statement": "Já fingiu entender uma piada que não entendeu só para não parecer desinformado(a)",
     "deck": "default",
-    "level": 4
+    "level": 3
   },
   "t-204-pt": {
     "id": "t-204-pt",
@@ -1276,7 +1273,7 @@
     "id": "t-208-pt",
     "statement": "Dorme assistindo série porque se sente sozinho(a)",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-209-pt": {
     "id": "t-209-pt",
@@ -1288,7 +1285,7 @@
     "id": "t-210-pt",
     "statement": "Acha que virar as almofadas do sofá renova o ambiente",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-211-pt": {
     "id": "t-211-pt",
@@ -1306,21 +1303,21 @@
     "id": "t-213-pt",
     "statement": "Já ficou com alguém casado sabendo que a pessoa era casada",
     "deck": "adult",
-    "level": 3,
+    "level": 4,
     "nsfw": true
   },
   "t-214-pt": {
     "id": "t-214-pt",
     "statement": "Já espiou alguém trocando de roupa",
     "deck": "adult",
-    "level": 3,
+    "level": 4,
     "nsfw": true
   },
   "t-215-pt": {
     "id": "t-215-pt",
     "statement": "Pegaria um parente de primeiro grau",
     "deck": "adult",
-    "level": 3,
+    "level": 4,
     "nsfw": true
   },
   "t-216-pt": {
@@ -1334,14 +1331,14 @@
     "id": "t-217-pt",
     "statement": "Bateria em alguém do sexo oposto",
     "deck": "adult",
-    "level": 2,
+    "level": 4,
     "nsfw": true
   },
   "t-218-pt": {
     "id": "t-218-pt",
     "statement": "Usa a calculadora para fazer contas simples",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-219-pt": {
     "id": "t-219-pt",
@@ -1353,7 +1350,7 @@
     "id": "t-220-pt",
     "statement": "Tem mais de três cartões de crédito estourados",
     "deck": "default",
-    "level": 4
+    "level": 3
   },
   "t-221-pt": {
     "id": "t-221-pt",
@@ -1365,7 +1362,7 @@
     "id": "t-222-pt",
     "statement": "Dá conselhos do tipo \"É só você ficar feliz\" quando alguém diz que está triste",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-223-pt": {
     "id": "t-223-pt",
@@ -1377,19 +1374,19 @@
     "id": "t-224-pt",
     "statement": "Tem um perfil fake só para olhar os Stories de quem não gosta",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-225-pt": {
     "id": "t-225-pt",
     "statement": "Já perguntou a seu(sua) parceiro(a): \"Se eu fosse uma lesma você me amaria?\"",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-226-pt": {
     "id": "t-226-pt",
     "statement": "Já fez sexo com alguém do mesmo sexo",
     "deck": "adult",
-    "level": 1,
+    "level": 3,
     "nsfw": true
   },
   "t-227-pt": {
@@ -1402,7 +1399,7 @@
     "id": "t-228-pt",
     "statement": "Faz detox de redes sociais de tempos em tempos",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-229-pt": {
     "id": "t-229-pt",
@@ -1414,7 +1411,7 @@
     "id": "t-230-pt",
     "statement": "Tem o QI bem elevado",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-231-pt": {
     "id": "t-231-pt",
@@ -1426,7 +1423,7 @@
     "id": "t-232-pt",
     "statement": "Gosta de escrever poesias",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-233-pt": {
     "id": "t-233-pt",
@@ -1456,7 +1453,7 @@
     "id": "t-237-pt",
     "statement": "Sabe usar todas as funções de um controle remoto",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-238-pt": {
     "id": "t-238-pt",
@@ -1480,7 +1477,7 @@
     "id": "t-241-pt",
     "statement": "Compartilha gifs de Bom dia com glitter",
     "deck": "family",
-    "level": 1
+    "level": 2
   },
   "t-242-pt": {
     "id": "t-242-pt",
@@ -1498,13 +1495,13 @@
     "id": "t-244-pt",
     "statement": "Chora todas as manhãs antes de ir trabalhar",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-245-pt": {
     "id": "t-245-pt",
     "statement": "Já fingiu ser um especialista em algo que não entende absolutamente nada só para impressionar alguém",
     "deck": "default",
-    "level": 4
+    "level": 3
   },
   "t-246-pt": {
     "id": "t-246-pt",
@@ -1516,7 +1513,7 @@
     "id": "t-247-pt",
     "statement": "Está em relacionamento virtual com o Chat GPT",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-248-pt": {
     "id": "t-248-pt",
@@ -1541,13 +1538,13 @@
     "id": "t-251-pt",
     "statement": "Desistiu de fazer veterinária porque tinha dó de estudar usando os bichinhos mortos",
     "deck": "default",
-    "level": 3
+    "level": 4
   },
   "t-252-pt": {
     "id": "t-252-pt",
     "statement": "Chora com notícias de tragédias",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-253-pt": {
     "id": "t-253-pt",
@@ -1577,7 +1574,7 @@
     "id": "t-257-pt",
     "statement": "Finge que está dormindo para não dar o lugar preferencial no ônibus",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-258-pt": {
     "id": "t-258-pt",
@@ -1602,13 +1599,13 @@
     "id": "t-261-pt",
     "statement": "Tem problemas mentais",
     "deck": "default",
-    "level": 2
+    "level": 4
   },
   "t-262-pt": {
     "id": "t-262-pt",
     "statement": "Já foi demitido(a) por justa causa",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-263-pt": {
     "id": "t-263-pt",
@@ -1620,25 +1617,25 @@
     "id": "t-264-pt",
     "statement": "Fala sozinho(a) quando está entediado(a)",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-265-pt": {
     "id": "t-265-pt",
     "statement": "Finge atender o celular pra evitar conversa no elevador",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-266-pt": {
     "id": "t-266-pt",
     "statement": "Ensaia mentalmente o que vai dizer antes de pedir algo num restaurante",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-267-pt": {
     "id": "t-267-pt",
     "statement": "Acredita que coincidências são mensagens do universo",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-268-pt": {
     "id": "t-268-pt",
@@ -1650,19 +1647,19 @@
     "id": "t-269-pt",
     "statement": "Já achou que o(a) atendente do supermercado estava a fim dele só por ter sido simpática(o)",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-270-pt": {
     "id": "t-270-pt",
     "statement": "Evita discussões só pra não deixar o clima pesado",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-271-pt": {
     "id": "t-271-pt",
     "statement": "Corrige erros de português no WhatsApp",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-272-pt": {
     "id": "t-272-pt",
@@ -1680,43 +1677,43 @@
     "id": "t-274-pt",
     "statement": "Tem um caderninho só de sonhos ou teorias conspiratórias próprias",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-275-pt": {
     "id": "t-275-pt",
     "statement": "Já terminou um namoro usando Power Point",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-276-pt": {
     "id": "t-276-pt",
     "statement": "Já fez cosplay",
     "deck": "family",
-    "level": 1
+    "level": 2
   },
   "t-277-pt": {
     "id": "t-277-pt",
     "statement": "Costuma investigar a fundo a vida de alguém nas redes sociais antes de conhecer a pessoa",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-278-pt": {
     "id": "t-278-pt",
     "statement": "Demora muito para escolher um prato no restaurante porque quer a opção perfeita",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-279-pt": {
     "id": "t-279-pt",
     "statement": "Consegue fazer várias coisas ao mesmo tempo, como ouvir podcast, falar no celular e cozinhar",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-280-pt": {
     "id": "t-280-pt",
     "statement": "Costuma mudar o jeito de falar dependendo do grupo social em que está para se enturmar",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-281-pt": {
     "id": "t-281-pt",
@@ -1728,13 +1725,13 @@
     "id": "t-282-pt",
     "statement": "Ficaria facilmente perdido em um aeroporto",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-283-pt": {
     "id": "t-283-pt",
     "statement": "Já chorou com o final de novela",
     "deck": "family",
-    "level": 2
+    "level": 3
   },
   "t-284-pt": {
     "id": "t-284-pt",
@@ -1746,7 +1743,7 @@
     "id": "t-285-pt",
     "statement": "Tem muitas plantas em casa",
     "deck": "family",
-    "level": 3
+    "level": 2
   },
   "t-286-pt": {
     "id": "t-286-pt",
@@ -1770,34 +1767,34 @@
     "id": "t-289-pt",
     "statement": "Já foi confundido(a) com um(a) famoso(a)",
     "deck": "family",
-    "level": 3
+    "level": 2
   },
   "t-290-pt": {
     "id": "t-290-pt",
     "statement": "Já flertou com o(a) personal trainer ou com o garçom enquanto o(a) parceiro(a) estava no banheiro",
     "deck": "adult",
-    "level": 2,
+    "level": 3,
     "nsfw": true
   },
   "t-291-pt": {
     "id": "t-291-pt",
     "statement": "Já mandou um nude acidentalmente no grupo da família ou do trabalho",
     "deck": "adult",
-    "level": 2,
+    "level": 4,
     "nsfw": true
   },
   "t-292-pt": {
     "id": "t-292-pt",
     "statement": "Tem um perfil no Tinder mesmo estando em um relacionamento sério",
     "deck": "adult",
-    "level": 2,
+    "level": 3,
     "nsfw": true
   },
   "t-293-pt": {
     "id": "t-293-pt",
     "statement": "Já fez sexo em um lugar público",
     "deck": "adult",
-    "level": 2,
+    "level": 3,
     "nsfw": true
   },
   "t-294-pt": {
@@ -1816,7 +1813,7 @@
     "id": "t-296-pt",
     "statement": "Tem vários produtos vencidos pela casa e continua usando",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-297-pt": {
     "id": "t-297-pt",
@@ -1852,7 +1849,7 @@
     "id": "t-302-pt",
     "statement": "Já fez uma tatuagem só para impressionar alguém",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-303-pt": {
     "id": "t-303-pt",
@@ -1864,12 +1861,12 @@
     "id": "t-304-pt",
     "statement": "Seguiu a carreira dos sonhos desde cedo e ama o que faz",
     "deck": "default",
-    "level": 2
+    "level": 3
   },
   "t-305-pt": {
     "id": "t-305-pt",
     "statement": "Tem caganeira toda vez que tem algo super importante para fazer",
     "deck": "default",
-    "level": 2
+    "level": 4
   }
 }
