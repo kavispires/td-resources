@@ -2,55 +2,55 @@
   "t-1-pt": {
     "id": "t-1-pt",
     "statement": "Assiste jogos em estádio",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-2-pt": {
     "id": "t-2-pt",
     "statement": "Gosta de música clássica",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-3-pt": {
     "id": "t-3-pt",
     "statement": "Acredita em alienígenas",
-    "deck": "default",
+    "deck": "family",
     "level": 4
   },
   "t-4-pt": {
     "id": "t-4-pt",
     "statement": "Tem uma caminhonete",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-5-pt": {
     "id": "t-5-pt",
-    "statement": "Come fora com frequência",
-    "deck": "default",
+    "statement": "Janta fora com frequência",
+    "deck": "family",
     "level": 3
   },
   "t-6-pt": {
     "id": "t-6-pt",
     "statement": "Já foi esquiar alguma vez",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-7-pt": {
     "id": "t-7-pt",
     "statement": "Recicla seu lixo",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-8-pt": {
     "id": "t-8-pt",
     "statement": "Gosta de acampar",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-9-pt": {
     "id": "t-9-pt",
     "statement": "Tem muitos adesivos no carro",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-10-pt": {
@@ -92,18 +92,18 @@
   "t-16-pt": {
     "id": "t-16-pt",
     "statement": "Cumprimenta seus vizinhos",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-17-pt": {
     "id": "t-17-pt",
     "statement": "Tem tatuagens",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-18-pt": {
     "id": "t-18-pt",
-    "statement": "Morreria primeiro em uma apocalipse zumbi",
+    "statement": "Morreria primeiro em um apocalipse zumbi",
     "deck": "default",
     "level": 2
   },
@@ -134,37 +134,37 @@
   "t-23-pt": {
     "id": "t-23-pt",
     "statement": "Fala mais de um idioma",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-24-pt": {
     "id": "t-24-pt",
     "statement": "Faz trabalho voluntário",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-25-pt": {
     "id": "t-25-pt",
     "statement": "Já foi em Porto Seguro",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-26-pt": {
     "id": "t-26-pt",
     "statement": "Come muito fast food",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-27-pt": {
     "id": "t-27-pt",
     "statement": "Foi um escoteiro(a)",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-28-pt": {
     "id": "t-28-pt",
     "statement": "Já teve ou tem um caso extraconjugal",
-    "deck": "default",
+    "deck": "adult",
     "level": 2,
     "nsfw": true
   },
@@ -177,8 +177,8 @@
   "t-30-pt": {
     "id": "t-30-pt",
     "statement": "Mora com os pais",
-    "deck": "default",
-    "level": 1
+    "deck": "family",
+    "level": 2
   },
   "t-31-pt": {
     "id": "t-31-pt",
@@ -220,7 +220,7 @@
   "t-37-pt": {
     "id": "t-37-pt",
     "statement": "É romântico(a)",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-38-pt": {
@@ -231,20 +231,20 @@
   },
   "t-39-pt": {
     "id": "t-39-pt",
-    "statement": "Passa muito tempo no vaso",
-    "deck": "default",
+    "statement": "Passa muito tempo sentado no vaso",
+    "deck": "family",
     "level": 2
   },
   "t-40-pt": {
     "id": "t-40-pt",
     "statement": "Assiste filmes clássicos",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-41-pt": {
     "id": "t-41-pt",
     "statement": "Gosta de crianças",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-42-pt": {
@@ -280,7 +280,7 @@
   "t-47-pt": {
     "id": "t-47-pt",
     "statement": "Pratica algum esporte",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-48-pt": {
@@ -328,7 +328,7 @@
   "t-55-pt": {
     "id": "t-55-pt",
     "statement": "Mora em um condomínio de luxo",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-56-pt": {
@@ -353,7 +353,7 @@
   "t-59-pt": {
     "id": "t-59-pt",
     "statement": "Faz ioga",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-60-pt": {
@@ -371,13 +371,13 @@
   "t-62-pt": {
     "id": "t-62-pt",
     "statement": "Tem uma voz irritante",
-    "deck": "default",
+    "deck": "family",
     "level": 4
   },
   "t-63-pt": {
     "id": "t-63-pt",
-    "statement": "Sabe cantar o hino nacional",
-    "deck": "default",
+    "statement": "Sabe cantar o Hino Nacional Brasileiro",
+    "deck": "family",
     "level": 2
   },
   "t-64-pt": {
@@ -401,14 +401,14 @@
   },
   "t-67-pt": {
     "id": "t-67-pt",
-    "statement": "Monta árvore de Natal todo ano",
-    "deck": "default",
+    "statement": "Monta ou ajuda a montar a árvore de Natal todo ano",
+    "deck": "family",
     "level": 2
   },
   "t-68-pt": {
     "id": "t-68-pt",
     "statement": "Tem uma vitrola",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-69-pt": {
@@ -427,7 +427,7 @@
   "t-71-pt": {
     "id": "t-71-pt",
     "statement": "Gosta de cozinhar",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-72-pt": {
@@ -444,20 +444,20 @@
   },
   "t-74-pt": {
     "id": "t-74-pt",
-    "statement": "Lê revista quadrinhos",
+    "statement": "Lê revista em quadrinhos",
     "deck": "default",
     "level": 2
   },
   "t-75-pt": {
     "id": "t-75-pt",
     "statement": "Assiste reality shows",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-76-pt": {
     "id": "t-76-pt",
     "statement": "É vegetariano(a)",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-77-pt": {
@@ -469,25 +469,25 @@
   "t-78-pt": {
     "id": "t-78-pt",
     "statement": "Sabe tocar um instrumento musical",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-79-pt": {
     "id": "t-79-pt",
     "statement": "Participa de eventos de caridade",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-80-pt": {
     "id": "t-80-pt",
     "statement": "Paga TV a cabo pra ver jogos de futebol",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-81-pt": {
     "id": "t-81-pt",
     "statement": "Entra em fila pra pegar uma promoção",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-82-pt": {
@@ -499,19 +499,19 @@
   "t-83-pt": {
     "id": "t-83-pt",
     "statement": "Gosta de pimenta na comida",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-84-pt": {
     "id": "t-84-pt",
     "statement": "Gosta de jogos de tabuleiro",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-85-pt": {
     "id": "t-85-pt",
     "statement": "Assiste filmes de terror",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-86-pt": {
@@ -531,12 +531,12 @@
     "id": "t-88-pt",
     "statement": "Guarda o celular no bolso",
     "deck": "default",
-    "level": 1
+    "level": 2
   },
   "t-89-pt": {
     "id": "t-89-pt",
     "statement": "Tem medo de avião",
-    "deck": "default",
+    "deck": "family",
     "level": 5
   },
   "t-90-pt": {
@@ -548,20 +548,20 @@
   "t-91-pt": {
     "id": "t-91-pt",
     "statement": "É um bom motorista",
-    "deck": "adult",
+    "deck": "family",
     "level": 4,
     "nsfw": true
   },
   "t-92-pt": {
     "id": "t-92-pt",
     "statement": "É chamado por um apelido",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-93-pt": {
     "id": "t-93-pt",
     "statement": "Gosta de videogames",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-94-pt": {
@@ -573,7 +573,7 @@
   "t-95-pt": {
     "id": "t-95-pt",
     "statement": "Gosta de abraçar",
-    "deck": "default",
+    "deck": "family",
     "level": 4
   },
   "t-96-pt": {
@@ -591,7 +591,7 @@
   "t-98-pt": {
     "id": "t-98-pt",
     "statement": "Frequenta uma academia",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-99-pt": {
@@ -603,7 +603,7 @@
   "t-100-pt": {
     "id": "t-100-pt",
     "statement": "Comemora o Dia dos Namorados",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-101-pt": {
@@ -629,25 +629,27 @@
   "t-104-pt": {
     "id": "t-104-pt",
     "statement": "Assistia Sílvio Santos todo domingo",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-105-pt": {
     "id": "t-105-pt",
     "statement": "Gosta de pechinchar",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-106-pt": {
     "id": "t-106-pt",
     "statement": "Usou máscara para se proteger do COVID sem reclamar",
     "deck": "default",
+    "deprecated": true,
     "level": 2
   },
   "t-107-pt": {
     "id": "t-107-pt",
     "statement": "Nunca pegou COVID",
     "deck": "default",
+    "deprecated": true,
     "level": 3
   },
   "t-108-pt": {
@@ -660,7 +662,7 @@
   "t-109-pt": {
     "id": "t-109-pt",
     "statement": "Sente muita cosquinha",
-    "deck": "default",
+    "deck": "family",
     "level": 5
   },
   "t-110-pt": {
@@ -673,13 +675,13 @@
   "t-111-pt": {
     "id": "t-111-pt",
     "statement": "É cringe",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-112-pt": {
     "id": "t-112-pt",
-    "statement": "Teve um Tamagochi quando criança",
-    "deck": "default",
+    "statement": "Teve um Tamagotchi quando criança",
+    "deck": "family",
     "level": 2
   },
   "t-113-pt": {
@@ -698,7 +700,7 @@
   "t-115-pt": {
     "id": "t-115-pt",
     "statement": "Colecionava figurinhas do Campeonato Brasileiro quando criança",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-116-pt": {
@@ -711,7 +713,7 @@
   "t-117-pt": {
     "id": "t-117-pt",
     "statement": "Sabe linguagens de sinais",
-    "deck": "default",
+    "deck": "family",
     "level": 4
   },
   "t-118-pt": {
@@ -724,7 +726,7 @@
   "t-119-pt": {
     "id": "t-119-pt",
     "statement": "Tem muitas alergias",
-    "deck": "default",
+    "deck": "family",
     "level": 5
   },
   "t-120-pt": {
@@ -742,7 +744,7 @@
   },
   "t-122-pt": {
     "id": "t-122-pt",
-    "statement": "Os pais são orgulhosos dele(a)",
+    "statement": "Sabe que os pais são orgulhosos dele(a)",
     "deck": "default",
     "level": 3
   },
@@ -755,7 +757,7 @@
   "t-124-pt": {
     "id": "t-124-pt",
     "statement": "Prefere cachorros a gatos",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-125-pt": {
@@ -768,7 +770,7 @@
   "t-126-pt": {
     "id": "t-126-pt",
     "statement": "Acha que fazer peido com o sovaco é um talento",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-127-pt": {
@@ -780,13 +782,13 @@
   "t-128-pt": {
     "id": "t-128-pt",
     "statement": "Já doou para o Criança Esperança",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-129-pt": {
     "id": "t-129-pt",
     "statement": "Sabe dançar uma coreografia do É o Tchan",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-130-pt": {
@@ -813,7 +815,7 @@
   "t-133-pt": {
     "id": "t-133-pt",
     "statement": "Tem sotaque carregado",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-134-pt": {
@@ -825,25 +827,25 @@
   "t-135-pt": {
     "id": "t-135-pt",
     "statement": "Tem medo da Loira do Banheiro",
-    "deck": "default",
+    "deck": "family",
     "level": 5
   },
   "t-136-pt": {
     "id": "t-136-pt",
     "statement": "Participaria do Big Brother",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-137-pt": {
     "id": "t-137-pt",
     "statement": "Tem medo de altura",
-    "deck": "default",
+    "deck": "family",
     "level": 5
   },
   "t-138-pt": {
     "id": "t-138-pt",
     "statement": "Grava dancinha de Tik Tok",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-139-pt": {
@@ -868,7 +870,7 @@
   "t-142-pt": {
     "id": "t-142-pt",
     "statement": "É tímido",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-143-pt": {
@@ -881,7 +883,7 @@
   "t-144-pt": {
     "id": "t-144-pt",
     "statement": "Gosta de k-pop",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-145-pt": {
@@ -905,7 +907,7 @@
   "t-148-pt": {
     "id": "t-148-pt",
     "statement": "Entende de computador",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-149-pt": {
@@ -916,7 +918,7 @@
   },
   "t-150-pt": {
     "id": "t-150-pt",
-    "statement": "É violento(a)",
+    "statement": "É uma pessoa violenta",
     "deck": "default",
     "level": 4
   },
@@ -929,6 +931,7 @@
   "t-152-pt": {
     "id": "t-152-pt",
     "statement": "É muito teimoso(a)",
+    "deprecated": true,
     "deck": "default",
     "level": 3
   },
@@ -954,7 +957,7 @@
   "t-156-pt": {
     "id": "t-156-pt",
     "statement": "Acha que Chaves é melhor que Friends",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-157-pt": {
@@ -972,13 +975,13 @@
   "t-159-pt": {
     "id": "t-159-pt",
     "statement": "É muito preguiçoso(a)",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-160-pt": {
     "id": "t-160-pt",
     "statement": "É muito desorganizado(a)",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-161-pt": {
@@ -989,20 +992,20 @@
   },
   "t-162-pt": {
     "id": "t-162-pt",
-    "statement": "Guarda pedra na vesícula como recordação numa caixinha",
+    "statement": "Guarda pedra na vesícula/rins como recordação numa caixinha",
     "deck": "default",
     "level": 5
   },
   "t-163-pt": {
     "id": "t-163-pt",
     "statement": "Gosta de filmes do Adam Sandler",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-164-pt": {
     "id": "t-164-pt",
     "statement": "Dança bem",
-    "deck": "default",
+    "deck": "family",
     "level": 4
   },
   "t-165-pt": {
@@ -1014,13 +1017,13 @@
   "t-166-pt": {
     "id": "t-166-pt",
     "statement": "É carinhoso(a)",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-167-pt": {
     "id": "t-167-pt",
     "statement": "Roe unha",
-    "deck": "default",
+    "deck": "family",
     "level": 5
   },
   "t-168-pt": {
@@ -1039,7 +1042,7 @@
   "t-170-pt": {
     "id": "t-170-pt",
     "statement": "Vai ao cinema usando Havaianas",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-171-pt": {
@@ -1057,8 +1060,9 @@
   "t-173-pt": {
     "id": "t-173-pt",
     "statement": "Já matou alguém",
-    "deck": "default",
-    "level": 4
+    "deck": "adult",
+    "level": 4,
+    "nsfw": true
   },
   "t-174-pt": {
     "id": "t-174-pt",
@@ -1076,7 +1080,7 @@
   "t-176-pt": {
     "id": "t-176-pt",
     "statement": "Manda áudio de 4 minutos para responder uma pergunta de 'sim' ou 'não'",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-177-pt": {
@@ -1088,7 +1092,7 @@
   "t-178-pt": {
     "id": "t-178-pt",
     "statement": "Tem medo de cobra",
-    "deck": "default",
+    "deck": "family",
     "level": 5
   },
   "t-179-pt": {
@@ -1148,7 +1152,7 @@
   "t-188-pt": {
     "id": "t-188-pt",
     "statement": "Compartilha memes",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-189-pt": {
@@ -1167,9 +1171,8 @@
   "t-191-pt": {
     "id": "t-191-pt",
     "statement": "Vai à igreja",
-    "deck": "adult",
-    "level": 2,
-    "nsfw": true
+    "deck": "family",
+    "level": 2
   },
   "t-192-pt": {
     "id": "t-192-pt",
@@ -1200,7 +1203,7 @@
   "t-196-pt": {
     "id": "t-196-pt",
     "statement": "Gosta de ver videos de cassetadas",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-197-pt": {
@@ -1224,13 +1227,13 @@
   "t-200-pt": {
     "id": "t-200-pt",
     "statement": "Tem o potencial para ser um(a) influenciador(a) digital",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-201-pt": {
     "id": "t-201-pt",
     "statement": "Desmaia ao ver sangue",
-    "deck": "default",
+    "deck": "family",
     "level": 4
   },
   "t-202-pt": {
@@ -1248,13 +1251,13 @@
   "t-204-pt": {
     "id": "t-204-pt",
     "statement": "É muito prestativo(a)",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-205-pt": {
     "id": "t-205-pt",
     "statement": "Já cagou na calça quando estava quase chegando em casa mas não conseguiu segurar",
-    "deck": "default",
+    "deck": "family",
     "level": 5
   },
   "t-206-pt": {
@@ -1266,7 +1269,7 @@
   "t-207-pt": {
     "id": "t-207-pt",
     "statement": "Já caiu no meio da rua e fingiu que estava dançando",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-208-pt": {
@@ -1290,13 +1293,13 @@
   "t-211-pt": {
     "id": "t-211-pt",
     "statement": "Gosta de Taylor Swift",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-212-pt": {
     "id": "t-212-pt",
     "statement": "Acredita em amor à primeira vista",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-213-pt": {
@@ -1337,7 +1340,7 @@
   "t-218-pt": {
     "id": "t-218-pt",
     "statement": "Usa a calculadora para fazer contas simples",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-219-pt": {
@@ -1378,7 +1381,7 @@
   },
   "t-225-pt": {
     "id": "t-225-pt",
-    "statement": "Já perguntou a seu(sua) parceiro(a): se eu fosse uma lesma você me amaria",
+    "statement": "Já perguntou a seu(sua) parceiro(a): \"Se eu fosse uma lesma você me amaria?\"",
     "deck": "default",
     "level": 2
   },
@@ -1422,13 +1425,13 @@
   "t-232-pt": {
     "id": "t-232-pt",
     "statement": "Gosta de escrever poesias",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-233-pt": {
     "id": "t-233-pt",
     "statement": "Seria um(a) ótimo(a) babá",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-234-pt": {
@@ -1446,13 +1449,13 @@
   "t-236-pt": {
     "id": "t-236-pt",
     "statement": "Já passou vários minutos procurando o celular enquanto falava no celular",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-237-pt": {
     "id": "t-237-pt",
     "statement": "Sabe usar todas as funções de um controle remoto",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-238-pt": {
@@ -1464,7 +1467,7 @@
   "t-239-pt": {
     "id": "t-239-pt",
     "statement": "Já fez um trabalho de escola com memes",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-240-pt": {
@@ -1476,7 +1479,7 @@
   "t-241-pt": {
     "id": "t-241-pt",
     "statement": "Compartilha gifs de Bom dia com glitter",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-242-pt": {
@@ -1488,7 +1491,7 @@
   "t-243-pt": {
     "id": "t-243-pt",
     "statement": "Já pulou de paraquedas",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-244-pt": {
@@ -1549,7 +1552,7 @@
   "t-253-pt": {
     "id": "t-253-pt",
     "statement": "Medita regularmente",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-254-pt": {
@@ -1561,7 +1564,7 @@
   "t-255-pt": {
     "id": "t-255-pt",
     "statement": "Ama a natureza",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-256-pt": {
@@ -1579,7 +1582,7 @@
   "t-258-pt": {
     "id": "t-258-pt",
     "statement": "Sabe sambar",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-259-pt": {
@@ -1611,7 +1614,7 @@
     "id": "t-263-pt",
     "statement": "Puxaria papo com pessoa no banheiro da balada",
     "deck": "default",
-    "level": 1
+    "level": 2
   },
   "t-264-pt": {
     "id": "t-264-pt",
@@ -1640,7 +1643,7 @@
   "t-268-pt": {
     "id": "t-268-pt",
     "statement": "Assiste Anime",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-269-pt": {
@@ -1665,7 +1668,7 @@
     "id": "t-272-pt",
     "statement": "Chega no aeroporto com 4 horas de antecedência",
     "deck": "default",
-    "level": 1
+    "level": 2
   },
   "t-273-pt": {
     "id": "t-273-pt",
@@ -1688,7 +1691,7 @@
   "t-276-pt": {
     "id": "t-276-pt",
     "statement": "Já fez cosplay",
-    "deck": "default",
+    "deck": "family",
     "level": 1
   },
   "t-277-pt": {
@@ -1705,7 +1708,7 @@
   },
   "t-279-pt": {
     "id": "t-279-pt",
-    "statement": "Consegue fazer várias coisas ao mesmo tempo",
+    "statement": "Consegue fazer várias coisas ao mesmo tempo, como ouvir podcast, falar no celular e cozinhar",
     "deck": "default",
     "level": 2
   },
@@ -1717,7 +1720,7 @@
   },
   "t-281-pt": {
     "id": "t-281-pt",
-    "statement": "Sempre quer saber das fofocas",
+    "statement": "Sempre quer saber das fofocas, mesmo que não conheça as pessoas envolvidas",
     "deck": "default",
     "level": 2
   },
@@ -1730,7 +1733,7 @@
   "t-283-pt": {
     "id": "t-283-pt",
     "statement": "Já chorou com o final de novela",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-284-pt": {
@@ -1742,7 +1745,7 @@
   "t-285-pt": {
     "id": "t-285-pt",
     "statement": "Tem muitas plantas em casa",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-286-pt": {
@@ -1759,14 +1762,14 @@
   },
   "t-288-pt": {
     "id": "t-288-pt",
-    "statement": "De vez e outra leva animais de rua pra casa",
-    "deck": "default",
+    "statement": "De tempos em tempos aparece em casa com um animal de rua",
+    "deck": "family",
     "level": 3
   },
   "t-289-pt": {
     "id": "t-289-pt",
     "statement": "Já foi confundido(a) com um(a) famoso(a)",
-    "deck": "default",
+    "deck": "family",
     "level": 3
   },
   "t-290-pt": {
@@ -1818,7 +1821,7 @@
   "t-297-pt": {
     "id": "t-297-pt",
     "statement": "Gosta de ser o centro das atenções quando está em um grupo",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-298-pt": {
@@ -1829,19 +1832,19 @@
   },
   "t-299-pt": {
     "id": "t-299-pt",
-    "statement": "Liga para o síndico ou a polícia se o vizinho fizesse barulho após as 22h",
-    "deck": "default",
+    "statement": "Liga para o síndico ou a polícia toda vez que um vizinho faz barulho após as 22h",
+    "deck": "family",
     "level": 2
   },
   "t-300-pt": {
     "id": "t-300-pt",
     "statement": "Trabalha com atendimento ao público",
-    "deck": "default",
+    "deck": "family",
     "level": 2
   },
   "t-301-pt": {
     "id": "t-301-pt",
-    "statement": "Tem um Instagram fechado e só com a foto do perfil",
+    "statement": "Tem o Instagram fechado, sem fotos, só com a foto do perfil",
     "deck": "default",
     "level": 2
   },
