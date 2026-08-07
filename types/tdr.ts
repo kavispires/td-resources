@@ -1312,7 +1312,7 @@ export type SuspectCardData = {
   /**
    * The gender of the suspect
    */
-  gender: 'male' | 'female' | (string & NonNullable<unknown>);
+  gender: 'male' | 'female' | 'transgender' | 'none' | 'non-binary' | 'fluid' | (string & NonNullable<unknown>);
   /**
    * The race of the suspect
    */
