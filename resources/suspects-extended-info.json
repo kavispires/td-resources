@@ -1,5 +1,9 @@
 {
-  "undefined": {},
+  "undefined": {
+    "tags": [
+      "muscular"
+    ]
+  },
   "us-001": {
     "id": "us-001",
     "prompt": "28-year-old black man",
@@ -10,9 +14,21 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "introverted"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "artistic",
+      "intellectual",
+      "introverted",
+      "thoughtful",
+      "gentle",
+      "romantic",
+      "well-mannered",
+      "aesthetic-driven"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-002": {
@@ -25,9 +41,18 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "organized",
+      "responsible",
+      "observant",
+      "punctual",
+      "rule-following",
+      "practical",
+      "slightly sarcastic",
+      "meticulous"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-003": {
@@ -40,9 +65,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "artistic",
+      "alternative",
+      "introverted",
+      "sarcastic",
+      "aesthetic-focused",
+      "coffee lover",
+      "music enthusiast",
+      "nonconformist"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-004": {
@@ -55,9 +89,18 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "nosy",
+      "mischievous",
+      "manipulative",
+      "eccentric",
+      "loner",
+      "suspicious",
+      "sarcastic",
+      "secretive"
+    ],
     "zodiacSign": "Aries"
   },
   "us-005": {
@@ -70,9 +113,21 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "extroverted"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "athletic",
+      "adventurous",
+      "reckless",
+      "confident",
+      "daredevil",
+      "energetic",
+      "competitive",
+      "outdoorsy"
+    ],
     "zodiacSign": "Aries"
   },
   "us-006": {
@@ -85,9 +140,21 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "extroverted"
+    ],
     "alignment": "Neutral-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "athletic",
+      "confident",
+      "competitive",
+      "charismatic",
+      "popular",
+      "outgoing",
+      "protective",
+      "sometimes cocky"
+    ],
     "zodiacSign": "Aries"
   },
   "us-007": {
@@ -100,9 +167,22 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "introverted",
+      "nerd"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "studious",
+      "introverted",
+      "polite",
+      "bookish",
+      "logical",
+      "soft-spoken",
+      "tech-savvy",
+      "organized"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-008": {
@@ -115,9 +195,18 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "patient",
+      "strategic",
+      "calm",
+      "friendly",
+      "introverted",
+      "observant",
+      "routine-oriented",
+      "thoughtful"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-009": {
@@ -130,9 +219,18 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "mysterious",
+      "eccentric",
+      "secretive",
+      "crafty",
+      "observant",
+      "intuitive",
+      "superstitious",
+      "enigmatic"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-010": {
@@ -145,9 +243,21 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "introverted"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "humble",
+      "traditional",
+      "soft-spoken",
+      "disciplined",
+      "honest",
+      "reserved",
+      "patient",
+      "hardworking"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-011": {
@@ -160,9 +270,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "detached",
+      "apathetic",
+      "disenchanted",
+      "moody",
+      "introverted",
+      "unreliable",
+      "withdrawn",
+      "gruff"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-012": {
@@ -175,9 +294,18 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "warm",
+      "caring",
+      "nurturing",
+      "optimistic",
+      "family-oriented",
+      "supportive",
+      "empathetic",
+      "community-focused"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-013": {
@@ -190,9 +318,18 @@
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "calm",
+      "spiritual",
+      "intuitive",
+      "artistic",
+      "mindful",
+      "minimalist",
+      "free-spirited",
+      "alternative"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-014": {
@@ -205,9 +342,21 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "introverted"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "quiet",
+      "withdrawn",
+      "anxious",
+      "sensitive",
+      "introverted",
+      "brooding",
+      "observant",
+      "emotionally complex"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-015": {
@@ -220,9 +369,21 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "introverted"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "melancholic",
+      "introverted",
+      "quiet",
+      "gentle",
+      "emotionally worn",
+      "nostalgic",
+      "sensitive",
+      "reclusive"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-016": {
@@ -235,9 +396,18 @@
     "ethnicity": "Indian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ENFJ",
+    "traits": [
+      "confident",
+      "warm",
+      "creative",
+      "stylish",
+      "family-oriented",
+      "outgoing",
+      "expressive",
+      "culturally rooted"
+    ],
     "zodiacSign": "Leo"
   },
   "us-017": {
@@ -250,9 +420,21 @@
     "ethnicity": "latino",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "introverted"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "kind",
+      "gentle",
+      "family-oriented",
+      "optimistic",
+      "helpful",
+      "soft-hearted",
+      "trusting",
+      "cheerful"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-018": {
@@ -265,9 +447,18 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "authoritative",
+      "proud",
+      "traditional",
+      "hardworking",
+      "commanding",
+      "wealthy",
+      "protective",
+      "straightforward"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-019": {
@@ -280,9 +471,21 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "charismatic",
+      "confident",
+      "persuasive",
+      "ambitious",
+      "refined",
+      "strategic",
+      "well-spoken",
+      "sociable"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-020": {
@@ -295,9 +498,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Neutral",
     "mbti": "ISTJ",
+    "traits": [
+      "grumpy",
+      "cynical",
+      "smoker",
+      "blunt",
+      "irritable",
+      "sarcastic",
+      "world-weary",
+      "opinionated"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-021": {
@@ -310,9 +522,18 @@
     "ethnicity": "middle-eastern",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "kind",
+      "empathetic",
+      "patient",
+      "community-oriented",
+      "optimistic",
+      "gentle",
+      "supportive",
+      "responsible"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-022": {
@@ -325,9 +546,18 @@
     "ethnicity": "black",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "aggressive",
+      "defensive",
+      "street-smart",
+      "loud",
+      "intense",
+      "quick-tempered",
+      "fearless",
+      "confrontational"
+    ],
     "zodiacSign": "Sagittarius"
   },
   "us-023": {
@@ -340,9 +570,18 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "exhausted",
+      "hardworking",
+      "introverted",
+      "patient",
+      "quiet",
+      "overworked",
+      "humble",
+      "resilient"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-024": {
@@ -355,9 +594,18 @@
     "ethnicity": "indian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "wise",
+      "traditional",
+      "kind",
+      "thoughtful",
+      "community-oriented",
+      "patient",
+      "soft-spoken",
+      "observant"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-025": {
@@ -370,9 +618,21 @@
     "ethnicity": "caucasian",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ENTJ",
+    "traits": [
+      "elegant",
+      "confident",
+      "assertive",
+      "charismatic",
+      "status-conscious",
+      "well-mannered",
+      "cultured",
+      "opinionated"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-026": {
@@ -385,9 +645,18 @@
     "ethnicity": "caucasian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "encouraging",
+      "disciplined",
+      "good-natured",
+      "authoritative",
+      "supportive",
+      "reliable",
+      "old-school",
+      "patient"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-027": {
@@ -400,9 +669,18 @@
     "ethnicity": "caucasian",
     "economicClass": "middle",
     "educationLevel": "medium",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "grumpy",
+      "blunt",
+      "traditional",
+      "observant",
+      "routine-oriented",
+      "secretly caring",
+      "stubborn",
+      "introverted"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-028": {
@@ -415,9 +693,18 @@
     "ethnicity": "caucasian",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ENFJ",
+    "traits": [
+      "patient",
+      "gentle",
+      "empathetic",
+      "cheerful",
+      "soft-spoken",
+      "creative",
+      "organized",
+      "nurturing"
+    ],
     "zodiacSign": "Leo"
   },
   "us-029": {
@@ -430,9 +717,18 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "medium",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISTJ",
+    "traits": [
+      "quiet",
+      "introverted",
+      "reliable",
+      "non-confrontational",
+      "patient",
+      "steady",
+      "routine-oriented",
+      "soft-hearted"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-030": {
@@ -445,9 +741,21 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "authoritative",
+      "confident",
+      "strategic",
+      "disciplined",
+      "ambitious",
+      "calculating",
+      "charismatic",
+      "commanding"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-031": {
@@ -460,9 +768,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "polite",
+      "disciplined",
+      "patient",
+      "observant",
+      "adaptable",
+      "emotionally controlled",
+      "reliable",
+      "pleasant"
+    ],
     "zodiacSign": "Undefined"
   },
   "us-032": {
@@ -475,9 +792,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESFJ",
+    "traits": [
+      "petty",
+      "judgmental",
+      "sarcastic",
+      "manipulative",
+      "observant",
+      "resentful",
+      "competitive",
+      "self-satisfied"
+    ],
     "zodiacSign": "Leo"
   },
   "us-033": {
@@ -490,9 +816,17 @@
     "ethnicity": "latino",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "friendly",
+      "talkative",
+      "curious",
+      "helpful",
+      "nosy",
+      "approachable",
+      "routine-oriented"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-034": {
@@ -505,9 +839,17 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "hands-on",
+      "confident",
+      "friendly",
+      "practical",
+      "hardworking",
+      "playful",
+      "reliable"
+    ],
     "zodiacSign": "Aries"
   },
   "us-035": {
@@ -520,9 +862,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "humorous",
+      "talkative",
+      "family-oriented",
+      "friendly",
+      "corny",
+      "social",
+      "easygoing"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-036": {
@@ -535,9 +885,17 @@
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "analytical",
+      "organized",
+      "serious",
+      "detail-oriented",
+      "reserved",
+      "methodical",
+      "risk-averse"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-037": {
@@ -550,9 +908,17 @@
     "ethnicity": "black",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "creative",
+      "ambitious",
+      "confident",
+      "expressive",
+      "street-smart",
+      "competitive",
+      "image-conscious"
+    ],
     "zodiacSign": "Aries"
   },
   "us-038": {
@@ -565,9 +931,17 @@
     "ethnicity": "chinese",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISFJ",
+    "traits": [
+      "kind",
+      "patient",
+      "reliable",
+      "organized",
+      "nurturing",
+      "soft-spoken",
+      "supportive"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-039": {
@@ -580,9 +954,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "introverted",
+      "emotionally drained",
+      "quiet",
+      "withdrawn",
+      "anxious",
+      "low-energy",
+      "reflective"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-040": {
@@ -595,9 +977,17 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ESFJ",
+    "traits": [
+      "religious",
+      "community-oriented",
+      "talkative",
+      "traditional",
+      "supportive",
+      "judgmental",
+      "well-dressed"
+    ],
     "zodiacSign": "Taurus"
   },
   "us-041": {
@@ -610,9 +1000,17 @@
     "ethnicity": "black",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "street-smart",
+      "cautious",
+      "charismatic",
+      "risk-taker",
+      "opportunistic",
+      "guarded",
+      "resourceful"
+    ],
     "zodiacSign": "Aries"
   },
   "us-042": {
@@ -625,9 +1023,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "social",
+      "image-conscious",
+      "emotionally guarded",
+      "functioning addict",
+      "sarcastic",
+      "deflective",
+      "habit-driven",
+      "seemingly normal"
+    ],
     "zodiacSign": "Leo"
   },
   "us-043": {
@@ -640,9 +1047,18 @@
     "ethnicity": "latina",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISFJ",
+    "traits": [
+      "reserved",
+      "observant",
+      "guarded",
+      "practical",
+      "emotionally controlled",
+      "independent",
+      "skeptical",
+      "low-trust"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-044": {
@@ -655,9 +1071,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "intellectual",
+      "introverted",
+      "observant",
+      "methodical",
+      "patient",
+      "reserved",
+      "detail-oriented",
+      "quiet"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-045": {
@@ -670,9 +1095,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ESTJ",
+    "traits": [
+      "caring",
+      "nurturing",
+      "talkative",
+      "family-oriented",
+      "traditional",
+      "warm",
+      "protective",
+      "sentimental"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-046": {
@@ -685,9 +1119,18 @@
     "ethnicity": "latino",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Neutral-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "charming",
+      "laid-back",
+      "social",
+      "unambitious",
+      "adaptable",
+      "friendly",
+      "non-confrontational",
+      "casual"
+    ],
     "zodiacSign": "Undefined"
   },
   "us-047": {
@@ -700,9 +1143,18 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "intimidating",
+      "territorial",
+      "loyal",
+      "rebellious",
+      "risk-taking",
+      "rough",
+      "protective",
+      "anti-authority"
+    ],
     "zodiacSign": "Aries"
   },
   "us-048": {
@@ -715,9 +1167,18 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ENFJ",
+    "traits": [
+      "idealistic",
+      "empathetic",
+      "outspoken",
+      "politically engaged",
+      "community-oriented",
+      "principled",
+      "resilient",
+      "activist"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-049": {
@@ -730,9 +1191,21 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "ESFJ",
+    "traits": [
+      "charismatic",
+      "status-conscious",
+      "vain",
+      "socially skilled",
+      "image-focused",
+      "confident",
+      "hedonistic",
+      "network-driven"
+    ],
     "zodiacSign": "Leo"
   },
   "us-050": {
@@ -745,9 +1218,21 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ENFJ",
+    "traits": [
+      "confident",
+      "sensual",
+      "playful",
+      "assertive",
+      "community-oriented",
+      "expressive",
+      "body-positive",
+      "stylish"
+    ],
     "zodiacSign": "Leo"
   },
   "us-051": {
@@ -760,9 +1245,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ENTJ",
+    "traits": [
+      "rebellious",
+      "charismatic",
+      "artistic",
+      "nostalgic",
+      "independent",
+      "hedonistic",
+      "confident",
+      "nonconformist"
+    ],
     "zodiacSign": "Aries"
   },
   "us-052": {
@@ -775,9 +1269,18 @@
     "ethnicity": "latino",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "charismatic",
+      "sociable",
+      "musical",
+      "confident",
+      "laid-back",
+      "expressive",
+      "popular",
+      "rhythmic"
+    ],
     "zodiacSign": "Aries"
   },
   "us-053": {
@@ -790,9 +1293,18 @@
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "reserved",
+      "reliable",
+      "methodical",
+      "quiet",
+      "practical",
+      "observant",
+      "disciplined",
+      "low-profile"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-054": {
@@ -805,9 +1317,18 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "confident",
+      "charming",
+      "privileged",
+      "social",
+      "self-assured",
+      "image-conscious",
+      "smooth-talker",
+      "ambitious"
+    ],
     "zodiacSign": "Leo"
   },
   "us-055": {
@@ -820,9 +1341,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ENFJ",
+    "traits": [
+      "creative",
+      "gentle",
+      "patient",
+      "artsy",
+      "observant",
+      "soft-spoken",
+      "friendly",
+      "independent"
+    ],
     "zodiacSign": "Gemini"
   },
   "us-056": {
@@ -835,9 +1365,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "organized",
+      "supportive",
+      "practical",
+      "social",
+      "reliable",
+      "busy",
+      "well-meaning"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-057": {
@@ -850,9 +1388,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "artistic",
+      "cultured",
+      "intellectual",
+      "polite",
+      "observant",
+      "eccentric",
+      "well-dressed",
+      "independent"
+    ],
     "zodiacSign": "Taurus"
   },
   "us-058": {
@@ -865,9 +1412,18 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "traditional",
+      "well-mannered",
+      "confident",
+      "disciplined",
+      "charismatic",
+      "reserved",
+      "respectful",
+      "experienced"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-059": {
@@ -880,9 +1436,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISTJ",
+    "traits": [
+      "intellectual",
+      "calm",
+      "approachable",
+      "thoughtful",
+      "patient",
+      "analytical",
+      "reserved",
+      "kind"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-060": {
@@ -895,9 +1460,19 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "cocky",
+      "confident",
+      "creative",
+      "independent",
+      "laid-back",
+      "nonconformist",
+      "observant",
+      "sarcastic",
+      "witty"
+    ],
     "zodiacSign": "Aries"
   },
   "us-061": {
@@ -910,9 +1485,21 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "extroverted"
+    ],
     "alignment": "Chaotic-Good",
     "mbti": "ENFP",
+    "traits": [
+      "free-spirited",
+      "peaceful",
+      "non-materialistic",
+      "artistic",
+      "spiritual",
+      "laid-back",
+      "idealistic",
+      "open-minded"
+    ],
     "zodiacSign": "Sagittarius"
   },
   "us-062": {
@@ -925,9 +1512,21 @@
     "ethnicity": "latino",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "introverted"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "reserved",
+      "hard-working",
+      "serious",
+      "anxious",
+      "responsible",
+      "introverted",
+      "practical",
+      "loyal"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-063": {
@@ -940,9 +1539,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "cynical",
+      "intelligent",
+      "introverted",
+      "sarcastic",
+      "observant",
+      "resentful",
+      "rigid",
+      "work-focused"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-064": {
@@ -955,9 +1563,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Evil",
     "mbti": "ENTP",
+    "traits": [
+      "rebellious",
+      "grumpy",
+      "blunt",
+      "music-obsessed",
+      "nonconformist",
+      "intimidating",
+      "loyal",
+      "anti-authority"
+    ],
     "zodiacSign": "Aries"
   },
   "us-065": {
@@ -970,9 +1587,18 @@
     "ethnicity": "filipino",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ESTJ",
+    "traits": [
+      "friendly",
+      "polite",
+      "reliable",
+      "low-key",
+      "hardworking",
+      "adaptable",
+      "non-confrontational",
+      "observant"
+    ],
     "zodiacSign": "Aries"
   },
   "us-066": {
@@ -985,9 +1611,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high-school",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "stoic",
+      "physically strong",
+      "introverted",
+      "reliable",
+      "gruff",
+      "practical",
+      "low-patience",
+      "hardworking"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-067": {
@@ -1000,9 +1635,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "police-academy",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "authoritative",
+      "suspicious",
+      "rigid",
+      "traditional",
+      "disciplined",
+      "short-tempered",
+      "rule-oriented",
+      "protective"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-068": {
@@ -1015,9 +1659,18 @@
     "ethnicity": "native-american",
     "economicClass": "middle",
     "educationLevel": "traditional-knowledge",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "wise",
+      "calm",
+      "respectful",
+      "protective",
+      "patient",
+      "spiritual",
+      "observant",
+      "community-oriented"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-069": {
@@ -1030,9 +1683,17 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "lazy",
+      "street-smart",
+      "sneaky",
+      "talkative",
+      "unreliable",
+      "sarcastic",
+      "opportunistic"
+    ],
     "zodiacSign": "Aries"
   },
   "us-070": {
@@ -1045,9 +1706,17 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "playful",
+      "flirtatious",
+      "outspoken",
+      "confident",
+      "nostalgic",
+      "humorous",
+      "unfiltered"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-071": {
@@ -1060,9 +1729,17 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "observant",
+      "analytical",
+      "reserved",
+      "cynical",
+      "persistent",
+      "principled",
+      "street-smart"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-072": {
@@ -1075,9 +1752,20 @@
     "ethnicity": "mixed asian-black",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "introverted"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "introverted",
+      "observant",
+      "emotionally reserved",
+      "reliable",
+      "pragmatic",
+      "self-contained",
+      "patient"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-073": {
@@ -1090,9 +1778,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "gentle",
+      "introverted",
+      "romantic",
+      "studious",
+      "polite",
+      "daydreamer",
+      "empathetic"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-074": {
@@ -1105,9 +1801,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "friendly",
+      "clever",
+      "curious",
+      "analytical",
+      "sarcastic",
+      "easygoing",
+      "problem-solver"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-075": {
@@ -1120,9 +1824,17 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "responsible",
+      "protective",
+      "wise",
+      "community-oriented",
+      "patient",
+      "strong-willed",
+      "empathetic"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-076": {
@@ -1135,9 +1847,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "warm",
+      "hardworking",
+      "patient",
+      "friendly",
+      "detail-oriented",
+      "routine-loving",
+      "nurturing"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-077": {
@@ -1150,9 +1870,17 @@
     "ethnicity": "japanese",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "disciplined",
+      "authoritative",
+      "perfectionist",
+      "experienced",
+      "proud",
+      "traditional",
+      "hardworking"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-078": {
@@ -1165,9 +1893,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "disciplined",
+      "brave",
+      "loyal",
+      "physically fit",
+      "focused",
+      "authoritative",
+      "protective"
+    ],
     "zodiacSign": "Aries"
   },
   "us-079": {
@@ -1180,9 +1916,20 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "assertive",
+      "pragmatic",
+      "independent",
+      "confident",
+      "protective",
+      "no-nonsense",
+      "loyal"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-080": {
@@ -1195,9 +1942,17 @@
     "ethnicity": "black",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ENTJ",
+    "traits": [
+      "intelligent",
+      "empathetic",
+      "responsible",
+      "calm",
+      "disciplined",
+      "patient",
+      "caring"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-081": {
@@ -1210,9 +1965,17 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "eccentric",
+      "charismatic",
+      "mysterious",
+      "theatrical",
+      "cultured",
+      "intelligent",
+      "enigmatic"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-082": {
@@ -1225,9 +1988,17 @@
     "ethnicity": "italian",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "authoritative",
+      "manipulative",
+      "charismatic",
+      "greedy",
+      "strategic",
+      "intimidating",
+      "old-school"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-083": {
@@ -1240,9 +2011,17 @@
     "ethnicity": "Inuit",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "resilient",
+      "patient",
+      "quiet",
+      "traditional",
+      "resourceful",
+      "calm",
+      "nature-oriented"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-084": {
@@ -1255,9 +2034,20 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "extroverted"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "ESTJ",
+    "traits": [
+      "cheerful",
+      "affectionate",
+      "loyal",
+      "optimistic",
+      "emotionally supportive",
+      "friendly",
+      "easygoing"
+    ],
     "zodiacSign": "Aries"
   },
   "us-085": {
@@ -1270,9 +2060,17 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "studious",
+      "curious",
+      "ambitious",
+      "calm",
+      "observant",
+      "organized",
+      "intellectual"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-086": {
@@ -1285,9 +2083,17 @@
     "ethnicity": "japanese",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "disciplined",
+      "graceful",
+      "traditional",
+      "artistic",
+      "reserved",
+      "observant",
+      "cultured"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-087": {
@@ -1300,9 +2106,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFP",
+    "traits": [
+      "curious",
+      "sociable",
+      "optimistic",
+      "adaptable",
+      "adventurous",
+      "friendly",
+      "open-minded"
+    ],
     "zodiacSign": "Leo"
   },
   "us-088": {
@@ -1315,9 +2129,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ESTJ",
+    "traits": [
+      "responsible",
+      "high-achieving",
+      "polite",
+      "disciplined",
+      "dependable",
+      "calm",
+      "people-pleasing"
+    ],
     "zodiacSign": "Leo"
   },
   "us-089": {
@@ -1330,9 +2152,16 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "calm",
+      "reliable",
+      "observant",
+      "professional",
+      "patient",
+      "self-assured"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-090": {
@@ -1345,9 +2174,16 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Neutral-Good",
     "mbti": "ESFJ",
+    "traits": [
+      "confident",
+      "charismatic",
+      "seductive",
+      "outgoing",
+      "image-conscious",
+      "self-assured"
+    ],
     "zodiacSign": "Leo"
   },
   "us-091": {
@@ -1360,9 +2196,17 @@
     "ethnicity": "japanese",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "disciplined",
+      "patient",
+      "calm",
+      "traditional",
+      "respectful",
+      "mentor-like",
+      "spiritual"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-092": {
@@ -1375,9 +2219,17 @@
     "ethnicity": "jewish",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "organized",
+      "detail-oriented",
+      "responsible",
+      "observant",
+      "methodical",
+      "practical",
+      "rule-following"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-093": {
@@ -1390,9 +2242,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "some college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "friendly",
+      "approachable",
+      "optimistic",
+      "polite",
+      "reliable",
+      "unassuming",
+      "good-natured"
+    ],
     "zodiacSign": "Aries"
   },
   "us-094": {
@@ -1405,9 +2265,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high school",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "down-to-earth",
+      "calm",
+      "reliable",
+      "reserved",
+      "practical",
+      "patient",
+      "loyal"
+    ],
     "zodiacSign": "Aries"
   },
   "us-095": {
@@ -1420,9 +2288,20 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "introverted"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "introverted",
+      "analytical",
+      "independent",
+      "focused",
+      "detail-oriented",
+      "low-key",
+      "self-sufficient"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-096": {
@@ -1435,9 +2314,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "seafaring",
+      "practical",
+      "calm",
+      "traditional",
+      "hardworking",
+      "stoic",
+      "routine-oriented"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-097": {
@@ -1450,9 +2337,17 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "aggressive",
+      "intimidating",
+      "rebellious",
+      "street-smart",
+      "violent",
+      "loyal to group",
+      "impulsive"
+    ],
     "zodiacSign": "Aries"
   },
   "us-098": {
@@ -1465,9 +2360,17 @@
     "ethnicity": "mixed race latino",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "intimidating",
+      "stoic",
+      "short-tempered",
+      "physically strong",
+      "gruff",
+      "reserved",
+      "protective"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-099": {
@@ -1480,9 +2383,17 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESFJ",
+    "traits": [
+      "charismatic",
+      "expressive",
+      "artistic",
+      "confident",
+      "energetic",
+      "social",
+      "performer"
+    ],
     "zodiacSign": "Leo"
   },
   "us-100": {
@@ -1495,9 +2406,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "calm",
+      "patient",
+      "creative",
+      "hands-on",
+      "easygoing",
+      "observant",
+      "independent"
+    ],
     "zodiacSign": "Aries"
   },
   "us-101": {
@@ -1510,9 +2429,17 @@
     "ethnicity": "chinese",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "entrepreneurial",
+      "street-smart",
+      "practical",
+      "bargain-focused",
+      "skeptical",
+      "hardworking",
+      "good with money"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-102": {
@@ -1525,9 +2452,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "outdoorsy",
+      "patient",
+      "introverted",
+      "nostalgic",
+      "practical",
+      "routine-oriented",
+      "nature-loving"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-103": {
@@ -1540,9 +2475,20 @@
     "ethnicity": "jewish",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "religious"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "thoughtful",
+      "family-oriented",
+      "community-minded",
+      "intellectual",
+      "friendly",
+      "calm",
+      "reliable"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-104": {
@@ -1555,9 +2501,20 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "religious"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "charismatic",
+      "religious",
+      "disciplined",
+      "empathetic",
+      "well-spoken",
+      "calm",
+      "principled"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-105": {
@@ -1570,9 +2527,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "intellectual",
+      "organized",
+      "calm",
+      "detail-oriented",
+      "patient",
+      "introverted",
+      "helpful"
+    ],
     "zodiacSign": "Aquarius"
   },
   "us-106": {
@@ -1585,9 +2550,17 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "empathetic",
+      "confident",
+      "organized",
+      "responsible",
+      "supportive",
+      "leadership-oriented",
+      "community-focused"
+    ],
     "zodiacSign": "Undefined"
   },
   "us-107": {
@@ -1600,9 +2573,18 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "intellectual",
+      "curious",
+      "eccentric",
+      "scholarly",
+      "patient",
+      "traditional",
+      "well-spoken",
+      "reflective"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-108": {
@@ -1615,9 +2597,17 @@
     "ethnicity": "brazilian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Neutral-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "athletic",
+      "competitive",
+      "energetic",
+      "team-oriented",
+      "confident",
+      "sociable",
+      "disciplined"
+    ],
     "zodiacSign": "Aries"
   },
   "us-109": {
@@ -1630,9 +2620,20 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "religious"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "religious",
+      "disciplined",
+      "reserved",
+      "observant",
+      "calm",
+      "obedient",
+      "introspective"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-110": {
@@ -1645,9 +2646,17 @@
     "ethnicity": "middle-eastern",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "religious",
+      "traditional",
+      "family-oriented",
+      "hardworking",
+      "cautious",
+      "respectful",
+      "community-minded"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-111": {
@@ -1660,9 +2669,20 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Chaotic-Evil",
     "mbti": "ENFP",
+    "traits": [
+      "artistic",
+      "performative",
+      "confident",
+      "expressive",
+      "charismatic",
+      "fashion-forward",
+      "social"
+    ],
     "zodiacSign": "Gemini"
   },
   "us-112": {
@@ -1675,9 +2695,17 @@
     "ethnicity": "Jamaican",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "laid-back",
+      "independent",
+      "music-loving",
+      "spiritual",
+      "proud",
+      "observant",
+      "community-oriented"
+    ],
     "zodiacSign": "Aries"
   },
   "us-113": {
@@ -1690,9 +2718,17 @@
     "ethnicity": "Korean",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "quiet",
+      "polite",
+      "thoughtful",
+      "introverted",
+      "observant",
+      "hardworking",
+      "respectful"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-114": {
@@ -1705,9 +2741,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "curious",
+      "methodical",
+      "patient",
+      "adventurous",
+      "observant",
+      "academic",
+      "independent"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-115": {
@@ -1720,9 +2764,17 @@
     "ethnicity": "Native Hawaiian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ESFP",
+    "traits": [
+      "friendly",
+      "easygoing",
+      "cheerful",
+      "sociable",
+      "laid-back",
+      "outdoorsy",
+      "optimistic"
+    ],
     "zodiacSign": "Leo"
   },
   "us-116": {
@@ -1735,9 +2787,21 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Neutral-Good",
     "mbti": "ENFP",
+    "traits": [
+      "flamboyant",
+      "expressive",
+      "confident",
+      "creative",
+      "theatrical",
+      "social",
+      "fashion-forward",
+      "charismatic"
+    ],
     "zodiacSign": "Gemini"
   },
   "us-117": {
@@ -1750,9 +2814,18 @@
     "ethnicity": "chinese",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "introverted",
+      "awkward",
+      "observant",
+      "thoughtful",
+      "analytical",
+      "reserved",
+      "anxious",
+      "polite"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-118": {
@@ -1765,9 +2838,18 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESFJ",
+    "traits": [
+      "confrontational",
+      "short-tempered",
+      "defensive",
+      "blunt",
+      "resentful",
+      "protective",
+      "stubborn",
+      "street-smart"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-119": {
@@ -1780,9 +2862,18 @@
     "ethnicity": "indian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Neutral",
     "mbti": "INTJ",
+    "traits": [
+      "shy",
+      "intelligent",
+      "introverted",
+      "anxious",
+      "polite",
+      "curious",
+      "hardworking",
+      "rule-abiding"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-120": {
@@ -1795,9 +2886,18 @@
     "ethnicity": "korean",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ENFJ",
+    "traits": [
+      "cheerful",
+      "fashion-forward",
+      "music lover",
+      "energetic",
+      "expressive",
+      "optimistic",
+      "social",
+      "trend-driven"
+    ],
     "zodiacSign": "Leo"
   },
   "us-121": {
@@ -1810,9 +2910,18 @@
     "ethnicity": "mexican",
     "economicClass": "working",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "protective",
+      "anxious",
+      "hardworking",
+      "family-oriented",
+      "emotional",
+      "traditional",
+      "resilient",
+      "caring"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-122": {
@@ -1825,9 +2934,22 @@
     "ethnicity": "white",
     "economicClass": "lower-middle",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "nerd"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "literal-minded",
+      "earnest",
+      "routine-oriented",
+      "morally rigid",
+      "lonely",
+      "well-intentioned",
+      "imaginative",
+      "socially awkward",
+      "loyal"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-123": {
@@ -1840,9 +2962,20 @@
     "ethnicity": "chinese",
     "economicClass": "middle",
     "educationLevel": "higher",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "authoritative",
+      "highly disciplined",
+      "perfectionist",
+      "emotionally reserved",
+      "controlling",
+      "ambitious",
+      "judgmental",
+      "protective",
+      "stress-driven",
+      "achievement-oriented"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-124": {
@@ -1855,9 +2988,20 @@
     "ethnicity": "white",
     "economicClass": "lower-middle",
     "educationLevel": "secondary",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "introverted",
+      "melancholic",
+      "introspective",
+      "emotionally reserved",
+      "creative",
+      "nonconformist",
+      "observant",
+      "quietly defiant",
+      "romantic",
+      "self-contained"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-125": {
@@ -1870,9 +3014,20 @@
     "ethnicity": "white (mediterranean)",
     "economicClass": "middle",
     "educationLevel": "secondary",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "charismatic",
+      "confident",
+      "warm",
+      "pragmatic",
+      "protective",
+      "sociable",
+      "stubborn",
+      "resilient",
+      "traditional",
+      "self-assured"
+    ],
     "zodiacSign": "Aries"
   },
   "us-126": {
@@ -1885,9 +3040,20 @@
     "ethnicity": "black",
     "economicClass": "upper-middle",
     "educationLevel": "secondary",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "charismatic",
+      "confident",
+      "stylish",
+      "disciplined",
+      "image-conscious",
+      "calm",
+      "observant",
+      "ambitious",
+      "self-assured",
+      "reserved"
+    ],
     "zodiacSign": "Leo"
   },
   "us-127": {
@@ -1900,9 +3066,20 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "unknown",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "confident",
+      "elegant",
+      "self-assured",
+      "calm",
+      "poised",
+      "independent",
+      "observant",
+      "modern",
+      "charismatic",
+      "reserved"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-128": {
@@ -1915,9 +3092,22 @@
     "ethnicity": "unknown",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "ENFP",
+    "traits": [
+      "expressive",
+      "creative",
+      "stylish",
+      "confident",
+      "open-minded",
+      "individualistic",
+      "artistic",
+      "trendy",
+      "self-assured"
+    ],
     "zodiacSign": "Gemini"
   },
   "us-129": {
@@ -1930,9 +3120,18 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "confident",
+      "resilient",
+      "empathetic",
+      "calm",
+      "self-accepting",
+      "grounded",
+      "thoughtful",
+      "approachable"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-130": {
@@ -1945,9 +3144,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "confident",
+      "flashy",
+      "street-smart",
+      "expressive",
+      "ambitious",
+      "charismatic",
+      "attention-seeking"
+    ],
     "zodiacSign": "Leo"
   },
   "us-131": {
@@ -1960,9 +3167,17 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESFJ",
+    "traits": [
+      "image-obsessed",
+      "vain",
+      "status-conscious",
+      "confident",
+      "fashion-forward",
+      "attention-seeking",
+      "luxury-oriented"
+    ],
     "zodiacSign": "Leo"
   },
   "us-132": {
@@ -1975,9 +3190,17 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "aggressive",
+      "short-tempered",
+      "confrontational",
+      "tribal",
+      "loyal to group",
+      "violent",
+      "impulsive"
+    ],
     "zodiacSign": "Aries"
   },
   "us-133": {
@@ -1990,9 +3213,20 @@
     "ethnicity": "thai",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "religious"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "religious",
+      "spiritual",
+      "disciplined",
+      "patient",
+      "humble",
+      "peaceful",
+      "wise"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-134": {
@@ -2005,9 +3239,21 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "entitled",
+      "privileged",
+      "ambitious",
+      "confident",
+      "elitist",
+      "competitive",
+      "status-conscious",
+      "self-centered"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-135": {
@@ -2020,9 +3266,20 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "muscular"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "disciplined",
+      "physically focused",
+      "confident",
+      "image-conscious",
+      "competitive",
+      "routine-driven",
+      "health-oriented"
+    ],
     "zodiacSign": "Leo"
   },
   "us-136": {
@@ -2035,9 +3292,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ENFJ",
+    "traits": [
+      "alternative",
+      "rebellious",
+      "independent",
+      "self-expressive",
+      "confident",
+      "nonconformist",
+      "bold"
+    ],
     "zodiacSign": "Undefined"
   },
   "us-137": {
@@ -2050,9 +3315,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "entitled",
+      "confrontational",
+      "controlling",
+      "judgmental",
+      "outspoken",
+      "rule-obsessed",
+      "self-righteous"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-138": {
@@ -2065,9 +3338,17 @@
     "ethnicity": "latina",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ENFJ",
+    "traits": [
+      "nostalgic",
+      "enthusiastic",
+      "optimistic",
+      "sentimental",
+      "childlike",
+      "fan-obsessed",
+      "cheerful"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-139": {
@@ -2080,9 +3361,16 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "friendly",
+      "resilient",
+      "optimistic",
+      "good-humored",
+      "social",
+      "adaptable"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-140": {
@@ -2095,9 +3383,16 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Neutral-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "socially awkward",
+      "observant",
+      "quiet",
+      "resentful",
+      "loner",
+      "unsettling"
+    ],
     "zodiacSign": "Aries"
   },
   "us-141": {
@@ -2110,9 +3405,21 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "nerd"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "socially isolated",
+      "resentful",
+      "obsessive",
+      "chronically online",
+      "misogynistic",
+      "insecure",
+      "escapist",
+      "conspiratorial"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-142": {
@@ -2125,9 +3432,18 @@
     "ethnicity": "latina",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Evil",
     "mbti": "ESFP",
+    "traits": [
+      "street-smart",
+      "assertive",
+      "protective",
+      "loyal",
+      "rebellious",
+      "confident",
+      "fashion-forward",
+      "intimidating"
+    ],
     "zodiacSign": "Sagittarius"
   },
   "us-143": {
@@ -2140,9 +3456,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "introverted",
+      "melancholic",
+      "artistic",
+      "sensitive",
+      "sarcastic",
+      "music-obsessed",
+      "emotionally guarded"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-144": {
@@ -2155,9 +3479,20 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "muscular"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "street-smart",
+      "intimidating",
+      "reserved",
+      "protective",
+      "cynical",
+      "resilient",
+      "pragmatic"
+    ],
     "zodiacSign": "Aries"
   },
   "us-145": {
@@ -2170,9 +3505,17 @@
     "ethnicity": "latina",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "hardworking",
+      "overworked",
+      "patient",
+      "introverted",
+      "resigned",
+      "observant",
+      "emotionally tired"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-146": {
@@ -2185,9 +3528,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFP",
+    "traits": [
+      "youth-obsessed",
+      "eccentric",
+      "expressive",
+      "attention-seeking",
+      "nostalgic",
+      "cheerful",
+      "nonconformist"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-147": {
@@ -2200,9 +3551,20 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "none",
-    "tags": [],
+    "tags": [
+      "poor"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ENTJ",
+    "traits": [
+      "addicted",
+      "erratic",
+      "exhausted",
+      "impulsive",
+      "socially isolated",
+      "anxious",
+      "self-destructive"
+    ],
     "zodiacSign": "Aries"
   },
   "us-148": {
@@ -2215,9 +3577,16 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "reserved",
+      "observant",
+      "introverted",
+      "self-conscious",
+      "independent",
+      "calm"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-149": {
@@ -2230,9 +3599,16 @@
     "ethnicity": "native american",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "reserved",
+      "traditional",
+      "observant",
+      "resilient",
+      "soft-spoken",
+      "grounded"
+    ],
     "zodiacSign": "Aries"
   },
   "us-150": {
@@ -2245,9 +3621,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Chaotic-Good",
     "mbti": "ENFP",
+    "traits": [
+      "dominant",
+      "confident",
+      "strategic",
+      "observant",
+      "seductive",
+      "self-controlled",
+      "intimidating"
+    ],
     "zodiacSign": "Leo"
   },
   "us-151": {
@@ -2260,9 +3644,17 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "intimidating",
+      "protective",
+      "physically strong",
+      "disciplined",
+      "authoritative",
+      "observant",
+      "no-nonsense"
+    ],
     "zodiacSign": "Aries"
   },
   "us-152": {
@@ -2275,9 +3667,20 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "nerd"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "ENFJ",
+    "traits": [
+      "playful",
+      "creative",
+      "costume enthusiast",
+      "expressive",
+      "community-oriented",
+      "escapist",
+      "imaginative"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-153": {
@@ -2290,9 +3693,17 @@
     "ethnicity": "Chinese",
     "economicClass": "lower",
     "educationLevel": "none",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "hardworking",
+      "patient",
+      "traditional",
+      "humble",
+      "resilient",
+      "nature-oriented",
+      "community-minded"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-154": {
@@ -2305,9 +3716,17 @@
     "ethnicity": "White",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "kind",
+      "friendly",
+      "optimistic",
+      "social",
+      "gentle",
+      "trusting",
+      "routine-oriented"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-155": {
@@ -2320,9 +3739,17 @@
     "ethnicity": "White",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "short-tempered",
+      "controlling",
+      "domestic",
+      "impatient",
+      "routine-driven",
+      "blunt",
+      "easily irritated"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-156": {
@@ -2335,9 +3762,22 @@
     "ethnicity": "Black",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "religious"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "spiritual",
+      "religious leader",
+      "wise",
+      "ritualistic",
+      "traditional",
+      "calm",
+      "authoritative",
+      "ancestral",
+      "intuitive"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-157": {
@@ -2350,9 +3790,19 @@
     "ethnicity": "White",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "extra joyful",
+      "optimistic",
+      "leader",
+      "supportive",
+      "energetic",
+      "friendly",
+      "responsible",
+      "outdoorsy",
+      "enthusiastic"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-158": {
@@ -2365,9 +3815,19 @@
     "ethnicity": "White",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "very nerdy",
+      "shy",
+      "intelligent",
+      "bookish",
+      "introverted",
+      "kind",
+      "insecure",
+      "academic",
+      "gentle"
+    ],
     "zodiacSign": "Undefined"
   },
   "us-159": {
@@ -2380,9 +3840,18 @@
     "ethnicity": "Black",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "sassy",
+      "confident",
+      "outspoken",
+      "stylish",
+      "assertive",
+      "street-smart",
+      "independent",
+      "charismatic"
+    ],
     "zodiacSign": "Leo"
   },
   "us-160": {
@@ -2395,9 +3864,17 @@
     "ethnicity": "Chinese",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "grumpy",
+      "food-loving",
+      "defensive",
+      "introverted",
+      "blunt",
+      "routine-oriented",
+      "observant"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-161": {
@@ -2410,9 +3887,19 @@
     "ethnicity": "thai",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Lawful-Neutral",
     "mbti": "ENFP",
+    "traits": [
+      "graceful",
+      "self-aware",
+      "soft-spoken",
+      "image-conscious",
+      "resilient",
+      "polite"
+    ],
     "zodiacSign": "Gemini"
   },
   "us-162": {
@@ -2425,9 +3912,16 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ISFJ",
+    "traits": [
+      "dependent",
+      "contrasting personalities",
+      "emotionally expressive",
+      "resilient",
+      "socially curious",
+      "cooperative"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-163": {
@@ -2440,9 +3934,19 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "ESFP",
+    "traits": [
+      "gentle",
+      "expressive",
+      "fashion-conscious",
+      "sensitive",
+      "self-aware",
+      "soft-spoken"
+    ],
     "zodiacSign": "Leo"
   },
   "us-164": {
@@ -2455,9 +3959,16 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Neutral-Evil",
     "mbti": "ESFP",
+    "traits": [
+      "seductive",
+      "detached",
+      "world-weary",
+      "observant",
+      "independent",
+      "guarded"
+    ],
     "zodiacSign": "Leo"
   },
   "us-165": {
@@ -2470,9 +3981,20 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Neutral-Neutral",
     "mbti": "ESFP",
+    "traits": [
+      "flamboyant",
+      "creative",
+      "charismatic",
+      "expressive",
+      "confident",
+      "artistic",
+      "fashion-forward"
+    ],
     "zodiacSign": "Undefined"
   },
   "us-166": {
@@ -2485,9 +4007,17 @@
     "ethnicity": "latina",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "hot-tempered",
+      "jealous",
+      "emotional",
+      "confrontational",
+      "passionate",
+      "protective",
+      "impulsive"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-167": {
@@ -2500,9 +4030,17 @@
     "ethnicity": "arab",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "confident",
+      "charismatic",
+      "authoritative",
+      "calm",
+      "self-assured",
+      "strategic",
+      "proud"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-168": {
@@ -2515,9 +4053,20 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "corrupt",
+      "calculating",
+      "manipulative",
+      "greedy",
+      "strategic",
+      "charming",
+      "secretive"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-169": {
@@ -2530,9 +4079,17 @@
     "ethnicity": "asian",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ENTJ",
+    "traits": [
+      "wealthy",
+      "confident",
+      "luxury-loving",
+      "calculating",
+      "status-conscious",
+      "composed",
+      "dominant"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-170": {
@@ -2545,9 +4102,16 @@
     "ethnicity": "middle eastern",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "mysterious",
+      "reserved",
+      "observant",
+      "religious",
+      "private",
+      "self-controlled"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-171": {
@@ -2560,9 +4124,17 @@
     "ethnicity": "Armenian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "tough",
+      "intimidating",
+      "street-smart",
+      "hot-tempered",
+      "physically strong",
+      "blunt",
+      "world-weary"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-172": {
@@ -2575,9 +4147,20 @@
     "ethnicity": "Latino",
     "economicClass": "lower",
     "educationLevel": "none",
-    "tags": [],
+    "tags": [
+      "poor"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "hardworking",
+      "resilient",
+      "humble",
+      "physically exhausted",
+      "quiet",
+      "reliable",
+      "uncomplaining"
+    ],
     "zodiacSign": "Aries"
   },
   "us-173": {
@@ -2590,9 +4173,17 @@
     "ethnicity": "White",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Neutral-Good",
     "mbti": "ESFP",
+    "traits": [
+      "party-loving",
+      "impulsive",
+      "hedonistic",
+      "social",
+      "carefree",
+      "reckless",
+      "charismatic"
+    ],
     "zodiacSign": "Leo"
   },
   "us-174": {
@@ -2605,9 +4196,17 @@
     "ethnicity": "Italian",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "sleazy",
+      "smug",
+      "smooth-talking",
+      "manipulative",
+      "flirtatious",
+      "vain",
+      "street-smart"
+    ],
     "zodiacSign": "Leo"
   },
   "us-175": {
@@ -2620,9 +4219,16 @@
     "ethnicity": "Brazilian",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "short-tempered",
+      "protective",
+      "assertive",
+      "family-oriented",
+      "impatient",
+      "outspoken"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-176": {
@@ -2635,9 +4241,16 @@
     "ethnicity": "Black",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Neutral-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "charismatic",
+      "fashion-forward",
+      "confident",
+      "social",
+      "outgoing",
+      "showy"
+    ],
     "zodiacSign": "Leo"
   },
   "us-177": {
@@ -2650,9 +4263,16 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "ESTJ",
+    "traits": [
+      "kind",
+      "protective",
+      "reliable",
+      "down-to-earth",
+      "empathetic",
+      "selfless"
+    ],
     "zodiacSign": "Aries"
   },
   "us-178": {
@@ -2665,9 +4285,19 @@
     "ethnicity": "black",
     "economicClass": "upper",
     "educationLevel": "medium",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "Chaotic-Good",
     "mbti": "ENFP",
+    "traits": [
+      "confident",
+      "creative",
+      "charismatic",
+      "bold",
+      "trendsetter",
+      "ambitious"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-179": {
@@ -2680,9 +4310,16 @@
     "ethnicity": "japanese",
     "economicClass": "middle",
     "educationLevel": "high school",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "playful",
+      "tech-savvy",
+      "introverted",
+      "competitive",
+      "cute",
+      "focused"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-180": {
@@ -2695,9 +4332,19 @@
     "ethnicity": "latino",
     "economicClass": "middle",
     "educationLevel": "unspecified",
-    "tags": [],
+    "tags": [
+      "muscular"
+    ],
     "alignment": "Chaotic-Good",
     "mbti": "ESFP",
+    "traits": [
+      "charismatic",
+      "sensual",
+      "expressive",
+      "confident",
+      "romantic",
+      "energetic"
+    ],
     "zodiacSign": "Leo"
   },
   "us-181": {
@@ -2710,9 +4357,19 @@
     "ethnicity": "white",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INTJ",
+    "traits": [
+      "eccentric",
+      "intellectual",
+      "elitist",
+      "observant",
+      "traditionalist",
+      "authoritative"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-182": {
@@ -2725,9 +4382,16 @@
     "ethnicity": "Asian",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "INFJ",
+    "traits": [
+      "quiet",
+      "gentle",
+      "disciplined",
+      "hardworking",
+      "reserved",
+      "observant"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-183": {
@@ -2740,9 +4404,19 @@
     "ethnicity": "Latina",
     "economicClass": "lower",
     "educationLevel": "none",
-    "tags": [],
+    "tags": [
+      "poor"
+    ],
     "alignment": "Chaotic-Evil",
     "mbti": "INFP",
+    "traits": [
+      "resilient",
+      "tough",
+      "weary",
+      "resourceful",
+      "guarded",
+      "survivor"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-184": {
@@ -2755,9 +4429,19 @@
     "ethnicity": "unspecified",
     "economicClass": "working",
     "educationLevel": "unspecified",
-    "tags": [],
+    "tags": [
+      "muscular"
+    ],
     "alignment": "Chaotic-Neutral",
     "mbti": "ESFP",
+    "traits": [
+      "confident",
+      "charismatic",
+      "flirtatious",
+      "performative",
+      "self-aware",
+      "physically expressive"
+    ],
     "zodiacSign": "Leo"
   },
   "us-185": {
@@ -2773,6 +4457,14 @@
     "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "hardworking",
+      "patient",
+      "resilient",
+      "down-to-earth",
+      "reliable",
+      "reserved"
+    ],
     "zodiacSign": "Capricorn"
   },
   "us-186": {
@@ -2785,9 +4477,16 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ISTJ",
+    "traits": [
+      "food-obsessed",
+      "impulsive",
+      "expressive",
+      "comfort-seeking",
+      "anxious",
+      "good-natured"
+    ],
     "zodiacSign": "Aries"
   },
   "us-187": {
@@ -2800,9 +4499,16 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Evil",
     "mbti": "ESFJ",
+    "traits": [
+      "confident",
+      "attention-seeking",
+      "expressive",
+      "trend-driven",
+      "dramatic",
+      "self-assured"
+    ],
     "zodiacSign": "Leo"
   },
   "us-188": {
@@ -2815,9 +4521,16 @@
     "ethnicity": "latina",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Neutral",
     "mbti": "ESFJ",
+    "traits": [
+      "hardworking",
+      "discreet",
+      "polite",
+      "observant",
+      "responsible",
+      "patient"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-189": {
@@ -2830,9 +4543,16 @@
     "ethnicity": "black",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESFJ",
+    "traits": [
+      "confident",
+      "warm",
+      "friendly",
+      "body-positive",
+      "calm",
+      "grounded"
+    ],
     "zodiacSign": "Leo"
   },
   "us-190": {
@@ -2845,9 +4565,19 @@
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "INTJ",
+    "traits": [
+      "awkward",
+      "intelligent",
+      "shy",
+      "kind",
+      "thoughtful",
+      "introverted"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-191": {
@@ -2860,9 +4590,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Neutral-Good",
     "mbti": "INFP",
+    "traits": [
+      "spiritual",
+      "calm",
+      "intuitive",
+      "grounded",
+      "mystical",
+      "gentle",
+      "observant"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-192": {
@@ -2875,9 +4613,17 @@
     "ethnicity": "black",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Evil",
     "mbti": "INFP",
+    "traits": [
+      "mystical",
+      "intuitive",
+      "resilient",
+      "authoritative",
+      "observant",
+      "grounded",
+      "enigmatic"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-193": {
@@ -2890,9 +4636,17 @@
     "ethnicity": "Scottish",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "cultured",
+      "soft-spoken",
+      "curious",
+      "intelligent",
+      "kind",
+      "refined",
+      "observant"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-194": {
@@ -2905,9 +4659,17 @@
     "ethnicity": "latino",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTP",
+    "traits": [
+      "insecure",
+      "awkward",
+      "quiet",
+      "sensitive",
+      "polite",
+      "introverted",
+      "well-meaning"
+    ],
     "zodiacSign": "Aries"
   },
   "us-195": {
@@ -2920,9 +4682,17 @@
     "ethnicity": "russian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Evil",
     "mbti": "ESTJ",
+    "traits": [
+      "intimidating",
+      "stoic",
+      "loyal",
+      "aggressive",
+      "disciplined",
+      "silent",
+      "menacing"
+    ],
     "zodiacSign": "Aries"
   },
   "us-196": {
@@ -2935,9 +4705,17 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "resilient",
+      "gentle",
+      "hopeful",
+      "vulnerable",
+      "quiet",
+      "empathetic",
+      "strong-willed"
+    ],
     "zodiacSign": "Pisces"
   },
   "us-197": {
@@ -2950,9 +4728,21 @@
     "ethnicity": "asian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "nerd"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "intelligent",
+      "analytical",
+      "shy",
+      "awkward",
+      "soft-spoken",
+      "kind",
+      "introverted",
+      "hard-working"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-198": {
@@ -2965,9 +4755,21 @@
     "ethnicity": "latina",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
+    "tags": [
+      "religious"
+    ],
     "alignment": "Lawful-Evil",
     "mbti": "ISFJ",
+    "traits": [
+      "devout",
+      "humble",
+      "anxious",
+      "gentle",
+      "reserved",
+      "faith-driven",
+      "self-sacrificing",
+      "traditional"
+    ],
     "zodiacSign": "Cancer"
   },
   "us-199": {
@@ -2980,9 +4782,21 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "nerd"
+    ],
     "alignment": "Lawful-Good",
     "mbti": "INFJ",
+    "traits": [
+      "creative",
+      "enthusiastic",
+      "theatrical",
+      "imaginative",
+      "detail-oriented",
+      "expressive",
+      "friendly",
+      "quirky"
+    ],
     "zodiacSign": "Virgo"
   },
   "us-200": {
@@ -2995,9 +4809,21 @@
     "ethnicity": "white",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "Neutral-Neutral",
     "mbti": "INFP",
+    "traits": [
+      "assertive",
+      "opinionated",
+      "analytical",
+      "resilient",
+      "outspoken",
+      "serious",
+      "principled",
+      "independent"
+    ],
     "zodiacSign": "Undefined"
   },
   "us-201": {
@@ -3010,9 +4836,14 @@
     "ethnicity": "Mexican",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "Chaotic-Neutral",
     "mbti": "ESTP",
+    "traits": [
+      "hardworking",
+      "blue-collar",
+      "short-tempered",
+      "foodie"
+    ],
     "zodiacSign": "Aries"
   },
   "us-202": {
@@ -3025,9 +4856,14 @@
     "ethnicity": "Italian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "nosy",
+      "gossip",
+      "vigilant",
+      "traditional"
+    ],
     "zodiacSign": ""
   },
   "us-203": {
@@ -3040,9 +4876,14 @@
     "ethnicity": "Japanese",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "anxious",
+      "workaholic",
+      "perfectionist",
+      "bureaucrat"
+    ],
     "zodiacSign": ""
   },
   "us-204": {
@@ -3055,9 +4896,17 @@
     "ethnicity": "Brazilian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "muscular"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "athletic",
+      "disciplined",
+      "competitive",
+      "fitness"
+    ],
     "zodiacSign": ""
   },
   "us-205": {
@@ -3070,9 +4919,17 @@
     "ethnicity": "Brazilian",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "religious"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "loud",
+      "aggressive",
+      "opinionated",
+      "religious"
+    ],
     "zodiacSign": ""
   },
   "us-206": {
@@ -3085,9 +4942,14 @@
     "ethnicity": "Afro-Brazilian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "skeptical",
+      "sarcastic",
+      "youth",
+      "indifferent"
+    ],
     "zodiacSign": ""
   },
   "us-207": {
@@ -3100,9 +4962,14 @@
     "ethnicity": "Mexican",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "artistic",
+      "musician",
+      "traditional",
+      "dramatic"
+    ],
     "zodiacSign": ""
   },
   "us-208": {
@@ -3115,9 +4982,17 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "confident",
+      "rebellious",
+      "edgy",
+      "artistic"
+    ],
     "zodiacSign": ""
   },
   "us-209": {
@@ -3130,9 +5005,14 @@
     "ethnicity": "Italian",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "charming",
+      "flashy",
+      "flirty",
+      "smooth-talker"
+    ],
     "zodiacSign": ""
   },
   "us-210": {
@@ -3145,9 +5025,14 @@
     "ethnicity": "Mexican",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "sassy",
+      "family-oriented",
+      "shrewd",
+      "gossip"
+    ],
     "zodiacSign": ""
   },
   "us-211": {
@@ -3160,9 +5045,14 @@
     "ethnicity": "Indian",
     "economicClass": "lower",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "anxious",
+      "overworked",
+      "stressed",
+      "bureaucrat"
+    ],
     "zodiacSign": ""
   },
   "us-212": {
@@ -3175,9 +5065,14 @@
     "ethnicity": "American",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "snobbish",
+      "gossip",
+      "materialistic",
+      "arrogant"
+    ],
     "zodiacSign": ""
   },
   "us-213": {
@@ -3190,9 +5085,14 @@
     "ethnicity": "Brazilian",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "performer",
+      "eccentric",
+      "nostalgic",
+      "artistic"
+    ],
     "zodiacSign": ""
   },
   "us-214": {
@@ -3205,9 +5105,14 @@
     "ethnicity": "Brazilian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "strict",
+      "family-oriented",
+      "short-tempered",
+      "traditional"
+    ],
     "zodiacSign": ""
   },
   "us-215": {
@@ -3220,9 +5125,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "charismatic",
+      "manipulative",
+      "religious",
+      "eccentric"
+    ],
     "zodiacSign": ""
   },
   "us-216": {
@@ -3235,9 +5145,14 @@
     "ethnicity": "Korean",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "logical",
+      "reserved",
+      "techie",
+      "introverted"
+    ],
     "zodiacSign": ""
   },
   "us-217": {
@@ -3250,9 +5165,14 @@
     "ethnicity": "Brazilian",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "opinionated",
+      "patriot",
+      "stubborn",
+      "loud"
+    ],
     "zodiacSign": ""
   },
   "us-218": {
@@ -3265,9 +5185,14 @@
     "ethnicity": "Brazilian",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "flirty",
+      "glamorous",
+      "entrepreneurial",
+      "seductive"
+    ],
     "zodiacSign": ""
   },
   "us-219": {
@@ -3280,9 +5205,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "stylish",
+      "perfectionist",
+      "hardworking",
+      "trendy"
+    ],
     "zodiacSign": ""
   },
   "us-220": {
@@ -3295,9 +5225,17 @@
     "ethnicity": "Italian",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "extravagant",
+      "artistic",
+      "dramatic",
+      "flamboyant"
+    ],
     "zodiacSign": ""
   },
   "us-221": {
@@ -3310,9 +5248,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "paranoid",
+      "resourceful",
+      "vigilant",
+      "solitary"
+    ],
     "zodiacSign": ""
   },
   "us-222": {
@@ -3325,9 +5268,17 @@
     "ethnicity": "American",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "cocky",
+      "ambitious",
+      "techie",
+      "materialistic"
+    ],
     "zodiacSign": ""
   },
   "us-223": {
@@ -3340,9 +5291,14 @@
     "ethnicity": "American",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "stubborn",
+      "short-tempered",
+      "blue-collar",
+      "opinionated"
+    ],
     "zodiacSign": ""
   },
   "us-224": {
@@ -3355,9 +5311,14 @@
     "ethnicity": "Vietnamese",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "quiet",
+      "indifferent",
+      "hardworking",
+      "youth"
+    ],
     "zodiacSign": ""
   },
   "us-225": {
@@ -3370,9 +5331,17 @@
     "ethnicity": "American",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "muscular"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "vain",
+      "confident",
+      "fitness",
+      "shallow"
+    ],
     "zodiacSign": ""
   },
   "us-226": {
@@ -3385,9 +5354,14 @@
     "ethnicity": "Latina",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "caring",
+      "overworked",
+      "cautious",
+      "attentive"
+    ],
     "zodiacSign": ""
   },
   "us-227": {
@@ -3400,9 +5374,14 @@
     "ethnicity": "Afro-Brazilian",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "observant",
+      "skeptical",
+      "stylish",
+      "street-smart"
+    ],
     "zodiacSign": ""
   },
   "us-228": {
@@ -3415,9 +5394,14 @@
     "ethnicity": "Brazilian",
     "economicClass": "lower",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "reserved",
+      "tired",
+      "hardworking",
+      "modest"
+    ],
     "zodiacSign": ""
   },
   "us-229": {
@@ -3430,9 +5414,17 @@
     "ethnicity": "American",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "traditional",
+      "religious",
+      "family-oriented",
+      "polite"
+    ],
     "zodiacSign": ""
   },
   "us-230": {
@@ -3445,9 +5437,18 @@
     "ethnicity": "Italian",
     "economicClass": "lower",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "poor",
+      "religious"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "kind",
+      "religious",
+      "humble",
+      "peaceful"
+    ],
     "zodiacSign": ""
   },
   "us-311": {
@@ -3460,9 +5461,17 @@
     "ethnicity": "Mexican",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "poor"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "hardworking",
+      "anxious",
+      "blue-collar",
+      "street-smart"
+    ],
     "zodiacSign": ""
   },
   "us-312": {
@@ -3475,9 +5484,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "animal-lover",
+      "hardworking",
+      "stressed",
+      "clumsy"
+    ],
     "zodiacSign": ""
   },
   "us-313": {
@@ -3490,9 +5504,14 @@
     "ethnicity": "American",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "famous",
+      "secretive",
+      "glamorous",
+      "cautious"
+    ],
     "zodiacSign": ""
   },
   "us-314": {
@@ -3505,9 +5524,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "artistic",
+      "edgy",
+      "tough",
+      "creative"
+    ],
     "zodiacSign": ""
   },
   "us-315": {
@@ -3520,9 +5544,14 @@
     "ethnicity": "Japanese",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "techie",
+      "stealthy",
+      "quiet",
+      "disciplined"
+    ],
     "zodiacSign": ""
   },
   "us-316": {
@@ -3535,9 +5564,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "tough",
+      "chain-smoker",
+      "no-nonsense",
+      "intimidating"
+    ],
     "zodiacSign": ""
   },
   "us-317": {
@@ -3550,9 +5584,14 @@
     "ethnicity": "Italian",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "shrewd",
+      "negotiator",
+      "flashy",
+      "gregarious"
+    ],
     "zodiacSign": ""
   },
   "us-318": {
@@ -3565,9 +5604,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "trendy",
+      "stylish",
+      "entrepreneurial",
+      "street-smart"
+    ],
     "zodiacSign": ""
   },
   "us-319": {
@@ -3580,9 +5624,14 @@
     "ethnicity": "American",
     "economicClass": "lower",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "partygoer",
+      "bohemian",
+      "casual",
+      "nightowl"
+    ],
     "zodiacSign": ""
   },
   "us-320": {
@@ -3595,9 +5644,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "nostalgic",
+      "flashy",
+      "washed-up",
+      "vain"
+    ],
     "zodiacSign": ""
   },
   "us-321": {
@@ -3610,9 +5664,14 @@
     "ethnicity": "American",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "paranoid",
+      "conspiracy",
+      "eccentric",
+      "anxious"
+    ],
     "zodiacSign": ""
   },
   "us-322": {
@@ -3625,9 +5684,14 @@
     "ethnicity": "Irish",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "hardworking",
+      "gentle",
+      "sweet",
+      "foodie"
+    ],
     "zodiacSign": ""
   },
   "us-323": {
@@ -3640,9 +5704,13 @@
     "ethnicity": "white",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "paranoid",
+      "observant",
+      "tense"
+    ],
     "zodiacSign": ""
   },
   "us-324": {
@@ -3655,9 +5723,14 @@
     "ethnicity": "American",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "rebellious",
+      "rocker",
+      "edgy",
+      "wild"
+    ],
     "zodiacSign": ""
   },
   "us-325": {
@@ -3670,9 +5743,14 @@
     "ethnicity": "Brazilian",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "glamorous",
+      "confident",
+      "fashionable",
+      "charming"
+    ],
     "zodiacSign": ""
   },
   "us-326": {
@@ -3685,9 +5763,17 @@
     "ethnicity": "Swedish",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "minimalist",
+      "calm",
+      "organized",
+      "reserved"
+    ],
     "zodiacSign": ""
   },
   "us-327": {
@@ -3700,9 +5786,17 @@
     "ethnicity": "Brazilian",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "poor"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "street-smart",
+      "hardworking",
+      "impatient",
+      "fast"
+    ],
     "zodiacSign": ""
   },
   "us-328": {
@@ -3715,9 +5809,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "polite",
+      "dignified",
+      "formal",
+      "attentive"
+    ],
     "zodiacSign": ""
   },
   "us-329": {
@@ -3730,9 +5829,15 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "neurodivergent",
+      "gentle",
+      "eccentric",
+      "playful",
+      "innocent"
+    ],
     "zodiacSign": ""
   },
   "us-330": {
@@ -3745,9 +5850,14 @@
     "ethnicity": "Japanese",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "trendy",
+      "nightowl",
+      "music-lover",
+      "intense"
+    ],
     "zodiacSign": ""
   },
   "us-331": {
@@ -3760,9 +5870,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "strict",
+      "authoritative",
+      "short-tempered",
+      "vigilant"
+    ],
     "zodiacSign": ""
   },
   "us-332": {
@@ -3775,9 +5890,15 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "sociopathic",
+      "cold",
+      "calculating",
+      "secretive",
+      "disturbed"
+    ],
     "zodiacSign": ""
   },
   "us-333": {
@@ -3790,9 +5911,14 @@
     "ethnicity": "Brazilian",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "street-smart",
+      "resourceful",
+      "opportunistic",
+      "persistent"
+    ],
     "zodiacSign": ""
   },
   "us-334": {
@@ -3805,9 +5931,17 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "nerd"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "gamer",
+      "geek",
+      "obsessive",
+      "opinionated"
+    ],
     "zodiacSign": ""
   },
   "us-335": {
@@ -3820,9 +5954,17 @@
     "ethnicity": "American",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "snobbish",
+      "wealthy",
+      "fashionable",
+      "artistic"
+    ],
     "zodiacSign": ""
   },
   "us-336": {
@@ -3835,9 +5977,14 @@
     "ethnicity": "Japanese",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "overworked",
+      "tired",
+      "resigned",
+      "workaholic"
+    ],
     "zodiacSign": ""
   },
   "us-337": {
@@ -3850,9 +5997,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "eccentric",
+      "cat-lover",
+      "solitary",
+      "quirky"
+    ],
     "zodiacSign": ""
   },
   "us-338": {
@@ -3865,9 +6017,14 @@
     "ethnicity": "Indian",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "traditional",
+      "nosy",
+      "judgmental",
+      "family-oriented"
+    ],
     "zodiacSign": ""
   },
   "us-339": {
@@ -3880,9 +6037,14 @@
     "ethnicity": "Vietnamese",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "germaphobe",
+      "meticulous",
+      "strict",
+      "hardworking"
+    ],
     "zodiacSign": ""
   },
   "us-340": {
@@ -3895,9 +6057,17 @@
     "ethnicity": "Brazilian",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "muscular"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "muscular",
+      "cocky",
+      "fitness",
+      "shrewd"
+    ],
     "zodiacSign": ""
   },
   "us-341": {
@@ -3910,9 +6080,17 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "reserved",
+      "observant",
+      "independent",
+      "modest"
+    ],
     "zodiacSign": ""
   },
   "us-342": {
@@ -3925,9 +6103,14 @@
     "ethnicity": "Chinese",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "hardworking",
+      "shrewd",
+      "meticulous",
+      "business-minded"
+    ],
     "zodiacSign": ""
   },
   "us-343": {
@@ -3940,9 +6123,14 @@
     "ethnicity": "Indian",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "charming",
+      "flashy",
+      "flirty",
+      "vain"
+    ],
     "zodiacSign": ""
   },
   "us-344": {
@@ -3955,9 +6143,17 @@
     "ethnicity": "Afro-American",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "rich"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "flashy",
+      "wealthy",
+      "extravagant",
+      "authoritative"
+    ],
     "zodiacSign": ""
   },
   "us-345": {
@@ -3970,9 +6166,14 @@
     "ethnicity": "Indian",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "strict",
+      "disciplined",
+      "authoritative",
+      "traditional"
+    ],
     "zodiacSign": ""
   },
   "us-346": {
@@ -3985,9 +6186,14 @@
     "ethnicity": "American",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "rocker",
+      "experienced",
+      "laid-back",
+      "hardworking"
+    ],
     "zodiacSign": ""
   },
   "us-347": {
@@ -4000,9 +6206,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "opportunistic",
+      "persistent",
+      "materialistic",
+      "outgoing"
+    ],
     "zodiacSign": ""
   },
   "us-348": {
@@ -4015,9 +6226,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "bohemian",
+      "nature-lover",
+      "eccentric",
+      "peaceful"
+    ],
     "zodiacSign": ""
   },
   "us-349": {
@@ -4030,9 +6246,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "cheerful",
+      "caring",
+      "friendly",
+      "hardworking"
+    ],
     "zodiacSign": ""
   },
   "us-350": {
@@ -4045,9 +6266,17 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "lgbt"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "dramatic",
+      "extravagant",
+      "performer",
+      "confident"
+    ],
     "zodiacSign": ""
   },
   "us-351": {
@@ -4060,9 +6289,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "collector",
+      "reserved",
+      "nostalgic",
+      "obsessive"
+    ],
     "zodiacSign": ""
   },
   "us-352": {
@@ -4075,9 +6309,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "meticulous",
+      "anxious",
+      "bookworm",
+      "quiet"
+    ],
     "zodiacSign": ""
   },
   "us-353": {
@@ -4090,9 +6329,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "stylish",
+      "trendy",
+      "confident",
+      "youth"
+    ],
     "zodiacSign": ""
   },
   "us-354": {
@@ -4105,9 +6349,14 @@
     "ethnicity": "Chinese",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "flirty",
+      "trendy",
+      "glamorous",
+      "entrepreneurial"
+    ],
     "zodiacSign": ""
   },
   "us-355": {
@@ -4120,9 +6369,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "eccentric",
+      "secretive",
+      "quirky",
+      "deceitful"
+    ],
     "zodiacSign": ""
   },
   "us-356": {
@@ -4135,9 +6389,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "disciplined",
+      "authoritative",
+      "experienced",
+      "tough"
+    ],
     "zodiacSign": ""
   },
   "us-357": {
@@ -4150,9 +6409,14 @@
     "ethnicity": "Puerto Rican",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "street-smart",
+      "resourceful",
+      "friendly",
+      "opportunistic"
+    ],
     "zodiacSign": ""
   },
   "us-358": {
@@ -4165,9 +6429,14 @@
     "ethnicity": "Mexican",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "street-smart",
+      "cautious",
+      "opportunistic",
+      "reserved"
+    ],
     "zodiacSign": ""
   },
   "us-359": {
@@ -4180,9 +6449,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "intense",
+      "ambitious",
+      "materialistic",
+      "eccentric"
+    ],
     "zodiacSign": ""
   },
   "us-360": {
@@ -4195,9 +6469,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "gentle",
+      "quirky",
+      "creative",
+      "friendly"
+    ],
     "zodiacSign": ""
   },
   "us-361": {
@@ -4210,9 +6489,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "cheerful",
+      "health-conscious",
+      "enthusiastic",
+      "photogenic"
+    ],
     "zodiacSign": ""
   },
   "us-362": {
@@ -4225,9 +6509,14 @@
     "ethnicity": "American",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "calm",
+      "gentle",
+      "quiet",
+      "introverted"
+    ],
     "zodiacSign": ""
   },
   "us-363": {
@@ -4240,9 +6529,14 @@
     "ethnicity": "Middle Eastern",
     "economicClass": "lower",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "overworked",
+      "tired",
+      "patient",
+      "quiet"
+    ],
     "zodiacSign": ""
   },
   "us-364": {
@@ -4255,9 +6549,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "charming",
+      "calm",
+      "professional",
+      "confident"
+    ],
     "zodiacSign": ""
   },
   "us-365": {
@@ -4270,9 +6569,17 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
+    "tags": [
+      "muscular"
+    ],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "athletic",
+      "tough",
+      "disciplined",
+      "aggressive"
+    ],
     "zodiacSign": ""
   },
   "us-366": {
@@ -4285,9 +6592,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "trendy",
+      "eccentric",
+      "cheerful",
+      "stylish"
+    ],
     "zodiacSign": ""
   },
   "us-367": {
@@ -4300,9 +6612,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "anxious",
+      "vigilant",
+      "observant",
+      "serious"
+    ],
     "zodiacSign": ""
   },
   "us-368": {
@@ -4315,9 +6632,14 @@
     "ethnicity": "Mexican",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "panicked",
+      "anxious",
+      "impulsive",
+      "reckless"
+    ],
     "zodiacSign": ""
   },
   "us-369": {
@@ -4330,9 +6652,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "anxious",
+      "observant",
+      "creative",
+      "overworked"
+    ],
     "zodiacSign": ""
   },
   "us-370": {
@@ -4345,9 +6672,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "indifferent",
+      "tired",
+      "no-nonsense",
+      "hardworking"
+    ],
     "zodiacSign": ""
   },
   "us-371": {
@@ -4360,9 +6692,14 @@
     "ethnicity": "Japanese",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "intimidating",
+      "stealthy",
+      "tough",
+      "muscular"
+    ],
     "zodiacSign": ""
   },
   "us-372": {
@@ -4375,9 +6712,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "academic",
+      "neurotic",
+      "anxious",
+      "intellectual"
+    ],
     "zodiacSign": ""
   },
   "us-373": {
@@ -4390,9 +6732,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "casual",
+      "laid-back",
+      "rebellious",
+      "youthful"
+    ],
     "zodiacSign": ""
   },
   "us-374": {
@@ -4405,9 +6752,14 @@
     "ethnicity": "Arab",
     "economicClass": "lower",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "overworked",
+      "tired",
+      "cautious",
+      "hardworking"
+    ],
     "zodiacSign": ""
   },
   "us-375": {
@@ -4420,9 +6772,14 @@
     "ethnicity": "Afro-American",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "tough",
+      "aggressive",
+      "shrewd",
+      "bold"
+    ],
     "zodiacSign": ""
   },
   "us-376": {
@@ -4435,9 +6792,14 @@
     "ethnicity": "Chinese",
     "economicClass": "middle",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "flexible",
+      "uncanny",
+      "performer",
+      "quiet"
+    ],
     "zodiacSign": ""
   },
   "us-377": {
@@ -4450,9 +6812,14 @@
     "ethnicity": "Chinese",
     "economicClass": "middle",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "hardworking",
+      "meticulous",
+      "shrewd",
+      "traditional"
+    ],
     "zodiacSign": ""
   },
   "us-378": {
@@ -4465,9 +6832,14 @@
     "ethnicity": "American",
     "economicClass": "middle",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "heartbroken",
+      "dramatic",
+      "emotional",
+      "unstable"
+    ],
     "zodiacSign": ""
   },
   "us-379": {
@@ -4480,9 +6852,14 @@
     "ethnicity": "Romani",
     "economicClass": "lower",
     "educationLevel": "basic",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "eccentric",
+      "mystical",
+      "intense",
+      "dramatic"
+    ],
     "zodiacSign": ""
   },
   "us-380": {
@@ -4495,9 +6872,15 @@
     "ethnicity": "Mexican",
     "economicClass": "upper",
     "educationLevel": "college",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "dramatic",
+      "manipulative",
+      "glamorous",
+      "scheming",
+      "vengeful"
+    ],
     "zodiacSign": ""
   },
   "us-381": {
@@ -4510,9 +6893,14 @@
     "ethnicity": "American",
     "economicClass": "lower",
     "educationLevel": "none",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "artificial",
+      "synthetic",
+      "silent",
+      "quirky"
+    ],
     "zodiacSign": ""
   },
   "us-382": {
@@ -4525,9 +6913,14 @@
     "ethnicity": "Synthetic",
     "economicClass": "middle",
     "educationLevel": "none",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "artificial",
+      "logical",
+      "obedient",
+      "techie"
+    ],
     "zodiacSign": ""
   },
   "us-383": {
@@ -4540,9 +6933,14 @@
     "ethnicity": "Synthetic",
     "economicClass": "middle",
     "educationLevel": "none",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "artificial",
+      "silent",
+      "creepy",
+      "unmoving"
+    ],
     "zodiacSign": ""
   },
   "us-384": {
@@ -4555,9 +6953,14 @@
     "ethnicity": "American",
     "economicClass": "lower",
     "educationLevel": "none",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "inflatable",
+      "energetic",
+      "goofy",
+      "loud"
+    ],
     "zodiacSign": ""
   },
   "us-385": {
@@ -4570,9 +6973,14 @@
     "ethnicity": "Extraterrestrial",
     "economicClass": "upper",
     "educationLevel": "high",
-    "tags": [],
     "alignment": "",
     "mbti": "",
+    "traits": [
+      "extraterrestrial",
+      "mysterious",
+      "quiet",
+      "observant"
+    ],
     "zodiacSign": ""
   }
 }
