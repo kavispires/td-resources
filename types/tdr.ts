@@ -1,6 +1,6 @@
 // ==========================================
 // TDR TYPES
-// Version: 2.1.1
+// Version: 2.2.0
 // ==========================================
 
 // ==========================================
@@ -37,7 +37,7 @@ export type ImageDecksData = Record<string, number>;
 
 /**
  * Generic text card
- * Used for: adjectives, categories, challenges, characters, galeria-de-sonhos, labirinto-secreto,
+ * Used for: categories, challenges, characters, galeria-de-sonhos, labirinto-secreto,
  * linhas-cruzadas, scenarios, single-words, spy-questions, things-qualities, emotions, colors, descriptors,
  * tree-words, warning-signs-descriptors, warning-signs-subjects, riddle-words, ridder-conjunctions
  */
@@ -922,6 +922,10 @@ export type ItemAttributeData = {
   keywords: string;
 };
 
+/**
+ * Item Group
+ * Large collections of items based on a general group name (e.g. Mammals)
+ */
 export type ItemGroupData = {
   /**
    * Unique identifier for the group
@@ -944,6 +948,32 @@ export type ItemGroupData = {
    */
   nsfw?: boolean;
 };
+
+/**
+ * Theme Item Group
+ * More specific collections of items based on a theme (e.g. Mammals in the Jungle)
+ */
+export interface ThemeItemGroup {
+  /**
+   * Unique identifier for the group
+   */
+  id: UID;
+  /**
+   * The name of the group
+   */
+  name: DualLanguageValue;
+  /**
+   * The category of the group (being, place, object, or rarely a custom string)
+   */
+  category: 'being' | 'place' | 'object' | (string & NonNullable<unknown>);
+  /**
+   * The list of items names (and ids, if the itemId does not exist in the library, it's suffixed with `_TODO`)
+   */
+  items: {
+    itemId: UID;
+    name: DualLanguageValue;
+  }[];
+}
 
 // ==========================================
 // DAILY SETS
