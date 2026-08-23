@@ -1,15 +1,25 @@
 {
   "adj-1-pt": {
     "id": "adj-1-pt",
-    "text": "Abençoado"
+    "text": "Abençoado",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-2-pt": {
     "id": "adj-2-pt",
-    "text": "Aberto"
+    "text": "Aberto",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-3-pt": {
     "id": "adj-3-pt",
-    "text": "Acalorado"
+    "text": "Acalorado",
+    "tags": [
+      "temperature",
+      "emotion"
+    ]
   },
   "adj-4-pt": {
     "id": "adj-4-pt",
@@ -17,11 +27,17 @@
   },
   "adj-5-pt": {
     "id": "adj-5-pt",
-    "text": "Acolhedor"
+    "text": "Acolhedor",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-6-pt": {
     "id": "adj-6-pt",
-    "text": "Acrobático"
+    "text": "Acrobático",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-7-pt": {
     "id": "adj-7-pt",
@@ -29,95 +45,164 @@
   },
   "adj-8-pt": {
     "id": "adj-8-pt",
-    "text": "Admirável"
+    "text": "Admirável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-9-pt": {
     "id": "adj-9-pt",
-    "text": "Adorável"
+    "text": "Adorável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-10-pt": {
     "id": "adj-10-pt",
-    "text": "Afetuoso"
+    "text": "Afetuoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-11-pt": {
     "id": "adj-11-pt",
-    "text": "Afiado"
+    "text": "Afiado",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-12-pt": {
     "id": "adj-12-pt",
-    "text": "Ágil"
+    "text": "Ágil",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-13-pt": {
     "id": "adj-13-pt",
-    "text": "Agradável"
+    "text": "Agradável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-14-pt": {
     "id": "adj-14-pt",
-    "text": "Agradecido"
+    "text": "Agradecido",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-15-pt": {
     "id": "adj-15-pt",
-    "text": "Agressivo"
+    "text": "Agressivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-16-pt": {
     "id": "adj-16-pt",
-    "text": "Aguçado"
+    "text": "Aguçado",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-17-pt": {
     "id": "adj-17-pt",
-    "text": "Alegre"
+    "text": "Alegre",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-18-pt": {
     "id": "adj-18-pt",
-    "text": "Alerta"
+    "text": "Alerta",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-19-pt": {
     "id": "adj-19-pt",
-    "text": "Aliviado"
+    "text": "Aliviado",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-20-pt": {
     "id": "adj-20-pt",
-    "text": "Altivo"
+    "text": "Altivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-21-pt": {
     "id": "adj-21-pt",
-    "text": "Alto"
+    "text": "Alto",
+    "tags": [
+      "size"
+    ]
   },
   "adj-22-pt": {
     "id": "adj-22-pt",
-    "text": "Altruísta"
+    "text": "Altruísta",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-23-pt": {
     "id": "adj-23-pt",
-    "text": "Amargo"
+    "text": "Amargo",
+    "tags": [
+      "taste"
+    ]
   },
   "adj-24-pt": {
     "id": "adj-24-pt",
-    "text": "Amável"
+    "text": "Amável",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-25-pt": {
     "id": "adj-25-pt",
-    "text": "Ambicioso"
+    "text": "Ambicioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-26-pt": {
     "id": "adj-26-pt",
-    "text": "Ameno"
+    "text": "Ameno",
+    "tags": [
+      "temperature"
+    ]
   },
   "adj-27-pt": {
     "id": "adj-27-pt",
-    "text": "Amigável"
+    "text": "Amigável",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-28-pt": {
     "id": "adj-28-pt",
-    "text": "Amistoso"
+    "text": "Amistoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-29-pt": {
     "id": "adj-29-pt",
-    "text": "Amoroso"
+    "text": "Amoroso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-30-pt": {
     "id": "adj-30-pt",
-    "text": "Amplo"
+    "text": "Amplo",
+    "tags": [
+      "size"
+    ]
   },
   "adj-31-pt": {
     "id": "adj-31-pt",
@@ -125,47 +210,80 @@
   },
   "adj-32-pt": {
     "id": "adj-32-pt",
-    "text": "Angelical"
+    "text": "Angelical",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-33-pt": {
     "id": "adj-33-pt",
-    "text": "Animado"
+    "text": "Animado",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-34-pt": {
     "id": "adj-34-pt",
-    "text": "Ansioso"
+    "text": "Ansioso",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-35-pt": {
     "id": "adj-35-pt",
-    "text": "Antigo"
+    "text": "Antigo",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-36-pt": {
     "id": "adj-36-pt",
-    "text": "Antiquado"
+    "text": "Antiquado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-37-pt": {
     "id": "adj-37-pt",
-    "text": "Apaixonado"
+    "text": "Apaixonado",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-38-pt": {
     "id": "adj-38-pt",
-    "text": "Apaixonante"
+    "text": "Apaixonante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-39-pt": {
     "id": "adj-39-pt",
-    "text": "Apavorante"
+    "text": "Apavorante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-40-pt": {
     "id": "adj-40-pt",
-    "text": "Apelativo"
+    "text": "Apelativo",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-41-pt": {
     "id": "adj-41-pt",
-    "text": "Apimentado"
+    "text": "Apimentado",
+    "tags": [
+      "taste"
+    ]
   },
   "adj-42-pt": {
     "id": "adj-42-pt",
-    "text": "Aprazível"
+    "text": "Aprazível",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-43-pt": {
     "id": "adj-43-pt",
@@ -173,11 +291,17 @@
   },
   "adj-44-pt": {
     "id": "adj-44-pt",
-    "text": "Arrojado"
+    "text": "Arrojado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-45-pt": {
     "id": "adj-45-pt",
-    "text": "Artístico"
+    "text": "Artístico",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-46-pt": {
     "id": "adj-46-pt",
@@ -185,39 +309,66 @@
   },
   "adj-47-pt": {
     "id": "adj-47-pt",
-    "text": "Assado"
+    "text": "Assado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-48-pt": {
     "id": "adj-48-pt",
-    "text": "Assertivo"
+    "text": "Assertivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-49-pt": {
     "id": "adj-49-pt",
-    "text": "Atencioso"
+    "text": "Atencioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-50-pt": {
     "id": "adj-50-pt",
-    "text": "Atento"
+    "text": "Atento",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-51-pt": {
     "id": "adj-51-pt",
-    "text": "Ativo"
+    "text": "Ativo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-52-pt": {
     "id": "adj-52-pt",
-    "text": "Atrevido"
+    "text": "Atrevido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-53-pt": {
     "id": "adj-53-pt",
-    "text": "Audacioso"
+    "text": "Audacioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-54-pt": {
     "id": "adj-54-pt",
-    "text": "Audaz"
+    "text": "Audaz",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-55-pt": {
     "id": "adj-55-pt",
-    "text": "Autêntico"
+    "text": "Autêntico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-56-pt": {
     "id": "adj-56-pt",
@@ -225,19 +376,31 @@
   },
   "adj-57-pt": {
     "id": "adj-57-pt",
-    "text": "Aventureiro"
+    "text": "Aventureiro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-58-pt": {
     "id": "adj-58-pt",
-    "text": "Destemido"
+    "text": "Destemido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-59-pt": {
     "id": "adj-59-pt",
-    "text": "Azedo"
+    "text": "Azedo",
+    "tags": [
+      "taste"
+    ]
   },
   "adj-60-pt": {
     "id": "adj-60-pt",
-    "text": "Bagunçado"
+    "text": "Bagunçado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-61-pt": {
     "id": "adj-61-pt",
@@ -245,11 +408,17 @@
   },
   "adj-62-pt": {
     "id": "adj-62-pt",
-    "text": "Barato"
+    "text": "Barato",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-63-pt": {
     "id": "adj-63-pt",
-    "text": "Belo"
+    "text": "Belo",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-64-pt": {
     "id": "adj-64-pt",
@@ -261,15 +430,24 @@
   },
   "adj-66-pt": {
     "id": "adj-66-pt",
-    "text": "Reluzente"
+    "text": "Reluzente",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-67-pt": {
     "id": "adj-67-pt",
-    "text": "Bizarro"
+    "text": "Bizarro",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-68-pt": {
     "id": "adj-68-pt",
-    "text": "Boêmio"
+    "text": "Boêmio",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-69-pt": {
     "id": "adj-69-pt",
@@ -277,47 +455,81 @@
   },
   "adj-70-pt": {
     "id": "adj-70-pt",
-    "text": "Bondoso"
+    "text": "Bondoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-71-pt": {
     "id": "adj-71-pt",
-    "text": "Bonito"
+    "text": "Bonito",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-72-pt": {
     "id": "adj-72-pt",
-    "text": "Bravo"
+    "text": "Bravo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-73-pt": {
     "id": "adj-73-pt",
-    "text": "Brilhante"
+    "text": "Brilhante",
+    "tags": [
+      "sensory",
+      "vibe"
+    ]
   },
   "adj-74-pt": {
     "id": "adj-74-pt",
-    "text": "Brilhoso"
+    "text": "Brilhoso",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-75-pt": {
     "id": "adj-75-pt",
-    "text": "Brincalhão"
+    "text": "Brincalhão",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-76-pt": {
     "id": "adj-76-pt",
-    "text": "Burro"
+    "text": "Burro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-77-pt": {
     "id": "adj-77-pt",
-    "text": "Calmo"
+    "text": "Calmo",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-78-pt": {
     "id": "adj-78-pt",
-    "text": "Imperturbável"
+    "text": "Imperturbável",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-79-pt": {
     "id": "adj-79-pt",
-    "text": "Caloroso"
+    "text": "Caloroso",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-80-pt": {
     "id": "adj-80-pt",
-    "text": "Cansado"
+    "text": "Cansado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-81-pt": {
     "id": "adj-81-pt",
@@ -325,15 +537,24 @@
   },
   "adj-82-pt": {
     "id": "adj-82-pt",
-    "text": "Carinhoso"
+    "text": "Carinhoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-83-pt": {
     "id": "adj-83-pt",
-    "text": "Carnívoro"
+    "text": "Carnívoro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-84-pt": {
     "id": "adj-84-pt",
-    "text": "Cativante"
+    "text": "Cativante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-85-pt": {
     "id": "adj-85-pt",
@@ -341,15 +562,24 @@
   },
   "adj-86-pt": {
     "id": "adj-86-pt",
-    "text": "Celeste"
+    "text": "Celeste",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-87-pt": {
     "id": "adj-87-pt",
-    "text": "Celestial"
+    "text": "Celestial",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-88-pt": {
     "id": "adj-88-pt",
-    "text": "Centrado"
+    "text": "Centrado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-89-pt": {
     "id": "adj-89-pt",
@@ -357,11 +587,17 @@
   },
   "adj-90-pt": {
     "id": "adj-90-pt",
-    "text": "Charmoso"
+    "text": "Charmoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-91-pt": {
     "id": "adj-91-pt",
-    "text": "Chato"
+    "text": "Chato",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-92-pt": {
     "id": "adj-92-pt",
@@ -369,7 +605,10 @@
   },
   "adj-93-pt": {
     "id": "adj-93-pt",
-    "text": "Claro"
+    "text": "Claro",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-94-pt": {
     "id": "adj-94-pt",
@@ -377,23 +616,38 @@
   },
   "adj-95-pt": {
     "id": "adj-95-pt",
-    "text": "Colorido"
+    "text": "Colorido",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-96-pt": {
     "id": "adj-96-pt",
-    "text": "Comestível"
+    "text": "Comestível",
+    "tags": [
+      "taste"
+    ]
   },
   "adj-97-pt": {
     "id": "adj-97-pt",
-    "text": "Cômico"
+    "text": "Cômico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-98-pt": {
     "id": "adj-98-pt",
-    "text": "Compacto"
+    "text": "Compacto",
+    "tags": [
+      "size"
+    ]
   },
   "adj-99-pt": {
     "id": "adj-99-pt",
-    "text": "Companheiro"
+    "text": "Companheiro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-100-pt": {
     "id": "adj-100-pt",
@@ -401,7 +655,10 @@
   },
   "adj-101-pt": {
     "id": "adj-101-pt",
-    "text": "Competitivo"
+    "text": "Competitivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-102-pt": {
     "id": "adj-102-pt",
@@ -421,7 +678,10 @@
   },
   "adj-106-pt": {
     "id": "adj-106-pt",
-    "text": "Compreensivo"
+    "text": "Compreensivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-107-pt": {
     "id": "adj-107-pt",
@@ -429,7 +689,10 @@
   },
   "adj-108-pt": {
     "id": "adj-108-pt",
-    "text": "Comum"
+    "text": "Comum",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-109-pt": {
     "id": "adj-109-pt",
@@ -441,7 +704,10 @@
   },
   "adj-111-pt": {
     "id": "adj-111-pt",
-    "text": "Confiante"
+    "text": "Confiante",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-112-pt": {
     "id": "adj-112-pt",
@@ -449,15 +715,24 @@
   },
   "adj-113-pt": {
     "id": "adj-113-pt",
-    "text": "Confortante"
+    "text": "Confortante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-114-pt": {
     "id": "adj-114-pt",
-    "text": "Confortável"
+    "text": "Confortável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-115-pt": {
     "id": "adj-115-pt",
-    "text": "Congelado"
+    "text": "Congelado",
+    "tags": [
+      "temperature"
+    ]
   },
   "adj-116-pt": {
     "id": "adj-116-pt",
@@ -473,19 +748,31 @@
   },
   "adj-119-pt": {
     "id": "adj-119-pt",
-    "text": "Contagiante"
+    "text": "Contagiante",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-120-pt": {
     "id": "adj-120-pt",
-    "text": "Contagioso"
+    "text": "Contagioso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-121-pt": {
     "id": "adj-121-pt",
-    "text": "Contemplativo"
+    "text": "Contemplativo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-122-pt": {
     "id": "adj-122-pt",
-    "text": "Contemporâneo"
+    "text": "Contemporâneo",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-123-pt": {
     "id": "adj-123-pt",
@@ -497,15 +784,24 @@
   },
   "adj-125-pt": {
     "id": "adj-125-pt",
-    "text": "Convicto"
+    "text": "Convicto",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-126-pt": {
     "id": "adj-126-pt",
-    "text": "Corajoso"
+    "text": "Corajoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-127-pt": {
     "id": "adj-127-pt",
-    "text": "Cordial"
+    "text": "Cordial",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-128-pt": {
     "id": "adj-128-pt",
@@ -513,51 +809,87 @@
   },
   "adj-129-pt": {
     "id": "adj-129-pt",
-    "text": "Cortês"
+    "text": "Cortês",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-130-pt": {
     "id": "adj-130-pt",
-    "text": "Criativo"
+    "text": "Criativo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-131-pt": {
     "id": "adj-131-pt",
-    "text": "Cristalino"
+    "text": "Cristalino",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-132-pt": {
     "id": "adj-132-pt",
-    "text": "Crocante"
+    "text": "Crocante",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-133-pt": {
     "id": "adj-133-pt",
-    "text": "Cruel"
+    "text": "Cruel",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-134-pt": {
     "id": "adj-134-pt",
-    "text": "Cuidadoso"
+    "text": "Cuidadoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-135-pt": {
     "id": "adj-135-pt",
-    "text": "Culto"
+    "text": "Culto",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-136-pt": {
     "id": "adj-136-pt",
-    "text": "Curioso"
+    "text": "Curioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-137-pt": {
     "id": "adj-137-pt",
-    "text": "Curto"
+    "text": "Curto",
+    "tags": [
+      "size"
+    ]
   },
   "adj-138-pt": {
     "id": "adj-138-pt",
-    "text": "Curvado"
+    "text": "Curvado",
+    "tags": [
+      "shape"
+    ]
   },
   "adj-139-pt": {
     "id": "adj-139-pt",
-    "text": "Decidido"
+    "text": "Decidido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-140-pt": {
     "id": "adj-140-pt",
-    "text": "Dedicado"
+    "text": "Dedicado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-141-pt": {
     "id": "adj-141-pt",
@@ -565,11 +897,17 @@
   },
   "adj-142-pt": {
     "id": "adj-142-pt",
-    "text": "Delicado"
+    "text": "Delicado",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-143-pt": {
     "id": "adj-143-pt",
-    "text": "Delicioso"
+    "text": "Delicioso",
+    "tags": [
+      "taste"
+    ]
   },
   "adj-144-pt": {
     "id": "adj-144-pt",
@@ -577,23 +915,38 @@
   },
   "adj-145-pt": {
     "id": "adj-145-pt",
-    "text": "Deslumbrante"
+    "text": "Deslumbrante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-146-pt": {
     "id": "adj-146-pt",
-    "text": "Desprezado"
+    "text": "Desprezado",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-147-pt": {
     "id": "adj-147-pt",
-    "text": "Destrutivo"
+    "text": "Destrutivo",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-148-pt": {
     "id": "adj-148-pt",
-    "text": "Determinado"
+    "text": "Determinado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-149-pt": {
     "id": "adj-149-pt",
-    "text": "Devoto"
+    "text": "Devoto",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-150-pt": {
     "id": "adj-150-pt",
@@ -601,15 +954,24 @@
   },
   "adj-151-pt": {
     "id": "adj-151-pt",
-    "text": "Dinâmico"
+    "text": "Dinâmico",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-152-pt": {
     "id": "adj-152-pt",
-    "text": "Disciplinado"
+    "text": "Disciplinado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-153-pt": {
     "id": "adj-153-pt",
-    "text": "Distinto"
+    "text": "Distinto",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-154-pt": {
     "id": "adj-154-pt",
@@ -617,43 +979,73 @@
   },
   "adj-155-pt": {
     "id": "adj-155-pt",
-    "text": "Divertido"
+    "text": "Divertido",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-156-pt": {
     "id": "adj-156-pt",
-    "text": "Divino"
+    "text": "Divino",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-157-pt": {
     "id": "adj-157-pt",
-    "text": "Dobrado"
+    "text": "Dobrado",
+    "tags": [
+      "shape"
+    ]
   },
   "adj-158-pt": {
     "id": "adj-158-pt",
-    "text": "Doce"
+    "text": "Doce",
+    "tags": [
+      "taste"
+    ]
   },
   "adj-159-pt": {
     "id": "adj-159-pt",
-    "text": "Doloroso"
+    "text": "Doloroso",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-160-pt": {
     "id": "adj-160-pt",
-    "text": "Dominante"
+    "text": "Dominante",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-161-pt": {
     "id": "adj-161-pt",
-    "text": "Dramático"
+    "text": "Dramático",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-162-pt": {
     "id": "adj-162-pt",
-    "text": "Duradouro"
+    "text": "Duradouro",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-163-pt": {
     "id": "adj-163-pt",
-    "text": "Duro"
+    "text": "Duro",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-164-pt": {
     "id": "adj-164-pt",
-    "text": "Eclético"
+    "text": "Eclético",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-165-pt": {
     "id": "adj-165-pt",
@@ -661,11 +1053,18 @@
   },
   "adj-166-pt": {
     "id": "adj-166-pt",
-    "text": "Educado"
+    "text": "Educado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-167-pt": {
     "id": "adj-167-pt",
-    "text": "Efervescente"
+    "text": "Efervescente",
+    "tags": [
+      "texture",
+      "sensory"
+    ]
   },
   "adj-168-pt": {
     "id": "adj-168-pt",
@@ -677,91 +1076,157 @@
   },
   "adj-170-pt": {
     "id": "adj-170-pt",
-    "text": "Egoísta"
+    "text": "Egoísta",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-171-pt": {
     "id": "adj-171-pt",
-    "text": "Elaborado"
+    "text": "Elaborado",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-172-pt": {
     "id": "adj-172-pt",
-    "text": "Elegante"
+    "text": "Elegante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-173-pt": {
     "id": "adj-173-pt",
-    "text": "Elétrico"
+    "text": "Elétrico",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-174-pt": {
     "id": "adj-174-pt",
-    "text": "Embalado"
+    "text": "Embalado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-175-pt": {
     "id": "adj-175-pt",
-    "text": "Emocionante"
+    "text": "Emocionante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-176-pt": {
     "id": "adj-176-pt",
-    "text": "Empático"
+    "text": "Empático",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-177-pt": {
     "id": "adj-177-pt",
-    "text": "Empreendedor"
+    "text": "Empreendedor",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-178-pt": {
     "id": "adj-178-pt",
-    "text": "Encantador"
+    "text": "Encantador",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-179-pt": {
     "id": "adj-179-pt",
-    "text": "Energético"
+    "text": "Energético",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-180-pt": {
     "id": "adj-180-pt",
-    "text": "Enérgico"
+    "text": "Enérgico",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-181-pt": {
     "id": "adj-181-pt",
-    "text": "Energizado"
+    "text": "Energizado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-182-pt": {
     "id": "adj-182-pt",
-    "text": "Enfadado"
+    "text": "Enfadado",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-183-pt": {
     "id": "adj-183-pt",
-    "text": "Engenhoso"
+    "text": "Engenhoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-184-pt": {
     "id": "adj-184-pt",
-    "text": "Engraçado"
+    "text": "Engraçado",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-185-pt": {
     "id": "adj-185-pt",
-    "text": "Enigmático"
+    "text": "Enigmático",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-186-pt": {
     "id": "adj-186-pt",
-    "text": "Enorme"
+    "text": "Enorme",
+    "tags": [
+      "size"
+    ]
   },
   "adj-187-pt": {
     "id": "adj-187-pt",
-    "text": "Ensolarado"
+    "text": "Ensolarado",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-188-pt": {
     "id": "adj-188-pt",
-    "text": "Ensurdecedor"
+    "text": "Ensurdecedor",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-189-pt": {
     "id": "adj-189-pt",
-    "text": "Entusiasmado"
+    "text": "Entusiasmado",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-190-pt": {
     "id": "adj-190-pt",
-    "text": "Ardoroso"
+    "text": "Ardoroso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-191-pt": {
     "id": "adj-191-pt",
-    "text": "Envolvente"
+    "text": "Envolvente",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-192-pt": {
     "id": "adj-192-pt",
@@ -769,15 +1234,24 @@
   },
   "adj-193-pt": {
     "id": "adj-193-pt",
-    "text": "Especial"
+    "text": "Especial",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-194-pt": {
     "id": "adj-194-pt",
-    "text": "Esperto"
+    "text": "Esperto",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-195-pt": {
     "id": "adj-195-pt",
-    "text": "Espiritual"
+    "text": "Espiritual",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-196-pt": {
     "id": "adj-196-pt",
@@ -785,7 +1259,10 @@
   },
   "adj-197-pt": {
     "id": "adj-197-pt",
-    "text": "Estelar"
+    "text": "Estelar",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-198-pt": {
     "id": "adj-198-pt",
@@ -793,15 +1270,24 @@
   },
   "adj-199-pt": {
     "id": "adj-199-pt",
-    "text": "Estimulante"
+    "text": "Estimulante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-200-pt": {
     "id": "adj-200-pt",
-    "text": "Estonteante"
+    "text": "Estonteante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-201-pt": {
     "id": "adj-201-pt",
-    "text": "Estranho"
+    "text": "Estranho",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-202-pt": {
     "id": "adj-202-pt",
@@ -809,15 +1295,24 @@
   },
   "adj-203-pt": {
     "id": "adj-203-pt",
-    "text": "Estupendo"
+    "text": "Estupendo",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-204-pt": {
     "id": "adj-204-pt",
-    "text": "Estúpido"
+    "text": "Estúpido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-205-pt": {
     "id": "adj-205-pt",
-    "text": "Eterno"
+    "text": "Eterno",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-206-pt": {
     "id": "adj-206-pt",
@@ -825,27 +1320,45 @@
   },
   "adj-207-pt": {
     "id": "adj-207-pt",
-    "text": "Excelente"
+    "text": "Excelente",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-208-pt": {
     "id": "adj-208-pt",
-    "text": "Excêntrico"
+    "text": "Excêntrico",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-209-pt": {
     "id": "adj-209-pt",
-    "text": "Excepcional"
+    "text": "Excepcional",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-210-pt": {
     "id": "adj-210-pt",
-    "text": "Excitante"
+    "text": "Excitante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-211-pt": {
     "id": "adj-211-pt",
-    "text": "Exigente"
+    "text": "Exigente",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-212-pt": {
     "id": "adj-212-pt",
-    "text": "Exótico"
+    "text": "Exótico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-213-pt": {
     "id": "adj-213-pt",
@@ -853,23 +1366,38 @@
   },
   "adj-214-pt": {
     "id": "adj-214-pt",
-    "text": "Explorador"
+    "text": "Explorador",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-215-pt": {
     "id": "adj-215-pt",
-    "text": "Expressivo"
+    "text": "Expressivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-216-pt": {
     "id": "adj-216-pt",
-    "text": "Extraordinário"
+    "text": "Extraordinário",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-217-pt": {
     "id": "adj-217-pt",
-    "text": "Extrovertido"
+    "text": "Extrovertido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-218-pt": {
     "id": "adj-218-pt",
-    "text": "Fabuloso"
+    "text": "Fabuloso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-219-pt": {
     "id": "adj-219-pt",
@@ -877,27 +1405,45 @@
   },
   "adj-220-pt": {
     "id": "adj-220-pt",
-    "text": "Fantasioso"
+    "text": "Fantasioso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-221-pt": {
     "id": "adj-221-pt",
-    "text": "Fascinante"
+    "text": "Fascinante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-222-pt": {
     "id": "adj-222-pt",
-    "text": "Fedorento"
+    "text": "Fedorento",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-223-pt": {
     "id": "adj-223-pt",
-    "text": "Feio"
+    "text": "Feio",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-224-pt": {
     "id": "adj-224-pt",
-    "text": "Feliz"
+    "text": "Feliz",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-225-pt": {
     "id": "adj-225-pt",
-    "text": "Feroz"
+    "text": "Feroz",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-226-pt": {
     "id": "adj-226-pt",
@@ -905,7 +1451,10 @@
   },
   "adj-227-pt": {
     "id": "adj-227-pt",
-    "text": "Festeiro"
+    "text": "Festeiro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-228-pt": {
     "id": "adj-228-pt",
@@ -913,7 +1462,10 @@
   },
   "adj-229-pt": {
     "id": "adj-229-pt",
-    "text": "Fiel"
+    "text": "Fiel",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-230-pt": {
     "id": "adj-230-pt",
@@ -921,15 +1473,25 @@
   },
   "adj-231-pt": {
     "id": "adj-231-pt",
-    "text": "Fino"
+    "text": "Fino",
+    "tags": [
+      "size",
+      "texture"
+    ]
   },
   "adj-232-pt": {
     "id": "adj-232-pt",
-    "text": "Firme"
+    "text": "Firme",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-233-pt": {
     "id": "adj-233-pt",
-    "text": "Flexível"
+    "text": "Flexível",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-234-pt": {
     "id": "adj-234-pt",
@@ -937,43 +1499,74 @@
   },
   "adj-235-pt": {
     "id": "adj-235-pt",
-    "text": "Fluido"
+    "text": "Fluido",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-236-pt": {
     "id": "adj-236-pt",
-    "text": "Focado"
+    "text": "Focado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-237-pt": {
     "id": "adj-237-pt",
-    "text": "Formidável"
+    "text": "Formidável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-238-pt": {
     "id": "adj-238-pt",
-    "text": "Forte"
+    "text": "Forte",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-239-pt": {
     "id": "adj-239-pt",
-    "text": "Fraco"
+    "text": "Fraco",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-240-pt": {
     "id": "adj-240-pt",
-    "text": "Frágil"
+    "text": "Frágil",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-241-pt": {
     "id": "adj-241-pt",
-    "text": "Franco"
+    "text": "Franco",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-242-pt": {
     "id": "adj-242-pt",
-    "text": "Fraterno"
+    "text": "Fraterno",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-243-pt": {
     "id": "adj-243-pt",
-    "text": "Fresco"
+    "text": "Fresco",
+    "tags": [
+      "temperature",
+      "condition"
+    ]
   },
   "adj-244-pt": {
     "id": "adj-244-pt",
-    "text": "Frio"
+    "text": "Frio",
+    "tags": [
+      "temperature"
+    ]
   },
   "adj-245-pt": {
     "id": "adj-245-pt",
@@ -981,59 +1574,101 @@
   },
   "adj-246-pt": {
     "id": "adj-246-pt",
-    "text": "Futurista"
+    "text": "Futurista",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-247-pt": {
     "id": "adj-247-pt",
-    "text": "Galante"
+    "text": "Galante",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-248-pt": {
     "id": "adj-248-pt",
-    "text": "Ganancioso"
+    "text": "Ganancioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-249-pt": {
     "id": "adj-249-pt",
-    "text": "Gelado"
+    "text": "Gelado",
+    "tags": [
+      "temperature"
+    ]
   },
   "adj-250-pt": {
     "id": "adj-250-pt",
-    "text": "Generoso"
+    "text": "Generoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-251-pt": {
     "id": "adj-251-pt",
-    "text": "Genial"
+    "text": "Genial",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-252-pt": {
     "id": "adj-252-pt",
-    "text": "Gentil"
+    "text": "Gentil",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-253-pt": {
     "id": "adj-253-pt",
-    "text": "Gigante"
+    "text": "Gigante",
+    "tags": [
+      "size"
+    ]
   },
   "adj-254-pt": {
     "id": "adj-254-pt",
-    "text": "Gigantesco"
+    "text": "Gigantesco",
+    "tags": [
+      "size"
+    ]
   },
   "adj-255-pt": {
     "id": "adj-255-pt",
-    "text": "Glacial"
+    "text": "Glacial",
+    "tags": [
+      "temperature"
+    ]
   },
   "adj-256-pt": {
     "id": "adj-256-pt",
-    "text": "Glorioso"
+    "text": "Glorioso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-257-pt": {
     "id": "adj-257-pt",
-    "text": "Gordo"
+    "text": "Gordo",
+    "tags": [
+      "size"
+    ]
   },
   "adj-258-pt": {
     "id": "adj-258-pt",
-    "text": "Gostoso"
+    "text": "Gostoso",
+    "tags": [
+      "taste"
+    ]
   },
   "adj-259-pt": {
     "id": "adj-259-pt",
-    "text": "Gracioso"
+    "text": "Gracioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-260-pt": {
     "id": "adj-260-pt",
@@ -1041,71 +1676,123 @@
   },
   "adj-261-pt": {
     "id": "adj-261-pt",
-    "text": "Grande"
+    "text": "Grande",
+    "tags": [
+      "size"
+    ]
   },
   "adj-262-pt": {
     "id": "adj-262-pt",
-    "text": "Grandioso"
+    "text": "Grandioso",
+    "tags": [
+      "size",
+      "vibe"
+    ]
   },
   "adj-263-pt": {
     "id": "adj-263-pt",
-    "text": "Gratificante"
+    "text": "Gratificante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-264-pt": {
     "id": "adj-264-pt",
-    "text": "Grato"
+    "text": "Grato",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-265-pt": {
     "id": "adj-265-pt",
-    "text": "Gregário"
+    "text": "Gregário",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-266-pt": {
     "id": "adj-266-pt",
-    "text": "Grotesco"
+    "text": "Grotesco",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-267-pt": {
     "id": "adj-267-pt",
-    "text": "Habilidoso"
+    "text": "Habilidoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-268-pt": {
     "id": "adj-268-pt",
-    "text": "Harmonioso"
+    "text": "Harmonioso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-269-pt": {
     "id": "adj-269-pt",
-    "text": "Heroico"
+    "text": "Heroico",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-270-pt": {
     "id": "adj-270-pt",
-    "text": "Hesitante"
+    "text": "Hesitante",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-271-pt": {
     "id": "adj-271-pt",
-    "text": "Higiênico"
+    "text": "Higiênico",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-272-pt": {
     "id": "adj-272-pt",
-    "text": "Hilariante"
+    "text": "Hilariante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-273-pt": {
     "id": "adj-273-pt",
-    "text": "Engraçadíssimo"
+    "text": "Engraçadíssimo",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-274-pt": {
     "id": "adj-274-pt",
-    "text": "Histórico"
+    "text": "Histórico",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-275-pt": {
     "id": "adj-275-pt",
-    "text": "Honesto"
+    "text": "Honesto",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-276-pt": {
     "id": "adj-276-pt",
-    "text": "Honrado"
+    "text": "Honrado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-277-pt": {
     "id": "adj-277-pt",
-    "text": "Hostil"
+    "text": "Hostil",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-278-pt": {
     "id": "adj-278-pt",
@@ -1117,23 +1804,38 @@
   },
   "adj-280-pt": {
     "id": "adj-280-pt",
-    "text": "Humilde"
+    "text": "Humilde",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-281-pt": {
     "id": "adj-281-pt",
-    "text": "Idealista"
+    "text": "Idealista",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-282-pt": {
     "id": "adj-282-pt",
-    "text": "Iluminado"
+    "text": "Iluminado",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-283-pt": {
     "id": "adj-283-pt",
-    "text": "Imaginário"
+    "text": "Imaginário",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-284-pt": {
     "id": "adj-284-pt",
-    "text": "Imaginativo"
+    "text": "Imaginativo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-285-pt": {
     "id": "adj-285-pt",
@@ -1141,35 +1843,59 @@
   },
   "adj-286-pt": {
     "id": "adj-286-pt",
-    "text": "Impressionante"
+    "text": "Impressionante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-287-pt": {
     "id": "adj-287-pt",
-    "text": "Incansável"
+    "text": "Incansável",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-288-pt": {
     "id": "adj-288-pt",
-    "text": "Inchado"
+    "text": "Inchado",
+    "tags": [
+      "size"
+    ]
   },
   "adj-289-pt": {
     "id": "adj-289-pt",
-    "text": "Incomparável"
+    "text": "Incomparável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-290-pt": {
     "id": "adj-290-pt",
-    "text": "Incomum"
+    "text": "Incomum",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-291-pt": {
     "id": "adj-291-pt",
-    "text": "Incrível"
+    "text": "Incrível",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-292-pt": {
     "id": "adj-292-pt",
-    "text": "Independente"
+    "text": "Independente",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-293-pt": {
     "id": "adj-293-pt",
-    "text": "Indomável"
+    "text": "Indomável",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-294-pt": {
     "id": "adj-294-pt",
@@ -1177,7 +1903,10 @@
   },
   "adj-295-pt": {
     "id": "adj-295-pt",
-    "text": "Infantil"
+    "text": "Infantil",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-296-pt": {
     "id": "adj-296-pt",
@@ -1185,67 +1914,115 @@
   },
   "adj-297-pt": {
     "id": "adj-297-pt",
-    "text": "Inovador"
+    "text": "Inovador",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-298-pt": {
     "id": "adj-298-pt",
-    "text": "Inspirador"
+    "text": "Inspirador",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-299-pt": {
     "id": "adj-299-pt",
-    "text": "Instigante"
+    "text": "Instigante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-300-pt": {
     "id": "adj-300-pt",
-    "text": "Inteligente"
+    "text": "Inteligente",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-301-pt": {
     "id": "adj-301-pt",
-    "text": "Intenso"
+    "text": "Intenso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-302-pt": {
     "id": "adj-302-pt",
-    "text": "Interessante"
+    "text": "Interessante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-303-pt": {
     "id": "adj-303-pt",
-    "text": "Intrépido"
+    "text": "Intrépido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-304-pt": {
     "id": "adj-304-pt",
-    "text": "Intuitivo"
+    "text": "Intuitivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-305-pt": {
     "id": "adj-305-pt",
-    "text": "Invejável"
+    "text": "Invejável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-306-pt": {
     "id": "adj-306-pt",
-    "text": "Irresistível"
+    "text": "Irresistível",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-307-pt": {
     "id": "adj-307-pt",
-    "text": "Irritadiço"
+    "text": "Irritadiço",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-308-pt": {
     "id": "adj-308-pt",
-    "text": "Isolado"
+    "text": "Isolado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-309-pt": {
     "id": "adj-309-pt",
-    "text": "Jovem"
+    "text": "Jovem",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-310-pt": {
     "id": "adj-310-pt",
-    "text": "Jovial"
+    "text": "Jovial",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-311-pt": {
     "id": "adj-311-pt",
-    "text": "Jubilante"
+    "text": "Jubilante",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-312-pt": {
     "id": "adj-312-pt",
-    "text": "Jubiloso"
+    "text": "Jubiloso",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-313-pt": {
     "id": "adj-313-pt",
@@ -1253,23 +2030,38 @@
   },
   "adj-314-pt": {
     "id": "adj-314-pt",
-    "text": "Juvenil"
+    "text": "Juvenil",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-315-pt": {
     "id": "adj-315-pt",
-    "text": "Leal"
+    "text": "Leal",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-316-pt": {
     "id": "adj-316-pt",
-    "text": "Legal"
+    "text": "Legal",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-317-pt": {
     "id": "adj-317-pt",
-    "text": "Lento"
+    "text": "Lento",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-318-pt": {
     "id": "adj-318-pt",
-    "text": "Leve"
+    "text": "Leve",
+    "tags": [
+      "size"
+    ]
   },
   "adj-319-pt": {
     "id": "adj-319-pt",
@@ -1277,19 +2069,31 @@
   },
   "adj-320-pt": {
     "id": "adj-320-pt",
-    "text": "Libertador"
+    "text": "Libertador",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-321-pt": {
     "id": "adj-321-pt",
-    "text": "Límpido"
+    "text": "Límpido",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-322-pt": {
     "id": "adj-322-pt",
-    "text": "Lindo"
+    "text": "Lindo",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-323-pt": {
     "id": "adj-323-pt",
-    "text": "Lírico"
+    "text": "Lírico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-324-pt": {
     "id": "adj-324-pt",
@@ -1297,7 +2101,10 @@
   },
   "adj-325-pt": {
     "id": "adj-325-pt",
-    "text": "Longo"
+    "text": "Longo",
+    "tags": [
+      "size"
+    ]
   },
   "adj-326-pt": {
     "id": "adj-326-pt",
@@ -1305,151 +2112,262 @@
   },
   "adj-327-pt": {
     "id": "adj-327-pt",
-    "text": "Luminoso"
+    "text": "Luminoso",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-328-pt": {
     "id": "adj-328-pt",
-    "text": "Luxuoso"
+    "text": "Luxuoso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-329-pt": {
     "id": "adj-329-pt",
-    "text": "Maciço"
+    "text": "Maciço",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-330-pt": {
     "id": "adj-330-pt",
-    "text": "Macio"
+    "text": "Macio",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-331-pt": {
     "id": "adj-331-pt",
-    "text": "Maduro"
+    "text": "Maduro",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-332-pt": {
     "id": "adj-332-pt",
-    "text": "Mágico"
+    "text": "Mágico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-333-pt": {
     "id": "adj-333-pt",
-    "text": "Magnífico"
+    "text": "Magnífico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-334-pt": {
     "id": "adj-334-pt",
-    "text": "Majestoso"
+    "text": "Majestoso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-335-pt": {
     "id": "adj-335-pt",
-    "text": "Malicioso"
+    "text": "Malicioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-336-pt": {
     "id": "adj-336-pt",
-    "text": "Maluco"
+    "text": "Maluco",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-337-pt": {
     "id": "adj-337-pt",
-    "text": "Maravilhoso"
+    "text": "Maravilhoso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-338-pt": {
     "id": "adj-338-pt",
-    "text": "Marcante"
+    "text": "Marcante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-339-pt": {
     "id": "adj-339-pt",
-    "text": "Mau"
+    "text": "Mau",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-340-pt": {
     "id": "adj-340-pt",
-    "text": "Medieval"
+    "text": "Medieval",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-341-pt": {
     "id": "adj-341-pt",
-    "text": "Medíocre"
+    "text": "Medíocre",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-342-pt": {
     "id": "adj-342-pt",
-    "text": "Meigo"
+    "text": "Meigo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-343-pt": {
     "id": "adj-343-pt",
-    "text": "Metálico"
+    "text": "Metálico",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-344-pt": {
     "id": "adj-344-pt",
-    "text": "Meticuloso"
+    "text": "Meticuloso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-345-pt": {
     "id": "adj-345-pt",
-    "text": "Militante"
+    "text": "Militante",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-346-pt": {
     "id": "adj-346-pt",
-    "text": "Minúsculo"
+    "text": "Minúsculo",
+    "tags": [
+      "size"
+    ]
   },
   "adj-347-pt": {
     "id": "adj-347-pt",
-    "text": "Miserável"
+    "text": "Miserável",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-348-pt": {
     "id": "adj-348-pt",
-    "text": "Misterioso"
+    "text": "Misterioso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-349-pt": {
     "id": "adj-349-pt",
-    "text": "Moderno"
+    "text": "Moderno",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-350-pt": {
     "id": "adj-350-pt",
-    "text": "Modesto"
+    "text": "Modesto",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-351-pt": {
     "id": "adj-351-pt",
-    "text": "Mole"
+    "text": "Mole",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-352-pt": {
     "id": "adj-352-pt",
-    "text": "Mortal"
+    "text": "Mortal",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-353-pt": {
     "id": "adj-353-pt",
-    "text": "Motivador"
+    "text": "Motivador",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-354-pt": {
     "id": "adj-354-pt",
-    "text": "Murcho"
+    "text": "Murcho",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-355-pt": {
     "id": "adj-355-pt",
-    "text": "Musical"
+    "text": "Musical",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-356-pt": {
     "id": "adj-356-pt",
-    "text": "Natural"
+    "text": "Natural",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-357-pt": {
     "id": "adj-357-pt",
-    "text": "Nefasto"
+    "text": "Nefasto",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-358-pt": {
     "id": "adj-358-pt",
-    "text": "Nobre"
+    "text": "Nobre",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-359-pt": {
     "id": "adj-359-pt",
-    "text": "Nojento"
+    "text": "Nojento",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-360-pt": {
     "id": "adj-360-pt",
-    "text": "Nostálgico"
+    "text": "Nostálgico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-361-pt": {
     "id": "adj-361-pt",
-    "text": "Notável"
+    "text": "Notável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-362-pt": {
     "id": "adj-362-pt",
-    "text": "Noturno"
+    "text": "Noturno",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-363-pt": {
     "id": "adj-363-pt",
-    "text": "Nublado"
+    "text": "Nublado",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-364-pt": {
     "id": "adj-364-pt",
@@ -1457,63 +2375,108 @@
   },
   "adj-365-pt": {
     "id": "adj-365-pt",
-    "text": "Otimista"
+    "text": "Otimista",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-366-pt": {
     "id": "adj-366-pt",
-    "text": "Ousado"
+    "text": "Ousado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-367-pt": {
     "id": "adj-367-pt",
-    "text": "Paciente"
+    "text": "Paciente",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-368-pt": {
     "id": "adj-368-pt",
-    "text": "Pacífico"
+    "text": "Pacífico",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-369-pt": {
     "id": "adj-369-pt",
-    "text": "Palpitante"
+    "text": "Palpitante",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-370-pt": {
     "id": "adj-370-pt",
-    "text": "Parrudo"
+    "text": "Parrudo",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-371-pt": {
     "id": "adj-371-pt",
-    "text": "Peculiar"
+    "text": "Peculiar",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-372-pt": {
     "id": "adj-372-pt",
-    "text": "Pegajoso"
+    "text": "Pegajoso",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-373-pt": {
     "id": "adj-373-pt",
-    "text": "Peludo"
+    "text": "Peludo",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-374-pt": {
     "id": "adj-374-pt",
-    "text": "Perfeito"
+    "text": "Perfeito",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-375-pt": {
     "id": "adj-375-pt",
-    "text": "Perigoso"
+    "text": "Perigoso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-376-pt": {
     "id": "adj-376-pt",
-    "text": "Perspicaz"
+    "text": "Perspicaz",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-377-pt": {
     "id": "adj-377-pt",
-    "text": "Perturbador"
+    "text": "Perturbador",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-378-pt": {
     "id": "adj-378-pt",
-    "text": "Pobre"
+    "text": "Pobre",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-379-pt": {
     "id": "adj-379-pt",
-    "text": "Poderoso"
+    "text": "Poderoso",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-380-pt": {
     "id": "adj-380-pt",
@@ -1521,19 +2484,31 @@
   },
   "adj-381-pt": {
     "id": "adj-381-pt",
-    "text": "Pomposo"
+    "text": "Pomposo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-382-pt": {
     "id": "adj-382-pt",
-    "text": "Popular"
+    "text": "Popular",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-383-pt": {
     "id": "adj-383-pt",
-    "text": "Portátil"
+    "text": "Portátil",
+    "tags": [
+      "size"
+    ]
   },
   "adj-384-pt": {
     "id": "adj-384-pt",
-    "text": "Positivo"
+    "text": "Positivo",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-385-pt": {
     "id": "adj-385-pt",
@@ -1541,7 +2516,10 @@
   },
   "adj-386-pt": {
     "id": "adj-386-pt",
-    "text": "Precioso"
+    "text": "Precioso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-387-pt": {
     "id": "adj-387-pt",
@@ -1549,11 +2527,17 @@
   },
   "adj-388-pt": {
     "id": "adj-388-pt",
-    "text": "Pretensioso"
+    "text": "Pretensioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-389-pt": {
     "id": "adj-389-pt",
-    "text": "Proativo"
+    "text": "Proativo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-390-pt": {
     "id": "adj-390-pt",
@@ -1565,11 +2549,17 @@
   },
   "adj-392-pt": {
     "id": "adj-392-pt",
-    "text": "Profissional"
+    "text": "Profissional",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-393-pt": {
     "id": "adj-393-pt",
-    "text": "Profundo"
+    "text": "Profundo",
+    "tags": [
+      "size"
+    ]
   },
   "adj-394-pt": {
     "id": "adj-394-pt",
@@ -1585,11 +2575,17 @@
   },
   "adj-397-pt": {
     "id": "adj-397-pt",
-    "text": "Prudente"
+    "text": "Prudente",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-398-pt": {
     "id": "adj-398-pt",
-    "text": "Puro"
+    "text": "Puro",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-399-pt": {
     "id": "adj-399-pt",
@@ -1597,39 +2593,66 @@
   },
   "adj-400-pt": {
     "id": "adj-400-pt",
-    "text": "Quebrado"
+    "text": "Quebrado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-401-pt": {
     "id": "adj-401-pt",
-    "text": "Quente"
+    "text": "Quente",
+    "tags": [
+      "temperature"
+    ]
   },
   "adj-402-pt": {
     "id": "adj-402-pt",
-    "text": "Querido"
+    "text": "Querido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-403-pt": {
     "id": "adj-403-pt",
-    "text": "Questionável"
+    "text": "Questionável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-404-pt": {
     "id": "adj-404-pt",
-    "text": "Quieto"
+    "text": "Quieto",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-405-pt": {
     "id": "adj-405-pt",
-    "text": "Rabugento"
+    "text": "Rabugento",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-406-pt": {
     "id": "adj-406-pt",
-    "text": "Radiante"
+    "text": "Radiante",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-407-pt": {
     "id": "adj-407-pt",
-    "text": "Rápido"
+    "text": "Rápido",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-408-pt": {
     "id": "adj-408-pt",
-    "text": "Raro"
+    "text": "Raro",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-409-pt": {
     "id": "adj-409-pt",
@@ -1637,47 +2660,80 @@
   },
   "adj-410-pt": {
     "id": "adj-410-pt",
-    "text": "Realizado"
+    "text": "Realizado",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-411-pt": {
     "id": "adj-411-pt",
-    "text": "Recatado"
+    "text": "Recatado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-412-pt": {
     "id": "adj-412-pt",
-    "text": "Receptivo"
+    "text": "Receptivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-413-pt": {
     "id": "adj-413-pt",
-    "text": "Reconfortante"
+    "text": "Reconfortante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-414-pt": {
     "id": "adj-414-pt",
-    "text": "Redondo"
+    "text": "Redondo",
+    "tags": [
+      "shape"
+    ]
   },
   "adj-415-pt": {
     "id": "adj-415-pt",
-    "text": "Refinado"
+    "text": "Refinado",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-416-pt": {
     "id": "adj-416-pt",
-    "text": "Reflexivo"
+    "text": "Reflexivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-417-pt": {
     "id": "adj-417-pt",
-    "text": "Relaxante"
+    "text": "Relaxante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-418-pt": {
     "id": "adj-418-pt",
-    "text": "Repugnante"
+    "text": "Repugnante",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-419-pt": {
     "id": "adj-419-pt",
-    "text": "Resiliente"
+    "text": "Resiliente",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-420-pt": {
     "id": "adj-420-pt",
-    "text": "Respeitável"
+    "text": "Respeitável",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-421-pt": {
     "id": "adj-421-pt",
@@ -1685,47 +2741,81 @@
   },
   "adj-422-pt": {
     "id": "adj-422-pt",
-    "text": "Revigorante"
+    "text": "Revigorante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-423-pt": {
     "id": "adj-423-pt",
-    "text": "Rico"
+    "text": "Rico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-424-pt": {
     "id": "adj-424-pt",
-    "text": "Rigoroso"
+    "text": "Rigoroso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-425-pt": {
     "id": "adj-425-pt",
-    "text": "Romântico"
+    "text": "Romântico",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-426-pt": {
     "id": "adj-426-pt",
-    "text": "Rural"
+    "text": "Rural",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-427-pt": {
     "id": "adj-427-pt",
-    "text": "Sábio"
+    "text": "Sábio",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-428-pt": {
     "id": "adj-428-pt",
-    "text": "Sagaz"
+    "text": "Sagaz",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-429-pt": {
     "id": "adj-429-pt",
-    "text": "Sagrado"
+    "text": "Sagrado",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-430-pt": {
     "id": "adj-430-pt",
-    "text": "Salgado"
+    "text": "Salgado",
+    "tags": [
+      "taste"
+    ]
   },
   "adj-431-pt": {
     "id": "adj-431-pt",
-    "text": "Secreto"
+    "text": "Secreto",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-432-pt": {
     "id": "adj-432-pt",
-    "text": "Sedutor"
+    "text": "Sedutor",
+    "tags": [
+      "vibe"
+    ],
+    "nsfw": true
   },
   "adj-433-pt": {
     "id": "adj-433-pt",
@@ -1733,27 +2823,47 @@
   },
   "adj-434-pt": {
     "id": "adj-434-pt",
-    "text": "Selvagem"
+    "text": "Selvagem",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-435-pt": {
     "id": "adj-435-pt",
-    "text": "Sensato"
+    "text": "Sensato",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-436-pt": {
     "id": "adj-436-pt",
-    "text": "Sensível"
+    "text": "Sensível",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-437-pt": {
     "id": "adj-437-pt",
-    "text": "Sensual"
+    "text": "Sensual",
+    "tags": [
+      "vibe"
+    ],
+    "nsfw": true
   },
   "adj-438-pt": {
     "id": "adj-438-pt",
-    "text": "Sereno"
+    "text": "Sereno",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-439-pt": {
     "id": "adj-439-pt",
-    "text": "Sexy"
+    "text": "Sexy",
+    "tags": [
+      "vibe"
+    ],
+    "nsfw": true
   },
   "adj-440-pt": {
     "id": "adj-440-pt",
@@ -1761,7 +2871,10 @@
   },
   "adj-441-pt": {
     "id": "adj-441-pt",
-    "text": "Simpático"
+    "text": "Simpático",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-442-pt": {
     "id": "adj-442-pt",
@@ -1769,83 +2882,143 @@
   },
   "adj-443-pt": {
     "id": "adj-443-pt",
-    "text": "Sincero"
+    "text": "Sincero",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-444-pt": {
     "id": "adj-444-pt",
-    "text": "Singular"
+    "text": "Singular",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-445-pt": {
     "id": "adj-445-pt",
-    "text": "Sinistro"
+    "text": "Sinistro",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-446-pt": {
     "id": "adj-446-pt",
-    "text": "Sintético"
+    "text": "Sintético",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-447-pt": {
     "id": "adj-447-pt",
-    "text": "Soberbo"
+    "text": "Soberbo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-448-pt": {
     "id": "adj-448-pt",
-    "text": "Sóbrio"
+    "text": "Sóbrio",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-449-pt": {
     "id": "adj-449-pt",
-    "text": "Sofisticado"
+    "text": "Sofisticado",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-450-pt": {
     "id": "adj-450-pt",
-    "text": "Solidário"
+    "text": "Solidário",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-451-pt": {
     "id": "adj-451-pt",
-    "text": "Sombrio"
+    "text": "Sombrio",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-452-pt": {
     "id": "adj-452-pt",
-    "text": "Sorridente"
+    "text": "Sorridente",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-453-pt": {
     "id": "adj-453-pt",
-    "text": "Suave"
+    "text": "Suave",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-454-pt": {
     "id": "adj-454-pt",
-    "text": "Sujo"
+    "text": "Sujo",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-455-pt": {
     "id": "adj-455-pt",
-    "text": "Surpreendente"
+    "text": "Surpreendente",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-456-pt": {
     "id": "adj-456-pt",
-    "text": "Talentoso"
+    "text": "Talentoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-457-pt": {
     "id": "adj-457-pt",
-    "text": "Tempestuoso"
+    "text": "Tempestuoso",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-458-pt": {
     "id": "adj-458-pt",
-    "text": "Tenaz"
+    "text": "Tenaz",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-459-pt": {
     "id": "adj-459-pt",
-    "text": "Tenro"
+    "text": "Tenro",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-460-pt": {
     "id": "adj-460-pt",
-    "text": "Ternurento"
+    "text": "Ternurento",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-461-pt": {
     "id": "adj-461-pt",
-    "text": "Tímido"
+    "text": "Tímido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-462-pt": {
     "id": "adj-462-pt",
-    "text": "Tranquilo"
+    "text": "Tranquilo",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-463-pt": {
     "id": "adj-463-pt",
@@ -1853,27 +3026,45 @@
   },
   "adj-464-pt": {
     "id": "adj-464-pt",
-    "text": "Translúcido"
+    "text": "Translúcido",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-465-pt": {
     "id": "adj-465-pt",
-    "text": "Triunfante"
+    "text": "Triunfante",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-466-pt": {
     "id": "adj-466-pt",
-    "text": "Turbulento"
+    "text": "Turbulento",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-467-pt": {
     "id": "adj-467-pt",
-    "text": "Ultrajante"
+    "text": "Ultrajante",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-468-pt": {
     "id": "adj-468-pt",
-    "text": "Úmido"
+    "text": "Úmido",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-469-pt": {
     "id": "adj-469-pt",
-    "text": "Único"
+    "text": "Único",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-470-pt": {
     "id": "adj-470-pt",
@@ -1885,11 +3076,17 @@
   },
   "adj-472-pt": {
     "id": "adj-472-pt",
-    "text": "Valoroso"
+    "text": "Valoroso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-473-pt": {
     "id": "adj-473-pt",
-    "text": "Vasto"
+    "text": "Vasto",
+    "tags": [
+      "size"
+    ]
   },
   "adj-474-pt": {
     "id": "adj-474-pt",
@@ -1897,15 +3094,24 @@
   },
   "adj-475-pt": {
     "id": "adj-475-pt",
-    "text": "Veloz"
+    "text": "Veloz",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-476-pt": {
     "id": "adj-476-pt",
-    "text": "Vencedor"
+    "text": "Vencedor",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-477-pt": {
     "id": "adj-477-pt",
-    "text": "Ventoso"
+    "text": "Ventoso",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-478-pt": {
     "id": "adj-478-pt",
@@ -1913,23 +3119,38 @@
   },
   "adj-479-pt": {
     "id": "adj-479-pt",
-    "text": "Vibrante"
+    "text": "Vibrante",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-480-pt": {
     "id": "adj-480-pt",
-    "text": "Vigoroso"
+    "text": "Vigoroso",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-481-pt": {
     "id": "adj-481-pt",
-    "text": "Vintage"
+    "text": "Vintage",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-482-pt": {
     "id": "adj-482-pt",
-    "text": "Violento"
+    "text": "Violento",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-483-pt": {
     "id": "adj-483-pt",
-    "text": "Visionário"
+    "text": "Visionário",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-484-pt": {
     "id": "adj-484-pt",
@@ -1937,27 +3158,45 @@
   },
   "adj-485-pt": {
     "id": "adj-485-pt",
-    "text": "Vitorioso"
+    "text": "Vitorioso",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-486-pt": {
     "id": "adj-486-pt",
-    "text": "Vivaz"
+    "text": "Vivaz",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-487-pt": {
     "id": "adj-487-pt",
-    "text": "Voluntarioso"
+    "text": "Voluntarioso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-488-pt": {
     "id": "adj-488-pt",
-    "text": "Diligente"
+    "text": "Diligente",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-489-pt": {
     "id": "adj-489-pt",
-    "text": "Zelante"
+    "text": "Zelante",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-490-pt": {
     "id": "adj-490-pt",
-    "text": "Zeloso"
+    "text": "Zeloso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-491-pt": {
     "id": "adj-491-pt",
@@ -1965,35 +3204,60 @@
   },
   "adj-492-pt": {
     "id": "adj-492-pt",
-    "text": "Ziguezagueante"
+    "text": "Ziguezagueante",
+    "tags": [
+      "shape"
+    ]
   },
   "adj-493-pt": {
     "id": "adj-493-pt",
-    "text": "Zoado"
+    "text": "Zoado",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-494-pt": {
     "id": "adj-494-pt",
-    "text": "Zombador"
+    "text": "Zombador",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-495-pt": {
     "id": "adj-495-pt",
-    "text": "Zombeteiro"
+    "text": "Zombeteiro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-496-pt": {
     "id": "adj-496-pt",
-    "text": "Zoneado"
+    "text": "Zoneado",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-497-pt": {
     "id": "adj-497-pt",
-    "text": "Zonzo"
+    "text": "Zonzo",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-498-pt": {
     "id": "adj-498-pt",
-    "text": "Devasso"
+    "text": "Devasso",
+    "tags": [
+      "personality"
+    ],
+    "nsfw": true
   },
   "adj-499-pt": {
     "id": "adj-499-pt",
-    "text": "Peralta"
+    "text": "Peralta",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-500-pt": {
     "id": "adj-500-pt",
@@ -2001,47 +3265,81 @@
   },
   "adj-501-pt": {
     "id": "adj-501-pt",
-    "text": "Suculento"
+    "text": "Suculento",
+    "tags": [
+      "taste",
+      "texture"
+    ]
   },
   "adj-502-pt": {
     "id": "adj-502-pt",
-    "text": "Cringe"
+    "text": "Cringe",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-503-pt": {
     "id": "adj-503-pt",
-    "text": "Tóxico"
+    "text": "Tóxico",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-504-pt": {
     "id": "adj-504-pt",
-    "text": "Viral"
+    "text": "Viral",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-505-pt": {
     "id": "adj-505-pt",
-    "text": "Nutella"
+    "text": "Nutella",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-506-pt": {
     "id": "adj-506-pt",
-    "text": "Raiz"
+    "text": "Raiz",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-507-pt": {
     "id": "adj-507-pt",
-    "text": "Lacrador"
+    "text": "Lacrador",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-508-pt": {
     "id": "adj-508-pt",
-    "text": "Biscoiteiro"
+    "text": "Biscoiteiro",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-509-pt": {
     "id": "adj-509-pt",
-    "text": "Flopado"
+    "text": "Flopado",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-510-pt": {
     "id": "adj-510-pt",
-    "text": "Hypado"
+    "text": "Hypado",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-511-pt": {
     "id": "adj-511-pt",
-    "text": "Cancelado"
+    "text": "Cancelado",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-512-pt": {
     "id": "adj-512-pt",
@@ -2049,146 +3347,247 @@
   },
   "adj-513-pt": {
     "id": "adj-513-pt",
-    "text": "Intolerável"
+    "text": "Intolerável",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-514-pt": {
     "id": "adj-514-pt",
-    "text": "Zueiro"
+    "text": "Zueiro",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-515-pt": {
     "id": "adj-515-pt",
-    "text": "Enfurecido"
+    "text": "Enfurecido",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-516-pt": {
     "id": "adj-516-pt",
     "text": "Safado",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-517-pt": {
     "id": "adj-517-pt",
     "text": "Obcecado",
+    "tags": [
+      "emotion"
+    ],
     "nsfw": true
   },
   "adj-518-pt": {
     "id": "adj-518-pt",
     "text": "Picante",
+    "tags": [
+      "taste",
+      "vibe"
+    ],
     "nsfw": true
   },
   "adj-519-pt": {
     "id": "adj-519-pt",
     "text": "Fogoso",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-520-pt": {
     "id": "adj-520-pt",
     "text": "Pervertido",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-521-pt": {
     "id": "adj-521-pt",
-    "text": "Ardiloso"
+    "text": "Ardiloso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-522-pt": {
     "id": "adj-522-pt",
     "text": "Provocador",
+    "tags": [
+      "vibe"
+    ],
     "nsfw": true
   },
   "adj-523-pt": {
     "id": "adj-523-pt",
     "text": "Libertino",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-524-pt": {
     "id": "adj-524-pt",
     "text": "Fervente",
+    "tags": [
+      "temperature"
+    ],
     "nsfw": true
   },
   "adj-525-pt": {
     "id": "adj-525-pt",
     "text": "Espreitador",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-526-pt": {
     "id": "adj-526-pt",
     "text": "Sedento",
+    "tags": [
+      "slang"
+    ],
     "nsfw": true
   },
   "adj-527-pt": {
     "id": "adj-527-pt",
     "text": "Submisso",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-528-pt": {
     "id": "adj-528-pt",
-    "text": "Folgado"
+    "text": "Folgado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-529-pt": {
     "id": "adj-529-pt",
-    "text": "Metido"
+    "text": "Metido",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-530-pt": {
     "id": "adj-530-pt",
-    "text": "Barraqueiro"
+    "text": "Barraqueiro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-531-pt": {
     "id": "adj-531-pt",
-    "text": "Mão-de-vaca"
+    "text": "Mão-de-vaca",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-532-pt": {
     "id": "adj-532-pt",
-    "text": "Fofoqueiro"
+    "text": "Fofoqueiro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-533-pt": {
     "id": "adj-533-pt",
-    "text": "Falso"
+    "text": "Falso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-534-pt": {
     "id": "adj-534-pt",
-    "text": "Cabuloso"
+    "text": "Cabuloso",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-535-pt": {
     "id": "adj-535-pt",
-    "text": "Viscoso"
+    "text": "Viscoso",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-536-pt": {
     "id": "adj-536-pt",
-    "text": "Fétido"
+    "text": "Fétido",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-537-pt": {
     "id": "adj-537-pt",
-    "text": "Aveludado"
+    "text": "Aveludado",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-538-pt": {
     "id": "adj-538-pt",
-    "text": "Cremoso"
+    "text": "Cremoso",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-539-pt": {
     "id": "adj-539-pt",
-    "text": "Áspero"
+    "text": "Áspero",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-540-pt": {
     "id": "adj-540-pt",
-    "text": "Pungente"
+    "text": "Pungente",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-541-pt": {
     "id": "adj-541-pt",
-    "text": "Iridescente"
+    "text": "Iridescente",
+    "tags": [
+      "sensory"
+    ]
   },
   "adj-542-pt": {
     "id": "adj-542-pt",
-    "text": "Borrachudo"
+    "text": "Borrachudo",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-543-pt": {
     "id": "adj-543-pt",
-    "text": "Râncido"
+    "text": "Râncido",
+    "tags": [
+      "sensory",
+      "taste"
+    ]
   },
   "adj-544-pt": {
     "id": "adj-544-pt",
-    "text": "Falido"
+    "text": "Falido",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-545-pt": {
     "id": "adj-545-pt",
-    "text": "Milionário"
+    "text": "Milionário",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-546-pt": {
     "id": "adj-546-pt",
@@ -2196,23 +3595,38 @@
   },
   "adj-547-pt": {
     "id": "adj-547-pt",
-    "text": "Prepotente"
+    "text": "Prepotente",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-548-pt": {
     "id": "adj-548-pt",
-    "text": "Elitista"
+    "text": "Elitista",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-549-pt": {
     "id": "adj-549-pt",
-    "text": "Caro"
+    "text": "Caro",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-550-pt": {
     "id": "adj-550-pt",
-    "text": "Escuso"
+    "text": "Escuso",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-551-pt": {
     "id": "adj-551-pt",
-    "text": "Corporativo"
+    "text": "Corporativo",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-552-pt": {
     "id": "adj-552-pt",
@@ -2220,174 +3634,294 @@
   },
   "adj-553-pt": {
     "id": "adj-553-pt",
-    "text": "Corrupto"
+    "text": "Corrupto",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-554-pt": {
     "id": "adj-554-pt",
-    "text": "Desavergonhado"
+    "text": "Desavergonhado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-555-pt": {
     "id": "adj-555-pt",
-    "text": "Estéril"
+    "text": "Estéril",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-556-pt": {
     "id": "adj-556-pt",
-    "text": "Mofado"
+    "text": "Mofado",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-557-pt": {
     "id": "adj-557-pt",
-    "text": "Sedoso"
+    "text": "Sedoso",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-558-pt": {
     "id": "adj-558-pt",
-    "text": "Grudento"
+    "text": "Grudento",
+    "tags": [
+      "texture"
+    ]
   },
   "adj-559-pt": {
     "id": "adj-559-pt",
-    "text": "Escaldante"
+    "text": "Escaldante",
+    "tags": [
+      "temperature"
+    ]
   },
   "adj-560-pt": {
     "id": "adj-560-pt",
-    "text": "Encardido"
+    "text": "Encardido",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-561-pt": {
     "id": "adj-561-pt",
-    "text": "Impecável"
+    "text": "Impecável",
+    "tags": [
+      "condition"
+    ]
   },
   "adj-562-pt": {
     "id": "adj-562-pt",
-    "text": "Tosco"
+    "text": "Tosco",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-563-pt": {
     "id": "adj-563-pt",
-    "text": "Cafona"
+    "text": "Cafona",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-564-pt": {
     "id": "adj-564-pt",
-    "text": "Brega"
+    "text": "Brega",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-565-pt": {
     "id": "adj-565-pt",
-    "text": "Chique"
+    "text": "Chique",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-566-pt": {
     "id": "adj-566-pt",
-    "text": "Requintado"
+    "text": "Requintado",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-567-pt": {
     "id": "adj-567-pt",
-    "text": "Ordinário"
+    "text": "Ordinário",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-568-pt": {
     "id": "adj-568-pt",
     "text": "Baixo",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-569-pt": {
     "id": "adj-569-pt",
-    "text": "Pilantra"
+    "text": "Pilantra",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-570-pt": {
     "id": "adj-570-pt",
     "text": "Sem-vergonha",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-571-pt": {
     "id": "adj-571-pt",
-    "text": "Cara-de-pau"
+    "text": "Cara-de-pau",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-572-pt": {
     "id": "adj-572-pt",
-    "text": "Abusado"
+    "text": "Abusado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-573-pt": {
     "id": "adj-573-pt",
-    "text": "Petulante"
+    "text": "Petulante",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-574-pt": {
     "id": "adj-574-pt",
-    "text": "Mimado"
+    "text": "Mimado",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-575-pt": {
     "id": "adj-575-pt",
-    "text": "Insuportável"
+    "text": "Insuportável",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-576-pt": {
     "id": "adj-576-pt",
-    "text": "Arrebatador"
+    "text": "Arrebatador",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-577-pt": {
     "id": "adj-577-pt",
-    "text": "Inesquecível"
+    "text": "Inesquecível",
+    "tags": [
+      "vibe"
+    ]
   },
   "adj-578-pt": {
     "id": "adj-578-pt",
-    "text": "Invejoso"
+    "text": "Invejoso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-579-pt": {
     "id": "adj-579-pt",
-    "text": "Ciumento"
+    "text": "Ciumento",
+    "tags": [
+      "emotion"
+    ]
   },
   "adj-580-pt": {
     "id": "adj-580-pt",
-    "text": "Possessivo"
+    "text": "Possessivo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-581-pt": {
     "id": "adj-581-pt",
-    "text": "Rancoroso"
+    "text": "Rancoroso",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-582-pt": {
     "id": "adj-582-pt",
-    "text": "Vingativo"
+    "text": "Vingativo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-583-pt": {
     "id": "adj-583-pt",
     "text": "Sádico",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-584-pt": {
     "id": "adj-584-pt",
     "text": "Masoquista",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-585-pt": {
     "id": "adj-585-pt",
     "text": "Fetichista",
+    "tags": [
+      "vibe"
+    ],
     "nsfw": true
   },
   "adj-586-pt": {
     "id": "adj-586-pt",
     "text": "Exibicionista",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-587-pt": {
     "id": "adj-587-pt",
     "text": "Voluptuoso",
+    "tags": [
+      "vibe"
+    ],
     "nsfw": true
   },
   "adj-588-pt": {
     "id": "adj-588-pt",
     "text": "Impotente",
+    "tags": [
+      "condition"
+    ],
     "nsfw": true
   },
   "adj-589-pt": {
     "id": "adj-589-pt",
     "text": "Atraente",
+    "tags": [
+      "vibe"
+    ],
     "nsfw": true
   },
   "adj-590-pt": {
     "id": "adj-590-pt",
     "text": "Lascivo",
+    "tags": [
+      "vibe"
+    ],
     "nsfw": true
   },
   "adj-591-pt": {
     "id": "adj-591-pt",
     "text": "Assanhado",
+    "tags": [
+      "personality"
+    ],
     "nsfw": true
   },
   "adj-592-pt": {
     "id": "adj-592-pt",
-    "text": "Encalhado"
+    "text": "Encalhado",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-593-pt": {
     "id": "adj-593-pt",
@@ -2395,30 +3929,402 @@
   },
   "adj-594-pt": {
     "id": "adj-594-pt",
-    "text": "Conquistador"
+    "text": "Conquistador",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-595-pt": {
     "id": "adj-595-pt",
-    "text": "Namorador"
+    "text": "Namorador",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-596-pt": {
     "id": "adj-596-pt",
-    "text": "Linguarudo"
+    "text": "Linguarudo",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-597-pt": {
     "id": "adj-597-pt",
-    "text": "Bisbilhoteiro"
+    "text": "Bisbilhoteiro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-598-pt": {
     "id": "adj-598-pt",
-    "text": "Mexeriqueiro"
+    "text": "Mexeriqueiro",
+    "tags": [
+      "personality"
+    ]
   },
   "adj-599-pt": {
     "id": "adj-599-pt",
-    "text": "Mito"
+    "text": "Mito",
+    "tags": [
+      "slang"
+    ]
   },
   "adj-600-pt": {
     "id": "adj-600-pt",
-    "text": "Zicado"
+    "text": "Zicado",
+    "tags": [
+      "slang"
+    ]
+  },
+  "adj-601-pt": {
+    "id": "adj-601-pt",
+    "text": "Vítreo",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-602-pt": {
+    "id": "adj-602-pt",
+    "text": "Microscópico",
+    "tags": [
+      "size"
+    ]
+  },
+  "adj-603-pt": {
+    "id": "adj-603-pt",
+    "text": "Poroso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-604-pt": {
+    "id": "adj-604-pt",
+    "text": "Espiralado",
+    "tags": [
+      "shape"
+    ]
+  },
+  "adj-605-pt": {
+    "id": "adj-605-pt",
+    "text": "Lustroso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-606-pt": {
+    "id": "adj-606-pt",
+    "text": "Miniatura",
+    "tags": [
+      "size"
+    ]
+  },
+  "adj-607-pt": {
+    "id": "adj-607-pt",
+    "text": "Oxidado",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-608-pt": {
+    "id": "adj-608-pt",
+    "text": "Arejado",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-609-pt": {
+    "id": "adj-609-pt",
+    "text": "Espumoso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-610-pt": {
+    "id": "adj-610-pt",
+    "text": "Escorregadio",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-611-pt": {
+    "id": "adj-611-pt",
+    "text": "Impermeável",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-612-pt": {
+    "id": "adj-612-pt",
+    "text": "Ajustável",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-613-pt": {
+    "id": "adj-613-pt",
+    "text": "Personalizável",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-614-pt": {
+    "id": "adj-614-pt",
+    "text": "Fluorescente",
+    "tags": [
+      "sensory"
+    ]
+  },
+  "adj-615-pt": {
+    "id": "adj-615-pt",
+    "text": "Crostoso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-616-pt": {
+    "id": "adj-616-pt",
+    "text": "Grosseiro",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-617-pt": {
+    "id": "adj-617-pt",
+    "text": "Torto",
+    "tags": [
+      "shape"
+    ]
+  },
+  "adj-618-pt": {
+    "id": "adj-618-pt",
+    "text": "Fervente",
+    "tags": [
+      "temperature"
+    ]
+  },
+  "adj-619-pt": {
+    "id": "adj-619-pt",
+    "text": "Impecável",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-620-pt": {
+    "id": "adj-620-pt",
+    "text": "Transparente",
+    "tags": [
+      "sensory"
+    ]
+  },
+  "adj-621-pt": {
+    "id": "adj-621-pt",
+    "text": "Colossal",
+    "tags": [
+      "size"
+    ]
+  },
+  "adj-622-pt": {
+    "id": "adj-622-pt",
+    "text": "Gelatinoso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-623-pt": {
+    "id": "adj-623-pt",
+    "text": "Espinhoso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-624-pt": {
+    "id": "adj-624-pt",
+    "text": "Emplumado",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-625-pt": {
+    "id": "adj-625-pt",
+    "text": "Couraçado",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-626-pt": {
+    "id": "adj-626-pt",
+    "text": "Amadeirado",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-627-pt": {
+    "id": "adj-627-pt",
+    "text": "Enferrujado",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-628-pt": {
+    "id": "adj-628-pt",
+    "text": "Cegante",
+    "tags": [
+      "sensory"
+    ]
+  },
+  "adj-629-pt": {
+    "id": "adj-629-pt",
+    "text": "Oco",
+    "tags": [
+      "shape"
+    ]
+  },
+  "adj-630-pt": {
+    "id": "adj-630-pt",
+    "text": "Esférico",
+    "tags": [
+      "shape"
+    ]
+  },
+  "adj-631-pt": {
+    "id": "adj-631-pt",
+    "text": "Serrilhado",
+    "tags": [
+      "shape"
+    ]
+  },
+  "adj-632-pt": {
+    "id": "adj-632-pt",
+    "text": "Cilíndrico",
+    "tags": [
+      "shape"
+    ]
+  },
+  "adj-633-pt": {
+    "id": "adj-633-pt",
+    "text": "Aerodinâmico",
+    "tags": [
+      "shape"
+    ]
+  },
+  "adj-634-pt": {
+    "id": "adj-634-pt",
+    "text": "Fosforescente",
+    "tags": [
+      "sensory"
+    ]
+  },
+  "adj-635-pt": {
+    "id": "adj-635-pt",
+    "text": "Fumegante",
+    "tags": [
+      "temperature"
+    ]
+  },
+  "adj-636-pt": {
+    "id": "adj-636-pt",
+    "text": "Gomoso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-637-pt": {
+    "id": "adj-637-pt",
+    "text": "Escamoso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-638-pt": {
+    "id": "adj-638-pt",
+    "text": "Pontiagudo",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-639-pt": {
+    "id": "adj-639-pt",
+    "text": "Quebradiço",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-640-pt": {
+    "id": "adj-640-pt",
+    "text": "Esfarelado",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-641-pt": {
+    "id": "adj-641-pt",
+    "text": "Derretido",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-642-pt": {
+    "id": "adj-642-pt",
+    "text": "Magnético",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-643-pt": {
+    "id": "adj-643-pt",
+    "text": "Elástico",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-644-pt": {
+    "id": "adj-644-pt",
+    "text": "Pelugento",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-645-pt": {
+    "id": "adj-645-pt",
+    "text": "Volumoso",
+    "tags": [
+      "size"
+    ]
+  },
+  "adj-646-pt": {
+    "id": "adj-646-pt",
+    "text": "Gorduroso",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-647-pt": {
+    "id": "adj-647-pt",
+    "text": "Granulado",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-648-pt": {
+    "id": "adj-648-pt",
+    "text": "Besuntado",
+    "tags": [
+      "texture"
+    ]
+  },
+  "adj-649-pt": {
+    "id": "adj-649-pt",
+    "text": "Podre",
+    "tags": [
+      "condition"
+    ]
+  },
+  "adj-650-pt": {
+    "id": "adj-650-pt",
+    "text": "Fervilhante",
+    "tags": [
+      "temperature",
+      "sensory"
+    ]
   }
 }

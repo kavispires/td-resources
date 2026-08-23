@@ -1,6 +1,6 @@
 // ==========================================
 // TDR TYPES
-// Version: 2.2.0
+// Version: 2.3.0
 // ==========================================
 
 // ==========================================
@@ -59,6 +59,26 @@ export type TextCardData = {
    */
   private?: boolean;
 };
+
+export interface AdjectiveData {
+  /**
+   * Unique identifier for the card
+   */
+  id: string;
+  /**
+   * The adjective text
+   */
+  text: string;
+  /**
+   * Flag indicating if it's nsfw
+   */
+  nsfw?: boolean;
+  /**
+   * The list of tags associated with the adjective. Examples:
+   * 'condition' | 'emotion' | 'personality' | 'sensory' | 'shape' | 'size' | 'slang' | 'taste' | 'temperature' | 'texture' | 'vibe'
+   **/
+  tags?: string[];
+}
 
 /**
  * Arte Ruim Card
@@ -953,7 +973,7 @@ export type ItemGroupData = {
  * Theme Item Group
  * More specific collections of items based on a theme (e.g. Mammals in the Jungle)
  */
-export interface ThemeItemGroup {
+export interface ThemeItemGroupData {
   /**
    * Unique identifier for the group
    */
