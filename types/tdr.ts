@@ -1169,6 +1169,20 @@ export type DailyDiagramItemData = {
   updatedAt: DateMilliseconds;
 };
 
+/**
+ * Represents the historical events for a specific year.
+ */
+export interface DailyHistoryYearEvents {
+  /**
+   * The year for which the historical events are listed.
+   */
+  year: number;
+  /**
+   * The list of historical events for the year with their respective categories and descriptions.
+   */
+  events: { category: string; text: string }[];
+}
+
 // ==========================================
 // AGGREGATED DATA TYPES
 // ==========================================
