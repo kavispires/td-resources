@@ -1,0 +1,59 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.5.15/schema.json",
+  "assist": {
+    "actions": {
+      "source": {
+        "organizeImports": "off",
+        "useSortedKeys": "off"
+      }
+    }
+  },
+  "files": {
+    "ignoreUnknown": true
+  },
+  "formatter": {
+    "bracketSpacing": true,
+    "enabled": true,
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineEnding": "lf",
+    "lineWidth": 110
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "single"
+    }
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "correctness": {
+        "noUnusedImports": "warn",
+        "noUnusedVariables": "warn"
+      },
+      "preset": "recommended",
+      "style": {
+        "noInferrableTypes": "error",
+        "noParameterAssign": "warn",
+        "noUnusedTemplateLiteral": "error",
+        "noUselessElse": "error",
+        "useAsConstAssertion": "warn",
+        "useDefaultParameterLast": "error",
+        "useEnumInitializers": "error",
+        "useNumberNamespace": "error",
+        "useSingleVarDeclarator": "error"
+      },
+      "suspicious": {
+        "noConsole": "warn",
+        "noDeprecatedImports": "error",
+        "noDuplicateDependencies": "warn",
+        "noExplicitAny": "warn"
+      }
+    }
+  },
+  "vcs": {
+    "clientKind": "git",
+    "enabled": true,
+    "useIgnoreFile": true
+  }
+}

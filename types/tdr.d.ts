@@ -1180,7 +1180,16 @@ export interface DailyHistoryYearEvents {
   /**
    * The list of historical events for the year with their respective categories and descriptions.
    */
-  events: { category: string; text: string }[];
+  events: {
+    /**
+     * The text describing the historical event.
+     */
+    text: string;
+    /**
+     * The category of the historical event.
+     */
+    category: 'brasil' | 'curiosidade' | 'esportes' | 'mundo' | 'pop' | 'tecnologia';
+  }[];
 }
 
 // ==========================================
@@ -1376,7 +1385,14 @@ export type SuspectCardData = {
   /**
    * The gender of the suspect
    */
-  gender: 'male' | 'female' | 'transgender' | 'none' | 'non-binary' | 'fluid' | (string & NonNullable<unknown>);
+  gender:
+    | 'male'
+    | 'female'
+    | 'transgender'
+    | 'none'
+    | 'non-binary'
+    | 'fluid'
+    | (string & NonNullable<unknown>);
   /**
    * The race of the suspect
    */
@@ -1415,7 +1431,7 @@ export type SuspectCardData = {
    * List of features in the suspect image (gb style as reference point)
    */
   features: string[];
-    /**
+  /**
    * Packed coordinates for dynamic name placement on the Polaroid.
    * Format: <y>|<angle>|<size> (separated by a pipe).
    * @example "85|-2|0.8"
