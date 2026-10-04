@@ -1172,7 +1172,7 @@ export type DailyDiagramItemData = {
 /**
  * Represents the historical events for a specific year.
  */
-export interface DailyHistoryYearEvents {
+export interface DailyHistoryYearEventsData {
   /**
    * The year for which the historical events are listed.
    */
@@ -1191,6 +1191,36 @@ export interface DailyHistoryYearEvents {
     category: 'brasil' | 'curiosidade' | 'esportes' | 'mundo' | 'pop' | 'tecnologia';
   }[];
 }
+
+/**
+ * Represents a quote from a song lyric, including details about the song and its content.
+ */
+type SongLyricQuoteData = {
+    /**
+     * The unique identifier for the song lyric quote.
+     */
+    id: string;
+    /**
+     * The artist of the song.
+     */
+    artist: string;
+    /**
+     * The title of the song.
+     */
+    title: string;
+    /**
+     * The lyric of the song.
+     */
+    lyric: string;
+    /**
+     * If the song is not in Brazilian portuguese, indicate the language of the song.
+     */
+    internationalization?: 'en' | 'es' | string;
+    /**
+     * Indicates whether the song lyric quote contains content that is not safe for work (NSFW).
+     */
+    nsfw?: boolean;
+};
 
 // ==========================================
 // AGGREGATED DATA TYPES
