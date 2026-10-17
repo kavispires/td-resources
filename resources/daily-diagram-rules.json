@@ -606,5 +606,61 @@
 		"type": "repetition",
 		"method": "auto",
 		"updatedAt": 1771635875412
+	},
+	"ddr-77-pt": {
+		"id": "ddr-77-pt",
+		"title": "começa e termina com a mesma letra",
+		"level": 3,
+		"type": "comparison",
+		"method": "auto",
+		"updatedAt": 1792264145184
+	},
+	"ddr-78-pt": {
+		"id": "ddr-78-pt",
+		"title": "alterna perfeitamente entre consoante e vogal",
+		"level": 3,
+		"type": "order",
+		"method": "auto",
+		"updatedAt": 1792264145184
+	},
+	"ddr-79-pt": {
+		"id": "ddr-79-pt",
+		"title": "é um palíndromo",
+		"level": 2,
+		"type": "order",
+		"method": "auto",
+		"updatedAt": 1792264145184
+	},
+	"ddr-80-pt": {
+		"id": "ddr-80-pt",
+		"title": "tem todas as 5 vogais",
+		"level": 3,
+		"type": "contains",
+		"method": "auto",
+		"updatedAt": 1792264145184
+	},
+	"ddr-81-pt": {
+		"id": "ddr-81-pt",
+		"title": "tem vogais duplas consecutivas (ex: \"EE\", \"OO\")",
+		"level": 2,
+		"type": "order",
+		"method": "auto",
+		"updatedAt": 1792264145184
+	},
+	"ddr-82-pt": {
+		"id": "ddr-82-pt",
+		"title": "começa e termina com vogal",
+		"level": 3,
+		"type": "comparison",
+		"method": "auto",
+		"updatedAt": 1792264145184
+	},
+	"ddr-83-pt": {
+		"id": "ddr-83-pt",
+		"title": "começa e termina com consoante",
+		"level": 3,
+		"type": "comparison",
+		"method": "auto",
+		"updatedAt": 1792264145184
 	}
 }
