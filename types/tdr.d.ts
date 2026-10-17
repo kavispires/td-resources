@@ -1195,7 +1195,7 @@ export interface DailyHistoryYearEventsData {
 /**
  * Represents a quote from a song lyric, including details about the song and its content.
  */
-type SongLyricQuoteData = {
+export type SongLyricQuoteData = {
     /**
      * The unique identifier for the song lyric quote.
      */
