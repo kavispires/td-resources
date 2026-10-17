@@ -1,6 +1,6 @@
 // ==========================================
 // TDR TYPES
-// Version: 2.3.0
+// Version: 2.3.2
 // ==========================================
 
 // ==========================================
@@ -1196,30 +1196,30 @@ export interface DailyHistoryYearEventsData {
  * Represents a quote from a song lyric, including details about the song and its content.
  */
 export type SongLyricQuoteData = {
-    /**
-     * The unique identifier for the song lyric quote.
-     */
-    id: string;
-    /**
-     * The artist of the song.
-     */
-    artist: string;
-    /**
-     * The title of the song.
-     */
-    title: string;
-    /**
-     * The lyric of the song.
-     */
-    lyric: string;
-    /**
-     * If the song is not in Brazilian portuguese, indicate the language of the song.
-     */
-    internationalization?: 'en' | 'es' | string;
-    /**
-     * Indicates whether the song lyric quote contains content that is not safe for work (NSFW).
-     */
-    nsfw?: boolean;
+  /**
+   * The unique identifier for the song lyric quote.
+   */
+  id: string;
+  /**
+   * The artist of the song.
+   */
+  artist: string;
+  /**
+   * The title of the song.
+   */
+  title: string;
+  /**
+   * The lyric of the song.
+   */
+  lyric: string;
+  /**
+   * If the song is not in Brazilian portuguese, indicate the language of the song.
+   */
+  internationalization?: 'en' | 'es' | string;
+  /**
+   * Indicates whether the song lyric quote contains content that is not safe for work (NSFW).
+   */
+  nsfw?: boolean;
 };
 
 // ==========================================
